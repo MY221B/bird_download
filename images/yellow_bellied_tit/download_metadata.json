@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "yellow_bellied_tit_623704505.jpg",
+      "asset_id": "623704505",
+      "asset_url": "https://macaulaylibrary.org/asset/623704505"
+    },
+    {
+      "filename": "yellow_bellied_tit_188063081.jpg",
+      "asset_id": "188063081",
+      "asset_url": "https://macaulaylibrary.org/asset/188063081"
+    },
+    {
+      "filename": "yellow_bellied_tit_423288331.jpg",
+      "asset_id": "423288331",
+      "asset_url": "https://macaulaylibrary.org/asset/423288331"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "yellow_bellied_tit_1.jpg",
+      "observation_id": 259035308,
+      "photo_id": 464899963,
+      "observation_url": "https://www.inaturalist.org/observations/259035308",
+      "photographer": "night-heron",
+      "license": "cc-by-nc",
+      "credit_format": "© night-heron (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "yellow_bellied_tit_2.jpg",
+      "observation_id": 151171595,
+      "photo_id": 260793192,
+      "observation_url": "https://www.inaturalist.org/observations/151171595",
+      "photographer": "skystargazer",
+      "license": "cc-by-nc",
+      "credit_format": "© skystargazer (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "yellow_bellied_tit_3.jpg",
+      "observation_id": 68632750,
+      "photo_id": 111185300,
+      "observation_url": "https://www.inaturalist.org/observations/68632750",
+      "photographer": "baobao233",
+      "license": "cc-by-nc",
+      "credit_format": "© baobao233 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_31180714756_8f50944b4e_b.jpg",
+      "flickr_photo_id": "31180714756",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=31180714756",
+      "source_url": "https://live.staticflickr.com/5331/31180714756_8f50944b4e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54496800933_2e4f7f8bb0_b.jpg",
+      "flickr_photo_id": "54496800933",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54496800933",
+      "source_url": "https://live.staticflickr.com/65535/54496800933_2e4f7f8bb0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_30849132920_6864bff4d2_b.jpg",
+      "flickr_photo_id": "30849132920",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=30849132920",
+      "source_url": "https://live.staticflickr.com/5601/30849132920_6864bff4d2_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

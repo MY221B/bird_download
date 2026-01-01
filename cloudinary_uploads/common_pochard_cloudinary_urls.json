@@ -1,0 +1,93 @@
+{
+  "bird_info": {
+    "slug": "common_pochard",
+    "chinese_name": "红头潜鸭",
+    "english_name": "Common Pochard",
+    "scientific_name": "Aythya ferina"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_pochard_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762355946/bird-gallery/common_pochard/inaturalist/common_pochard_1.jpg",
+      "public_id": "bird-gallery/common_pochard/inaturalist/common_pochard_1",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 91243,
+      "attribution": {
+        "photographer": "a_rover",
+        "photographer_url": "https://www.inaturalist.org/observations/268933570",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© a_rover (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 268933570,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_pochard_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762355952/bird-gallery/common_pochard/inaturalist/common_pochard_2.jpg",
+      "public_id": "bird-gallery/common_pochard/inaturalist/common_pochard_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 42553,
+      "attribution": {
+        "photographer": "edo_zamboni",
+        "photographer_url": "https://www.inaturalist.org/observations/110024382",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© edo_zamboni (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 110024382,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_pochard_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762355955/bird-gallery/common_pochard/inaturalist/common_pochard_3.jpg",
+      "public_id": "bird-gallery/common_pochard/inaturalist/common_pochard_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 88511,
+      "attribution": {
+        "photographer": "diegodgd",
+        "photographer_url": "https://www.inaturalist.org/observations/258409638",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© diegodgd (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 258409638,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "common_pochard_62513831.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321445/bird-gallery/common_pochard/sounds/common_pochard_62513831.mp3",
+      "public_id": "bird-gallery/common_pochard/sounds/common_pochard_62513831",
+      "duration": 32.184,
+      "format": "mp3",
+      "bytes": 815468,
+      "bit_rate": 202701,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "62513831",
+        "asset_url": "https://macaulaylibrary.org/asset/62513831",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

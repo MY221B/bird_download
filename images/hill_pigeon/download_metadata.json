@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "hill_pigeon_623663063.jpg",
+      "asset_id": "623663063",
+      "asset_url": "https://macaulaylibrary.org/asset/623663063"
+    },
+    {
+      "filename": "hill_pigeon_226619261.jpg",
+      "asset_id": "226619261",
+      "asset_url": "https://macaulaylibrary.org/asset/226619261"
+    },
+    {
+      "filename": "hill_pigeon_491421141.jpg",
+      "asset_id": "491421141",
+      "asset_url": "https://macaulaylibrary.org/asset/491421141"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "hill_pigeon_1.jpg",
+      "observation_id": 72618157,
+      "photo_id": 118428592,
+      "observation_url": "https://www.inaturalist.org/observations/72618157",
+      "photographer": "siburhan",
+      "license": "cc-by",
+      "credit_format": "© siburhan (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "hill_pigeon_2.jpg",
+      "observation_id": 229016581,
+      "photo_id": 406465737,
+      "observation_url": "https://www.inaturalist.org/observations/229016581",
+      "photographer": "durubird",
+      "license": "all-rights-reserved",
+      "credit_format": "© durubird (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "hill_pigeon_3.jpg",
+      "observation_id": 219976553,
+      "photo_id": 389404002,
+      "observation_url": "https://www.inaturalist.org/observations/219976553",
+      "photographer": "naturalist23338",
+      "license": "all-rights-reserved",
+      "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52636596510_61275fab12_b.jpg",
+      "flickr_photo_id": "52636596510",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52636596510",
+      "source_url": "https://live.staticflickr.com/65535/52636596510_61275fab12_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_53817796101_cc6944a207_b.jpg",
+      "flickr_photo_id": "53817796101",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53817796101",
+      "source_url": "https://live.staticflickr.com/65535/53817796101_cc6944a207_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_9966047735_838cce8df1_b.jpg",
+      "flickr_photo_id": "9966047735",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=9966047735",
+      "source_url": "https://live.staticflickr.com/3738/9966047735_838cce8df1_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

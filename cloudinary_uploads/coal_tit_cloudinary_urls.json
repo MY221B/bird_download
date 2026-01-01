@@ -1,0 +1,152 @@
+{
+  "bird_info": {
+    "slug": "coal_tit",
+    "chinese_name": "煤山雀",
+    "english_name": "Coal Tit",
+    "scientific_name": "Periparus ater"
+  },
+  "macaulay": [
+    {
+      "original_file": "coal_tit_545777251.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717007/bird-gallery/coal_tit/macaulay/coal_tit_545777251.jpg",
+      "public_id": "bird-gallery/coal_tit/macaulay/coal_tit_545777251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57675,
+      "attribution": {
+        "photographer": "Łukasz Haluch",
+        "photographer_url": "https://macaulaylibrary.org/asset/545777251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Łukasz Haluch; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "545777251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "coal_tit_84730861.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717014/bird-gallery/coal_tit/macaulay/coal_tit_84730861.jpg",
+      "public_id": "bird-gallery/coal_tit/macaulay/coal_tit_84730861",
+      "width": 1200,
+      "height": 741,
+      "format": "jpg",
+      "bytes": 72918,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/84730861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "84730861",
+        "note": null
+      }
+    },
+    {
+      "original_file": "coal_tit_84730871.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717021/bird-gallery/coal_tit/macaulay/coal_tit_84730871.jpg",
+      "public_id": "bird-gallery/coal_tit/macaulay/coal_tit_84730871",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 57515,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/84730871",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "84730871",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "coal_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717039/bird-gallery/coal_tit/inaturalist/coal_tit_3.jpg",
+      "public_id": "bird-gallery/coal_tit/inaturalist/coal_tit_3",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 56359,
+      "attribution": {
+        "photographer": "igorderevskov",
+        "photographer_url": "https://www.inaturalist.org/observations/197392522",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© igorderevskov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197392522,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49736094647_5038254422_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717044/bird-gallery/coal_tit/avibase/avibase_1_49736094647_5038254422_b.jpg",
+      "public_id": "bird-gallery/coal_tit/avibase/avibase_1_49736094647_5038254422_b",
+      "width": 1024,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 52101,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49736094647",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_40529357482_712bb23403_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717046/bird-gallery/coal_tit/avibase/avibase_2_40529357482_712bb23403_b.jpg",
+      "public_id": "bird-gallery/coal_tit/avibase/avibase_2_40529357482_712bb23403_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 67957,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40529357482",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "coal_tit_168684011.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764849954/bird-gallery/coal_tit/sounds/coal_tit_168684011.mp3",
+      "public_id": "bird-gallery/coal_tit/sounds/coal_tit_168684011",
+      "duration": 53.664,
+      "format": "mp3",
+      "bytes": 1271084,
+      "bit_rate": 189487,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "168684011",
+        "asset_url": "https://macaulaylibrary.org/asset/168684011",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

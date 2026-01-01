@@ -1,0 +1,28 @@
+# 示例：从中国观鸟记录中心复制的鸟类列表
+# 支持多种格式
+
+# 格式1：序号 + 中文名 + 学名
+1. 红胁蓝尾鸲 Tarsiger cyanurus
+2. 沼泽山雀 Poecile palustris
+3. 锡嘴雀 Coccothraustes coccothraustes
+
+# 格式2：中文名（学名）
+红胁蓝尾鸲（Tarsiger cyanurus）
+沼泽山雀（Poecile palustris）
+锡嘴雀（Coccothraustes coccothraustes）
+
+# 格式3：中文名 - 学名
+红胁蓝尾鸲 - Tarsiger cyanurus
+沼泽山雀 - Poecile palustris
+锡嘴雀 - Coccothraustes coccothraustes
+
+# 格式4：tab分隔或多个空格
+红胁蓝尾鸲	Tarsiger cyanurus
+沼泽山雀  Poecile palustris
+锡嘴雀    Coccothraustes coccothraustes
+
+# 格式5：只有中文名（学名在后面）
+红胁蓝尾鸲 Tarsiger cyanurus 记录3次
+沼泽山雀 Poecile palustris 2025-10-25
+锡嘴雀 Coccothraustes coccothraustes 北京 奥森
+

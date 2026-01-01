@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "japanese_grosbeak_294782081.jpg",
+      "asset_id": "294782081",
+      "asset_url": "https://macaulaylibrary.org/asset/294782081"
+    },
+    {
+      "filename": "japanese_grosbeak_312620581.jpg",
+      "asset_id": "312620581",
+      "asset_url": "https://macaulaylibrary.org/asset/312620581"
+    },
+    {
+      "filename": "japanese_grosbeak_625108428.jpg",
+      "asset_id": "625108428",
+      "asset_url": "https://macaulaylibrary.org/asset/625108428"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "japanese_grosbeak_1.jpg",
+      "observation_id": 239985031,
+      "photo_id": 427497658,
+      "observation_url": "https://www.inaturalist.org/observations/239985031",
+      "photographer": "chaangnoy",
+      "license": "cc-by-nc",
+      "credit_format": "© chaangnoy (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "japanese_grosbeak_2.jpg",
+      "observation_id": 191986189,
+      "photo_id": 336934401,
+      "observation_url": "https://www.inaturalist.org/observations/191986189",
+      "photographer": "s_chere",
+      "license": "cc-by-nc",
+      "credit_format": "© s_chere (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "japanese_grosbeak_3.jpg",
+      "observation_id": 169989785,
+      "photo_id": 294767730,
+      "observation_url": "https://www.inaturalist.org/observations/169989785",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49339233412_3fe5e99622_b.jpg",
+      "flickr_photo_id": "49339233412",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49339233412",
+      "source_url": "https://live.staticflickr.com/65535/49339233412_3fe5e99622_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_49339232082_6d3c7163ac_b.jpg",
+      "flickr_photo_id": "49339232082",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49339232082",
+      "source_url": "https://live.staticflickr.com/65535/49339232082_6d3c7163ac_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_49339012286_b1d54d49ce_b.jpg",
+      "flickr_photo_id": "49339012286",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49339012286",
+      "source_url": "https://live.staticflickr.com/65535/49339012286_b1d54d49ce_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

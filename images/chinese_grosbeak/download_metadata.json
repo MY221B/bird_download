@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "chinese_grosbeak_1.jpg",
+      "observation_id": 106663221,
+      "photo_id": 179230143,
+      "observation_url": "https://www.inaturalist.org/observations/106663221",
+      "photographer": "stephenmatthews",
+      "license": "cc0",
+      "credit_format": "\u00a9 stephenmatthews (via iNaturalist), some rights reserved (CC0)"
+    },
+    {
+      "filename": "chinese_grosbeak_2.jpg",
+      "observation_id": 150167420,
+      "photo_id": 258881409,
+      "observation_url": "https://www.inaturalist.org/observations/150167420",
+      "photographer": "skystargazer",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 skystargazer (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "chinese_grosbeak_3.jpg",
+      "observation_id": 142056144,
+      "photo_id": 243486193,
+      "observation_url": "https://www.inaturalist.org/observations/142056144",
+      "photographer": "mengshuai_ge",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 mengshuai_ge (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_8558725685_7916575257_b.jpg",
+      "flickr_photo_id": "8558725685",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8558725685",
+      "source_url": "https://live.staticflickr.com/8238/8558725685_7916575257_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_8558726373_fe274a975c_b.jpg",
+      "flickr_photo_id": "8558726373",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8558726373",
+      "source_url": "https://live.staticflickr.com/8522/8558726373_fe274a975c_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_54496720399_41f80b72ae_b.jpg",
+      "flickr_photo_id": "54496720399",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54496720399",
+      "source_url": "https://live.staticflickr.com/65535/54496720399_41f80b72ae_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

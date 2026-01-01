@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "beijing_hill_warbler_93946841.jpg",
+      "asset_id": "93946841",
+      "asset_url": "https://macaulaylibrary.org/asset/93946841"
+    },
+    {
+      "filename": "beijing_hill_warbler_93946771.jpg",
+      "asset_id": "93946771",
+      "asset_url": "https://macaulaylibrary.org/asset/93946771"
+    },
+    {
+      "filename": "beijing_hill_warbler_384912051.jpg",
+      "asset_id": "384912051",
+      "asset_url": "https://macaulaylibrary.org/asset/384912051"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "beijing_hill_warbler_1.jpg",
+      "observation_id": 257221545,
+      "photo_id": 461379209,
+      "observation_url": "https://www.inaturalist.org/observations/257221545",
+      "photographer": "renko30830",
+      "license": "cc-by-nc",
+      "credit_format": "© renko30830 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "beijing_hill_warbler_2.jpg",
+      "observation_id": 42097110,
+      "photo_id": 66818135,
+      "observation_url": "https://www.inaturalist.org/observations/42097110",
+      "photographer": "carlosbocos",
+      "license": "all-rights-reserved",
+      "credit_format": "© carlosbocos (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "beijing_hill_warbler_3.jpg",
+      "observation_id": 28003076,
+      "photo_id": 43622243,
+      "observation_url": "https://www.inaturalist.org/observations/28003076",
+      "photographer": "chapeng",
+      "license": "cc-by-nc",
+      "credit_format": "© chapeng (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_8677827007_a9ce608ac5_b.jpg",
+      "flickr_photo_id": "8677827007",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8677827007",
+      "source_url": "https://live.staticflickr.com/8394/8677827007_a9ce608ac5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_8665408690_aa4589b351_b.jpg",
+      "flickr_photo_id": "8665408690",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8665408690",
+      "source_url": "https://farm9.staticflickr.com/8243/8665408690_aa4589b351_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_23396050222_64c4706576_b.jpg",
+      "flickr_photo_id": "23396050222",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=23396050222",
+      "source_url": "https://farm6.staticflickr.com/5690/23396050222_64c4706576_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

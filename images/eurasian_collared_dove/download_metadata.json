@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eurasian_collared_dove_21934901.jpg",
+      "asset_id": "21934901",
+      "asset_url": "https://macaulaylibrary.org/asset/21934901"
+    },
+    {
+      "filename": "eurasian_collared_dove_469176991.jpg",
+      "asset_id": "469176991",
+      "asset_url": "https://macaulaylibrary.org/asset/469176991"
+    },
+    {
+      "filename": "eurasian_collared_dove_631218699.jpg",
+      "asset_id": "631218699",
+      "asset_url": "https://macaulaylibrary.org/asset/631218699"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eurasian_collared_dove_1.jpg",
+      "observation_id": 13712872,
+      "photo_id": 20201746,
+      "observation_url": "https://www.inaturalist.org/observations/13712872",
+      "photographer": "jayodell",
+      "license": "all-rights-reserved",
+      "credit_format": "© jayodell (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "eurasian_collared_dove_2.jpg",
+      "observation_id": 219541004,
+      "photo_id": 388600603,
+      "observation_url": "https://www.inaturalist.org/observations/219541004",
+      "photographer": "quimera",
+      "license": "cc-by-nc",
+      "credit_format": "© quimera (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_collared_dove_3.jpg",
+      "observation_id": 42824209,
+      "photo_id": 68009272,
+      "observation_url": "https://www.inaturalist.org/observations/42824209",
+      "photographer": "birdwhisperer",
+      "license": "cc-by-nc",
+      "credit_format": "© birdwhisperer (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_48228023391_9c1ce1d829_b.jpg",
+      "flickr_photo_id": "48228023391",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48228023391",
+      "source_url": "https://live.staticflickr.com/65535/48228023391_9c1ce1d829_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_53726284059_486dce6e25_b.jpg",
+      "flickr_photo_id": "53726284059",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53726284059",
+      "source_url": "https://live.staticflickr.com/65535/53726284059_486dce6e25_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_15039372676_2a573e5605_b.jpg",
+      "flickr_photo_id": "15039372676",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=15039372676",
+      "source_url": "https://live.staticflickr.com/5570/15039372676_2a573e5605_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

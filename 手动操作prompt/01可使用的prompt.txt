@@ -1,0 +1,60 @@
+-- 目前已经自动化，可能不需要以下操作了，先查看“运行说明.md”
+
+你好！请帮我将提供的鸟类名单转化成 HTML 展示页面。
+
+📋 任务目标：
+1. 从 @新增鸟单.txt 提取鸟类名称并转化成 CSV，解析出的鸟种数需要校验（如果解析失败就自动创建包含完整信息的输入）
+2. 检查有哪些 @all_birds.csv 中不存在的新的鸟类
+3. 合并 @all_birds.csv 信息（优先使用 all_birds.csv 中的完整信息）
+4. 自动下载库中不存在的鸟类图片（从 4 个来源，使用 all_birds.csv 中的名称信息）
+5. 上传图片到 Cloudinary（优先使用 all_birds.csv 构建 bird_info）
+6. 补全 @all_birds.csv（新鸟类会自动添加）
+7. 更新 HTML 展示页面（支持删除图片功能），打开 HTML
+8. 删除过程中生成的临时文件和临时脚本（如有）
+
+📚 重要说明：
+- 请先完整阅读 README.md 和 docs/快速指南.md，理解项目结构
+- 检查 images/ 目录了解已有哪些鸟类，避免重复下载
+- 每一步都先检查tools里面有没有可用的脚本。尽量不要重复造轮子。
+- 如果生成了新的脚本,考虑怎么和原有类似脚本合并,尽量只保留一个文件。
+- 每个步骤完成后都要验证结果
+
+🔑 环境要求：
+- 需要设置 EBIRD_TOKEN 环境变量，从config/ebird_token.sh中获取
+- 需要配置 Cloudinary（.env 文件）
+
+📊 推荐工作流程（使用自动化脚本）：
+```bash
+# 一键完成所有步骤
+python3 tools/process_new_birds.py
+```
+
+这个脚本会自动完成：
+1. 解析新增鸟单.txt并转换成CSV（支持特殊字符如䴙䴘，正确解析多种鸟类）
+2. 合并 all_birds.csv 信息（优先使用 all_birds.csv 中的完整信息）
+3. 检查并下载缺失的鸟类图片（使用 all_birds.csv 中的名称信息）
+4. 上传缺失的鸟类到Cloudinary（优先使用 all_birds.csv 构建 bird_info）
+5. 更新bird_info字段（确保中文名正确）
+6. 补全all_birds.csv（从JSON文件提取鸟类信息，新鸟类会自动添加）
+7. 生成支持删除功能的HTML页面
+8. 将新上传的鸟类调整到列表顶部
+
+⚠️ 关键检查点：
+- CSV 转换：格式正确，所有鸟类都有英文名和学名
+- all_birds.csv：优先使用 all_birds.csv 中的信息，新鸟类会自动添加
+- 图片下载：每个鸟类至少有 3 张 Macaulay 图片（使用 all_birds.csv 中的名称信息）
+- Cloudinary：所有图片已上传，JSON 文件已更新（优先使用 all_birds.csv 构建 bird_info）
+- bird_info：所有JSON文件都包含正确的中文名、英文名、学名（优先从 all_birds.csv 读取）
+- HTML：新鸟类以"中文名+英文名"格式显示在侧边栏，新上传的鸟类在列表顶部
+- HTML功能：支持多选图片、复制删除清单、全选当前分组等删除功能
+
+🔧 核心工具说明：
+- 一键处理：process_new_birds.py（推荐，自动完成全流程，优先使用 all_birds.csv）
+- all_birds.csv管理：add_missing_birds_to_csv.py（补全CSV）、rebuild_csv_from_json.py（重建CSV）
+- 解析表格：parse_birdreport_table.py（支持特殊字符䴙䴘）
+- 下载图片：batch_fetch.sh（内部调用 fetch_four_sources.sh，使用 all_birds.csv 中的名称）
+- 上传Cloudinary：upload_to_cloudinary.py（优先从 all_birds.csv 读取信息）
+- 生成HTML：update_gallery_from_cloudinary.py（支持删除功能，新鸟类自动排顶部）
+- CSV转换：convert_to_csv.py --auto
+
+💡 如有疑问，请随时询问！完成后请提供任务摘要。

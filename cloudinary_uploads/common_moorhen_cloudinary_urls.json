@@ -1,0 +1,191 @@
+{
+  "bird_info": {
+    "slug": "common_moorhen",
+    "chinese_name": "黑水鸡",
+    "english_name": "Common Moorhen",
+    "scientific_name": "Gallinula chloropus"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_moorhen_308540351.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761723378/bird-gallery/common_moorhen/macaulay/common_moorhen_308540351.jpg",
+      "public_id": "bird-gallery/common_moorhen/macaulay/common_moorhen_308540351",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 80855,
+      "attribution": {
+        "photographer": "Ben Lucking | WINGS",
+        "photographer_url": "https://macaulaylibrary.org/asset/308540351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ben Lucking | WINGS; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "308540351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_moorhen_404825431.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761723380/bird-gallery/common_moorhen/macaulay/common_moorhen_404825431.jpg",
+      "public_id": "bird-gallery/common_moorhen/macaulay/common_moorhen_404825431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69932,
+      "attribution": {
+        "photographer": "Alexis Lours",
+        "photographer_url": "https://macaulaylibrary.org/asset/404825431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Alexis Lours; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "404825431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_moorhen_623746789.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761723382/bird-gallery/common_moorhen/macaulay/common_moorhen_623746789.jpg",
+      "public_id": "bird-gallery/common_moorhen/macaulay/common_moorhen_623746789",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76027,
+      "attribution": {
+        "photographer": "Woochan Kwon",
+        "photographer_url": "https://macaulaylibrary.org/asset/623746789",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Woochan Kwon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "623746789",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_moorhen_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761723384/bird-gallery/common_moorhen/inaturalist/common_moorhen_1.jpg",
+      "public_id": "bird-gallery/common_moorhen/inaturalist/common_moorhen_1",
+      "width": 1024,
+      "height": 817,
+      "format": "jpg",
+      "bytes": 132062,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "common_moorhen_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761723392/bird-gallery/common_moorhen/wikimedia/common_moorhen_1.jpg",
+      "public_id": "bird-gallery/common_moorhen/wikimedia/common_moorhen_1",
+      "width": 1200,
+      "height": 845,
+      "format": "jpg",
+      "bytes": 105897,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51283651613_6117bab6dc_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761723394/bird-gallery/common_moorhen/avibase/avibase_1_51283651613_6117bab6dc_b.jpg",
+      "public_id": "bird-gallery/common_moorhen/avibase/avibase_1_51283651613_6117bab6dc_b",
+      "width": 758,
+      "height": 590,
+      "format": "jpg",
+      "bytes": 52032,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "avibase_2_50126614732_9c1294f73b_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761723398/bird-gallery/common_moorhen/avibase/avibase_2_50126614732_9c1294f73b_b.jpg",
+      "public_id": "bird-gallery/common_moorhen/avibase/avibase_2_50126614732_9c1294f73b_b",
+      "width": 1024,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 222466,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "avibase_3_53841979512_a2443b42f3_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761723400/bird-gallery/common_moorhen/avibase/avibase_3_53841979512_a2443b42f3_b.jpg",
+      "public_id": "bird-gallery/common_moorhen/avibase/avibase_3_53841979512_a2443b42f3_b",
+      "width": 1023,
+      "height": 643,
+      "format": "jpg",
+      "bytes": 70938,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "common_moorhen_203978971.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764318931/bird-gallery/common_moorhen/sounds/common_moorhen_203978971.mp3",
+      "public_id": "bird-gallery/common_moorhen/sounds/common_moorhen_203978971",
+      "duration": 52.656,
+      "format": "mp3",
+      "bytes": 1247852,
+      "bit_rate": 189585,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203978971",
+        "asset_url": "https://macaulaylibrary.org/asset/203978971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

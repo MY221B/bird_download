@@ -1,0 +1,23 @@
+# 示例：用户在对话框中给出的鸟类列表
+# 这个文件展示了支持的各种输入格式
+
+# 格式1：完整格式（编号 + 中文名 + 学名 + 数量）
+39 4770 - 大山雀 Parus minor × 6
+40 4781 - 云雀 Alauda arvensis × 3
+41 4866 - 白头鹎 Pycnonotus sinensis × 7
+
+# 格式2：中文名 + 英文名 + 学名
+大山雀 Great Tit Parus minor
+云雀 Eurasian Skylark Alauda arvensis
+白头鹎 Light-vented Bulbul Pycnonotus sinensis
+
+# 格式3：中文名 + 学名
+大山雀 Parus minor
+云雀 Alauda arvensis
+白头鹎 Pycnonotus sinensis
+
+# 格式4：只有中文名（需要交互式输入英文名和学名）
+大山雀
+云雀
+白头鹎
+

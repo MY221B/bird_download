@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "daurian_jackdaw_1.jpg",
+      "observation_id": 153897727,
+      "photo_id": 265862000,
+      "observation_url": "https://www.inaturalist.org/observations/153897727",
+      "photographer": "naturalist23338",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 naturalist23338 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "daurian_jackdaw_2.jpg",
+      "observation_id": 117443355,
+      "photo_id": 198345225,
+      "observation_url": "https://www.inaturalist.org/observations/117443355",
+      "photographer": "naturalist4631",
+      "license": "cc-by",
+      "credit_format": "\u00a9 naturalist4631 (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "daurian_jackdaw_3.jpg",
+      "observation_id": 161404688,
+      "photo_id": 278983002,
+      "observation_url": "https://www.inaturalist.org/observations/161404688",
+      "photographer": "deniszhbir",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 deniszhbir (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52667207535_cf8a5b2eaf_b.jpg",
+      "flickr_photo_id": "52667207535",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52667207535",
+      "source_url": "https://live.staticflickr.com/65535/52667207535_cf8a5b2eaf_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_5853044369_37197487d0_b.jpg",
+      "flickr_photo_id": "5853044369",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=5853044369",
+      "source_url": "https://live.staticflickr.com/2664/5853044369_37197487d0_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_30827750691_37350f541c_b.jpg",
+      "flickr_photo_id": "30827750691",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=30827750691",
+      "source_url": "https://live.staticflickr.com/5469/30827750691_37350f541c_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

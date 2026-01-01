@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "tundra_swan_384291031.jpg",
+      "asset_id": "384291031",
+      "asset_url": "https://macaulaylibrary.org/asset/384291031"
+    },
+    {
+      "filename": "tundra_swan_31724801.jpg",
+      "asset_id": "31724801",
+      "asset_url": "https://macaulaylibrary.org/asset/31724801"
+    },
+    {
+      "filename": "tundra_swan_197053381.jpg",
+      "asset_id": "197053381",
+      "asset_url": "https://macaulaylibrary.org/asset/197053381"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "tundra_swan_1.jpg",
+      "observation_id": 148625683,
+      "photo_id": 255978712,
+      "observation_url": "https://www.inaturalist.org/observations/148625683",
+      "photographer": "brianstahls",
+      "license": "cc-by-nc",
+      "credit_format": "© brianstahls (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "tundra_swan_2.jpg",
+      "observation_id": 4707390,
+      "photo_id": 5695633,
+      "observation_url": "https://www.inaturalist.org/observations/4707390",
+      "photographer": "chrisrohrer",
+      "license": "cc-by-nc",
+      "credit_format": "© chrisrohrer (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "tundra_swan_3.jpg",
+      "observation_id": 267761973,
+      "photo_id": 481223019,
+      "observation_url": "https://www.inaturalist.org/observations/267761973",
+      "photographer": "tashamel",
+      "license": "cc-by-nc",
+      "credit_format": "© tashamel (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50946323726_2eab81be55_b.jpg",
+      "flickr_photo_id": "50946323726",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50946323726",
+      "source_url": "https://live.staticflickr.com/65535/50946323726_2eab81be55_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52793539070_86e5497685_b.jpg",
+      "flickr_photo_id": "52793539070",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52793539070",
+      "source_url": "https://live.staticflickr.com/65535/52793539070_86e5497685_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53450672368_5848663975_b.jpg",
+      "flickr_photo_id": "53450672368",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53450672368",
+      "source_url": "https://live.staticflickr.com/65535/53450672368_5848663975_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

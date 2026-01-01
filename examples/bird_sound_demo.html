@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>鸟叫声展示 - 小鸟记忆卡</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: #2c3e50;
+      padding: 40px 20px;
+      min-height: 100vh;
+    }
+    
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    
+    .header {
+      text-align: center;
+      color: white;
+      margin-bottom: 40px;
+    }
+    
+    .header h1 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+    
+    .header p {
+      font-size: 18px;
+      opacity: 0.9;
+    }
+    
+    .bird-card {
+      background: white;
+      border-radius: 16px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    }
+    
+    .bird-card-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 24px;
+      padding-bottom: 20px;
+      border-bottom: 2px solid #f0f0f0;
+    }
+    
+    .bird-icon {
+      font-size: 48px;
+      margin-right: 20px;
+    }
+    
+    .bird-info h2 {
+      font-size: 28px;
+      color: #1e3c72;
+      margin-bottom: 5px;
+    }
+    
+    .bird-info .subtitle {
+      font-size: 16px;
+      color: #64748b;
+      font-style: italic;
+    }
+    
+    .sound-player {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    
+    .sound-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 15px;
+    }
+    
+    .sound-title {
+      color: white;
+      font-size: 18px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .sound-duration {
+      background: rgba(255, 255, 255, 0.2);
+      color: white;
+      padding: 4px 12px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 500;
+    }
+    
+    .audio-controls {
+      background: white;
+      border-radius: 8px;
+      padding: 15px;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+    
+    .play-button {
+      background: #22c55e;
+      border: none;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      color: white;
+      font-size: 24px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s ease;
+      flex-shrink: 0;
+    }
+    
+    .play-button:hover {
+      background: #16a34a;
+      transform: scale(1.05);
+    }
+    
+    .play-button:active {
+      transform: scale(0.95);
+    }
+    
+    .play-button.playing {
+      background: #ef4444;
+    }
+    
+    .waveform {
+      flex: 1;
+      height: 40px;
+      background: #f0f0f0;
+      border-radius: 6px;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .waveform-progress {
+      height: 100%;
+      background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      width: 0%;
+      transition: width 0.1s linear;
+    }
+    
+    .time-display {
+      color: #64748b;
+      font-size: 14px;
+      font-weight: 500;
+      min-width: 80px;
+      text-align: right;
+    }
+    
+    .sound-info {
+      margin-top: 15px;
+      padding-top: 15px;
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+      color: white;
+      font-size: 14px;
+    }
+    
+    .sound-info p {
+      margin: 5px 0;
+      opacity: 0.9;
+    }
+    
+    .sound-info a {
+      color: #fbbf24;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    
+    .sound-info a:hover {
+      text-decoration: underline;
+    }
+    
+    .image-gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+    
+    .image-item {
+      border-radius: 8px;
+      overflow: hidden;
+      aspect-ratio: 4/3;
+    }
+    
+    .image-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+    
+    .image-item:hover img {
+      transform: scale(1.1);
+    }
+    
+    @media (max-width: 600px) {
+      .header h1 {
+        font-size: 28px;
+      }
+      
+      .bird-card {
+        padding: 20px;
+      }
+      
+      .bird-card-header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      
+      .bird-icon {
+        margin-bottom: 10px;
+      }
+      
+      .audio-controls {
+        flex-wrap: wrap;
+      }
+      
+      .time-display {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🎵 鸟类叫声展示</h1>
+      <p>聆听大自然的声音</p>
+    </div>
+    
+    <!-- 示例数据 - 实际使用时会从JSON加载 -->
+    <div id="birds-container"></div>
+  </div>
+
+  <script>
+    // 示例数据 - 从JSON文件加载的鸟类数据
+    const birdsData = [
+      {
+        slug: 'bluetail',
+        chinese_name: '红胁蓝尾鸲',
+        english_name: 'Red-flanked Bluetail',
+        sounds: [
+          {
+            url: 'https://res.cloudinary.com/dzor6lhz8/video/upload/v1764318180/bird-gallery/bluetail/sounds/bluetail_134560971.mp3',
+            duration: 14.472,
+            attribution: {
+              recordist: 'James (Jim) Holmes',
+              source: 'macaulay',
+              source_id: '134560971',
+              asset_url: 'https://macaulaylibrary.org/asset/134560971'
+            }
+          }
+        ],
+        images: [
+          'https://res.cloudinary.com/dzor6lhz8/image/upload/c_scale,w_400,q_auto/v1761667326/bird-gallery/bluetail/macaulay/bluetail_395258361.jpg',
+          'https://res.cloudinary.com/dzor6lhz8/image/upload/c_scale,w_400,q_auto/v1761667327/bird-gallery/bluetail/macaulay/bluetail_624246991.jpg',
+          'https://res.cloudinary.com/dzor6lhz8/image/upload/c_scale,w_400,q_auto/v1761667329/bird-gallery/bluetail/macaulay/bluetail_80205111.jpg'
+        ]
+      },
+      {
+        slug: 'eurasian_tree_sparrow',
+        chinese_name: '麻雀',
+        english_name: 'Eurasian Tree Sparrow',
+        sounds: [
+          {
+            url: 'https://res.cloudinary.com/dzor6lhz8/video/upload/v1764318197/bird-gallery/eurasian_tree_sparrow/sounds/tree_sparrow_70906781.mp3',
+            duration: 38.4,
+            attribution: {
+              recordist: 'Ramit Singal',
+              source: 'macaulay',
+              source_id: '70906781',
+              asset_url: 'https://macaulaylibrary.org/asset/70906781'
+            }
+          }
+        ],
+        images: [
+          'https://res.cloudinary.com/dzor6lhz8/image/upload/c_scale,w_400,q_auto/v1761719178/bird-gallery/eurasian_tree_sparrow/macaulay/eurasian_tree_sparrow_100399331.jpg'
+        ]
+      }
+    ];
+
+    // 创建鸟类卡片
+    function createBirdCard(bird) {
+      const card = document.createElement('div');
+      card.className = 'bird-card';
+      
+      let soundsHTML = '';
+      bird.sounds.forEach((sound, index) => {
+        const duration = formatDuration(sound.duration);
+        soundsHTML += `
+          <div class="sound-player">
+            <div class="sound-header">
+              <div class="sound-title">
+                🔊 鸟叫声 ${index + 1}
+              </div>
+              <div class="sound-duration">${duration}</div>
+            </div>
+            
+            <div class="audio-controls">
+              <button class="play-button" onclick="togglePlay(this, '${sound.url}')">
+                ▶
+              </button>
+              <div class="waveform">
+                <div class="waveform-progress"></div>
+              </div>
+              <div class="time-display">
+                <span class="current-time">0:00</span> / <span class="total-time">${duration}</span>
+              </div>
+            </div>
+            
+            <audio preload="metadata"></audio>
+            
+            <div class="sound-info">
+              <p>📍 来源: Macaulay Library - Cornell Lab of Ornithology</p>
+              ${sound.attribution.recordist ? `<p>🎙️ 录音者: ${sound.attribution.recordist}</p>` : ''}
+              ${sound.attribution.asset_url ? `<p>🔗 <a href="${sound.attribution.asset_url}" target="_blank">查看原始录音</a></p>` : ''}
+            </div>
+          </div>
+        `;
+      });
+      
+      let imagesHTML = '';
+      if (bird.images && bird.images.length > 0) {
+        imagesHTML = `
+          <div class="image-gallery">
+            ${bird.images.map(img => `
+              <div class="image-item">
+                <img src="${img}" alt="${bird.chinese_name}" loading="lazy">
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+      
+      card.innerHTML = `
+        <div class="bird-card-header">
+          <div class="bird-icon">🐦</div>
+          <div class="bird-info">
+            <h2>${bird.chinese_name}</h2>
+            <div class="subtitle">${bird.english_name}</div>
+          </div>
+        </div>
+        
+        ${soundsHTML}
+        ${imagesHTML}
+      `;
+      
+      return card;
+    }
+
+    // 格式化时长
+    function formatDuration(seconds) {
+      if (!seconds) return '0:00';
+      const mins = Math.floor(seconds / 60);
+      const secs = Math.floor(seconds % 60);
+      return `${mins}:${secs.toString().padStart(2, '0')}`;
+    }
+
+    // 播放/暂停控制
+    let currentAudio = null;
+    let currentButton = null;
+
+    function togglePlay(button, audioUrl) {
+      const player = button.closest('.sound-player');
+      const audio = player.querySelector('audio');
+      const waveformProgress = player.querySelector('.waveform-progress');
+      const currentTimeSpan = player.querySelector('.current-time');
+      
+      // 如果有其他音频在播放，先停止它
+      if (currentAudio && currentAudio !== audio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+        if (currentButton) {
+          currentButton.innerHTML = '▶';
+          currentButton.classList.remove('playing');
+        }
+      }
+      
+      if (audio.paused) {
+        // 如果还没有设置音频源，先设置
+        if (!audio.src) {
+          audio.src = audioUrl;
+        }
+        
+        audio.play();
+        button.innerHTML = '⏸';
+        button.classList.add('playing');
+        currentAudio = audio;
+        currentButton = button;
+        
+        // 更新进度条
+        audio.ontimeupdate = function() {
+          const progress = (audio.currentTime / audio.duration) * 100;
+          waveformProgress.style.width = progress + '%';
+          currentTimeSpan.textContent = formatDuration(audio.currentTime);
+        };
+        
+        // 播放结束时重置
+        audio.onended = function() {
+          button.innerHTML = '▶';
+          button.classList.remove('playing');
+          waveformProgress.style.width = '0%';
+          currentTimeSpan.textContent = '0:00';
+          currentAudio = null;
+          currentButton = null;
+        };
+        
+      } else {
+        audio.pause();
+        button.innerHTML = '▶';
+        button.classList.remove('playing');
+      }
+    }
+
+    // 渲染所有鸟类卡片
+    function renderBirds() {
+      const container = document.getElementById('birds-container');
+      birdsData.forEach(bird => {
+        container.appendChild(createBirdCard(bird));
+      });
+    }
+
+    // 页面加载完成后渲染
+    renderBirds();
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

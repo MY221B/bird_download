@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eurasian_wigeon_308914881.jpg",
+      "asset_id": "308914881",
+      "asset_url": "https://macaulaylibrary.org/asset/308914881"
+    },
+    {
+      "filename": "eurasian_wigeon_613017192.jpg",
+      "asset_id": "613017192",
+      "asset_url": "https://macaulaylibrary.org/asset/613017192"
+    },
+    {
+      "filename": "eurasian_wigeon_302749541.jpg",
+      "asset_id": "302749541",
+      "asset_url": "https://macaulaylibrary.org/asset/302749541"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eurasian_wigeon_1.jpg",
+      "observation_id": 68884643,
+      "photo_id": 111649225,
+      "observation_url": "https://www.inaturalist.org/observations/68884643",
+      "photographer": "zametnya",
+      "license": "cc-by-nc",
+      "credit_format": "© zametnya (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_wigeon_2.jpg",
+      "observation_id": 265078915,
+      "photo_id": 476073372,
+      "observation_url": "https://www.inaturalist.org/observations/265078915",
+      "photographer": "mani_raab",
+      "license": "cc-by-nc",
+      "credit_format": "© mani_raab (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_wigeon_3.jpg",
+      "observation_id": 189198562,
+      "photo_id": 331365921,
+      "observation_url": "https://www.inaturalist.org/observations/189198562",
+      "photographer": "fylin",
+      "license": "cc-by-nc",
+      "credit_format": "© fylin (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54332473160_20a0c0b552_b.jpg",
+      "flickr_photo_id": "54332473160",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54332473160",
+      "source_url": "https://live.staticflickr.com/65535/54332473160_20a0c0b552_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51814613805_e4a1b20a6d_b.jpg",
+      "flickr_photo_id": "51814613805",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51814613805",
+      "source_url": "https://live.staticflickr.com/65535/51814613805_e4a1b20a6d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53514447350_8c1ce7caf7_b.jpg",
+      "flickr_photo_id": "53514447350",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53514447350",
+      "source_url": "https://live.staticflickr.com/65535/53514447350_8c1ce7caf7_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

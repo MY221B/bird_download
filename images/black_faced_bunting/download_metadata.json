@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "black_faced_bunting_317915621.jpg",
+      "asset_id": "317915621",
+      "asset_url": "https://macaulaylibrary.org/asset/317915621"
+    },
+    {
+      "filename": "black_faced_bunting_312912071.jpg",
+      "asset_id": "312912071",
+      "asset_url": "https://macaulaylibrary.org/asset/312912071"
+    },
+    {
+      "filename": "black_faced_bunting_624676691.jpg",
+      "asset_id": "624676691",
+      "asset_url": "https://macaulaylibrary.org/asset/624676691"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "black_faced_bunting_1.jpg",
+      "observation_id": 29151218,
+      "photo_id": 45483850,
+      "observation_url": "https://www.inaturalist.org/observations/29151218",
+      "photographer": "wkcheng71",
+      "license": "all-rights-reserved",
+      "credit_format": "© wkcheng71 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "black_faced_bunting_2.jpg",
+      "observation_id": 322821053,
+      "photo_id": 584054218,
+      "observation_url": "https://www.inaturalist.org/observations/322821053",
+      "photographer": "jakob_neuenschwander",
+      "license": "all-rights-reserved",
+      "credit_format": "© jakob_neuenschwander (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "black_faced_bunting_3.jpg",
+      "observation_id": 280156931,
+      "photo_id": 503148583,
+      "observation_url": "https://www.inaturalist.org/observations/280156931",
+      "photographer": "amuro33",
+      "license": "cc-by-nc",
+      "credit_format": "© amuro33 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54430631964_eeba8fc792_b.jpg",
+      "flickr_photo_id": "54430631964",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54430631964",
+      "source_url": "https://live.staticflickr.com/65535/54430631964_eeba8fc792_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54430678953_642c79a835_b.jpg",
+      "flickr_photo_id": "54430678953",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54430678953",
+      "source_url": "https://live.staticflickr.com/65535/54430678953_642c79a835_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_49650855458_a285e30bb6_b.jpg",
+      "flickr_photo_id": "49650855458",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49650855458",
+      "source_url": "https://live.staticflickr.com/65535/49650855458_a285e30bb6_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

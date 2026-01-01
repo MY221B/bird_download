@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "oriental_honey_buzzard_611825993.jpg",
+      "asset_id": "611825993",
+      "asset_url": "https://macaulaylibrary.org/asset/611825993"
+    },
+    {
+      "filename": "oriental_honey_buzzard_626237714.jpg",
+      "asset_id": "626237714",
+      "asset_url": "https://macaulaylibrary.org/asset/626237714"
+    },
+    {
+      "filename": "oriental_honey_buzzard_188063961.jpg",
+      "asset_id": "188063961",
+      "asset_url": "https://macaulaylibrary.org/asset/188063961"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "oriental_honey_buzzard_1.jpg",
+      "observation_id": 137231499,
+      "photo_id": 234336894,
+      "observation_url": "https://www.inaturalist.org/observations/137231499",
+      "photographer": "soo_eu_zen",
+      "license": "all-rights-reserved",
+      "credit_format": "© soo_eu_zen (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "oriental_honey_buzzard_2.jpg",
+      "observation_id": 189740581,
+      "photo_id": 332471271,
+      "observation_url": "https://www.inaturalist.org/observations/189740581",
+      "photographer": "dmka",
+      "license": "all-rights-reserved",
+      "credit_format": "© dmka (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "oriental_honey_buzzard_3.jpg",
+      "observation_id": 61110082,
+      "photo_id": 97757434,
+      "observation_url": "https://www.inaturalist.org/observations/61110082",
+      "photographer": "konstantinsamodurov",
+      "license": "cc-by-nc",
+      "credit_format": "© konstantinsamodurov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_40956650841_d2ff763092_b.jpg",
+      "flickr_photo_id": "40956650841",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=40956650841",
+      "source_url": "https://live.staticflickr.com/788/40956650841_d2ff763092_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54649474738_28d14db732_b.jpg",
+      "flickr_photo_id": "54649474738",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54649474738",
+      "source_url": "https://live.staticflickr.com/65535/54649474738_28d14db732_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_15574828606_e921ac3203_b.jpg",
+      "flickr_photo_id": "15574828606",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=15574828606",
+      "source_url": "https://live.staticflickr.com/3936/15574828606_e921ac3203_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

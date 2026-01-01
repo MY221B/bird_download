@@ -1,0 +1,52 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "northern_goshawk_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753462/bird-gallery/northern_goshawk/inaturalist/northern_goshawk_2.jpg",
+      "public_id": "bird-gallery/northern_goshawk/inaturalist/northern_goshawk_2",
+      "width": 1000,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 89946,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "northern_goshawk_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753469/bird-gallery/northern_goshawk/inaturalist/northern_goshawk_3.jpg",
+      "public_id": "bird-gallery/northern_goshawk/inaturalist/northern_goshawk_3",
+      "width": 1024,
+      "height": 780,
+      "format": "jpg",
+      "bytes": 70906,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "bird_info": {
+    "slug": "northern_goshawk",
+    "chinese_name": "苍鹰",
+    "english_name": "Northern Goshawk",
+    "scientific_name": "Accipiter gentilis"
+  }
+}

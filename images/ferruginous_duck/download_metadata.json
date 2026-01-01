@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "ferruginous_duck_204585591.jpg",
+      "asset_id": "204585591",
+      "asset_url": "https://macaulaylibrary.org/asset/204585591"
+    },
+    {
+      "filename": "ferruginous_duck_529971991.jpg",
+      "asset_id": "529971991",
+      "asset_url": "https://macaulaylibrary.org/asset/529971991"
+    },
+    {
+      "filename": "ferruginous_duck_611877310.jpg",
+      "asset_id": "611877310",
+      "asset_url": "https://macaulaylibrary.org/asset/611877310"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "ferruginous_duck_1.jpg",
+      "observation_id": 258409661,
+      "photo_id": 463620780,
+      "observation_url": "https://www.inaturalist.org/observations/258409661",
+      "photographer": "diegodgd",
+      "license": "cc-by",
+      "credit_format": "© diegodgd (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "ferruginous_duck_2.jpg",
+      "observation_id": 256490437,
+      "photo_id": 459886990,
+      "observation_url": "https://www.inaturalist.org/observations/256490437",
+      "photographer": "raracar11",
+      "license": "cc-by-nc",
+      "credit_format": "© raracar11 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "ferruginous_duck_3.jpg",
+      "observation_id": 72661776,
+      "photo_id": 118508204,
+      "observation_url": "https://www.inaturalist.org/observations/72661776",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52663892743_1af6976f8f_b.jpg",
+      "flickr_photo_id": "52663892743",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52663892743",
+      "source_url": "https://live.staticflickr.com/65535/52663892743_1af6976f8f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51978265807_f5c18fbb02_b.jpg",
+      "flickr_photo_id": "51978265807",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51978265807",
+      "source_url": "https://live.staticflickr.com/65535/51978265807_f5c18fbb02_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52395531014_1f3c73b561_b.jpg",
+      "flickr_photo_id": "52395531014",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52395531014",
+      "source_url": "https://live.staticflickr.com/65535/52395531014_1f3c73b561_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

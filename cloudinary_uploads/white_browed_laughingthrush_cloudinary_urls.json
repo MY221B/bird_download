@@ -1,0 +1,209 @@
+{
+  "bird_info": {
+    "slug": "white_browed_laughingthrush",
+    "chinese_name": "白颊噪鹛",
+    "english_name": "White-browed Laughingthrush",
+    "scientific_name": "Pterorhinus sannio"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_browed_laughingthrush_128398401.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850334/bird-gallery/white_browed_laughingthrush/macaulay/white_browed_laughingthrush_128398401.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/macaulay/white_browed_laughingthrush_128398401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103665,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/128398401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "128398401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_laughingthrush_145000411.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850340/bird-gallery/white_browed_laughingthrush/macaulay/white_browed_laughingthrush_145000411.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/macaulay/white_browed_laughingthrush_145000411",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 76850,
+      "attribution": {
+        "photographer": "Christoph Moning",
+        "photographer_url": "https://macaulaylibrary.org/asset/145000411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Christoph Moning; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "145000411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_laughingthrush_222756211.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850345/bird-gallery/white_browed_laughingthrush/macaulay/white_browed_laughingthrush_222756211.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/macaulay/white_browed_laughingthrush_222756211",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 49639,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/222756211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "222756211",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_browed_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850351/bird-gallery/white_browed_laughingthrush/inaturalist/white_browed_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/inaturalist/white_browed_laughingthrush_1",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 63675,
+      "attribution": {
+        "photographer": "llareta",
+        "photographer_url": "https://www.inaturalist.org/observations/167668829",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© llareta (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 167668829,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_laughingthrush_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850353/bird-gallery/white_browed_laughingthrush/inaturalist/white_browed_laughingthrush_2.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/inaturalist/white_browed_laughingthrush_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 86457,
+      "attribution": {
+        "photographer": "redpandacat",
+        "photographer_url": "https://www.inaturalist.org/observations/222566077",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 222566077,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_laughingthrush_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850355/bird-gallery/white_browed_laughingthrush/inaturalist/white_browed_laughingthrush_3.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/inaturalist/white_browed_laughingthrush_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 123752,
+      "attribution": {
+        "photographer": "skystargazer",
+        "photographer_url": "https://www.inaturalist.org/observations/154079136",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© skystargazer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 154079136,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48901313848_66f1f31c66_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850361/bird-gallery/white_browed_laughingthrush/avibase/avibase_1_48901313848_66f1f31c66_b.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/avibase/avibase_1_48901313848_66f1f31c66_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 92074,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48901313848",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51108903400_7889845420_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850364/bird-gallery/white_browed_laughingthrush/avibase/avibase_2_51108903400_7889845420_b.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/avibase/avibase_2_51108903400_7889845420_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 99923,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51108903400",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_36241768346_9fb2b964f1_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850366/bird-gallery/white_browed_laughingthrush/avibase/avibase_3_36241768346_9fb2b964f1_b.jpg",
+      "public_id": "bird-gallery/white_browed_laughingthrush/avibase/avibase_3_36241768346_9fb2b964f1_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 65460,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "36241768346",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "white_browed_laughingthrush_203962781.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764850380/bird-gallery/white_browed_laughingthrush/sounds/white_browed_laughingthrush_203962781.mp3",
+      "public_id": "bird-gallery/white_browed_laughingthrush/sounds/white_browed_laughingthrush_203962781",
+      "duration": 15.984,
+      "format": "mp3",
+      "bytes": 336620,
+      "bit_rate": 168478,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203962781",
+        "asset_url": "https://macaulaylibrary.org/asset/203962781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

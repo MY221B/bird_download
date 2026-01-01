@@ -1,0 +1,72 @@
+{
+  "bird_info": {
+    "slug": "japanese_tit",
+    "chinese_name": "大山雀",
+    "english_name": "Japanese Tit",
+    "scientific_name": "Parus minor"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "japanese_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753811/bird-gallery/japanese_tit/inaturalist/japanese_tit_1.jpg",
+      "public_id": "bird-gallery/japanese_tit/inaturalist/japanese_tit_1",
+      "width": 875,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 98703,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "japanese_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753815/bird-gallery/japanese_tit/inaturalist/japanese_tit_3.jpg",
+      "public_id": "bird-gallery/japanese_tit/inaturalist/japanese_tit_3",
+      "width": 1024,
+      "height": 975,
+      "format": "jpg",
+      "bytes": 99302,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "japanese_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753817/bird-gallery/japanese_tit/wikimedia/japanese_tit_1.jpg",
+      "public_id": "bird-gallery/japanese_tit/wikimedia/japanese_tit_1",
+      "width": 250,
+      "height": 187,
+      "format": "jpg",
+      "bytes": 18135,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

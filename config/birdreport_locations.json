@@ -1,0 +1,160 @@
+{
+  "locations": [
+    {
+      "id": "aosen_north",
+      "name": "奥森公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "奥森北园",
+        "奥森",
+        "奥森南园",
+        "奥林匹克森林公园北园"
+      ]
+    },
+    {
+      "id": "yuanmingyuan",
+      "name": "圆明园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "圆明园",
+        "圆明园遗址公园"
+      ]
+    },
+    {
+      "id": "yiheyuan",
+      "name": "颐和园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "颐和园",
+        "颐和园公园"
+      ]
+    },
+    {
+      "id": "shucun",
+      "name": "树村",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "树村",
+        "海淀树村"
+      ]
+    },
+    {
+      "id": "baiwangshan",
+      "name": "百望山",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "百望山",
+        "百望山森林公园"
+      ]
+    },
+    {
+      "id": "tiantan",
+      "name": "天坛",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "天坛",
+        "天坛公园"
+      ]
+    },
+    {
+      "id": "yuyuantan",
+      "name": "玉渊潭",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "玉渊潭",
+        "玉渊潭公园"
+      ]
+    },
+    {
+      "id": "zhiwuyuan",
+      "name": "植物园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "植物园",
+        "北京植物园"
+      ]
+    },
+    {
+      "id": "chaoyang_gongyuan",
+      "name": "朝阳公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "朝阳公园",
+        "北京朝阳公园"
+      ]
+    },
+    {
+      "id": "shahe_shuiku",
+      "name": "沙河水库",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "沙河水库",
+        "北京沙河水库"
+      ]
+    },
+    {
+      "id": "xingqinggong",
+      "name": "兴庆宫",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "兴庆宫",
+        "兴庆宫公园"
+      ]
+    }
+  ]
+}

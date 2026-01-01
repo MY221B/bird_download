@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eyebrowed_thrush_572662341.jpg",
+      "asset_id": "572662341",
+      "asset_url": "https://macaulaylibrary.org/asset/572662341"
+    },
+    {
+      "filename": "eyebrowed_thrush_621156309.jpg",
+      "asset_id": "621156309",
+      "asset_url": "https://macaulaylibrary.org/asset/621156309"
+    },
+    {
+      "filename": "eyebrowed_thrush_198435061.jpg",
+      "asset_id": "198435061",
+      "asset_url": "https://macaulaylibrary.org/asset/198435061"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eyebrowed_thrush_1.jpg",
+      "observation_id": 288129353,
+      "photo_id": 518129497,
+      "observation_url": "https://www.inaturalist.org/observations/288129353",
+      "photographer": "alamseus",
+      "license": "cc-by-nc",
+      "credit_format": "© alamseus (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eyebrowed_thrush_2.jpg",
+      "observation_id": 271982958,
+      "photo_id": 489290350,
+      "observation_url": "https://www.inaturalist.org/observations/271982958",
+      "photographer": "bayuhadi",
+      "license": "all-rights-reserved",
+      "credit_format": "© bayuhadi (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "eyebrowed_thrush_3.jpg",
+      "observation_id": 118669840,
+      "photo_id": 200526950,
+      "observation_url": "https://www.inaturalist.org/observations/118669840",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_15997537149_b0903afb54_b.jpg",
+      "flickr_photo_id": "15997537149",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=15997537149",
+      "source_url": "https://live.staticflickr.com/8661/15997537149_b0903afb54_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_15996380920_1c5a237e39_b.jpg",
+      "flickr_photo_id": "15996380920",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=15996380920",
+      "source_url": "https://live.staticflickr.com/7582/15996380920_1c5a237e39_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_16438774936_33b3465ea8_b.jpg",
+      "flickr_photo_id": "16438774936",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16438774936",
+      "source_url": "https://live.staticflickr.com/8640/16438774936_33b3465ea8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

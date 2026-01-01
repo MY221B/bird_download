@@ -1,0 +1,34 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "crested_myna_1.jpg",
+      "observation_id": 98303086,
+      "photo_id": 163633118,
+      "observation_url": "https://www.inaturalist.org/observations/98303086",
+      "photographer": "graeme45",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 graeme45 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "crested_myna_2.jpg",
+      "observation_id": 44359278,
+      "photo_id": 70331323,
+      "observation_url": "https://www.inaturalist.org/observations/44359278",
+      "photographer": "aurlienvalle",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 aurlienvalle (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "crested_myna_3.jpg",
+      "observation_id": 69621265,
+      "photo_id": 113005914,
+      "observation_url": "https://www.inaturalist.org/observations/69621265",
+      "photographer": "pauldickson",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 pauldickson (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

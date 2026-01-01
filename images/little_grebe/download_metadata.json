@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "little_grebe_545692431.jpg",
+      "asset_id": "545692431",
+      "asset_url": "https://macaulaylibrary.org/asset/545692431"
+    },
+    {
+      "filename": "little_grebe_621835664.jpg",
+      "asset_id": "621835664",
+      "asset_url": "https://macaulaylibrary.org/asset/621835664"
+    },
+    {
+      "filename": "little_grebe_448235051.jpg",
+      "asset_id": "448235051",
+      "asset_url": "https://macaulaylibrary.org/asset/448235051"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "little_grebe_1.jpg",
+      "observation_id": 143265527,
+      "photo_id": 245672272,
+      "observation_url": "https://www.inaturalist.org/observations/143265527",
+      "photographer": "zichen",
+      "license": "all-rights-reserved",
+      "credit_format": "© zichen (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "little_grebe_2.jpg",
+      "observation_id": 165859663,
+      "photo_id": 287158348,
+      "observation_url": "https://www.inaturalist.org/observations/165859663",
+      "photographer": "varmax",
+      "license": "cc-by-nc-sa",
+      "credit_format": "© varmax (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+    },
+    {
+      "filename": "little_grebe_3.jpg",
+      "observation_id": 196053110,
+      "photo_id": 345062840,
+      "observation_url": "https://www.inaturalist.org/observations/196053110",
+      "photographer": "svetlotus",
+      "license": "cc-by-nc",
+      "credit_format": "© svetlotus (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50311994991_180691332b_b.jpg",
+      "flickr_photo_id": "50311994991",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50311994991",
+      "source_url": "https://live.staticflickr.com/65535/50311994991_180691332b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_53126756433_a56376ba18_b.jpg",
+      "flickr_photo_id": "53126756433",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53126756433",
+      "source_url": "https://live.staticflickr.com/65535/53126756433_a56376ba18_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54047862765_139fb1ed1a_b.jpg",
+      "flickr_photo_id": "54047862765",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54047862765",
+      "source_url": "https://live.staticflickr.com/65535/54047862765_139fb1ed1a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eurasian_bullfinch_213503261.jpg",
+      "asset_id": "213503261",
+      "asset_url": "https://macaulaylibrary.org/asset/213503261"
+    },
+    {
+      "filename": "eurasian_bullfinch_251240291.jpg",
+      "asset_id": "251240291",
+      "asset_url": "https://macaulaylibrary.org/asset/251240291"
+    },
+    {
+      "filename": "eurasian_bullfinch_204247951.jpg",
+      "asset_id": "204247951",
+      "asset_url": "https://macaulaylibrary.org/asset/204247951"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eurasian_bullfinch_1.jpg",
+      "observation_id": 124857823,
+      "photo_id": 211679317,
+      "observation_url": "https://www.inaturalist.org/observations/124857823",
+      "photographer": "scirpaceus",
+      "license": "all-rights-reserved",
+      "credit_format": "© scirpaceus (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "eurasian_bullfinch_2.jpg",
+      "observation_id": 297250342,
+      "photo_id": 535320240,
+      "observation_url": "https://www.inaturalist.org/observations/297250342",
+      "photographer": "mariameizoso",
+      "license": "cc-by-nc",
+      "credit_format": "© mariameizoso (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_bullfinch_3.jpg",
+      "observation_id": 199279529,
+      "photo_id": 351411173,
+      "observation_url": "https://www.inaturalist.org/observations/199279529",
+      "photographer": "tsekhmister_k",
+      "license": "cc-by-nc",
+      "credit_format": "© tsekhmister_k (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49797983092_3d9511747f_b.jpg",
+      "flickr_photo_id": "49797983092",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49797983092",
+      "source_url": "https://live.staticflickr.com/65535/49797983092_3d9511747f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52874736412_405f4602d6_b.jpg",
+      "flickr_photo_id": "52874736412",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52874736412",
+      "source_url": "https://live.staticflickr.com/65535/52874736412_405f4602d6_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51707304195_1aa883ff30_b.jpg",
+      "flickr_photo_id": "51707304195",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51707304195",
+      "source_url": "https://live.staticflickr.com/65535/51707304195_1aa883ff30_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "bird_info": {
+    "slug": "tristrams_bunting",
+    "chinese_name": "白眉鹀",
+    "english_name": "Tristram's Bunting",
+    "scientific_name": "Emberiza tristrami"
+  },
+  "macaulay": [
+    {
+      "original_file": "tristrams_bunting_625108124.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244951/bird-gallery/tristrams_bunting/macaulay/tristrams_bunting_625108124.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/macaulay/tristrams_bunting_625108124",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76537,
+      "attribution": {
+        "photographer": "Woochan Kwon",
+        "photographer_url": "https://macaulaylibrary.org/asset/625108124",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Woochan Kwon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625108124",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tristrams_bunting_626953247.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244958/bird-gallery/tristrams_bunting/macaulay/tristrams_bunting_626953247.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/macaulay/tristrams_bunting_626953247",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 184923,
+      "attribution": {
+        "photographer": "Alex CAO",
+        "photographer_url": "https://macaulaylibrary.org/asset/626953247",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Alex CAO; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "626953247",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "tristrams_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244966/bird-gallery/tristrams_bunting/inaturalist/tristrams_bunting_1.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/inaturalist/tristrams_bunting_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 65787,
+      "attribution": {
+        "photographer": "egorbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/87510180",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© egorbirder (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 87510180,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tristrams_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244967/bird-gallery/tristrams_bunting/inaturalist/tristrams_bunting_2.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/inaturalist/tristrams_bunting_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 137341,
+      "attribution": {
+        "photographer": "jsclough",
+        "photographer_url": "https://www.inaturalist.org/observations/19228558",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jsclough (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19228558,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tristrams_bunting_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244969/bird-gallery/tristrams_bunting/inaturalist/tristrams_bunting_3.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/inaturalist/tristrams_bunting_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 76967,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/119878478",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 119878478,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_19046782382_0343716f77_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244972/bird-gallery/tristrams_bunting/avibase/avibase_1_19046782382_0343716f77_b.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/avibase/avibase_1_19046782382_0343716f77_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 75705,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "19046782382",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_19026112166_a4b7595036_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244974/bird-gallery/tristrams_bunting/avibase/avibase_2_19026112166_a4b7595036_b.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/avibase/avibase_2_19026112166_a4b7595036_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 68389,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "19026112166",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_443543201_13cfb5e0b0_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244976/bird-gallery/tristrams_bunting/avibase/avibase_3_443543201_13cfb5e0b0_b.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/avibase/avibase_3_443543201_13cfb5e0b0_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 77767,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "443543201",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "tristrams_bunting_609060293.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764323268/bird-gallery/tristrams_bunting/sounds/tristrams_bunting_609060293.mp3",
+      "public_id": "bird-gallery/tristrams_bunting/sounds/tristrams_bunting_609060293",
+      "duration": 36.288,
+      "format": "mp3",
+      "bytes": 499292,
+      "bit_rate": 110073,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "609060293",
+        "asset_url": "https://macaulaylibrary.org/asset/609060293",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

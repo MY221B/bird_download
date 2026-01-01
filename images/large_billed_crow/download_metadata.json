@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "large_billed_crow_1.jpg",
+      "observation_id": 83914346,
+      "photo_id": 118530969,
+      "observation_url": "https://www.inaturalist.org/observations/83914346",
+      "photographer": "faerout",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 faerout (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "large_billed_crow_2.jpg",
+      "observation_id": 103690150,
+      "photo_id": 173602784,
+      "observation_url": "https://www.inaturalist.org/observations/103690150",
+      "photographer": "kotomiti",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 kotomiti (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "large_billed_crow_3.jpg",
+      "observation_id": 164369373,
+      "photo_id": 284391952,
+      "observation_url": "https://www.inaturalist.org/observations/164369373",
+      "photographer": "ovt",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 ovt (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_14370858206_341b7c7566_b.jpg",
+      "flickr_photo_id": "14370858206",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=14370858206",
+      "source_url": "https://live.staticflickr.com/3887/14370858206_341b7c7566_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_47948858893_0bb53a27e2_b.jpg",
+      "flickr_photo_id": "47948858893",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=47948858893",
+      "source_url": "https://live.staticflickr.com/65535/47948858893_0bb53a27e2_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_52621117195_b50f2e9364_b.jpg",
+      "flickr_photo_id": "52621117195",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52621117195",
+      "source_url": "https://live.staticflickr.com/65535/52621117195_b50f2e9364_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

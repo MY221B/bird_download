@@ -1,0 +1,50 @@
+{
+  "macaulay": [
+    {
+      "filename": "eurasian_hoopoe_245950031.jpg",
+      "asset_id": "245950031",
+      "asset_url": "https://macaulaylibrary.org/asset/245950031"
+    },
+    {
+      "filename": "eurasian_hoopoe_63874221.jpg",
+      "asset_id": "63874221",
+      "asset_url": "https://macaulaylibrary.org/asset/63874221"
+    },
+    {
+      "filename": "eurasian_hoopoe_90292361.jpg",
+      "asset_id": "90292361",
+      "asset_url": "https://macaulaylibrary.org/asset/90292361"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eurasian_hoopoe_1.jpg",
+      "observation_id": 1487250,
+      "photo_id": 1843019,
+      "observation_url": "https://www.inaturalist.org/observations/1487250",
+      "photographer": "adiashkenazi",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 adiashkenazi (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_hoopoe_2.jpg",
+      "observation_id": 24387643,
+      "photo_id": 37708016,
+      "observation_url": "https://www.inaturalist.org/observations/24387643",
+      "photographer": "lioneska",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 lioneska (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_hoopoe_3.jpg",
+      "observation_id": 42156001,
+      "photo_id": 66919765,
+      "observation_url": "https://www.inaturalist.org/observations/42156001",
+      "photographer": "karakaxa",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 karakaxa (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

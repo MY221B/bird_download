@@ -1,0 +1,210 @@
+{
+  "bird_info": {
+    "slug": "hooded_crane",
+    "chinese_name": "白头鹤",
+    "english_name": "Hooded Crane",
+    "scientific_name": "Grus monacha"
+  },
+  "macaulay": [
+    {
+      "original_file": "hooded_crane_65590151.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849787/bird-gallery/hooded_crane/macaulay/hooded_crane_65590151.jpg",
+      "public_id": "bird-gallery/hooded_crane/macaulay/hooded_crane_65590151",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 95275,
+      "attribution": {
+        "photographer": "Christoph Moning",
+        "photographer_url": "https://macaulaylibrary.org/asset/65590151",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Christoph Moning; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "65590151",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hooded_crane_65590161.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849795/bird-gallery/hooded_crane/macaulay/hooded_crane_65590161.jpg",
+      "public_id": "bird-gallery/hooded_crane/macaulay/hooded_crane_65590161",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 127908,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/65590161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "65590161",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hooded_crane_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849803/bird-gallery/hooded_crane/inaturalist/hooded_crane_1.jpg",
+      "public_id": "bird-gallery/hooded_crane/inaturalist/hooded_crane_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 156752,
+      "attribution": {
+        "photographer": "slavalad",
+        "photographer_url": "https://www.inaturalist.org/observations/186126187",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© slavalad (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 186126187,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hooded_crane_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849805/bird-gallery/hooded_crane/inaturalist/hooded_crane_2.jpg",
+      "public_id": "bird-gallery/hooded_crane/inaturalist/hooded_crane_2",
+      "width": 1024,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 101913,
+      "attribution": {
+        "photographer": "d-catulus",
+        "photographer_url": "https://www.inaturalist.org/observations/98502322",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© d-catulus (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 98502322,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hooded_crane_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849807/bird-gallery/hooded_crane/inaturalist/hooded_crane_3.jpg",
+      "public_id": "bird-gallery/hooded_crane/inaturalist/hooded_crane_3",
+      "width": 1024,
+      "height": 706,
+      "format": "jpg",
+      "bytes": 33936,
+      "attribution": {
+        "photographer": "roylesafaris",
+        "photographer_url": "https://www.inaturalist.org/observations/234144051",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© roylesafaris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 234144051,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "hooded_crane_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849808/bird-gallery/hooded_crane/wikimedia/hooded_crane_1.jpg",
+      "public_id": "bird-gallery/hooded_crane/wikimedia/hooded_crane_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 129108,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39528454032_24fe283b32_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849814/bird-gallery/hooded_crane/avibase/avibase_1_39528454032_24fe283b32_b.jpg",
+      "public_id": "bird-gallery/hooded_crane/avibase/avibase_1_39528454032_24fe283b32_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 200331,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39528454032",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_5820629379_51b0e3b2c5_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849829/bird-gallery/hooded_crane/avibase/avibase_2_5820629379_51b0e3b2c5_b.jpg",
+      "public_id": "bird-gallery/hooded_crane/avibase/avibase_2_5820629379_51b0e3b2c5_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 84166,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "5820629379",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_39595168432_e2f4f2b71d_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764849831/bird-gallery/hooded_crane/avibase/avibase_3_39595168432_e2f4f2b71d_b.jpg",
+      "public_id": "bird-gallery/hooded_crane/avibase/avibase_3_39595168432_e2f4f2b71d_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 128486,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39595168432",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "hooded_crane_203932651.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764849918/bird-gallery/hooded_crane/sounds/hooded_crane_203932651.mp3",
+      "public_id": "bird-gallery/hooded_crane/sounds/hooded_crane_203932651",
+      "duration": 15.696,
+      "format": "mp3",
+      "bytes": 413516,
+      "bit_rate": 210762,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203932651",
+        "asset_url": "https://macaulaylibrary.org/asset/203932651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

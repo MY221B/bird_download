@@ -1,0 +1,127 @@
+{
+  "macaulay": [
+    {
+      "original_file": "dusky_warbler_231239301.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318921/bird-gallery/dusky_warbler/macaulay/dusky_warbler_231239301.jpg",
+      "public_id": "bird-gallery/dusky_warbler/macaulay/dusky_warbler_231239301",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90005,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/231239301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "231239301",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_warbler_388471181.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318923/bird-gallery/dusky_warbler/macaulay/dusky_warbler_388471181.jpg",
+      "public_id": "bird-gallery/dusky_warbler/macaulay/dusky_warbler_388471181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70738,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/388471181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "388471181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_warbler_78970021.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318926/bird-gallery/dusky_warbler/macaulay/dusky_warbler_78970021.jpg",
+      "public_id": "bird-gallery/dusky_warbler/macaulay/dusky_warbler_78970021",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67896,
+      "attribution": {
+        "photographer": "PMDE ESTEVES",
+        "photographer_url": "https://macaulaylibrary.org/asset/78970021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by PMDE ESTEVES; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "78970021",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dusky_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761747682/bird-gallery/dusky_warbler/inaturalist/dusky_warbler_1.jpg",
+      "public_id": "bird-gallery/dusky_warbler/inaturalist/dusky_warbler_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 86351,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "dusky_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761747683/bird-gallery/dusky_warbler/inaturalist/dusky_warbler_2.jpg",
+      "public_id": "bird-gallery/dusky_warbler/inaturalist/dusky_warbler_2",
+      "width": 1024,
+      "height": 953,
+      "format": "jpg",
+      "bytes": 102179,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "dusky_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761747685/bird-gallery/dusky_warbler/inaturalist/dusky_warbler_3.jpg",
+      "public_id": "bird-gallery/dusky_warbler/inaturalist/dusky_warbler_3",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 100988,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "bird_info": {
+    "slug": "dusky_warbler",
+    "chinese_name": "褐柳莺"
+  }
+}

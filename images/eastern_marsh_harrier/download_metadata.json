@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eastern_marsh_harrier_198257511.jpg",
+      "asset_id": "198257511",
+      "asset_url": "https://macaulaylibrary.org/asset/198257511"
+    },
+    {
+      "filename": "eastern_marsh_harrier_137602831.jpg",
+      "asset_id": "137602831",
+      "asset_url": "https://macaulaylibrary.org/asset/137602831"
+    },
+    {
+      "filename": "eastern_marsh_harrier_118146231.jpg",
+      "asset_id": "118146231",
+      "asset_url": "https://macaulaylibrary.org/asset/118146231"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eastern_marsh_harrier_1.jpg",
+      "observation_id": 148310959,
+      "photo_id": 255375490,
+      "observation_url": "https://www.inaturalist.org/observations/148310959",
+      "photographer": "mohitnanwani",
+      "license": "all-rights-reserved",
+      "credit_format": "© mohitnanwani (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "eastern_marsh_harrier_2.jpg",
+      "observation_id": 60470589,
+      "photo_id": 96696149,
+      "observation_url": "https://www.inaturalist.org/observations/60470589",
+      "photographer": "aquacielo",
+      "license": "cc-by-nc",
+      "credit_format": "© aquacielo (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eastern_marsh_harrier_3.jpg",
+      "observation_id": 61396219,
+      "photo_id": 98242558,
+      "observation_url": "https://www.inaturalist.org/observations/61396219",
+      "photographer": "ryanyuewahchan",
+      "license": "cc-by-nc",
+      "credit_format": "© ryanyuewahchan (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54678442591_1823a5256d_b.jpg",
+      "flickr_photo_id": "54678442591",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54678442591",
+      "source_url": "https://live.staticflickr.com/65535/54678442591_1823a5256d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_46879027774_e05961967e_b.jpg",
+      "flickr_photo_id": "46879027774",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=46879027774",
+      "source_url": "https://live.staticflickr.com/7834/46879027774_e05961967e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_13219007063_ce71015a77_b.jpg",
+      "flickr_photo_id": "13219007063",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=13219007063",
+      "source_url": "https://live.staticflickr.com/3800/13219007063_ce71015a77_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

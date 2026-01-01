@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "northern_shoveler_217711091.jpg",
+      "asset_id": "217711091",
+      "asset_url": "https://macaulaylibrary.org/asset/217711091"
+    },
+    {
+      "filename": "northern_shoveler_615221876.jpg",
+      "asset_id": "615221876",
+      "asset_url": "https://macaulaylibrary.org/asset/615221876"
+    },
+    {
+      "filename": "northern_shoveler_139202071.jpg",
+      "asset_id": "139202071",
+      "asset_url": "https://macaulaylibrary.org/asset/139202071"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "northern_shoveler_1.jpg",
+      "observation_id": 37089456,
+      "photo_id": 58741367,
+      "observation_url": "https://www.inaturalist.org/observations/37089456",
+      "photographer": "kiwikiu",
+      "license": "all-rights-reserved",
+      "credit_format": "© kiwikiu (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "northern_shoveler_2.jpg",
+      "observation_id": 128264334,
+      "photo_id": 217854275,
+      "observation_url": "https://www.inaturalist.org/observations/128264334",
+      "photographer": "locrian-geist",
+      "license": "all-rights-reserved",
+      "credit_format": "© locrian-geist (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "northern_shoveler_3.jpg",
+      "observation_id": 30220213,
+      "photo_id": 47202384,
+      "observation_url": "https://www.inaturalist.org/observations/30220213",
+      "photographer": "isaiahnugent",
+      "license": "cc-by-nc",
+      "credit_format": "© isaiahnugent (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_48864511236_938bcf647f_b.jpg",
+      "flickr_photo_id": "48864511236",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48864511236",
+      "source_url": "https://live.staticflickr.com/65535/48864511236_938bcf647f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54197201457_62a4a71ed2_b.jpg",
+      "flickr_photo_id": "54197201457",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54197201457",
+      "source_url": "https://live.staticflickr.com/65535/54197201457_62a4a71ed2_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54492370189_1725e833f7_b.jpg",
+      "flickr_photo_id": "54492370189",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54492370189",
+      "source_url": "https://live.staticflickr.com/65535/54492370189_1725e833f7_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

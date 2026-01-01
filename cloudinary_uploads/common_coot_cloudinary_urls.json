@@ -1,0 +1,152 @@
+{
+  "bird_info": {
+    "slug": "common_coot",
+    "chinese_name": "白骨顶",
+    "english_name": "Common Coot",
+    "scientific_name": "Fulica atra"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_coot_303953581.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318959/bird-gallery/common_coot/macaulay/common_coot_303953581.jpg",
+      "public_id": "bird-gallery/common_coot/macaulay/common_coot_303953581",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 80507,
+      "attribution": {
+        "photographer": "Kuzey Cem Kulaçoğlu",
+        "photographer_url": "https://macaulaylibrary.org/asset/303953581",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kuzey Cem Kulaçoğlu; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "303953581",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_coot_482273531.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318960/bird-gallery/common_coot/macaulay/common_coot_482273531.jpg",
+      "public_id": "bird-gallery/common_coot/macaulay/common_coot_482273531",
+      "width": 1200,
+      "height": 688,
+      "format": "jpg",
+      "bytes": 87780,
+      "attribution": {
+        "photographer": "Martin Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/482273531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Martin Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "482273531",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_coot_613812610.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318962/bird-gallery/common_coot/macaulay/common_coot_613812610.jpg",
+      "public_id": "bird-gallery/common_coot/macaulay/common_coot_613812610",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 45948,
+      "attribution": {
+        "photographer": "Alexis Lours",
+        "photographer_url": "https://macaulaylibrary.org/asset/613812610",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Alexis Lours; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "613812610",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_coot_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313150/bird-gallery/common_coot/inaturalist/common_coot_2.jpg",
+      "public_id": "bird-gallery/common_coot/inaturalist/common_coot_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66147,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "common_coot_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313151/bird-gallery/common_coot/inaturalist/common_coot_3.jpg",
+      "public_id": "bird-gallery/common_coot/inaturalist/common_coot_3",
+      "width": 1000,
+      "height": 689,
+      "format": "jpg",
+      "bytes": 91041,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "common_coot_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313153/bird-gallery/common_coot/wikimedia/common_coot_1.jpg",
+      "public_id": "bird-gallery/common_coot/wikimedia/common_coot_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71967,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "common_coot_217023251.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764318927/bird-gallery/common_coot/sounds/common_coot_217023251.mp3",
+      "public_id": "bird-gallery/common_coot/sounds/common_coot_217023251",
+      "duration": 37.776,
+      "format": "mp3",
+      "bytes": 921356,
+      "bit_rate": 195119,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "217023251",
+        "asset_url": "https://macaulaylibrary.org/asset/217023251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

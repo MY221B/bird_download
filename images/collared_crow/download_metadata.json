@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "collared_crow_137923461.jpg",
+      "asset_id": "137923461",
+      "asset_url": "https://macaulaylibrary.org/asset/137923461"
+    },
+    {
+      "filename": "collared_crow_73084131.jpg",
+      "asset_id": "73084131",
+      "asset_url": "https://macaulaylibrary.org/asset/73084131"
+    },
+    {
+      "filename": "collared_crow_225755821.jpg",
+      "asset_id": "225755821",
+      "asset_url": "https://macaulaylibrary.org/asset/225755821"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "collared_crow_1.jpg",
+      "observation_id": 69300739,
+      "photo_id": 112430013,
+      "observation_url": "https://www.inaturalist.org/observations/69300739",
+      "photographer": "stephenmatthews",
+      "license": "cc0",
+      "credit_format": "© stephenmatthews (via iNaturalist), some rights reserved (CC0)"
+    },
+    {
+      "filename": "collared_crow_2.jpg",
+      "observation_id": 204113505,
+      "photo_id": 360734666,
+      "observation_url": "https://www.inaturalist.org/observations/204113505",
+      "photographer": "iamkcchan",
+      "license": "all-rights-reserved",
+      "credit_format": "© iamkcchan (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "collared_crow_3.jpg",
+      "observation_id": 255167973,
+      "photo_id": 457222949,
+      "observation_url": "https://www.inaturalist.org/observations/255167973",
+      "photographer": "jimjimjim",
+      "license": "cc-by-nc",
+      "credit_format": "© jimjimjim (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_2154017398_588359f8c7_b.jpg",
+      "flickr_photo_id": "2154017398",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=2154017398",
+      "source_url": "https://farm3.staticflickr.com/2062/2154017398_588359f8c7_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_4611476215_21511b45cb_b.jpg",
+      "flickr_photo_id": "4611476215",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=4611476215",
+      "source_url": "https://farm4.staticflickr.com/3189/4611476215_21511b45cb_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_34084453576_796c745a86_b.jpg",
+      "flickr_photo_id": "34084453576",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=34084453576",
+      "source_url": "https://farm3.staticflickr.com/2827/34084453576_796c745a86_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

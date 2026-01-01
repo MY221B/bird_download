@@ -1,0 +1,26 @@
+# 鸟类批量下载模板
+# 格式: slug,english_name,scientific_name,wikipedia_page
+# 
+# 说明:
+# - slug: 用于文件夹和文件命名的唯一标识符（小写字母+下划线）
+# - english_name: 英文名称
+# - scientific_name: 学名
+# - wikipedia_page: Wikipedia 页面名称（可选，默认为英文名替换空格为下划线）
+#
+# 示例 - 已下载的鸟类:
+bluetail,Red-flanked Bluetail,Tarsiger cyanurus,Red-flanked_Bluetail
+marsh_tit,Marsh Tit,Poecile palustris,Marsh_Tit
+hawfinch,Hawfinch,Coccothraustes coccothraustes,Hawfinch
+oriental_greenfinch,Oriental Greenfinch,Chloris sinica,Oriental_Greenfinch
+silver_throated_tit,Silver-throated Tit,Aegithalos glaucogularis,Silver-throated_Tit
+chinese_nuthatch,Chinese Nuthatch,Sitta villosa,Chinese_Nuthatch
+vinous_throated_parrotbill,Vinous-throated Parrotbill,Sinosuthora webbiana,Vinous-throated_Parrotbill
+great_tit,Great Tit,Parus minor,Great_Tit
+eurasian_skylark,Eurasian Skylark,Alauda arvensis,Eurasian_Skylark
+light_vented_bulbul,Light-vented Bulbul,Pycnonotus sinensis,Light-vented_Bulbul
+
+# 下面添加新的鸟类（取消注释或添加新行）:
+# 示例:
+# azure_tit,Azure Tit,Cyanistes cyanus,Azure_Tit
+# coal_tit,Coal Tit,Periparus ater,Coal_Tit
+

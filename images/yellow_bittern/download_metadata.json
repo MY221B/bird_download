@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "yellow_bittern_349337941.jpg",
+      "asset_id": "349337941",
+      "asset_url": "https://macaulaylibrary.org/asset/349337941"
+    },
+    {
+      "filename": "yellow_bittern_538864781.jpg",
+      "asset_id": "538864781",
+      "asset_url": "https://macaulaylibrary.org/asset/538864781"
+    },
+    {
+      "filename": "yellow_bittern_364803321.jpg",
+      "asset_id": "364803321",
+      "asset_url": "https://macaulaylibrary.org/asset/364803321"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "yellow_bittern_1.jpg",
+      "observation_id": 83762078,
+      "photo_id": 137597261,
+      "observation_url": "https://www.inaturalist.org/observations/83762078",
+      "photographer": "siyul",
+      "license": "all-rights-reserved",
+      "credit_format": "© siyul (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "yellow_bittern_2.jpg",
+      "observation_id": 162076698,
+      "photo_id": 280212158,
+      "observation_url": "https://www.inaturalist.org/observations/162076698",
+      "photographer": "tommyhui",
+      "license": "cc-by-nc",
+      "credit_format": "© tommyhui (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "yellow_bittern_3.jpg",
+      "observation_id": 96235802,
+      "photo_id": 159851460,
+      "observation_url": "https://www.inaturalist.org/observations/96235802",
+      "photographer": "oscarho",
+      "license": "all-rights-reserved",
+      "credit_format": "© oscarho (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53408834022_f6e2effc08_b.jpg",
+      "flickr_photo_id": "53408834022",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53408834022",
+      "source_url": "https://live.staticflickr.com/65535/53408834022_f6e2effc08_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_12938562194_31f45007a3_b.jpg",
+      "flickr_photo_id": "12938562194",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=12938562194",
+      "source_url": "https://live.staticflickr.com/3816/12938562194_31f45007a3_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_25180281391_a6d175a467_b.jpg",
+      "flickr_photo_id": "25180281391",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=25180281391",
+      "source_url": "https://live.staticflickr.com/1484/25180281391_a6d175a467_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "oriental_greenfinch_1.jpg",
+      "observation_id": 4924156,
+      "photo_id": 5999483,
+      "observation_url": "https://www.inaturalist.org/observations/4924156",
+      "photographer": "harumkoh",
+      "license": "cc-by-sa",
+      "credit_format": "\u00a9 harumkoh (via iNaturalist), some rights reserved (CC-BY-SA)"
+    },
+    {
+      "filename": "oriental_greenfinch_2.jpg",
+      "observation_id": 201433538,
+      "photo_id": 355580995,
+      "observation_url": "https://www.inaturalist.org/observations/201433538",
+      "photographer": "diomedea_exulans_li",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 diomedea_exulans_li (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "oriental_greenfinch_3.jpg",
+      "observation_id": 102390625,
+      "photo_id": 171143352,
+      "observation_url": "https://www.inaturalist.org/observations/102390625",
+      "photographer": "treefong",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 treefong (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

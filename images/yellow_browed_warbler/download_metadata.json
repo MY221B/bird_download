@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "yellow_browed_warbler_319138461.jpg",
+      "asset_id": "319138461",
+      "asset_url": "https://macaulaylibrary.org/asset/319138461"
+    },
+    {
+      "filename": "yellow_browed_warbler_184696451.jpg",
+      "asset_id": "184696451",
+      "asset_url": "https://macaulaylibrary.org/asset/184696451"
+    },
+    {
+      "filename": "yellow_browed_warbler_279182851.jpg",
+      "asset_id": "279182851",
+      "asset_url": "https://macaulaylibrary.org/asset/279182851"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "yellow_browed_warbler_1.jpg",
+      "observation_id": 2712964,
+      "photo_id": 3057945,
+      "observation_url": "https://www.inaturalist.org/observations/2712964",
+      "photographer": "mlodinow",
+      "license": "cc-by-nc",
+      "credit_format": "© mlodinow (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "yellow_browed_warbler_2.jpg",
+      "observation_id": 34678409,
+      "photo_id": 54607236,
+      "observation_url": "https://www.inaturalist.org/observations/34678409",
+      "photographer": "jgatten",
+      "license": "all-rights-reserved",
+      "credit_format": "© jgatten (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "yellow_browed_warbler_3.jpg",
+      "observation_id": 114881592,
+      "photo_id": 193939306,
+      "observation_url": "https://www.inaturalist.org/observations/114881592",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50840530651_5dcc222c66_b.jpg",
+      "flickr_photo_id": "50840530651",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50840530651",
+      "source_url": "https://live.staticflickr.com/65535/50840530651_5dcc222c66_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_50718149911_db731e8049_b.jpg",
+      "flickr_photo_id": "50718149911",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50718149911",
+      "source_url": "https://live.staticflickr.com/65535/50718149911_db731e8049_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_10594214873_cfb8459f8e_b.jpg",
+      "flickr_photo_id": "10594214873",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=10594214873",
+      "source_url": "https://live.staticflickr.com/5503/10594214873_cfb8459f8e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

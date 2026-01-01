@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "red_crested_pochard_203074381.jpg",
+      "asset_id": "203074381",
+      "asset_url": "https://macaulaylibrary.org/asset/203074381"
+    },
+    {
+      "filename": "red_crested_pochard_315616931.jpg",
+      "asset_id": "315616931",
+      "asset_url": "https://macaulaylibrary.org/asset/315616931"
+    },
+    {
+      "filename": "red_crested_pochard_23442101.jpg",
+      "asset_id": "23442101",
+      "asset_url": "https://macaulaylibrary.org/asset/23442101"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "red_crested_pochard_1.jpg",
+      "observation_id": 202109599,
+      "photo_id": 423714582,
+      "observation_url": "https://www.inaturalist.org/observations/202109599",
+      "photographer": "diegodgd",
+      "license": "cc-by",
+      "credit_format": "© diegodgd (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "red_crested_pochard_2.jpg",
+      "observation_id": 137329619,
+      "photo_id": 234520728,
+      "observation_url": "https://www.inaturalist.org/observations/137329619",
+      "photographer": "pathfinder72",
+      "license": "all-rights-reserved",
+      "credit_format": "© pathfinder72 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "red_crested_pochard_3.jpg",
+      "observation_id": 259356723,
+      "photo_id": 465554056,
+      "observation_url": "https://www.inaturalist.org/observations/259356723",
+      "photographer": "birdernerder",
+      "license": "cc-by-nc",
+      "credit_format": "© birdernerder (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51681113428_3a0deeed6c_b.jpg",
+      "flickr_photo_id": "51681113428",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51681113428",
+      "source_url": "https://live.staticflickr.com/65535/51681113428_3a0deeed6c_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51174182773_0c761322e8_b.jpg",
+      "flickr_photo_id": "51174182773",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51174182773",
+      "source_url": "https://live.staticflickr.com/65535/51174182773_0c761322e8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51961495807_d911692ff5_b.jpg",
+      "flickr_photo_id": "51961495807",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51961495807",
+      "source_url": "https://live.staticflickr.com/65535/51961495807_d911692ff5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "little_owl_294449971.jpg",
+      "asset_id": "294449971",
+      "asset_url": "https://macaulaylibrary.org/asset/294449971"
+    },
+    {
+      "filename": "little_owl_250510051.jpg",
+      "asset_id": "250510051",
+      "asset_url": "https://macaulaylibrary.org/asset/250510051"
+    },
+    {
+      "filename": "little_owl_624087355.jpg",
+      "asset_id": "624087355",
+      "asset_url": "https://macaulaylibrary.org/asset/624087355"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "little_owl_1.jpg",
+      "observation_id": 277688103,
+      "photo_id": 498607388,
+      "observation_url": "https://www.inaturalist.org/observations/277688103",
+      "photographer": "jessica_peruzzo",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© jessica_peruzzo (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "little_owl_2.jpg",
+      "observation_id": 7290935,
+      "photo_id": 9431428,
+      "observation_url": "https://www.inaturalist.org/observations/7290935",
+      "photographer": "snehasis",
+      "license": "cc-by-nc",
+      "credit_format": "© snehasis (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "little_owl_3.jpg",
+      "observation_id": 145210680,
+      "photo_id": 249395842,
+      "observation_url": "https://www.inaturalist.org/observations/145210680",
+      "photographer": "cliygh-and-mia",
+      "license": "all-rights-reserved",
+      "credit_format": "© cliygh-and-mia (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54567786800_5b71c40a38_b.jpg",
+      "flickr_photo_id": "54567786800",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54567786800",
+      "source_url": "https://live.staticflickr.com/65535/54567786800_5b71c40a38_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_53716986867_51e5fb8d35_b.jpg",
+      "flickr_photo_id": "53716986867",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53716986867",
+      "source_url": "https://live.staticflickr.com/65535/53716986867_51e5fb8d35_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51218317546_a2981d57e5_b.jpg",
+      "flickr_photo_id": "51218317546",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51218317546",
+      "source_url": "https://live.staticflickr.com/65535/51218317546_a2981d57e5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

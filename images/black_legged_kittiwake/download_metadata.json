@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "black_legged_kittiwake_167803941.jpg",
+      "asset_id": "167803941",
+      "asset_url": "https://macaulaylibrary.org/asset/167803941"
+    },
+    {
+      "filename": "black_legged_kittiwake_167803911.jpg",
+      "asset_id": "167803911",
+      "asset_url": "https://macaulaylibrary.org/asset/167803911"
+    },
+    {
+      "filename": "black_legged_kittiwake_443097911.jpg",
+      "asset_id": "443097911",
+      "asset_url": "https://macaulaylibrary.org/asset/443097911"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "black_legged_kittiwake_1.jpg",
+      "observation_id": 18289367,
+      "photo_id": 27941060,
+      "observation_url": "https://www.inaturalist.org/observations/18289367",
+      "photographer": "gmucientes",
+      "license": "cc-by-nc",
+      "credit_format": "© gmucientes (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_legged_kittiwake_2.jpg",
+      "observation_id": 72712997,
+      "photo_id": 118596187,
+      "observation_url": "https://www.inaturalist.org/observations/72712997",
+      "photographer": "tomegatherion",
+      "license": "cc-by-nc",
+      "credit_format": "© tomegatherion (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_legged_kittiwake_3.jpg",
+      "observation_id": 2438364,
+      "photo_id": 2718977,
+      "observation_url": "https://www.inaturalist.org/observations/2438364",
+      "photographer": "ryanandrews",
+      "license": "cc-by-nc",
+      "credit_format": "© ryanandrews (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53087080866_391a13572f_b.jpg",
+      "flickr_photo_id": "53087080866",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53087080866",
+      "source_url": "https://live.staticflickr.com/65535/53087080866_391a13572f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_41674438301_5e711b9a94_b.jpg",
+      "flickr_photo_id": "41674438301",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=41674438301",
+      "source_url": "https://live.staticflickr.com/831/41674438301_5e711b9a94_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51760172403_1154e88840_b.jpg",
+      "flickr_photo_id": "51760172403",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51760172403",
+      "source_url": "https://live.staticflickr.com/65535/51760172403_1154e88840_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

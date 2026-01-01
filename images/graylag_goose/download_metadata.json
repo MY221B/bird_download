@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "graylag_goose_1.jpg",
+      "observation_id": 121212685,
+      "photo_id": 205093233,
+      "observation_url": "https://www.inaturalist.org/observations/121212685",
+      "photographer": "mesoplodon",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 mesoplodon (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "graylag_goose_2.jpg",
+      "observation_id": 185,
+      "photo_id": 106,
+      "observation_url": "https://www.inaturalist.org/observations/185",
+      "photographer": "tueda",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 tueda (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "graylag_goose_3.jpg",
+      "observation_id": 53080280,
+      "photo_id": 84409529,
+      "observation_url": "https://www.inaturalist.org/observations/53080280",
+      "photographer": "hungryholobiont",
+      "license": "cc-by",
+      "credit_format": "\u00a9 hungryholobiont (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51065561552_0821596465_b.jpg",
+      "flickr_photo_id": "51065561552",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51065561552",
+      "source_url": "https://live.staticflickr.com/65535/51065561552_0821596465_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_52229406771_a954c6b8c3_b.jpg",
+      "flickr_photo_id": "52229406771",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52229406771",
+      "source_url": "https://live.staticflickr.com/65535/52229406771_a954c6b8c3_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_51892798068_a8ed69a918_b.jpg",
+      "flickr_photo_id": "51892798068",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51892798068",
+      "source_url": "https://live.staticflickr.com/65535/51892798068_a8ed69a918_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

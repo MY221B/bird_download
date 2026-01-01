@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "mandarin_duck_1.jpg",
+      "observation_id": 102309745,
+      "photo_id": 170995013,
+      "observation_url": "https://www.inaturalist.org/observations/102309745",
+      "photographer": "blakemross",
+      "license": "cc-by",
+      "credit_format": "\u00a9 blakemross (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "mandarin_duck_2.jpg",
+      "observation_id": 73927430,
+      "photo_id": 120764538,
+      "observation_url": "https://www.inaturalist.org/observations/73927430",
+      "photographer": "olenashvets",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 olenashvets (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "mandarin_duck_3.jpg",
+      "observation_id": 66242173,
+      "photo_id": 106740899,
+      "observation_url": "https://www.inaturalist.org/observations/66242173",
+      "photographer": "vadim_shulgin",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 vadim_shulgin (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53793057764_845cb05ab5_b.jpg",
+      "flickr_photo_id": "53793057764",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53793057764",
+      "source_url": "https://live.staticflickr.com/65535/53793057764_845cb05ab5_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_52760476819_c8c455c8f3_b.jpg",
+      "flickr_photo_id": "52760476819",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52760476819",
+      "source_url": "https://live.staticflickr.com/65535/52760476819_c8c455c8f3_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_54416317864_cee1c35c01_b.jpg",
+      "flickr_photo_id": "54416317864",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54416317864",
+      "source_url": "https://live.staticflickr.com/65535/54416317864_cee1c35c01_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

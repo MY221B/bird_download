@@ -1,0 +1,50 @@
+{
+  "macaulay": [
+    {
+      "filename": "buff_bellied_pipit_487909491.jpg",
+      "asset_id": "487909491",
+      "asset_url": "https://macaulaylibrary.org/asset/487909491"
+    },
+    {
+      "filename": "buff_bellied_pipit_339405171.jpg",
+      "asset_id": "339405171",
+      "asset_url": "https://macaulaylibrary.org/asset/339405171"
+    },
+    {
+      "filename": "buff_bellied_pipit_421407771.jpg",
+      "asset_id": "421407771",
+      "asset_url": "https://macaulaylibrary.org/asset/421407771"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "buff_bellied_pipit_1.jpg",
+      "observation_id": 251821790,
+      "photo_id": 450658740,
+      "observation_url": "https://www.inaturalist.org/observations/251821790",
+      "photographer": "cjmatheson",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 cjmatheson (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "buff_bellied_pipit_2.jpg",
+      "observation_id": 248937056,
+      "photo_id": 444900736,
+      "observation_url": "https://www.inaturalist.org/observations/248937056",
+      "photographer": "serpophaga",
+      "license": "cc-by",
+      "credit_format": "\u00a9 serpophaga (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "buff_bellied_pipit_3.jpg",
+      "observation_id": 20838948,
+      "photo_id": 32146341,
+      "observation_url": "https://www.inaturalist.org/observations/20838948",
+      "photographer": "kson",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 kson (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

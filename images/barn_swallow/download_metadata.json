@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "barn_swallow_240408841.jpg",
+      "asset_id": "240408841",
+      "asset_url": "https://macaulaylibrary.org/asset/240408841"
+    },
+    {
+      "filename": "barn_swallow_614230600.jpg",
+      "asset_id": "614230600",
+      "asset_url": "https://macaulaylibrary.org/asset/614230600"
+    },
+    {
+      "filename": "barn_swallow_240894841.jpg",
+      "asset_id": "240894841",
+      "asset_url": "https://macaulaylibrary.org/asset/240894841"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "barn_swallow_1.jpg",
+      "observation_id": 10006129,
+      "photo_id": 13758591,
+      "observation_url": "https://www.inaturalist.org/observations/10006129",
+      "photographer": "chia",
+      "license": "cc-by-nc",
+      "credit_format": "© chia (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "barn_swallow_2.jpg",
+      "observation_id": 10674919,
+      "photo_id": 14903150,
+      "observation_url": "https://www.inaturalist.org/observations/10674919",
+      "photographer": "luisdefrias",
+      "license": "all-rights-reserved",
+      "credit_format": "© luisdefrias (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "barn_swallow_3.jpg",
+      "observation_id": 15146239,
+      "photo_id": 22640136,
+      "observation_url": "https://www.inaturalist.org/observations/15146239",
+      "photographer": "kalamurphyking",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© kalamurphyking (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51468746270_7ea816700d_b.jpg",
+      "flickr_photo_id": "51468746270",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51468746270",
+      "source_url": "https://live.staticflickr.com/65535/51468746270_7ea816700d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54533938529_3248132437_b.jpg",
+      "flickr_photo_id": "54533938529",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54533938529",
+      "source_url": "https://live.staticflickr.com/65535/54533938529_3248132437_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54296728138_79cc696565_b.jpg",
+      "flickr_photo_id": "54296728138",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54296728138",
+      "source_url": "https://live.staticflickr.com/65535/54296728138_79cc696565_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

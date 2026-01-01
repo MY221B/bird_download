@@ -1,0 +1,152 @@
+{
+  "bird_info": {
+    "slug": "manchurian_bush_warbler",
+    "chinese_name": "远东树莺",
+    "english_name": "Manchurian Bush Warbler",
+    "scientific_name": "Horornis canturians"
+  },
+  "macaulay": [
+    {
+      "original_file": "manchurian_bush_warbler_191279401.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765532649/bird-gallery/manchurian_bush_warbler/macaulay/manchurian_bush_warbler_191279401.jpg",
+      "public_id": "bird-gallery/manchurian_bush_warbler/macaulay/manchurian_bush_warbler_191279401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117864,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/191279401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "191279401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "manchurian_bush_warbler_409875271.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765532654/bird-gallery/manchurian_bush_warbler/macaulay/manchurian_bush_warbler_409875271.jpg",
+      "public_id": "bird-gallery/manchurian_bush_warbler/macaulay/manchurian_bush_warbler_409875271",
+      "width": 1200,
+      "height": 825,
+      "format": "jpg",
+      "bytes": 70266,
+      "attribution": {
+        "photographer": "Rui-Yang Ho",
+        "photographer_url": "https://macaulaylibrary.org/asset/409875271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rui-Yang Ho; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "409875271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "manchurian_bush_warbler_625109302.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765532658/bird-gallery/manchurian_bush_warbler/macaulay/manchurian_bush_warbler_625109302.jpg",
+      "public_id": "bird-gallery/manchurian_bush_warbler/macaulay/manchurian_bush_warbler_625109302",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85385,
+      "attribution": {
+        "photographer": "Woochan Kwon",
+        "photographer_url": "https://macaulaylibrary.org/asset/625109302",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Woochan Kwon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625109302",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "manchurian_bush_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765532666/bird-gallery/manchurian_bush_warbler/inaturalist/manchurian_bush_warbler_3.jpg",
+      "public_id": "bird-gallery/manchurian_bush_warbler/inaturalist/manchurian_bush_warbler_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 41638,
+      "attribution": {
+        "photographer": "aquacielo",
+        "photographer_url": "https://www.inaturalist.org/observations/83469431",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© aquacielo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 83469431,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_2_25275107887_82832a80d8_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765532669/bird-gallery/manchurian_bush_warbler/avibase/avibase_2_25275107887_82832a80d8_b.jpg",
+      "public_id": "bird-gallery/manchurian_bush_warbler/avibase/avibase_2_25275107887_82832a80d8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 119996,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "25275107887",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_40114027262_20a689a222_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765532670/bird-gallery/manchurian_bush_warbler/avibase/avibase_3_40114027262_20a689a222_b.jpg",
+      "public_id": "bird-gallery/manchurian_bush_warbler/avibase/avibase_3_40114027262_20a689a222_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 78506,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40114027262",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "manchurian_bush_warbler_185047651.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1765532679/bird-gallery/manchurian_bush_warbler/sounds/manchurian_bush_warbler_185047651.mp3",
+      "public_id": "bird-gallery/manchurian_bush_warbler/sounds/manchurian_bush_warbler_185047651",
+      "duration": 20.784,
+      "format": "mp3",
+      "bytes": 299228,
+      "bit_rate": 115176,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "185047651",
+        "asset_url": "https://macaulaylibrary.org/asset/185047651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

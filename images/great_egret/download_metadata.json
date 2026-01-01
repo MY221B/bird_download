@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "great_egret_266810541.jpg",
+      "asset_id": "266810541",
+      "asset_url": "https://macaulaylibrary.org/asset/266810541"
+    },
+    {
+      "filename": "great_egret_541443541.jpg",
+      "asset_id": "541443541",
+      "asset_url": "https://macaulaylibrary.org/asset/541443541"
+    },
+    {
+      "filename": "great_egret_531203101.jpg",
+      "asset_id": "531203101",
+      "asset_url": "https://macaulaylibrary.org/asset/531203101"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "great_egret_1.jpg",
+      "observation_id": 9170627,
+      "photo_id": 12406141,
+      "observation_url": "https://www.inaturalist.org/observations/9170627",
+      "photographer": "jpleonar",
+      "license": "cc-by-nc",
+      "credit_format": "© jpleonar (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "great_egret_2.jpg",
+      "observation_id": 1510205,
+      "photo_id": 1870681,
+      "observation_url": "https://www.inaturalist.org/observations/1510205",
+      "photographer": "hemant",
+      "license": "cc-by-nc",
+      "credit_format": "© hemant (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "great_egret_3.jpg",
+      "observation_id": 32133637,
+      "photo_id": 50369455,
+      "observation_url": "https://www.inaturalist.org/observations/32133637",
+      "photographer": "kyletansley",
+      "license": "cc-by-nc",
+      "credit_format": "© kyletansley (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53461239016_cf306a0c3c_b.jpg",
+      "flickr_photo_id": "53461239016",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53461239016",
+      "source_url": "https://live.staticflickr.com/65535/53461239016_cf306a0c3c_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51385423984_a853a6061a_b.jpg",
+      "flickr_photo_id": "51385423984",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51385423984",
+      "source_url": "https://live.staticflickr.com/65535/51385423984_a853a6061a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53274620286_89f66350cc_b.jpg",
+      "flickr_photo_id": "53274620286",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53274620286",
+      "source_url": "https://live.staticflickr.com/65535/53274620286_89f66350cc_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

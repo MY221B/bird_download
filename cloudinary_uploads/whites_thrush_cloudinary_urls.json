@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "whites_thrush",
+    "chinese_name": "虎斑地鸫",
+    "english_name": "White's Thrush",
+    "scientific_name": "Zoothera aurea"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "whites_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762355971/bird-gallery/whites_thrush/inaturalist/whites_thrush_1.jpg",
+      "public_id": "bird-gallery/whites_thrush/inaturalist/whites_thrush_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 65026,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/125895638",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 125895638,
+        "note": null
+      }
+    },
+    {
+      "original_file": "whites_thrush_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762355973/bird-gallery/whites_thrush/inaturalist/whites_thrush_2.jpg",
+      "public_id": "bird-gallery/whites_thrush/inaturalist/whites_thrush_2",
+      "width": 1024,
+      "height": 668,
+      "format": "jpg",
+      "bytes": 182515,
+      "attribution": {
+        "photographer": "boatbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/139410495",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© boatbirder (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 139410495,
+        "note": null
+      }
+    },
+    {
+      "original_file": "whites_thrush_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762355975/bird-gallery/whites_thrush/inaturalist/whites_thrush_3.jpg",
+      "public_id": "bird-gallery/whites_thrush/inaturalist/whites_thrush_3",
+      "width": 1024,
+      "height": 701,
+      "format": "jpg",
+      "bytes": 185168,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/152948",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 152948,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

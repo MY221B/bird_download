@@ -1,0 +1,34 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "japanese_tit_1.jpg",
+      "observation_id": 19542484,
+      "photo_id": 30077255,
+      "observation_url": "https://www.inaturalist.org/observations/19542484",
+      "photographer": "kimssight",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 kimssight (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "japanese_tit_2.jpg",
+      "observation_id": 39633296,
+      "photo_id": 62897600,
+      "observation_url": "https://www.inaturalist.org/observations/39633296",
+      "photographer": "guyincognito",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 guyincognito (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "japanese_tit_3.jpg",
+      "observation_id": 200713659,
+      "photo_id": 354174434,
+      "observation_url": "https://www.inaturalist.org/observations/200713659",
+      "photographer": "rmacfie",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 rmacfie (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

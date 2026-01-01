@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "osprey",
+    "chinese_name": "鹗",
+    "english_name": "Osprey",
+    "scientific_name": "Pandion haliaetus"
+  },
+  "macaulay": [
+    {
+      "original_file": "osprey_108895471.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412396/bird-gallery/osprey/macaulay/osprey_108895471.jpg",
+      "public_id": "bird-gallery/osprey/macaulay/osprey_108895471",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 78232,
+      "attribution": {
+        "photographer": "William Higgins",
+        "photographer_url": "https://macaulaylibrary.org/asset/108895471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by William Higgins; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "108895471",
+        "note": null
+      }
+    },
+    {
+      "original_file": "osprey_265741751.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412401/bird-gallery/osprey/macaulay/osprey_265741751.jpg",
+      "public_id": "bird-gallery/osprey/macaulay/osprey_265741751",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 82764,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/265741751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "265741751",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "osprey_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412412/bird-gallery/osprey/inaturalist/osprey_2.jpg",
+      "public_id": "bird-gallery/osprey/inaturalist/osprey_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 29723,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/4870752",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 4870752,
+        "note": null
+      }
+    },
+    {
+      "original_file": "osprey_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412413/bird-gallery/osprey/inaturalist/osprey_3.jpg",
+      "public_id": "bird-gallery/osprey/inaturalist/osprey_3",
+      "width": 1024,
+      "height": 677,
+      "format": "jpg",
+      "bytes": 47834,
+      "attribution": {
+        "photographer": "nickmandalou",
+        "photographer_url": "https://www.inaturalist.org/observations/20510764",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© nickmandalou (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 20510764,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_3175681235_3dde4ed9da_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412414/bird-gallery/osprey/avibase/avibase_1_3175681235_3dde4ed9da_b.jpg",
+      "public_id": "bird-gallery/osprey/avibase/avibase_1_3175681235_3dde4ed9da_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61752,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "3175681235",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54732326798_9722bc2e99_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412416/bird-gallery/osprey/avibase/avibase_2_54732326798_9722bc2e99_b.jpg",
+      "public_id": "bird-gallery/osprey/avibase/avibase_2_54732326798_9722bc2e99_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90609,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54732326798",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53550138277_9d9d71826a_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412417/bird-gallery/osprey/avibase/avibase_3_53550138277_9d9d71826a_b.jpg",
+      "public_id": "bird-gallery/osprey/avibase/avibase_3_53550138277_9d9d71826a_b",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 72429,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53550138277",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "osprey_34075051.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1766412513/bird-gallery/osprey/sounds/osprey_34075051.mp3",
+      "public_id": "bird-gallery/osprey/sounds/osprey_34075051",
+      "duration": 27.984,
+      "format": "mp3",
+      "bytes": 502412,
+      "bit_rate": 143628,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "34075051",
+        "asset_url": "https://macaulaylibrary.org/asset/34075051",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

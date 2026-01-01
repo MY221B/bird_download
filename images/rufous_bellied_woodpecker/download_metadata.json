@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "rufous_bellied_woodpecker_560051161.jpg",
+      "asset_id": "560051161",
+      "asset_url": "https://macaulaylibrary.org/asset/560051161"
+    },
+    {
+      "filename": "rufous_bellied_woodpecker_635818594.jpg",
+      "asset_id": "635818594",
+      "asset_url": "https://macaulaylibrary.org/asset/635818594"
+    },
+    {
+      "filename": "rufous_bellied_woodpecker_630057409.jpg",
+      "asset_id": "630057409",
+      "asset_url": "https://macaulaylibrary.org/asset/630057409"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "rufous_bellied_woodpecker_1.jpg",
+      "observation_id": 95389986,
+      "photo_id": 158355760,
+      "observation_url": "https://www.inaturalist.org/observations/95389986",
+      "photographer": "iiukolov",
+      "license": "cc-by-nc",
+      "credit_format": "© iiukolov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "rufous_bellied_woodpecker_2.jpg",
+      "observation_id": 170426818,
+      "photo_id": 295584400,
+      "observation_url": "https://www.inaturalist.org/observations/170426818",
+      "photographer": "andrewbazdyrev",
+      "license": "cc-by",
+      "credit_format": "© andrewbazdyrev (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "rufous_bellied_woodpecker_3.jpg",
+      "observation_id": 147758791,
+      "photo_id": 254309921,
+      "observation_url": "https://www.inaturalist.org/observations/147758791",
+      "photographer": "huangmp",
+      "license": "cc-by-nc",
+      "credit_format": "© huangmp (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54227606929_a76220514f_b.jpg",
+      "flickr_photo_id": "54227606929",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54227606929",
+      "source_url": "https://live.staticflickr.com/65535/54227606929_a76220514f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52087153306_fb033b98e5_b.jpg",
+      "flickr_photo_id": "52087153306",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52087153306",
+      "source_url": "https://live.staticflickr.com/65535/52087153306_fb033b98e5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52766444585_cf21bdebd0_b.jpg",
+      "flickr_photo_id": "52766444585",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52766444585",
+      "source_url": "https://live.staticflickr.com/65535/52766444585_cf21bdebd0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

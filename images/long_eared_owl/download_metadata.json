@@ -1,0 +1,63 @@
+{
+  "macaulay": [
+    {
+      "filename": "long_eared_owl_188362181.jpg",
+      "asset_id": "188362181",
+      "asset_url": "https://macaulaylibrary.org/asset/188362181"
+    },
+    {
+      "filename": "long_eared_owl_45715401.jpg",
+      "asset_id": "45715401",
+      "asset_url": "https://macaulaylibrary.org/asset/45715401"
+    },
+    {
+      "filename": "long_eared_owl_139251191.jpg",
+      "asset_id": "139251191",
+      "asset_url": "https://macaulaylibrary.org/asset/139251191"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "long_eared_owl_1.jpg",
+      "observation_id": 35819512,
+      "photo_id": 56530053,
+      "observation_url": "https://www.inaturalist.org/observations/35819512",
+      "photographer": "ossifrage94",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© ossifrage94 (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "long_eared_owl_2.jpg",
+      "observation_id": 19826802,
+      "photo_id": 30562672,
+      "observation_url": "https://www.inaturalist.org/observations/19826802",
+      "photographer": "williamwisephoto",
+      "license": "all-rights-reserved",
+      "credit_format": "© williamwisephoto (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50936301786_28346e26a7_b.jpg",
+      "flickr_photo_id": "50936301786",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50936301786",
+      "source_url": "https://live.staticflickr.com/65535/50936301786_28346e26a7_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51187661046_b22ab93ccd_b.jpg",
+      "flickr_photo_id": "51187661046",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51187661046",
+      "source_url": "https://live.staticflickr.com/65535/51187661046_b22ab93ccd_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53808756590_05fcea6f9b_b.jpg",
+      "flickr_photo_id": "53808756590",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53808756590",
+      "source_url": "https://live.staticflickr.com/65535/53808756590_05fcea6f9b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

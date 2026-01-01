@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "mugimaki_flycatcher_49903741.jpg",
+      "asset_id": "49903741",
+      "asset_url": "https://macaulaylibrary.org/asset/49903741"
+    },
+    {
+      "filename": "mugimaki_flycatcher_538202111.jpg",
+      "asset_id": "538202111",
+      "asset_url": "https://macaulaylibrary.org/asset/538202111"
+    },
+    {
+      "filename": "mugimaki_flycatcher_556799011.jpg",
+      "asset_id": "556799011",
+      "asset_url": "https://macaulaylibrary.org/asset/556799011"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "mugimaki_flycatcher_1.jpg",
+      "observation_id": 58362212,
+      "photo_id": 93171038,
+      "observation_url": "https://www.inaturalist.org/observations/58362212",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "mugimaki_flycatcher_2.jpg",
+      "observation_id": 41222921,
+      "photo_id": 65376706,
+      "observation_url": "https://www.inaturalist.org/observations/41222921",
+      "photographer": "flycatcherwarblerthrush",
+      "license": "cc-by-nc",
+      "credit_format": "© flycatcherwarblerthrush (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "mugimaki_flycatcher_3.jpg",
+      "observation_id": 71364408,
+      "photo_id": 116180655,
+      "observation_url": "https://www.inaturalist.org/observations/71364408",
+      "photographer": "dana_white_0610",
+      "license": "all-rights-reserved",
+      "credit_format": "© dana_white_0610 (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49675772846_5c37c21af4_b.jpg",
+      "flickr_photo_id": "49675772846",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49675772846",
+      "source_url": "https://live.staticflickr.com/65535/49675772846_5c37c21af4_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_49899959812_d557800df0_b.jpg",
+      "flickr_photo_id": "49899959812",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49899959812",
+      "source_url": "https://live.staticflickr.com/65535/49899959812_d557800df0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_8555976249_a74478d80e_b.jpg",
+      "flickr_photo_id": "8555976249",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8555976249",
+      "source_url": "https://live.staticflickr.com/8232/8555976249_a74478d80e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

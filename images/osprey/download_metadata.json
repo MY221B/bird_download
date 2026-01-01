@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "osprey_538661131.jpg",
+      "asset_id": "538661131",
+      "asset_url": "https://macaulaylibrary.org/asset/538661131"
+    },
+    {
+      "filename": "osprey_108895471.jpg",
+      "asset_id": "108895471",
+      "asset_url": "https://macaulaylibrary.org/asset/108895471"
+    },
+    {
+      "filename": "osprey_265741751.jpg",
+      "asset_id": "265741751",
+      "asset_url": "https://macaulaylibrary.org/asset/265741751"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "osprey_1.jpg",
+      "observation_id": 101545860,
+      "photo_id": 169598841,
+      "observation_url": "https://www.inaturalist.org/observations/101545860",
+      "photographer": "jsbdives",
+      "license": "cc-by-nc",
+      "credit_format": "© jsbdives (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "osprey_2.jpg",
+      "observation_id": 4870752,
+      "photo_id": 5918176,
+      "observation_url": "https://www.inaturalist.org/observations/4870752",
+      "photographer": "greglasley",
+      "license": "cc-by-nc",
+      "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "osprey_3.jpg",
+      "observation_id": 20510764,
+      "photo_id": 31658015,
+      "observation_url": "https://www.inaturalist.org/observations/20510764",
+      "photographer": "nickmandalou",
+      "license": "all-rights-reserved",
+      "credit_format": "© nickmandalou (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_3175681235_3dde4ed9da_b.jpg",
+      "flickr_photo_id": "3175681235",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=3175681235",
+      "source_url": "https://live.staticflickr.com/3492/3175681235_3dde4ed9da_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54732326798_9722bc2e99_b.jpg",
+      "flickr_photo_id": "54732326798",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54732326798",
+      "source_url": "https://live.staticflickr.com/65535/54732326798_9722bc2e99_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53550138277_9d9d71826a_b.jpg",
+      "flickr_photo_id": "53550138277",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53550138277",
+      "source_url": "https://live.staticflickr.com/65535/53550138277_9d9d71826a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

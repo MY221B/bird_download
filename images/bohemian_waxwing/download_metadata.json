@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "bohemian_waxwing_51172791.jpg",
+      "asset_id": "51172791",
+      "asset_url": "https://macaulaylibrary.org/asset/51172791"
+    },
+    {
+      "filename": "bohemian_waxwing_521394341.jpg",
+      "asset_id": "521394341",
+      "asset_url": "https://macaulaylibrary.org/asset/521394341"
+    },
+    {
+      "filename": "bohemian_waxwing_134340871.jpg",
+      "asset_id": "134340871",
+      "asset_url": "https://macaulaylibrary.org/asset/134340871"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "bohemian_waxwing_1.jpg",
+      "observation_id": 71266415,
+      "photo_id": 116001476,
+      "observation_url": "https://www.inaturalist.org/observations/71266415",
+      "photographer": "kyletansley",
+      "license": "cc-by-nc",
+      "credit_format": "© kyletansley (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "bohemian_waxwing_2.jpg",
+      "observation_id": 197815162,
+      "photo_id": 348500101,
+      "observation_url": "https://www.inaturalist.org/observations/197815162",
+      "photographer": "g_kolotin",
+      "license": "cc-by-nc",
+      "credit_format": "© g_kolotin (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "bohemian_waxwing_3.jpg",
+      "observation_id": 105299740,
+      "photo_id": 176648805,
+      "observation_url": "https://www.inaturalist.org/observations/105299740",
+      "photographer": "abcdefgewing",
+      "license": "cc-by-nc",
+      "credit_format": "© abcdefgewing (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_32302001378_6ff9375d7b_b.jpg",
+      "flickr_photo_id": "32302001378",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=32302001378",
+      "source_url": "https://live.staticflickr.com/4904/32302001378_6ff9375d7b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54527176351_4a66b30124_b.jpg",
+      "flickr_photo_id": "54527176351",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54527176351",
+      "source_url": "https://live.staticflickr.com/65535/54527176351_4a66b30124_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_49678640326_49f5f3c49d_b.jpg",
+      "flickr_photo_id": "49678640326",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49678640326",
+      "source_url": "https://live.staticflickr.com/65535/49678640326_49f5f3c49d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

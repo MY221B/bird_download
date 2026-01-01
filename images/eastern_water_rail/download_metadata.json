@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eastern_water_rail_267427721.jpg",
+      "asset_id": "267427721",
+      "asset_url": "https://macaulaylibrary.org/asset/267427721"
+    },
+    {
+      "filename": "eastern_water_rail_629498587.jpg",
+      "asset_id": "629498587",
+      "asset_url": "https://macaulaylibrary.org/asset/629498587"
+    },
+    {
+      "filename": "eastern_water_rail_197842941.jpg",
+      "asset_id": "197842941",
+      "asset_url": "https://macaulaylibrary.org/asset/197842941"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eastern_water_rail_1.jpg",
+      "observation_id": 142528693,
+      "photo_id": 244370391,
+      "observation_url": "https://www.inaturalist.org/observations/142528693",
+      "photographer": "watermargin",
+      "license": "cc-by-nc",
+      "credit_format": "© watermargin (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eastern_water_rail_2.jpg",
+      "observation_id": 201783629,
+      "photo_id": 356255250,
+      "observation_url": "https://www.inaturalist.org/observations/201783629",
+      "photographer": "luoycy",
+      "license": "cc-by-nc",
+      "credit_format": "© luoycy (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eastern_water_rail_3.jpg",
+      "observation_id": 108804483,
+      "photo_id": 183263981,
+      "observation_url": "https://www.inaturalist.org/observations/108804483",
+      "photographer": "ededwarddd",
+      "license": "cc-by-nc",
+      "credit_format": "© ededwarddd (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52973036909_4c40c405da_b.jpg",
+      "flickr_photo_id": "52973036909",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52973036909",
+      "source_url": "https://live.staticflickr.com/65535/52973036909_4c40c405da_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_25127843055_06169f3757_b.jpg",
+      "flickr_photo_id": "25127843055",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=25127843055",
+      "source_url": "https://live.staticflickr.com/1708/25127843055_06169f3757_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_24497155854_101a60b50f_b.jpg",
+      "flickr_photo_id": "24497155854",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=24497155854",
+      "source_url": "https://live.staticflickr.com/1687/24497155854_101a60b50f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

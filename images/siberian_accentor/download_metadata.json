@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "siberian_accentor_1.jpg",
+      "observation_id": 192331703,
+      "photo_id": 337606695,
+      "observation_url": "https://www.inaturalist.org/observations/192331703",
+      "photographer": "basova_larisa",
+      "license": "cc-by-nc",
+      "credit_format": "© basova_larisa (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "siberian_accentor_2.jpg",
+      "observation_id": 40619083,
+      "photo_id": 64380889,
+      "observation_url": "https://www.inaturalist.org/observations/40619083",
+      "photographer": "guyincognito",
+      "license": "cc-by-nc",
+      "credit_format": "© guyincognito (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "siberian_accentor_3.jpg",
+      "observation_id": 85974539,
+      "photo_id": 147208894,
+      "observation_url": "https://www.inaturalist.org/observations/85974539",
+      "photographer": "stotherah",
+      "license": "cc-by-nc",
+      "credit_format": "© stotherah (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54831993563_cd2ec20c01_b.jpg",
+      "flickr_photo_id": "54831993563",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54831993563",
+      "source_url": "https://live.staticflickr.com/65535/54831993563_cd2ec20c01_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_30346078776_2ecab0e440_b.jpg",
+      "flickr_photo_id": "30346078776",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=30346078776",
+      "source_url": "https://live.staticflickr.com/5736/30346078776_2ecab0e440_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_29732592353_860331d913_b.jpg",
+      "flickr_photo_id": "29732592353",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=29732592353",
+      "source_url": "https://live.staticflickr.com/8560/29732592353_860331d913_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "red_billed_blue_magpie_205950991.jpg",
+      "asset_id": "205950991",
+      "asset_url": "https://macaulaylibrary.org/asset/205950991"
+    },
+    {
+      "filename": "red_billed_blue_magpie_614081902.jpg",
+      "asset_id": "614081902",
+      "asset_url": "https://macaulaylibrary.org/asset/614081902"
+    },
+    {
+      "filename": "red_billed_blue_magpie_506703911.jpg",
+      "asset_id": "506703911",
+      "asset_url": "https://macaulaylibrary.org/asset/506703911"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "red_billed_blue_magpie_1.jpg",
+      "observation_id": 106364562,
+      "photo_id": 178664718,
+      "observation_url": "https://www.inaturalist.org/observations/106364562",
+      "photographer": "brownsugar_iris",
+      "license": "all-rights-reserved",
+      "credit_format": "© brownsugar_iris (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "red_billed_blue_magpie_2.jpg",
+      "observation_id": 205113458,
+      "photo_id": 362617305,
+      "observation_url": "https://www.inaturalist.org/observations/205113458",
+      "photographer": "om48175",
+      "license": "all-rights-reserved",
+      "credit_format": "© om48175 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "red_billed_blue_magpie_3.jpg",
+      "observation_id": 81027224,
+      "photo_id": 132858328,
+      "observation_url": "https://www.inaturalist.org/observations/81027224",
+      "photographer": "shunqi",
+      "license": "cc-by-nc",
+      "credit_format": "© shunqi (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50625818596_b042e6f187_b.jpg",
+      "flickr_photo_id": "50625818596",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50625818596",
+      "source_url": "https://live.staticflickr.com/65535/50625818596_b042e6f187_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_9375128175_97a7b183bc_b.jpg",
+      "flickr_photo_id": "9375128175",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=9375128175",
+      "source_url": "https://live.staticflickr.com/5445/9375128175_97a7b183bc_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_9382567231_9553bd3559_b.jpg",
+      "flickr_photo_id": "9382567231",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=9382567231",
+      "source_url": "https://live.staticflickr.com/3695/9382567231_9553bd3559_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

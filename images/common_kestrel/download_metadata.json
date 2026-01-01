@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "common_kestrel_1.jpg",
+      "observation_id": 196492925,
+      "photo_id": 345956472,
+      "observation_url": "https://www.inaturalist.org/observations/196492925",
+      "photographer": "davidediana",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 davidediana (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "common_kestrel_2.jpg",
+      "observation_id": 258762312,
+      "photo_id": 464344844,
+      "observation_url": "https://www.inaturalist.org/observations/258762312",
+      "photographer": "mani_raab",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 mani_raab (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "common_kestrel_3.jpg",
+      "observation_id": 270051356,
+      "photo_id": 485614903,
+      "observation_url": "https://www.inaturalist.org/observations/270051356",
+      "photographer": "tastyrna",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 tastyrna (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50681996712_e45507b36b_b.jpg",
+      "flickr_photo_id": "50681996712",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50681996712",
+      "source_url": "https://live.staticflickr.com/65535/50681996712_e45507b36b_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_53797049835_f4fbf5ab62_b.jpg",
+      "flickr_photo_id": "53797049835",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53797049835",
+      "source_url": "https://live.staticflickr.com/65535/53797049835_f4fbf5ab62_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_51802192746_679f6b6d92_b.jpg",
+      "flickr_photo_id": "51802192746",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51802192746",
+      "source_url": "https://live.staticflickr.com/65535/51802192746_679f6b6d92_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

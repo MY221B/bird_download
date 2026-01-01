@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "japanese_thrush_431873281.jpg",
+      "asset_id": "431873281",
+      "asset_url": "https://macaulaylibrary.org/asset/431873281"
+    },
+    {
+      "filename": "japanese_thrush_117252271.jpg",
+      "asset_id": "117252271",
+      "asset_url": "https://macaulaylibrary.org/asset/117252271"
+    },
+    {
+      "filename": "japanese_thrush_542948651.jpg",
+      "asset_id": "542948651",
+      "asset_url": "https://macaulaylibrary.org/asset/542948651"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "japanese_thrush_1.jpg",
+      "observation_id": 18935789,
+      "photo_id": 29027650,
+      "observation_url": "https://www.inaturalist.org/observations/18935789",
+      "photographer": "biobank-lantauhk",
+      "license": "cc-by-nc",
+      "credit_format": "© biobank-lantauhk (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "japanese_thrush_2.jpg",
+      "observation_id": 23796413,
+      "photo_id": 36821282,
+      "observation_url": "https://www.inaturalist.org/observations/23796413",
+      "photographer": "kuok",
+      "license": "all-rights-reserved",
+      "credit_format": "© kuok (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "japanese_thrush_3.jpg",
+      "observation_id": 146695233,
+      "photo_id": 252266092,
+      "observation_url": "https://www.inaturalist.org/observations/146695233",
+      "photographer": "lawrencehylton",
+      "license": "cc-by",
+      "credit_format": "© lawrencehylton (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_8493855880_efe7101a2a_b.jpg",
+      "flickr_photo_id": "8493855880",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8493855880",
+      "source_url": "https://live.staticflickr.com/65535/8493855880_efe7101a2a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_49773888323_3f2ed7cec9_b.jpg",
+      "flickr_photo_id": "49773888323",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49773888323",
+      "source_url": "https://live.staticflickr.com/65535/49773888323_3f2ed7cec9_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_8625774840_61fb736c85_b.jpg",
+      "flickr_photo_id": "8625774840",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8625774840",
+      "source_url": "https://live.staticflickr.com/8108/8625774840_61fb736c85_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

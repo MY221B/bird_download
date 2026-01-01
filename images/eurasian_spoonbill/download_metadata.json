@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eurasian_spoonbill_259731781.jpg",
+      "asset_id": "259731781",
+      "asset_url": "https://macaulaylibrary.org/asset/259731781"
+    },
+    {
+      "filename": "eurasian_spoonbill_353634561.jpg",
+      "asset_id": "353634561",
+      "asset_url": "https://macaulaylibrary.org/asset/353634561"
+    },
+    {
+      "filename": "eurasian_spoonbill_708548.jpg",
+      "asset_id": "708548",
+      "asset_url": "https://macaulaylibrary.org/asset/708548"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eurasian_spoonbill_1.jpg",
+      "observation_id": 22805262,
+      "photo_id": 35345523,
+      "observation_url": "https://www.inaturalist.org/observations/22805262",
+      "photographer": "samueledevid",
+      "license": "all-rights-reserved",
+      "credit_format": "© samueledevid (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "eurasian_spoonbill_2.jpg",
+      "observation_id": 67533336,
+      "photo_id": 109132098,
+      "observation_url": "https://www.inaturalist.org/observations/67533336",
+      "photographer": "vkolomiychuk",
+      "license": "cc-by-nc",
+      "credit_format": "© vkolomiychuk (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_spoonbill_3.jpg",
+      "observation_id": 36094668,
+      "photo_id": 57011505,
+      "observation_url": "https://www.inaturalist.org/observations/36094668",
+      "photographer": "nickpapag",
+      "license": "cc-by-nc",
+      "credit_format": "© nickpapag (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51726802062_8ae6956d78_b.jpg",
+      "flickr_photo_id": "51726802062",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51726802062",
+      "source_url": "https://live.staticflickr.com/65535/51726802062_8ae6956d78_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_50103913126_21a4c41602_b.jpg",
+      "flickr_photo_id": "50103913126",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50103913126",
+      "source_url": "https://live.staticflickr.com/65535/50103913126_21a4c41602_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51502196516_4f6a9afe7e_b.jpg",
+      "flickr_photo_id": "51502196516",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51502196516",
+      "source_url": "https://live.staticflickr.com/65535/51502196516_4f6a9afe7e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

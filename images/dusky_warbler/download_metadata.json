@@ -1,0 +1,50 @@
+{
+  "macaulay": [
+    {
+      "filename": "dusky_warbler_231239301.jpg",
+      "asset_id": "231239301",
+      "asset_url": "https://macaulaylibrary.org/asset/231239301"
+    },
+    {
+      "filename": "dusky_warbler_388471181.jpg",
+      "asset_id": "388471181",
+      "asset_url": "https://macaulaylibrary.org/asset/388471181"
+    },
+    {
+      "filename": "dusky_warbler_78970021.jpg",
+      "asset_id": "78970021",
+      "asset_url": "https://macaulaylibrary.org/asset/78970021"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "dusky_warbler_1.jpg",
+      "observation_id": 130614413,
+      "photo_id": 222156296,
+      "observation_url": "https://www.inaturalist.org/observations/130614413",
+      "photographer": "olexandr_ghryb",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 olexandr_ghryb (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "dusky_warbler_2.jpg",
+      "observation_id": 186751359,
+      "photo_id": 326427509,
+      "observation_url": "https://www.inaturalist.org/observations/186751359",
+      "photographer": "anudibranchmom",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 anudibranchmom (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "dusky_warbler_3.jpg",
+      "observation_id": 25870374,
+      "photo_id": 40120623,
+      "observation_url": "https://www.inaturalist.org/observations/25870374",
+      "photographer": "bdaniels",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 bdaniels (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

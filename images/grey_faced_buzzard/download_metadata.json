@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "grey_faced_buzzard_278876691.jpg",
+      "asset_id": "278876691",
+      "asset_url": "https://macaulaylibrary.org/asset/278876691"
+    },
+    {
+      "filename": "grey_faced_buzzard_181776281.jpg",
+      "asset_id": "181776281",
+      "asset_url": "https://macaulaylibrary.org/asset/181776281"
+    },
+    {
+      "filename": "grey_faced_buzzard_139964381.jpg",
+      "asset_id": "139964381",
+      "asset_url": "https://macaulaylibrary.org/asset/139964381"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "grey_faced_buzzard_1.jpg",
+      "observation_id": 83410059,
+      "photo_id": 136985578,
+      "observation_url": "https://www.inaturalist.org/observations/83410059",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "grey_faced_buzzard_2.jpg",
+      "observation_id": 71501292,
+      "photo_id": 507452118,
+      "observation_url": "https://www.inaturalist.org/observations/71501292",
+      "photographer": "opisska",
+      "license": "cc-by",
+      "credit_format": "© opisska (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "grey_faced_buzzard_3.jpg",
+      "observation_id": 22281948,
+      "photo_id": 34506912,
+      "observation_url": "https://www.inaturalist.org/observations/22281948",
+      "photographer": "wangleeping",
+      "license": "cc-by-nc",
+      "credit_format": "© wangleeping (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_40907638151_591700d34c_b.jpg",
+      "flickr_photo_id": "40907638151",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=40907638151",
+      "source_url": "https://live.staticflickr.com/817/40907638151_591700d34c_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_27036808158_b10f330d1b_b.jpg",
+      "flickr_photo_id": "27036808158",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=27036808158",
+      "source_url": "https://live.staticflickr.com/791/27036808158_b10f330d1b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52563795382_71c09561c9_b.jpg",
+      "flickr_photo_id": "52563795382",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52563795382",
+      "source_url": "https://live.staticflickr.com/65535/52563795382_71c09561c9_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

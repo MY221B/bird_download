@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eurasian_nuthatch_191209781.jpg",
+      "asset_id": "191209781",
+      "asset_url": "https://macaulaylibrary.org/asset/191209781"
+    },
+    {
+      "filename": "eurasian_nuthatch_204918531.jpg",
+      "asset_id": "204918531",
+      "asset_url": "https://macaulaylibrary.org/asset/204918531"
+    },
+    {
+      "filename": "eurasian_nuthatch_270433781.jpg",
+      "asset_id": "270433781",
+      "asset_url": "https://macaulaylibrary.org/asset/270433781"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eurasian_nuthatch_1.jpg",
+      "observation_id": 18627217,
+      "photo_id": 28510014,
+      "observation_url": "https://www.inaturalist.org/observations/18627217",
+      "photographer": "tomegatherion",
+      "license": "cc-by-nc",
+      "credit_format": "© tomegatherion (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_nuthatch_2.jpg",
+      "observation_id": 43569513,
+      "photo_id": 69125341,
+      "observation_url": "https://www.inaturalist.org/observations/43569513",
+      "photographer": "siburhan",
+      "license": "cc-by",
+      "credit_format": "© siburhan (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "eurasian_nuthatch_3.jpg",
+      "observation_id": 252956131,
+      "photo_id": 452861194,
+      "observation_url": "https://www.inaturalist.org/observations/252956131",
+      "photographer": "diegodgd",
+      "license": "cc-by",
+      "credit_format": "© diegodgd (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53375158761_63059fed1d_b.jpg",
+      "flickr_photo_id": "53375158761",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53375158761",
+      "source_url": "https://live.staticflickr.com/65535/53375158761_63059fed1d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52346172958_d7ab78d721_b.jpg",
+      "flickr_photo_id": "52346172958",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52346172958",
+      "source_url": "https://live.staticflickr.com/65535/52346172958_d7ab78d721_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52757756705_61ec9b9971_b.jpg",
+      "flickr_photo_id": "52757756705",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52757756705",
+      "source_url": "https://live.staticflickr.com/65535/52757756705_61ec9b9971_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

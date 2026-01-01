@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eurasian_teal_501469651.jpg",
+      "asset_id": "501469651",
+      "asset_url": "https://macaulaylibrary.org/asset/501469651"
+    },
+    {
+      "filename": "eurasian_teal_322559021.jpg",
+      "asset_id": "322559021",
+      "asset_url": "https://macaulaylibrary.org/asset/322559021"
+    },
+    {
+      "filename": "eurasian_teal_422441021.jpg",
+      "asset_id": "422441021",
+      "asset_url": "https://macaulaylibrary.org/asset/422441021"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eurasian_teal_1.jpg",
+      "observation_id": 69418168,
+      "photo_id": 112626129,
+      "observation_url": "https://www.inaturalist.org/observations/69418168",
+      "photographer": "jartigas",
+      "license": "all-rights-reserved",
+      "credit_format": "© jartigas (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "eurasian_teal_2.jpg",
+      "observation_id": 106921869,
+      "photo_id": 179724497,
+      "observation_url": "https://www.inaturalist.org/observations/106921869",
+      "photographer": "bird-scope",
+      "license": "cc-by-nc",
+      "credit_format": "© bird-scope (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_teal_3.jpg",
+      "observation_id": 47482179,
+      "photo_id": 75311712,
+      "observation_url": "https://www.inaturalist.org/observations/47482179",
+      "photographer": "vmedvedev",
+      "license": "cc-by-nc",
+      "credit_format": "© vmedvedev (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49014927952_75741d751b_b.jpg",
+      "flickr_photo_id": "49014927952",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49014927952",
+      "source_url": "https://live.staticflickr.com/65535/49014927952_75741d751b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51877548529_6672320c70_b.jpg",
+      "flickr_photo_id": "51877548529",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51877548529",
+      "source_url": "https://live.staticflickr.com/65535/51877548529_6672320c70_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_44226335960_58a5f3c15d_b.jpg",
+      "flickr_photo_id": "44226335960",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=44226335960",
+      "source_url": "https://live.staticflickr.com/4823/44226335960_58a5f3c15d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

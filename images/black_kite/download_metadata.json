@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "black_kite_65441931.jpg",
+      "asset_id": "65441931",
+      "asset_url": "https://macaulaylibrary.org/asset/65441931"
+    },
+    {
+      "filename": "black_kite_470138931.jpg",
+      "asset_id": "470138931",
+      "asset_url": "https://macaulaylibrary.org/asset/470138931"
+    },
+    {
+      "filename": "black_kite_613046933.jpg",
+      "asset_id": "613046933",
+      "asset_url": "https://macaulaylibrary.org/asset/613046933"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "black_kite_1.jpg",
+      "observation_id": 120553164,
+      "photo_id": 203909109,
+      "observation_url": "https://www.inaturalist.org/observations/120553164",
+      "photographer": "entomor",
+      "license": "cc-by-nc",
+      "credit_format": "© entomor (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_kite_2.jpg",
+      "observation_id": 110573363,
+      "photo_id": 186549231,
+      "observation_url": "https://www.inaturalist.org/observations/110573363",
+      "photographer": "shukov",
+      "license": "cc-by-nc",
+      "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_kite_3.jpg",
+      "observation_id": 151103890,
+      "photo_id": 260668751,
+      "observation_url": "https://www.inaturalist.org/observations/151103890",
+      "photographer": "davidediana",
+      "license": "cc-by-nc",
+      "credit_format": "© davidediana (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54554036059_b8e912dafa_b.jpg",
+      "flickr_photo_id": "54554036059",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54554036059",
+      "source_url": "https://live.staticflickr.com/65535/54554036059_b8e912dafa_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_49698841298_ce7697ef96_b.jpg",
+      "flickr_photo_id": "49698841298",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49698841298",
+      "source_url": "https://live.staticflickr.com/65535/49698841298_ce7697ef96_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52919540949_e6f8e2c083_b.jpg",
+      "flickr_photo_id": "52919540949",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52919540949",
+      "source_url": "https://live.staticflickr.com/65535/52919540949_e6f8e2c083_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

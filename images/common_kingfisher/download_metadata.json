@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "common_kingfisher_1.jpg",
+      "observation_id": 50540962,
+      "photo_id": 80253148,
+      "observation_url": "https://www.inaturalist.org/observations/50540962",
+      "photographer": "patricialorenz",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 patricialorenz (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "common_kingfisher_2.jpg",
+      "observation_id": 9284651,
+      "photo_id": 12584278,
+      "observation_url": "https://www.inaturalist.org/observations/9284651",
+      "photographer": "maurizio53",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 maurizio53 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "common_kingfisher_3.jpg",
+      "observation_id": 1644485,
+      "photo_id": 2017553,
+      "observation_url": "https://www.inaturalist.org/observations/1644485",
+      "photographer": "devendrabhardwaj",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 devendrabhardwaj (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50842102988_e265845a35_b.jpg",
+      "flickr_photo_id": "50842102988",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50842102988",
+      "source_url": "https://live.staticflickr.com/65535/50842102988_e265845a35_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_48072233708_4605d1a4a8_b.jpg",
+      "flickr_photo_id": "48072233708",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48072233708",
+      "source_url": "https://live.staticflickr.com/65535/48072233708_4605d1a4a8_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_54174716308_43aed3744a_b.jpg",
+      "flickr_photo_id": "54174716308",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54174716308",
+      "source_url": "https://live.staticflickr.com/65535/54174716308_43aed3744a_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

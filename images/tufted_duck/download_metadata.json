@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "tufted_duck_316959041.jpg",
+      "asset_id": "316959041",
+      "asset_url": "https://macaulaylibrary.org/asset/316959041"
+    },
+    {
+      "filename": "tufted_duck_204245921.jpg",
+      "asset_id": "204245921",
+      "asset_url": "https://macaulaylibrary.org/asset/204245921"
+    },
+    {
+      "filename": "tufted_duck_219416591.jpg",
+      "asset_id": "219416591",
+      "asset_url": "https://macaulaylibrary.org/asset/219416591"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "tufted_duck_1.jpg",
+      "observation_id": 60085549,
+      "photo_id": 96051188,
+      "observation_url": "https://www.inaturalist.org/observations/60085549",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "tufted_duck_2.jpg",
+      "observation_id": 113122597,
+      "photo_id": 191128761,
+      "observation_url": "https://www.inaturalist.org/observations/113122597",
+      "photographer": "maxpauel",
+      "license": "cc-by-nc",
+      "credit_format": "© maxpauel (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "tufted_duck_3.jpg",
+      "observation_id": 262695515,
+      "photo_id": 471781428,
+      "observation_url": "https://www.inaturalist.org/observations/262695515",
+      "photographer": "k_ingfisher",
+      "license": "all-rights-reserved",
+      "credit_format": "© k_ingfisher (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54157031038_2eae002eb0_b.jpg",
+      "flickr_photo_id": "54157031038",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54157031038",
+      "source_url": "https://live.staticflickr.com/65535/54157031038_2eae002eb0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_49497329296_bf7449db28_b.jpg",
+      "flickr_photo_id": "49497329296",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49497329296",
+      "source_url": "https://live.staticflickr.com/65535/49497329296_bf7449db28_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54473619072_cbd72b9b45_b.jpg",
+      "flickr_photo_id": "54473619072",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54473619072",
+      "source_url": "https://live.staticflickr.com/65535/54473619072_cbd72b9b45_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "yellow_browed_bunting_623703403.jpg",
+      "asset_id": "623703403",
+      "asset_url": "https://macaulaylibrary.org/asset/623703403"
+    },
+    {
+      "filename": "yellow_browed_bunting_226385011.jpg",
+      "asset_id": "226385011",
+      "asset_url": "https://macaulaylibrary.org/asset/226385011"
+    },
+    {
+      "filename": "yellow_browed_bunting_319508031.jpg",
+      "asset_id": "319508031",
+      "asset_url": "https://macaulaylibrary.org/asset/319508031"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "yellow_browed_bunting_1.jpg",
+      "observation_id": 116090249,
+      "photo_id": 195921732,
+      "observation_url": "https://www.inaturalist.org/observations/116090249",
+      "photographer": "seokinyang",
+      "license": "cc-by-nc",
+      "credit_format": "© seokinyang (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "yellow_browed_bunting_2.jpg",
+      "observation_id": 115964840,
+      "photo_id": 195716809,
+      "observation_url": "https://www.inaturalist.org/observations/115964840",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "yellow_browed_bunting_3.jpg",
+      "observation_id": 35906125,
+      "photo_id": 56680386,
+      "observation_url": "https://www.inaturalist.org/observations/35906125",
+      "photographer": "wkcheng71",
+      "license": "all-rights-reserved",
+      "credit_format": "© wkcheng71 (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_9966095266_0a5e57d01d_b.jpg",
+      "flickr_photo_id": "9966095266",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=9966095266",
+      "source_url": "https://live.staticflickr.com/3784/9966095266_0a5e57d01d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_443531740_47d144f210_b.jpg",
+      "flickr_photo_id": "443531740",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=443531740",
+      "source_url": "https://live.staticflickr.com/183/443531740_47d144f210_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_8649759473_688e8f3b7b_b.jpg",
+      "flickr_photo_id": "8649759473",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8649759473",
+      "source_url": "https://farm9.staticflickr.com/8381/8649759473_688e8f3b7b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

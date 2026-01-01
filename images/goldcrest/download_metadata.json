@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "goldcrest_1.jpg",
+      "observation_id": 12748817,
+      "photo_id": 18662411,
+      "observation_url": "https://www.inaturalist.org/observations/12748817",
+      "photographer": "natali_sid",
+      "license": "all-rights-reserved",
+      "credit_format": "© natali_sid (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "goldcrest_2.jpg",
+      "observation_id": 250047141,
+      "photo_id": 447105272,
+      "observation_url": "https://www.inaturalist.org/observations/250047141",
+      "photographer": "miro_maric",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© miro_maric (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "goldcrest_3.jpg",
+      "observation_id": 67995777,
+      "photo_id": 110000029,
+      "observation_url": "https://www.inaturalist.org/observations/67995777",
+      "photographer": "frank103",
+      "license": "cc-by",
+      "credit_format": "© frank103 (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_48898930623_c1d5e832f7_b.jpg",
+      "flickr_photo_id": "48898930623",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48898930623",
+      "source_url": "https://live.staticflickr.com/65535/48898930623_c1d5e832f7_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_48889304902_306ae028aa_b.jpg",
+      "flickr_photo_id": "48889304902",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48889304902",
+      "source_url": "https://live.staticflickr.com/65535/48889304902_306ae028aa_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52401325914_1e302fd0d5_b.jpg",
+      "flickr_photo_id": "52401325914",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52401325914",
+      "source_url": "https://live.staticflickr.com/65535/52401325914_1e302fd0d5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

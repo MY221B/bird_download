@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "oriental_turtle_dove_1.jpg",
+      "observation_id": 87316354,
+      "photo_id": 143941108,
+      "observation_url": "https://www.inaturalist.org/observations/87316354",
+      "photographer": "kwright",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 kwright (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "oriental_turtle_dove_2.jpg",
+      "observation_id": 106106742,
+      "photo_id": 178183636,
+      "observation_url": "https://www.inaturalist.org/observations/106106742",
+      "photographer": "connorcochrane",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 connorcochrane (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "oriental_turtle_dove_3.jpg",
+      "observation_id": 87511281,
+      "photo_id": 144293490,
+      "observation_url": "https://www.inaturalist.org/observations/87511281",
+      "photographer": "egorbirder",
+      "license": "cc-by",
+      "credit_format": "\u00a9 egorbirder (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53843849067_dcc36893ea_b.jpg",
+      "flickr_photo_id": "53843849067",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53843849067",
+      "source_url": "https://live.staticflickr.com/65535/53843849067_dcc36893ea_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_40147609273_223d65753d_b.jpg",
+      "flickr_photo_id": "40147609273",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=40147609273",
+      "source_url": "https://live.staticflickr.com/65535/40147609273_223d65753d_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_47859172662_e8ce637d5d_b.jpg",
+      "flickr_photo_id": "47859172662",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=47859172662",
+      "source_url": "https://live.staticflickr.com/65535/47859172662_e8ce637d5d_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

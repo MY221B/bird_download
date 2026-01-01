@@ -1,0 +1,191 @@
+{
+  "bird_info": {
+    "slug": "great_egret",
+    "chinese_name": "大白鹭",
+    "english_name": "Great Egret",
+    "scientific_name": "Ardea alba"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_egret_266810541.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243485/bird-gallery/great_egret/macaulay/great_egret_266810541.jpg",
+      "public_id": "bird-gallery/great_egret/macaulay/great_egret_266810541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75576,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/266810541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "266810541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_egret_531203101.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243492/bird-gallery/great_egret/macaulay/great_egret_531203101.jpg",
+      "public_id": "bird-gallery/great_egret/macaulay/great_egret_531203101",
+      "width": 1200,
+      "height": 786,
+      "format": "jpg",
+      "bytes": 165670,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/531203101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "531203101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_egret_541443541.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243509/bird-gallery/great_egret/macaulay/great_egret_541443541.jpg",
+      "public_id": "bird-gallery/great_egret/macaulay/great_egret_541443541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98380,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/541443541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "541443541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "great_egret_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243518/bird-gallery/great_egret/inaturalist/great_egret_2.jpg",
+      "public_id": "bird-gallery/great_egret/inaturalist/great_egret_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75364,
+      "attribution": {
+        "photographer": "hemant",
+        "photographer_url": "https://www.inaturalist.org/observations/1510205",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hemant (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1510205,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_egret_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243520/bird-gallery/great_egret/inaturalist/great_egret_3.jpg",
+      "public_id": "bird-gallery/great_egret/inaturalist/great_egret_3",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 30724,
+      "attribution": {
+        "photographer": "kyletansley",
+        "photographer_url": "https://www.inaturalist.org/observations/32133637",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kyletansley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 32133637,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "great_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243522/bird-gallery/great_egret/wikimedia/great_egret_1.jpg",
+      "public_id": "bird-gallery/great_egret/wikimedia/great_egret_1",
+      "width": 250,
+      "height": 312,
+      "format": "jpg",
+      "bytes": 17274,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_51385423984_a853a6061a_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243525/bird-gallery/great_egret/avibase/avibase_2_51385423984_a853a6061a_b.jpg",
+      "public_id": "bird-gallery/great_egret/avibase/avibase_2_51385423984_a853a6061a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 12117,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51385423984",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53274620286_89f66350cc_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243527/bird-gallery/great_egret/avibase/avibase_3_53274620286_89f66350cc_b.jpg",
+      "public_id": "bird-gallery/great_egret/avibase/avibase_3_53274620286_89f66350cc_b",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 129394,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53274620286",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "great_egret_195869371.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321576/bird-gallery/great_egret/sounds/great_egret_195869371.mp3",
+      "public_id": "bird-gallery/great_egret/sounds/great_egret_195869371",
+      "duration": 12.0,
+      "format": "mp3",
+      "bytes": 174956,
+      "bit_rate": 116637,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "195869371",
+        "asset_url": "https://macaulaylibrary.org/asset/195869371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "black_crowned_night_heron_1.jpg",
+      "observation_id": 278117134,
+      "photo_id": 499365138,
+      "observation_url": "https://www.inaturalist.org/observations/278117134",
+      "photographer": "eleggua",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 eleggua (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_crowned_night_heron_2.jpg",
+      "observation_id": 183887439,
+      "photo_id": 331631886,
+      "observation_url": "https://www.inaturalist.org/observations/183887439",
+      "photographer": "mataniari",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 mataniari (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_crowned_night_heron_3.jpg",
+      "observation_id": 68659958,
+      "photo_id": 111234255,
+      "observation_url": "https://www.inaturalist.org/observations/68659958",
+      "photographer": "jdlacy",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 jdlacy (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51279531668_91e5160bd4_b.jpg",
+      "flickr_photo_id": "51279531668",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51279531668",
+      "source_url": "https://live.staticflickr.com/65535/51279531668_91e5160bd4_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_53572555359_54424026ac_b.jpg",
+      "flickr_photo_id": "53572555359",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53572555359",
+      "source_url": "https://live.staticflickr.com/65535/53572555359_54424026ac_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_51825548417_f80a76eb7d_b.jpg",
+      "flickr_photo_id": "51825548417",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51825548417",
+      "source_url": "https://live.staticflickr.com/65535/51825548417_f80a76eb7d_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

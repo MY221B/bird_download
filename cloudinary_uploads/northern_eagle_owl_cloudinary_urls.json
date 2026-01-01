@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "northern_eagle_owl",
+    "chinese_name": "雕鸮",
+    "english_name": "Northern Eagle Owl",
+    "scientific_name": "Bubo bubo"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_eagle_owl_352664711.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242635/bird-gallery/northern_eagle_owl/macaulay/northern_eagle_owl_352664711.jpg",
+      "public_id": "bird-gallery/northern_eagle_owl/macaulay/northern_eagle_owl_352664711",
+      "width": 1200,
+      "height": 697,
+      "format": "jpg",
+      "bytes": 72930,
+      "attribution": {
+        "photographer": "Matti Rekilä",
+        "photographer_url": "https://macaulaylibrary.org/asset/352664711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matti Rekilä; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "352664711",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_eagle_owl_386018541.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242642/bird-gallery/northern_eagle_owl/macaulay/northern_eagle_owl_386018541.jpg",
+      "public_id": "bird-gallery/northern_eagle_owl/macaulay/northern_eagle_owl_386018541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 111236,
+      "attribution": {
+        "photographer": "Ana  Mendes do Carmo",
+        "photographer_url": "https://macaulaylibrary.org/asset/386018541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ana  Mendes do Carmo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "386018541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_eagle_owl_531997701.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242651/bird-gallery/northern_eagle_owl/macaulay/northern_eagle_owl_531997701.jpg",
+      "public_id": "bird-gallery/northern_eagle_owl/macaulay/northern_eagle_owl_531997701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 94464,
+      "attribution": {
+        "photographer": "Daniel López-Velasco | Ornis Birding Expeditions",
+        "photographer_url": "https://macaulaylibrary.org/asset/531997701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Daniel López-Velasco | Ornis Birding Expeditions; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "531997701",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48177821097_ab7981fbde_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242664/bird-gallery/northern_eagle_owl/avibase/avibase_1_48177821097_ab7981fbde_b.jpg",
+      "public_id": "bird-gallery/northern_eagle_owl/avibase/avibase_1_48177821097_ab7981fbde_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 79396,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48177821097",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "northern_eagle_owl_59172501.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321035/bird-gallery/northern_eagle_owl/sounds/northern_eagle_owl_59172501.mp3",
+      "public_id": "bird-gallery/northern_eagle_owl/sounds/northern_eagle_owl_59172501",
+      "duration": 126.816,
+      "format": "mp3",
+      "bytes": 2470220,
+      "bit_rate": 155830,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "59172501",
+        "asset_url": "https://macaulaylibrary.org/asset/59172501",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "red_billed_starling_38812431.jpg",
+      "asset_id": "38812431",
+      "asset_url": "https://macaulaylibrary.org/asset/38812431"
+    },
+    {
+      "filename": "red_billed_starling_334148251.jpg",
+      "asset_id": "334148251",
+      "asset_url": "https://macaulaylibrary.org/asset/334148251"
+    },
+    {
+      "filename": "red_billed_starling_633843822.jpg",
+      "asset_id": "633843822",
+      "asset_url": "https://macaulaylibrary.org/asset/633843822"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "red_billed_starling_1.jpg",
+      "observation_id": 257890206,
+      "photo_id": 462634904,
+      "observation_url": "https://www.inaturalist.org/observations/257890206",
+      "photographer": "shirleywithr",
+      "license": "all-rights-reserved",
+      "credit_format": "© shirleywithr (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "red_billed_starling_2.jpg",
+      "observation_id": 188259006,
+      "photo_id": 329442714,
+      "observation_url": "https://www.inaturalist.org/observations/188259006",
+      "photographer": "kalvinchan",
+      "license": "cc-by",
+      "credit_format": "© kalvinchan (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "red_billed_starling_3.jpg",
+      "observation_id": 147179778,
+      "photo_id": 253209651,
+      "observation_url": "https://www.inaturalist.org/observations/147179778",
+      "photographer": "aerobird",
+      "license": "all-rights-reserved",
+      "credit_format": "© aerobird (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_47930055628_b15853c0fb_b.jpg",
+      "flickr_photo_id": "47930055628",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=47930055628",
+      "source_url": "https://live.staticflickr.com/65535/47930055628_b15853c0fb_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_48883516433_16ce0618bc_b.jpg",
+      "flickr_photo_id": "48883516433",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48883516433",
+      "source_url": "https://live.staticflickr.com/65535/48883516433_16ce0618bc_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_48884051011_63177a0d1d_b.jpg",
+      "flickr_photo_id": "48884051011",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48884051011",
+      "source_url": "https://live.staticflickr.com/65535/48884051011_63177a0d1d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

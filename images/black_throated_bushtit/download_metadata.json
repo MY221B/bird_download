@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "black_throated_bushtit_618005316.jpg",
+      "asset_id": "618005316",
+      "asset_url": "https://macaulaylibrary.org/asset/618005316"
+    },
+    {
+      "filename": "black_throated_bushtit_169336361.jpg",
+      "asset_id": "169336361",
+      "asset_url": "https://macaulaylibrary.org/asset/169336361"
+    },
+    {
+      "filename": "black_throated_bushtit_175686401.jpg",
+      "asset_id": "175686401",
+      "asset_url": "https://macaulaylibrary.org/asset/175686401"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "black_throated_bushtit_1.jpg",
+      "observation_id": 34180886,
+      "photo_id": 53761919,
+      "observation_url": "https://www.inaturalist.org/observations/34180886",
+      "photographer": "dbeadle",
+      "license": "all-rights-reserved",
+      "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "black_throated_bushtit_2.jpg",
+      "observation_id": 143643190,
+      "photo_id": 246382401,
+      "observation_url": "https://www.inaturalist.org/observations/143643190",
+      "photographer": "hilucas",
+      "license": "all-rights-reserved",
+      "credit_format": "© hilucas (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "black_throated_bushtit_3.jpg",
+      "observation_id": 171545315,
+      "photo_id": 297684573,
+      "observation_url": "https://www.inaturalist.org/observations/171545315",
+      "photographer": "avinashbhagat2",
+      "license": "cc-by-nc",
+      "credit_format": "© avinashbhagat2 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52984490244_6f9b1311ed_b.jpg",
+      "flickr_photo_id": "52984490244",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52984490244",
+      "source_url": "https://live.staticflickr.com/65535/52984490244_6f9b1311ed_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_14642926754_61ab9d09db_b.jpg",
+      "flickr_photo_id": "14642926754",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=14642926754",
+      "source_url": "https://live.staticflickr.com/65535/14642926754_61ab9d09db_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_48073399106_6db871ed27_b.jpg",
+      "flickr_photo_id": "48073399106",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48073399106",
+      "source_url": "https://live.staticflickr.com/65535/48073399106_6db871ed27_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

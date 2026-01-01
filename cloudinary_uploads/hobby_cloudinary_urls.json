@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "hobby",
+    "chinese_name": "燕隼",
+    "english_name": "Hobby",
+    "scientific_name": "Falco subbuteo"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "hobby_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765533531/bird-gallery/hobby/inaturalist/hobby_3.jpg",
+      "public_id": "bird-gallery/hobby/inaturalist/hobby_3",
+      "width": 1024,
+      "height": 835,
+      "format": "jpg",
+      "bytes": 32602,
+      "attribution": {
+        "photographer": "mcekovic",
+        "photographer_url": "https://www.inaturalist.org/observations/239119952",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mcekovic (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 239119952,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54791196386_0d0c8bcc72_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765533533/bird-gallery/hobby/avibase/avibase_1_54791196386_0d0c8bcc72_b.jpg",
+      "public_id": "bird-gallery/hobby/avibase/avibase_1_54791196386_0d0c8bcc72_b",
+      "width": 1024,
+      "height": 612,
+      "format": "jpg",
+      "bytes": 106383,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54791196386",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_53930910531_c562488b24_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765533535/bird-gallery/hobby/avibase/avibase_2_53930910531_c562488b24_b.jpg",
+      "public_id": "bird-gallery/hobby/avibase/avibase_2_53930910531_c562488b24_b",
+      "width": 1024,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 141364,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53930910531",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54713892089_cc93934f19_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765533536/bird-gallery/hobby/avibase/avibase_3_54713892089_cc93934f19_b.jpg",
+      "public_id": "bird-gallery/hobby/avibase/avibase_3_54713892089_cc93934f19_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 9907,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54713892089",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "hobby_474392781.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764850054/bird-gallery/hobby/sounds/hobby_474392781.mp3",
+      "public_id": "bird-gallery/hobby/sounds/hobby_474392781",
+      "duration": 44.808,
+      "format": "mp3",
+      "bytes": 645980,
+      "bit_rate": 115332,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "474392781",
+        "asset_url": "https://macaulaylibrary.org/asset/474392781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

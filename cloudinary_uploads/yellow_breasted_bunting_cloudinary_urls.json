@@ -1,0 +1,207 @@
+{
+  "bird_info": {
+    "slug": "yellow_breasted_bunting",
+    "chinese_name": "黄胸鹀",
+    "english_name": "Yellow-breasted Bunting",
+    "scientific_name": "Emberiza aureola"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_breasted_bunting_313179501.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717668/bird-gallery/yellow_breasted_bunting/macaulay/yellow_breasted_bunting_313179501.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/macaulay/yellow_breasted_bunting_313179501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79019,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/313179501",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "313179501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_breasted_bunting_353963001.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717674/bird-gallery/yellow_breasted_bunting/macaulay/yellow_breasted_bunting_353963001.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/macaulay/yellow_breasted_bunting_353963001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100349,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/353963001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "353963001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_breasted_bunting_485820431.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717680/bird-gallery/yellow_breasted_bunting/macaulay/yellow_breasted_bunting_485820431.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/macaulay/yellow_breasted_bunting_485820431",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 67556,
+      "attribution": {
+        "photographer": "Zak Pohlen",
+        "photographer_url": "https://macaulaylibrary.org/asset/485820431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Zak Pohlen; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "485820431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_breasted_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717686/bird-gallery/yellow_breasted_bunting/inaturalist/yellow_breasted_bunting_1.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/inaturalist/yellow_breasted_bunting_1",
+      "width": 1024,
+      "height": 721,
+      "format": "jpg",
+      "bytes": 26007,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/284037568",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 284037568,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_breasted_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717691/bird-gallery/yellow_breasted_bunting/inaturalist/yellow_breasted_bunting_2.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/inaturalist/yellow_breasted_bunting_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 96621,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/60397450",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 60397450,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_breasted_bunting_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717694/bird-gallery/yellow_breasted_bunting/inaturalist/yellow_breasted_bunting_3.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/inaturalist/yellow_breasted_bunting_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 73468,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/89097899",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 89097899,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "yellow_breasted_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717696/bird-gallery/yellow_breasted_bunting/wikimedia/yellow_breasted_bunting_1.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/wikimedia/yellow_breasted_bunting_1",
+      "width": 1050,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 145841,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_33591717731_fd8aa9459f_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717698/bird-gallery/yellow_breasted_bunting/avibase/avibase_1_33591717731_fd8aa9459f_b.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/avibase/avibase_1_33591717731_fd8aa9459f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 86682,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "33591717731",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_33336650050_1a18b1e0ac_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717701/bird-gallery/yellow_breasted_bunting/avibase/avibase_2_33336650050_1a18b1e0ac_b.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/avibase/avibase_2_33336650050_1a18b1e0ac_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73374,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "33336650050",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_27739609725_3e7a978506_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717703/bird-gallery/yellow_breasted_bunting/avibase/avibase_3_27739609725_3e7a978506_b.jpg",
+      "public_id": "bird-gallery/yellow_breasted_bunting/avibase/avibase_3_27739609725_3e7a978506_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 85124,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "27739609725",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

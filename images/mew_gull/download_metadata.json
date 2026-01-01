@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "mew_gull_136303301.jpg",
+      "asset_id": "136303301",
+      "asset_url": "https://macaulaylibrary.org/asset/136303301"
+    },
+    {
+      "filename": "mew_gull_416864161.jpg",
+      "asset_id": "416864161",
+      "asset_url": "https://macaulaylibrary.org/asset/416864161"
+    },
+    {
+      "filename": "mew_gull_242340951.jpg",
+      "asset_id": "242340951",
+      "asset_url": "https://macaulaylibrary.org/asset/242340951"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "mew_gull_1.jpg",
+      "observation_id": 100323453,
+      "photo_id": 167424422,
+      "observation_url": "https://www.inaturalist.org/observations/100323453",
+      "photographer": "anna_parkhaeva",
+      "license": "cc-by-nc",
+      "credit_format": "© anna_parkhaeva (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "mew_gull_2.jpg",
+      "observation_id": 15801375,
+      "photo_id": 23616716,
+      "observation_url": "https://www.inaturalist.org/observations/15801375",
+      "photographer": "birdingman",
+      "license": "all-rights-reserved",
+      "credit_format": "© birdingman (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "mew_gull_3.jpg",
+      "observation_id": 21298120,
+      "photo_id": 32933786,
+      "observation_url": "https://www.inaturalist.org/observations/21298120",
+      "photographer": "marina_gorbunova",
+      "license": "cc-by-nc",
+      "credit_format": "© marina_gorbunova (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54378170786_b483dee797_b.jpg",
+      "flickr_photo_id": "54378170786",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54378170786",
+      "source_url": "https://live.staticflickr.com/65535/54378170786_b483dee797_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52149581544_d44d6ba911_b.jpg",
+      "flickr_photo_id": "52149581544",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52149581544",
+      "source_url": "https://live.staticflickr.com/65535/52149581544_d44d6ba911_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53117029467_1df9cc4914_b.jpg",
+      "flickr_photo_id": "53117029467",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53117029467",
+      "source_url": "https://live.staticflickr.com/65535/53117029467_1df9cc4914_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

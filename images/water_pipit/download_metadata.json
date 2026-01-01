@@ -1,0 +1,50 @@
+{
+  "macaulay": [
+    {
+      "filename": "water_pipit_450439741.jpg",
+      "asset_id": "450439741",
+      "asset_url": "https://macaulaylibrary.org/asset/450439741"
+    },
+    {
+      "filename": "water_pipit_630674481.jpg",
+      "asset_id": "630674481",
+      "asset_url": "https://macaulaylibrary.org/asset/630674481"
+    },
+    {
+      "filename": "water_pipit_79028331.jpg",
+      "asset_id": "79028331",
+      "asset_url": "https://macaulaylibrary.org/asset/79028331"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "water_pipit_1.jpg",
+      "observation_id": 201708324,
+      "photo_id": 356107772,
+      "observation_url": "https://www.inaturalist.org/observations/201708324",
+      "photographer": "croftylock",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 croftylock (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "water_pipit_2.jpg",
+      "observation_id": 2832103,
+      "photo_id": 3225661,
+      "observation_url": "https://www.inaturalist.org/observations/2832103",
+      "photographer": "paulcools",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 paulcools (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "water_pipit_3.jpg",
+      "observation_id": 100820230,
+      "photo_id": 168305569,
+      "observation_url": "https://www.inaturalist.org/observations/100820230",
+      "photographer": "plemos",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 plemos (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

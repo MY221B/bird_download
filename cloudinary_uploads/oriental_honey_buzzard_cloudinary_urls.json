@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "oriental_honey_buzzard",
+    "chinese_name": "凤头蜂鹰",
+    "english_name": "Oriental Honey-buzzard",
+    "scientific_name": "Pernis ptilorhynchus"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_honey_buzzard_626237714.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412431/bird-gallery/oriental_honey_buzzard/macaulay/oriental_honey_buzzard_626237714.jpg",
+      "public_id": "bird-gallery/oriental_honey_buzzard/macaulay/oriental_honey_buzzard_626237714",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 40193,
+      "attribution": {
+        "photographer": "Woochan Kwon",
+        "photographer_url": "https://macaulaylibrary.org/asset/626237714",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Woochan Kwon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "626237714",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_honey_buzzard_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412437/bird-gallery/oriental_honey_buzzard/inaturalist/oriental_honey_buzzard_1.jpg",
+      "public_id": "bird-gallery/oriental_honey_buzzard/inaturalist/oriental_honey_buzzard_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 47181,
+      "attribution": {
+        "photographer": "soo_eu_zen",
+        "photographer_url": "https://www.inaturalist.org/observations/137231499",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© soo_eu_zen (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 137231499,
+        "note": null
+      }
+    },
+    {
+      "original_file": "oriental_honey_buzzard_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412440/bird-gallery/oriental_honey_buzzard/inaturalist/oriental_honey_buzzard_3.jpg",
+      "public_id": "bird-gallery/oriental_honey_buzzard/inaturalist/oriental_honey_buzzard_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 20958,
+      "attribution": {
+        "photographer": "konstantinsamodurov",
+        "photographer_url": "https://www.inaturalist.org/observations/61110082",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© konstantinsamodurov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 61110082,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_40956650841_d2ff763092_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412441/bird-gallery/oriental_honey_buzzard/avibase/avibase_1_40956650841_d2ff763092_b.jpg",
+      "public_id": "bird-gallery/oriental_honey_buzzard/avibase/avibase_1_40956650841_d2ff763092_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 15790,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40956650841",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54649474738_28d14db732_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1766412442/bird-gallery/oriental_honey_buzzard/avibase/avibase_2_54649474738_28d14db732_b.jpg",
+      "public_id": "bird-gallery/oriental_honey_buzzard/avibase/avibase_2_54649474738_28d14db732_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 6742,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54649474738",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "oriental_honey_buzzard_285082491.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1766412517/bird-gallery/oriental_honey_buzzard/sounds/oriental_honey_buzzard_285082491.mp3",
+      "public_id": "bird-gallery/oriental_honey_buzzard/sounds/oriental_honey_buzzard_285082491",
+      "duration": 5.016,
+      "format": "mp3",
+      "bytes": 73244,
+      "bit_rate": 116816,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "285082491",
+        "asset_url": "https://macaulaylibrary.org/asset/285082491",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

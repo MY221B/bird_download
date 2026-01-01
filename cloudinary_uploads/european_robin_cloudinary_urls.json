@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "european_robin",
+    "chinese_name": "欧亚鸲",
+    "english_name": "European Robin",
+    "scientific_name": "Erithacus rubecula"
+  },
+  "macaulay": [
+    {
+      "original_file": "european_robin_417785421.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850002/bird-gallery/european_robin/macaulay/european_robin_417785421.jpg",
+      "public_id": "bird-gallery/european_robin/macaulay/european_robin_417785421",
+      "width": 1200,
+      "height": 1135,
+      "format": "jpg",
+      "bytes": 132796,
+      "attribution": {
+        "photographer": "Kike Junco",
+        "photographer_url": "https://macaulaylibrary.org/asset/417785421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kike Junco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "417785421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "european_robin_496144951.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850008/bird-gallery/european_robin/macaulay/european_robin_496144951.jpg",
+      "public_id": "bird-gallery/european_robin/macaulay/european_robin_496144951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71582,
+      "attribution": {
+        "photographer": "Alexander Montero",
+        "photographer_url": "https://macaulaylibrary.org/asset/496144951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Alexander Montero; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "496144951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "european_robin_626317354.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850013/bird-gallery/european_robin/macaulay/european_robin_626317354.jpg",
+      "public_id": "bird-gallery/european_robin/macaulay/european_robin_626317354",
+      "width": 1200,
+      "height": 809,
+      "format": "jpg",
+      "bytes": 88099,
+      "attribution": {
+        "photographer": "Veronika Švestková",
+        "photographer_url": "https://macaulaylibrary.org/asset/626317354",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Veronika Švestková; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "626317354",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "european_robin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850018/bird-gallery/european_robin/inaturalist/european_robin_1.jpg",
+      "public_id": "bird-gallery/european_robin/inaturalist/european_robin_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 41885,
+      "attribution": {
+        "photographer": "snicolai",
+        "photographer_url": "https://www.inaturalist.org/observations/143423438",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© snicolai (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143423438,
+        "note": null
+      }
+    },
+    {
+      "original_file": "european_robin_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850021/bird-gallery/european_robin/inaturalist/european_robin_2.jpg",
+      "public_id": "bird-gallery/european_robin/inaturalist/european_robin_2",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 59487,
+      "attribution": {
+        "photographer": "alexis_orion",
+        "photographer_url": "https://www.inaturalist.org/observations/19776411",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© alexis_orion (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 19776411,
+        "note": null
+      }
+    },
+    {
+      "original_file": "european_robin_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850022/bird-gallery/european_robin/inaturalist/european_robin_3.jpg",
+      "public_id": "bird-gallery/european_robin/inaturalist/european_robin_3",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 53771,
+      "attribution": {
+        "photographer": "alexis_orion",
+        "photographer_url": "https://www.inaturalist.org/observations/19776476",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© alexis_orion (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 19776476,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "european_robin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850024/bird-gallery/european_robin/wikimedia/european_robin_1.jpg",
+      "public_id": "bird-gallery/european_robin/wikimedia/european_robin_1",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 104746,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49691342401_bb957d3966_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850025/bird-gallery/european_robin/avibase/avibase_1_49691342401_bb957d3966_b.jpg",
+      "public_id": "bird-gallery/european_robin/avibase/avibase_1_49691342401_bb957d3966_b",
+      "width": 1024,
+      "height": 664,
+      "format": "jpg",
+      "bytes": 70597,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49691342401",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49754718062_f301bb4184_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850027/bird-gallery/european_robin/avibase/avibase_2_49754718062_f301bb4184_b.jpg",
+      "public_id": "bird-gallery/european_robin/avibase/avibase_2_49754718062_f301bb4184_b",
+      "width": 1024,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 87429,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49754718062",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53362797772_5d77ec134d_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764850028/bird-gallery/european_robin/avibase/avibase_3_53362797772_5d77ec134d_b.jpg",
+      "public_id": "bird-gallery/european_robin/avibase/avibase_3_53362797772_5d77ec134d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49969,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53362797772",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "european_robin_89108201.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764850043/bird-gallery/european_robin/sounds/european_robin_89108201.mp3",
+      "public_id": "bird-gallery/european_robin/sounds/european_robin_89108201",
+      "duration": 30.192,
+      "format": "mp3",
+      "bytes": 637532,
+      "bit_rate": 168927,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "89108201",
+        "asset_url": "https://macaulaylibrary.org/asset/89108201",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "bird_info": {
+    "slug": "red_breasted_merganser",
+    "chinese_name": "红胸秋沙鸭",
+    "english_name": "Red-breasted Merganser",
+    "scientific_name": "Mergus serrator"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_breasted_merganser_224705981.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717475/bird-gallery/red_breasted_merganser/macaulay/red_breasted_merganser_224705981.jpg",
+      "public_id": "bird-gallery/red_breasted_merganser/macaulay/red_breasted_merganser_224705981",
+      "width": 1200,
+      "height": 695,
+      "format": "jpg",
+      "bytes": 62253,
+      "attribution": {
+        "photographer": "Jay McGowan",
+        "photographer_url": "https://macaulaylibrary.org/asset/224705981",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jay McGowan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "224705981",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_breasted_merganser_551443731.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717482/bird-gallery/red_breasted_merganser/macaulay/red_breasted_merganser_551443731.jpg",
+      "public_id": "bird-gallery/red_breasted_merganser/macaulay/red_breasted_merganser_551443731",
+      "width": 1200,
+      "height": 868,
+      "format": "jpg",
+      "bytes": 68979,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/551443731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "551443731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_breasted_merganser_55287461.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717489/bird-gallery/red_breasted_merganser/macaulay/red_breasted_merganser_55287461.jpg",
+      "public_id": "bird-gallery/red_breasted_merganser/macaulay/red_breasted_merganser_55287461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77878,
+      "attribution": {
+        "photographer": "Evan Lipton",
+        "photographer_url": "https://macaulaylibrary.org/asset/55287461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Evan Lipton; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "55287461",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_breasted_merganser_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717495/bird-gallery/red_breasted_merganser/inaturalist/red_breasted_merganser_1.jpg",
+      "public_id": "bird-gallery/red_breasted_merganser/inaturalist/red_breasted_merganser_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59319,
+      "attribution": {
+        "photographer": "ma_fink",
+        "photographer_url": "https://www.inaturalist.org/observations/147949495",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ma_fink (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147949495,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_breasted_merganser_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717497/bird-gallery/red_breasted_merganser/inaturalist/red_breasted_merganser_2.jpg",
+      "public_id": "bird-gallery/red_breasted_merganser/inaturalist/red_breasted_merganser_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48792,
+      "attribution": {
+        "photographer": "brianstahls",
+        "photographer_url": "https://www.inaturalist.org/observations/149272550",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© brianstahls (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 149272550,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_breasted_merganser_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717499/bird-gallery/red_breasted_merganser/inaturalist/red_breasted_merganser_3.jpg",
+      "public_id": "bird-gallery/red_breasted_merganser/inaturalist/red_breasted_merganser_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69215,
+      "attribution": {
+        "photographer": "skrentnyjeff",
+        "photographer_url": "https://www.inaturalist.org/observations/19837177",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© skrentnyjeff (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19837177,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "red_breasted_merganser_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717500/bird-gallery/red_breasted_merganser/wikimedia/red_breasted_merganser_1.jpg",
+      "public_id": "bird-gallery/red_breasted_merganser/wikimedia/red_breasted_merganser_1",
+      "width": 1200,
+      "height": 597,
+      "format": "jpg",
+      "bytes": 64920,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_26518639347_cf69d11104_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717508/bird-gallery/red_breasted_merganser/avibase/avibase_3_26518639347_cf69d11104_b.jpg",
+      "public_id": "bird-gallery/red_breasted_merganser/avibase/avibase_3_26518639347_cf69d11104_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 100437,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26518639347",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "red_breasted_merganser_3786.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321554/bird-gallery/red_breasted_merganser/sounds/red_breasted_merganser_3786.mp3",
+      "public_id": "bird-gallery/red_breasted_merganser/sounds/red_breasted_merganser_3786",
+      "duration": 31.56,
+      "format": "mp3",
+      "bytes": 434612,
+      "bit_rate": 110167,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "3786",
+        "asset_url": "https://macaulaylibrary.org/asset/3786",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

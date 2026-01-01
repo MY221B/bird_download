@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "hooded_crane_65590161.jpg",
+      "asset_id": "65590161",
+      "asset_url": "https://macaulaylibrary.org/asset/65590161"
+    },
+    {
+      "filename": "hooded_crane_65590231.jpg",
+      "asset_id": "65590231",
+      "asset_url": "https://macaulaylibrary.org/asset/65590231"
+    },
+    {
+      "filename": "hooded_crane_65590151.jpg",
+      "asset_id": "65590151",
+      "asset_url": "https://macaulaylibrary.org/asset/65590151"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "hooded_crane_1.jpg",
+      "observation_id": 186126187,
+      "photo_id": 325202496,
+      "observation_url": "https://www.inaturalist.org/observations/186126187",
+      "photographer": "slavalad",
+      "license": "all-rights-reserved",
+      "credit_format": "© slavalad (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "hooded_crane_2.jpg",
+      "observation_id": 98502322,
+      "photo_id": 164005783,
+      "observation_url": "https://www.inaturalist.org/observations/98502322",
+      "photographer": "d-catulus",
+      "license": "all-rights-reserved",
+      "credit_format": "© d-catulus (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "hooded_crane_3.jpg",
+      "observation_id": 234144051,
+      "photo_id": 416195889,
+      "observation_url": "https://www.inaturalist.org/observations/234144051",
+      "photographer": "roylesafaris",
+      "license": "cc-by-nc",
+      "credit_format": "© roylesafaris (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_39528454032_24fe283b32_b.jpg",
+      "flickr_photo_id": "39528454032",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=39528454032",
+      "source_url": "https://live.staticflickr.com/4647/39528454032_24fe283b32_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_5820629379_51b0e3b2c5_b.jpg",
+      "flickr_photo_id": "5820629379",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=5820629379",
+      "source_url": "https://live.staticflickr.com/3454/5820629379_51b0e3b2c5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_39595168432_e2f4f2b71d_b.jpg",
+      "flickr_photo_id": "39595168432",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=39595168432",
+      "source_url": "https://live.staticflickr.com/4721/39595168432_e2f4f2b71d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

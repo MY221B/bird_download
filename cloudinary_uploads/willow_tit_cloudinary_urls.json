@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "willow_tit",
+    "chinese_name": "褐头山雀",
+    "english_name": "Willow Tit",
+    "scientific_name": "Poecile montanus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "willow_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299252/bird-gallery/willow_tit/inaturalist/willow_tit_1.jpg",
+      "public_id": "bird-gallery/willow_tit/inaturalist/willow_tit_1",
+      "width": 1024,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 46089,
+      "attribution": {
+        "photographer": "naturebynigg",
+        "photographer_url": "https://www.inaturalist.org/observations/61245827",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© naturebynigg (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 61245827,
+        "note": null
+      }
+    },
+    {
+      "original_file": "willow_tit_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299254/bird-gallery/willow_tit/inaturalist/willow_tit_2.jpg",
+      "public_id": "bird-gallery/willow_tit/inaturalist/willow_tit_2",
+      "width": 842,
+      "height": 583,
+      "format": "jpg",
+      "bytes": 36688,
+      "attribution": {
+        "photographer": "olegdavydov",
+        "photographer_url": "https://www.inaturalist.org/observations/36118542",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© olegdavydov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36118542,
+        "note": null
+      }
+    },
+    {
+      "original_file": "willow_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299258/bird-gallery/willow_tit/inaturalist/willow_tit_3.jpg",
+      "public_id": "bird-gallery/willow_tit/inaturalist/willow_tit_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 117745,
+      "attribution": {
+        "photographer": "essiaro",
+        "photographer_url": "https://www.inaturalist.org/observations/99534903",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© essiaro (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 99534903,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39951606425_de23eff9a1_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299259/bird-gallery/willow_tit/avibase/avibase_1_39951606425_de23eff9a1_b.jpg",
+      "public_id": "bird-gallery/willow_tit/avibase/avibase_1_39951606425_de23eff9a1_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 106267,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39951606425",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51801957661_ee23ebbb09_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299262/bird-gallery/willow_tit/avibase/avibase_2_51801957661_ee23ebbb09_b.jpg",
+      "public_id": "bird-gallery/willow_tit/avibase/avibase_2_51801957661_ee23ebbb09_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 160719,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51801957661",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_51054875348_68079dfefd_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299264/bird-gallery/willow_tit/avibase/avibase_3_51054875348_68079dfefd_b.jpg",
+      "public_id": "bird-gallery/willow_tit/avibase/avibase_3_51054875348_68079dfefd_b",
+      "width": 735,
+      "height": 530,
+      "format": "jpg",
+      "bytes": 42223,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51054875348",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "willow_tit_375166541.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321271/bird-gallery/willow_tit/sounds/willow_tit_375166541.mp3",
+      "public_id": "bird-gallery/willow_tit/sounds/willow_tit_375166541",
+      "duration": 153.0,
+      "format": "mp3",
+      "bytes": 2209388,
+      "bit_rate": 115523,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "375166541",
+        "asset_url": "https://macaulaylibrary.org/asset/375166541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "bird_info": {
+    "slug": "eurasian_bullfinch",
+    "chinese_name": "红腹灰雀",
+    "english_name": "Eurasian Bullfinch",
+    "scientific_name": "Pyrrhula pyrrhula"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_bullfinch_204247951.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244781/bird-gallery/eurasian_bullfinch/macaulay/eurasian_bullfinch_204247951.jpg",
+      "public_id": "bird-gallery/eurasian_bullfinch/macaulay/eurasian_bullfinch_204247951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51483,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/204247951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204247951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_bullfinch_213503261.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244789/bird-gallery/eurasian_bullfinch/macaulay/eurasian_bullfinch_213503261.jpg",
+      "public_id": "bird-gallery/eurasian_bullfinch/macaulay/eurasian_bullfinch_213503261",
+      "width": 1200,
+      "height": 664,
+      "format": "jpg",
+      "bytes": 60138,
+      "attribution": {
+        "photographer": "Josep del Hoyo",
+        "photographer_url": "https://macaulaylibrary.org/asset/213503261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Josep del Hoyo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "213503261",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_bullfinch_251240291.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244796/bird-gallery/eurasian_bullfinch/macaulay/eurasian_bullfinch_251240291.jpg",
+      "public_id": "bird-gallery/eurasian_bullfinch/macaulay/eurasian_bullfinch_251240291",
+      "width": 1200,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 52439,
+      "attribution": {
+        "photographer": "Pascal De Munck",
+        "photographer_url": "https://macaulaylibrary.org/asset/251240291",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pascal De Munck; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "251240291",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_bullfinch_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244805/bird-gallery/eurasian_bullfinch/inaturalist/eurasian_bullfinch_2.jpg",
+      "public_id": "bird-gallery/eurasian_bullfinch/inaturalist/eurasian_bullfinch_2",
+      "width": 1024,
+      "height": 668,
+      "format": "jpg",
+      "bytes": 56512,
+      "attribution": {
+        "photographer": "mariameizoso",
+        "photographer_url": "https://www.inaturalist.org/observations/297250342",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariameizoso (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 297250342,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_bullfinch_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244809/bird-gallery/eurasian_bullfinch/wikimedia/eurasian_bullfinch_1.jpg",
+      "public_id": "bird-gallery/eurasian_bullfinch/wikimedia/eurasian_bullfinch_1",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 119400,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49797983092_3d9511747f_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244811/bird-gallery/eurasian_bullfinch/avibase/avibase_1_49797983092_3d9511747f_b.jpg",
+      "public_id": "bird-gallery/eurasian_bullfinch/avibase/avibase_1_49797983092_3d9511747f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58245,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49797983092",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52874736412_405f4602d6_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244813/bird-gallery/eurasian_bullfinch/avibase/avibase_2_52874736412_405f4602d6_b.jpg",
+      "public_id": "bird-gallery/eurasian_bullfinch/avibase/avibase_2_52874736412_405f4602d6_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 62634,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52874736412",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_51707304195_1aa883ff30_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764244817/bird-gallery/eurasian_bullfinch/avibase/avibase_3_51707304195_1aa883ff30_b.jpg",
+      "public_id": "bird-gallery/eurasian_bullfinch/avibase/avibase_3_51707304195_1aa883ff30_b",
+      "width": 1023,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 145978,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51707304195",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "eurasian_bullfinch_310479711.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764323239/bird-gallery/eurasian_bullfinch/sounds/eurasian_bullfinch_310479711.mp3",
+      "public_id": "bird-gallery/eurasian_bullfinch/sounds/eurasian_bullfinch_310479711",
+      "duration": 60.384,
+      "format": "mp3",
+      "bytes": 1001324,
+      "bit_rate": 132660,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "310479711",
+        "asset_url": "https://macaulaylibrary.org/asset/310479711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

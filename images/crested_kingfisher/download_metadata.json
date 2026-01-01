@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "crested_kingfisher_289820361.jpg",
+      "asset_id": "289820361",
+      "asset_url": "https://macaulaylibrary.org/asset/289820361"
+    },
+    {
+      "filename": "crested_kingfisher_59933281.jpg",
+      "asset_id": "59933281",
+      "asset_url": "https://macaulaylibrary.org/asset/59933281"
+    },
+    {
+      "filename": "crested_kingfisher_285668811.jpg",
+      "asset_id": "285668811",
+      "asset_url": "https://macaulaylibrary.org/asset/285668811"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "crested_kingfisher_1.jpg",
+      "observation_id": 253617886,
+      "photo_id": 454472960,
+      "observation_url": "https://www.inaturalist.org/observations/253617886",
+      "photographer": "whitebean",
+      "license": "all-rights-reserved",
+      "credit_format": "© whitebean (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "crested_kingfisher_2.jpg",
+      "observation_id": 9768226,
+      "photo_id": 13379221,
+      "observation_url": "https://www.inaturalist.org/observations/9768226",
+      "photographer": "balwantnegi",
+      "license": "cc-by-nc",
+      "credit_format": "© balwantnegi (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "crested_kingfisher_3.jpg",
+      "observation_id": 168366681,
+      "photo_id": 291766818,
+      "observation_url": "https://www.inaturalist.org/observations/168366681",
+      "photographer": "kaleksa",
+      "license": "cc-by-nc",
+      "credit_format": "© kaleksa (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_28858906446_e31246777b_b.jpg",
+      "flickr_photo_id": "28858906446",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=28858906446",
+      "source_url": "https://live.staticflickr.com/8781/28858906446_e31246777b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54526397047_e79993c1be_b.jpg",
+      "flickr_photo_id": "54526397047",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54526397047",
+      "source_url": "https://live.staticflickr.com/65535/54526397047_e79993c1be_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_28889844205_eb7485cb55_b.jpg",
+      "flickr_photo_id": "28889844205",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=28889844205",
+      "source_url": "https://live.staticflickr.com/8464/28889844205_eb7485cb55_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

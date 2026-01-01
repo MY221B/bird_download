@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "black_throated_thrush_396597831.jpg",
+      "asset_id": "396597831",
+      "asset_url": "https://macaulaylibrary.org/asset/396597831"
+    },
+    {
+      "filename": "black_throated_thrush_204950091.jpg",
+      "asset_id": "204950091",
+      "asset_url": "https://macaulaylibrary.org/asset/204950091"
+    },
+    {
+      "filename": "black_throated_thrush_199418721.jpg",
+      "asset_id": "199418721",
+      "asset_url": "https://macaulaylibrary.org/asset/199418721"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "black_throated_thrush_1.jpg",
+      "observation_id": 199347268,
+      "photo_id": 351543977,
+      "observation_url": "https://www.inaturalist.org/observations/199347268",
+      "photographer": "fattakhova_olga",
+      "license": "cc-by-nc",
+      "credit_format": "© fattakhova_olga (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_throated_thrush_2.jpg",
+      "observation_id": 257130757,
+      "photo_id": 461194218,
+      "observation_url": "https://www.inaturalist.org/observations/257130757",
+      "photographer": "alexander85656",
+      "license": "all-rights-reserved",
+      "credit_format": "© alexander85656 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "black_throated_thrush_3.jpg",
+      "observation_id": 64190098,
+      "photo_id": 103157272,
+      "observation_url": "https://www.inaturalist.org/observations/64190098",
+      "photographer": "scompeti",
+      "license": "cc-by-nc",
+      "credit_format": "© scompeti (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_8035248782_4f1a0aeb4e_b.jpg",
+      "flickr_photo_id": "8035248782",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8035248782",
+      "source_url": "https://live.staticflickr.com/8169/8035248782_4f1a0aeb4e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54103105638_1900fc8b00_b.jpg",
+      "flickr_photo_id": "54103105638",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54103105638",
+      "source_url": "https://live.staticflickr.com/65535/54103105638_1900fc8b00_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_49643660092_6de85196af_b.jpg",
+      "flickr_photo_id": "49643660092",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49643660092",
+      "source_url": "https://live.staticflickr.com/65535/49643660092_6de85196af_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

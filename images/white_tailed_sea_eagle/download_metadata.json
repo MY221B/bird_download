@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "white_tailed_sea_eagle_65433481.jpg",
+      "asset_id": "65433481",
+      "asset_url": "https://macaulaylibrary.org/asset/65433481"
+    },
+    {
+      "filename": "white_tailed_sea_eagle_629996814.jpg",
+      "asset_id": "629996814",
+      "asset_url": "https://macaulaylibrary.org/asset/629996814"
+    },
+    {
+      "filename": "white_tailed_sea_eagle_65433701.jpg",
+      "asset_id": "65433701",
+      "asset_url": "https://macaulaylibrary.org/asset/65433701"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "white_tailed_sea_eagle_1.jpg",
+      "observation_id": 258678379,
+      "photo_id": 464171776,
+      "observation_url": "https://www.inaturalist.org/observations/258678379",
+      "photographer": "mari4971",
+      "license": "cc-by-nc",
+      "credit_format": "© mari4971 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "white_tailed_sea_eagle_2.jpg",
+      "observation_id": 203529735,
+      "photo_id": 359614410,
+      "observation_url": "https://www.inaturalist.org/observations/203529735",
+      "photographer": "keithmaley04",
+      "license": "cc-by-nc",
+      "credit_format": "© keithmaley04 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "white_tailed_sea_eagle_3.jpg",
+      "observation_id": 217340776,
+      "photo_id": 384478211,
+      "observation_url": "https://www.inaturalist.org/observations/217340776",
+      "photographer": "mikhailezdakov",
+      "license": "cc-by-nc",
+      "credit_format": "© mikhailezdakov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52183533307_098338858c_b.jpg",
+      "flickr_photo_id": "52183533307",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52183533307",
+      "source_url": "https://live.staticflickr.com/65535/52183533307_098338858c_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54869537425_efb6c66346_b.jpg",
+      "flickr_photo_id": "54869537425",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54869537425",
+      "source_url": "https://live.staticflickr.com/65535/54869537425_efb6c66346_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51507141844_cceb2affe6_b.jpg",
+      "flickr_photo_id": "51507141844",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51507141844",
+      "source_url": "https://live.staticflickr.com/65535/51507141844_cceb2affe6_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "bird_info": {
+    "slug": "taiga_flycatcher",
+    "chinese_name": "红喉姬鹟",
+    "english_name": "Taiga Flycatcher",
+    "scientific_name": "Ficedula albicilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "taiga_flycatcher_614088866.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717236/bird-gallery/taiga_flycatcher/macaulay/taiga_flycatcher_614088866.jpg",
+      "public_id": "bird-gallery/taiga_flycatcher/macaulay/taiga_flycatcher_614088866",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73222,
+      "attribution": {
+        "photographer": "Abhijit Mishra",
+        "photographer_url": "https://macaulaylibrary.org/asset/614088866",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Abhijit Mishra; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "614088866",
+        "note": null
+      }
+    },
+    {
+      "original_file": "taiga_flycatcher_625107746.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717243/bird-gallery/taiga_flycatcher/macaulay/taiga_flycatcher_625107746.jpg",
+      "public_id": "bird-gallery/taiga_flycatcher/macaulay/taiga_flycatcher_625107746",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 92357,
+      "attribution": {
+        "photographer": "Woochan Kwon",
+        "photographer_url": "https://macaulaylibrary.org/asset/625107746",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Woochan Kwon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625107746",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "taiga_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717255/bird-gallery/taiga_flycatcher/wikimedia/taiga_flycatcher_1.jpg",
+      "public_id": "bird-gallery/taiga_flycatcher/wikimedia/taiga_flycatcher_1",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 100481,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

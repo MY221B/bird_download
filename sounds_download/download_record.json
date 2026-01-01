@@ -1,0 +1,28 @@
+{
+  "total": 16,
+  "success": 15,
+  "failed": 1,
+  "downloaded_files": {
+    "azure_winged_magpie": "sounds_download/azure_winged_magpie_618307936.mp3",
+    "black_crowned_night_heron": "sounds_download/black_crowned_night_heron_170695891.mp3",
+    "chinese_blackbird": "sounds_download/chinese_blackbird_311839211.mp3",
+    "common_coot": "sounds_download/common_coot_217023251.mp3",
+    "common_moorhen": "sounds_download/common_moorhen_203978971.mp3",
+    "great_spotted_woodpecker": "sounds_download/great_spotted_woodpecker_98449391.mp3",
+    "grey_faced_woodpecker": "sounds_download/grey_faced_woodpecker_38319731.mp3",
+    "grey_heron": "sounds_download/grey_heron_572679021.mp3",
+    "large_billed_crow": "sounds_download/large_billed_crow_359547881.mp3",
+    "light_vented_bulbul": "sounds_download/light_vented_bulbul_90666111.mp3",
+    "mallard": "sounds_download/mallard_304089.mp3",
+    "mandarin_duck": "sounds_download/mandarin_duck_617738759.mp3",
+    "marsh_tit": "sounds_download/marsh_tit_83089961.mp3",
+    "oriental_magpie": "sounds_download/oriental_magpie_434619631.mp3",
+    "spotted_dove": "sounds_download/spotted_dove_292952071.mp3"
+  },
+  "failed_birds": [
+    {
+      "slug": "grey_capped_woodpecker",
+      "chinese_name": "星头啄木鸟"
+    }
+  ]
+}

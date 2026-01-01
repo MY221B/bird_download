@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "chinese_spot_billed_duck_1.jpg",
+      "observation_id": 136209009,
+      "photo_id": 232428230,
+      "observation_url": "https://www.inaturalist.org/observations/136209009",
+      "photographer": "smalltown_huang",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 smalltown_huang (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "chinese_spot_billed_duck_2.jpg",
+      "observation_id": 13171641,
+      "photo_id": 19239796,
+      "observation_url": "https://www.inaturalist.org/observations/13171641",
+      "photographer": "bio96",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 bio96 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "chinese_spot_billed_duck_3.jpg",
+      "observation_id": 150905333,
+      "photo_id": 260293781,
+      "observation_url": "https://www.inaturalist.org/observations/150905333",
+      "photographer": "luoycy",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 luoycy (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_22469431472_0d5155eb3e_b.jpg",
+      "flickr_photo_id": "22469431472",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=22469431472",
+      "source_url": "https://live.staticflickr.com/648/22469431472_0d5155eb3e_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_53789155463_e71fc3e39f_b.jpg",
+      "flickr_photo_id": "53789155463",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53789155463",
+      "source_url": "https://live.staticflickr.com/65535/53789155463_e71fc3e39f_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_54295235612_0687b6e69f_b.jpg",
+      "flickr_photo_id": "54295235612",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54295235612",
+      "source_url": "https://live.staticflickr.com/65535/54295235612_0687b6e69f_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

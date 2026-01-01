@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "great_spotted_woodpecker_1.jpg",
+      "observation_id": 137979249,
+      "photo_id": 235748761,
+      "observation_url": "https://www.inaturalist.org/observations/137979249",
+      "photographer": "dimoner",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 dimoner (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "great_spotted_woodpecker_2.jpg",
+      "observation_id": 2780919,
+      "photo_id": 3152163,
+      "observation_url": "https://www.inaturalist.org/observations/2780919",
+      "photographer": "paulcools",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 paulcools (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "great_spotted_woodpecker_3.jpg",
+      "observation_id": 107412229,
+      "photo_id": 180650111,
+      "observation_url": "https://www.inaturalist.org/observations/107412229",
+      "photographer": "roman_uk",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 roman_uk (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51151570974_545754fe18_b.jpg",
+      "flickr_photo_id": "51151570974",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51151570974",
+      "source_url": "https://live.staticflickr.com/65535/51151570974_545754fe18_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_52524125516_e826cd0b24_b.jpg",
+      "flickr_photo_id": "52524125516",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52524125516",
+      "source_url": "https://live.staticflickr.com/65535/52524125516_e826cd0b24_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_52519327879_1deababec1_b.jpg",
+      "flickr_photo_id": "52519327879",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52519327879",
+      "source_url": "https://live.staticflickr.com/65535/52519327879_1deababec1_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

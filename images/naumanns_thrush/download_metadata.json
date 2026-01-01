@@ -1,0 +1,34 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "naumanns_thrush_1.jpg",
+      "observation_id": 107940907,
+      "photo_id": 181639461,
+      "observation_url": "https://www.inaturalist.org/observations/107940907",
+      "photographer": "tcager",
+      "license": "cc0",
+      "credit_format": "\u00a9 tcager (via iNaturalist), some rights reserved (CC0)"
+    },
+    {
+      "filename": "naumanns_thrush_2.jpg",
+      "observation_id": 250881936,
+      "photo_id": 448789821,
+      "observation_url": "https://www.inaturalist.org/observations/250881936",
+      "photographer": "max_logunov",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 max_logunov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "naumanns_thrush_3.jpg",
+      "observation_id": 2471133,
+      "photo_id": 2766281,
+      "observation_url": "https://www.inaturalist.org/observations/2471133",
+      "photographer": "pintail",
+      "license": "cc-by",
+      "credit_format": "\u00a9 pintail (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

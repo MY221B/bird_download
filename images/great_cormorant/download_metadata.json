@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "great_cormorant_1.jpg",
+      "observation_id": 1464592,
+      "photo_id": 1816025,
+      "observation_url": "https://www.inaturalist.org/observations/1464592",
+      "photographer": "caesar",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 caesar (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "great_cormorant_2.jpg",
+      "observation_id": 2739563,
+      "photo_id": 3093235,
+      "observation_url": "https://www.inaturalist.org/observations/2739563",
+      "photographer": "sea-kangaroo",
+      "license": "cc-by-nc-nd",
+      "credit_format": "\u00a9 sea-kangaroo (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "great_cormorant_3.jpg",
+      "observation_id": 33097437,
+      "photo_id": 51953889,
+      "observation_url": "https://www.inaturalist.org/observations/33097437",
+      "photographer": "annalanigan",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 annalanigan (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52754328102_4644f84b15_b.jpg",
+      "flickr_photo_id": "52754328102",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52754328102",
+      "source_url": "https://live.staticflickr.com/65535/52754328102_4644f84b15_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_50901845313_8698d773e7_b.jpg",
+      "flickr_photo_id": "50901845313",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50901845313",
+      "source_url": "https://live.staticflickr.com/65535/50901845313_8698d773e7_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_53294874305_2d18feeb0b_b.jpg",
+      "flickr_photo_id": "53294874305",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53294874305",
+      "source_url": "https://live.staticflickr.com/65535/53294874305_2d18feeb0b_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

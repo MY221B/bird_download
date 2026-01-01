@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "falcated_duck_1.jpg",
+      "observation_id": 60444777,
+      "photo_id": 96652285,
+      "observation_url": "https://www.inaturalist.org/observations/60444777",
+      "photographer": "nmoorhatch",
+      "license": "cc-by",
+      "credit_format": "\u00a9 nmoorhatch (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "falcated_duck_2.jpg",
+      "observation_id": 252852874,
+      "photo_id": 452681061,
+      "observation_url": "https://www.inaturalist.org/observations/252852874",
+      "photographer": "carrot_doyoyo",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 carrot_doyoyo (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "falcated_duck_3.jpg",
+      "observation_id": 20933803,
+      "photo_id": 32312212,
+      "observation_url": "https://www.inaturalist.org/observations/20933803",
+      "photographer": "g33k5p34k",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 g33k5p34k (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49578378433_4c952784d6_b.jpg",
+      "flickr_photo_id": "49578378433",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49578378433",
+      "source_url": "https://live.staticflickr.com/65535/49578378433_4c952784d6_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_48999394373_3e805a8f9f_b.jpg",
+      "flickr_photo_id": "48999394373",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48999394373",
+      "source_url": "https://live.staticflickr.com/65535/48999394373_3e805a8f9f_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_47175363312_b687d0d8fd_b.jpg",
+      "flickr_photo_id": "47175363312",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=47175363312",
+      "source_url": "https://live.staticflickr.com/7885/47175363312_b687d0d8fd_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

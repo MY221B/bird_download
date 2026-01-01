@@ -1,0 +1,93 @@
+{
+  "bird_info": {
+    "slug": "bearded_reedling",
+    "chinese_name": "文须雀",
+    "english_name": "Bearded Reedling",
+    "scientific_name": "Panurus biarmicus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "bearded_reedling_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357779/bird-gallery/bearded_reedling/inaturalist/bearded_reedling_1.jpg",
+      "public_id": "bird-gallery/bearded_reedling/inaturalist/bearded_reedling_1",
+      "width": 998,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 94990,
+      "attribution": {
+        "photographer": "karakaxa",
+        "photographer_url": "https://www.inaturalist.org/observations/250340583",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© karakaxa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 250340583,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_reedling_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357793/bird-gallery/bearded_reedling/inaturalist/bearded_reedling_2.jpg",
+      "public_id": "bird-gallery/bearded_reedling/inaturalist/bearded_reedling_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 56252,
+      "attribution": {
+        "photographer": "gokcecoskun",
+        "photographer_url": "https://www.inaturalist.org/observations/15784431",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gokcecoskun (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 15784431,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_reedling_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357810/bird-gallery/bearded_reedling/inaturalist/bearded_reedling_3.jpg",
+      "public_id": "bird-gallery/bearded_reedling/inaturalist/bearded_reedling_3",
+      "width": 1024,
+      "height": 689,
+      "format": "jpg",
+      "bytes": 127896,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/289625738",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 289625738,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "bearded_reedling_63563531.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321087/bird-gallery/bearded_reedling/sounds/bearded_reedling_63563531.mp3",
+      "public_id": "bird-gallery/bearded_reedling/sounds/bearded_reedling_63563531",
+      "duration": 56.016,
+      "format": "mp3",
+      "bytes": 786908,
+      "bit_rate": 112383,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "63563531",
+        "asset_url": "https://macaulaylibrary.org/asset/63563531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

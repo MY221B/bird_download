@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "chestnut_flanked_white_eye_174463271.jpg",
+      "asset_id": "174463271",
+      "asset_url": "https://macaulaylibrary.org/asset/174463271"
+    },
+    {
+      "filename": "chestnut_flanked_white_eye_174170851.jpg",
+      "asset_id": "174170851",
+      "asset_url": "https://macaulaylibrary.org/asset/174170851"
+    },
+    {
+      "filename": "chestnut_flanked_white_eye_303880581.jpg",
+      "asset_id": "303880581",
+      "asset_url": "https://macaulaylibrary.org/asset/303880581"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "chestnut_flanked_white_eye_1.jpg",
+      "observation_id": 82518918,
+      "photo_id": 135445969,
+      "observation_url": "https://www.inaturalist.org/observations/82518918",
+      "photographer": "flycatcherwarblerthrush",
+      "license": "cc-by-nc",
+      "credit_format": "© flycatcherwarblerthrush (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "chestnut_flanked_white_eye_2.jpg",
+      "observation_id": 82694202,
+      "photo_id": 135745111,
+      "observation_url": "https://www.inaturalist.org/observations/82694202",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "chestnut_flanked_white_eye_3.jpg",
+      "observation_id": 67398235,
+      "photo_id": 108883803,
+      "observation_url": "https://www.inaturalist.org/observations/67398235",
+      "photographer": "matthewkwan",
+      "license": "cc-by-nd",
+      "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-ND)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_16462992896_564d7c1a4d_b.jpg",
+      "flickr_photo_id": "16462992896",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16462992896",
+      "source_url": "https://live.staticflickr.com/8658/16462992896_564d7c1a4d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_16302714049_6b47b2b270_b.jpg",
+      "flickr_photo_id": "16302714049",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16302714049",
+      "source_url": "https://live.staticflickr.com/7437/16302714049_6b47b2b270_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_16303071077_bcea46d126_b.jpg",
+      "flickr_photo_id": "16303071077",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16303071077",
+      "source_url": "https://live.staticflickr.com/7318/16303071077_bcea46d126_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

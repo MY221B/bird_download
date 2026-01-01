@@ -1,0 +1,133 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "dusky_thrush_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761715861/bird-gallery/dusky_thrush/inaturalist/dusky_thrush_2.jpg",
+      "public_id": "bird-gallery/dusky_thrush/inaturalist/dusky_thrush_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75593,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "dusky_thrush_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761715863/bird-gallery/dusky_thrush/inaturalist/dusky_thrush_3.jpg",
+      "public_id": "bird-gallery/dusky_thrush/inaturalist/dusky_thrush_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 64706,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "dusky_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761715864/bird-gallery/dusky_thrush/wikimedia/dusky_thrush_1.jpg",
+      "public_id": "bird-gallery/dusky_thrush/wikimedia/dusky_thrush_1",
+      "width": 1200,
+      "height": 1036,
+      "format": "jpg",
+      "bytes": 146585,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52427000263_3d88211936_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761717841/bird-gallery/dusky_thrush/avibase/avibase_1_52427000263_3d88211936_b.jpg",
+      "public_id": "bird-gallery/dusky_thrush/avibase/avibase_1_52427000263_3d88211936_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 113507,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "avibase_1_52751853100_942e36e618_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761717843/bird-gallery/dusky_thrush/avibase/avibase_1_52751853100_942e36e618_b.jpg",
+      "public_id": "bird-gallery/dusky_thrush/avibase/avibase_1_52751853100_942e36e618_b",
+      "width": 1024,
+      "height": 747,
+      "format": "jpg",
+      "bytes": 175028,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "bird_info": {
+    "slug": "dusky_thrush",
+    "chinese_name": "斑鸫",
+    "english_name": "Dusky Thrush",
+    "scientific_name": "Turdus eunomus"
+  },
+  "sounds": [
+    {
+      "original_file": "dusky_thrush_404382721.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321145/bird-gallery/dusky_thrush/sounds/dusky_thrush_404382721.mp3",
+      "public_id": "bird-gallery/dusky_thrush/sounds/dusky_thrush_404382721",
+      "duration": 10.896,
+      "format": "mp3",
+      "bytes": 150188,
+      "bit_rate": 110270,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "404382721",
+        "asset_url": "https://macaulaylibrary.org/asset/404382721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

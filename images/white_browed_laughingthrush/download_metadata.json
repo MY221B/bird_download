@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "white_browed_laughingthrush_128398401.jpg",
+      "asset_id": "128398401",
+      "asset_url": "https://macaulaylibrary.org/asset/128398401"
+    },
+    {
+      "filename": "white_browed_laughingthrush_222756211.jpg",
+      "asset_id": "222756211",
+      "asset_url": "https://macaulaylibrary.org/asset/222756211"
+    },
+    {
+      "filename": "white_browed_laughingthrush_145000411.jpg",
+      "asset_id": "145000411",
+      "asset_url": "https://macaulaylibrary.org/asset/145000411"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "white_browed_laughingthrush_1.jpg",
+      "observation_id": 167668829,
+      "photo_id": 290485989,
+      "observation_url": "https://www.inaturalist.org/observations/167668829",
+      "photographer": "llareta",
+      "license": "cc-by-nc",
+      "credit_format": "© llareta (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "white_browed_laughingthrush_2.jpg",
+      "observation_id": 222566077,
+      "photo_id": 394267074,
+      "observation_url": "https://www.inaturalist.org/observations/222566077",
+      "photographer": "redpandacat",
+      "license": "cc-by-nc-sa",
+      "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+    },
+    {
+      "filename": "white_browed_laughingthrush_3.jpg",
+      "observation_id": 154079136,
+      "photo_id": 266195773,
+      "observation_url": "https://www.inaturalist.org/observations/154079136",
+      "photographer": "skystargazer",
+      "license": "cc-by-nc",
+      "credit_format": "© skystargazer (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_48901313848_66f1f31c66_b.jpg",
+      "flickr_photo_id": "48901313848",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48901313848",
+      "source_url": "https://live.staticflickr.com/65535/48901313848_66f1f31c66_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51108903400_7889845420_b.jpg",
+      "flickr_photo_id": "51108903400",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51108903400",
+      "source_url": "https://live.staticflickr.com/65535/51108903400_7889845420_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_36241768346_9fb2b964f1_b.jpg",
+      "flickr_photo_id": "36241768346",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=36241768346",
+      "source_url": "https://live.staticflickr.com/4294/36241768346_9fb2b964f1_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

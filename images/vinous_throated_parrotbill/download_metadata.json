@@ -1,0 +1,34 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "vinous_throated_parrotbill_1.jpg",
+      "observation_id": 148501757,
+      "photo_id": 255742867,
+      "observation_url": "https://www.inaturalist.org/observations/148501757",
+      "photographer": "smalltown_huang",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 smalltown_huang (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "vinous_throated_parrotbill_2.jpg",
+      "observation_id": 79901508,
+      "photo_id": 130911537,
+      "observation_url": "https://www.inaturalist.org/observations/79901508",
+      "photographer": "queenie1",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 queenie1 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "vinous_throated_parrotbill_3.jpg",
+      "observation_id": 260166434,
+      "photo_id": 467161538,
+      "observation_url": "https://www.inaturalist.org/observations/260166434",
+      "photographer": "mirko_tomasi",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 mirko_tomasi (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

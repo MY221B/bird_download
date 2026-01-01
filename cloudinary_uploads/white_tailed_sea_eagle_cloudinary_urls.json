@@ -1,0 +1,153 @@
+{
+  "bird_info": {
+    "slug": "white_tailed_sea_eagle",
+    "chinese_name": "白尾海雕",
+    "english_name": "White-tailed Sea Eagle",
+    "scientific_name": "Haliaeetus albicilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_tailed_sea_eagle_629996814.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242914/bird-gallery/white_tailed_sea_eagle/macaulay/white_tailed_sea_eagle_629996814.jpg",
+      "public_id": "bird-gallery/white_tailed_sea_eagle/macaulay/white_tailed_sea_eagle_629996814",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69576,
+      "attribution": {
+        "photographer": "Gichan Ryu",
+        "photographer_url": "https://macaulaylibrary.org/asset/629996814",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Gichan Ryu; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "629996814",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_tailed_sea_eagle_65433481.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242922/bird-gallery/white_tailed_sea_eagle/macaulay/white_tailed_sea_eagle_65433481.jpg",
+      "public_id": "bird-gallery/white_tailed_sea_eagle/macaulay/white_tailed_sea_eagle_65433481",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 50129,
+      "attribution": {
+        "photographer": "Christoph Moning",
+        "photographer_url": "https://macaulaylibrary.org/asset/65433481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Christoph Moning; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "65433481",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_tailed_sea_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242937/bird-gallery/white_tailed_sea_eagle/inaturalist/white_tailed_sea_eagle_1.jpg",
+      "public_id": "bird-gallery/white_tailed_sea_eagle/inaturalist/white_tailed_sea_eagle_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 113550,
+      "attribution": {
+        "photographer": "mari4971",
+        "photographer_url": "https://www.inaturalist.org/observations/258678379",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mari4971 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 258678379,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_tailed_sea_eagle_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242940/bird-gallery/white_tailed_sea_eagle/inaturalist/white_tailed_sea_eagle_3.jpg",
+      "public_id": "bird-gallery/white_tailed_sea_eagle/inaturalist/white_tailed_sea_eagle_3",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 41172,
+      "attribution": {
+        "photographer": "mikhailezdakov",
+        "photographer_url": "https://www.inaturalist.org/observations/217340776",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mikhailezdakov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 217340776,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "white_tailed_sea_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242942/bird-gallery/white_tailed_sea_eagle/wikimedia/white_tailed_sea_eagle_1.jpg",
+      "public_id": "bird-gallery/white_tailed_sea_eagle/wikimedia/white_tailed_sea_eagle_1",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 78514,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_54869537425_efb6c66346_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764242947/bird-gallery/white_tailed_sea_eagle/avibase/avibase_2_54869537425_efb6c66346_b.jpg",
+      "public_id": "bird-gallery/white_tailed_sea_eagle/avibase/avibase_2_54869537425_efb6c66346_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 135822,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54869537425",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "white_tailed_sea_eagle_59245071.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321411/bird-gallery/white_tailed_sea_eagle/sounds/white_tailed_sea_eagle_59245071.mp3",
+      "public_id": "bird-gallery/white_tailed_sea_eagle/sounds/white_tailed_sea_eagle_59245071",
+      "duration": 48.24,
+      "format": "mp3",
+      "bytes": 973100,
+      "bit_rate": 161376,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "59245071",
+        "asset_url": "https://macaulaylibrary.org/asset/59245071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

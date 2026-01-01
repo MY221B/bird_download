@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "dalmatian_pelican_629187659.jpg",
+      "asset_id": "629187659",
+      "asset_url": "https://macaulaylibrary.org/asset/629187659"
+    },
+    {
+      "filename": "dalmatian_pelican_194678741.jpg",
+      "asset_id": "194678741",
+      "asset_url": "https://macaulaylibrary.org/asset/194678741"
+    },
+    {
+      "filename": "dalmatian_pelican_204763401.jpg",
+      "asset_id": "204763401",
+      "asset_url": "https://macaulaylibrary.org/asset/204763401"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "dalmatian_pelican_1.jpg",
+      "observation_id": 252890719,
+      "photo_id": 452751213,
+      "observation_url": "https://www.inaturalist.org/observations/252890719",
+      "photographer": "vladimir_tarasov",
+      "license": "cc-by-nc",
+      "credit_format": "© vladimir_tarasov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "dalmatian_pelican_2.jpg",
+      "observation_id": 255882081,
+      "photo_id": 458606794,
+      "observation_url": "https://www.inaturalist.org/observations/255882081",
+      "photographer": "gezenadam",
+      "license": "cc-by-sa",
+      "credit_format": "© gezenadam (via iNaturalist), some rights reserved (CC-BY-SA)"
+    },
+    {
+      "filename": "dalmatian_pelican_3.jpg",
+      "observation_id": 39940031,
+      "photo_id": 63418380,
+      "observation_url": "https://www.inaturalist.org/observations/39940031",
+      "photographer": "naturebynigg",
+      "license": "cc-by",
+      "credit_format": "© naturebynigg (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_38655841414_e6989ab88d_b.jpg",
+      "flickr_photo_id": "38655841414",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=38655841414",
+      "source_url": "https://live.staticflickr.com/4681/38655841414_e6989ab88d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51613920006_4ae71b17e2_b.jpg",
+      "flickr_photo_id": "51613920006",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51613920006",
+      "source_url": "https://live.staticflickr.com/65535/51613920006_4ae71b17e2_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_50554445222_ae5ce7cc9a_b.jpg",
+      "flickr_photo_id": "50554445222",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50554445222",
+      "source_url": "https://live.staticflickr.com/65535/50554445222_ae5ce7cc9a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

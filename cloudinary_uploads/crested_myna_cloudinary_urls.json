@@ -1,0 +1,74 @@
+{
+  "bird_info": {
+    "slug": "crested_myna",
+    "chinese_name": "八哥",
+    "english_name": "Crested Myna",
+    "scientific_name": "Acridotheres cristatellus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "crested_myna_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357815/bird-gallery/crested_myna/inaturalist/crested_myna_1.jpg",
+      "public_id": "bird-gallery/crested_myna/inaturalist/crested_myna_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 45204,
+      "attribution": {
+        "photographer": "graeme45",
+        "photographer_url": "https://www.inaturalist.org/observations/98303086",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© graeme45 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 98303086,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crested_myna_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357843/bird-gallery/crested_myna/inaturalist/crested_myna_3.jpg",
+      "public_id": "bird-gallery/crested_myna/inaturalist/crested_myna_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 54311,
+      "attribution": {
+        "photographer": "pauldickson",
+        "photographer_url": "https://www.inaturalist.org/observations/69621265",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pauldickson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69621265,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "crested_myna_385911801.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321424/bird-gallery/crested_myna/sounds/crested_myna_385911801.mp3",
+      "public_id": "bird-gallery/crested_myna/sounds/crested_myna_385911801",
+      "duration": 45.888,
+      "format": "mp3",
+      "bytes": 545132,
+      "bit_rate": 95036,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "385911801",
+        "asset_url": "https://macaulaylibrary.org/asset/385911801",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

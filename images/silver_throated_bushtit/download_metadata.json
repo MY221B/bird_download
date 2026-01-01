@@ -1,0 +1,34 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "silver_throated_bushtit_1.jpg",
+      "observation_id": 169124828,
+      "photo_id": 293185648,
+      "observation_url": "https://www.inaturalist.org/observations/169124828",
+      "photographer": "fangchen",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 fangchen (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "silver_throated_bushtit_2.jpg",
+      "observation_id": 255364047,
+      "photo_id": 457619673,
+      "observation_url": "https://www.inaturalist.org/observations/255364047",
+      "photographer": "stevenw12339",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 stevenw12339 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "silver_throated_bushtit_3.jpg",
+      "observation_id": 186363535,
+      "photo_id": 325669758,
+      "observation_url": "https://www.inaturalist.org/observations/186363535",
+      "photographer": "hyacinth_macaw",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 hyacinth_macaw (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

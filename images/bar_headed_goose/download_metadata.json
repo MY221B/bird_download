@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "bar_headed_goose_144866781.jpg",
+      "asset_id": "144866781",
+      "asset_url": "https://macaulaylibrary.org/asset/144866781"
+    },
+    {
+      "filename": "bar_headed_goose_535996491.jpg",
+      "asset_id": "535996491",
+      "asset_url": "https://macaulaylibrary.org/asset/535996491"
+    },
+    {
+      "filename": "bar_headed_goose_395207951.jpg",
+      "asset_id": "395207951",
+      "asset_url": "https://macaulaylibrary.org/asset/395207951"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "bar_headed_goose_1.jpg",
+      "observation_id": 8233078,
+      "photo_id": 10917184,
+      "observation_url": "https://www.inaturalist.org/observations/8233078",
+      "photographer": "axeira",
+      "license": "cc-by-nc",
+      "credit_format": "© axeira (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "bar_headed_goose_2.jpg",
+      "observation_id": 261119151,
+      "photo_id": 469053413,
+      "observation_url": "https://www.inaturalist.org/observations/261119151",
+      "photographer": "anaptu",
+      "license": "cc-by-nc",
+      "credit_format": "© anaptu (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "bar_headed_goose_3.jpg",
+      "observation_id": 195733868,
+      "photo_id": 344422511,
+      "observation_url": "https://www.inaturalist.org/observations/195733868",
+      "photographer": "naturalist23338",
+      "license": "all-rights-reserved",
+      "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53822769337_a184ea5bdf_b.jpg",
+      "flickr_photo_id": "53822769337",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53822769337",
+      "source_url": "https://live.staticflickr.com/65535/53822769337_a184ea5bdf_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51741982853_8df9b03d31_b.jpg",
+      "flickr_photo_id": "51741982853",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51741982853",
+      "source_url": "https://live.staticflickr.com/65535/51741982853_8df9b03d31_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51150759793_e096100090_b.jpg",
+      "flickr_photo_id": "51150759793",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51150759793",
+      "source_url": "https://live.staticflickr.com/65535/51150759793_e096100090_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

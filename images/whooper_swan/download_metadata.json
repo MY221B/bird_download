@@ -1,0 +1,34 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "whooper_swan_1.jpg",
+      "observation_id": 9600979,
+      "photo_id": 13096818,
+      "observation_url": "https://www.inaturalist.org/observations/9600979",
+      "photographer": "austin0201",
+      "license": "cc-by",
+      "credit_format": "\u00a9 austin0201 (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "whooper_swan_2.jpg",
+      "observation_id": 66290901,
+      "photo_id": 106832722,
+      "observation_url": "https://www.inaturalist.org/observations/66290901",
+      "photographer": "boatbirder",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 boatbirder (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "whooper_swan_3.jpg",
+      "observation_id": 104808697,
+      "photo_id": 175702778,
+      "observation_url": "https://www.inaturalist.org/observations/104808697",
+      "photographer": "dmitrydubikovskiy",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 dmitrydubikovskiy (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

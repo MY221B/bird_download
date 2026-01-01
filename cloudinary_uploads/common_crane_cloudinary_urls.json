@@ -1,0 +1,152 @@
+{
+  "bird_info": {
+    "slug": "common_crane",
+    "chinese_name": "灰鹤",
+    "english_name": "Common Crane",
+    "scientific_name": "Grus grus"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_crane_191418621.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945347/bird-gallery/common_crane/macaulay/common_crane_191418621.jpg",
+      "public_id": "bird-gallery/common_crane/macaulay/common_crane_191418621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90226,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/191418621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "191418621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_crane_325108511.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945353/bird-gallery/common_crane/macaulay/common_crane_325108511.jpg",
+      "public_id": "bird-gallery/common_crane/macaulay/common_crane_325108511",
+      "width": 1080,
+      "height": 1080,
+      "format": "jpg",
+      "bytes": 79302,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/325108511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "325108511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_crane_502039791.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945358/bird-gallery/common_crane/macaulay/common_crane_502039791.jpg",
+      "public_id": "bird-gallery/common_crane/macaulay/common_crane_502039791",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 81396,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/502039791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "502039791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_crane_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945364/bird-gallery/common_crane/inaturalist/common_crane_2.jpg",
+      "public_id": "bird-gallery/common_crane/inaturalist/common_crane_2",
+      "width": 960,
+      "height": 726,
+      "format": "jpg",
+      "bytes": 129424,
+      "attribution": {
+        "photographer": "seaheart88",
+        "photographer_url": "https://www.inaturalist.org/observations/18357585",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© seaheart88 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18357585,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50413422442_0db8fccafc_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945365/bird-gallery/common_crane/avibase/avibase_1_50413422442_0db8fccafc_b.jpg",
+      "public_id": "bird-gallery/common_crane/avibase/avibase_1_50413422442_0db8fccafc_b",
+      "width": 1023,
+      "height": 504,
+      "format": "jpg",
+      "bytes": 82769,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50413422442",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49639944091_d5aaf6f649_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945366/bird-gallery/common_crane/avibase/avibase_2_49639944091_d5aaf6f649_b.jpg",
+      "public_id": "bird-gallery/common_crane/avibase/avibase_2_49639944091_d5aaf6f649_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 184620,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49639944091",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "common_crane_205661.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1765945398/bird-gallery/common_crane/sounds/common_crane_205661.mp3",
+      "public_id": "bird-gallery/common_crane/sounds/common_crane_205661",
+      "duration": 166.08,
+      "format": "mp3",
+      "bytes": 3923948,
+      "bit_rate": 189014,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "205661",
+        "asset_url": "https://macaulaylibrary.org/asset/205661",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

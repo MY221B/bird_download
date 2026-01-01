@@ -1,0 +1,93 @@
+{
+  "bird_info": {
+    "slug": "chinese_pond_heron",
+    "chinese_name": "池鹭",
+    "english_name": "Chinese Pond Heron",
+    "scientific_name": "Ardeola bacchus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "chinese_pond_heron_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357758/bird-gallery/chinese_pond_heron/inaturalist/chinese_pond_heron_1.jpg",
+      "public_id": "bird-gallery/chinese_pond_heron/inaturalist/chinese_pond_heron_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 102989,
+      "attribution": {
+        "photographer": "guisauco",
+        "photographer_url": "https://www.inaturalist.org/observations/233225501",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© guisauco (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 233225501,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_pond_heron_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357760/bird-gallery/chinese_pond_heron/inaturalist/chinese_pond_heron_2.jpg",
+      "public_id": "bird-gallery/chinese_pond_heron/inaturalist/chinese_pond_heron_2",
+      "width": 993,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 132109,
+      "attribution": {
+        "photographer": "that_bee_guy",
+        "photographer_url": "https://www.inaturalist.org/observations/101600110",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© that_bee_guy (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 101600110,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_pond_heron_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357762/bird-gallery/chinese_pond_heron/inaturalist/chinese_pond_heron_3.jpg",
+      "public_id": "bird-gallery/chinese_pond_heron/inaturalist/chinese_pond_heron_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55990,
+      "attribution": {
+        "photographer": "grey_moss",
+        "photographer_url": "https://www.inaturalist.org/observations/207741576",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© grey_moss (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 207741576,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "chinese_pond_heron_620478673.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1765532602/bird-gallery/chinese_pond_heron/sounds/chinese_pond_heron_620478673.mp3",
+      "public_id": "bird-gallery/chinese_pond_heron/sounds/chinese_pond_heron_620478673",
+      "duration": 33.288,
+      "format": "mp3",
+      "bytes": 445004,
+      "bit_rate": 106946,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "620478673",
+        "asset_url": "https://macaulaylibrary.org/asset/620478673",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

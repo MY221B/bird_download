@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "little_bunting_1.jpg",
+      "observation_id": 7701587,
+      "photo_id": 10095870,
+      "observation_url": "https://www.inaturalist.org/observations/7701587",
+      "photographer": "azgulo",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 azgulo (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "little_bunting_2.jpg",
+      "observation_id": 100792559,
+      "photo_id": 168259532,
+      "observation_url": "https://www.inaturalist.org/observations/100792559",
+      "photographer": "alexanderlokhov",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 alexanderlokhov (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "little_bunting_3.jpg",
+      "observation_id": 222491195,
+      "photo_id": 394120193,
+      "observation_url": "https://www.inaturalist.org/observations/222491195",
+      "photographer": "mikhailezdakov",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 mikhailezdakov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50801056001_b58cf60304_b.jpg",
+      "flickr_photo_id": "50801056001",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50801056001",
+      "source_url": "https://live.staticflickr.com/65535/50801056001_b58cf60304_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_53235059892_e3cf44e701_b.jpg",
+      "flickr_photo_id": "53235059892",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53235059892",
+      "source_url": "https://live.staticflickr.com/65535/53235059892_e3cf44e701_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_54108087060_e97ab2814e_b.jpg",
+      "flickr_photo_id": "54108087060",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54108087060",
+      "source_url": "https://live.staticflickr.com/65535/54108087060_e97ab2814e_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

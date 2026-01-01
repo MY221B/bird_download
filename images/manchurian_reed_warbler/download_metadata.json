@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "manchurian_reed_warbler_324405831.jpg",
+      "asset_id": "324405831",
+      "asset_url": "https://macaulaylibrary.org/asset/324405831"
+    },
+    {
+      "filename": "manchurian_reed_warbler_97291151.jpg",
+      "asset_id": "97291151",
+      "asset_url": "https://macaulaylibrary.org/asset/97291151"
+    },
+    {
+      "filename": "manchurian_reed_warbler_97291041.jpg",
+      "asset_id": "97291041",
+      "asset_url": "https://macaulaylibrary.org/asset/97291041"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "manchurian_reed_warbler_1.jpg",
+      "observation_id": 310356746,
+      "photo_id": 560127017,
+      "observation_url": "https://www.inaturalist.org/observations/310356746",
+      "photographer": "zhenningliu",
+      "license": "cc-by-nc",
+      "credit_format": "© zhenningliu (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "manchurian_reed_warbler_2.jpg",
+      "observation_id": 189655806,
+      "photo_id": 332297884,
+      "observation_url": "https://www.inaturalist.org/observations/189655806",
+      "photographer": "stephenmatthews",
+      "license": "cc0",
+      "credit_format": "© stephenmatthews (via iNaturalist), some rights reserved (CC0)"
+    },
+    {
+      "filename": "manchurian_reed_warbler_3.jpg",
+      "observation_id": 2441810,
+      "photo_id": 5567500,
+      "observation_url": "https://www.inaturalist.org/observations/2441810",
+      "photographer": "arnoldwijker",
+      "license": "cc-by-nc",
+      "credit_format": "© arnoldwijker (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_16914901396_7c90ab6a72_b.jpg",
+      "flickr_photo_id": "16914901396",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16914901396",
+      "source_url": "https://live.staticflickr.com/7622/16914901396_7c90ab6a72_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_16320780633_fa3cb7f8f5_b.jpg",
+      "flickr_photo_id": "16320780633",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16320780633",
+      "source_url": "https://live.staticflickr.com/7621/16320780633_fa3cb7f8f5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_28177852003_e31f7bb83f_b.jpg",
+      "flickr_photo_id": "28177852003",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=28177852003",
+      "source_url": "https://farm9.staticflickr.com/8087/28177852003_e31f7bb83f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

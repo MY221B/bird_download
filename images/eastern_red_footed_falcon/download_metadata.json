@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eastern_red_footed_falcon_295416801.jpg",
+      "asset_id": "295416801",
+      "asset_url": "https://macaulaylibrary.org/asset/295416801"
+    },
+    {
+      "filename": "eastern_red_footed_falcon_204357571.jpg",
+      "asset_id": "204357571",
+      "asset_url": "https://macaulaylibrary.org/asset/204357571"
+    },
+    {
+      "filename": "eastern_red_footed_falcon_22480751.jpg",
+      "asset_id": "22480751",
+      "asset_url": "https://macaulaylibrary.org/asset/22480751"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eastern_red_footed_falcon_1.jpg",
+      "observation_id": 278429280,
+      "photo_id": 499937708,
+      "observation_url": "https://www.inaturalist.org/observations/278429280",
+      "photographer": "mariameizoso",
+      "license": "cc-by-nc",
+      "credit_format": "© mariameizoso (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eastern_red_footed_falcon_2.jpg",
+      "observation_id": 124733078,
+      "photo_id": 211447774,
+      "observation_url": "https://www.inaturalist.org/observations/124733078",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "eastern_red_footed_falcon_3.jpg",
+      "observation_id": 99537963,
+      "photo_id": 165954220,
+      "observation_url": "https://www.inaturalist.org/observations/99537963",
+      "photographer": "rupperrt78",
+      "license": "cc-by-nc",
+      "credit_format": "© rupperrt78 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_30927299861_332fa7e561_b.jpg",
+      "flickr_photo_id": "30927299861",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=30927299861",
+      "source_url": "https://live.staticflickr.com/5676/30927299861_332fa7e561_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_25365454519_9efa1a7604_b.jpg",
+      "flickr_photo_id": "25365454519",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=25365454519",
+      "source_url": "https://live.staticflickr.com/5492/25365454519_9efa1a7604_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_31017740655_9e1bf5ce16_b.jpg",
+      "flickr_photo_id": "31017740655",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=31017740655",
+      "source_url": "https://live.staticflickr.com/5549/31017740655_9e1bf5ce16_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

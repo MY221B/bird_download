@@ -1,0 +1,132 @@
+{
+  "bird_info": {
+    "slug": "dalmatian_pelican",
+    "chinese_name": "卷羽鹈鹕",
+    "english_name": "Dalmatian Pelican",
+    "scientific_name": "Pelecanus crispus"
+  },
+  "macaulay": [
+    {
+      "original_file": "dalmatian_pelican_194678741.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945020/bird-gallery/dalmatian_pelican/macaulay/dalmatian_pelican_194678741.jpg",
+      "public_id": "bird-gallery/dalmatian_pelican/macaulay/dalmatian_pelican_194678741",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 96487,
+      "attribution": {
+        "photographer": "Iordan Hristov-- Freelance bird guide--NatureMonitoring.com",
+        "photographer_url": "https://macaulaylibrary.org/asset/194678741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Iordan Hristov-- Freelance bird guide--NatureMonitoring.com; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "194678741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dalmatian_pelican_204763401.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945025/bird-gallery/dalmatian_pelican/macaulay/dalmatian_pelican_204763401.jpg",
+      "public_id": "bird-gallery/dalmatian_pelican/macaulay/dalmatian_pelican_204763401",
+      "width": 902,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 70279,
+      "attribution": {
+        "photographer": "Tomáš Grim",
+        "photographer_url": "https://macaulaylibrary.org/asset/204763401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Tomáš Grim; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204763401",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_38655841414_e6989ab88d_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945040/bird-gallery/dalmatian_pelican/avibase/avibase_1_38655841414_e6989ab88d_b.jpg",
+      "public_id": "bird-gallery/dalmatian_pelican/avibase/avibase_1_38655841414_e6989ab88d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72431,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "38655841414",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51613920006_4ae71b17e2_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945041/bird-gallery/dalmatian_pelican/avibase/avibase_2_51613920006_4ae71b17e2_b.jpg",
+      "public_id": "bird-gallery/dalmatian_pelican/avibase/avibase_2_51613920006_4ae71b17e2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 28036,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51613920006",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_50554445222_ae5ce7cc9a_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765945042/bird-gallery/dalmatian_pelican/avibase/avibase_3_50554445222_ae5ce7cc9a_b.jpg",
+      "public_id": "bird-gallery/dalmatian_pelican/avibase/avibase_3_50554445222_ae5ce7cc9a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64340,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50554445222",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "dalmatian_pelican_635590775.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1765945049/bird-gallery/dalmatian_pelican/sounds/dalmatian_pelican_635590775.mp3",
+      "public_id": "bird-gallery/dalmatian_pelican/sounds/dalmatian_pelican_635590775",
+      "duration": 35.496,
+      "format": "mp3",
+      "bytes": 481292,
+      "bit_rate": 108472,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "635590775",
+        "asset_url": "https://macaulaylibrary.org/asset/635590775",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

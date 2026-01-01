@@ -1,0 +1,50 @@
+{
+  "macaulay": [
+    {
+      "filename": "plumbeous_water_redstart_440356591.jpg",
+      "asset_id": "440356591",
+      "asset_url": "https://macaulaylibrary.org/asset/440356591"
+    },
+    {
+      "filename": "plumbeous_water_redstart_199331201.jpg",
+      "asset_id": "199331201",
+      "asset_url": "https://macaulaylibrary.org/asset/199331201"
+    },
+    {
+      "filename": "plumbeous_water_redstart_352013461.jpg",
+      "asset_id": "352013461",
+      "asset_url": "https://macaulaylibrary.org/asset/352013461"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "plumbeous_water_redstart_1.jpg",
+      "observation_id": 65391225,
+      "photo_id": 105241665,
+      "observation_url": "https://www.inaturalist.org/observations/65391225",
+      "photographer": "oscarho",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 oscarho (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "plumbeous_water_redstart_2.jpg",
+      "observation_id": 42299827,
+      "photo_id": 67158484,
+      "observation_url": "https://www.inaturalist.org/observations/42299827",
+      "photographer": "phuentsho",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 phuentsho (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "plumbeous_water_redstart_3.jpg",
+      "observation_id": 142280594,
+      "photo_id": 243903142,
+      "observation_url": "https://www.inaturalist.org/observations/142280594",
+      "photographer": "aw38",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 aw38 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "pallass_rosefinch_613899936.jpg",
+      "asset_id": "613899936",
+      "asset_url": "https://macaulaylibrary.org/asset/613899936"
+    },
+    {
+      "filename": "pallass_rosefinch_205853701.jpg",
+      "asset_id": "205853701",
+      "asset_url": "https://macaulaylibrary.org/asset/205853701"
+    },
+    {
+      "filename": "pallass_rosefinch_208475171.jpg",
+      "asset_id": "208475171",
+      "asset_url": "https://macaulaylibrary.org/asset/208475171"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "pallass_rosefinch_1.jpg",
+      "observation_id": 312769474,
+      "photo_id": 564735543,
+      "observation_url": "https://www.inaturalist.org/observations/312769474",
+      "photographer": "biflab",
+      "license": "cc-by-nc",
+      "credit_format": "© biflab (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "pallass_rosefinch_2.jpg",
+      "observation_id": 74654230,
+      "photo_id": 122038505,
+      "observation_url": "https://www.inaturalist.org/observations/74654230",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "pallass_rosefinch_3.jpg",
+      "observation_id": 198701020,
+      "photo_id": 350275360,
+      "observation_url": "https://www.inaturalist.org/observations/198701020",
+      "photographer": "zichen",
+      "license": "all-rights-reserved",
+      "credit_format": "© zichen (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49212170771_ea12066df2_b.jpg",
+      "flickr_photo_id": "49212170771",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49212170771",
+      "source_url": "https://live.staticflickr.com/65535/49212170771_ea12066df2_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_7182893207_05d969b77b_b.jpg",
+      "flickr_photo_id": "7182893207",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=7182893207",
+      "source_url": "https://live.staticflickr.com/7221/7182893207_05d969b77b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_7182893059_c4ddd7b0a4_b.jpg",
+      "flickr_photo_id": "7182893059",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=7182893059",
+      "source_url": "https://live.staticflickr.com/5323/7182893059_c4ddd7b0a4_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

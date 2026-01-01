@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "cotton_pygmy_goose_341875931.jpg",
+      "asset_id": "341875931",
+      "asset_url": "https://macaulaylibrary.org/asset/341875931"
+    },
+    {
+      "filename": "cotton_pygmy_goose_616233849.jpg",
+      "asset_id": "616233849",
+      "asset_url": "https://macaulaylibrary.org/asset/616233849"
+    },
+    {
+      "filename": "cotton_pygmy_goose_315616781.jpg",
+      "asset_id": "315616781",
+      "asset_url": "https://macaulaylibrary.org/asset/315616781"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "cotton_pygmy_goose_1.jpg",
+      "observation_id": 108427618,
+      "photo_id": 182554221,
+      "observation_url": "https://www.inaturalist.org/observations/108427618",
+      "photographer": "asimhakeem",
+      "license": "cc-by-nc",
+      "credit_format": "© asimhakeem (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "cotton_pygmy_goose_2.jpg",
+      "observation_id": 10543976,
+      "photo_id": 14682748,
+      "observation_url": "https://www.inaturalist.org/observations/10543976",
+      "photographer": "robbythai",
+      "license": "cc-by-nc",
+      "credit_format": "© robbythai (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "cotton_pygmy_goose_3.jpg",
+      "observation_id": 146023488,
+      "photo_id": 250955390,
+      "observation_url": "https://www.inaturalist.org/observations/146023488",
+      "photographer": "benjamynweil",
+      "license": "cc-by-nc",
+      "credit_format": "© benjamynweil (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51225230897_37d0f9a498_b.jpg",
+      "flickr_photo_id": "51225230897",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51225230897",
+      "source_url": "https://live.staticflickr.com/65535/51225230897_37d0f9a498_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_47354888072_797da5aa9f_b.jpg",
+      "flickr_photo_id": "47354888072",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=47354888072",
+      "source_url": "https://live.staticflickr.com/7910/47354888072_797da5aa9f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_23781906864_199e478472_b.jpg",
+      "flickr_photo_id": "23781906864",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=23781906864",
+      "source_url": "https://live.staticflickr.com/1692/23781906864_199e478472_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

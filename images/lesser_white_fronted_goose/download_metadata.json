@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "lesser_white_fronted_goose_615388310.jpg",
+      "asset_id": "615388310",
+      "asset_url": "https://macaulaylibrary.org/asset/615388310"
+    },
+    {
+      "filename": "lesser_white_fronted_goose_499613401.jpg",
+      "asset_id": "499613401",
+      "asset_url": "https://macaulaylibrary.org/asset/499613401"
+    },
+    {
+      "filename": "lesser_white_fronted_goose_539204751.jpg",
+      "asset_id": "539204751",
+      "asset_url": "https://macaulaylibrary.org/asset/539204751"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "lesser_white_fronted_goose_1.jpg",
+      "observation_id": 141685571,
+      "photo_id": 242786617,
+      "observation_url": "https://www.inaturalist.org/observations/141685571",
+      "photographer": "vyacheslavluzanov",
+      "license": "cc-by-nc",
+      "credit_format": "© vyacheslavluzanov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "lesser_white_fronted_goose_2.jpg",
+      "observation_id": 266128687,
+      "photo_id": 478142542,
+      "observation_url": "https://www.inaturalist.org/observations/266128687",
+      "photographer": "thegreatdodo",
+      "license": "cc-by-nc",
+      "credit_format": "© thegreatdodo (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "lesser_white_fronted_goose_3.jpg",
+      "observation_id": 73279587,
+      "photo_id": 119614595,
+      "observation_url": "https://www.inaturalist.org/observations/73279587",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52367052403_7c48f76f64_b.jpg",
+      "flickr_photo_id": "52367052403",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52367052403",
+      "source_url": "https://live.staticflickr.com/65535/52367052403_7c48f76f64_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_48765810503_945dbb659a_b.jpg",
+      "flickr_photo_id": "48765810503",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48765810503",
+      "source_url": "https://live.staticflickr.com/65535/48765810503_945dbb659a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_45340083865_a32579e19c_b.jpg",
+      "flickr_photo_id": "45340083865",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=45340083865",
+      "source_url": "https://live.staticflickr.com/4830/45340083865_a32579e19c_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

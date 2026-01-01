@@ -1,0 +1,29 @@
+{
+  "macaulay": [],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "oriental_magpie_robin_203911381.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764318191/bird-gallery/oriental_magpie_robin/sounds/oriental_magpie_robin_203911381.mp3",
+      "public_id": "bird-gallery/oriental_magpie_robin/sounds/oriental_magpie_robin_203911381",
+      "duration": 48.72,
+      "format": "mp3",
+      "bytes": 715628,
+      "bit_rate": 117508,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203911381",
+        "asset_url": "https://macaulaylibrary.org/asset/203911381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

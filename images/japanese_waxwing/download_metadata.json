@@ -1,0 +1,50 @@
+{
+  "macaulay": [
+    {
+      "filename": "japanese_waxwing_625107543.jpg",
+      "asset_id": "625107543",
+      "asset_url": "https://macaulaylibrary.org/asset/625107543"
+    },
+    {
+      "filename": "japanese_waxwing_76204231.jpg",
+      "asset_id": "76204231",
+      "asset_url": "https://macaulaylibrary.org/asset/76204231"
+    },
+    {
+      "filename": "japanese_waxwing_76204251.jpg",
+      "asset_id": "76204251",
+      "asset_url": "https://macaulaylibrary.org/asset/76204251"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "japanese_waxwing_1.jpg",
+      "observation_id": 44866521,
+      "photo_id": 71127098,
+      "observation_url": "https://www.inaturalist.org/observations/44866521",
+      "photographer": "carlosbocos",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 carlosbocos (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "japanese_waxwing_2.jpg",
+      "observation_id": 42396541,
+      "photo_id": 67315147,
+      "observation_url": "https://www.inaturalist.org/observations/42396541",
+      "photographer": "carlosbocos",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 carlosbocos (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "japanese_waxwing_3.jpg",
+      "observation_id": 162258710,
+      "photo_id": 280548947,
+      "observation_url": "https://www.inaturalist.org/observations/162258710",
+      "photographer": "kenny_well",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 kenny_well (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

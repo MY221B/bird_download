@@ -1,0 +1,63 @@
+{
+  "macaulay": [
+    {
+      "filename": "common_crane_325108511.jpg",
+      "asset_id": "325108511",
+      "asset_url": "https://macaulaylibrary.org/asset/325108511"
+    },
+    {
+      "filename": "common_crane_191418621.jpg",
+      "asset_id": "191418621",
+      "asset_url": "https://macaulaylibrary.org/asset/191418621"
+    },
+    {
+      "filename": "common_crane_502039791.jpg",
+      "asset_id": "502039791",
+      "asset_url": "https://macaulaylibrary.org/asset/502039791"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "common_crane_1.jpg",
+      "observation_id": 270546965,
+      "photo_id": 486564890,
+      "observation_url": "https://www.inaturalist.org/observations/270546965",
+      "photographer": "brendanrattin",
+      "license": "all-rights-reserved",
+      "credit_format": "© brendanrattin (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "common_crane_2.jpg",
+      "observation_id": 18357585,
+      "photo_id": 28056384,
+      "observation_url": "https://www.inaturalist.org/observations/18357585",
+      "photographer": "seaheart88",
+      "license": "cc-by-nc",
+      "credit_format": "© seaheart88 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50413422442_0db8fccafc_b.jpg",
+      "flickr_photo_id": "50413422442",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50413422442",
+      "source_url": "https://live.staticflickr.com/65535/50413422442_0db8fccafc_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_49639944091_d5aaf6f649_b.jpg",
+      "flickr_photo_id": "49639944091",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49639944091",
+      "source_url": "https://live.staticflickr.com/65535/49639944091_d5aaf6f649_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52429122226_07c6c07d94_b.jpg",
+      "flickr_photo_id": "52429122226",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52429122226",
+      "source_url": "https://live.staticflickr.com/65535/52429122226_07c6c07d94_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

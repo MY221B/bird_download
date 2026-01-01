@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "common_rosefinch_343302571.jpg",
+      "asset_id": "343302571",
+      "asset_url": "https://macaulaylibrary.org/asset/343302571"
+    },
+    {
+      "filename": "common_rosefinch_165879411.jpg",
+      "asset_id": "165879411",
+      "asset_url": "https://macaulaylibrary.org/asset/165879411"
+    },
+    {
+      "filename": "common_rosefinch_344295271.jpg",
+      "asset_id": "344295271",
+      "asset_url": "https://macaulaylibrary.org/asset/344295271"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "common_rosefinch_1.jpg",
+      "observation_id": 18874569,
+      "photo_id": 28920664,
+      "observation_url": "https://www.inaturalist.org/observations/18874569",
+      "photographer": "g_kolotin",
+      "license": "cc-by-nc",
+      "credit_format": "© g_kolotin (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "common_rosefinch_2.jpg",
+      "observation_id": 68414444,
+      "photo_id": 110772362,
+      "observation_url": "https://www.inaturalist.org/observations/68414444",
+      "photographer": "vyatka",
+      "license": "cc-by-nc",
+      "credit_format": "© vyatka (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "common_rosefinch_3.jpg",
+      "observation_id": 70747194,
+      "photo_id": 115066669,
+      "observation_url": "https://www.inaturalist.org/observations/70747194",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52957810774_1dfb399bab_b.jpg",
+      "flickr_photo_id": "52957810774",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52957810774",
+      "source_url": "https://live.staticflickr.com/65535/52957810774_1dfb399bab_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_50024279488_82cd73cdc1_b.jpg",
+      "flickr_photo_id": "50024279488",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50024279488",
+      "source_url": "https://live.staticflickr.com/65535/50024279488_82cd73cdc1_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53866239220_9d40d2aea0_b.jpg",
+      "flickr_photo_id": "53866239220",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53866239220",
+      "source_url": "https://live.staticflickr.com/65535/53866239220_9d40d2aea0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

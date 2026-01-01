@@ -1,0 +1,69 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "japanese_spotted_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761747879/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_1.jpg",
+      "public_id": "bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 85248,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "japanese_spotted_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761747881/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_2.jpg",
+      "public_id": "bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 127196,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "japanese_spotted_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761747883/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_3.jpg",
+      "public_id": "bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 97297,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "bird_info": {
+    "slug": "japanese_spotted_woodpecker",
+    "chinese_name": "小星头啄木鸟"
+  }
+}

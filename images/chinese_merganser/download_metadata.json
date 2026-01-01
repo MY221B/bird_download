@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "chinese_merganser_631502856.jpg",
+      "asset_id": "631502856",
+      "asset_url": "https://macaulaylibrary.org/asset/631502856"
+    },
+    {
+      "filename": "chinese_merganser_631507617.jpg",
+      "asset_id": "631507617",
+      "asset_url": "https://macaulaylibrary.org/asset/631507617"
+    },
+    {
+      "filename": "chinese_merganser_624934217.jpg",
+      "asset_id": "624934217",
+      "asset_url": "https://macaulaylibrary.org/asset/624934217"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "chinese_merganser_1.jpg",
+      "observation_id": 164865038,
+      "photo_id": 285309537,
+      "observation_url": "https://www.inaturalist.org/observations/164865038",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "chinese_merganser_2.jpg",
+      "observation_id": 235559033,
+      "photo_id": 418946789,
+      "observation_url": "https://www.inaturalist.org/observations/235559033",
+      "photographer": "g_kolotin",
+      "license": "cc-by-nc",
+      "credit_format": "© g_kolotin (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "chinese_merganser_3.jpg",
+      "observation_id": 216989210,
+      "photo_id": 383980517,
+      "observation_url": "https://www.inaturalist.org/observations/216989210",
+      "photographer": "longcheng",
+      "license": "all-rights-reserved",
+      "credit_format": "© longcheng (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54300880935_30b93f2773_b.jpg",
+      "flickr_photo_id": "54300880935",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54300880935",
+      "source_url": "https://live.staticflickr.com/65535/54300880935_30b93f2773_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54299574727_7ed91f9200_b.jpg",
+      "flickr_photo_id": "54299574727",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54299574727",
+      "source_url": "https://live.staticflickr.com/65535/54299574727_7ed91f9200_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54249058212_5f3ef56189_b.jpg",
+      "flickr_photo_id": "54249058212",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54249058212",
+      "source_url": "https://live.staticflickr.com/65535/54249058212_5f3ef56189_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

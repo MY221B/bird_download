@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "mew_gull",
+    "chinese_name": "普通海鸥",
+    "english_name": "Mew Gull",
+    "scientific_name": "Larus canus"
+  },
+  "macaulay": [
+    {
+      "original_file": "mew_gull_136303301.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765946654/bird-gallery/mew_gull/macaulay/mew_gull_136303301.jpg",
+      "public_id": "bird-gallery/mew_gull/macaulay/mew_gull_136303301",
+      "width": 1200,
+      "height": 803,
+      "format": "jpg",
+      "bytes": 78370,
+      "attribution": {
+        "photographer": "Ryan Zucker",
+        "photographer_url": "https://macaulaylibrary.org/asset/136303301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ryan Zucker; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "136303301",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mew_gull_242340951.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765946660/bird-gallery/mew_gull/macaulay/mew_gull_242340951.jpg",
+      "public_id": "bird-gallery/mew_gull/macaulay/mew_gull_242340951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71529,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/242340951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "242340951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mew_gull_416864161.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765946664/bird-gallery/mew_gull/macaulay/mew_gull_416864161.jpg",
+      "public_id": "bird-gallery/mew_gull/macaulay/mew_gull_416864161",
+      "width": 1200,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 50558,
+      "attribution": {
+        "photographer": "Jay McGowan",
+        "photographer_url": "https://macaulaylibrary.org/asset/416864161",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jay McGowan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "416864161",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mew_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765946669/bird-gallery/mew_gull/inaturalist/mew_gull_1.jpg",
+      "public_id": "bird-gallery/mew_gull/inaturalist/mew_gull_1",
+      "width": 1000,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 27337,
+      "attribution": {
+        "photographer": "anna_parkhaeva",
+        "photographer_url": "https://www.inaturalist.org/observations/100323453",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© anna_parkhaeva (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100323453,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mew_gull_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765946671/bird-gallery/mew_gull/inaturalist/mew_gull_2.jpg",
+      "public_id": "bird-gallery/mew_gull/inaturalist/mew_gull_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 184109,
+      "attribution": {
+        "photographer": "birdingman",
+        "photographer_url": "https://www.inaturalist.org/observations/15801375",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© birdingman (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 15801375,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54378170786_b483dee797_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765946673/bird-gallery/mew_gull/avibase/avibase_1_54378170786_b483dee797_b.jpg",
+      "public_id": "bird-gallery/mew_gull/avibase/avibase_1_54378170786_b483dee797_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 54008,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54378170786",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52149581544_d44d6ba911_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765946674/bird-gallery/mew_gull/avibase/avibase_2_52149581544_d44d6ba911_b.jpg",
+      "public_id": "bird-gallery/mew_gull/avibase/avibase_2_52149581544_d44d6ba911_b",
+      "width": 1023,
+      "height": 712,
+      "format": "jpg",
+      "bytes": 54855,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52149581544",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "mew_gull_203916041.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1765946711/bird-gallery/mew_gull/sounds/mew_gull_203916041.mp3",
+      "public_id": "bird-gallery/mew_gull/sounds/mew_gull_203916041",
+      "duration": 51.048,
+      "format": "mp3",
+      "bytes": 771356,
+      "bit_rate": 120883,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203916041",
+        "asset_url": "https://macaulaylibrary.org/asset/203916041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

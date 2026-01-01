@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "orange_flanked_bush_robin_1.jpg",
+      "observation_id": 145294096,
+      "photo_id": 249559347,
+      "observation_url": "https://www.inaturalist.org/observations/145294096",
+      "photographer": "titouan_roguet",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 titouan_roguet (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "orange_flanked_bush_robin_2.jpg",
+      "observation_id": 72074131,
+      "photo_id": 117450045,
+      "observation_url": "https://www.inaturalist.org/observations/72074131",
+      "photographer": "daniel_garza_tobon",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 daniel_garza_tobon (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "orange_flanked_bush_robin_3.jpg",
+      "observation_id": 72419119,
+      "photo_id": 118068978,
+      "observation_url": "https://www.inaturalist.org/observations/72419119",
+      "photographer": "camerondeckert",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 camerondeckert (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51854262126_a052ecab69_b.jpg",
+      "flickr_photo_id": "51854262126",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51854262126",
+      "source_url": "https://live.staticflickr.com/65535/51854262126_a052ecab69_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_53390974876_edbe0b13ee_b.jpg",
+      "flickr_photo_id": "53390974876",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53390974876",
+      "source_url": "https://live.staticflickr.com/65535/53390974876_edbe0b13ee_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_25190485706_b9cd171a4e_b.jpg",
+      "flickr_photo_id": "25190485706",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=25190485706",
+      "source_url": "https://live.staticflickr.com/1684/25190485706_b9cd171a4e_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "chinese_beautiful_rosefinch_280112141.jpg",
+      "asset_id": "280112141",
+      "asset_url": "https://macaulaylibrary.org/asset/280112141"
+    },
+    {
+      "filename": "chinese_beautiful_rosefinch_460752731.jpg",
+      "asset_id": "460752731",
+      "asset_url": "https://macaulaylibrary.org/asset/460752731"
+    },
+    {
+      "filename": "chinese_beautiful_rosefinch_280112131.jpg",
+      "asset_id": "280112131",
+      "asset_url": "https://macaulaylibrary.org/asset/280112131"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "chinese_beautiful_rosefinch_1.jpg",
+      "observation_id": 262233567,
+      "photo_id": 471127789,
+      "observation_url": "https://www.inaturalist.org/observations/262233567",
+      "photographer": "kat717",
+      "license": "cc-by-nc",
+      "credit_format": "© kat717 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "chinese_beautiful_rosefinch_2.jpg",
+      "observation_id": 290145088,
+      "photo_id": 521923223,
+      "observation_url": "https://www.inaturalist.org/observations/290145088",
+      "photographer": "kat717",
+      "license": "cc-by-nc",
+      "credit_format": "© kat717 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "chinese_beautiful_rosefinch_3.jpg",
+      "observation_id": 171513151,
+      "photo_id": 297628920,
+      "observation_url": "https://www.inaturalist.org/observations/171513151",
+      "photographer": "zhenningliu",
+      "license": "cc-by-nc",
+      "credit_format": "© zhenningliu (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_30242564945_c25c6c2674_b.jpg",
+      "flickr_photo_id": "30242564945",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=30242564945",
+      "source_url": "https://live.staticflickr.com/5481/30242564945_c25c6c2674_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_29945806130_03bc7fcf5f_b.jpg",
+      "flickr_photo_id": "29945806130",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=29945806130",
+      "source_url": "https://live.staticflickr.com/7520/29945806130_03bc7fcf5f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_30242564785_7cd77f939f_b.jpg",
+      "flickr_photo_id": "30242564785",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=30242564785",
+      "source_url": "https://live.staticflickr.com/5467/30242564785_7cd77f939f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

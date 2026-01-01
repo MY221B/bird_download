@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "carrion_crow_1.jpg",
+      "observation_id": 2912332,
+      "photo_id": 3332683,
+      "observation_url": "https://www.inaturalist.org/observations/2912332",
+      "photographer": "inasiebert",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 inasiebert (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "carrion_crow_2.jpg",
+      "observation_id": 252339670,
+      "photo_id": 451700759,
+      "observation_url": "https://www.inaturalist.org/observations/252339670",
+      "photographer": "eidiu",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 eidiu (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "carrion_crow_3.jpg",
+      "observation_id": 90428293,
+      "photo_id": 149445653,
+      "observation_url": "https://www.inaturalist.org/observations/90428293",
+      "photographer": "butor",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 butor (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53050207813_5981ca30f8_b.jpg",
+      "flickr_photo_id": "53050207813",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53050207813",
+      "source_url": "https://live.staticflickr.com/65535/53050207813_5981ca30f8_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_49863240853_5042c21e15_b.jpg",
+      "flickr_photo_id": "49863240853",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49863240853",
+      "source_url": "https://live.staticflickr.com/65535/49863240853_5042c21e15_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_52758011860_60fac7c5d1_b.jpg",
+      "flickr_photo_id": "52758011860",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52758011860",
+      "source_url": "https://live.staticflickr.com/65535/52758011860_60fac7c5d1_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

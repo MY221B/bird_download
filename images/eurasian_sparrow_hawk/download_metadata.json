@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "eurasian_sparrow_hawk_1.jpg",
+      "observation_id": 71955281,
+      "photo_id": 117234831,
+      "observation_url": "https://www.inaturalist.org/observations/71955281",
+      "photographer": "egorbirder",
+      "license": "cc-by",
+      "credit_format": "\u00a9 egorbirder (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "eurasian_sparrow_hawk_2.jpg",
+      "observation_id": 147029093,
+      "photo_id": 252922359,
+      "observation_url": "https://www.inaturalist.org/observations/147029093",
+      "photographer": "en_shtein",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 en_shtein (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_sparrow_hawk_3.jpg",
+      "observation_id": 59118487,
+      "photo_id": 94439035,
+      "observation_url": "https://www.inaturalist.org/observations/59118487",
+      "photographer": "evgen_gu",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 evgen_gu (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_48788119592_8c198f15c0_b.jpg",
+      "flickr_photo_id": "48788119592",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48788119592",
+      "source_url": "https://live.staticflickr.com/65535/48788119592_8c198f15c0_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_51881218689_d3a380f924_b.jpg",
+      "flickr_photo_id": "51881218689",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51881218689",
+      "source_url": "https://live.staticflickr.com/65535/51881218689_d3a380f924_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_50139491496_f1021b1b23_b.jpg",
+      "flickr_photo_id": "50139491496",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50139491496",
+      "source_url": "https://live.staticflickr.com/65535/50139491496_f1021b1b23_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

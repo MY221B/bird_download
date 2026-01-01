@@ -1,0 +1,56 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "mallard_1.jpg",
+      "observation_id": 8174772,
+      "photo_id": 10826265,
+      "observation_url": "https://www.inaturalist.org/observations/8174772",
+      "photographer": "greglasley",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 greglasley (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "mallard_2.jpg",
+      "observation_id": 13447878,
+      "photo_id": 19738755,
+      "observation_url": "https://www.inaturalist.org/observations/13447878",
+      "photographer": "kyletansley",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 kyletansley (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "mallard_3.jpg",
+      "observation_id": 21203884,
+      "photo_id": 32774133,
+      "observation_url": "https://www.inaturalist.org/observations/21203884",
+      "photographer": "diegocarau",
+      "license": "cc0",
+      "credit_format": "\u00a9 diegocarau (via iNaturalist), some rights reserved (CC0)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_48846172958_e654fdce0c_b.jpg",
+      "flickr_photo_id": "48846172958",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48846172958",
+      "source_url": "https://live.staticflickr.com/65535/48846172958_e654fdce0c_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_2_53556194404_c587d78caa_b.jpg",
+      "flickr_photo_id": "53556194404",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53556194404",
+      "source_url": "https://live.staticflickr.com/65535/53556194404_c587d78caa_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    },
+    {
+      "filename": "avibase_3_53691453413_3029fa35da_b.jpg",
+      "flickr_photo_id": "53691453413",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53691453413",
+      "source_url": "https://live.staticflickr.com/65535/53691453413_3029fa35da_b.jpg",
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
+    }
+  ]
+}

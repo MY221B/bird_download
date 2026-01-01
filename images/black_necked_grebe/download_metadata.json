@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "black_necked_grebe_284848191.jpg",
+      "asset_id": "284848191",
+      "asset_url": "https://macaulaylibrary.org/asset/284848191"
+    },
+    {
+      "filename": "black_necked_grebe_282701191.jpg",
+      "asset_id": "282701191",
+      "asset_url": "https://macaulaylibrary.org/asset/282701191"
+    },
+    {
+      "filename": "black_necked_grebe_210406731.jpg",
+      "asset_id": "210406731",
+      "asset_url": "https://macaulaylibrary.org/asset/210406731"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "black_necked_grebe_1.jpg",
+      "observation_id": 53399421,
+      "photo_id": 84930190,
+      "observation_url": "https://www.inaturalist.org/observations/53399421",
+      "photographer": "lonnyholmes",
+      "license": "cc-by-nc",
+      "credit_format": "© lonnyholmes (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_necked_grebe_2.jpg",
+      "observation_id": 171478643,
+      "photo_id": 297561320,
+      "observation_url": "https://www.inaturalist.org/observations/171478643",
+      "photographer": "vireolanius",
+      "license": "cc-by-nc",
+      "credit_format": "© vireolanius (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_necked_grebe_3.jpg",
+      "observation_id": 225932743,
+      "photo_id": 400627729,
+      "observation_url": "https://www.inaturalist.org/observations/225932743",
+      "photographer": "abmdjoe",
+      "license": "all-rights-reserved",
+      "credit_format": "© abmdjoe (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54849378438_6a96afd922_b.jpg",
+      "flickr_photo_id": "54849378438",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54849378438",
+      "source_url": "https://live.staticflickr.com/65535/54849378438_6a96afd922_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52906759300_41a7318bf7_b.jpg",
+      "flickr_photo_id": "52906759300",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52906759300",
+      "source_url": "https://live.staticflickr.com/65535/52906759300_41a7318bf7_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52665494184_fe4cc839df_b.jpg",
+      "flickr_photo_id": "52665494184",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52665494184",
+      "source_url": "https://live.staticflickr.com/65535/52665494184_fe4cc839df_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

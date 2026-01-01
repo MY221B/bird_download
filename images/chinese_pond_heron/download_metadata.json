@@ -1,0 +1,34 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "filename": "chinese_pond_heron_1.jpg",
+      "observation_id": 233225501,
+      "photo_id": 414461531,
+      "observation_url": "https://www.inaturalist.org/observations/233225501",
+      "photographer": "guisauco",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 guisauco (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "chinese_pond_heron_2.jpg",
+      "observation_id": 101600110,
+      "photo_id": 169698813,
+      "observation_url": "https://www.inaturalist.org/observations/101600110",
+      "photographer": "that_bee_guy",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 that_bee_guy (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "chinese_pond_heron_3.jpg",
+      "observation_id": 207741576,
+      "photo_id": 367493933,
+      "observation_url": "https://www.inaturalist.org/observations/207741576",
+      "photographer": "grey_moss",
+      "license": "cc-by",
+      "credit_format": "\u00a9 grey_moss (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

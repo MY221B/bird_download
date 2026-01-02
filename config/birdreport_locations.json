@@ -155,6 +155,22 @@
         "兴庆宫",
         "兴庆宫公园"
       ]
+    },
+    {
+      "id": "zijinghuayuan",
+      "name": "紫荆公园",
+      "province": "陕西省",
+      "city": "渭南市",
+      "district": "蒲城县",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "",
+        "紫荆公园",
+        "蒲城县紫荆公园",
+        "渭南市蒲城县紫荆公园"
+      ]
     }
   ]
 }

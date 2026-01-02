@@ -39,7 +39,8 @@ def load_location_config() -> Dict[str, str]:
         
         # 提取城市名称
         if city and city.strip():
-            city_name = city
+            # 去掉城市名称末尾的"市"字，保持格式一致
+            city_name = city.rstrip('市')
         elif province:
             # 从省份提取：北京市 -> 北京
             if province.endswith('市'):

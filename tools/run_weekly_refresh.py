@@ -147,16 +147,18 @@ def fetch_species_for_location(entry, start, end, output_file):
     aliases = entry.get("point_aliases") or [entry.get("pointname") or entry.get("name")]
     combined = OrderedDict()
     for alias in aliases:
-        if not alias:
+        # 允许空字符串，用于查询整个区县的数据（不指定具体地点）
+        if alias is None:
             continue
-        print(f"🔐 {entry.get('name', alias)} - {alias}: 调用 API ...")
+        display_name = alias if alias else f"{entry.get('district', '')}（全部）" if entry.get('district') else "（全部）"
+        print(f"🔐 {entry.get('name', display_name)} - {display_name}: 调用 API ...")
         payload = build_payload(entry, start, end, alias)
         try:
             records = fetch_birds_for_payload(payload)
         except Exception as exc:
-            print(f"⚠️  {alias} 抓取失败: {exc}")
+            print(f"⚠️  {display_name} 抓取失败: {exc}")
             continue
-        print(f"✅ {alias}: 返回 {len(records)} 条记录")
+        print(f"✅ {display_name}: 返回 {len(records)} 条记录")
         for record in records:
             key = (record.chinese, record.scientific)
             if key not in combined:

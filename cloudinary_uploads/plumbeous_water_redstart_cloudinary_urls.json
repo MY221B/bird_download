@@ -145,5 +145,27 @@
     "chinese_name": "红尾水鸲",
     "english_name": "Plumbeous Water Redstart",
     "scientific_name": "Phoenicurus fuliginosus"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "plumbeous_water_redstart_30548281.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768007266/bird-gallery/plumbeous_water_redstart/sounds/plumbeous_water_redstart_30548281.mp3",
+      "public_id": "bird-gallery/plumbeous_water_redstart/sounds/plumbeous_water_redstart_30548281",
+      "duration": 29.424,
+      "format": "mp3",
+      "bytes": 428780,
+      "bit_rate": 116579,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "30548281",
+        "asset_url": "https://macaulaylibrary.org/asset/30548281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

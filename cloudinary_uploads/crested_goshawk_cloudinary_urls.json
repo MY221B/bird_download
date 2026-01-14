@@ -1,0 +1,149 @@
+{
+  "bird_info": {
+    "slug": "crested_goshawk",
+    "chinese_name": "凤头鹰",
+    "english_name": "Crested Goshawk",
+    "scientific_name": "Accipiter trivirgatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "crested_goshawk_182220181.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212483/bird-gallery/crested_goshawk/macaulay/crested_goshawk_182220181.jpg",
+      "public_id": "bird-gallery/crested_goshawk/macaulay/crested_goshawk_182220181",
+      "width": 1200,
+      "height": 777,
+      "format": "jpg",
+      "bytes": 40002,
+      "attribution": {
+        "photographer": "Rui-Yang Ho",
+        "photographer_url": "https://macaulaylibrary.org/asset/182220181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rui-Yang Ho; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "182220181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "crested_goshawk_439902781.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212490/bird-gallery/crested_goshawk/macaulay/crested_goshawk_439902781.jpg",
+      "public_id": "bird-gallery/crested_goshawk/macaulay/crested_goshawk_439902781",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 179525,
+      "attribution": {
+        "photographer": "BY Tan",
+        "photographer_url": "https://macaulaylibrary.org/asset/439902781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by BY Tan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "439902781",
+        "note": null
+      }
+    },
+    {
+      "original_file": "crested_goshawk_496987931.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212495/bird-gallery/crested_goshawk/macaulay/crested_goshawk_496987931.jpg",
+      "public_id": "bird-gallery/crested_goshawk/macaulay/crested_goshawk_496987931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91082,
+      "attribution": {
+        "photographer": "Raghavendra  Pai",
+        "photographer_url": "https://macaulaylibrary.org/asset/496987931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Raghavendra  Pai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "496987931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crested_goshawk_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212500/bird-gallery/crested_goshawk/inaturalist/crested_goshawk_1.jpg",
+      "public_id": "bird-gallery/crested_goshawk/inaturalist/crested_goshawk_1",
+      "width": 1024,
+      "height": 788,
+      "format": "jpg",
+      "bytes": 113214,
+      "attribution": {
+        "photographer": "peterthedragon",
+        "photographer_url": "https://www.inaturalist.org/observations/69661092",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© peterthedragon (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 69661092,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_20898593716_1acb9e2fe2_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212505/bird-gallery/crested_goshawk/avibase/avibase_1_20898593716_1acb9e2fe2_b.jpg",
+      "public_id": "bird-gallery/crested_goshawk/avibase/avibase_1_20898593716_1acb9e2fe2_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 77206,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "20898593716",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52051022197_1d9914f964_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212507/bird-gallery/crested_goshawk/avibase/avibase_2_52051022197_1d9914f964_b.jpg",
+      "public_id": "bird-gallery/crested_goshawk/avibase/avibase_2_52051022197_1d9914f964_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 135689,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52051022197",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52105826900_0714f7e784_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212508/bird-gallery/crested_goshawk/avibase/avibase_3_52105826900_0714f7e784_b.jpg",
+      "public_id": "bird-gallery/crested_goshawk/avibase/avibase_3_52105826900_0714f7e784_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59792,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52105826900",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

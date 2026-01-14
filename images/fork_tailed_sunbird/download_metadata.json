@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "fork_tailed_sunbird_200492241.jpg",
+      "asset_id": "200492241",
+      "asset_url": "https://macaulaylibrary.org/asset/200492241"
+    },
+    {
+      "filename": "fork_tailed_sunbird_613072989.jpg",
+      "asset_id": "613072989",
+      "asset_url": "https://macaulaylibrary.org/asset/613072989"
+    },
+    {
+      "filename": "fork_tailed_sunbird_200492251.jpg",
+      "asset_id": "200492251",
+      "asset_url": "https://macaulaylibrary.org/asset/200492251"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "fork_tailed_sunbird_1.jpg",
+      "observation_id": 18797246,
+      "photo_id": 28791970,
+      "observation_url": "https://www.inaturalist.org/observations/18797246",
+      "photographer": "wai2",
+      "license": "cc-by-nc",
+      "credit_format": "© wai2 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "fork_tailed_sunbird_2.jpg",
+      "observation_id": 262805866,
+      "photo_id": 472006415,
+      "observation_url": "https://www.inaturalist.org/observations/262805866",
+      "photographer": "helololo",
+      "license": "cc-by-nc",
+      "credit_format": "© helololo (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "fork_tailed_sunbird_3.jpg",
+      "observation_id": 36963183,
+      "photo_id": 58515948,
+      "observation_url": "https://www.inaturalist.org/observations/36963183",
+      "photographer": "oscarho",
+      "license": "all-rights-reserved",
+      "credit_format": "© oscarho (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52764265740_b4eeda60d2_b.jpg",
+      "flickr_photo_id": "52764265740",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52764265740",
+      "source_url": "https://live.staticflickr.com/65535/52764265740_b4eeda60d2_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_50579026998_1cc4421e9e_b.jpg",
+      "flickr_photo_id": "50579026998",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50579026998",
+      "source_url": "https://live.staticflickr.com/65535/50579026998_1cc4421e9e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51186769795_6131439b23_b.jpg",
+      "flickr_photo_id": "51186769795",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51186769795",
+      "source_url": "https://live.staticflickr.com/65535/51186769795_6131439b23_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "black_chinned_yuhina_639499815.jpg",
+      "asset_id": "639499815",
+      "asset_url": "https://macaulaylibrary.org/asset/639499815"
+    },
+    {
+      "filename": "black_chinned_yuhina_619987574.jpg",
+      "asset_id": "619987574",
+      "asset_url": "https://macaulaylibrary.org/asset/619987574"
+    },
+    {
+      "filename": "black_chinned_yuhina_206199401.jpg",
+      "asset_id": "206199401",
+      "asset_url": "https://macaulaylibrary.org/asset/206199401"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "black_chinned_yuhina_1.jpg",
+      "observation_id": 27151849,
+      "photo_id": 42215066,
+      "observation_url": "https://www.inaturalist.org/observations/27151849",
+      "photographer": "qin_huang",
+      "license": "all-rights-reserved",
+      "credit_format": "© qin_huang (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "black_chinned_yuhina_2.jpg",
+      "observation_id": 262350349,
+      "photo_id": 471315567,
+      "observation_url": "https://www.inaturalist.org/observations/262350349",
+      "photographer": "reishisagnik",
+      "license": "cc-by",
+      "credit_format": "© reishisagnik (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "black_chinned_yuhina_3.jpg",
+      "observation_id": 249038896,
+      "photo_id": 445100571,
+      "observation_url": "https://www.inaturalist.org/observations/249038896",
+      "photographer": "brownsugar_iris",
+      "license": "all-rights-reserved",
+      "credit_format": "© brownsugar_iris (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_14005132519_ee005c78d8_b.jpg",
+      "flickr_photo_id": "14005132519",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=14005132519",
+      "source_url": "https://live.staticflickr.com/7401/14005132519_ee005c78d8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51220662736_ef35e37bda_b.jpg",
+      "flickr_photo_id": "51220662736",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51220662736",
+      "source_url": "https://live.staticflickr.com/65535/51220662736_ef35e37bda_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52483687434_ec2e4897f8_b.jpg",
+      "flickr_photo_id": "52483687434",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52483687434",
+      "source_url": "https://live.staticflickr.com/65535/52483687434_ec2e4897f8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

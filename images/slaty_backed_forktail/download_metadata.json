@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "slaty_backed_forktail_532248061.jpg",
+      "asset_id": "532248061",
+      "asset_url": "https://macaulaylibrary.org/asset/532248061"
+    },
+    {
+      "filename": "slaty_backed_forktail_79726821.jpg",
+      "asset_id": "79726821",
+      "asset_url": "https://macaulaylibrary.org/asset/79726821"
+    },
+    {
+      "filename": "slaty_backed_forktail_89711761.jpg",
+      "asset_id": "89711761",
+      "asset_url": "https://macaulaylibrary.org/asset/89711761"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "slaty_backed_forktail_1.jpg",
+      "observation_id": 89030773,
+      "photo_id": 146976453,
+      "observation_url": "https://www.inaturalist.org/observations/89030773",
+      "photographer": "tyh34",
+      "license": "cc-by",
+      "credit_format": "© tyh34 (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "slaty_backed_forktail_2.jpg",
+      "observation_id": 30751437,
+      "photo_id": 48059566,
+      "observation_url": "https://www.inaturalist.org/observations/30751437",
+      "photographer": "catalinatong",
+      "license": "cc-by-nc",
+      "credit_format": "© catalinatong (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "slaty_backed_forktail_3.jpg",
+      "observation_id": 138728104,
+      "photo_id": 237149439,
+      "observation_url": "https://www.inaturalist.org/observations/138728104",
+      "photographer": "redpandacat",
+      "license": "cc-by-nc-sa",
+      "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_14346882704_0a55d40c63_b.jpg",
+      "flickr_photo_id": "14346882704",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=14346882704",
+      "source_url": "https://live.staticflickr.com/2936/14346882704_0a55d40c63_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_16264137539_8bf5498a78_b.jpg",
+      "flickr_photo_id": "16264137539",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16264137539",
+      "source_url": "https://live.staticflickr.com/8675/16264137539_8bf5498a78_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51220818948_ff250a905b_b.jpg",
+      "flickr_photo_id": "51220818948",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51220818948",
+      "source_url": "https://live.staticflickr.com/65535/51220818948_ff250a905b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

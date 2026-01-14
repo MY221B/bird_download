@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "white_capped_water_redstart_199686841.jpg",
+      "asset_id": "199686841",
+      "asset_url": "https://macaulaylibrary.org/asset/199686841"
+    },
+    {
+      "filename": "white_capped_water_redstart_638108575.jpg",
+      "asset_id": "638108575",
+      "asset_url": "https://macaulaylibrary.org/asset/638108575"
+    },
+    {
+      "filename": "white_capped_water_redstart_638071825.jpg",
+      "asset_id": "638071825",
+      "asset_url": "https://macaulaylibrary.org/asset/638071825"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "white_capped_water_redstart_1.jpg",
+      "observation_id": 97523287,
+      "photo_id": 162206498,
+      "observation_url": "https://www.inaturalist.org/observations/97523287",
+      "photographer": "redpandacat",
+      "license": "cc-by-nc-sa",
+      "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+    },
+    {
+      "filename": "white_capped_water_redstart_2.jpg",
+      "observation_id": 105605332,
+      "photo_id": 177227305,
+      "observation_url": "https://www.inaturalist.org/observations/105605332",
+      "photographer": "negi",
+      "license": "cc-by",
+      "credit_format": "© negi (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "white_capped_water_redstart_3.jpg",
+      "observation_id": 104745695,
+      "photo_id": 175581527,
+      "observation_url": "https://www.inaturalist.org/observations/104745695",
+      "photographer": "rejoicegassah",
+      "license": "cc-by",
+      "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53635917379_d03a278554_b.jpg",
+      "flickr_photo_id": "53635917379",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53635917379",
+      "source_url": "https://live.staticflickr.com/65535/53635917379_d03a278554_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_49192641442_230a6fc166_b.jpg",
+      "flickr_photo_id": "49192641442",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49192641442",
+      "source_url": "https://live.staticflickr.com/65535/49192641442_230a6fc166_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_7262454058_7feb134c3c_b.jpg",
+      "flickr_photo_id": "7262454058",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=7262454058",
+      "source_url": "https://live.staticflickr.com/7080/7262454058_7feb134c3c_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

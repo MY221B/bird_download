@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "chestnut_eared_bunting_626317559.jpg",
+      "asset_id": "626317559",
+      "asset_url": "https://macaulaylibrary.org/asset/626317559"
+    },
+    {
+      "filename": "chestnut_eared_bunting_639242946.jpg",
+      "asset_id": "639242946",
+      "asset_url": "https://macaulaylibrary.org/asset/639242946"
+    },
+    {
+      "filename": "chestnut_eared_bunting_617097823.jpg",
+      "asset_id": "617097823",
+      "asset_url": "https://macaulaylibrary.org/asset/617097823"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "chestnut_eared_bunting_1.jpg",
+      "observation_id": 71063860,
+      "photo_id": 115638505,
+      "observation_url": "https://www.inaturalist.org/observations/71063860",
+      "photographer": "oscarho",
+      "license": "all-rights-reserved",
+      "credit_format": "© oscarho (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "chestnut_eared_bunting_2.jpg",
+      "observation_id": 49815083,
+      "photo_id": 79090100,
+      "observation_url": "https://www.inaturalist.org/observations/49815083",
+      "photographer": "kelvinche",
+      "license": "cc-by-nc",
+      "credit_format": "© kelvinche (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "chestnut_eared_bunting_3.jpg",
+      "observation_id": 91609747,
+      "photo_id": 151563875,
+      "observation_url": "https://www.inaturalist.org/observations/91609747",
+      "photographer": "mike_hooper",
+      "license": "all-rights-reserved",
+      "credit_format": "© mike_hooper (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54312231823_56b5d3d284_b.jpg",
+      "flickr_photo_id": "54312231823",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54312231823",
+      "source_url": "https://live.staticflickr.com/65535/54312231823_56b5d3d284_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54419291225_ea33053660_b.jpg",
+      "flickr_photo_id": "54419291225",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54419291225",
+      "source_url": "https://live.staticflickr.com/65535/54419291225_ea33053660_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_15274121984_c4681051d5_b.jpg",
+      "flickr_photo_id": "15274121984",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=15274121984",
+      "source_url": "https://live.staticflickr.com/7553/15274121984_c4681051d5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

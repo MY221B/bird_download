@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "white_throated_kingfisher_611613141.jpg",
+      "asset_id": "611613141",
+      "asset_url": "https://macaulaylibrary.org/asset/611613141"
+    },
+    {
+      "filename": "white_throated_kingfisher_268067051.jpg",
+      "asset_id": "268067051",
+      "asset_url": "https://macaulaylibrary.org/asset/268067051"
+    },
+    {
+      "filename": "white_throated_kingfisher_354286241.jpg",
+      "asset_id": "354286241",
+      "asset_url": "https://macaulaylibrary.org/asset/354286241"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "white_throated_kingfisher_1.jpg",
+      "observation_id": 50540962,
+      "photo_id": 80253148,
+      "observation_url": "https://www.inaturalist.org/observations/50540962",
+      "photographer": "patricialorenz",
+      "license": "cc-by-nc",
+      "credit_format": "© patricialorenz (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "white_throated_kingfisher_2.jpg",
+      "observation_id": 1644485,
+      "photo_id": 2017553,
+      "observation_url": "https://www.inaturalist.org/observations/1644485",
+      "photographer": "devendrabhardwaj",
+      "license": "cc-by-nc",
+      "credit_format": "© devendrabhardwaj (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "white_throated_kingfisher_3.jpg",
+      "observation_id": 64723446,
+      "photo_id": 104102918,
+      "observation_url": "https://www.inaturalist.org/observations/64723446",
+      "photographer": "varmax",
+      "license": "cc-by-nc-sa",
+      "credit_format": "© varmax (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_19147963816_d5f95c16e7_b.jpg",
+      "flickr_photo_id": "19147963816",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=19147963816",
+      "source_url": "https://live.staticflickr.com/332/19147963816_d5f95c16e7_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52741534116_9c059044bd_b.jpg",
+      "flickr_photo_id": "52741534116",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52741534116",
+      "source_url": "https://live.staticflickr.com/65535/52741534116_9c059044bd_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54917618384_d6884a3086_b.jpg",
+      "flickr_photo_id": "54917618384",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54917618384",
+      "source_url": "https://live.staticflickr.com/65535/54917618384_d6884a3086_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

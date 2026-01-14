@@ -1,0 +1,65 @@
+{
+  "macaulay": [
+    {
+      "filename": "silver_pheasant_194973721.jpg",
+      "asset_id": "194973721",
+      "asset_url": "https://macaulaylibrary.org/asset/194973721"
+    },
+    {
+      "filename": "silver_pheasant_451056691.jpg",
+      "asset_id": "451056691",
+      "asset_url": "https://macaulaylibrary.org/asset/451056691"
+    },
+    {
+      "filename": "silver_pheasant_147392591.jpg",
+      "asset_id": "147392591",
+      "asset_url": "https://macaulaylibrary.org/asset/147392591"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "silver_pheasant_1.jpg",
+      "observation_id": 26868745,
+      "photo_id": 41746714,
+      "observation_url": "https://www.inaturalist.org/observations/26868745",
+      "photographer": "cdbrinker",
+      "license": "all-rights-reserved",
+      "credit_format": "© cdbrinker (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "silver_pheasant_2.jpg",
+      "observation_id": 56307837,
+      "photo_id": 89723339,
+      "observation_url": "https://www.inaturalist.org/observations/56307837",
+      "photographer": "joaoquental",
+      "license": "all-rights-reserved",
+      "credit_format": "© joaoquental (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "silver_pheasant_3.jpg",
+      "observation_id": 257771761,
+      "photo_id": 474302904,
+      "observation_url": "https://www.inaturalist.org/observations/257771761",
+      "photographer": "makopisces",
+      "license": "all-rights-reserved",
+      "credit_format": "© makopisces (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_31033465043_5430eea0e1_b.jpg",
+      "flickr_photo_id": "31033465043",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=31033465043",
+      "source_url": "https://farm1.staticflickr.com/328/31033465043_5430eea0e1_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_17054675229_107f52514b_b.jpg",
+      "flickr_photo_id": "17054675229",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=17054675229",
+      "source_url": "https://farm9.staticflickr.com/8720/17054675229_107f52514b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "bird_info": {
+    "slug": "little_forktail",
+    "chinese_name": "小燕尾",
+    "english_name": "Little Forktail",
+    "scientific_name": "Enicurus scouleri"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_forktail_46197441.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389778/bird-gallery/little_forktail/macaulay/little_forktail_46197441.jpg",
+      "public_id": "bird-gallery/little_forktail/macaulay/little_forktail_46197441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67683,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/46197441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "46197441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_forktail_46197461.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389783/bird-gallery/little_forktail/macaulay/little_forktail_46197461.jpg",
+      "public_id": "bird-gallery/little_forktail/macaulay/little_forktail_46197461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 89198,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/46197461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "46197461",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_forktail_618548325.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389787/bird-gallery/little_forktail/macaulay/little_forktail_618548325.jpg",
+      "public_id": "bird-gallery/little_forktail/macaulay/little_forktail_618548325",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 112293,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/618548325",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "618548325",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_forktail_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389792/bird-gallery/little_forktail/inaturalist/little_forktail_1.jpg",
+      "public_id": "bird-gallery/little_forktail/inaturalist/little_forktail_1",
+      "width": 900,
+      "height": 653,
+      "format": "jpg",
+      "bytes": 58341,
+      "attribution": {
+        "photographer": "iiukolov",
+        "photographer_url": "https://www.inaturalist.org/observations/309000199",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© iiukolov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 309000199,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_forktail_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389796/bird-gallery/little_forktail/inaturalist/little_forktail_3.jpg",
+      "public_id": "bird-gallery/little_forktail/inaturalist/little_forktail_3",
+      "width": 700,
+      "height": 524,
+      "format": "jpg",
+      "bytes": 25752,
+      "attribution": {
+        "photographer": "wild_nn",
+        "photographer_url": "https://www.inaturalist.org/observations/99739792",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wild_nn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 99739792,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39008717035_4197d36c58_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389798/bird-gallery/little_forktail/avibase/avibase_1_39008717035_4197d36c58_b.jpg",
+      "public_id": "bird-gallery/little_forktail/avibase/avibase_1_39008717035_4197d36c58_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 111354,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39008717035",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51998643041_573ef51448_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389799/bird-gallery/little_forktail/avibase/avibase_2_51998643041_573ef51448_b.jpg",
+      "public_id": "bird-gallery/little_forktail/avibase/avibase_2_51998643041_573ef51448_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 87528,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51998643041",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_48625182286_1506c8a8ea_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389801/bird-gallery/little_forktail/avibase/avibase_3_48625182286_1506c8a8ea_b.jpg",
+      "public_id": "bird-gallery/little_forktail/avibase/avibase_3_48625182286_1506c8a8ea_b",
+      "width": 1024,
+      "height": 838,
+      "format": "jpg",
+      "bytes": 113534,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48625182286",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "little_forktail_364797091.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768390032/bird-gallery/little_forktail/sounds/little_forktail_364797091.mp3",
+      "public_id": "bird-gallery/little_forktail/sounds/little_forktail_364797091",
+      "duration": 3.312,
+      "format": "mp3",
+      "bytes": 49244,
+      "bit_rate": 118946,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "364797091",
+        "asset_url": "https://macaulaylibrary.org/asset/364797091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

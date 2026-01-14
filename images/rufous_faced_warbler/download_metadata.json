@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "rufous_faced_warbler_275453081.jpg",
+      "asset_id": "275453081",
+      "asset_url": "https://macaulaylibrary.org/asset/275453081"
+    },
+    {
+      "filename": "rufous_faced_warbler_206003541.jpg",
+      "asset_id": "206003541",
+      "asset_url": "https://macaulaylibrary.org/asset/206003541"
+    },
+    {
+      "filename": "rufous_faced_warbler_131825811.jpg",
+      "asset_id": "131825811",
+      "asset_url": "https://macaulaylibrary.org/asset/131825811"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "rufous_faced_warbler_1.jpg",
+      "observation_id": 315161264,
+      "photo_id": 569312858,
+      "observation_url": "https://www.inaturalist.org/observations/315161264",
+      "photographer": "ys_z",
+      "license": "cc-by-nc",
+      "credit_format": "© ys_z (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "rufous_faced_warbler_2.jpg",
+      "observation_id": 239885020,
+      "photo_id": 427302281,
+      "observation_url": "https://www.inaturalist.org/observations/239885020",
+      "photographer": "amarzee",
+      "license": "cc-by-nc",
+      "credit_format": "© amarzee (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "rufous_faced_warbler_3.jpg",
+      "observation_id": 268861169,
+      "photo_id": 483332815,
+      "observation_url": "https://www.inaturalist.org/observations/268861169",
+      "photographer": "nj_sam",
+      "license": "cc-by-nc",
+      "credit_format": "© nj_sam (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_26849628428_36e5309a97_b.jpg",
+      "flickr_photo_id": "26849628428",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=26849628428",
+      "source_url": "https://live.staticflickr.com/4786/26849628428_36e5309a97_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_7209688336_844ea99a44_b.jpg",
+      "flickr_photo_id": "7209688336",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=7209688336",
+      "source_url": "https://live.staticflickr.com/7083/7209688336_844ea99a44_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_4623528844_7be6fa0ed8_b.jpg",
+      "flickr_photo_id": "4623528844",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=4623528844",
+      "source_url": "https://live.staticflickr.com/4021/4623528844_7be6fa0ed8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

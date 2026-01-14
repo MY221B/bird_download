@@ -1,0 +1,172 @@
+{
+  "bird_info": {
+    "slug": "black_collared_starling",
+    "chinese_name": "黑领椋鸟",
+    "english_name": "Black-collared Starling",
+    "scientific_name": "Gracupica nigricollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_collared_starling_172436601.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212344/bird-gallery/black_collared_starling/macaulay/black_collared_starling_172436601.jpg",
+      "public_id": "bird-gallery/black_collared_starling/macaulay/black_collared_starling_172436601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77283,
+      "attribution": {
+        "photographer": "Sharif Uddin",
+        "photographer_url": "https://macaulaylibrary.org/asset/172436601",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sharif Uddin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "172436601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_collared_starling_540081341.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212349/bird-gallery/black_collared_starling/macaulay/black_collared_starling_540081341.jpg",
+      "public_id": "bird-gallery/black_collared_starling/macaulay/black_collared_starling_540081341",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77707,
+      "attribution": {
+        "photographer": "Sam Hambly",
+        "photographer_url": "https://macaulaylibrary.org/asset/540081341",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sam Hambly; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "540081341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_collared_starling_89460451.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212354/bird-gallery/black_collared_starling/macaulay/black_collared_starling_89460451.jpg",
+      "public_id": "bird-gallery/black_collared_starling/macaulay/black_collared_starling_89460451",
+      "width": 1200,
+      "height": 825,
+      "format": "jpg",
+      "bytes": 189264,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/89460451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "89460451",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_collared_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212359/bird-gallery/black_collared_starling/inaturalist/black_collared_starling_1.jpg",
+      "public_id": "bird-gallery/black_collared_starling/inaturalist/black_collared_starling_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 60180,
+      "attribution": {
+        "photographer": "wl2017",
+        "photographer_url": "https://www.inaturalist.org/observations/11613135",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wl2017 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11613135,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "black_collared_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212363/bird-gallery/black_collared_starling/wikimedia/black_collared_starling_1.jpg",
+      "public_id": "bird-gallery/black_collared_starling/wikimedia/black_collared_starling_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 186669,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53659541102_8827919abd_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212365/bird-gallery/black_collared_starling/avibase/avibase_1_53659541102_8827919abd_b.jpg",
+      "public_id": "bird-gallery/black_collared_starling/avibase/avibase_1_53659541102_8827919abd_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73828,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53659541102",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53150529553_5d71a56e3e_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212367/bird-gallery/black_collared_starling/avibase/avibase_3_53150529553_5d71a56e3e_b.jpg",
+      "public_id": "bird-gallery/black_collared_starling/avibase/avibase_3_53150529553_5d71a56e3e_b",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 77739,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53150529553",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_collared_starling_396593261.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768212573/bird-gallery/black_collared_starling/sounds/black_collared_starling_396593261.mp3",
+      "public_id": "bird-gallery/black_collared_starling/sounds/black_collared_starling_396593261",
+      "duration": 55.272,
+      "format": "mp3",
+      "bytes": 815276,
+      "bit_rate": 118002,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "396593261",
+        "asset_url": "https://macaulaylibrary.org/asset/396593261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

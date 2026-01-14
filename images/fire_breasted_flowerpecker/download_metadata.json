@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "fire_breasted_flowerpecker_425959081.jpg",
+      "asset_id": "425959081",
+      "asset_url": "https://macaulaylibrary.org/asset/425959081"
+    },
+    {
+      "filename": "fire_breasted_flowerpecker_252587661.jpg",
+      "asset_id": "252587661",
+      "asset_url": "https://macaulaylibrary.org/asset/252587661"
+    },
+    {
+      "filename": "fire_breasted_flowerpecker_390832341.jpg",
+      "asset_id": "390832341",
+      "asset_url": "https://macaulaylibrary.org/asset/390832341"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "fire_breasted_flowerpecker_1.jpg",
+      "observation_id": 81512174,
+      "photo_id": 133707946,
+      "observation_url": "https://www.inaturalist.org/observations/81512174",
+      "photographer": "matthewkwan",
+      "license": "cc-by-nd",
+      "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-ND)"
+    },
+    {
+      "filename": "fire_breasted_flowerpecker_2.jpg",
+      "observation_id": 145019520,
+      "photo_id": 249028554,
+      "observation_url": "https://www.inaturalist.org/observations/145019520",
+      "photographer": "josh_vandermeulen",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© josh_vandermeulen (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "fire_breasted_flowerpecker_3.jpg",
+      "observation_id": 138969087,
+      "photo_id": 237603209,
+      "observation_url": "https://www.inaturalist.org/observations/138969087",
+      "photographer": "sunandav",
+      "license": "cc-by-nc",
+      "credit_format": "© sunandav (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_30161596888_35935d9f45_b.jpg",
+      "flickr_photo_id": "30161596888",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=30161596888",
+      "source_url": "https://live.staticflickr.com/1774/30161596888_35935d9f45_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51221429994_8f8f05789e_b.jpg",
+      "flickr_photo_id": "51221429994",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51221429994",
+      "source_url": "https://live.staticflickr.com/65535/51221429994_8f8f05789e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_28160136651_7792e41a11_b.jpg",
+      "flickr_photo_id": "28160136651",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=28160136651",
+      "source_url": "https://live.staticflickr.com/8876/28160136651_7792e41a11_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

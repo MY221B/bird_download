@@ -1,0 +1,210 @@
+{
+  "bird_info": {
+    "slug": "greater_coucal",
+    "chinese_name": "褐翅鸦鹃",
+    "english_name": "Greater Coucal",
+    "scientific_name": "Centropus sinensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "greater_coucal_202214961.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213271/bird-gallery/greater_coucal/macaulay/greater_coucal_202214961.jpg",
+      "public_id": "bird-gallery/greater_coucal/macaulay/greater_coucal_202214961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 111459,
+      "attribution": {
+        "photographer": "Andreas Boe",
+        "photographer_url": "https://macaulaylibrary.org/asset/202214961",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Andreas Boe; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "202214961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_coucal_475058541.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213276/bird-gallery/greater_coucal/macaulay/greater_coucal_475058541.jpg",
+      "public_id": "bird-gallery/greater_coucal/macaulay/greater_coucal_475058541",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 141559,
+      "attribution": {
+        "photographer": "Parmil Kumar",
+        "photographer_url": "https://macaulaylibrary.org/asset/475058541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Parmil Kumar; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "475058541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_coucal_85636131.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213280/bird-gallery/greater_coucal/macaulay/greater_coucal_85636131.jpg",
+      "public_id": "bird-gallery/greater_coucal/macaulay/greater_coucal_85636131",
+      "width": 1200,
+      "height": 727,
+      "format": "jpg",
+      "bytes": 92698,
+      "attribution": {
+        "photographer": "Albin Jacob",
+        "photographer_url": "https://macaulaylibrary.org/asset/85636131",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Albin Jacob; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "85636131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "greater_coucal_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213285/bird-gallery/greater_coucal/inaturalist/greater_coucal_1.jpg",
+      "public_id": "bird-gallery/greater_coucal/inaturalist/greater_coucal_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64593,
+      "attribution": {
+        "photographer": "dhamipreet",
+        "photographer_url": "https://www.inaturalist.org/observations/89145849",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dhamipreet (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 89145849,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_coucal_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213287/bird-gallery/greater_coucal/inaturalist/greater_coucal_2.jpg",
+      "public_id": "bird-gallery/greater_coucal/inaturalist/greater_coucal_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 132960,
+      "attribution": {
+        "photographer": "hamsambly",
+        "photographer_url": "https://www.inaturalist.org/observations/156580108",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hamsambly (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 156580108,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_coucal_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213289/bird-gallery/greater_coucal/inaturalist/greater_coucal_3.jpg",
+      "public_id": "bird-gallery/greater_coucal/inaturalist/greater_coucal_3",
+      "width": 1024,
+      "height": 804,
+      "format": "jpg",
+      "bytes": 129993,
+      "attribution": {
+        "photographer": "kunikimu",
+        "photographer_url": "https://www.inaturalist.org/observations/142583447",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© kunikimu (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 142583447,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "greater_coucal_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213290/bird-gallery/greater_coucal/wikimedia/greater_coucal_1.jpg",
+      "public_id": "bird-gallery/greater_coucal/wikimedia/greater_coucal_1",
+      "width": 1280,
+      "height": 957,
+      "format": "jpg",
+      "bytes": 100844,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_21220433328_2a8ec23127_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213291/bird-gallery/greater_coucal/avibase/avibase_1_21220433328_2a8ec23127_b.jpg",
+      "public_id": "bird-gallery/greater_coucal/avibase/avibase_1_21220433328_2a8ec23127_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 102998,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "21220433328",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_32629557986_6b0478558e_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213293/bird-gallery/greater_coucal/avibase/avibase_2_32629557986_6b0478558e_b.jpg",
+      "public_id": "bird-gallery/greater_coucal/avibase/avibase_2_32629557986_6b0478558e_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 156845,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32629557986",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "greater_coucal_407541021.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768213461/bird-gallery/greater_coucal/sounds/greater_coucal_407541021.mp3",
+      "public_id": "bird-gallery/greater_coucal/sounds/greater_coucal_407541021",
+      "duration": 109.488,
+      "format": "mp3",
+      "bytes": 2576780,
+      "bit_rate": 188278,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "407541021",
+        "asset_url": "https://macaulaylibrary.org/asset/407541021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

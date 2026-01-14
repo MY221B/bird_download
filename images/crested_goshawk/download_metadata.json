@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "crested_goshawk_439902781.jpg",
+      "asset_id": "439902781",
+      "asset_url": "https://macaulaylibrary.org/asset/439902781"
+    },
+    {
+      "filename": "crested_goshawk_182220181.jpg",
+      "asset_id": "182220181",
+      "asset_url": "https://macaulaylibrary.org/asset/182220181"
+    },
+    {
+      "filename": "crested_goshawk_496987931.jpg",
+      "asset_id": "496987931",
+      "asset_url": "https://macaulaylibrary.org/asset/496987931"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "crested_goshawk_1.jpg",
+      "observation_id": 69661092,
+      "photo_id": 113080783,
+      "observation_url": "https://www.inaturalist.org/observations/69661092",
+      "photographer": "peterthedragon",
+      "license": "all-rights-reserved",
+      "credit_format": "© peterthedragon (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "crested_goshawk_2.jpg",
+      "observation_id": 253527263,
+      "photo_id": 453969050,
+      "observation_url": "https://www.inaturalist.org/observations/253527263",
+      "photographer": "lanktonn",
+      "license": "all-rights-reserved",
+      "credit_format": "© lanktonn (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "crested_goshawk_3.jpg",
+      "observation_id": 96230321,
+      "photo_id": 159841374,
+      "observation_url": "https://www.inaturalist.org/observations/96230321",
+      "photographer": "kenghung",
+      "license": "cc-by",
+      "credit_format": "© kenghung (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_20898593716_1acb9e2fe2_b.jpg",
+      "flickr_photo_id": "20898593716",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=20898593716",
+      "source_url": "https://live.staticflickr.com/5742/20898593716_1acb9e2fe2_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52051022197_1d9914f964_b.jpg",
+      "flickr_photo_id": "52051022197",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52051022197",
+      "source_url": "https://live.staticflickr.com/65535/52051022197_1d9914f964_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52105826900_0714f7e784_b.jpg",
+      "flickr_photo_id": "52105826900",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52105826900",
+      "source_url": "https://live.staticflickr.com/65535/52105826900_0714f7e784_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

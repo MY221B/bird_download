@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "wryneck",
+    "chinese_name": "蚁䴕",
+    "english_name": "Wryneck",
+    "scientific_name": "Jynx torquilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "wryneck_273388351.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389563/bird-gallery/wryneck/macaulay/wryneck_273388351.jpg",
+      "public_id": "bird-gallery/wryneck/macaulay/wryneck_273388351",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 135011,
+      "attribution": {
+        "photographer": "Jorge García Mora",
+        "photographer_url": "https://macaulaylibrary.org/asset/273388351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jorge García Mora; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "273388351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "wryneck_288909411.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389568/bird-gallery/wryneck/macaulay/wryneck_288909411.jpg",
+      "public_id": "bird-gallery/wryneck/macaulay/wryneck_288909411",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 60623,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/288909411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "288909411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "wryneck_555880011.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389573/bird-gallery/wryneck/macaulay/wryneck_555880011.jpg",
+      "public_id": "bird-gallery/wryneck/macaulay/wryneck_555880011",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 161652,
+      "attribution": {
+        "photographer": "Mireia Torras",
+        "photographer_url": "https://macaulaylibrary.org/asset/555880011",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Mireia Torras; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "555880011",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "wryneck_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389580/bird-gallery/wryneck/inaturalist/wryneck_3.jpg",
+      "public_id": "bird-gallery/wryneck/inaturalist/wryneck_3",
+      "width": 1024,
+      "height": 759,
+      "format": "jpg",
+      "bytes": 63691,
+      "attribution": {
+        "photographer": "g_kolotin",
+        "photographer_url": "https://www.inaturalist.org/observations/18876978",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© g_kolotin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18876978,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_3_51772484618_a8e8812b55_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389586/bird-gallery/wryneck/avibase/avibase_3_51772484618_a8e8812b55_b.jpg",
+      "public_id": "bird-gallery/wryneck/avibase/avibase_3_51772484618_a8e8812b55_b",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 121451,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51772484618",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "wryneck_203489741.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768389980/bird-gallery/wryneck/sounds/wryneck_203489741.mp3",
+      "public_id": "bird-gallery/wryneck/sounds/wryneck_203489741",
+      "duration": 43.56,
+      "format": "mp3",
+      "bytes": 1074380,
+      "bit_rate": 197314,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203489741",
+        "asset_url": "https://macaulaylibrary.org/asset/203489741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

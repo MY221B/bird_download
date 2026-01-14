@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "rufous_tailed_robin_229598261.jpg",
+      "asset_id": "229598261",
+      "asset_url": "https://macaulaylibrary.org/asset/229598261"
+    },
+    {
+      "filename": "rufous_tailed_robin_542906261.jpg",
+      "asset_id": "542906261",
+      "asset_url": "https://macaulaylibrary.org/asset/542906261"
+    },
+    {
+      "filename": "rufous_tailed_robin_645886944.jpg",
+      "asset_id": "645886944",
+      "asset_url": "https://macaulaylibrary.org/asset/645886944"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "rufous_tailed_robin_1.jpg",
+      "observation_id": 173905987,
+      "photo_id": 302065104,
+      "observation_url": "https://www.inaturalist.org/observations/173905987",
+      "photographer": "valerkov",
+      "license": "cc-by",
+      "credit_format": "© valerkov (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "rufous_tailed_robin_2.jpg",
+      "observation_id": 223946490,
+      "photo_id": 396852491,
+      "observation_url": "https://www.inaturalist.org/observations/223946490",
+      "photographer": "sibnaturalist",
+      "license": "cc-by-nc",
+      "credit_format": "© sibnaturalist (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "rufous_tailed_robin_3.jpg",
+      "observation_id": 49706861,
+      "photo_id": 78914152,
+      "observation_url": "https://www.inaturalist.org/observations/49706861",
+      "photographer": "irina86",
+      "license": "cc-by-nc",
+      "credit_format": "© irina86 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_47570236771_ebde28ea78_b.jpg",
+      "flickr_photo_id": "47570236771",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=47570236771",
+      "source_url": "https://live.staticflickr.com/7917/47570236771_ebde28ea78_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_5142270847_ac6b919bca_b.jpg",
+      "flickr_photo_id": "5142270847",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=5142270847",
+      "source_url": "https://live.staticflickr.com/4089/5142270847_ac6b919bca_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54391118952_bfd7c8358b_b.jpg",
+      "flickr_photo_id": "54391118952",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54391118952",
+      "source_url": "https://live.staticflickr.com/65535/54391118952_bfd7c8358b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

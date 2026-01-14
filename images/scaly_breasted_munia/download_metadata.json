@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "scaly_breasted_munia_625678782.jpg",
+      "asset_id": "625678782",
+      "asset_url": "https://macaulaylibrary.org/asset/625678782"
+    },
+    {
+      "filename": "scaly_breasted_munia_404387861.jpg",
+      "asset_id": "404387861",
+      "asset_url": "https://macaulaylibrary.org/asset/404387861"
+    },
+    {
+      "filename": "scaly_breasted_munia_444798271.jpg",
+      "asset_id": "444798271",
+      "asset_url": "https://macaulaylibrary.org/asset/444798271"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "scaly_breasted_munia_1.jpg",
+      "observation_id": 184812433,
+      "photo_id": 322657811,
+      "observation_url": "https://www.inaturalist.org/observations/184812433",
+      "photographer": "kobmanee",
+      "license": "cc-by-nc",
+      "credit_format": "© kobmanee (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "scaly_breasted_munia_2.jpg",
+      "observation_id": 227037145,
+      "photo_id": 402725027,
+      "observation_url": "https://www.inaturalist.org/observations/227037145",
+      "photographer": "sunnyjosef",
+      "license": "cc-by",
+      "credit_format": "© sunnyjosef (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "scaly_breasted_munia_3.jpg",
+      "observation_id": 295395907,
+      "photo_id": 531778510,
+      "observation_url": "https://www.inaturalist.org/observations/295395907",
+      "photographer": "dhruvapunde",
+      "license": "cc-by-nc",
+      "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51976588493_bf680165eb_b.jpg",
+      "flickr_photo_id": "51976588493",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51976588493",
+      "source_url": "https://live.staticflickr.com/65535/51976588493_bf680165eb_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_40756401930_e076b92813_b.jpg",
+      "flickr_photo_id": "40756401930",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=40756401930",
+      "source_url": "https://live.staticflickr.com/1752/40756401930_e076b92813_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53951687652_7e8d4d9060_b.jpg",
+      "flickr_photo_id": "53951687652",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53951687652",
+      "source_url": "https://live.staticflickr.com/65535/53951687652_7e8d4d9060_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

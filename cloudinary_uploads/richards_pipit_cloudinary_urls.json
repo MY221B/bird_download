@@ -1,0 +1,153 @@
+{
+  "bird_info": {
+    "slug": "richards_pipit",
+    "chinese_name": "田鹨",
+    "english_name": "Richard's Pipit",
+    "scientific_name": "Anthus richardi"
+  },
+  "macaulay": [
+    {
+      "original_file": "richards_pipit_118398751.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389912/bird-gallery/richards_pipit/macaulay/richards_pipit_118398751.jpg",
+      "public_id": "bird-gallery/richards_pipit/macaulay/richards_pipit_118398751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 144057,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/118398751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "118398751",
+        "note": null
+      }
+    },
+    {
+      "original_file": "richards_pipit_430735011.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389917/bird-gallery/richards_pipit/macaulay/richards_pipit_430735011.jpg",
+      "public_id": "bird-gallery/richards_pipit/macaulay/richards_pipit_430735011",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 86438,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/430735011",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "430735011",
+        "note": null
+      }
+    },
+    {
+      "original_file": "richards_pipit_624900504.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389921/bird-gallery/richards_pipit/macaulay/richards_pipit_624900504.jpg",
+      "public_id": "bird-gallery/richards_pipit/macaulay/richards_pipit_624900504",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97631,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/624900504",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624900504",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "richards_pipit_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389927/bird-gallery/richards_pipit/inaturalist/richards_pipit_2.jpg",
+      "public_id": "bird-gallery/richards_pipit/inaturalist/richards_pipit_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 97222,
+      "attribution": {
+        "photographer": "tomegatherion",
+        "photographer_url": "https://www.inaturalist.org/observations/183128672",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tomegatherion (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 183128672,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "richards_pipit_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389929/bird-gallery/richards_pipit/wikimedia/richards_pipit_1.jpg",
+      "public_id": "bird-gallery/richards_pipit/wikimedia/richards_pipit_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 62985,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_18335989009_c58769c8f6_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389931/bird-gallery/richards_pipit/avibase/avibase_1_18335989009_c58769c8f6_b.jpg",
+      "public_id": "bird-gallery/richards_pipit/avibase/avibase_1_18335989009_c58769c8f6_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 109353,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "18335989009",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "richards_pipit_648538647.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768390061/bird-gallery/richards_pipit/sounds/richards_pipit_648538647.mp3",
+      "public_id": "bird-gallery/richards_pipit/sounds/richards_pipit_648538647",
+      "duration": 7.176,
+      "format": "mp3",
+      "bytes": 98828,
+      "bit_rate": 110176,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "648538647",
+        "asset_url": "https://macaulaylibrary.org/asset/648538647",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

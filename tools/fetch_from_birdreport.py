@@ -224,6 +224,20 @@ def build_base_payload_from_args(args, entry=None):
     payload["endTime"] = end
     if not payload.get("taxon_month") and start:
         payload["taxon_month"] = start.split("-")[1]
+    
+    # 根据 query_level 清空相应的字段
+    if entry:
+        query_level = entry.get("query_level", "point")
+        if query_level == "province":
+            payload["city"] = ""
+            payload["district"] = ""
+            payload["pointname"] = ""
+        elif query_level == "city":
+            payload["district"] = ""
+            payload["pointname"] = ""
+        elif query_level == "district":
+            payload["pointname"] = ""
+    
     return payload
 
 
@@ -650,9 +664,49 @@ def main():
         except Exception as exc:
             print(f"❌ 加载地点配置失败: {exc}", file=sys.stderr)
             sys.exit(1)
+        
         base_payload = build_base_payload_from_args(args, entry)
-        aliases = args.aliases or entry.get("point_aliases") or []
-        payload_queries = expand_alias_payloads(base_payload, aliases)
+        query_level = entry.get("query_level", "point")
+        
+        # 根据 query_level 决定是否使用 aliases
+        if query_level == "district":
+            # 区县级别查询：支持多区县
+            districts = entry.get("districts", [])
+            location_name = entry.get("name", "未知地点")
+            
+            if districts:
+                # 多区县查询：为每个区县创建一个 payload
+                payload_queries = []
+                for district in districts:
+                    if not district:
+                        continue
+                    district_payload = base_payload.copy()
+                    district_payload["district"] = district
+                    district_payload["pointname"] = ""
+                    payload_queries.append(district_payload)
+                print(f"🌍 处理地点: {location_name} ({entry.get('id', '')})", file=sys.stderr)
+                print(f"📍 查询级别: 区县级别 (多区县: {len(districts)} 个)", file=sys.stderr)
+            else:
+                # 单区县查询
+                payload_queries = [base_payload]
+                print(f"🌍 处理地点: {location_name} ({entry.get('id', '')})", file=sys.stderr)
+                print(f"📍 查询级别: 区县级别", file=sys.stderr)
+        
+        elif query_level in ["province", "city"]:
+            # 省级或城市级别查询，不使用 point_aliases
+            payload_queries = [base_payload]
+            location_name = entry.get("name", "未知地点")
+            level_names = {
+                "province": "省级别",
+                "city": "城市级别"
+            }
+            print(f"🌍 处理地点: {location_name} ({entry.get('id', '')})", file=sys.stderr)
+            print(f"📍 查询级别: {level_names.get(query_level, query_level)}", file=sys.stderr)
+        else:
+            # 地点级别查询，使用 point_aliases
+            aliases = args.aliases or entry.get("point_aliases") or []
+            payload_queries = expand_alias_payloads(base_payload, aliases)
+        
         payload_mode = True
 
     if not payload_queries and manual_flag:

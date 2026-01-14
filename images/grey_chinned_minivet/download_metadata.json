@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "grey_chinned_minivet_501510951.jpg",
+      "asset_id": "501510951",
+      "asset_url": "https://macaulaylibrary.org/asset/501510951"
+    },
+    {
+      "filename": "grey_chinned_minivet_158629911.jpg",
+      "asset_id": "158629911",
+      "asset_url": "https://macaulaylibrary.org/asset/158629911"
+    },
+    {
+      "filename": "grey_chinned_minivet_78394521.jpg",
+      "asset_id": "78394521",
+      "asset_url": "https://macaulaylibrary.org/asset/78394521"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "grey_chinned_minivet_1.jpg",
+      "observation_id": 104626704,
+      "photo_id": 175355588,
+      "observation_url": "https://www.inaturalist.org/observations/104626704",
+      "photographer": "yu-chen",
+      "license": "cc-by",
+      "credit_format": "© yu-chen (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "grey_chinned_minivet_2.jpg",
+      "observation_id": 263362711,
+      "photo_id": 473113970,
+      "observation_url": "https://www.inaturalist.org/observations/263362711",
+      "photographer": "kenghung",
+      "license": "cc-by",
+      "credit_format": "© kenghung (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "grey_chinned_minivet_3.jpg",
+      "observation_id": 169205272,
+      "photo_id": 293314248,
+      "observation_url": "https://www.inaturalist.org/observations/169205272",
+      "photographer": "brendanrattin",
+      "license": "all-rights-reserved",
+      "credit_format": "© brendanrattin (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_16075922088_5c6681e8cf_b.jpg",
+      "flickr_photo_id": "16075922088",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16075922088",
+      "source_url": "https://live.staticflickr.com/7557/16075922088_5c6681e8cf_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54196790217_734cb07ee8_b.jpg",
+      "flickr_photo_id": "54196790217",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54196790217",
+      "source_url": "https://live.staticflickr.com/65535/54196790217_734cb07ee8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54569768777_6e564a46be_b.jpg",
+      "flickr_photo_id": "54569768777",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54569768777",
+      "source_url": "https://live.staticflickr.com/65535/54569768777_6e564a46be_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

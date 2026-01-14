@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "streak_breasted_scimitar_babbler_560520351.jpg",
+      "asset_id": "560520351",
+      "asset_url": "https://macaulaylibrary.org/asset/560520351"
+    },
+    {
+      "filename": "streak_breasted_scimitar_babbler_177556051.jpg",
+      "asset_id": "177556051",
+      "asset_url": "https://macaulaylibrary.org/asset/177556051"
+    },
+    {
+      "filename": "streak_breasted_scimitar_babbler_181627841.jpg",
+      "asset_id": "181627841",
+      "asset_url": "https://macaulaylibrary.org/asset/181627841"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "streak_breasted_scimitar_babbler_1.jpg",
+      "observation_id": 74107674,
+      "photo_id": 121083412,
+      "observation_url": "https://www.inaturalist.org/observations/74107674",
+      "photographer": "lawrencehylton",
+      "license": "cc-by",
+      "credit_format": "© lawrencehylton (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "streak_breasted_scimitar_babbler_2.jpg",
+      "observation_id": 104745686,
+      "photo_id": 175580414,
+      "observation_url": "https://www.inaturalist.org/observations/104745686",
+      "photographer": "rejoicegassah",
+      "license": "cc-by",
+      "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "streak_breasted_scimitar_babbler_3.jpg",
+      "observation_id": 147519938,
+      "photo_id": 253859524,
+      "observation_url": "https://www.inaturalist.org/observations/147519938",
+      "photographer": "skystargazer",
+      "license": "cc-by-nc",
+      "credit_format": "© skystargazer (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49379293123_a0400ee201_b.jpg",
+      "flickr_photo_id": "49379293123",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49379293123",
+      "source_url": "https://live.staticflickr.com/65535/49379293123_a0400ee201_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51245059714_a94340930a_b.jpg",
+      "flickr_photo_id": "51245059714",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51245059714",
+      "source_url": "https://live.staticflickr.com/65535/51245059714_a94340930a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53527885096_99b9b2f5b0_b.jpg",
+      "flickr_photo_id": "53527885096",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53527885096",
+      "source_url": "https://live.staticflickr.com/65535/53527885096_99b9b2f5b0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

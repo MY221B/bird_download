@@ -1,9 +1,190 @@
 {
-  "macaulay": [],
-  "inaturalist": [],
+  "bird_info": {
+    "slug": "oriental_magpie_robin",
+    "chinese_name": "鹊鸲",
+    "english_name": "Oriental Magpie-robin",
+    "scientific_name": "Copsychus saularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_magpie_robin_166748771.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212370/bird-gallery/oriental_magpie_robin/macaulay/oriental_magpie_robin_166748771.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/macaulay/oriental_magpie_robin_166748771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55202,
+      "attribution": {
+        "photographer": "Dr.Sandip  Modi",
+        "photographer_url": "https://macaulaylibrary.org/asset/166748771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dr.Sandip  Modi; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "166748771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "oriental_magpie_robin_301480371.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212376/bird-gallery/oriental_magpie_robin/macaulay/oriental_magpie_robin_301480371.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/macaulay/oriental_magpie_robin_301480371",
+      "width": 1200,
+      "height": 765,
+      "format": "jpg",
+      "bytes": 95844,
+      "attribution": {
+        "photographer": "Bhaarat Vyas",
+        "photographer_url": "https://macaulaylibrary.org/asset/301480371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Bhaarat Vyas; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "301480371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "oriental_magpie_robin_615166166.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212381/bird-gallery/oriental_magpie_robin/macaulay/oriental_magpie_robin_615166166.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/macaulay/oriental_magpie_robin_615166166",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64077,
+      "attribution": {
+        "photographer": "Ian Mo",
+        "photographer_url": "https://macaulaylibrary.org/asset/615166166",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Mo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "615166166",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_magpie_robin_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212387/bird-gallery/oriental_magpie_robin/inaturalist/oriental_magpie_robin_2.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/inaturalist/oriental_magpie_robin_2",
+      "width": 1024,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 79234,
+      "attribution": {
+        "photographer": "bschwamb",
+        "photographer_url": "https://www.inaturalist.org/observations/49666787",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© bschwamb (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 49666787,
+        "note": null
+      }
+    },
+    {
+      "original_file": "oriental_magpie_robin_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212389/bird-gallery/oriental_magpie_robin/inaturalist/oriental_magpie_robin_3.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/inaturalist/oriental_magpie_robin_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 81531,
+      "attribution": {
+        "photographer": "hamsambly",
+        "photographer_url": "https://www.inaturalist.org/observations/108924748",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hamsambly (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 108924748,
+        "note": null
+      }
+    }
+  ],
   "birdphotos": [],
-  "wikimedia": [],
-  "avibase": [],
+  "wikimedia": [
+    {
+      "original_file": "oriental_magpie_robin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212390/bird-gallery/oriental_magpie_robin/wikimedia/oriental_magpie_robin_1.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/wikimedia/oriental_magpie_robin_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 98209,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_16929587693_2c9edb0ffa_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212392/bird-gallery/oriental_magpie_robin/avibase/avibase_1_16929587693_2c9edb0ffa_b.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/avibase/avibase_1_16929587693_2c9edb0ffa_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 50267,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16929587693",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52921308811_3b88227d8e_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212394/bird-gallery/oriental_magpie_robin/avibase/avibase_2_52921308811_3b88227d8e_b.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/avibase/avibase_2_52921308811_3b88227d8e_b",
+      "width": 1024,
+      "height": 722,
+      "format": "jpg",
+      "bytes": 59750,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52921308811",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_48370651062_8e2cc25e93_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212396/bird-gallery/oriental_magpie_robin/avibase/avibase_3_48370651062_8e2cc25e93_b.jpg",
+      "public_id": "bird-gallery/oriental_magpie_robin/avibase/avibase_3_48370651062_8e2cc25e93_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 52858,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48370651062",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
   "sounds": [
     {
       "original_file": "oriental_magpie_robin_203911381.mp3",

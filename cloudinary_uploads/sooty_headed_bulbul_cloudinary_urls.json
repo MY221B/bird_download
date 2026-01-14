@@ -1,0 +1,93 @@
+{
+  "bird_info": {
+    "slug": "sooty_headed_bulbul",
+    "chinese_name": "白喉红臀鹎",
+    "english_name": "Sooty-headed Bulbul",
+    "scientific_name": "Pycnonotus aurigaster"
+  },
+  "macaulay": [
+    {
+      "original_file": "sooty_headed_bulbul_535665241.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212905/bird-gallery/sooty_headed_bulbul/macaulay/sooty_headed_bulbul_535665241.jpg",
+      "public_id": "bird-gallery/sooty_headed_bulbul/macaulay/sooty_headed_bulbul_535665241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 95473,
+      "attribution": {
+        "photographer": "David Irving",
+        "photographer_url": "https://macaulaylibrary.org/asset/535665241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Irving; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "535665241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_headed_bulbul_551662641.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212910/bird-gallery/sooty_headed_bulbul/macaulay/sooty_headed_bulbul_551662641.jpg",
+      "public_id": "bird-gallery/sooty_headed_bulbul/macaulay/sooty_headed_bulbul_551662641",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 110081,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/551662641",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "551662641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_headed_bulbul_594927931.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212915/bird-gallery/sooty_headed_bulbul/macaulay/sooty_headed_bulbul_594927931.jpg",
+      "public_id": "bird-gallery/sooty_headed_bulbul/macaulay/sooty_headed_bulbul_594927931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 113265,
+      "attribution": {
+        "photographer": "Nathan Wall",
+        "photographer_url": "https://macaulaylibrary.org/asset/594927931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Nathan Wall; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "594927931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "sooty_headed_bulbul_203199861.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768213051/bird-gallery/sooty_headed_bulbul/sounds/sooty_headed_bulbul_203199861.mp3",
+      "public_id": "bird-gallery/sooty_headed_bulbul/sounds/sooty_headed_bulbul_203199861",
+      "duration": 38.928,
+      "format": "mp3",
+      "bytes": 546812,
+      "bit_rate": 112374,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203199861",
+        "asset_url": "https://macaulaylibrary.org/asset/203199861",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

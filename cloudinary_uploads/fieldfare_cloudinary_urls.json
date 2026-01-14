@@ -1,0 +1,191 @@
+{
+  "bird_info": {
+    "slug": "fieldfare",
+    "chinese_name": "田鸫",
+    "english_name": "Fieldfare",
+    "scientific_name": "Turdus pilaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "fieldfare_134889731.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211587/bird-gallery/fieldfare/macaulay/fieldfare_134889731.jpg",
+      "public_id": "bird-gallery/fieldfare/macaulay/fieldfare_134889731",
+      "width": 1200,
+      "height": 878,
+      "format": "jpg",
+      "bytes": 145243,
+      "attribution": {
+        "photographer": "Roger Beardmore",
+        "photographer_url": "https://macaulaylibrary.org/asset/134889731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Roger Beardmore; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "134889731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fieldfare_204244051.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211594/bird-gallery/fieldfare/macaulay/fieldfare_204244051.jpg",
+      "public_id": "bird-gallery/fieldfare/macaulay/fieldfare_204244051",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 48965,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/204244051",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204244051",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fieldfare_313527101.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211599/bird-gallery/fieldfare/macaulay/fieldfare_313527101.jpg",
+      "public_id": "bird-gallery/fieldfare/macaulay/fieldfare_313527101",
+      "width": 1200,
+      "height": 828,
+      "format": "jpg",
+      "bytes": 76131,
+      "attribution": {
+        "photographer": "Pavel Štěpánek",
+        "photographer_url": "https://macaulaylibrary.org/asset/313527101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pavel Štěpánek; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "313527101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "fieldfare_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211608/bird-gallery/fieldfare/inaturalist/fieldfare_1.jpg",
+      "public_id": "bird-gallery/fieldfare/inaturalist/fieldfare_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 63034,
+      "attribution": {
+        "photographer": "ekaterina_dolgushina",
+        "photographer_url": "https://www.inaturalist.org/observations/100314593",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ekaterina_dolgushina (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100314593,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fieldfare_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211611/bird-gallery/fieldfare/inaturalist/fieldfare_3.jpg",
+      "public_id": "bird-gallery/fieldfare/inaturalist/fieldfare_3",
+      "width": 800,
+      "height": 514,
+      "format": "jpg",
+      "bytes": 59924,
+      "attribution": {
+        "photographer": "tatyana_kolesnikova",
+        "photographer_url": "https://www.inaturalist.org/observations/36517180",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tatyana_kolesnikova (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36517180,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "fieldfare_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211612/bird-gallery/fieldfare/wikimedia/fieldfare_1.jpg",
+      "public_id": "bird-gallery/fieldfare/wikimedia/fieldfare_1",
+      "width": 1280,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 544970,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_18684002673_ebef79ac2d_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211614/bird-gallery/fieldfare/avibase/avibase_1_18684002673_ebef79ac2d_b.jpg",
+      "public_id": "bird-gallery/fieldfare/avibase/avibase_1_18684002673_ebef79ac2d_b",
+      "width": 1023,
+      "height": 614,
+      "format": "jpg",
+      "bytes": 88299,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "18684002673",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52557133889_b689941ab6_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211616/bird-gallery/fieldfare/avibase/avibase_2_52557133889_b689941ab6_b.jpg",
+      "public_id": "bird-gallery/fieldfare/avibase/avibase_2_52557133889_b689941ab6_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 121674,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52557133889",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "fieldfare_64396911.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768211628/bird-gallery/fieldfare/sounds/fieldfare_64396911.mp3",
+      "public_id": "bird-gallery/fieldfare/sounds/fieldfare_64396911",
+      "duration": 103.728,
+      "format": "mp3",
+      "bytes": 1436732,
+      "bit_rate": 110807,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "64396911",
+        "asset_url": "https://macaulaylibrary.org/asset/64396911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

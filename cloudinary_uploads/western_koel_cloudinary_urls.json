@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "western_koel",
+    "chinese_name": "噪鹃",
+    "english_name": "Western Koel",
+    "scientific_name": "Eudynamys scolopaceus"
+  },
+  "macaulay": [
+    {
+      "original_file": "western_koel_249880191.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213298/bird-gallery/western_koel/macaulay/western_koel_249880191.jpg",
+      "public_id": "bird-gallery/western_koel/macaulay/western_koel_249880191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93105,
+      "attribution": {
+        "photographer": "Novelkumar M S",
+        "photographer_url": "https://macaulaylibrary.org/asset/249880191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Novelkumar M S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "249880191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_koel_286535401.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213303/bird-gallery/western_koel/macaulay/western_koel_286535401.jpg",
+      "public_id": "bird-gallery/western_koel/macaulay/western_koel_286535401",
+      "width": 900,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 69691,
+      "attribution": {
+        "photographer": "Swamy HKM",
+        "photographer_url": "https://macaulaylibrary.org/asset/286535401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Swamy HKM; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "286535401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_koel_38884051.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213308/bird-gallery/western_koel/macaulay/western_koel_38884051.jpg",
+      "public_id": "bird-gallery/western_koel/macaulay/western_koel_38884051",
+      "width": 1200,
+      "height": 755,
+      "format": "jpg",
+      "bytes": 161278,
+      "attribution": {
+        "photographer": "Prashobh Ailyam Nair",
+        "photographer_url": "https://macaulaylibrary.org/asset/38884051",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Prashobh Ailyam Nair; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "38884051",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_2_16295183938_ace6732353_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213319/bird-gallery/western_koel/avibase/avibase_2_16295183938_ace6732353_b.jpg",
+      "public_id": "bird-gallery/western_koel/avibase/avibase_2_16295183938_ace6732353_b",
+      "width": 943,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 110974,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16295183938",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "western_koel_85461311.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768213471/bird-gallery/western_koel/sounds/western_koel_85461311.mp3",
+      "public_id": "bird-gallery/western_koel/sounds/western_koel_85461311",
+      "duration": 217.248,
+      "format": "mp3",
+      "bytes": 2948732,
+      "bit_rate": 108584,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "85461311",
+        "asset_url": "https://macaulaylibrary.org/asset/85461311",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

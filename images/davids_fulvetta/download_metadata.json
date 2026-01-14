@@ -1,0 +1,65 @@
+{
+  "macaulay": [
+    {
+      "filename": "davids_fulvetta_191182151.jpg",
+      "asset_id": "191182151",
+      "asset_url": "https://macaulaylibrary.org/asset/191182151"
+    },
+    {
+      "filename": "davids_fulvetta_177556201.jpg",
+      "asset_id": "177556201",
+      "asset_url": "https://macaulaylibrary.org/asset/177556201"
+    },
+    {
+      "filename": "davids_fulvetta_177556191.jpg",
+      "asset_id": "177556191",
+      "asset_url": "https://macaulaylibrary.org/asset/177556191"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "davids_fulvetta_1.jpg",
+      "observation_id": 35969288,
+      "photo_id": 56791634,
+      "observation_url": "https://www.inaturalist.org/observations/35969288",
+      "photographer": "chartuso",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© chartuso (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "davids_fulvetta_2.jpg",
+      "observation_id": 216615916,
+      "photo_id": 383107269,
+      "observation_url": "https://www.inaturalist.org/observations/216615916",
+      "photographer": "jinze",
+      "license": "cc-by-nc",
+      "credit_format": "© jinze (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "davids_fulvetta_3.jpg",
+      "observation_id": 120631421,
+      "photo_id": 204052234,
+      "observation_url": "https://www.inaturalist.org/observations/120631421",
+      "photographer": "hongxi",
+      "license": "cc-by-nc",
+      "credit_format": "© hongxi (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_14785487734_17bea86ed6_b.jpg",
+      "flickr_photo_id": "14785487734",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=14785487734",
+      "source_url": "https://farm4.staticflickr.com/3837/14785487734_17bea86ed6_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_14601329407_dcc6c38c4e_b.jpg",
+      "flickr_photo_id": "14601329407",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=14601329407",
+      "source_url": "https://farm4.staticflickr.com/3867/14601329407_dcc6c38c4e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

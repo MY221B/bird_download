@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "blue_winged_minla_412763551.jpg",
+      "asset_id": "412763551",
+      "asset_url": "https://macaulaylibrary.org/asset/412763551"
+    },
+    {
+      "filename": "blue_winged_minla_302035181.jpg",
+      "asset_id": "302035181",
+      "asset_url": "https://macaulaylibrary.org/asset/302035181"
+    },
+    {
+      "filename": "blue_winged_minla_416958941.jpg",
+      "asset_id": "416958941",
+      "asset_url": "https://macaulaylibrary.org/asset/416958941"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "blue_winged_minla_1.jpg",
+      "observation_id": 282656898,
+      "photo_id": 507837687,
+      "observation_url": "https://www.inaturalist.org/observations/282656898",
+      "photographer": "deepachandran",
+      "license": "cc-by-sa",
+      "credit_format": "© deepachandran (via iNaturalist), some rights reserved (CC-BY-SA)"
+    },
+    {
+      "filename": "blue_winged_minla_2.jpg",
+      "observation_id": 99042531,
+      "photo_id": 165025703,
+      "observation_url": "https://www.inaturalist.org/observations/99042531",
+      "photographer": "atanu_modak",
+      "license": "all-rights-reserved",
+      "credit_format": "© atanu_modak (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "blue_winged_minla_3.jpg",
+      "observation_id": 136379338,
+      "photo_id": 232745540,
+      "observation_url": "https://www.inaturalist.org/observations/136379338",
+      "photographer": "andrewpierce",
+      "license": "cc-by-nc",
+      "credit_format": "© andrewpierce (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49397760542_f3d5ecd155_b.jpg",
+      "flickr_photo_id": "49397760542",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49397760542",
+      "source_url": "https://live.staticflickr.com/65535/49397760542_f3d5ecd155_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_48070458738_8c415ac581_b.jpg",
+      "flickr_photo_id": "48070458738",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48070458738",
+      "source_url": "https://live.staticflickr.com/65535/48070458738_8c415ac581_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_8557441198_69a7542026_b.jpg",
+      "flickr_photo_id": "8557441198",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8557441198",
+      "source_url": "https://live.staticflickr.com/8387/8557441198_69a7542026_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

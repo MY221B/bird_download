@@ -1,0 +1,114 @@
+{
+  "bird_info": {
+    "slug": "brown_breasted_bulbul",
+    "chinese_name": "黄臀鹎",
+    "english_name": "Brown-breasted Bulbul",
+    "scientific_name": "Pycnonotus xanthorrhous"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_breasted_bulbul_136432601.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389618/bird-gallery/brown_breasted_bulbul/macaulay/brown_breasted_bulbul_136432601.jpg",
+      "public_id": "bird-gallery/brown_breasted_bulbul/macaulay/brown_breasted_bulbul_136432601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100380,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/136432601",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "136432601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_breasted_bulbul_142022261.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389623/bird-gallery/brown_breasted_bulbul/macaulay/brown_breasted_bulbul_142022261.jpg",
+      "public_id": "bird-gallery/brown_breasted_bulbul/macaulay/brown_breasted_bulbul_142022261",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 129495,
+      "attribution": {
+        "photographer": "Shelley Rutkin",
+        "photographer_url": "https://macaulaylibrary.org/asset/142022261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Shelley Rutkin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "142022261",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_breasted_bulbul_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389635/bird-gallery/brown_breasted_bulbul/inaturalist/brown_breasted_bulbul_2.jpg",
+      "public_id": "bird-gallery/brown_breasted_bulbul/inaturalist/brown_breasted_bulbul_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67464,
+      "attribution": {
+        "photographer": "matthewkwan",
+        "photographer_url": "https://www.inaturalist.org/observations/122899762",
+        "license": "cc-by-nd",
+        "license_url": null,
+        "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-ND)",
+        "source": "inaturalist",
+        "source_id": 122899762,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39943764661_d96f0ab715_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389640/bird-gallery/brown_breasted_bulbul/avibase/avibase_1_39943764661_d96f0ab715_b.jpg",
+      "public_id": "bird-gallery/brown_breasted_bulbul/avibase/avibase_1_39943764661_d96f0ab715_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 43333,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39943764661",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "brown_breasted_bulbul_221242371.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768389998/bird-gallery/brown_breasted_bulbul/sounds/brown_breasted_bulbul_221242371.mp3",
+      "public_id": "bird-gallery/brown_breasted_bulbul/sounds/brown_breasted_bulbul_221242371",
+      "duration": 78.912,
+      "format": "mp3",
+      "bytes": 1024988,
+      "bit_rate": 103912,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "221242371",
+        "asset_url": "https://macaulaylibrary.org/asset/221242371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

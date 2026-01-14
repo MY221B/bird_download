@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "mountain_tailorbird_423539941.jpg",
+      "asset_id": "423539941",
+      "asset_url": "https://macaulaylibrary.org/asset/423539941"
+    },
+    {
+      "filename": "mountain_tailorbird_419203451.jpg",
+      "asset_id": "419203451",
+      "asset_url": "https://macaulaylibrary.org/asset/419203451"
+    },
+    {
+      "filename": "mountain_tailorbird_576217921.jpg",
+      "asset_id": "576217921",
+      "asset_url": "https://macaulaylibrary.org/asset/576217921"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "mountain_tailorbird_1.jpg",
+      "observation_id": 143467010,
+      "photo_id": 246047229,
+      "observation_url": "https://www.inaturalist.org/observations/143467010",
+      "photographer": "yuehua",
+      "license": "all-rights-reserved",
+      "credit_format": "© yuehua (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "mountain_tailorbird_2.jpg",
+      "observation_id": 219336472,
+      "photo_id": 388215817,
+      "observation_url": "https://www.inaturalist.org/observations/219336472",
+      "photographer": "nrg800",
+      "license": "cc-by",
+      "credit_format": "© nrg800 (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "mountain_tailorbird_3.jpg",
+      "observation_id": 93417583,
+      "photo_id": 154827944,
+      "observation_url": "https://www.inaturalist.org/observations/93417583",
+      "photographer": "rupperrt78",
+      "license": "cc-by-nc",
+      "credit_format": "© rupperrt78 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_26376618107_24885fdde6_b.jpg",
+      "flickr_photo_id": "26376618107",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=26376618107",
+      "source_url": "https://live.staticflickr.com/867/26376618107_24885fdde6_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_28285276622_25ef3d32bc_b.jpg",
+      "flickr_photo_id": "28285276622",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=28285276622",
+      "source_url": "https://live.staticflickr.com/7524/28285276622_25ef3d32bc_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53823067959_e5c4ede2f4_b.jpg",
+      "flickr_photo_id": "53823067959",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53823067959",
+      "source_url": "https://live.staticflickr.com/65535/53823067959_e5c4ede2f4_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

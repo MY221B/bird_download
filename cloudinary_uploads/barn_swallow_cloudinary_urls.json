@@ -203,5 +203,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "barn_swallow_304238.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768213496/bird-gallery/barn_swallow/sounds/barn_swallow_304238.mp3",
+      "public_id": "bird-gallery/barn_swallow/sounds/barn_swallow_304238",
+      "duration": 14.112,
+      "format": "mp3",
+      "bytes": 359228,
+      "bit_rate": 203643,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "304238",
+        "asset_url": "https://macaulaylibrary.org/asset/304238",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "eurasian_woodcock_42407851.jpg",
+      "asset_id": "42407851",
+      "asset_url": "https://macaulaylibrary.org/asset/42407851"
+    },
+    {
+      "filename": "eurasian_woodcock_629090701.jpg",
+      "asset_id": "629090701",
+      "asset_url": "https://macaulaylibrary.org/asset/629090701"
+    },
+    {
+      "filename": "eurasian_woodcock_40161731.jpg",
+      "asset_id": "40161731",
+      "asset_url": "https://macaulaylibrary.org/asset/40161731"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "eurasian_woodcock_1.jpg",
+      "observation_id": 109355957,
+      "photo_id": 184297805,
+      "observation_url": "https://www.inaturalist.org/observations/109355957",
+      "photographer": "kristinabraz",
+      "license": "all-rights-reserved",
+      "credit_format": "© kristinabraz (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "eurasian_woodcock_2.jpg",
+      "observation_id": 145377883,
+      "photo_id": 249696030,
+      "observation_url": "https://www.inaturalist.org/observations/145377883",
+      "photographer": "bird-scope",
+      "license": "cc-by-nc",
+      "credit_format": "© bird-scope (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "eurasian_woodcock_3.jpg",
+      "observation_id": 277807644,
+      "photo_id": 498822842,
+      "observation_url": "https://www.inaturalist.org/observations/277807644",
+      "photographer": "chirpycricket",
+      "license": "cc-by-nc",
+      "credit_format": "© chirpycricket (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50978664561_7361783c50_b.jpg",
+      "flickr_photo_id": "50978664561",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50978664561",
+      "source_url": "https://live.staticflickr.com/65535/50978664561_7361783c50_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_53477165731_e14af08988_b.jpg",
+      "flickr_photo_id": "53477165731",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53477165731",
+      "source_url": "https://live.staticflickr.com/65535/53477165731_e14af08988_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_8617629500_6fe24e481e_b.jpg",
+      "flickr_photo_id": "8617629500",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8617629500",
+      "source_url": "https://live.staticflickr.com/8385/8617629500_6fe24e481e_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

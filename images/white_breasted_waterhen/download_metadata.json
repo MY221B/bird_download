@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "white_breasted_waterhen_645939613.jpg",
+      "asset_id": "645939613",
+      "asset_url": "https://macaulaylibrary.org/asset/645939613"
+    },
+    {
+      "filename": "white_breasted_waterhen_645939209.jpg",
+      "asset_id": "645939209",
+      "asset_url": "https://macaulaylibrary.org/asset/645939209"
+    },
+    {
+      "filename": "white_breasted_waterhen_498572731.jpg",
+      "asset_id": "498572731",
+      "asset_url": "https://macaulaylibrary.org/asset/498572731"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "white_breasted_waterhen_1.jpg",
+      "observation_id": 157012707,
+      "photo_id": 271546279,
+      "observation_url": "https://www.inaturalist.org/observations/157012707",
+      "photographer": "anijoshi",
+      "license": "all-rights-reserved",
+      "credit_format": "© anijoshi (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "white_breasted_waterhen_2.jpg",
+      "observation_id": 1720479,
+      "photo_id": 2084179,
+      "observation_url": "https://www.inaturalist.org/observations/1720479",
+      "photographer": "carmelo_lopez",
+      "license": "cc-by-nc",
+      "credit_format": "© carmelo_lopez (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "white_breasted_waterhen_3.jpg",
+      "observation_id": 197696513,
+      "photo_id": 348262284,
+      "observation_url": "https://www.inaturalist.org/observations/197696513",
+      "photographer": "burakdogansoysal",
+      "license": "cc-by-nc",
+      "credit_format": "© burakdogansoysal (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_46581543224_fed38057be_b.jpg",
+      "flickr_photo_id": "46581543224",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=46581543224",
+      "source_url": "https://live.staticflickr.com/65535/46581543224_fed38057be_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_53662071213_983177e444_b.jpg",
+      "flickr_photo_id": "53662071213",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53662071213",
+      "source_url": "https://live.staticflickr.com/65535/53662071213_983177e444_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52072707334_123dabcf91_b.jpg",
+      "flickr_photo_id": "52072707334",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52072707334",
+      "source_url": "https://live.staticflickr.com/65535/52072707334_123dabcf91_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "little_ringed_plover_215810721.jpg",
+      "asset_id": "215810721",
+      "asset_url": "https://macaulaylibrary.org/asset/215810721"
+    },
+    {
+      "filename": "little_ringed_plover_611083627.jpg",
+      "asset_id": "611083627",
+      "asset_url": "https://macaulaylibrary.org/asset/611083627"
+    },
+    {
+      "filename": "little_ringed_plover_267116201.jpg",
+      "asset_id": "267116201",
+      "asset_url": "https://macaulaylibrary.org/asset/267116201"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "little_ringed_plover_1.jpg",
+      "observation_id": 108786944,
+      "photo_id": 183231156,
+      "observation_url": "https://www.inaturalist.org/observations/108786944",
+      "photographer": "alokdas65",
+      "license": "cc-by-nc",
+      "credit_format": "© alokdas65 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "little_ringed_plover_2.jpg",
+      "observation_id": 75552334,
+      "photo_id": 123621970,
+      "observation_url": "https://www.inaturalist.org/observations/75552334",
+      "photographer": "dmitry_p",
+      "license": "cc-by-nc",
+      "credit_format": "© dmitry_p (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "little_ringed_plover_3.jpg",
+      "observation_id": 282446250,
+      "photo_id": 507446522,
+      "observation_url": "https://www.inaturalist.org/observations/282446250",
+      "photographer": "fotoparus",
+      "license": "all-rights-reserved",
+      "credit_format": "© fotoparus (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54402559506_7fb4c3f1c8_b.jpg",
+      "flickr_photo_id": "54402559506",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54402559506",
+      "source_url": "https://live.staticflickr.com/65535/54402559506_7fb4c3f1c8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52953017962_fee4afb467_b.jpg",
+      "flickr_photo_id": "52953017962",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52953017962",
+      "source_url": "https://live.staticflickr.com/65535/52953017962_fee4afb467_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54590087151_8e70cd6d38_b.jpg",
+      "flickr_photo_id": "54590087151",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54590087151",
+      "source_url": "https://live.staticflickr.com/65535/54590087151_8e70cd6d38_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

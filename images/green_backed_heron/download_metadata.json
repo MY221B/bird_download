@@ -1,0 +1,50 @@
+{
+  "macaulay": [
+    {
+      "filename": "green_backed_heron_159936111.jpg",
+      "asset_id": "159936111",
+      "asset_url": "https://macaulaylibrary.org/asset/159936111"
+    },
+    {
+      "filename": "green_backed_heron_229315181.jpg",
+      "asset_id": "229315181",
+      "asset_url": "https://macaulaylibrary.org/asset/229315181"
+    },
+    {
+      "filename": "green_backed_heron_124851921.jpg",
+      "asset_id": "124851921",
+      "asset_url": "https://macaulaylibrary.org/asset/124851921"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "green_backed_heron_1.jpg",
+      "observation_id": 12743422,
+      "photo_id": 18460333,
+      "observation_url": "https://www.inaturalist.org/observations/12743422",
+      "photographer": "ryanj85",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 ryanj85 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "green_backed_heron_2.jpg",
+      "observation_id": 2565491,
+      "photo_id": 2859460,
+      "observation_url": "https://www.inaturalist.org/observations/2565491",
+      "photographer": "hfabian",
+      "license": "all-rights-reserved",
+      "credit_format": "\u00a9 hfabian (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "green_backed_heron_3.jpg",
+      "observation_id": 213898001,
+      "photo_id": 378034684,
+      "observation_url": "https://www.inaturalist.org/observations/213898001",
+      "photographer": "isaaceastland",
+      "license": "cc-by-nc",
+      "credit_format": "\u00a9 isaaceastland (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": []
+}

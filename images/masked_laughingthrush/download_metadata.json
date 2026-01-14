@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "masked_laughingthrush_617211554.jpg",
+      "asset_id": "617211554",
+      "asset_url": "https://macaulaylibrary.org/asset/617211554"
+    },
+    {
+      "filename": "masked_laughingthrush_614168341.jpg",
+      "asset_id": "614168341",
+      "asset_url": "https://macaulaylibrary.org/asset/614168341"
+    },
+    {
+      "filename": "masked_laughingthrush_139718771.jpg",
+      "asset_id": "139718771",
+      "asset_url": "https://macaulaylibrary.org/asset/139718771"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "masked_laughingthrush_1.jpg",
+      "observation_id": 195585120,
+      "photo_id": 344123711,
+      "observation_url": "https://www.inaturalist.org/observations/195585120",
+      "photographer": "qy5",
+      "license": "all-rights-reserved",
+      "credit_format": "© qy5 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "masked_laughingthrush_2.jpg",
+      "observation_id": 253894405,
+      "photo_id": 454672991,
+      "observation_url": "https://www.inaturalist.org/observations/253894405",
+      "photographer": "yangyunwu10",
+      "license": "cc-by-nc",
+      "credit_format": "© yangyunwu10 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "masked_laughingthrush_3.jpg",
+      "observation_id": 261710375,
+      "photo_id": 470231513,
+      "observation_url": "https://www.inaturalist.org/observations/261710375",
+      "photographer": "gordonhochunman",
+      "license": "all-rights-reserved",
+      "credit_format": "© gordonhochunman (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51071825877_f73a9b1ee2_b.jpg",
+      "flickr_photo_id": "51071825877",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51071825877",
+      "source_url": "https://live.staticflickr.com/65535/51071825877_f73a9b1ee2_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_22092359499_5100b1c318_b.jpg",
+      "flickr_photo_id": "22092359499",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=22092359499",
+      "source_url": "https://live.staticflickr.com/610/22092359499_5100b1c318_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_7341555960_98731fe4c6_b.jpg",
+      "flickr_photo_id": "7341555960",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=7341555960",
+      "source_url": "https://live.staticflickr.com/7105/7341555960_98731fe4c6_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

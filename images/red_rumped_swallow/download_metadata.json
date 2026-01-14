@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "red_rumped_swallow_432514371.jpg",
+      "asset_id": "432514371",
+      "asset_url": "https://macaulaylibrary.org/asset/432514371"
+    },
+    {
+      "filename": "red_rumped_swallow_464500341.jpg",
+      "asset_id": "464500341",
+      "asset_url": "https://macaulaylibrary.org/asset/464500341"
+    },
+    {
+      "filename": "red_rumped_swallow_464494831.jpg",
+      "asset_id": "464494831",
+      "asset_url": "https://macaulaylibrary.org/asset/464494831"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "red_rumped_swallow_1.jpg",
+      "observation_id": 74049479,
+      "photo_id": 120979442,
+      "observation_url": "https://www.inaturalist.org/observations/74049479",
+      "photographer": "egorbirder",
+      "license": "cc-by",
+      "credit_format": "© egorbirder (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "red_rumped_swallow_2.jpg",
+      "observation_id": 164172809,
+      "photo_id": 284029784,
+      "observation_url": "https://www.inaturalist.org/observations/164172809",
+      "photographer": "alvaro_alemany",
+      "license": "cc-by-nc-sa",
+      "credit_format": "© alvaro_alemany (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+    },
+    {
+      "filename": "red_rumped_swallow_3.jpg",
+      "observation_id": 205189896,
+      "photo_id": 362776268,
+      "observation_url": "https://www.inaturalist.org/observations/205189896",
+      "photographer": "karakaxa",
+      "license": "cc-by-nc",
+      "credit_format": "© karakaxa (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49440535348_3f66c351bb_b.jpg",
+      "flickr_photo_id": "49440535348",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49440535348",
+      "source_url": "https://live.staticflickr.com/65535/49440535348_3f66c351bb_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54717651738_5fa859477f_b.jpg",
+      "flickr_photo_id": "54717651738",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54717651738",
+      "source_url": "https://live.staticflickr.com/65535/54717651738_5fa859477f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_41831664514_2fab706b95_b.jpg",
+      "flickr_photo_id": "41831664514",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=41831664514",
+      "source_url": "https://live.staticflickr.com/1739/41831664514_2fab706b95_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

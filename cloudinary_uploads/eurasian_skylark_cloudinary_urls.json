@@ -125,5 +125,27 @@
         "note": "署名信息待补充"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "eurasian_skylark_314243691.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768389994/bird-gallery/eurasian_skylark/sounds/eurasian_skylark_314243691.mp3",
+      "public_id": "bird-gallery/eurasian_skylark/sounds/eurasian_skylark_314243691",
+      "duration": 39.12,
+      "format": "mp3",
+      "bytes": 611420,
+      "bit_rate": 125034,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "314243691",
+        "asset_url": "https://macaulaylibrary.org/asset/314243691",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

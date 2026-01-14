@@ -1,0 +1,168 @@
+{
+  "bird_info": {
+    "slug": "cinnamon_bittern",
+    "chinese_name": "栗苇鳽",
+    "english_name": "Cinnamon Bittern",
+    "scientific_name": "Ixobrychus cinnamomeus"
+  },
+  "macaulay": [
+    {
+      "original_file": "cinnamon_bittern_103342151.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212512/bird-gallery/cinnamon_bittern/macaulay/cinnamon_bittern_103342151.jpg",
+      "public_id": "bird-gallery/cinnamon_bittern/macaulay/cinnamon_bittern_103342151",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 121766,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/103342151",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "103342151",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cinnamon_bittern_333250031.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212517/bird-gallery/cinnamon_bittern/macaulay/cinnamon_bittern_333250031.jpg",
+      "public_id": "bird-gallery/cinnamon_bittern/macaulay/cinnamon_bittern_333250031",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 40408,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/333250031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "333250031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cinnamon_bittern_635522771.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212522/bird-gallery/cinnamon_bittern/macaulay/cinnamon_bittern_635522771.jpg",
+      "public_id": "bird-gallery/cinnamon_bittern/macaulay/cinnamon_bittern_635522771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 36442,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/635522771",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "635522771",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "cinnamon_bittern_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212527/bird-gallery/cinnamon_bittern/inaturalist/cinnamon_bittern_1.jpg",
+      "public_id": "bird-gallery/cinnamon_bittern/inaturalist/cinnamon_bittern_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 99506,
+      "attribution": {
+        "photographer": "stephenmatthews",
+        "photographer_url": "https://www.inaturalist.org/observations/99852993",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© stephenmatthews (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 99852993,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cinnamon_bittern_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212528/bird-gallery/cinnamon_bittern/inaturalist/cinnamon_bittern_2.jpg",
+      "public_id": "bird-gallery/cinnamon_bittern/inaturalist/cinnamon_bittern_2",
+      "width": 790,
+      "height": 602,
+      "format": "jpg",
+      "bytes": 96580,
+      "attribution": {
+        "photographer": "rejoicegassah",
+        "photographer_url": "https://www.inaturalist.org/observations/19527971",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 19527971,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49138291866_9a10e722f2_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212532/bird-gallery/cinnamon_bittern/avibase/avibase_1_49138291866_9a10e722f2_b.jpg",
+      "public_id": "bird-gallery/cinnamon_bittern/avibase/avibase_1_49138291866_9a10e722f2_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 96477,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49138291866",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_47068536132_3aeb04636b_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212533/bird-gallery/cinnamon_bittern/avibase/avibase_2_47068536132_3aeb04636b_b.jpg",
+      "public_id": "bird-gallery/cinnamon_bittern/avibase/avibase_2_47068536132_3aeb04636b_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 196507,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "47068536132",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53697703445_dd0324f737_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212535/bird-gallery/cinnamon_bittern/avibase/avibase_3_53697703445_dd0324f737_b.jpg",
+      "public_id": "bird-gallery/cinnamon_bittern/avibase/avibase_3_53697703445_dd0324f737_b",
+      "width": 1000,
+      "height": 714,
+      "format": "jpg",
+      "bytes": 62247,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53697703445",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

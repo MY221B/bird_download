@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "common_tailorbird_341838211.jpg",
+      "asset_id": "341838211",
+      "asset_url": "https://macaulaylibrary.org/asset/341838211"
+    },
+    {
+      "filename": "common_tailorbird_374024701.jpg",
+      "asset_id": "374024701",
+      "asset_url": "https://macaulaylibrary.org/asset/374024701"
+    },
+    {
+      "filename": "common_tailorbird_112630551.jpg",
+      "asset_id": "112630551",
+      "asset_url": "https://macaulaylibrary.org/asset/112630551"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "common_tailorbird_1.jpg",
+      "observation_id": 240670033,
+      "photo_id": 428809894,
+      "observation_url": "https://www.inaturalist.org/observations/240670033",
+      "photographer": "aninquistitivehobbit",
+      "license": "all-rights-reserved",
+      "credit_format": "© aninquistitivehobbit (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "common_tailorbird_2.jpg",
+      "observation_id": 87886456,
+      "photo_id": 144946824,
+      "observation_url": "https://www.inaturalist.org/observations/87886456",
+      "photographer": "chayantgonsalves",
+      "license": "cc-by",
+      "credit_format": "© chayantgonsalves (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "common_tailorbird_3.jpg",
+      "observation_id": 258452575,
+      "photo_id": 463709292,
+      "observation_url": "https://www.inaturalist.org/observations/258452575",
+      "photographer": "jade_neo_gc",
+      "license": "cc-by-nc",
+      "credit_format": "© jade_neo_gc (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53579996749_0b31245be8_b.jpg",
+      "flickr_photo_id": "53579996749",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53579996749",
+      "source_url": "https://live.staticflickr.com/65535/53579996749_0b31245be8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_50568273568_275652de69_b.jpg",
+      "flickr_photo_id": "50568273568",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50568273568",
+      "source_url": "https://live.staticflickr.com/65535/50568273568_275652de69_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51769985220_d88ae19c9a_b.jpg",
+      "flickr_photo_id": "51769985220",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51769985220",
+      "source_url": "https://live.staticflickr.com/65535/51769985220_d88ae19c9a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

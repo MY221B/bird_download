@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "western_koel_38884051.jpg",
+      "asset_id": "38884051",
+      "asset_url": "https://macaulaylibrary.org/asset/38884051"
+    },
+    {
+      "filename": "western_koel_286535401.jpg",
+      "asset_id": "286535401",
+      "asset_url": "https://macaulaylibrary.org/asset/286535401"
+    },
+    {
+      "filename": "western_koel_249880191.jpg",
+      "asset_id": "249880191",
+      "asset_url": "https://macaulaylibrary.org/asset/249880191"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "western_koel_1.jpg",
+      "observation_id": 261517768,
+      "photo_id": 469845046,
+      "observation_url": "https://www.inaturalist.org/observations/261517768",
+      "photographer": "gurumukhi",
+      "license": "cc-by",
+      "credit_format": "© gurumukhi (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "western_koel_2.jpg",
+      "observation_id": 55376320,
+      "photo_id": 88174375,
+      "observation_url": "https://www.inaturalist.org/observations/55376320",
+      "photographer": "suyukulu",
+      "license": "cc-by-nc",
+      "credit_format": "© suyukulu (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "western_koel_3.jpg",
+      "observation_id": 106528362,
+      "photo_id": 178970845,
+      "observation_url": "https://www.inaturalist.org/observations/106528362",
+      "photographer": "wildphotographer27",
+      "license": "cc-by-nc",
+      "credit_format": "© wildphotographer27 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49977704156_6e01f37790_b.jpg",
+      "flickr_photo_id": "49977704156",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49977704156",
+      "source_url": "https://live.staticflickr.com/65535/49977704156_6e01f37790_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_16295183938_ace6732353_b.jpg",
+      "flickr_photo_id": "16295183938",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16295183938",
+      "source_url": "https://live.staticflickr.com/8582/16295183938_ace6732353_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_16076637242_39baee6091_b.jpg",
+      "flickr_photo_id": "16076637242",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16076637242",
+      "source_url": "https://live.staticflickr.com/7527/16076637242_39baee6091_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "red_whiskered_bulbul_299580921.jpg",
+      "asset_id": "299580921",
+      "asset_url": "https://macaulaylibrary.org/asset/299580921"
+    },
+    {
+      "filename": "red_whiskered_bulbul_430146691.jpg",
+      "asset_id": "430146691",
+      "asset_url": "https://macaulaylibrary.org/asset/430146691"
+    },
+    {
+      "filename": "red_whiskered_bulbul_624928479.jpg",
+      "asset_id": "624928479",
+      "asset_url": "https://macaulaylibrary.org/asset/624928479"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "red_whiskered_bulbul_1.jpg",
+      "observation_id": 36126853,
+      "photo_id": 57069667,
+      "observation_url": "https://www.inaturalist.org/observations/36126853",
+      "photographer": "jeanphilippeb",
+      "license": "cc-by-nc",
+      "credit_format": "© jeanphilippeb (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "red_whiskered_bulbul_2.jpg",
+      "observation_id": 107137591,
+      "photo_id": 180132691,
+      "observation_url": "https://www.inaturalist.org/observations/107137591",
+      "photographer": "tiwane",
+      "license": "cc-by-nc",
+      "credit_format": "© tiwane (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "red_whiskered_bulbul_3.jpg",
+      "observation_id": 12673900,
+      "photo_id": 18343439,
+      "observation_url": "https://www.inaturalist.org/observations/12673900",
+      "photographer": "ganyu",
+      "license": "all-rights-reserved",
+      "credit_format": "© ganyu (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49662397661_f4f90c5fce_b.jpg",
+      "flickr_photo_id": "49662397661",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49662397661",
+      "source_url": "https://live.staticflickr.com/65535/49662397661_f4f90c5fce_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51487337436_88a32820cd_b.jpg",
+      "flickr_photo_id": "51487337436",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51487337436",
+      "source_url": "https://live.staticflickr.com/65535/51487337436_88a32820cd_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_46955586795_613d175d90_b.jpg",
+      "flickr_photo_id": "46955586795",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=46955586795",
+      "source_url": "https://live.staticflickr.com/65535/46955586795_613d175d90_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

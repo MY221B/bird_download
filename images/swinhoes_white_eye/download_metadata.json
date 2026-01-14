@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "swinhoes_white_eye_304164641.jpg",
+      "asset_id": "304164641",
+      "asset_url": "https://macaulaylibrary.org/asset/304164641"
+    },
+    {
+      "filename": "swinhoes_white_eye_615494937.jpg",
+      "asset_id": "615494937",
+      "asset_url": "https://macaulaylibrary.org/asset/615494937"
+    },
+    {
+      "filename": "swinhoes_white_eye_317758891.jpg",
+      "asset_id": "317758891",
+      "asset_url": "https://macaulaylibrary.org/asset/317758891"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "swinhoes_white_eye_1.jpg",
+      "observation_id": 13421589,
+      "photo_id": 19690969,
+      "observation_url": "https://www.inaturalist.org/observations/13421589",
+      "photographer": "portioid",
+      "license": "cc-by",
+      "credit_format": "© portioid (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "swinhoes_white_eye_2.jpg",
+      "observation_id": 260215303,
+      "photo_id": 467261528,
+      "observation_url": "https://www.inaturalist.org/observations/260215303",
+      "photographer": "ramonamom",
+      "license": "all-rights-reserved",
+      "credit_format": "© ramonamom (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "swinhoes_white_eye_3.jpg",
+      "observation_id": 41980055,
+      "photo_id": 66624723,
+      "observation_url": "https://www.inaturalist.org/observations/41980055",
+      "photographer": "deidregorospe",
+      "license": "all-rights-reserved",
+      "credit_format": "© deidregorospe (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51211237526_495404f41b_b.jpg",
+      "flickr_photo_id": "51211237526",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51211237526",
+      "source_url": "https://live.staticflickr.com/65535/51211237526_495404f41b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52582822273_7a2f8f7aae_b.jpg",
+      "flickr_photo_id": "52582822273",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52582822273",
+      "source_url": "https://live.staticflickr.com/65535/52582822273_7a2f8f7aae_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_51191290906_36bbda0e84_b.jpg",
+      "flickr_photo_id": "51191290906",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51191290906",
+      "source_url": "https://live.staticflickr.com/65535/51191290906_36bbda0e84_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

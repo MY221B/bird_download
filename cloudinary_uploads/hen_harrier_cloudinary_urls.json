@@ -80,86 +80,8 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "hen_harrier_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753487/bird-gallery/hen_harrier/wikimedia/hen_harrier_1.jpg",
-      "public_id": "bird-gallery/hen_harrier/wikimedia/hen_harrier_1",
-      "width": 1200,
-      "height": 802,
-      "format": "jpg",
-      "bytes": 67184,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
-  "avibase": [
-    {
-      "original_file": "avibase_1_53342275191_fa5d290510_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753490/bird-gallery/hen_harrier/avibase/avibase_1_53342275191_fa5d290510_b.jpg",
-      "public_id": "bird-gallery/hen_harrier/avibase/avibase_1_53342275191_fa5d290510_b",
-      "width": 1023,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 59625,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
-      "original_file": "avibase_2_52525092644_effae5b074_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753493/bird-gallery/hen_harrier/avibase/avibase_2_52525092644_effae5b074_b.jpg",
-      "public_id": "bird-gallery/hen_harrier/avibase/avibase_2_52525092644_effae5b074_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 84871,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
-      "original_file": "avibase_3_52585837728_8e9193e573_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753496/bird-gallery/hen_harrier/avibase/avibase_3_52585837728_8e9193e573_b.jpg",
-      "public_id": "bird-gallery/hen_harrier/avibase/avibase_3_52585837728_8e9193e573_b",
-      "width": 1023,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 65625,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
+  "avibase": [],
   "bird_info": {
     "slug": "hen_harrier",
     "chinese_name": "白尾鹞"

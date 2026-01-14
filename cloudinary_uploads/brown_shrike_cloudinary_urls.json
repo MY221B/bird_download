@@ -1,0 +1,153 @@
+{
+  "bird_info": {
+    "slug": "brown_shrike",
+    "chinese_name": "红尾伯劳",
+    "english_name": "Brown Shrike",
+    "scientific_name": "Lanius cristatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_shrike_611752641.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389594/bird-gallery/brown_shrike/macaulay/brown_shrike_611752641.jpg",
+      "public_id": "bird-gallery/brown_shrike/macaulay/brown_shrike_611752641",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 105363,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/611752641",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "611752641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_shrike_623703917.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389600/bird-gallery/brown_shrike/macaulay/brown_shrike_623703917.jpg",
+      "public_id": "bird-gallery/brown_shrike/macaulay/brown_shrike_623703917",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90753,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/623703917",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "623703917",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389605/bird-gallery/brown_shrike/inaturalist/brown_shrike_1.jpg",
+      "public_id": "bird-gallery/brown_shrike/inaturalist/brown_shrike_1",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 69593,
+      "attribution": {
+        "photographer": "cypseloides",
+        "photographer_url": "https://www.inaturalist.org/observations/7508956",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cypseloides (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 7508956,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_shrike_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389607/bird-gallery/brown_shrike/inaturalist/brown_shrike_3.jpg",
+      "public_id": "bird-gallery/brown_shrike/inaturalist/brown_shrike_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 53478,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/266544880",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 266544880,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "brown_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389609/bird-gallery/brown_shrike/wikimedia/brown_shrike_1.jpg",
+      "public_id": "bird-gallery/brown_shrike/wikimedia/brown_shrike_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 51020,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_55025110291_b6c8b447bb_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768389611/bird-gallery/brown_shrike/avibase/avibase_1_55025110291_b6c8b447bb_b.jpg",
+      "public_id": "bird-gallery/brown_shrike/avibase/avibase_1_55025110291_b6c8b447bb_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58474,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "55025110291",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "brown_shrike_617907061.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768389986/bird-gallery/brown_shrike/sounds/brown_shrike_617907061.mp3",
+      "public_id": "bird-gallery/brown_shrike/sounds/brown_shrike_617907061",
+      "duration": 79.752,
+      "format": "mp3",
+      "bytes": 1867244,
+      "bit_rate": 187305,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "617907061",
+        "asset_url": "https://macaulaylibrary.org/asset/617907061",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

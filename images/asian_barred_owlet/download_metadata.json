@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "asian_barred_owlet_558960261.jpg",
+      "asset_id": "558960261",
+      "asset_url": "https://macaulaylibrary.org/asset/558960261"
+    },
+    {
+      "filename": "asian_barred_owlet_181042481.jpg",
+      "asset_id": "181042481",
+      "asset_url": "https://macaulaylibrary.org/asset/181042481"
+    },
+    {
+      "filename": "asian_barred_owlet_630047409.jpg",
+      "asset_id": "630047409",
+      "asset_url": "https://macaulaylibrary.org/asset/630047409"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "asian_barred_owlet_1.jpg",
+      "observation_id": 237045801,
+      "photo_id": 421811102,
+      "observation_url": "https://www.inaturalist.org/observations/237045801",
+      "photographer": "carlos_with_spider",
+      "license": "all-rights-reserved",
+      "credit_format": "© carlos_with_spider (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "asian_barred_owlet_2.jpg",
+      "observation_id": 17306365,
+      "photo_id": 26265944,
+      "observation_url": "https://www.inaturalist.org/observations/17306365",
+      "photographer": "jsclough",
+      "license": "cc-by-nc",
+      "credit_format": "© jsclough (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "asian_barred_owlet_3.jpg",
+      "observation_id": 80838248,
+      "photo_id": 132532445,
+      "observation_url": "https://www.inaturalist.org/observations/80838248",
+      "photographer": "sunnyhk",
+      "license": "all-rights-reserved",
+      "credit_format": "© sunnyhk (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_51392885414_8ba3b7f8c0_b.jpg",
+      "flickr_photo_id": "51392885414",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51392885414",
+      "source_url": "https://live.staticflickr.com/65535/51392885414_8ba3b7f8c0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_40444352270_25d125b70c_b.jpg",
+      "flickr_photo_id": "40444352270",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=40444352270",
+      "source_url": "https://live.staticflickr.com/971/40444352270_25d125b70c_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_14756682084_35df0c09d0_b.jpg",
+      "flickr_photo_id": "14756682084",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=14756682084",
+      "source_url": "https://live.staticflickr.com/3861/14756682084_35df0c09d0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

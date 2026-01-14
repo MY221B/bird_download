@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "yellow_bellied_prinia_356997211.jpg",
+      "asset_id": "356997211",
+      "asset_url": "https://macaulaylibrary.org/asset/356997211"
+    },
+    {
+      "filename": "yellow_bellied_prinia_342757871.jpg",
+      "asset_id": "342757871",
+      "asset_url": "https://macaulaylibrary.org/asset/342757871"
+    },
+    {
+      "filename": "yellow_bellied_prinia_240290341.jpg",
+      "asset_id": "240290341",
+      "asset_url": "https://macaulaylibrary.org/asset/240290341"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "yellow_bellied_prinia_1.jpg",
+      "observation_id": 19151846,
+      "photo_id": 29405870,
+      "observation_url": "https://www.inaturalist.org/observations/19151846",
+      "photographer": "belyykit",
+      "license": "cc-by-nc",
+      "credit_format": "© belyykit (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "yellow_bellied_prinia_2.jpg",
+      "observation_id": 290196377,
+      "photo_id": 522018596,
+      "observation_url": "https://www.inaturalist.org/observations/290196377",
+      "photographer": "ibneali",
+      "license": "cc-by-nc",
+      "credit_format": "© ibneali (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "yellow_bellied_prinia_3.jpg",
+      "observation_id": 298932276,
+      "photo_id": 538500970,
+      "observation_url": "https://www.inaturalist.org/observations/298932276",
+      "photographer": "mimsa",
+      "license": "cc-by-nc",
+      "credit_format": "© mimsa (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_34455834085_c9e6504002_b.jpg",
+      "flickr_photo_id": "34455834085",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=34455834085",
+      "source_url": "https://live.staticflickr.com/4191/34455834085_c9e6504002_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_16229166660_d50b0e248a_b.jpg",
+      "flickr_photo_id": "16229166660",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16229166660",
+      "source_url": "https://live.staticflickr.com/7408/16229166660_d50b0e248a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_55018783463_800d8e4d57_b.jpg",
+      "flickr_photo_id": "55018783463",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=55018783463",
+      "source_url": "https://live.staticflickr.com/65535/55018783463_800d8e4d57_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

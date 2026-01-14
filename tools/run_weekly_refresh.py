@@ -120,15 +120,26 @@ def resolve_date_range(entry, args):
     return start_date, end_date
 
 
-def build_payload(entry, start, end, alias):
+def build_payload(entry, start, end, alias, query_level="point", district_override=None):
+    """
+    构建 API 查询的 payload
+    
+    query_level 可选值:
+    - "point" (默认): 地点级别查询，使用 pointname
+    - "district": 区县级别查询，清空 pointname
+    - "city": 城市级别查询，清空 district 和 pointname
+    - "province": 省级别查询，清空 city、district 和 pointname
+    
+    district_override: 覆盖 entry 中的 district 字段（用于多区县查询）
+    """
     payload = {
         "taxonid": entry.get("taxonid", ""),
         "startTime": start.strftime("%Y-%m-%d"),
         "endTime": end.strftime("%Y-%m-%d"),
         "province": entry.get("province", ""),
         "city": entry.get("city", ""),
-        "district": entry.get("district", ""),
-        "pointname": alias,
+        "district": district_override if district_override is not None else entry.get("district", ""),
+        "pointname": alias if alias else "",
         "username": entry.get("username", ""),
         "serial_id": entry.get("serial_id", ""),
         "ctime": entry.get("ctime", ""),
@@ -140,29 +151,119 @@ def build_payload(entry, start, end, alias):
         "limit": entry.get("limit", "1500"),
         "page": entry.get("page", "1"),
     }
+    
+    # 根据查询级别清空相应字段
+    if query_level == "province":
+        payload["city"] = ""
+        payload["district"] = ""
+        payload["pointname"] = ""
+    elif query_level == "city":
+        payload["district"] = ""
+        payload["pointname"] = ""
+    elif query_level == "district":
+        payload["pointname"] = ""
+    
     return payload
 
 
 def fetch_species_for_location(entry, start, end, output_file):
-    aliases = entry.get("point_aliases") or [entry.get("pointname") or entry.get("name")]
+    """
+    根据地点配置获取鸟种数据
+    
+    支持不同的查询级别:
+    - point: 地点级别，使用 point_aliases 列表查询
+    - district: 区县级别，查询整个区县（支持 districts 数组查询多个区县）
+    - city: 城市级别，查询整个城市
+    - province: 省级别，查询整个省份
+    """
+    query_level = entry.get("query_level", "point")
+    location_name = entry.get("name", "未知地点")
     combined = OrderedDict()
-    for alias in aliases:
-        if not alias:
-            continue
-        print(f"🔐 {entry.get('name', alias)} - {alias}: 调用 API ...")
-        payload = build_payload(entry, start, end, alias)
+    
+    # 根据查询级别决定查询方式
+    if query_level == "district":
+        # 区县级别查询：支持单个或多个区县
+        districts = entry.get("districts", [])
+        
+        if districts:
+            # 多区县查询：遍历每个区县
+            print(f"🔐 {location_name} - 多区县查询: {len(districts)} 个区县")
+            for district in districts:
+                if not district:
+                    continue
+                print(f"  🔍 {district}: 调用 API ...")
+                payload = build_payload(entry, start, end, None, query_level="district", district_override=district)
+                try:
+                    records = fetch_birds_for_payload(payload)
+                    print(f"  ✅ {district}: 返回 {len(records)} 条记录")
+                    for record in records:
+                        key = (record.chinese, record.scientific)
+                        if key not in combined:
+                            combined[key] = record
+                except Exception as exc:
+                    print(f"  ⚠️  {district} 查询失败: {exc}")
+                    continue
+            
+            if not combined:
+                raise RuntimeError("所有区县查询都未返回结果")
+        else:
+            # 单区县查询：使用配置中的 district 字段
+            print(f"🔐 {location_name} - 区县级别查询: 调用 API ...")
+            payload = build_payload(entry, start, end, None, query_level="district")
+            try:
+                records = fetch_birds_for_payload(payload)
+                print(f"✅ 区县级别: 返回 {len(records)} 条记录")
+                for record in records:
+                    key = (record.chinese, record.scientific)
+                    if key not in combined:
+                        combined[key] = record
+            except Exception as exc:
+                print(f"⚠️  区县级别查询失败: {exc}")
+                raise RuntimeError(f"区县级别查询失败: {exc}")
+    
+    elif query_level in ["province", "city"]:
+        # 省级或城市级别查询
+        level_names = {
+            "province": "省级别",
+            "city": "城市级别"
+        }
+        level_name = level_names.get(query_level, query_level)
+        print(f"🔐 {location_name} - {level_name}查询: 调用 API ...")
+        
+        payload = build_payload(entry, start, end, None, query_level=query_level)
         try:
             records = fetch_birds_for_payload(payload)
+            print(f"✅ {level_name}: 返回 {len(records)} 条记录")
+            for record in records:
+                key = (record.chinese, record.scientific)
+                if key not in combined:
+                    combined[key] = record
         except Exception as exc:
-            print(f"⚠️  {alias} 抓取失败: {exc}")
-            continue
-        print(f"✅ {alias}: 返回 {len(records)} 条记录")
-        for record in records:
-            key = (record.chinese, record.scientific)
-            if key not in combined:
-                combined[key] = record
+            print(f"⚠️  {level_name}查询失败: {exc}")
+            raise RuntimeError(f"{level_name}查询失败: {exc}")
+    
+    else:
+        # 地点级别查询（默认）：使用 point_aliases
+        aliases = entry.get("point_aliases") or [entry.get("pointname") or entry.get("name")]
+        for alias in aliases:
+            if not alias:
+                continue
+            print(f"🔐 {location_name} - {alias}: 调用 API ...")
+            payload = build_payload(entry, start, end, alias, query_level="point")
+            try:
+                records = fetch_birds_for_payload(payload)
+            except Exception as exc:
+                print(f"⚠️  {alias} 抓取失败: {exc}")
+                continue
+            print(f"✅ {alias}: 返回 {len(records)} 条记录")
+            for record in records:
+                key = (record.chinese, record.scientific)
+                if key not in combined:
+                    combined[key] = record
+    
     if not combined:
         raise RuntimeError("所有搜索词都未返回结果")
+    
     with open(output_file, "w", encoding="utf-8") as f:
         for record in combined.values():
             line = f"{record.chinese} {record.english or ''} {record.scientific or ''}".strip()

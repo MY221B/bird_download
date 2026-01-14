@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "house_swift",
+    "chinese_name": "小白腰雨燕",
+    "english_name": "House Swift",
+    "scientific_name": "Apus nipalensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "house_swift_532902921.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212824/bird-gallery/house_swift/macaulay/house_swift_532902921.jpg",
+      "public_id": "bird-gallery/house_swift/macaulay/house_swift_532902921",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 24392,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/532902921",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "532902921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "house_swift_533527811.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212829/bird-gallery/house_swift/macaulay/house_swift_533527811.jpg",
+      "public_id": "bird-gallery/house_swift/macaulay/house_swift_533527811",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 18986,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/533527811",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "533527811",
+        "note": null
+      }
+    },
+    {
+      "original_file": "house_swift_640390472.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212834/bird-gallery/house_swift/macaulay/house_swift_640390472.jpg",
+      "public_id": "bird-gallery/house_swift/macaulay/house_swift_640390472",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 40971,
+      "attribution": {
+        "photographer": "JJ Harrison",
+        "photographer_url": "https://macaulaylibrary.org/asset/640390472",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by JJ Harrison; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "640390472",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "house_swift_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212844/bird-gallery/house_swift/wikimedia/house_swift_1.jpg",
+      "public_id": "bird-gallery/house_swift/wikimedia/house_swift_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 28507,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_39147185520_de1e6b86c3_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768212846/bird-gallery/house_swift/avibase/avibase_2_39147185520_de1e6b86c3_b.jpg",
+      "public_id": "bird-gallery/house_swift/avibase/avibase_2_39147185520_de1e6b86c3_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 11916,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39147185520",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "house_swift_73412751.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768213040/bird-gallery/house_swift/sounds/house_swift_73412751.mp3",
+      "public_id": "bird-gallery/house_swift/sounds/house_swift_73412751",
+      "duration": 28.392,
+      "format": "mp3",
+      "bytes": 355388,
+      "bit_rate": 100137,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "73412751",
+        "asset_url": "https://macaulaylibrary.org/asset/73412751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "spotted_forktail_205992011.jpg",
+      "asset_id": "205992011",
+      "asset_url": "https://macaulaylibrary.org/asset/205992011"
+    },
+    {
+      "filename": "spotted_forktail_616917881.jpg",
+      "asset_id": "616917881",
+      "asset_url": "https://macaulaylibrary.org/asset/616917881"
+    },
+    {
+      "filename": "spotted_forktail_205131411.jpg",
+      "asset_id": "205131411",
+      "asset_url": "https://macaulaylibrary.org/asset/205131411"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "spotted_forktail_1.jpg",
+      "observation_id": 113278423,
+      "photo_id": 191403458,
+      "observation_url": "https://www.inaturalist.org/observations/113278423",
+      "photographer": "negi",
+      "license": "cc-by",
+      "credit_format": "© negi (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "spotted_forktail_2.jpg",
+      "observation_id": 152971102,
+      "photo_id": 264140224,
+      "observation_url": "https://www.inaturalist.org/observations/152971102",
+      "photographer": "paalo121",
+      "license": "cc-by-nc",
+      "credit_format": "© paalo121 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "spotted_forktail_3.jpg",
+      "observation_id": 102076864,
+      "photo_id": 170568118,
+      "observation_url": "https://www.inaturalist.org/observations/102076864",
+      "photographer": "negi",
+      "license": "all-rights-reserved",
+      "credit_format": "© negi (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_32735875488_61284983b4_b.jpg",
+      "flickr_photo_id": "32735875488",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=32735875488",
+      "source_url": "https://live.staticflickr.com/7850/32735875488_61284983b4_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_45709252735_27b5ba415a_b.jpg",
+      "flickr_photo_id": "45709252735",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=45709252735",
+      "source_url": "https://live.staticflickr.com/7805/45709252735_27b5ba415a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_26899385009_fcf52d0bf6_b.jpg",
+      "flickr_photo_id": "26899385009",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=26899385009",
+      "source_url": "https://live.staticflickr.com/4557/26899385009_fcf52d0bf6_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

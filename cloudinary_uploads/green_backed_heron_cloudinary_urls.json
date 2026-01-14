@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "green_backed_heron",
+    "chinese_name": "绿鹭",
+    "english_name": "Green-backed Heron",
+    "scientific_name": "Butorides striata"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_backed_heron_124851921.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213863/bird-gallery/green_backed_heron/macaulay/green_backed_heron_124851921.jpg",
+      "public_id": "bird-gallery/green_backed_heron/macaulay/green_backed_heron_124851921",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 90560,
+      "attribution": {
+        "photographer": "Jorge Galván",
+        "photographer_url": "https://macaulaylibrary.org/asset/124851921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jorge Galván; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "124851921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_heron_159936111.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213868/bird-gallery/green_backed_heron/macaulay/green_backed_heron_159936111.jpg",
+      "public_id": "bird-gallery/green_backed_heron/macaulay/green_backed_heron_159936111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 134247,
+      "attribution": {
+        "photographer": "Fernando Burgalin Sequeria",
+        "photographer_url": "https://macaulaylibrary.org/asset/159936111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Fernando Burgalin Sequeria; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "159936111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_heron_229315181.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213873/bird-gallery/green_backed_heron/macaulay/green_backed_heron_229315181.jpg",
+      "public_id": "bird-gallery/green_backed_heron/macaulay/green_backed_heron_229315181",
+      "width": 1200,
+      "height": 842,
+      "format": "jpg",
+      "bytes": 81620,
+      "attribution": {
+        "photographer": "Carlos Sanchez",
+        "photographer_url": "https://macaulaylibrary.org/asset/229315181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Carlos Sanchez; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "229315181",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "green_backed_heron_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768213882/bird-gallery/green_backed_heron/wikimedia/green_backed_heron_1.jpg",
+      "public_id": "bird-gallery/green_backed_heron/wikimedia/green_backed_heron_1",
+      "width": 1280,
+      "height": 905,
+      "format": "jpg",
+      "bytes": 118619,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "green_backed_heron_626103937.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768213889/bird-gallery/green_backed_heron/sounds/green_backed_heron_626103937.mp3",
+      "public_id": "bird-gallery/green_backed_heron/sounds/green_backed_heron_626103937",
+      "duration": 47.616,
+      "format": "mp3",
+      "bytes": 760316,
+      "bit_rate": 127741,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "626103937",
+        "asset_url": "https://macaulaylibrary.org/asset/626103937",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

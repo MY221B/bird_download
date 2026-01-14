@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "red_billed_leiothrix_553367431.jpg",
+      "asset_id": "553367431",
+      "asset_url": "https://macaulaylibrary.org/asset/553367431"
+    },
+    {
+      "filename": "red_billed_leiothrix_23443261.jpg",
+      "asset_id": "23443261",
+      "asset_url": "https://macaulaylibrary.org/asset/23443261"
+    },
+    {
+      "filename": "red_billed_leiothrix_409175471.jpg",
+      "asset_id": "409175471",
+      "asset_url": "https://macaulaylibrary.org/asset/409175471"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "red_billed_leiothrix_1.jpg",
+      "observation_id": 128140608,
+      "photo_id": 217630092,
+      "observation_url": "https://www.inaturalist.org/observations/128140608",
+      "photographer": "christianlangner",
+      "license": "all-rights-reserved",
+      "credit_format": "© christianlangner (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "red_billed_leiothrix_2.jpg",
+      "observation_id": 57903170,
+      "photo_id": 92401592,
+      "observation_url": "https://www.inaturalist.org/observations/57903170",
+      "photographer": "madeleineosherman",
+      "license": "cc-by-nc",
+      "credit_format": "© madeleineosherman (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "red_billed_leiothrix_3.jpg",
+      "observation_id": 214572901,
+      "photo_id": 379282252,
+      "observation_url": "https://www.inaturalist.org/observations/214572901",
+      "photographer": "ygurjar",
+      "license": "cc-by-nc",
+      "credit_format": "© ygurjar (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53600453760_f44bc8df1a_b.jpg",
+      "flickr_photo_id": "53600453760",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53600453760",
+      "source_url": "https://live.staticflickr.com/65535/53600453760_f44bc8df1a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51245395325_cdef81473c_b.jpg",
+      "flickr_photo_id": "51245395325",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51245395325",
+      "source_url": "https://live.staticflickr.com/65535/51245395325_cdef81473c_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52874273352_4e750a3e18_b.jpg",
+      "flickr_photo_id": "52874273352",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52874273352",
+      "source_url": "https://live.staticflickr.com/65535/52874273352_4e750a3e18_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

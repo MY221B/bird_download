@@ -1,1 +1,8 @@
 config/ebird_token.sh
+
+# Python cache/artifacts
+__pycache__/
+*.pyc
+
+# Local run artifacts
+tmp/weekly_refresh/

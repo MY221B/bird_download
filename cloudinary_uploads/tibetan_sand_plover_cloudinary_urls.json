@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "tibetan_sand_plover",
+    "chinese_name": "青藏沙鸻",
+    "english_name": "Tibetan Sand Plover",
+    "scientific_name": "Charadrius atrifrons"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "tibetan_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803748/bird-gallery/tibetan_sand_plover/inaturalist/tibetan_sand_plover_1.jpg",
+      "public_id": "bird-gallery/tibetan_sand_plover/inaturalist/tibetan_sand_plover_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 120736,
+      "attribution": {
+        "photographer": "evgen_gu",
+        "photographer_url": "https://www.inaturalist.org/observations/250696615",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© evgen_gu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 250696615,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tibetan_sand_plover_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803749/bird-gallery/tibetan_sand_plover/inaturalist/tibetan_sand_plover_2.jpg",
+      "public_id": "bird-gallery/tibetan_sand_plover/inaturalist/tibetan_sand_plover_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115159,
+      "attribution": {
+        "photographer": "ck_chan",
+        "photographer_url": "https://www.inaturalist.org/observations/268195274",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ck_chan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 268195274,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tibetan_sand_plover_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803750/bird-gallery/tibetan_sand_plover/inaturalist/tibetan_sand_plover_3.jpg",
+      "public_id": "bird-gallery/tibetan_sand_plover/inaturalist/tibetan_sand_plover_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 30529,
+      "attribution": {
+        "photographer": "ayambotak",
+        "photographer_url": "https://www.inaturalist.org/observations/256885405",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ayambotak (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 256885405,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "tibetan_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803751/bird-gallery/tibetan_sand_plover/wikimedia/tibetan_sand_plover_1.jpg",
+      "public_id": "bird-gallery/tibetan_sand_plover/wikimedia/tibetan_sand_plover_1",
+      "width": 1280,
+      "height": 936,
+      "format": "jpg",
+      "bytes": 145293,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

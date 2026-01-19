@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "dunlin",
+    "chinese_name": "黑腹滨鹬",
+    "english_name": "Dunlin",
+    "scientific_name": "Calidris alpina"
+  },
+  "macaulay": [
+    {
+      "original_file": "dunlin_284967101.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803780/bird-gallery/dunlin/macaulay/dunlin_284967101.jpg",
+      "public_id": "bird-gallery/dunlin/macaulay/dunlin_284967101",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 93542,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/284967101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "284967101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dunlin_50782931.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803782/bird-gallery/dunlin/macaulay/dunlin_50782931.jpg",
+      "public_id": "bird-gallery/dunlin/macaulay/dunlin_50782931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62197,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/50782931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "50782931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dunlin_511620371.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803783/bird-gallery/dunlin/macaulay/dunlin_511620371.jpg",
+      "public_id": "bird-gallery/dunlin/macaulay/dunlin_511620371",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 64378,
+      "attribution": {
+        "photographer": "Steven Hunter",
+        "photographer_url": "https://macaulaylibrary.org/asset/511620371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Steven Hunter; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "511620371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dunlin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803784/bird-gallery/dunlin/inaturalist/dunlin_1.jpg",
+      "public_id": "bird-gallery/dunlin/inaturalist/dunlin_1",
+      "width": 1024,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 91088,
+      "attribution": {
+        "photographer": "swampster",
+        "photographer_url": "https://www.inaturalist.org/observations/106181024",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© swampster (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106181024,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dunlin_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803785/bird-gallery/dunlin/inaturalist/dunlin_2.jpg",
+      "public_id": "bird-gallery/dunlin/inaturalist/dunlin_2",
+      "width": 1024,
+      "height": 622,
+      "format": "jpg",
+      "bytes": 50287,
+      "attribution": {
+        "photographer": "tiwane",
+        "photographer_url": "https://www.inaturalist.org/observations/65199370",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tiwane (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 65199370,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dunlin_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803786/bird-gallery/dunlin/inaturalist/dunlin_3.jpg",
+      "public_id": "bird-gallery/dunlin/inaturalist/dunlin_3",
+      "width": 1024,
+      "height": 919,
+      "format": "jpg",
+      "bytes": 99862,
+      "attribution": {
+        "photographer": "ricknirschl",
+        "photographer_url": "https://www.inaturalist.org/observations/163420854",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ricknirschl (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 163420854,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "dunlin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803788/bird-gallery/dunlin/wikimedia/dunlin_1.jpg",
+      "public_id": "bird-gallery/dunlin/wikimedia/dunlin_1",
+      "width": 250,
+      "height": 167,
+      "format": "jpg",
+      "bytes": 9393,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50403578191_ecdcd3e669_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803789/bird-gallery/dunlin/avibase/avibase_1_50403578191_ecdcd3e669_b.jpg",
+      "public_id": "bird-gallery/dunlin/avibase/avibase_1_50403578191_ecdcd3e669_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 168373,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50403578191",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51547152493_2140d6f892_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803790/bird-gallery/dunlin/avibase/avibase_2_51547152493_2140d6f892_b.jpg",
+      "public_id": "bird-gallery/dunlin/avibase/avibase_2_51547152493_2140d6f892_b",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 50347,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51547152493",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_48859382018_551f5b616e_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803791/bird-gallery/dunlin/avibase/avibase_3_48859382018_551f5b616e_b.jpg",
+      "public_id": "bird-gallery/dunlin/avibase/avibase_3_48859382018_551f5b616e_b",
+      "width": 1024,
+      "height": 634,
+      "format": "jpg",
+      "bytes": 80467,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48859382018",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "dunlin_179516.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768803873/bird-gallery/dunlin/sounds/dunlin_179516.mp3",
+      "public_id": "bird-gallery/dunlin/sounds/dunlin_179516",
+      "duration": 181.008,
+      "format": "mp3",
+      "bytes": 4228388,
+      "bit_rate": 186881,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "179516",
+        "asset_url": "https://macaulaylibrary.org/asset/179516",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

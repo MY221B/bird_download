@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "common_sandpiper_262646731.jpg",
+      "asset_id": "262646731",
+      "asset_url": "https://macaulaylibrary.org/asset/262646731"
+    },
+    {
+      "filename": "common_sandpiper_386910181.jpg",
+      "asset_id": "386910181",
+      "asset_url": "https://macaulaylibrary.org/asset/386910181"
+    },
+    {
+      "filename": "common_sandpiper_616956378.jpg",
+      "asset_id": "616956378",
+      "asset_url": "https://macaulaylibrary.org/asset/616956378"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "common_sandpiper_1.jpg",
+      "observation_id": 257745919,
+      "photo_id": 462410350,
+      "observation_url": "https://www.inaturalist.org/observations/257745919",
+      "photographer": "invertebratist",
+      "license": "cc-by",
+      "credit_format": "© invertebratist (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "common_sandpiper_2.jpg",
+      "observation_id": 325416853,
+      "photo_id": 589642134,
+      "observation_url": "https://www.inaturalist.org/observations/325416853",
+      "photographer": "caiden_b",
+      "license": "cc-by-nc",
+      "credit_format": "© caiden_b (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "common_sandpiper_3.jpg",
+      "observation_id": 170504320,
+      "photo_id": 295734470,
+      "observation_url": "https://www.inaturalist.org/observations/170504320",
+      "photographer": "tatyanazarubo",
+      "license": "cc-by-nc",
+      "credit_format": "© tatyanazarubo (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49598215427_bf49441fbe_b.jpg",
+      "flickr_photo_id": "49598215427",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49598215427",
+      "source_url": "https://live.staticflickr.com/65535/49598215427_bf49441fbe_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_51709800337_b530d57dec_b.jpg",
+      "flickr_photo_id": "51709800337",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=51709800337",
+      "source_url": "https://live.staticflickr.com/65535/51709800337_b530d57dec_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_28409132640_e9375d31ed_b.jpg",
+      "flickr_photo_id": "28409132640",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=28409132640",
+      "source_url": "https://live.staticflickr.com/8603/28409132640_e9375d31ed_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

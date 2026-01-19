@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "pacific_golden_plover_194417721.jpg",
+      "asset_id": "194417721",
+      "asset_url": "https://macaulaylibrary.org/asset/194417721"
+    },
+    {
+      "filename": "pacific_golden_plover_506076451.jpg",
+      "asset_id": "506076451",
+      "asset_url": "https://macaulaylibrary.org/asset/506076451"
+    },
+    {
+      "filename": "pacific_golden_plover_476878751.jpg",
+      "asset_id": "476878751",
+      "asset_url": "https://macaulaylibrary.org/asset/476878751"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "pacific_golden_plover_1.jpg",
+      "observation_id": 17392931,
+      "photo_id": 26422461,
+      "observation_url": "https://www.inaturalist.org/observations/17392931",
+      "photographer": "sea-kangaroo",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© sea-kangaroo (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "pacific_golden_plover_2.jpg",
+      "observation_id": 22800089,
+      "photo_id": 35336524,
+      "observation_url": "https://www.inaturalist.org/observations/22800089",
+      "photographer": "world_lineage",
+      "license": "cc-by-nc",
+      "credit_format": "© world_lineage (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "pacific_golden_plover_3.jpg",
+      "observation_id": 151821266,
+      "photo_id": 262016739,
+      "observation_url": "https://www.inaturalist.org/observations/151821266",
+      "photographer": "paulefields",
+      "license": "all-rights-reserved",
+      "credit_format": "© paulefields (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49377111223_02cf24844d_b.jpg",
+      "flickr_photo_id": "49377111223",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49377111223",
+      "source_url": "https://live.staticflickr.com/65535/49377111223_02cf24844d_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_50984085823_b1da723333_b.jpg",
+      "flickr_photo_id": "50984085823",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50984085823",
+      "source_url": "https://live.staticflickr.com/65535/50984085823_b1da723333_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_3367809220_36a8c3b6a9_b.jpg",
+      "flickr_photo_id": "3367809220",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=3367809220",
+      "source_url": "https://live.staticflickr.com/3642/3367809220_36a8c3b6a9_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

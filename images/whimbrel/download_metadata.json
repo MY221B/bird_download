@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "whimbrel_612419894.jpg",
+      "asset_id": "612419894",
+      "asset_url": "https://macaulaylibrary.org/asset/612419894"
+    },
+    {
+      "filename": "whimbrel_606247081.jpg",
+      "asset_id": "606247081",
+      "asset_url": "https://macaulaylibrary.org/asset/606247081"
+    },
+    {
+      "filename": "whimbrel_404982591.jpg",
+      "asset_id": "404982591",
+      "asset_url": "https://macaulaylibrary.org/asset/404982591"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "whimbrel_1.jpg",
+      "observation_id": 15742889,
+      "photo_id": 23509941,
+      "observation_url": "https://www.inaturalist.org/observations/15742889",
+      "photographer": "andreacala",
+      "license": "cc-by-nc",
+      "credit_format": "© andreacala (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "whimbrel_2.jpg",
+      "observation_id": 266005178,
+      "photo_id": 477891457,
+      "observation_url": "https://www.inaturalist.org/observations/266005178",
+      "photographer": "whistlingduck",
+      "license": "all-rights-reserved",
+      "credit_format": "© whistlingduck (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "whimbrel_3.jpg",
+      "observation_id": 61268474,
+      "photo_id": 98022688,
+      "observation_url": "https://www.inaturalist.org/observations/61268474",
+      "photographer": "bertharris",
+      "license": "cc-by-nc",
+      "credit_format": "© bertharris (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_4392880484_5d7ebe5453_b.jpg",
+      "flickr_photo_id": "4392880484",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=4392880484",
+      "source_url": "https://live.staticflickr.com/4017/4392880484_5d7ebe5453_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_48577038786_45e9749546_b.jpg",
+      "flickr_photo_id": "48577038786",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48577038786",
+      "source_url": "https://live.staticflickr.com/65535/48577038786_45e9749546_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_35857854113_be11c254ca_b.jpg",
+      "flickr_photo_id": "35857854113",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=35857854113",
+      "source_url": "https://live.staticflickr.com/4399/35857854113_be11c254ca_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "greater_sand_plover",
+    "chinese_name": "铁嘴沙鸻",
+    "english_name": "Greater Sand Plover",
+    "scientific_name": "Charadrius leschenaultii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "greater_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803752/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_1.jpg",
+      "public_id": "bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_1",
+      "width": 1024,
+      "height": 617,
+      "format": "jpg",
+      "bytes": 37025,
+      "attribution": {
+        "photographer": "caiden_b",
+        "photographer_url": "https://www.inaturalist.org/observations/226314983",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© caiden_b (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 226314983,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_sand_plover_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803753/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_2.jpg",
+      "public_id": "bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_2",
+      "width": 793,
+      "height": 793,
+      "format": "jpg",
+      "bytes": 67228,
+      "attribution": {
+        "photographer": "pcaseirito",
+        "photographer_url": "https://www.inaturalist.org/observations/112185885",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pcaseirito (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 112185885,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_sand_plover_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803755/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_3.jpg",
+      "public_id": "bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_3",
+      "width": 900,
+      "height": 598,
+      "format": "jpg",
+      "bytes": 52078,
+      "attribution": {
+        "photographer": "paulcools",
+        "photographer_url": "https://www.inaturalist.org/observations/1563373",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paulcools (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1563373,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "greater_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803755/bird-gallery/greater_sand_plover/wikimedia/greater_sand_plover_1.jpg",
+      "public_id": "bird-gallery/greater_sand_plover/wikimedia/greater_sand_plover_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 215719,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

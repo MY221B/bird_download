@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "black_winged_stilt_204554701.jpg",
+      "asset_id": "204554701",
+      "asset_url": "https://macaulaylibrary.org/asset/204554701"
+    },
+    {
+      "filename": "black_winged_stilt_619120777.jpg",
+      "asset_id": "619120777",
+      "asset_url": "https://macaulaylibrary.org/asset/619120777"
+    },
+    {
+      "filename": "black_winged_stilt_401060991.jpg",
+      "asset_id": "401060991",
+      "asset_url": "https://macaulaylibrary.org/asset/401060991"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "black_winged_stilt_1.jpg",
+      "observation_id": 161840262,
+      "photo_id": 279771952,
+      "observation_url": "https://www.inaturalist.org/observations/161840262",
+      "photographer": "adkonings",
+      "license": "cc-by-nc",
+      "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_winged_stilt_2.jpg",
+      "observation_id": 121075984,
+      "photo_id": 204849417,
+      "observation_url": "https://www.inaturalist.org/observations/121075984",
+      "photographer": "plains-wanderer",
+      "license": "cc-by-nc",
+      "credit_format": "© plains-wanderer (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "black_winged_stilt_3.jpg",
+      "observation_id": 115163084,
+      "photo_id": 194395662,
+      "observation_url": "https://www.inaturalist.org/observations/115163084",
+      "photographer": "nikborrow",
+      "license": "cc-by-nc",
+      "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49948080216_ffed4f7d17_b.jpg",
+      "flickr_photo_id": "49948080216",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49948080216",
+      "source_url": "https://live.staticflickr.com/65535/49948080216_ffed4f7d17_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_52262470336_9ca7d4ef32_b.jpg",
+      "flickr_photo_id": "52262470336",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52262470336",
+      "source_url": "https://live.staticflickr.com/65535/52262470336_9ca7d4ef32_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53993253071_ea9ab363ff_b.jpg",
+      "flickr_photo_id": "53993253071",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53993253071",
+      "source_url": "https://live.staticflickr.com/65535/53993253071_ea9ab363ff_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

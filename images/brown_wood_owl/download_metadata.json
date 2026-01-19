@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "brown_wood_owl_277259151.jpg",
+      "asset_id": "277259151",
+      "asset_url": "https://macaulaylibrary.org/asset/277259151"
+    },
+    {
+      "filename": "brown_wood_owl_183764481.jpg",
+      "asset_id": "183764481",
+      "asset_url": "https://macaulaylibrary.org/asset/183764481"
+    },
+    {
+      "filename": "brown_wood_owl_454071341.jpg",
+      "asset_id": "454071341",
+      "asset_url": "https://macaulaylibrary.org/asset/454071341"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "brown_wood_owl_1.jpg",
+      "observation_id": 150116986,
+      "photo_id": 258784945,
+      "observation_url": "https://www.inaturalist.org/observations/150116986",
+      "photographer": "rakesh36",
+      "license": "all-rights-reserved",
+      "credit_format": "© rakesh36 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "brown_wood_owl_2.jpg",
+      "observation_id": 95997962,
+      "photo_id": 159431227,
+      "observation_url": "https://www.inaturalist.org/observations/95997962",
+      "photographer": "indianwildlife",
+      "license": "cc-by-nc",
+      "credit_format": "© indianwildlife (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "brown_wood_owl_3.jpg",
+      "observation_id": 236468307,
+      "photo_id": 420697812,
+      "observation_url": "https://www.inaturalist.org/observations/236468307",
+      "photographer": "vidhyas",
+      "license": "cc-by-nc",
+      "credit_format": "© vidhyas (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_50297328413_e9098c5db8_b.jpg",
+      "flickr_photo_id": "50297328413",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50297328413",
+      "source_url": "https://live.staticflickr.com/65535/50297328413_e9098c5db8_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54236158013_d2ba316552_b.jpg",
+      "flickr_photo_id": "54236158013",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54236158013",
+      "source_url": "https://live.staticflickr.com/65535/54236158013_d2ba316552_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_34048611385_78aaa8da43_b.jpg",
+      "flickr_photo_id": "34048611385",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=34048611385",
+      "source_url": "https://live.staticflickr.com/2818/34048611385_78aaa8da43_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

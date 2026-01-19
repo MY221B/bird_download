@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "brown_flanked_bush_warbler_618005109.jpg",
+      "asset_id": "618005109",
+      "asset_url": "https://macaulaylibrary.org/asset/618005109"
+    },
+    {
+      "filename": "brown_flanked_bush_warbler_191184881.jpg",
+      "asset_id": "191184881",
+      "asset_url": "https://macaulaylibrary.org/asset/191184881"
+    },
+    {
+      "filename": "brown_flanked_bush_warbler_496479951.jpg",
+      "asset_id": "496479951",
+      "asset_url": "https://macaulaylibrary.org/asset/496479951"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "brown_flanked_bush_warbler_1.jpg",
+      "observation_id": 326430938,
+      "photo_id": 591202553,
+      "observation_url": "https://www.inaturalist.org/observations/326430938",
+      "photographer": "redpandacat",
+      "license": "cc-by-nc-sa",
+      "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+    },
+    {
+      "filename": "brown_flanked_bush_warbler_2.jpg",
+      "observation_id": 254732356,
+      "photo_id": 456339274,
+      "observation_url": "https://www.inaturalist.org/observations/254732356",
+      "photographer": "smalltown_huang",
+      "license": "cc-by-nc",
+      "credit_format": "© smalltown_huang (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "brown_flanked_bush_warbler_3.jpg",
+      "observation_id": 196328247,
+      "photo_id": 345618131,
+      "observation_url": "https://www.inaturalist.org/observations/196328247",
+      "photographer": "shiguangshi",
+      "license": "cc-by-nc",
+      "credit_format": "© shiguangshi (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53860859893_8c1e140a68_b.jpg",
+      "flickr_photo_id": "53860859893",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53860859893",
+      "source_url": "https://live.staticflickr.com/65535/53860859893_8c1e140a68_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_53859717622_aee8a8c22a_b.jpg",
+      "flickr_photo_id": "53859717622",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53859717622",
+      "source_url": "https://live.staticflickr.com/65535/53859717622_aee8a8c22a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53860979384_c3e18036fb_b.jpg",
+      "flickr_photo_id": "53860979384",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53860979384",
+      "source_url": "https://live.staticflickr.com/65535/53860979384_c3e18036fb_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

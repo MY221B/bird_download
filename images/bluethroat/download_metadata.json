@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "bluethroat_182455611.jpg",
+      "asset_id": "182455611",
+      "asset_url": "https://macaulaylibrary.org/asset/182455611"
+    },
+    {
+      "filename": "bluethroat_31125991.jpg",
+      "asset_id": "31125991",
+      "asset_url": "https://macaulaylibrary.org/asset/31125991"
+    },
+    {
+      "filename": "bluethroat_182455581.jpg",
+      "asset_id": "182455581",
+      "asset_url": "https://macaulaylibrary.org/asset/182455581"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "bluethroat_1.jpg",
+      "observation_id": 18534154,
+      "photo_id": 28353253,
+      "observation_url": "https://www.inaturalist.org/observations/18534154",
+      "photographer": "zveroboy57",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© zveroboy57 (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "bluethroat_2.jpg",
+      "observation_id": 70937677,
+      "photo_id": 115414008,
+      "observation_url": "https://www.inaturalist.org/observations/70937677",
+      "photographer": "tyrceva",
+      "license": "cc-by-nc",
+      "credit_format": "© tyrceva (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "bluethroat_3.jpg",
+      "observation_id": 76699019,
+      "photo_id": 125432706,
+      "observation_url": "https://www.inaturalist.org/observations/76699019",
+      "photographer": "merlu",
+      "license": "cc-by-nc",
+      "credit_format": "© merlu (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_41311901815_088e4db289_b.jpg",
+      "flickr_photo_id": "41311901815",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=41311901815",
+      "source_url": "https://live.staticflickr.com/904/41311901815_088e4db289_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54521061754_5db0a270d6_b.jpg",
+      "flickr_photo_id": "54521061754",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54521061754",
+      "source_url": "https://live.staticflickr.com/65535/54521061754_5db0a270d6_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_49975134818_3db54749f0_b.jpg",
+      "flickr_photo_id": "49975134818",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49975134818",
+      "source_url": "https://live.staticflickr.com/65535/49975134818_3db54749f0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

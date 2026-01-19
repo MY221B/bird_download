@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "oriental_scops_owl_189977231.jpg",
+      "asset_id": "189977231",
+      "asset_url": "https://macaulaylibrary.org/asset/189977231"
+    },
+    {
+      "filename": "oriental_scops_owl_446564341.jpg",
+      "asset_id": "446564341",
+      "asset_url": "https://macaulaylibrary.org/asset/446564341"
+    },
+    {
+      "filename": "oriental_scops_owl_623745704.jpg",
+      "asset_id": "623745704",
+      "asset_url": "https://macaulaylibrary.org/asset/623745704"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "oriental_scops_owl_1.jpg",
+      "observation_id": 295392717,
+      "photo_id": 531768424,
+      "observation_url": "https://www.inaturalist.org/observations/295392717",
+      "photographer": "renko30830",
+      "license": "cc-by-nc",
+      "credit_format": "© renko30830 (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "oriental_scops_owl_2.jpg",
+      "observation_id": 37063530,
+      "photo_id": 58694454,
+      "observation_url": "https://www.inaturalist.org/observations/37063530",
+      "photographer": "pkyeung",
+      "license": "cc-by-nc",
+      "credit_format": "© pkyeung (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "oriental_scops_owl_3.jpg",
+      "observation_id": 137142507,
+      "photo_id": 234169411,
+      "observation_url": "https://www.inaturalist.org/observations/137142507",
+      "photographer": "wangqg",
+      "license": "cc-by",
+      "credit_format": "© wangqg (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53542869573_17cdc994f5_b.jpg",
+      "flickr_photo_id": "53542869573",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53542869573",
+      "source_url": "https://live.staticflickr.com/65535/53542869573_17cdc994f5_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_28967517026_3e12b3f487_b.jpg",
+      "flickr_photo_id": "28967517026",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=28967517026",
+      "source_url": "https://live.staticflickr.com/7464/28967517026_3e12b3f487_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_48959278186_935a7d8c3f_b.jpg",
+      "flickr_photo_id": "48959278186",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=48959278186",
+      "source_url": "https://live.staticflickr.com/65535/48959278186_935a7d8c3f_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

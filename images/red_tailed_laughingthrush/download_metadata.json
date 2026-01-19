@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "red_tailed_laughingthrush_627693547.jpg",
+      "asset_id": "627693547",
+      "asset_url": "https://macaulaylibrary.org/asset/627693547"
+    },
+    {
+      "filename": "red_tailed_laughingthrush_538535361.jpg",
+      "asset_id": "538535361",
+      "asset_url": "https://macaulaylibrary.org/asset/538535361"
+    },
+    {
+      "filename": "red_tailed_laughingthrush_638334992.jpg",
+      "asset_id": "638334992",
+      "asset_url": "https://macaulaylibrary.org/asset/638334992"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "red_tailed_laughingthrush_1.jpg",
+      "observation_id": 32634061,
+      "photo_id": 51201346,
+      "observation_url": "https://www.inaturalist.org/observations/32634061",
+      "photographer": "jishenwang",
+      "license": "all-rights-reserved",
+      "credit_format": "© jishenwang (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "red_tailed_laughingthrush_2.jpg",
+      "observation_id": 266753758,
+      "photo_id": 479297245,
+      "observation_url": "https://www.inaturalist.org/observations/266753758",
+      "photographer": "theweenuthatch",
+      "license": "cc-by",
+      "credit_format": "© theweenuthatch (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "red_tailed_laughingthrush_3.jpg",
+      "observation_id": 39482178,
+      "photo_id": 62646996,
+      "observation_url": "https://www.inaturalist.org/observations/39482178",
+      "photographer": "redpandacat",
+      "license": "cc-by-nc-sa",
+      "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_52778697576_3b7e0ec5e0_b.jpg",
+      "flickr_photo_id": "52778697576",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52778697576",
+      "source_url": "https://live.staticflickr.com/65535/52778697576_3b7e0ec5e0_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_49389437118_b79da0466b_b.jpg",
+      "flickr_photo_id": "49389437118",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49389437118",
+      "source_url": "https://live.staticflickr.com/65535/49389437118_b79da0466b_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_52778953194_7b0e803512_b.jpg",
+      "flickr_photo_id": "52778953194",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=52778953194",
+      "source_url": "https://live.staticflickr.com/65535/52778953194_7b0e803512_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

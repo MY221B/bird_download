@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "chinese_bamboo_partridge_59514781.jpg",
+      "asset_id": "59514781",
+      "asset_url": "https://macaulaylibrary.org/asset/59514781"
+    },
+    {
+      "filename": "chinese_bamboo_partridge_194973301.jpg",
+      "asset_id": "194973301",
+      "asset_url": "https://macaulaylibrary.org/asset/194973301"
+    },
+    {
+      "filename": "chinese_bamboo_partridge_194973291.jpg",
+      "asset_id": "194973291",
+      "asset_url": "https://macaulaylibrary.org/asset/194973291"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "chinese_bamboo_partridge_1.jpg",
+      "observation_id": 63632029,
+      "photo_id": 102157810,
+      "observation_url": "https://www.inaturalist.org/observations/63632029",
+      "photographer": "creek_chen",
+      "license": "all-rights-reserved",
+      "credit_format": "© creek_chen (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "chinese_bamboo_partridge_2.jpg",
+      "observation_id": 28257232,
+      "photo_id": 44036255,
+      "observation_url": "https://www.inaturalist.org/observations/28257232",
+      "photographer": "shino_4354",
+      "license": "all-rights-reserved",
+      "credit_format": "© shino_4354 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "chinese_bamboo_partridge_3.jpg",
+      "observation_id": 331172962,
+      "photo_id": 600712990,
+      "observation_url": "https://www.inaturalist.org/observations/331172962",
+      "photographer": "hajime_hojo",
+      "license": "cc-by-nc",
+      "credit_format": "© hajime_hojo (via iNaturalist), some rights reserved (CC-BY-NC)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_315220077_f99d543b67_b.jpg",
+      "flickr_photo_id": "315220077",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=315220077",
+      "source_url": "https://live.staticflickr.com/120/315220077_f99d543b67_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_374995267_009dc5f3e4_b.jpg",
+      "flickr_photo_id": "374995267",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=374995267",
+      "source_url": "https://live.staticflickr.com/184/374995267_009dc5f3e4_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_16082840622_61f0aefcfb_b.jpg",
+      "flickr_photo_id": "16082840622",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=16082840622",
+      "source_url": "https://farm8.staticflickr.com/7489/16082840622_61f0aefcfb_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

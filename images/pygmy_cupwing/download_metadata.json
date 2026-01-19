@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "pygmy_cupwing_245614781.jpg",
+      "asset_id": "245614781",
+      "asset_url": "https://macaulaylibrary.org/asset/245614781"
+    },
+    {
+      "filename": "pygmy_cupwing_323172701.jpg",
+      "asset_id": "323172701",
+      "asset_url": "https://macaulaylibrary.org/asset/323172701"
+    },
+    {
+      "filename": "pygmy_cupwing_642959230.jpg",
+      "asset_id": "642959230",
+      "asset_url": "https://macaulaylibrary.org/asset/642959230"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "pygmy_cupwing_1.jpg",
+      "observation_id": 92889113,
+      "photo_id": 153872659,
+      "observation_url": "https://www.inaturalist.org/observations/92889113",
+      "photographer": "oscarho",
+      "license": "all-rights-reserved",
+      "credit_format": "© oscarho (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "pygmy_cupwing_2.jpg",
+      "observation_id": 188489162,
+      "photo_id": 329898803,
+      "observation_url": "https://www.inaturalist.org/observations/188489162",
+      "photographer": "jake_smith755",
+      "license": "all-rights-reserved",
+      "credit_format": "© jake_smith755 (via iNaturalist), All Rights Reserved"
+    },
+    {
+      "filename": "pygmy_cupwing_3.jpg",
+      "observation_id": 38059852,
+      "photo_id": 60434110,
+      "observation_url": "https://www.inaturalist.org/observations/38059852",
+      "photographer": "oscarho",
+      "license": "all-rights-reserved",
+      "credit_format": "© oscarho (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_28288636933_4156a27f19_b.jpg",
+      "flickr_photo_id": "28288636933",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=28288636933",
+      "source_url": "https://live.staticflickr.com/8821/28288636933_4156a27f19_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_26033101804_8d580217b3_b.jpg",
+      "flickr_photo_id": "26033101804",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=26033101804",
+      "source_url": "https://live.staticflickr.com/1606/26033101804_8d580217b3_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_26639181535_c2cf24e567_b.jpg",
+      "flickr_photo_id": "26639181535",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=26639181535",
+      "source_url": "https://live.staticflickr.com/1516/26639181535_c2cf24e567_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

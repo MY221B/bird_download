@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "siberian_stonechat_321326001.jpg",
+      "asset_id": "321326001",
+      "asset_url": "https://macaulaylibrary.org/asset/321326001"
+    },
+    {
+      "filename": "siberian_stonechat_319380841.jpg",
+      "asset_id": "319380841",
+      "asset_url": "https://macaulaylibrary.org/asset/319380841"
+    },
+    {
+      "filename": "siberian_stonechat_277478581.jpg",
+      "asset_id": "277478581",
+      "asset_url": "https://macaulaylibrary.org/asset/277478581"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "siberian_stonechat_1.jpg",
+      "observation_id": 266155022,
+      "photo_id": 478180630,
+      "observation_url": "https://www.inaturalist.org/observations/266155022",
+      "photographer": "cintylee",
+      "license": "cc-by-nc",
+      "credit_format": "© cintylee (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "siberian_stonechat_2.jpg",
+      "observation_id": 48898205,
+      "photo_id": 77608028,
+      "observation_url": "https://www.inaturalist.org/observations/48898205",
+      "photographer": "igor_fadeev",
+      "license": "cc-by-nc",
+      "credit_format": "© igor_fadeev (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "siberian_stonechat_3.jpg",
+      "observation_id": 36556300,
+      "photo_id": 57800736,
+      "observation_url": "https://www.inaturalist.org/observations/36556300",
+      "photographer": "konstantinseliverstov",
+      "license": "cc-by",
+      "credit_format": "© konstantinseliverstov (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_49159848532_5e147d3cf9_b.jpg",
+      "flickr_photo_id": "49159848532",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=49159848532",
+      "source_url": "https://live.staticflickr.com/65535/49159848532_5e147d3cf9_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_50241266001_608dbf862a_b.jpg",
+      "flickr_photo_id": "50241266001",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=50241266001",
+      "source_url": "https://live.staticflickr.com/65535/50241266001_608dbf862a_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_8063416309_c88cc216ac_b.jpg",
+      "flickr_photo_id": "8063416309",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=8063416309",
+      "source_url": "https://live.staticflickr.com/8449/8063416309_c88cc216ac_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

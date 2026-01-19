@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "grey_headed_canary_flycatcher_425947021.jpg",
+      "asset_id": "425947021",
+      "asset_url": "https://macaulaylibrary.org/asset/425947021"
+    },
+    {
+      "filename": "grey_headed_canary_flycatcher_638604161.jpg",
+      "asset_id": "638604161",
+      "asset_url": "https://macaulaylibrary.org/asset/638604161"
+    },
+    {
+      "filename": "grey_headed_canary_flycatcher_425946981.jpg",
+      "asset_id": "425946981",
+      "asset_url": "https://macaulaylibrary.org/asset/425946981"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "grey_headed_canary_flycatcher_1.jpg",
+      "observation_id": 157444653,
+      "photo_id": 272230724,
+      "observation_url": "https://www.inaturalist.org/observations/157444653",
+      "photographer": "rejoicegassah",
+      "license": "cc-by",
+      "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)"
+    },
+    {
+      "filename": "grey_headed_canary_flycatcher_2.jpg",
+      "observation_id": 192032546,
+      "photo_id": 337027537,
+      "observation_url": "https://www.inaturalist.org/observations/192032546",
+      "photographer": "pkyeung",
+      "license": "cc-by-nc",
+      "credit_format": "© pkyeung (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "grey_headed_canary_flycatcher_3.jpg",
+      "observation_id": 105540717,
+      "photo_id": 177106027,
+      "observation_url": "https://www.inaturalist.org/observations/105540717",
+      "photographer": "steinsajan",
+      "license": "all-rights-reserved",
+      "credit_format": "© steinsajan (via iNaturalist), All Rights Reserved"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_54217758247_600e38f595_b.jpg",
+      "flickr_photo_id": "54217758247",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54217758247",
+      "source_url": "https://live.staticflickr.com/65535/54217758247_600e38f595_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54909070488_c6f223ee86_b.jpg",
+      "flickr_photo_id": "54909070488",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54909070488",
+      "source_url": "https://live.staticflickr.com/65535/54909070488_c6f223ee86_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_53534882641_3cfcb16811_b.jpg",
+      "flickr_photo_id": "53534882641",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53534882641",
+      "source_url": "https://live.staticflickr.com/65535/53534882641_3cfcb16811_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

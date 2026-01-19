@@ -1,0 +1,72 @@
+{
+  "macaulay": [
+    {
+      "filename": "grey_headed_lapwing_623742108.jpg",
+      "asset_id": "623742108",
+      "asset_url": "https://macaulaylibrary.org/asset/623742108"
+    },
+    {
+      "filename": "grey_headed_lapwing_112742371.jpg",
+      "asset_id": "112742371",
+      "asset_url": "https://macaulaylibrary.org/asset/112742371"
+    },
+    {
+      "filename": "grey_headed_lapwing_359193081.jpg",
+      "asset_id": "359193081",
+      "asset_url": "https://macaulaylibrary.org/asset/359193081"
+    }
+  ],
+  "inaturalist": [
+    {
+      "filename": "grey_headed_lapwing_1.jpg",
+      "observation_id": 186137328,
+      "photo_id": 325224665,
+      "observation_url": "https://www.inaturalist.org/observations/186137328",
+      "photographer": "anna-solisia",
+      "license": "cc-by-nc-nd",
+      "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+    },
+    {
+      "filename": "grey_headed_lapwing_2.jpg",
+      "observation_id": 141241457,
+      "photo_id": 241915138,
+      "observation_url": "https://www.inaturalist.org/observations/141241457",
+      "photographer": "shukov",
+      "license": "cc-by-nc",
+      "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)"
+    },
+    {
+      "filename": "grey_headed_lapwing_3.jpg",
+      "observation_id": 301158330,
+      "photo_id": 542661794,
+      "observation_url": "https://www.inaturalist.org/observations/301158330",
+      "photographer": "rejoicegassah",
+      "license": "cc-by",
+      "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)"
+    }
+  ],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "filename": "avibase_1_53304342743_3e76f8d445_b.jpg",
+      "flickr_photo_id": "53304342743",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=53304342743",
+      "source_url": "https://live.staticflickr.com/65535/53304342743_3e76f8d445_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_2_54977516480_4d69bbc433_b.jpg",
+      "flickr_photo_id": "54977516480",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54977516480",
+      "source_url": "https://live.staticflickr.com/65535/54977516480_4d69bbc433_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    },
+    {
+      "filename": "avibase_3_54141459434_6d9e1f0b78_b.jpg",
+      "flickr_photo_id": "54141459434",
+      "flickr_url": "https://www.flickr.com/photo.gne?id=54141459434",
+      "source_url": "https://live.staticflickr.com/65535/54141459434_6d9e1f0b78_b.jpg",
+      "note": "署名信息需从Flickr获取"
+    }
+  ]
+}

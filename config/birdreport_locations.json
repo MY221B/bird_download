@@ -308,6 +308,20 @@
         "阳朔县"
       ],
       "point_aliases": []
+    },
+    {
+      "id": "shenzhen_rencai_gongyuan",
+      "name": "人才公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "南山区",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "人才公园",
+        "深圳人才公园"
+      ]
     }
   ]
 }

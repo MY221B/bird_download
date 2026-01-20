@@ -322,6 +322,20 @@
         "人才公园",
         "深圳人才公园"
       ]
+    },
+    {
+      "id": "shenzhen_xiangmi_gongyuan",
+      "name": "香蜜公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "福田区",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "香蜜公园",
+        "深圳香蜜公园"
+      ]
     }
   ]
 }

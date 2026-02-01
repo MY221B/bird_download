@@ -111,7 +111,7 @@ def upload_bird_images(bird_name, base_path, bird_info=None):
                 print(f"\n  📤 上传: {img_file.name}")
                 print(f"     目标: {folder}/{public_id}")
                 
-                # 上传到Cloudinary
+                # 上传到Cloudinary（添加60秒超时）
                 result = cloudinary.uploader.upload(
                     str(img_file),
                     folder=folder,
@@ -120,7 +120,9 @@ def upload_bird_images(bird_name, base_path, bird_info=None):
                     resource_type="image",
                     # 自动优化
                     quality="auto",
-                    fetch_format="auto"
+                    fetch_format="auto",
+                    # 超时设置（60秒）
+                    timeout=60
                 )
                 
                 # 保存结果
@@ -150,7 +152,11 @@ def upload_bird_images(bird_name, base_path, bird_info=None):
                 uploaded_count += 1
                 
             except Exception as e:
-                print(f"     ❌ 失败: {str(e)}")
+                error_msg = str(e)
+                if "timeout" in error_msg.lower() or "timed out" in error_msg.lower():
+                    print(f"     ⏱️  超时: 上传耗时过长（超过60秒），已跳过")
+                else:
+                    print(f"     ❌ 失败: {error_msg}")
                 continue
 
         print(f"\n  小结: {source} 上传完成（成功 {uploaded_count}/{len(image_files)}）")

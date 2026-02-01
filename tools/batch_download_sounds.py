@@ -14,8 +14,25 @@ from pathlib import Path
 def get_ebird_code(scientific_name, english_name, ebird_token=None):
     """
     获取 eBird species code
-    使用 curl 避免 SSL 证书问题
+    先尝试学名，失败后尝试英文名，最后查找手动映射表
     """
+    # 手动映射表：处理一些已知的问题物种
+    manual_mapping = {
+        'Japanese Tit': 'gretit1',
+        'Grey-capped Woodpecker': 'pygwoo2',
+        'Vinous-throated Parrotbill': 'vntpar1',
+        'Eurasian Hoopoe': 'eurapo1',
+        'Yellow-bellied Tit': 'pagrut1',
+        'Chinese Thrush': 'soosoo1',
+        'Eurasian Wigeon': 'eurwig',
+    }
+    
+    # 首先检查手动映射
+    if english_name in manual_mapping:
+        code = manual_mapping[english_name]
+        print(f"✓ 使用手动映射: {code}")
+        return code
+    
     if not ebird_token:
         ebird_token = os.environ.get('EBIRD_TOKEN')
     
@@ -23,26 +40,58 @@ def get_ebird_code(scientific_name, english_name, ebird_token=None):
         print("⚠️  警告: 未设置 EBIRD_TOKEN 环境变量")
         return None
     
-    # 先尝试用学名查询
-    enc_sci_name = urllib.parse.quote(scientific_name)
-    url = f"https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=en&species={enc_sci_name}"
-    
-    try:
-        result = subprocess.run(
-            ['curl', '-s', '-H', f'X-eBirdApiToken: {ebird_token}', url],
-            capture_output=True,
-            text=True,
-            timeout=10
-        )
+    # 方法1: 用学名查询
+    if scientific_name:
+        enc_sci_name = urllib.parse.quote(scientific_name)
+        url = f"https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=en&species={enc_sci_name}"
         
-        if result.returncode == 0 and result.stdout:
-            data = json.loads(result.stdout)
-            if data and len(data) > 0:
-                code = data[0].get('speciesCode')
-                if code:
-                    return code
-    except Exception as e:
-        print(f"⚠️  eBird API 调用失败: {e}")
+        try:
+            result = subprocess.run(
+                ['curl', '-s', '-H', f'X-eBirdApiToken: {ebird_token}', url],
+                capture_output=True,
+                text=True,
+                timeout=10
+            )
+            
+            if result.returncode == 0 and result.stdout:
+                data = json.loads(result.stdout)
+                if data and len(data) > 0:
+                    code = data[0].get('speciesCode')
+                    if code:
+                        return code
+        except Exception as e:
+            print(f"⚠️  学名查询失败: {e}")
+    
+    # 方法2: 用英文名从完整taxonomy查找
+    if english_name:
+        try:
+            url = f"https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=en"
+            
+            result = subprocess.run(
+                ['curl', '-s', '-H', f'X-eBirdApiToken: {ebird_token}', url],
+                capture_output=True,
+                text=True,
+                timeout=30
+            )
+            
+            if result.returncode == 0 and result.stdout:
+                data = json.loads(result.stdout)
+                # 精确匹配
+                for item in data:
+                    if item.get('comName', '').lower() == english_name.lower():
+                        code = item.get('speciesCode')
+                        print(f"✓ 通过英文名找到: {code}")
+                        return code
+                
+                # 模糊匹配
+                english_lower = english_name.lower()
+                for item in data:
+                    if english_lower in item.get('comName', '').lower():
+                        code = item.get('speciesCode')
+                        print(f"✓ 通过英文名模糊匹配: {code} ({item.get('comName')})")
+                        return code
+        except Exception as e:
+            print(f"⚠️  英文名查询失败: {e}")
     
     return None
 

@@ -60,25 +60,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "chinese_thrush_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313327/bird-gallery/chinese_thrush/inaturalist/chinese_thrush_1.jpg",
-      "public_id": "bird-gallery/chinese_thrush/inaturalist/chinese_thrush_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 56556,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
       "original_file": "chinese_thrush_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761715964/bird-gallery/chinese_thrush/inaturalist/chinese_thrush_2.jpg",
       "public_id": "bird-gallery/chinese_thrush/inaturalist/chinese_thrush_2",
@@ -118,27 +99,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "chinese_thrush_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761715968/bird-gallery/chinese_thrush/wikimedia/chinese_thrush_1.jpg",
-      "public_id": "bird-gallery/chinese_thrush/wikimedia/chinese_thrush_1",
-      "width": 1200,
-      "height": 900,
-      "format": "jpg",
-      "bytes": 148752,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_2262874114_008c102a5d_b.jpg",
@@ -182,5 +143,27 @@
   "bird_info": {
     "slug": "chinese_thrush",
     "chinese_name": "斑鸫"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "chinese_thrush_245735321.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763080/bird-gallery/chinese_thrush/sounds/chinese_thrush_245735321.mp3",
+      "public_id": "bird-gallery/chinese_thrush/sounds/chinese_thrush_245735321",
+      "duration": 79.248,
+      "format": "mp3",
+      "bytes": 1112924,
+      "bit_rate": 112348,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "245735321",
+        "asset_url": "https://macaulaylibrary.org/asset/245735321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

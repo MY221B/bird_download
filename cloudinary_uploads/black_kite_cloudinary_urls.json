@@ -141,25 +141,6 @@
   ],
   "avibase": [
     {
-      "original_file": "avibase_1_54554036059_b8e912dafa_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753526/bird-gallery/black_kite/avibase/avibase_1_54554036059_b8e912dafa_b.jpg",
-      "public_id": "bird-gallery/black_kite/avibase/avibase_1_54554036059_b8e912dafa_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 56170,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
       "original_file": "avibase_2_49698841298_ce7697ef96_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753530/bird-gallery/black_kite/avibase/avibase_2_49698841298_ce7697ef96_b.jpg",
       "public_id": "bird-gallery/black_kite/avibase/avibase_2_49698841298_ce7697ef96_b",
@@ -201,5 +182,27 @@
   "bird_info": {
     "slug": "black_kite",
     "chinese_name": "黑鸢"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "black_kite_1520.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763164/bird-gallery/black_kite/sounds/black_kite_1520.mp3",
+      "public_id": "bird-gallery/black_kite/sounds/black_kite_1520",
+      "duration": 100.44,
+      "format": "mp3",
+      "bytes": 1415348,
+      "bit_rate": 112731,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "1520",
+        "asset_url": "https://macaulaylibrary.org/asset/1520",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

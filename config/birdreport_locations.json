@@ -308,6 +308,19 @@
         "阳朔县"
       ],
       "point_aliases": []
+    },
+    {
+      "id": "xiniaogu",
+      "name": "犀鸟谷",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "犀鸟谷"
+      ]
     }
   ]
 }

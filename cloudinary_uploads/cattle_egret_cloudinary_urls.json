@@ -1,0 +1,94 @@
+{
+  "bird_info": {
+    "slug": "cattle_egret",
+    "chinese_name": "牛背鹭",
+    "english_name": "Cattle Egret",
+    "scientific_name": "Bubulcus coromandus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "cattle_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703592/bird-gallery/cattle_egret/inaturalist/cattle_egret_1.jpg",
+      "public_id": "bird-gallery/cattle_egret/inaturalist/cattle_egret_1",
+      "width": 1024,
+      "height": 947,
+      "format": "jpg",
+      "bytes": 66257,
+      "attribution": {
+        "photographer": "tejaspm",
+        "photographer_url": "https://www.inaturalist.org/observations/150499333",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tejaspm (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 150499333,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cattle_egret_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703594/bird-gallery/cattle_egret/inaturalist/cattle_egret_2.jpg",
+      "public_id": "bird-gallery/cattle_egret/inaturalist/cattle_egret_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 125013,
+      "attribution": {
+        "photographer": "reginchen",
+        "photographer_url": "https://www.inaturalist.org/observations/197480443",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© reginchen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197480443,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "cattle_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703597/bird-gallery/cattle_egret/wikimedia/cattle_egret_1.jpg",
+      "public_id": "bird-gallery/cattle_egret/wikimedia/cattle_egret_1",
+      "width": 250,
+      "height": 322,
+      "format": "jpg",
+      "bytes": 9639,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "cattle_egret_217438751.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763236/bird-gallery/cattle_egret/sounds/cattle_egret_217438751.mp3",
+      "public_id": "bird-gallery/cattle_egret/sounds/cattle_egret_217438751",
+      "duration": 7.152,
+      "format": "mp3",
+      "bytes": 97724,
+      "bit_rate": 109310,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "217438751",
+        "asset_url": "https://macaulaylibrary.org/asset/217438751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

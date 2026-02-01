@@ -143,5 +143,27 @@
   "bird_info": {
     "slug": "upland_buzzard",
     "chinese_name": "大鵟"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "upland_buzzard_111899891.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763129/bird-gallery/upland_buzzard/sounds/upland_buzzard_111899891.mp3",
+      "public_id": "bird-gallery/upland_buzzard/sounds/upland_buzzard_111899891",
+      "duration": 96.504,
+      "format": "mp3",
+      "bytes": 1310588,
+      "bit_rate": 108645,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "111899891",
+        "asset_url": "https://macaulaylibrary.org/asset/111899891",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

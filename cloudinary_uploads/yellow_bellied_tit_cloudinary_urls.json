@@ -77,49 +77,10 @@
         "source_id": null,
         "note": "署名信息待补充"
       }
-    },
-    {
-      "original_file": "yellow_bellied_tit_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753799/bird-gallery/yellow_bellied_tit/inaturalist/yellow_bellied_tit_2.jpg",
-      "public_id": "bird-gallery/yellow_bellied_tit/inaturalist/yellow_bellied_tit_2",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 84502,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "yellow_bellied_tit_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753802/bird-gallery/yellow_bellied_tit/wikimedia/yellow_bellied_tit_1.jpg",
-      "public_id": "bird-gallery/yellow_bellied_tit/wikimedia/yellow_bellied_tit_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 11744,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_31180714756_8f50944b4e_b.jpg",
@@ -182,5 +143,27 @@
   "bird_info": {
     "slug": "yellow_bellied_tit",
     "chinese_name": "黄腹山雀"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "yellow_bellied_tit_30135621.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763074/bird-gallery/yellow_bellied_tit/sounds/yellow_bellied_tit_30135621.mp3",
+      "public_id": "bird-gallery/yellow_bellied_tit/sounds/yellow_bellied_tit_30135621",
+      "duration": 20.688,
+      "format": "mp3",
+      "bytes": 386732,
+      "bit_rate": 149548,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "30135621",
+        "asset_url": "https://macaulaylibrary.org/asset/30135621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

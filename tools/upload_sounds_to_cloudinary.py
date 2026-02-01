@@ -64,7 +64,8 @@ def upload_bird_sounds(bird_name, sound_file_path, base_path=None):
             overwrite=True,
             resource_type="video",  # Cloudinary将音频归类为video
             # 保持原格式
-            format=sound_path.suffix[1:]  # 去掉点号
+            format=sound_path.suffix[1:],  # 去掉点号
+            timeout=90
         )
         
         # 保存结果

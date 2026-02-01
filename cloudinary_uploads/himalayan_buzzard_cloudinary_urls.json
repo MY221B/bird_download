@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "himalayan_buzzard",
+    "chinese_name": "喜山鵟",
+    "english_name": "Himalayan Buzzard",
+    "scientific_name": "Buteo refectus"
+  },
+  "macaulay": [
+    {
+      "original_file": "himalayan_buzzard_205985091.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769739901/bird-gallery/himalayan_buzzard/macaulay/himalayan_buzzard_205985091.jpg",
+      "public_id": "bird-gallery/himalayan_buzzard/macaulay/himalayan_buzzard_205985091",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 145910,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/205985091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205985091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "himalayan_buzzard_304394811.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769739907/bird-gallery/himalayan_buzzard/macaulay/himalayan_buzzard_304394811.jpg",
+      "public_id": "bird-gallery/himalayan_buzzard/macaulay/himalayan_buzzard_304394811",
+      "width": 1200,
+      "height": 726,
+      "format": "jpg",
+      "bytes": 165303,
+      "attribution": {
+        "photographer": "Vinit Bajpai",
+        "photographer_url": "https://macaulaylibrary.org/asset/304394811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vinit Bajpai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "304394811",
+        "note": null
+      }
+    },
+    {
+      "original_file": "himalayan_buzzard_419161491.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769739912/bird-gallery/himalayan_buzzard/macaulay/himalayan_buzzard_419161491.jpg",
+      "public_id": "bird-gallery/himalayan_buzzard/macaulay/himalayan_buzzard_419161491",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 40567,
+      "attribution": {
+        "photographer": "Su Li",
+        "photographer_url": "https://macaulaylibrary.org/asset/419161491",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Su Li; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "419161491",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_3_53005843702_8800c1d4d4_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769739925/bird-gallery/himalayan_buzzard/avibase/avibase_3_53005843702_8800c1d4d4_b.jpg",
+      "public_id": "bird-gallery/himalayan_buzzard/avibase/avibase_3_53005843702_8800c1d4d4_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 47618,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53005843702",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "himalayan_buzzard_173593161.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769743106/bird-gallery/himalayan_buzzard/sounds/himalayan_buzzard_173593161.mp3",
+      "public_id": "bird-gallery/himalayan_buzzard/sounds/himalayan_buzzard_173593161",
+      "duration": 56.016,
+      "format": "mp3",
+      "bytes": 840404,
+      "bit_rate": 120023,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "173593161",
+        "asset_url": "https://macaulaylibrary.org/asset/173593161",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

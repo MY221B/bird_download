@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "woolly_necked_stork",
+    "chinese_name": "白颈鹳",
+    "english_name": "Woolly-necked Stork",
+    "scientific_name": "Ciconia episcopus"
+  },
+  "macaulay": [
+    {
+      "original_file": "woolly_necked_stork_304464271.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703564/bird-gallery/woolly_necked_stork/macaulay/woolly_necked_stork_304464271.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/macaulay/woolly_necked_stork_304464271",
+      "width": 1200,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 106095,
+      "attribution": {
+        "photographer": "Albin Jacob",
+        "photographer_url": "https://macaulaylibrary.org/asset/304464271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Albin Jacob; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "304464271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "woolly_necked_stork_401291181.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703569/bird-gallery/woolly_necked_stork/macaulay/woolly_necked_stork_401291181.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/macaulay/woolly_necked_stork_401291181",
+      "width": 1200,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 89140,
+      "attribution": {
+        "photographer": "Hasitha Wimalarathna",
+        "photographer_url": "https://macaulaylibrary.org/asset/401291181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Hasitha Wimalarathna; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "401291181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "woolly_necked_stork_428722521.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703574/bird-gallery/woolly_necked_stork/macaulay/woolly_necked_stork_428722521.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/macaulay/woolly_necked_stork_428722521",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 82710,
+      "attribution": {
+        "photographer": "R Thapar",
+        "photographer_url": "https://macaulaylibrary.org/asset/428722521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by R Thapar; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "428722521",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "woolly_necked_stork_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703580/bird-gallery/woolly_necked_stork/inaturalist/woolly_necked_stork_1.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/inaturalist/woolly_necked_stork_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 109900,
+      "attribution": {
+        "photographer": "mika177",
+        "photographer_url": "https://www.inaturalist.org/observations/159248789",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mika177 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 159248789,
+        "note": null
+      }
+    },
+    {
+      "original_file": "woolly_necked_stork_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703581/bird-gallery/woolly_necked_stork/inaturalist/woolly_necked_stork_2.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/inaturalist/woolly_necked_stork_2",
+      "width": 912,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 104162,
+      "attribution": {
+        "photographer": "timmcclurg",
+        "photographer_url": "https://www.inaturalist.org/observations/146597414",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© timmcclurg (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 146597414,
+        "note": null
+      }
+    },
+    {
+      "original_file": "woolly_necked_stork_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703583/bird-gallery/woolly_necked_stork/inaturalist/woolly_necked_stork_3.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/inaturalist/woolly_necked_stork_3",
+      "width": 400,
+      "height": 300,
+      "format": "jpg",
+      "bytes": 8852,
+      "attribution": {
+        "photographer": "stevewalternature",
+        "photographer_url": "https://www.inaturalist.org/observations/150859845",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stevewalternature (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 150859845,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53436025025_e23fc905b9_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703584/bird-gallery/woolly_necked_stork/avibase/avibase_1_53436025025_e23fc905b9_b.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/avibase/avibase_1_53436025025_e23fc905b9_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 240693,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53436025025",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "woolly_necked_stork_331652821.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769743060/bird-gallery/woolly_necked_stork/sounds/woolly_necked_stork_331652821.mp3",
+      "public_id": "bird-gallery/woolly_necked_stork/sounds/woolly_necked_stork_331652821",
+      "duration": 8.592,
+      "format": "mp3",
+      "bytes": 120140,
+      "bit_rate": 111862,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "331652821",
+        "asset_url": "https://macaulaylibrary.org/asset/331652821",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

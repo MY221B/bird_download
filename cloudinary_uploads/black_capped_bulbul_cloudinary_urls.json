@@ -1,0 +1,191 @@
+{
+  "bird_info": {
+    "slug": "black_capped_bulbul",
+    "chinese_name": "黑冠黄鹎",
+    "english_name": "Black-capped Bulbul",
+    "scientific_name": "Rubigula flaviventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_capped_bulbul_626475504.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740945/bird-gallery/black_capped_bulbul/macaulay/black_capped_bulbul_626475504.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/macaulay/black_capped_bulbul_626475504",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 86552,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/626475504",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "626475504",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_bulbul_85684431.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740949/bird-gallery/black_capped_bulbul/macaulay/black_capped_bulbul_85684431.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/macaulay/black_capped_bulbul_85684431",
+      "width": 1200,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 62832,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/85684431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "85684431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_bulbul_85684451.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740954/bird-gallery/black_capped_bulbul/macaulay/black_capped_bulbul_85684451.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/macaulay/black_capped_bulbul_85684451",
+      "width": 1200,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 65745,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/85684451",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "85684451",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_capped_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740959/bird-gallery/black_capped_bulbul/inaturalist/black_capped_bulbul_1.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/inaturalist/black_capped_bulbul_1",
+      "width": 473,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 34698,
+      "attribution": {
+        "photographer": "peterthedragon",
+        "photographer_url": "https://www.inaturalist.org/observations/67128776",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© peterthedragon (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 67128776,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "black_capped_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740964/bird-gallery/black_capped_bulbul/wikimedia/black_capped_bulbul_1.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/wikimedia/black_capped_bulbul_1",
+      "width": 816,
+      "height": 1225,
+      "format": "jpg",
+      "bytes": 101968,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_28311932601_8074b40561_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740965/bird-gallery/black_capped_bulbul/avibase/avibase_1_28311932601_8074b40561_b.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/avibase/avibase_1_28311932601_8074b40561_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 100161,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28311932601",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_26071491107_9c2a48f034_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740966/bird-gallery/black_capped_bulbul/avibase/avibase_2_26071491107_9c2a48f034_b.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/avibase/avibase_2_26071491107_9c2a48f034_b",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 131880,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26071491107",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_50926430002_82474ac556_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740967/bird-gallery/black_capped_bulbul/avibase/avibase_3_50926430002_82474ac556_b.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/avibase/avibase_3_50926430002_82474ac556_b",
+      "width": 651,
+      "height": 434,
+      "format": "jpg",
+      "bytes": 53244,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50926430002",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_capped_bulbul_632832843.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769743373/bird-gallery/black_capped_bulbul/sounds/black_capped_bulbul_632832843.mp3",
+      "public_id": "bird-gallery/black_capped_bulbul/sounds/black_capped_bulbul_632832843",
+      "duration": 37.008,
+      "format": "mp3",
+      "bytes": 309668,
+      "bit_rate": 66940,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "632832843",
+        "asset_url": "https://macaulaylibrary.org/asset/632832843",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "bird_info": {
+    "slug": "grey_winged_blackbird",
+    "chinese_name": "灰翅鸫",
+    "english_name": "Grey-winged Blackbird",
+    "scientific_name": "Turdus boulboul"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_winged_blackbird_139262851.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742159/bird-gallery/grey_winged_blackbird/macaulay/grey_winged_blackbird_139262851.jpg",
+      "public_id": "bird-gallery/grey_winged_blackbird/macaulay/grey_winged_blackbird_139262851",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76106,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/139262851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "139262851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_winged_blackbird_234498101.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742164/bird-gallery/grey_winged_blackbird/macaulay/grey_winged_blackbird_234498101.jpg",
+      "public_id": "bird-gallery/grey_winged_blackbird/macaulay/grey_winged_blackbird_234498101",
+      "width": 1200,
+      "height": 835,
+      "format": "jpg",
+      "bytes": 102232,
+      "attribution": {
+        "photographer": "Savithri Singh",
+        "photographer_url": "https://macaulaylibrary.org/asset/234498101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Savithri Singh; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "234498101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_winged_blackbird_238753151.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742169/bird-gallery/grey_winged_blackbird/macaulay/grey_winged_blackbird_238753151.jpg",
+      "public_id": "bird-gallery/grey_winged_blackbird/macaulay/grey_winged_blackbird_238753151",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75558,
+      "attribution": {
+        "photographer": "Yash Kothiala",
+        "photographer_url": "https://macaulaylibrary.org/asset/238753151",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Yash Kothiala; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "238753151",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_winged_blackbird_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742174/bird-gallery/grey_winged_blackbird/inaturalist/grey_winged_blackbird_1.jpg",
+      "public_id": "bird-gallery/grey_winged_blackbird/inaturalist/grey_winged_blackbird_1",
+      "width": 1024,
+      "height": 965,
+      "format": "jpg",
+      "bytes": 92960,
+      "attribution": {
+        "photographer": "amarzee",
+        "photographer_url": "https://www.inaturalist.org/observations/332282966",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© amarzee (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 332282966,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_winged_blackbird_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742175/bird-gallery/grey_winged_blackbird/inaturalist/grey_winged_blackbird_2.jpg",
+      "public_id": "bird-gallery/grey_winged_blackbird/inaturalist/grey_winged_blackbird_2",
+      "width": 1024,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 94274,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18661334",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18661334,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_winged_blackbird_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742177/bird-gallery/grey_winged_blackbird/inaturalist/grey_winged_blackbird_3.jpg",
+      "public_id": "bird-gallery/grey_winged_blackbird/inaturalist/grey_winged_blackbird_3",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 112918,
+      "attribution": {
+        "photographer": "pelagicgraf",
+        "photographer_url": "https://www.inaturalist.org/observations/184530773",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pelagicgraf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 184530773,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50286046527_015de95985_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742180/bird-gallery/grey_winged_blackbird/avibase/avibase_1_50286046527_015de95985_b.jpg",
+      "public_id": "bird-gallery/grey_winged_blackbird/avibase/avibase_1_50286046527_015de95985_b",
+      "width": 831,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 115790,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50286046527",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52941663008_00a45a8f52_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742182/bird-gallery/grey_winged_blackbird/avibase/avibase_2_52941663008_00a45a8f52_b.jpg",
+      "public_id": "bird-gallery/grey_winged_blackbird/avibase/avibase_2_52941663008_00a45a8f52_b",
+      "width": 1023,
+      "height": 718,
+      "format": "jpg",
+      "bytes": 73293,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52941663008",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "grey_winged_blackbird_445576111.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769743671/bird-gallery/grey_winged_blackbird/sounds/grey_winged_blackbird_445576111.mp3",
+      "public_id": "bird-gallery/grey_winged_blackbird/sounds/grey_winged_blackbird_445576111",
+      "duration": 160.512,
+      "format": "mp3",
+      "bytes": 2272604,
+      "bit_rate": 113267,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "445576111",
+        "asset_url": "https://macaulaylibrary.org/asset/445576111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

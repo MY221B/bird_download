@@ -1,0 +1,191 @@
+{
+  "bird_info": {
+    "slug": "little_pied_flycatcher",
+    "chinese_name": "小斑姬鹟",
+    "english_name": "Little Pied Flycatcher",
+    "scientific_name": "Ficedula westermanni"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_pied_flycatcher_427741011.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742635/bird-gallery/little_pied_flycatcher/macaulay/little_pied_flycatcher_427741011.jpg",
+      "public_id": "bird-gallery/little_pied_flycatcher/macaulay/little_pied_flycatcher_427741011",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 112782,
+      "attribution": {
+        "photographer": "Allan Barredo",
+        "photographer_url": "https://macaulaylibrary.org/asset/427741011",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Allan Barredo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "427741011",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_pied_flycatcher_427741021.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742640/bird-gallery/little_pied_flycatcher/macaulay/little_pied_flycatcher_427741021.jpg",
+      "public_id": "bird-gallery/little_pied_flycatcher/macaulay/little_pied_flycatcher_427741021",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 102049,
+      "attribution": {
+        "photographer": "Allan Barredo",
+        "photographer_url": "https://macaulaylibrary.org/asset/427741021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Allan Barredo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "427741021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_pied_flycatcher_444312411.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742645/bird-gallery/little_pied_flycatcher/macaulay/little_pied_flycatcher_444312411.jpg",
+      "public_id": "bird-gallery/little_pied_flycatcher/macaulay/little_pied_flycatcher_444312411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90073,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/444312411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "444312411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_pied_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742650/bird-gallery/little_pied_flycatcher/inaturalist/little_pied_flycatcher_1.jpg",
+      "public_id": "bird-gallery/little_pied_flycatcher/inaturalist/little_pied_flycatcher_1",
+      "width": 1024,
+      "height": 660,
+      "format": "jpg",
+      "bytes": 69386,
+      "attribution": {
+        "photographer": "budak",
+        "photographer_url": "https://www.inaturalist.org/observations/14537797",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© budak (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 14537797,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_pied_flycatcher_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742651/bird-gallery/little_pied_flycatcher/inaturalist/little_pied_flycatcher_2.jpg",
+      "public_id": "bird-gallery/little_pied_flycatcher/inaturalist/little_pied_flycatcher_2",
+      "width": 1024,
+      "height": 650,
+      "format": "jpg",
+      "bytes": 57252,
+      "attribution": {
+        "photographer": "mroseup",
+        "photographer_url": "https://www.inaturalist.org/observations/134840125",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mroseup (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 134840125,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_pied_flycatcher_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742653/bird-gallery/little_pied_flycatcher/inaturalist/little_pied_flycatcher_3.jpg",
+      "public_id": "bird-gallery/little_pied_flycatcher/inaturalist/little_pied_flycatcher_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59643,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7506108",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7506108,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "little_pied_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742654/bird-gallery/little_pied_flycatcher/wikimedia/little_pied_flycatcher_1.jpg",
+      "public_id": "bird-gallery/little_pied_flycatcher/wikimedia/little_pied_flycatcher_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 75199,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_54775102449_174fab63c9_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742656/bird-gallery/little_pied_flycatcher/avibase/avibase_2_54775102449_174fab63c9_b.jpg",
+      "public_id": "bird-gallery/little_pied_flycatcher/avibase/avibase_2_54775102449_174fab63c9_b",
+      "width": 1024,
+      "height": 693,
+      "format": "jpg",
+      "bytes": 123231,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54775102449",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "little_pied_flycatcher_583516331.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769743827/bird-gallery/little_pied_flycatcher/sounds/little_pied_flycatcher_583516331.mp3",
+      "public_id": "bird-gallery/little_pied_flycatcher/sounds/little_pied_flycatcher_583516331",
+      "duration": 31.248,
+      "format": "mp3",
+      "bytes": 780620,
+      "bit_rate": 199851,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "583516331",
+        "asset_url": "https://macaulaylibrary.org/asset/583516331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

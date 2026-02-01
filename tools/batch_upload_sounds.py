@@ -41,14 +41,15 @@ def upload_sound_to_cloudinary(bird_slug, sound_file_path):
         
         print(f"  📤 上传中...")
         
-        # 上传到Cloudinary
+        # 上传到Cloudinary（添加90秒超时，声音文件可能较大）
         result = cloudinary.uploader.upload(
             str(sound_path),
             folder=folder,
             public_id=public_id,
             overwrite=True,
             resource_type="video",
-            format=sound_path.suffix[1:]
+            format=sound_path.suffix[1:],
+            timeout=90
         )
         
         # 构建音频信息

@@ -164,5 +164,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "collared_crow_546007361.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763169/bird-gallery/collared_crow/sounds/collared_crow_546007361.mp3",
+      "public_id": "bird-gallery/collared_crow/sounds/collared_crow_546007361",
+      "duration": 7.776,
+      "format": "mp3",
+      "bytes": 112316,
+      "bit_rate": 115551,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "546007361",
+        "asset_url": "https://macaulaylibrary.org/asset/546007361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

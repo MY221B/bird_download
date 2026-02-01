@@ -1,0 +1,190 @@
+{
+  "bird_info": {
+    "slug": "blue_eared_barbet",
+    "chinese_name": "蓝耳拟啄木鸟",
+    "english_name": "Blue-eared Barbet",
+    "scientific_name": "Psilopogon duvaucelii"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_eared_barbet_519839971.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740035/bird-gallery/blue_eared_barbet/macaulay/blue_eared_barbet_519839971.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/macaulay/blue_eared_barbet_519839971",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 91998,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/519839971",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "519839971",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_eared_barbet_527283581.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740041/bird-gallery/blue_eared_barbet/macaulay/blue_eared_barbet_527283581.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/macaulay/blue_eared_barbet_527283581",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 79000,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/527283581",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "527283581",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_eared_barbet_529782451.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740046/bird-gallery/blue_eared_barbet/macaulay/blue_eared_barbet_529782451.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/macaulay/blue_eared_barbet_529782451",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 88332,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/529782451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "529782451",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_eared_barbet_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740050/bird-gallery/blue_eared_barbet/inaturalist/blue_eared_barbet_1.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/inaturalist/blue_eared_barbet_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 45918,
+      "attribution": {
+        "photographer": "henicorhina",
+        "photographer_url": "https://www.inaturalist.org/observations/51498828",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© henicorhina (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 51498828,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_eared_barbet_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740051/bird-gallery/blue_eared_barbet/inaturalist/blue_eared_barbet_2.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/inaturalist/blue_eared_barbet_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 57537,
+      "attribution": {
+        "photographer": "rongrong_a",
+        "photographer_url": "https://www.inaturalist.org/observations/93167553",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rongrong_a (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 93167553,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54303747727_b55b6a912e_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740054/bird-gallery/blue_eared_barbet/avibase/avibase_1_54303747727_b55b6a912e_b.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/avibase/avibase_1_54303747727_b55b6a912e_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 35994,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54303747727",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_50194427693_87a84d43da_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740055/bird-gallery/blue_eared_barbet/avibase/avibase_2_50194427693_87a84d43da_b.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/avibase/avibase_2_50194427693_87a84d43da_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 55662,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50194427693",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54370530282_0a2af0a8f1_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769740056/bird-gallery/blue_eared_barbet/avibase/avibase_3_54370530282_0a2af0a8f1_b.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/avibase/avibase_3_54370530282_0a2af0a8f1_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 39413,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54370530282",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "blue_eared_barbet_20718781.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769743164/bird-gallery/blue_eared_barbet/sounds/blue_eared_barbet_20718781.mp3",
+      "public_id": "bird-gallery/blue_eared_barbet/sounds/blue_eared_barbet_20718781",
+      "duration": 29.88,
+      "format": "mp3",
+      "bytes": 425948,
+      "bit_rate": 114042,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "20718781",
+        "asset_url": "https://macaulaylibrary.org/asset/20718781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "bird_info": {
+    "slug": "rufous_backed_sibia",
+    "chinese_name": "栗背奇鹛",
+    "english_name": "Rufous-backed Sibia",
+    "scientific_name": "Leioptila annectens"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_backed_sibia_292014721.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741990/bird-gallery/rufous_backed_sibia/macaulay/rufous_backed_sibia_292014721.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/macaulay/rufous_backed_sibia_292014721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97692,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/292014721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "292014721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_backed_sibia_629585783.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741995/bird-gallery/rufous_backed_sibia/macaulay/rufous_backed_sibia_629585783.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/macaulay/rufous_backed_sibia_629585783",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 116812,
+      "attribution": {
+        "photographer": "Sakkarin Sansuk",
+        "photographer_url": "https://macaulaylibrary.org/asset/629585783",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sakkarin Sansuk; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "629585783",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_backed_sibia_644199339.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742000/bird-gallery/rufous_backed_sibia/macaulay/rufous_backed_sibia_644199339.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/macaulay/rufous_backed_sibia_644199339",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73515,
+      "attribution": {
+        "photographer": "Wasu Vidayanakorn",
+        "photographer_url": "https://macaulaylibrary.org/asset/644199339",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Wasu Vidayanakorn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "644199339",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_backed_sibia_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742005/bird-gallery/rufous_backed_sibia/inaturalist/rufous_backed_sibia_1.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/inaturalist/rufous_backed_sibia_1",
+      "width": 1024,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 88804,
+      "attribution": {
+        "photographer": "grcilis",
+        "photographer_url": "https://www.inaturalist.org/observations/247702027",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© grcilis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 247702027,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_backed_sibia_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742007/bird-gallery/rufous_backed_sibia/inaturalist/rufous_backed_sibia_2.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/inaturalist/rufous_backed_sibia_2",
+      "width": 1024,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 154665,
+      "attribution": {
+        "photographer": "souravnaturalist",
+        "photographer_url": "https://www.inaturalist.org/observations/322730140",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© souravnaturalist (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 322730140,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_backed_sibia_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742008/bird-gallery/rufous_backed_sibia/inaturalist/rufous_backed_sibia_3.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/inaturalist/rufous_backed_sibia_3",
+      "width": 1000,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 123453,
+      "attribution": {
+        "photographer": "upupamartin",
+        "photographer_url": "https://www.inaturalist.org/observations/49134855",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© upupamartin (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 49134855,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_16730752268_3efdc92dec_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742013/bird-gallery/rufous_backed_sibia/avibase/avibase_1_16730752268_3efdc92dec_b.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/avibase/avibase_1_16730752268_3efdc92dec_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 119847,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16730752268",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49558992083_0ab2f65cb9_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742014/bird-gallery/rufous_backed_sibia/avibase/avibase_2_49558992083_0ab2f65cb9_b.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/avibase/avibase_2_49558992083_0ab2f65cb9_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 57885,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49558992083",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_49559485331_517fd61c8c_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769742016/bird-gallery/rufous_backed_sibia/avibase/avibase_3_49559485331_517fd61c8c_b.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/avibase/avibase_3_49559485331_517fd61c8c_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72725,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49559485331",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "rufous_backed_sibia_478784681.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769743635/bird-gallery/rufous_backed_sibia/sounds/rufous_backed_sibia_478784681.mp3",
+      "public_id": "bird-gallery/rufous_backed_sibia/sounds/rufous_backed_sibia_478784681",
+      "duration": 53.064,
+      "format": "mp3",
+      "bytes": 737852,
+      "bit_rate": 111239,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "478784681",
+        "asset_url": "https://macaulaylibrary.org/asset/478784681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

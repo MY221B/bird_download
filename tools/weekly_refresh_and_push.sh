@@ -11,6 +11,15 @@ QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"
 
 cd "${REPO_ROOT}"
 
+# 🔄 开始前：从 Lovable 同步最新改动
+echo "🔄 从 Lovable 同步最新改动..."
+if bash "${REPO_ROOT}/tools/sync_from_lovable.sh"; then
+  echo "✅ Lovable 同步完成"
+else
+  echo "⚠️  Lovable 同步失败，继续执行..."
+fi
+echo ""
+
 # Load eBird API Token for bird sounds download
 if [[ -f "${REPO_ROOT}/config/ebird_token.sh" ]]; then
   source "${REPO_ROOT}/config/ebird_token.sh"
@@ -76,6 +85,33 @@ git commit --quiet -m "${COMMIT_MSG}"
 echo "$(git diff HEAD~1 --shortstat)"
 
 current_branch="$(git rev-parse --abbrev-ref HEAD)"
+
+echo "🔄 Pulling latest changes from origin/${current_branch}..."
+if git pull --rebase origin "${current_branch}" 2>&1; then
+  echo "✅ Successfully pulled and rebased"
+else
+  echo "⚠️  Pull failed or has conflicts. Checking status..."
+  if git status | grep -q "rebase in progress"; then
+    echo "❌ Rebase conflicts detected. Please resolve manually:"
+    echo "   cd ${QUIZ_DIR}"
+    echo "   git status"
+    echo "   # Resolve conflicts, then:"
+    echo "   git rebase --continue"
+    exit 1
+  fi
+fi
+
 echo "🚀 Pushing to origin/${current_branch}..."
 git push --quiet origin "${current_branch}"
 echo "✨ Weekly refresh pushed successfully."
+
+# 🔄 结束后：同步改动到 Lovable
+cd "${REPO_ROOT}"
+echo ""
+echo "🔄 同步改动到 Lovable..."
+if bash "${REPO_ROOT}/tools/sync_to_lovable.sh"; then
+  echo "✅ 已同步到 Lovable 的 develop_lovable 分支"
+else
+  echo "⚠️  同步到 Lovable 失败"
+  exit 1
+fi

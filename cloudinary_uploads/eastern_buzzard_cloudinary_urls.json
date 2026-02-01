@@ -60,25 +60,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "eastern_buzzard_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753559/bird-gallery/eastern_buzzard/inaturalist/eastern_buzzard_1.jpg",
-      "public_id": "bird-gallery/eastern_buzzard/inaturalist/eastern_buzzard_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 40993,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
       "original_file": "eastern_buzzard_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753561/bird-gallery/eastern_buzzard/inaturalist/eastern_buzzard_2.jpg",
       "public_id": "bird-gallery/eastern_buzzard/inaturalist/eastern_buzzard_2",
@@ -118,27 +99,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "eastern_buzzard_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313061/bird-gallery/eastern_buzzard/wikimedia/eastern_buzzard_1.jpg",
-      "public_id": "bird-gallery/eastern_buzzard/wikimedia/eastern_buzzard_1",
-      "width": 1200,
-      "height": 1200,
-      "format": "jpg",
-      "bytes": 42458,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_54305207300_7ce617ceaa_b.jpg",
@@ -201,5 +162,27 @@
   "bird_info": {
     "slug": "eastern_buzzard",
     "chinese_name": "普通鵟"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "eastern_buzzard_626281008.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763111/bird-gallery/eastern_buzzard/sounds/eastern_buzzard_626281008.mp3",
+      "public_id": "bird-gallery/eastern_buzzard/sounds/eastern_buzzard_626281008",
+      "duration": 20.088,
+      "format": "mp3",
+      "bytes": 492812,
+      "bit_rate": 196261,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "626281008",
+        "asset_url": "https://macaulaylibrary.org/asset/626281008",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

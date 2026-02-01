@@ -77,25 +77,6 @@
         "source_id": null,
         "note": "署名信息待补充"
       }
-    },
-    {
-      "original_file": "gadwall_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313231/bird-gallery/gadwall/inaturalist/gadwall_3.jpg",
-      "public_id": "bird-gallery/gadwall/inaturalist/gadwall_3",
-      "width": 1024,
-      "height": 571,
-      "format": "jpg",
-      "bytes": 82281,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
     }
   ],
   "birdphotos": [],
@@ -139,29 +120,32 @@
         "source_id": null,
         "note": "署名信息待补充"
       }
-    },
-    {
-      "original_file": "avibase_3_49191850566_209b6b71dd_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753139/bird-gallery/gadwall/avibase/avibase_3_49191850566_209b6b71dd_b.jpg",
-      "public_id": "bird-gallery/gadwall/avibase/avibase_3_49191850566_209b6b71dd_b",
-      "width": 1024,
-      "height": 788,
-      "format": "jpg",
-      "bytes": 86214,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
     }
   ],
   "bird_info": {
     "slug": "gadwall",
     "chinese_name": "赤膀鸭"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "gadwall_310887101.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763117/bird-gallery/gadwall/sounds/gadwall_310887101.mp3",
+      "public_id": "bird-gallery/gadwall/sounds/gadwall_310887101",
+      "duration": 8.784,
+      "format": "mp3",
+      "bytes": 122828,
+      "bit_rate": 111865,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "310887101",
+        "asset_url": "https://macaulaylibrary.org/asset/310887101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

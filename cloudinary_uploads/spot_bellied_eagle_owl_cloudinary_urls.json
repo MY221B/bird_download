@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "spot_bellied_eagle_owl",
+    "chinese_name": "林雕鸮",
+    "english_name": "Spot-bellied Eagle Owl",
+    "scientific_name": "Bubo nipalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "spot_bellied_eagle_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703716/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_1.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 109362,
+      "attribution": {
+        "photographer": "hamsambly",
+        "photographer_url": "https://www.inaturalist.org/observations/198957361",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hamsambly (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 198957361,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spot_bellied_eagle_owl_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703717/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_2.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 112991,
+      "attribution": {
+        "photographer": "rujutavinod",
+        "photographer_url": "https://www.inaturalist.org/observations/73365593",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rujutavinod (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 73365593,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spot_bellied_eagle_owl_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703718/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_3.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_3",
+      "width": 762,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 112036,
+      "attribution": {
+        "photographer": "suryaram90",
+        "photographer_url": "https://www.inaturalist.org/observations/95946423",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© suryaram90 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 95946423,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "spot_bellied_eagle_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769703720/bird-gallery/spot_bellied_eagle_owl/wikimedia/spot_bellied_eagle_owl_1.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/wikimedia/spot_bellied_eagle_owl_1",
+      "width": 960,
+      "height": 1318,
+      "format": "jpg",
+      "bytes": 428272,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "spot_bellied_eagle_owl_27011101.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763246/bird-gallery/spot_bellied_eagle_owl/sounds/spot_bellied_eagle_owl_27011101.mp3",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/sounds/spot_bellied_eagle_owl_27011101",
+      "duration": 319.92,
+      "format": "mp3",
+      "bytes": 5406092,
+      "bit_rate": 135186,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "27011101",
+        "asset_url": "https://macaulaylibrary.org/asset/27011101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

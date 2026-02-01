@@ -30,6 +30,21 @@ cloudinary.config(
 PROJECT_ROOT = Path(__file__).parent.parent.resolve()
 
 
+def load_ebird_mapping() -> Dict[str, str]:
+    """从配置文件加载手动映射"""
+    mapping_file = PROJECT_ROOT / "config" / "ebird_manual_mapping.json"
+    
+    if not mapping_file.exists():
+        return {}
+    
+    try:
+        with open(mapping_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data.get('mappings', {})
+    except:
+        return {}
+
+
 def check_missing_sounds(bird_slugs: List[str]) -> Tuple[List[str], List[str]]:
     """
     检查哪些鸟类缺少叫声
@@ -86,30 +101,70 @@ def get_bird_info_from_json(slug: str) -> Optional[Dict[str, str]]:
         return None
 
 
-def get_ebird_code(scientific_name: str, english_name: str) -> Optional[str]:
-    """获取eBird species code"""
+def get_ebird_code(scientific_name: str, english_name: str, slug: str = "") -> Optional[str]:
+    """
+    智能获取eBird species code
+    使用多重策略：直接映射 -> 学名 -> 英文名 -> 模糊搜索
+    """
+    # 尝试导入智能查找模块
+    try:
+        from smart_ebird_lookup import smart_get_ebird_code, SLUG_TO_CODE_MAPPING
+        
+        # 1. 首先检查直接映射
+        if slug and slug in SLUG_TO_CODE_MAPPING:
+            code = SLUG_TO_CODE_MAPPING[slug]
+            print(f"  ✓ 直接映射: {code}")
+            return code
+        
+        # 2. 使用智能查找
+        code = smart_get_ebird_code(
+            slug=slug,
+            chinese_name="",
+            english_name=english_name,
+            scientific_name=scientific_name
+        )
+        if code:
+            print(f"  ✓ 智能查找: {code}")
+            return code
+            
+    except ImportError:
+        pass  # 如果导入失败，使用原来的方法
+    
+    # 3. 从配置文件加载手动映射
+    manual_mapping = load_ebird_mapping()
+    
+    if english_name in manual_mapping:
+        code = manual_mapping[english_name]
+        print(f"  ✓ 使用手动映射: {code}")
+        return code
+    
+    # 4. 传统方法：直接 API 查询
     ebird_token = os.environ.get('EBIRD_TOKEN')
     
     if not ebird_token:
         return None
     
-    try:
-        enc_sci_name = urllib.parse.quote(scientific_name)
-        url = f"https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=en&species={enc_sci_name}"
-        
-        result = subprocess.run(
-            ['curl', '-s', '-H', f'X-eBirdApiToken: {ebird_token}', url],
-            capture_output=True,
-            text=True,
-            timeout=10
-        )
-        
-        if result.returncode == 0 and result.stdout:
-            data = json.loads(result.stdout)
-            if data and len(data) > 0:
-                return data[0].get('speciesCode')
-    except:
-        pass
+    # 用学名查找
+    if scientific_name:
+        try:
+            enc_sci_name = urllib.parse.quote(scientific_name)
+            url = f"https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=en&species={enc_sci_name}"
+            
+            result = subprocess.run(
+                ['curl', '-s', '-H', f'X-eBirdApiToken: {ebird_token}', url],
+                capture_output=True,
+                text=True,
+                timeout=10
+            )
+            
+            if result.returncode == 0 and result.stdout:
+                data = json.loads(result.stdout)
+                if data and len(data) > 0:
+                    code = data[0].get('speciesCode')
+                    print(f"  ✓ 学名查找: {code}")
+                    return code
+        except:
+            pass
     
     return None
 
@@ -195,7 +250,8 @@ def upload_sound_to_cloudinary(slug: str, sound_path: Path) -> Optional[Dict]:
             public_id=public_id,
             overwrite=True,
             resource_type="video",
-            format=sound_path.suffix[1:]
+            format=sound_path.suffix[1:],
+            timeout=90
         )
         
         sound_info = {
@@ -342,19 +398,10 @@ def download_and_upload_sounds(
         english_name = info.get('english_name', '')
         scientific_name = info.get('scientific_name', '')
         
-        if not scientific_name:
-            print(f"  ⚠️  缺少学名，跳过")
-            failed_birds.append({
-                'slug': slug,
-                'reason': '缺少学名',
-                'chinese_name': chinese_name or english_name
-            })
-            continue
+        print(f"  {chinese_name or english_name or slug}")
         
-        print(f"  {chinese_name or english_name}")
-        
-        # 获取eBird code
-        ebird_code = get_ebird_code(scientific_name, english_name)
+        # 获取eBird code（智能查找，即使缺少学名也能工作）
+        ebird_code = get_ebird_code(scientific_name, english_name, slug=slug)
         if not ebird_code:
             print(f"  ⚠️  无法获取eBird code（可能eBird数据库中无此物种）")
             failed_birds.append({

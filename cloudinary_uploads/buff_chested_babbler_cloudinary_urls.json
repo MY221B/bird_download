@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "buff_chested_babbler",
+    "chinese_name": "黄喉穗鹛",
+    "english_name": "Buff-chested Babbler",
+    "scientific_name": "Cyanoderma ambiguum"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "buff_chested_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741480/bird-gallery/buff_chested_babbler/inaturalist/buff_chested_babbler_1.jpg",
+      "public_id": "bird-gallery/buff_chested_babbler/inaturalist/buff_chested_babbler_1",
+      "width": 1024,
+      "height": 658,
+      "format": "jpg",
+      "bytes": 70872,
+      "attribution": {
+        "photographer": "gaurabtalukdar",
+        "photographer_url": "https://www.inaturalist.org/observations/105351528",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gaurabtalukdar (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105351528,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_chested_babbler_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741481/bird-gallery/buff_chested_babbler/inaturalist/buff_chested_babbler_2.jpg",
+      "public_id": "bird-gallery/buff_chested_babbler/inaturalist/buff_chested_babbler_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 82429,
+      "attribution": {
+        "photographer": "ecarpe",
+        "photographer_url": "https://www.inaturalist.org/observations/167230886",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ecarpe (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 167230886,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_chested_babbler_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741482/bird-gallery/buff_chested_babbler/inaturalist/buff_chested_babbler_3.jpg",
+      "public_id": "bird-gallery/buff_chested_babbler/inaturalist/buff_chested_babbler_3",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 106257,
+      "attribution": {
+        "photographer": "ssansuk",
+        "photographer_url": "https://www.inaturalist.org/observations/214764403",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ssansuk (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 214764403,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "buff_chested_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741484/bird-gallery/buff_chested_babbler/wikimedia/buff_chested_babbler_1.jpg",
+      "public_id": "bird-gallery/buff_chested_babbler/wikimedia/buff_chested_babbler_1",
+      "width": 1224,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 215080,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "buff_chested_babbler_633475456.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763272/bird-gallery/buff_chested_babbler/sounds/buff_chested_babbler_633475456.mp3",
+      "public_id": "bird-gallery/buff_chested_babbler/sounds/buff_chested_babbler_633475456",
+      "duration": 143.88,
+      "format": "mp3",
+      "bytes": 2172188,
+      "bit_rate": 120777,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "633475456",
+        "asset_url": "https://macaulaylibrary.org/asset/633475456",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

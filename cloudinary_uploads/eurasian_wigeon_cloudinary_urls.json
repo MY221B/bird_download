@@ -182,5 +182,27 @@
   "bird_info": {
     "slug": "eurasian_wigeon",
     "chinese_name": "赤颈鸭"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "eurasian_wigeon_416499351.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763067/bird-gallery/eurasian_wigeon/sounds/eurasian_wigeon_416499351.mp3",
+      "public_id": "bird-gallery/eurasian_wigeon/sounds/eurasian_wigeon_416499351",
+      "duration": 56.04,
+      "format": "mp3",
+      "bytes": 1323980,
+      "bit_rate": 189004,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "416499351",
+        "asset_url": "https://macaulaylibrary.org/asset/416499351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

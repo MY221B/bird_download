@@ -60,25 +60,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "dusky_warbler_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761747682/bird-gallery/dusky_warbler/inaturalist/dusky_warbler_1.jpg",
-      "public_id": "bird-gallery/dusky_warbler/inaturalist/dusky_warbler_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 86351,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
       "original_file": "dusky_warbler_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761747683/bird-gallery/dusky_warbler/inaturalist/dusky_warbler_2.jpg",
       "public_id": "bird-gallery/dusky_warbler/inaturalist/dusky_warbler_2",
@@ -123,5 +104,27 @@
   "bird_info": {
     "slug": "dusky_warbler",
     "chinese_name": "褐柳莺"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "dusky_warbler_230966.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763139/bird-gallery/dusky_warbler/sounds/dusky_warbler_230966.mp3",
+      "public_id": "bird-gallery/dusky_warbler/sounds/dusky_warbler_230966",
+      "duration": 187.056,
+      "format": "mp3",
+      "bytes": 4432220,
+      "bit_rate": 189556,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "230966",
+        "asset_url": "https://macaulaylibrary.org/asset/230966",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

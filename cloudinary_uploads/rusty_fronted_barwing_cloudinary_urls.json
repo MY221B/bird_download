@@ -1,0 +1,190 @@
+{
+  "bird_info": {
+    "slug": "rusty_fronted_barwing",
+    "chinese_name": "栗额斑翅鹛",
+    "english_name": "Rusty-fronted Barwing",
+    "scientific_name": "Actinodura egertoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "rusty_fronted_barwing_181126361.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741938/bird-gallery/rusty_fronted_barwing/macaulay/rusty_fronted_barwing_181126361.jpg",
+      "public_id": "bird-gallery/rusty_fronted_barwing/macaulay/rusty_fronted_barwing_181126361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87518,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/181126361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "181126361",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rusty_fronted_barwing_505856391.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741943/bird-gallery/rusty_fronted_barwing/macaulay/rusty_fronted_barwing_505856391.jpg",
+      "public_id": "bird-gallery/rusty_fronted_barwing/macaulay/rusty_fronted_barwing_505856391",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 95555,
+      "attribution": {
+        "photographer": "Rajkumar Das",
+        "photographer_url": "https://macaulaylibrary.org/asset/505856391",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rajkumar Das; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "505856391",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rusty_fronted_barwing_616752416.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741948/bird-gallery/rusty_fronted_barwing/macaulay/rusty_fronted_barwing_616752416.jpg",
+      "public_id": "bird-gallery/rusty_fronted_barwing/macaulay/rusty_fronted_barwing_616752416",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103351,
+      "attribution": {
+        "photographer": "Vikram S",
+        "photographer_url": "https://macaulaylibrary.org/asset/616752416",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vikram S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "616752416",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rusty_fronted_barwing_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741954/bird-gallery/rusty_fronted_barwing/inaturalist/rusty_fronted_barwing_1.jpg",
+      "public_id": "bird-gallery/rusty_fronted_barwing/inaturalist/rusty_fronted_barwing_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 44056,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/199595255",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 199595255,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rusty_fronted_barwing_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741955/bird-gallery/rusty_fronted_barwing/inaturalist/rusty_fronted_barwing_2.jpg",
+      "public_id": "bird-gallery/rusty_fronted_barwing/inaturalist/rusty_fronted_barwing_2",
+      "width": 551,
+      "height": 368,
+      "format": "jpg",
+      "bytes": 48698,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/151197048",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 151197048,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rusty_fronted_barwing_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741956/bird-gallery/rusty_fronted_barwing/inaturalist/rusty_fronted_barwing_3.jpg",
+      "public_id": "bird-gallery/rusty_fronted_barwing/inaturalist/rusty_fronted_barwing_3",
+      "width": 720,
+      "height": 480,
+      "format": "jpg",
+      "bytes": 56867,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/6506152",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 6506152,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53158723447_10c4bf4767_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741959/bird-gallery/rusty_fronted_barwing/avibase/avibase_1_53158723447_10c4bf4767_b.jpg",
+      "public_id": "bird-gallery/rusty_fronted_barwing/avibase/avibase_1_53158723447_10c4bf4767_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 92087,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53158723447",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52901395715_1c986c8cbf_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1769741962/bird-gallery/rusty_fronted_barwing/avibase/avibase_3_52901395715_1c986c8cbf_b.jpg",
+      "public_id": "bird-gallery/rusty_fronted_barwing/avibase/avibase_3_52901395715_1c986c8cbf_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63317,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52901395715",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "rusty_fronted_barwing_203898941.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769743621/bird-gallery/rusty_fronted_barwing/sounds/rusty_fronted_barwing_203898941.mp3",
+      "public_id": "bird-gallery/rusty_fronted_barwing/sounds/rusty_fronted_barwing_203898941",
+      "duration": 15.216,
+      "format": "mp3",
+      "bytes": 357836,
+      "bit_rate": 188136,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203898941",
+        "asset_url": "https://macaulaylibrary.org/asset/203898941",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

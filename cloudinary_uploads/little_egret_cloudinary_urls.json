@@ -80,27 +80,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "little_egret_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761719145/bird-gallery/little_egret/wikimedia/little_egret_1.jpg",
-      "public_id": "bird-gallery/little_egret/wikimedia/little_egret_1",
-      "width": 250,
-      "height": 333,
-      "format": "jpg",
-      "bytes": 8059,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_54737243981_04bb08489d_b.jpg",
@@ -163,5 +143,27 @@
   "bird_info": {
     "slug": "little_egret",
     "chinese_name": "小白鹭"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "little_egret_203905331.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763120/bird-gallery/little_egret/sounds/little_egret_203905331.mp3",
+      "public_id": "bird-gallery/little_egret/sounds/little_egret_203905331",
+      "duration": 50.664,
+      "format": "mp3",
+      "bytes": 818876,
+      "bit_rate": 129303,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203905331",
+        "asset_url": "https://macaulaylibrary.org/asset/203905331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

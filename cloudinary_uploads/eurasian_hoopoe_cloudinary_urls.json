@@ -96,25 +96,6 @@
         "source_id": null,
         "note": "署名信息待补充"
       }
-    },
-    {
-      "original_file": "eurasian_hoopoe_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762312207/bird-gallery/eurasian_hoopoe/inaturalist/eurasian_hoopoe_3.jpg",
-      "public_id": "bird-gallery/eurasian_hoopoe/inaturalist/eurasian_hoopoe_3",
-      "width": 892,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 107667,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
     }
   ],
   "birdphotos": [],
@@ -143,5 +124,27 @@
   "bird_info": {
     "slug": "eurasian_hoopoe",
     "chinese_name": "戴胜"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "eurasian_hoopoe_203693781.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763047/bird-gallery/eurasian_hoopoe/sounds/eurasian_hoopoe_203693781.mp3",
+      "public_id": "bird-gallery/eurasian_hoopoe/sounds/eurasian_hoopoe_203693781",
+      "duration": 44.832,
+      "format": "mp3",
+      "bytes": 604268,
+      "bit_rate": 107827,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203693781",
+        "asset_url": "https://macaulaylibrary.org/asset/203693781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

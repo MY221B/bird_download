@@ -1,6 +1,9 @@
 {
   "bird_info": {
-    "slug": "red_billed_starling"
+    "slug": "red_billed_starling",
+    "chinese_name": "丝光椋鸟",
+    "english_name": "Red-billed Starling",
+    "scientific_name": "Spodiopsar sericeus"
   },
   "macaulay": [
     {
@@ -144,25 +147,6 @@
   ],
   "avibase": [
     {
-      "original_file": "avibase_1_47930055628_b15853c0fb_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762324548/bird-gallery/red_billed_starling/avibase/avibase_1_47930055628_b15853c0fb_b.jpg",
-      "public_id": "bird-gallery/red_billed_starling/avibase/avibase_1_47930055628_b15853c0fb_b",
-      "width": 682,
-      "height": 1023,
-      "format": "jpg",
-      "bytes": 37517,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "47930055628",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
       "original_file": "avibase_2_48883516433_16ce0618bc_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762324550/bird-gallery/red_billed_starling/avibase/avibase_2_48883516433_16ce0618bc_b.jpg",
       "public_id": "bird-gallery/red_billed_starling/avibase/avibase_2_48883516433_16ce0618bc_b",
@@ -198,6 +182,28 @@
         "source": "avibase",
         "source_id": "48884051011",
         "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "red_billed_starling_203907061.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763156/bird-gallery/red_billed_starling/sounds/red_billed_starling_203907061.mp3",
+      "public_id": "bird-gallery/red_billed_starling/sounds/red_billed_starling_203907061",
+      "duration": 19.152,
+      "format": "mp3",
+      "bytes": 302468,
+      "bit_rate": 126344,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203907061",
+        "asset_url": "https://macaulaylibrary.org/asset/203907061",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
       }
     }
   ]

@@ -3,6 +3,10 @@ config/ebird_token.sh
 # 图片文件不上传到 GitHub（太大了）
 images/
 
+# 声音文件不上传到 GitHub
+sounds_download/
+test_sounds/
+
 # Python 缓存
 __pycache__/
 *.pyc

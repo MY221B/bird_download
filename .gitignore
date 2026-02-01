@@ -11,6 +11,7 @@ __pycache__/
 # 临时文件
 tmp/
 *.log
+new_birds_*.csv
 
 # macOS
 .DS_Store

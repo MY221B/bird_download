@@ -1,0 +1,29 @@
+{
+  "_comment": "手动映射：英文名/slug -> eBird species code",
+  "_note": "当自动查询失败时使用这个映射表",
+  "_updated": "2026-01-30",
+  "mappings": {
+    "Japanese Tit": "gretit1",
+    "Grey-capped Woodpecker": "gycwoo1",
+    "Vinous-throated Parrotbill": "vitpar1",
+    "Eurasian Hoopoe": "hoopoe",
+    "Yellow-bellied Tit": "yebtit4",
+    "Chinese Thrush": "chithr2",
+    "Japanese Spotted Woodpecker": "pygwoo1",
+    "Great Tit": "gretit1",
+    "Red-flanked Bluetail": "refblu1",
+    "Eastern Buzzard": "combuz6"
+  },
+  "_instructions": {
+    "如何添加新映射": [
+      "1. 访问 https://ebird.org/species/ 搜索鸟类",
+      "2. 在 URL 中找到 species code",
+      "3. 在 mappings 中添加: \"英文名\": \"species_code\"",
+      "4. 或运行: python3 tools/smart_ebird_lookup.py slug_name"
+    ],
+    "常用搜索": [
+      "python3 tools/smart_ebird_lookup.py eurasian_hoopoe",
+      "python3 tools/find_ebird_code.py \"Hoopoe\""
+    ]
+  }
+}

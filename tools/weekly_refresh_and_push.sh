@@ -28,7 +28,9 @@ fi
 echo "▶️  Running weekly refresh for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh.py --days "${REFRESH_DAYS}"
 
+echo "🔄 更新 location_birds 路径清单 (manifest)..."
 cd "${QUIZ_DIR}"
+node scripts/generate-location-birds-manifest.js
 if [[ -z "$(git status --porcelain)" ]]; then
   echo "✅ feather-flash-quiz has no changes; skipping commit."
   exit 0

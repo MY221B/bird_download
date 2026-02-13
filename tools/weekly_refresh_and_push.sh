@@ -103,12 +103,45 @@ else
   fi
 fi
 
-echo "🚀 Pushing to origin/${current_branch}..."
+echo "🚀 Pushing feather-flash-quiz to origin/${current_branch}..."
 git push --quiet origin "${current_branch}"
-echo "✨ Weekly refresh pushed successfully."
+echo "✨ feather-flash-quiz pushed successfully."
+
+# 🔄 推送主仓库改动
+cd "${REPO_ROOT}"
+echo ""
+echo "📦 检查主仓库改动..."
+if [[ -n "$(git status --porcelain)" ]]; then
+  echo "🗂️  发现主仓库有改动，准备提交和推送..."
+  
+  # 添加所有改动（包括子模块引用更新）
+  git add -A
+  
+  if ! git diff --cached --quiet; then
+    # 统计改动
+    CHANGED_FILES=$(git diff --cached --numstat | wc -l | tr -d ' ')
+    echo "📊 将提交 ${CHANGED_FILES} 个文件的改动"
+    
+    # 提交主仓库改动
+    MAIN_COMMIT_MSG="chore: weekly refresh $(date +%Y-%m-%d) - 更新鸟类数据和子模块引用"
+    echo "📝 提交主仓库: ${MAIN_COMMIT_MSG}"
+    git commit --quiet -m "${MAIN_COMMIT_MSG}"
+    echo "$(git diff HEAD~1 --shortstat)"
+    
+    # 推送到 main 和 develop_lovable
+    echo "🚀 推送主仓库到 main..."
+    git push --quiet origin main
+    echo "🚀 推送主仓库到 develop_lovable..."
+    git push --quiet origin main:develop_lovable
+    echo "✨ 主仓库推送成功（main + develop_lovable）"
+  else
+    echo "✅ 主仓库无新改动需要提交"
+  fi
+else
+  echo "✅ 主仓库工作区干净，无需提交"
+fi
 
 # 🔄 结束后：同步改动到 Lovable
-cd "${REPO_ROOT}"
 echo ""
 echo "🔄 同步改动到 Lovable..."
 if bash "${REPO_ROOT}/tools/sync_to_lovable.sh"; then

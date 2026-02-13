@@ -103,9 +103,11 @@ else
   fi
 fi
 
-echo "🚀 Pushing feather-flash-quiz to origin/${current_branch}..."
-git push --quiet origin "${current_branch}"
-echo "✨ feather-flash-quiz pushed successfully."
+echo "🚀 Pushing feather-flash-quiz to origin/main..."
+git push --quiet origin main
+echo "🚀 Pushing feather-flash-quiz to origin/develop_lovable..."
+git push --quiet origin main:develop_lovable
+echo "✨ feather-flash-quiz pushed successfully (main + develop_lovable)."
 
 # 🔄 推送主仓库改动
 cd "${REPO_ROOT}"
@@ -128,12 +130,10 @@ if [[ -n "$(git status --porcelain)" ]]; then
     git commit --quiet -m "${MAIN_COMMIT_MSG}"
     echo "$(git diff HEAD~1 --shortstat)"
     
-    # 推送到 main 和 develop_lovable
+    # 推送到 main
     echo "🚀 推送主仓库到 main..."
     git push --quiet origin main
-    echo "🚀 推送主仓库到 develop_lovable..."
-    git push --quiet origin main:develop_lovable
-    echo "✨ 主仓库推送成功（main + develop_lovable）"
+    echo "✨ 主仓库推送成功（main）"
   else
     echo "✅ 主仓库无新改动需要提交"
   fi

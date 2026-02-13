@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "asian_palm_swift",
+    "chinese_name": "棕雨燕",
+    "english_name": "Asian Palm Swift",
+    "scientific_name": "Cypsiurus balasiensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "asian_palm_swift_118398551.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953466/bird-gallery/asian_palm_swift/macaulay/asian_palm_swift_118398551.jpg",
+      "public_id": "bird-gallery/asian_palm_swift/macaulay/asian_palm_swift_118398551",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 19484,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/118398551",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "118398551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "asian_palm_swift_596591361.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953476/bird-gallery/asian_palm_swift/macaulay/asian_palm_swift_596591361.jpg",
+      "public_id": "bird-gallery/asian_palm_swift/macaulay/asian_palm_swift_596591361",
+      "width": 1200,
+      "height": 849,
+      "format": "jpg",
+      "bytes": 26078,
+      "attribution": {
+        "photographer": "Ajoy Kumar Dawn",
+        "photographer_url": "https://macaulaylibrary.org/asset/596591361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ajoy Kumar Dawn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "596591361",
+        "note": null
+      }
+    },
+    {
+      "original_file": "asian_palm_swift_88765831.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953484/bird-gallery/asian_palm_swift/macaulay/asian_palm_swift_88765831.jpg",
+      "public_id": "bird-gallery/asian_palm_swift/macaulay/asian_palm_swift_88765831",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 13925,
+      "attribution": {
+        "photographer": "Doug Gochfeld",
+        "photographer_url": "https://macaulaylibrary.org/asset/88765831",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Doug Gochfeld; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "88765831",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "asian_palm_swift_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953494/bird-gallery/asian_palm_swift/inaturalist/asian_palm_swift_3.jpg",
+      "public_id": "bird-gallery/asian_palm_swift/inaturalist/asian_palm_swift_3",
+      "width": 1024,
+      "height": 830,
+      "format": "jpg",
+      "bytes": 46763,
+      "attribution": {
+        "photographer": "hdmiller",
+        "photographer_url": "https://www.inaturalist.org/observations/40346679",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hdmiller (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 40346679,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52652246646_823abcb8e9_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953498/bird-gallery/asian_palm_swift/avibase/avibase_1_52652246646_823abcb8e9_b.jpg",
+      "public_id": "bird-gallery/asian_palm_swift/avibase/avibase_1_52652246646_823abcb8e9_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 20976,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52652246646",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "asian_palm_swift_491383121.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770954332/bird-gallery/asian_palm_swift/sounds/asian_palm_swift_491383121.mp3",
+      "public_id": "bird-gallery/asian_palm_swift/sounds/asian_palm_swift_491383121",
+      "duration": 51.624,
+      "format": "mp3",
+      "bytes": 732524,
+      "bit_rate": 113516,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "491383121",
+        "asset_url": "https://macaulaylibrary.org/asset/491383121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

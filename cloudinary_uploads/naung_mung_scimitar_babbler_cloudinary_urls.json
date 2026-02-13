@@ -1,0 +1,74 @@
+{
+  "bird_info": {
+    "slug": "naung_mung_scimitar_babbler",
+    "chinese_name": "瑙蒙短尾鹛",
+    "english_name": "Naung Mung Scimitar Babbler",
+    "scientific_name": "Napothera naungmungensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "naung_mung_scimitar_babbler_625391357.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374242/bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_625391357.jpg",
+      "public_id": "bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_625391357",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 46822,
+      "attribution": {
+        "photographer": "越 黎",
+        "photographer_url": "https://macaulaylibrary.org/asset/625391357",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by 越 黎; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625391357",
+        "note": null
+      }
+    },
+    {
+      "original_file": "naung_mung_scimitar_babbler_630577141.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374247/bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_630577141.jpg",
+      "public_id": "bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_630577141",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 60957,
+      "attribution": {
+        "photographer": "Fishing Cat",
+        "photographer_url": "https://macaulaylibrary.org/asset/630577141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Fishing Cat; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "630577141",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "naung_mung_scimitar_babbler_630577127.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374877/bird-gallery/naung_mung_scimitar_babbler/sounds/naung_mung_scimitar_babbler_630577127.mp3",
+      "public_id": "bird-gallery/naung_mung_scimitar_babbler/sounds/naung_mung_scimitar_babbler_630577127",
+      "duration": 26.88,
+      "format": "mp3",
+      "bytes": 654404,
+      "bit_rate": 194763,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "630577127",
+        "asset_url": "https://macaulaylibrary.org/asset/630577127",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

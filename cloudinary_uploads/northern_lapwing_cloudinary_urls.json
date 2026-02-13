@@ -1,0 +1,153 @@
+{
+  "bird_info": {
+    "slug": "northern_lapwing",
+    "chinese_name": "凤头麦鸡",
+    "english_name": "Northern Lapwing",
+    "scientific_name": "Vanellus vanellus"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_lapwing_23897261.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951260/bird-gallery/northern_lapwing/macaulay/northern_lapwing_23897261.jpg",
+      "public_id": "bird-gallery/northern_lapwing/macaulay/northern_lapwing_23897261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71683,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/23897261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "23897261",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_lapwing_262646441.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951265/bird-gallery/northern_lapwing/macaulay/northern_lapwing_262646441.jpg",
+      "public_id": "bird-gallery/northern_lapwing/macaulay/northern_lapwing_262646441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90783,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/262646441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "262646441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_lapwing_649684181.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951271/bird-gallery/northern_lapwing/macaulay/northern_lapwing_649684181.jpg",
+      "public_id": "bird-gallery/northern_lapwing/macaulay/northern_lapwing_649684181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65481,
+      "attribution": {
+        "photographer": "Sylvain Reyt",
+        "photographer_url": "https://macaulaylibrary.org/asset/649684181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sylvain Reyt; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "649684181",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_lapwing_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951279/bird-gallery/northern_lapwing/inaturalist/northern_lapwing_3.jpg",
+      "public_id": "bird-gallery/northern_lapwing/inaturalist/northern_lapwing_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75348,
+      "attribution": {
+        "photographer": "javguigon",
+        "photographer_url": "https://www.inaturalist.org/observations/139488148",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© javguigon (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 139488148,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "northern_lapwing_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951281/bird-gallery/northern_lapwing/wikimedia/northern_lapwing_1.jpg",
+      "public_id": "bird-gallery/northern_lapwing/wikimedia/northern_lapwing_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 133321,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_52215576445_06e9292271_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951285/bird-gallery/northern_lapwing/avibase/avibase_3_52215576445_06e9292271_b.jpg",
+      "public_id": "bird-gallery/northern_lapwing/avibase/avibase_3_52215576445_06e9292271_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 86522,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52215576445",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "northern_lapwing_246408711.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770951618/bird-gallery/northern_lapwing/sounds/northern_lapwing_246408711.mp3",
+      "public_id": "bird-gallery/northern_lapwing/sounds/northern_lapwing_246408711",
+      "duration": 47.136,
+      "format": "mp3",
+      "bytes": 651164,
+      "bit_rate": 110516,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "246408711",
+        "asset_url": "https://macaulaylibrary.org/asset/246408711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

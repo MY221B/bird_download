@@ -1,767 +1,176 @@
 {
-  "count": 254,
+  "count": 57,
   "items": [
     {
-      "public_id": "bird-gallery/crested_serpent_eagle/wikimedia/crested_serpent_eagle_1"
+      "public_id": "bird-gallery/ashy_throated_warbler/inaturalist/ashy_throated_warbler_3"
     },
     {
-      "public_id": "bird-gallery/whiskered_yuhina/avibase/avibase_3_51136058820_be909fabf7_b"
+      "public_id": "bird-gallery/ashy_throated_warbler/wikimedia/ashy_throated_warbler_1"
     },
     {
-      "public_id": "bird-gallery/whiskered_yuhina/wikimedia/whiskered_yuhina_1"
+      "public_id": "bird-gallery/slaty_backed_flycatcher/inaturalist/slaty_backed_flycatcher_3"
     },
     {
-      "public_id": "bird-gallery/whiskered_yuhina/inaturalist/whiskered_yuhina_3"
+      "public_id": "bird-gallery/asian_palm_swift/inaturalist/asian_palm_swift_1"
     },
     {
-      "public_id": "bird-gallery/chinese_thrush/inaturalist/chinese_thrush_1"
+      "public_id": "bird-gallery/asian_palm_swift/inaturalist/asian_palm_swift_2"
     },
     {
-      "public_id": "bird-gallery/chinese_thrush/wikimedia/chinese_thrush_1"
+      "public_id": "bird-gallery/asian_palm_swift/wikimedia/asian_palm_swift_1"
     },
     {
-      "public_id": "bird-gallery/great_indian_hornbill/wikimedia/great_indian_hornbill_1"
+      "public_id": "bird-gallery/asian_palm_swift/avibase/avibase_2_52585131651_8ef0bf078f_b"
     },
     {
-      "public_id": "bird-gallery/great_indian_hornbill/avibase/avibase_3_49563019358_f6a7093ab0_b"
+      "public_id": "bird-gallery/asian_palm_swift/avibase/avibase_3_51264249390_229bfe353c_b"
     },
     {
-      "public_id": "bird-gallery/jerdons_baza/avibase/avibase_3_15822906460_ec1691e112_b"
+      "public_id": "bird-gallery/chestnut_bunting/inaturalist/chestnut_bunting_3"
     },
     {
-      "public_id": "bird-gallery/great_slaty_woodpecker/wikimedia/great_slaty_woodpecker_1"
+      "public_id": "bird-gallery/chestnut_bunting/wikimedia/chestnut_bunting_1"
     },
     {
-      "public_id": "bird-gallery/mountain_bamboo_partridge/avibase/avibase_2_15862958813_b7945b411d_b"
+      "public_id": "bird-gallery/indian_cuckoo/inaturalist/indian_cuckoo_2"
     },
     {
-      "public_id": "bird-gallery/orange_bellied_leafbird/inaturalist/orange_bellied_leafbird_3"
+      "public_id": "bird-gallery/indian_cuckoo/inaturalist/indian_cuckoo_3"
     },
     {
-      "public_id": "bird-gallery/orange_bellied_leafbird/wikimedia/orange_bellied_leafbird_1"
+      "public_id": "bird-gallery/indian_cuckoo/wikimedia/indian_cuckoo_1"
     },
     {
-      "public_id": "bird-gallery/eurasian_hoopoe/inaturalist/eurasian_hoopoe_3"
+      "public_id": "bird-gallery/spectacled_fulvetta/inaturalist/spectacled_fulvetta_1"
     },
     {
-      "public_id": "bird-gallery/long_tailed_broadbill/wikimedia/long_tailed_broadbill_1"
+      "public_id": "bird-gallery/sulphur_breasted_warbler/inaturalist/sulphur_breasted_warbler_2"
     },
     {
-      "public_id": "bird-gallery/pied_bushchat/inaturalist/pied_bushchat_3"
+      "public_id": "bird-gallery/fork_tailed_swift/inaturalist/fork_tailed_swift_1"
     },
     {
-      "public_id": "bird-gallery/blue_winged_leafbird/inaturalist/blue_winged_leafbird_1"
+      "public_id": "bird-gallery/fork_tailed_swift/inaturalist/fork_tailed_swift_2"
     },
     {
-      "public_id": "bird-gallery/blue_winged_leafbird/wikimedia/blue_winged_leafbird_1"
+      "public_id": "bird-gallery/fork_tailed_swift/inaturalist/fork_tailed_swift_3"
     },
     {
-      "public_id": "bird-gallery/buff_barred_warbler/inaturalist/buff_barred_warbler_3"
+      "public_id": "bird-gallery/large_billed_leaf_warbler/inaturalist/large_billed_leaf_warbler_3"
     },
     {
-      "public_id": "bird-gallery/buff_barred_warbler/inaturalist/buff_barred_warbler_2"
+      "public_id": "bird-gallery/lesser_racket_tailed_drongo/inaturalist/lesser_racket_tailed_drongo_1"
     },
     {
-      "public_id": "bird-gallery/grey_breasted_prinia/wikimedia/grey_breasted_prinia_1"
+      "public_id": "bird-gallery/lesser_racket_tailed_drongo/inaturalist/lesser_racket_tailed_drongo_2"
     },
     {
-      "public_id": "bird-gallery/yellow_bellied_fantail/inaturalist/yellow_bellied_fantail_3"
+      "public_id": "bird-gallery/lesser_racket_tailed_drongo/wikimedia/lesser_racket_tailed_drongo_1"
     },
     {
-      "public_id": "bird-gallery/yellow_bellied_fantail/wikimedia/yellow_bellied_fantail_1"
+      "public_id": "bird-gallery/oriental_dollarbird/wikimedia/oriental_dollarbird_1"
     },
     {
-      "public_id": "bird-gallery/yellow_bellied_fantail/avibase/avibase_3_40246939814_6209920daa_b"
+      "public_id": "bird-gallery/black_naped_oriole/wikimedia/black_naped_oriole_1"
     },
     {
-      "public_id": "bird-gallery/bronzed_drongo/inaturalist/bronzed_drongo_1"
+      "public_id": "bird-gallery/black_naped_oriole/avibase/avibase_2_50644171976_64d946c77a_b"
     },
     {
-      "public_id": "bird-gallery/bronzed_drongo/wikimedia/bronzed_drongo_1"
+      "public_id": "bird-gallery/burmese_shrike/inaturalist/burmese_shrike_2"
     },
     {
-      "public_id": "bird-gallery/rufous_gorgeted_flycatcher/avibase/avibase_1_51222308621_5a9ce8fcb7_b"
+      "public_id": "bird-gallery/burmese_shrike/avibase/avibase_1_38003925154_40881fb2a3_b"
     },
     {
-      "public_id": "bird-gallery/dusky_warbler/inaturalist/dusky_warbler_1"
+      "public_id": "bird-gallery/manipur_fulvetta/wikimedia/manipur_fulvetta_1"
     },
     {
-      "public_id": "bird-gallery/kalij_pheasant/inaturalist/kalij_pheasant_1"
+      "public_id": "bird-gallery/thick_billed_green_pigeon/inaturalist/thick_billed_green_pigeon_1"
     },
     {
-      "public_id": "bird-gallery/kalij_pheasant/avibase/avibase_2_52136165061_1dedbb8bc3_b"
+      "public_id": "bird-gallery/thick_billed_green_pigeon/inaturalist/thick_billed_green_pigeon_2"
     },
     {
-      "public_id": "bird-gallery/bay_woodpecker/avibase/avibase_2_48370756042_4bd42c0104_b"
+      "public_id": "bird-gallery/thick_billed_green_pigeon/wikimedia/thick_billed_green_pigeon_1"
     },
     {
-      "public_id": "bird-gallery/bay_woodpecker/inaturalist/bay_woodpecker_3"
+      "public_id": "bird-gallery/chestnut_thrush/inaturalist/chestnut_thrush_2"
     },
     {
-      "public_id": "bird-gallery/speckled_wood_pigeon/wikimedia/speckled_wood_pigeon_1"
+      "public_id": "bird-gallery/chestnut_thrush/wikimedia/chestnut_thrush_1"
     },
     {
-      "public_id": "bird-gallery/speckled_wood_pigeon/avibase/avibase_1_45529486801_659f8a55a7_b"
+      "public_id": "bird-gallery/dark_sided_thrush/inaturalist/dark_sided_thrush_2"
     },
     {
-      "public_id": "bird-gallery/speckled_wood_pigeon/avibase/avibase_3_8616472389_959b300c2e_b"
+      "public_id": "bird-gallery/dark_sided_thrush/avibase/avibase_3_16874387961_276b88298d_b"
     },
     {
-      "public_id": "bird-gallery/lesser_yellow_naped_woodpecker/inaturalist/lesser_yellow_naped_woodpecker_2"
+      "public_id": "bird-gallery/shikra/inaturalist/shikra_1"
     },
     {
-      "public_id": "bird-gallery/collared_falconet/wikimedia/collared_falconet_1"
+      "public_id": "bird-gallery/shikra/avibase/avibase_2_53129712370_29fb01d52e_b"
     },
     {
-      "public_id": "bird-gallery/brown_cheeked_fulvetta/inaturalist/brown_cheeked_fulvetta_1"
+      "public_id": "bird-gallery/common_hill_partridge/avibase/avibase_1_40147593513_7519bf2da2_b"
     },
     {
-      "public_id": "bird-gallery/brown_cheeked_fulvetta/avibase/avibase_3_23873539149_b663357b35_b"
+      "public_id": "bird-gallery/spot_throated_babbler/wikimedia/spot_throated_babbler_1"
     },
     {
-      "public_id": "bird-gallery/rufous_bellied_niltava/inaturalist/rufous_bellied_niltava_2"
+      "public_id": "bird-gallery/spot_throated_babbler/avibase/avibase_2_39236554804_74d36bb124_b"
     },
     {
-      "public_id": "bird-gallery/rufous_bellied_niltava/wikimedia/rufous_bellied_niltava_1"
+      "public_id": "bird-gallery/pallass_gull/macaulay/pallass_gull_367008061"
     },
     {
-      "public_id": "bird-gallery/rusty_capped_fulvetta/inaturalist/rusty_capped_fulvetta_2"
+      "public_id": "bird-gallery/pallass_gull/inaturalist/pallass_gull_3"
     },
     {
-      "public_id": "bird-gallery/cattle_egret/inaturalist/cattle_egret_3"
+      "public_id": "bird-gallery/pallass_gull/wikimedia/pallass_gull_1"
     },
     {
-      "public_id": "bird-gallery/little_egret/wikimedia/little_egret_1"
+      "public_id": "bird-gallery/chestnut_crowned_warbler/inaturalist/chestnut_crowned_warbler_2"
     },
     {
-      "public_id": "bird-gallery/blue_bearded_bee_eater/avibase/avibase_2_51774397115_f05b2d8f7c_b"
+      "public_id": "bird-gallery/chestnut_crowned_warbler/wikimedia/chestnut_crowned_warbler_1"
     },
     {
-      "public_id": "bird-gallery/blue_bearded_bee_eater/avibase/avibase_1_51062558686_3dddb9d4d3_b"
+      "public_id": "bird-gallery/nepal_house_martin/inaturalist/nepal_house_martin_1"
     },
     {
-      "public_id": "bird-gallery/blue_bearded_bee_eater/avibase/avibase_3_51774397355_49bcd97a4e_b"
+      "public_id": "bird-gallery/nepal_house_martin/inaturalist/nepal_house_martin_2"
     },
     {
-      "public_id": "bird-gallery/rufous_bellied_hawk_eagle/avibase/avibase_3_6059328690_19e17d3edf_b"
+      "public_id": "bird-gallery/nepal_house_martin/inaturalist/nepal_house_martin_3"
     },
     {
-      "public_id": "bird-gallery/grey_winged_blackbird/wikimedia/grey_winged_blackbird_1"
+      "public_id": "bird-gallery/nepal_house_martin/wikimedia/nepal_house_martin_1"
     },
     {
-      "public_id": "bird-gallery/grey_winged_blackbird/avibase/avibase_3_51264484799_2680d6e96c_b"
+      "public_id": "bird-gallery/nepal_house_martin/avibase/avibase_1_25381809309_b7667bc98c_b"
     },
     {
-      "public_id": "bird-gallery/bar_tailed_cuckoo_dove/avibase/avibase_3_28815562141_ca09ab10d2_b"
+      "public_id": "bird-gallery/nepal_house_martin/avibase/avibase_2_52466432752_b542b1c3a5_b"
     },
     {
-      "public_id": "bird-gallery/bar_tailed_cuckoo_dove/inaturalist/bar_tailed_cuckoo_dove_1"
+      "public_id": "bird-gallery/nepal_house_martin/avibase/avibase_3_53520530280_8ebfe72ac0_b"
     },
     {
-      "public_id": "bird-gallery/maroon_oriole/inaturalist/maroon_oriole_3"
+      "public_id": "bird-gallery/oriental_bay_owl/avibase/avibase_2_51234484801_0781eabfc1_b"
     },
     {
-      "public_id": "bird-gallery/maroon_oriole/avibase/avibase_2_52086120242_bd6a06b019_b"
+      "public_id": "bird-gallery/pale_headed_woodpecker/macaulay/pale_headed_woodpecker_396038291"
     },
     {
-      "public_id": "bird-gallery/collared_treepie/wikimedia/collared_treepie_1"
+      "public_id": "bird-gallery/pale_headed_woodpecker/inaturalist/pale_headed_woodpecker_1"
     },
     {
-      "public_id": "bird-gallery/white_browed_scimitar_babbler/inaturalist/white_browed_scimitar_babbler_2"
+      "public_id": "bird-gallery/pale_headed_woodpecker/inaturalist/pale_headed_woodpecker_2"
     },
     {
-      "public_id": "bird-gallery/grey_eyed_bulbul/inaturalist/grey_eyed_bulbul_2"
-    },
-    {
-      "public_id": "bird-gallery/grey_eyed_bulbul/inaturalist/grey_eyed_bulbul_3"
-    },
-    {
-      "public_id": "bird-gallery/gadwall/inaturalist/gadwall_3"
-    },
-    {
-      "public_id": "bird-gallery/gadwall/avibase/avibase_3_49191850566_209b6b71dd_b"
-    },
-    {
-      "public_id": "bird-gallery/common_hill_myna/inaturalist/common_hill_myna_3"
-    },
-    {
-      "public_id": "bird-gallery/hair_crested_drongo/avibase/avibase_1_52140007364_b4d1fa0b12_b"
-    },
-    {
-      "public_id": "bird-gallery/hair_crested_drongo/avibase/avibase_3_54247233317_8d836d9fe9_b"
-    },
-    {
-      "public_id": "bird-gallery/hair_crested_drongo/avibase/avibase_2_53525205916_a5b8341d00_b"
-    },
-    {
-      "public_id": "bird-gallery/hair_crested_drongo/inaturalist/hair_crested_drongo_2"
-    },
-    {
-      "public_id": "bird-gallery/grey_bushchat/wikimedia/grey_bushchat_1"
-    },
-    {
-      "public_id": "bird-gallery/greater_necklaced_laughingthrush/inaturalist/greater_necklaced_laughingthrush_3"
-    },
-    {
-      "public_id": "bird-gallery/greater_necklaced_laughingthrush/avibase/avibase_2_3073620739_2facafc0f6_b"
-    },
-    {
-      "public_id": "bird-gallery/slaty_blue_flycatcher/avibase/avibase_3_14808551435_c96bd04edf_b"
-    },
-    {
-      "public_id": "bird-gallery/short_billed_minivet/wikimedia/short_billed_minivet_1"
-    },
-    {
-      "public_id": "bird-gallery/greater_racket_tailed_drongo/inaturalist/greater_racket_tailed_drongo_1"
-    },
-    {
-      "public_id": "bird-gallery/greater_racket_tailed_drongo/avibase/avibase_1_53668419599_5495e35ab8_b"
-    },
-    {
-      "public_id": "bird-gallery/grey_sibia/wikimedia/grey_sibia_1"
-    },
-    {
-      "public_id": "bird-gallery/grey_sibia/inaturalist/grey_sibia_3"
-    },
-    {
-      "public_id": "bird-gallery/velvet_fronted_nuthatch/avibase/avibase_3_54983614489_2cdd387faa_b"
-    },
-    {
-      "public_id": "bird-gallery/daurian_jackdaw/wikimedia/daurian_jackdaw_1"
-    },
-    {
-      "public_id": "bird-gallery/white_throated_fantail/wikimedia/white_throated_fantail_1"
-    },
-    {
-      "public_id": "bird-gallery/white_throated_fantail/avibase/avibase_1_53443992964_40754f4455_b"
-    },
-    {
-      "public_id": "bird-gallery/white_hooded_babbler/wikimedia/white_hooded_babbler_1"
-    },
-    {
-      "public_id": "bird-gallery/wedge_tailed_green_pigeon/inaturalist/wedge_tailed_green_pigeon_2"
-    },
-    {
-      "public_id": "bird-gallery/wedge_tailed_green_pigeon/avibase/avibase_3_52477967256_0ebac7130f_b"
-    },
-    {
-      "public_id": "bird-gallery/rufous_backed_sibia/wikimedia/rufous_backed_sibia_1"
-    },
-    {
-      "public_id": "bird-gallery/oriental_darter/wikimedia/oriental_darter_1"
-    },
-    {
-      "public_id": "bird-gallery/oriental_darter/avibase/avibase_1_46933695554_978f1dc935_b"
-    },
-    {
-      "public_id": "bird-gallery/ashy_bulbul/avibase/avibase_3_457623968_5e7d9d2c92_b"
-    },
-    {
-      "public_id": "bird-gallery/yellow_bellied_warbler/inaturalist/yellow_bellied_warbler_3"
-    },
-    {
-      "public_id": "bird-gallery/yellow_bellied_warbler/wikimedia/yellow_bellied_warbler_1"
-    },
-    {
-      "public_id": "bird-gallery/white_browed_piculet/wikimedia/white_browed_piculet_1"
-    },
-    {
-      "public_id": "bird-gallery/large_scimitar_babbler/wikimedia/large_scimitar_babbler_1"
-    },
-    {
-      "public_id": "bird-gallery/snowy_browed_flycatcher/avibase/avibase_1_29318011745_5c7a0a2c41_b"
-    },
-    {
-      "public_id": "bird-gallery/long_tailed_sibia/inaturalist/long_tailed_sibia_3"
-    },
-    {
-      "public_id": "bird-gallery/long_tailed_sibia/wikimedia/long_tailed_sibia_1"
-    },
-    {
-      "public_id": "bird-gallery/red_junglefowl/inaturalist/red_junglefowl_1"
-    },
-    {
-      "public_id": "bird-gallery/red_junglefowl/wikimedia/red_junglefowl_1"
-    },
-    {
-      "public_id": "bird-gallery/red_junglefowl/avibase/avibase_2_53591288466_c1ddaef669_b"
-    },
-    {
-      "public_id": "bird-gallery/red_junglefowl/avibase/avibase_1_52531004345_c8097640b4_b"
-    },
-    {
-      "public_id": "bird-gallery/flavescent_bulbul/avibase/avibase_1_8616467085_22e1b60214_b"
-    },
-    {
-      "public_id": "bird-gallery/flavescent_bulbul/avibase/avibase_3_6891754078_9ffb460005_b"
-    },
-    {
-      "public_id": "bird-gallery/flavescent_bulbul/inaturalist/flavescent_bulbul_2"
-    },
-    {
-      "public_id": "bird-gallery/asian_fairy_bluebird/avibase/avibase_3_51280703127_97560ee730_b"
-    },
-    {
-      "public_id": "bird-gallery/black_hooded_oriole/inaturalist/black_hooded_oriole_3"
-    },
-    {
-      "public_id": "bird-gallery/black_hooded_oriole/wikimedia/black_hooded_oriole_1"
-    },
-    {
-      "public_id": "bird-gallery/grey_backed_shrike/wikimedia/grey_backed_shrike_1"
-    },
-    {
-      "public_id": "bird-gallery/grey_backed_shrike/inaturalist/grey_backed_shrike_1"
-    },
-    {
-      "public_id": "bird-gallery/grey_backed_shrike/macaulay/grey_backed_shrike_208929001"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_buzzard/inaturalist/himalayan_buzzard_1"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_buzzard/inaturalist/himalayan_buzzard_2"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_buzzard/inaturalist/himalayan_buzzard_3"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_buzzard/wikimedia/himalayan_buzzard_1"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_buzzard/avibase/avibase_2_36115280482_f74593479d_b"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_buzzard/avibase/avibase_1_49954231287_385766553a_b"
-    },
-    {
-      "public_id": "bird-gallery/imperial_pigeon/avibase/avibase_1_49487016076_b4b165a73d_b"
-    },
-    {
-      "public_id": "bird-gallery/blue_naped_pitta/inaturalist/blue_naped_pitta_3"
-    },
-    {
-      "public_id": "bird-gallery/blue_naped_pitta/avibase/avibase_1_54634653608_bb11b001c6_b"
-    },
-    {
-      "public_id": "bird-gallery/black_kite/avibase/avibase_1_54554036059_b8e912dafa_b"
-    },
-    {
-      "public_id": "bird-gallery/white_tailed_robin/inaturalist/white_tailed_robin_1"
-    },
-    {
-      "public_id": "bird-gallery/white_tailed_robin/avibase/avibase_2_44761501230_68e3b62af4_b"
-    },
-    {
-      "public_id": "bird-gallery/red_billed_starling/avibase/avibase_1_47930055628_b15853c0fb_b"
-    },
-    {
-      "public_id": "bird-gallery/streaked_spiderhunter/inaturalist/streaked_spiderhunter_2"
-    },
-    {
-      "public_id": "bird-gallery/streaked_spiderhunter/inaturalist/streaked_spiderhunter_3"
-    },
-    {
-      "public_id": "bird-gallery/streaked_spiderhunter/wikimedia/streaked_spiderhunter_1"
-    },
-    {
-      "public_id": "bird-gallery/blue_rock_thrush/inaturalist/blue_rock_thrush_1"
-    },
-    {
-      "public_id": "bird-gallery/blue_rock_thrush/wikimedia/blue_rock_thrush_1"
-    },
-    {
-      "public_id": "bird-gallery/blue_eared_barbet/inaturalist/blue_eared_barbet_3"
-    },
-    {
-      "public_id": "bird-gallery/mountain_scops_owl/avibase/avibase_1_16252839167_a52c8ed568_b"
-    },
-    {
-      "public_id": "bird-gallery/white_throated_bulbul/avibase/avibase_3_31117072883_008232e1cd_b"
-    },
-    {
-      "public_id": "bird-gallery/white_throated_bulbul/wikimedia/white_throated_bulbul_1"
-    },
-    {
-      "public_id": "bird-gallery/black_drongo/inaturalist/black_drongo_2"
-    },
-    {
-      "public_id": "bird-gallery/spot_breasted_laughingthrush/inaturalist/spot_breasted_laughingthrush_3"
-    },
-    {
-      "public_id": "bird-gallery/spot_breasted_laughingthrush/wikimedia/spot_breasted_laughingthrush_1"
-    },
-    {
-      "public_id": "bird-gallery/spot_breasted_laughingthrush/avibase/avibase_3_8627823965_8fe750ca29_b"
-    },
-    {
-      "public_id": "bird-gallery/fujian_niltava/avibase/avibase_2_49397261972_874f3110d0_b"
-    },
-    {
-      "public_id": "bird-gallery/common_green_magpie/inaturalist/common_green_magpie_3"
-    },
-    {
-      "public_id": "bird-gallery/eastern_buzzard/inaturalist/eastern_buzzard_1"
-    },
-    {
-      "public_id": "bird-gallery/eastern_buzzard/wikimedia/eastern_buzzard_1"
-    },
-    {
-      "public_id": "bird-gallery/emerald_dove/inaturalist/emerald_dove_2"
-    },
-    {
-      "public_id": "bird-gallery/puff_throated_bulbul/inaturalist/puff_throated_bulbul_3"
-    },
-    {
-      "public_id": "bird-gallery/puff_throated_bulbul/avibase/avibase_2_8608635250_402a12e7f2_b"
-    },
-    {
-      "public_id": "bird-gallery/chestnut_bellied_rock_thrush/inaturalist/chestnut_bellied_rock_thrush_1"
-    },
-    {
-      "public_id": "bird-gallery/chestnut_bellied_rock_thrush/inaturalist/chestnut_bellied_rock_thrush_2"
-    },
-    {
-      "public_id": "bird-gallery/chestnut_bellied_rock_thrush/wikimedia/chestnut_bellied_rock_thrush_1"
-    },
-    {
-      "public_id": "bird-gallery/chestnut_bellied_rock_thrush/avibase/avibase_3_54193232610_7ec97d3fe3_b"
-    },
-    {
-      "public_id": "bird-gallery/pale_blue_flycatcher/inaturalist/pale_blue_flycatcher_2"
-    },
-    {
-      "public_id": "bird-gallery/pale_blue_flycatcher/avibase/avibase_1_43363791350_2395423491_b"
-    },
-    {
-      "public_id": "bird-gallery/pale_blue_flycatcher/avibase/avibase_2_30237857658_76917f0906_b"
-    },
-    {
-      "public_id": "bird-gallery/golden_babbler/inaturalist/golden_babbler_1"
-    },
-    {
-      "public_id": "bird-gallery/golden_babbler/wikimedia/golden_babbler_1"
-    },
-    {
-      "public_id": "bird-gallery/golden_babbler/avibase/avibase_2_54889135507_c69988f356_b"
-    },
-    {
-      "public_id": "bird-gallery/greater_yellow_naped_woodpecker/avibase/avibase_1_33605608011_5eab7c6420_b"
-    },
-    {
-      "public_id": "bird-gallery/greater_yellow_naped_woodpecker/avibase/avibase_3_23737288618_ba53963e54_b"
-    },
-    {
-      "public_id": "bird-gallery/rufous_headed_parrotbill/macaulay/rufous_headed_parrotbill_365370941"
-    },
-    {
-      "public_id": "bird-gallery/rufous_headed_parrotbill/inaturalist/rufous_headed_parrotbill_1"
-    },
-    {
-      "public_id": "bird-gallery/rufous_headed_parrotbill/avibase/avibase_2_25838066497_aedba33f37_b"
-    },
-    {
-      "public_id": "bird-gallery/black_bulbul/inaturalist/black_bulbul_1"
-    },
-    {
-      "public_id": "bird-gallery/black_bulbul/inaturalist/black_bulbul_3"
-    },
-    {
-      "public_id": "bird-gallery/white_tailed_flycatcher/inaturalist/white_tailed_flycatcher_1"
-    },
-    {
-      "public_id": "bird-gallery/large_woodshrike/inaturalist/large_woodshrike_1"
-    },
-    {
-      "public_id": "bird-gallery/large_woodshrike/avibase/avibase_3_52087663860_dd55e01257_b"
-    },
-    {
-      "public_id": "bird-gallery/crested_finchbill/wikimedia/crested_finchbill_1"
-    },
-    {
-      "public_id": "bird-gallery/pin_tailed_green_pigeon/inaturalist/pin_tailed_green_pigeon_1"
-    },
-    {
-      "public_id": "bird-gallery/pin_tailed_green_pigeon/inaturalist/pin_tailed_green_pigeon_3"
-    },
-    {
-      "public_id": "bird-gallery/slender_billed_oriole/inaturalist/slender_billed_oriole_2"
-    },
-    {
-      "public_id": "bird-gallery/slender_billed_oriole/wikimedia/slender_billed_oriole_1"
-    },
-    {
-      "public_id": "bird-gallery/sapphire_flycatcher/inaturalist/sapphire_flycatcher_2"
-    },
-    {
-      "public_id": "bird-gallery/silver_eared_mesia/avibase/avibase_1_48199747061_240c54cafe_b"
-    },
-    {
-      "public_id": "bird-gallery/silver_eared_mesia/avibase/avibase_2_48631103731_c6b6e09112_b"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_shortwing/inaturalist/himalayan_shortwing_3"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_shortwing/avibase/avibase_1_28814759721_8b371788df_b"
-    },
-    {
-      "public_id": "bird-gallery/himalayan_shortwing/avibase/avibase_2_28274744443_d14220bc30_b"
-    },
-    {
-      "public_id": "bird-gallery/black_backed_forktail/inaturalist/black_backed_forktail_3"
-    },
-    {
-      "public_id": "bird-gallery/rusty_fronted_barwing/wikimedia/rusty_fronted_barwing_1"
-    },
-    {
-      "public_id": "bird-gallery/rusty_fronted_barwing/avibase/avibase_2_54653888773_e6f4be483a_b"
-    },
-    {
-      "public_id": "bird-gallery/lesser_necklaced_laughingthrush/inaturalist/lesser_necklaced_laughingthrush_1"
-    },
-    {
-      "public_id": "bird-gallery/oriental_hobby/avibase/avibase_1_5846838886_be3a7acdac_b"
-    },
-    {
-      "public_id": "bird-gallery/oriental_hobby/wikimedia/oriental_hobby_1"
-    },
-    {
-      "public_id": "bird-gallery/striated_swallow/wikimedia/striated_swallow_1"
-    },
-    {
-      "public_id": "bird-gallery/pin_striped_tit_babbler/inaturalist/pin_striped_tit_babbler_2"
-    },
-    {
-      "public_id": "bird-gallery/yunnan_fulvetta/inaturalist/yunnan_fulvetta_1"
-    },
-    {
-      "public_id": "bird-gallery/long_tailed_minivet/wikimedia/long_tailed_minivet_1"
-    },
-    {
-      "public_id": "bird-gallery/hill_blue_flycatcher/inaturalist/hill_blue_flycatcher_2"
-    },
-    {
-      "public_id": "bird-gallery/woolly_necked_stork/avibase/avibase_2_51787880645_c0779dc722_b"
-    },
-    {
-      "public_id": "bird-gallery/woolly_necked_stork/avibase/avibase_3_50317112142_c9d9ee3282_b"
-    },
-    {
-      "public_id": "bird-gallery/banded_bay_cuckoo/avibase/avibase_3_16415638112_59f3cd9396_b"
-    },
-    {
-      "public_id": "bird-gallery/white_rumped_shama/inaturalist/white_rumped_shama_3"
-    },
-    {
-      "public_id": "bird-gallery/white_rumped_shama/wikimedia/white_rumped_shama_1"
-    },
-    {
-      "public_id": "bird-gallery/grey_sided_laughingthrush/inaturalist/grey_sided_laughingthrush_3"
-    },
-    {
-      "public_id": "bird-gallery/grey_sided_laughingthrush/avibase/avibase_2_51252778611_99508c94b7_b"
-    },
-    {
-      "public_id": "bird-gallery/buff_breasted_babbler/inaturalist/buff_breasted_babbler_2"
-    },
-    {
-      "public_id": "bird-gallery/little_pied_flycatcher/avibase/avibase_1_53863755242_31b187df54_b"
-    },
-    {
-      "public_id": "bird-gallery/little_pied_flycatcher/avibase/avibase_3_53086702203_4c783d27d6_b"
-    },
-    {
-      "public_id": "bird-gallery/brown_boobook/inaturalist/brown_boobook_2"
-    },
-    {
-      "public_id": "bird-gallery/blue_winged_laughingthrush/inaturalist/blue_winged_laughingthrush_3"
-    },
-    {
-      "public_id": "bird-gallery/blue_winged_laughingthrush/wikimedia/blue_winged_laughingthrush_1"
-    },
-    {
-      "public_id": "bird-gallery/citrine_wagtail/inaturalist/citrine_wagtail_1"
-    },
-    {
-      "public_id": "bird-gallery/citrine_wagtail/wikimedia/citrine_wagtail_1"
-    },
-    {
-      "public_id": "bird-gallery/red_vented_bulbul/inaturalist/red_vented_bulbul_3"
-    },
-    {
-      "public_id": "bird-gallery/red_vented_bulbul/inaturalist/red_vented_bulbul_2"
-    },
-    {
-      "public_id": "bird-gallery/red_vented_bulbul/avibase/avibase_2_53952531758_fc2f22a2ba_b"
-    },
-    {
-      "public_id": "bird-gallery/red_vented_bulbul/avibase/avibase_1_53739060309_0a8f096c36_b"
-    },
-    {
-      "public_id": "bird-gallery/red_billed_scimitar_babbler/inaturalist/red_billed_scimitar_babbler_3"
-    },
-    {
-      "public_id": "bird-gallery/golden_fronted_leafbird/wikimedia/golden_fronted_leafbird_1"
-    },
-    {
-      "public_id": "bird-gallery/yellow_bellied_tit/wikimedia/yellow_bellied_tit_1"
-    },
-    {
-      "public_id": "bird-gallery/yellow_bellied_tit/inaturalist/yellow_bellied_tit_2"
-    },
-    {
-      "public_id": "bird-gallery/black_capped_bulbul/inaturalist/black_capped_bulbul_2"
-    },
-    {
-      "public_id": "bird-gallery/black_capped_bulbul/inaturalist/black_capped_bulbul_3"
-    },
-    {
-      "public_id": "bird-gallery/white_gorgeted_flycatcher/inaturalist/white_gorgeted_flycatcher_2"
-    },
-    {
-      "public_id": "bird-gallery/black_eagle/wikimedia/black_eagle_1"
-    },
-    {
-      "public_id": "bird-gallery/black_eagle/avibase/avibase_2_39991008145_c9c6b4a613_b"
-    },
-    {
-      "public_id": "bird-gallery/black_eagle/avibase/avibase_3_49145315246_ba54499fd6_b"
-    },
-    {
-      "public_id": "bird-gallery/pale_thrush/inaturalist/pale_thrush_2"
-    },
-    {
-      "public_id": "bird-gallery/pale_thrush/wikimedia/pale_thrush_1"
-    },
-    {
-      "public_id": "bird-gallery/pale_thrush/avibase/avibase_1_38418529854_9ca15e6cb5_b"
-    },
-    {
-      "public_id": "bird-gallery/chinese_bamboo_partridge/inaturalist/chinese_bamboo_partridge_1"
-    },
-    {
-      "public_id": "bird-gallery/chinese_bamboo_partridge/inaturalist/chinese_bamboo_partridge_3"
-    },
-    {
-      "public_id": "bird-gallery/chinese_bamboo_partridge/avibase/avibase_2_315220077_f99d543b67_b"
-    },
-    {
-      "public_id": "bird-gallery/chinese_bamboo_partridge/avibase/avibase_1_374995267_009dc5f3e4_b"
-    },
-    {
-      "public_id": "bird-gallery/bluethroat/avibase/avibase_2_53577915210_28c5e768f5_b"
-    },
-    {
-      "public_id": "bird-gallery/blue_whistling_thrush/inaturalist/blue_whistling_thrush_2"
-    },
-    {
-      "public_id": "bird-gallery/blue_whistling_thrush/wikimedia/blue_whistling_thrush_1"
-    },
-    {
-      "public_id": "bird-gallery/northern_pintail/wikimedia/northern_pintail_1"
-    },
-    {
-      "public_id": "bird-gallery/northern_pintail/avibase/avibase_2_54977056016_8afb261013_b"
-    },
-    {
-      "public_id": "bird-gallery/northern_pintail/avibase/avibase_3_51888621183_1bef5374d6_b"
-    },
-    {
-      "public_id": "bird-gallery/siberian_thrush/inaturalist/siberian_thrush_2"
-    },
-    {
-      "public_id": "bird-gallery/rufous_capped_babbler/inaturalist/rufous_capped_babbler_2"
-    },
-    {
-      "public_id": "bird-gallery/rufous_capped_babbler/wikimedia/rufous_capped_babbler_1"
-    },
-    {
-      "public_id": "bird-gallery/grey_treepie/inaturalist/grey_treepie_3"
-    },
-    {
-      "public_id": "bird-gallery/grey_treepie/inaturalist/grey_treepie_2"
-    },
-    {
-      "public_id": "bird-gallery/grey_treepie/wikimedia/grey_treepie_1"
-    },
-    {
-      "public_id": "bird-gallery/black_browed_reed_warbler/wikimedia/black_browed_reed_warbler_1"
-    },
-    {
-      "public_id": "bird-gallery/eastern_yellow_wagtail/inaturalist/eastern_yellow_wagtail_3"
-    },
-    {
-      "public_id": "bird-gallery/eastern_yellow_wagtail/avibase/avibase_2_54297290609_12ef9193ef_b"
-    },
-    {
-      "public_id": "bird-gallery/common_reed_bunting/inaturalist/common_reed_bunting_1"
-    },
-    {
-      "public_id": "bird-gallery/common_reed_bunting/inaturalist/common_reed_bunting_3"
-    },
-    {
-      "public_id": "bird-gallery/common_snipe/avibase/avibase_2_53201114526_e89fe4bd0a_b"
-    },
-    {
-      "public_id": "bird-gallery/northern_hawk_cuckoo/inaturalist/northern_hawk_cuckoo_1"
-    },
-    {
-      "public_id": "bird-gallery/northern_hawk_cuckoo/inaturalist/northern_hawk_cuckoo_2"
-    },
-    {
-      "public_id": "bird-gallery/northern_hawk_cuckoo/avibase/avibase_1_2214115656_616f654144_b"
-    },
-    {
-      "public_id": "bird-gallery/rosy_pipit/wikimedia/rosy_pipit_1"
-    },
-    {
-      "public_id": "bird-gallery/rosy_pipit/avibase/avibase_1_49643327656_d7e375d90e_b"
-    },
-    {
-      "public_id": "bird-gallery/pygmy_cupwing/inaturalist/pygmy_cupwing_3"
-    },
-    {
-      "public_id": "bird-gallery/grey_headed_lapwing/wikimedia/grey_headed_lapwing_1"
-    },
-    {
-      "public_id": "bird-gallery/grey_headed_lapwing/avibase/avibase_1_54310966383_62b8b9bd4f_b"
-    },
-    {
-      "public_id": "bird-gallery/daurian_starling/avibase/avibase_2_20811097763_33101318ff_b"
-    },
-    {
-      "public_id": "bird-gallery/daurian_starling/avibase/avibase_3_49533838952_6e8eb7d41d_b"
-    },
-    {
-      "public_id": "bird-gallery/purple_heron/inaturalist/purple_heron_1"
-    },
-    {
-      "public_id": "bird-gallery/purple_heron/avibase/avibase_2_50691719681_c30a70f893_b"
-    },
-    {
-      "public_id": "bird-gallery/grey_sided_scimitar_babbler/inaturalist/grey_sided_scimitar_babbler_2"
-    },
-    {
-      "public_id": "bird-gallery/grey_sided_scimitar_babbler/inaturalist/grey_sided_scimitar_babbler_3"
-    },
-    {
-      "public_id": "bird-gallery/indochinese_yuhina/inaturalist/indochinese_yuhina_3"
-    },
-    {
-      "public_id": "bird-gallery/indochinese_yuhina/avibase/avibase_1_40457998280_9fbb8a64ee_b"
-    },
-    {
-      "public_id": "bird-gallery/brown_flanked_bush_warbler/inaturalist/brown_flanked_bush_warbler_1"
-    },
-    {
-      "public_id": "bird-gallery/brown_flanked_bush_warbler/inaturalist/brown_flanked_bush_warbler_2"
-    },
-    {
-      "public_id": "bird-gallery/brown_flanked_bush_warbler/inaturalist/brown_flanked_bush_warbler_3"
-    },
-    {
-      "public_id": "bird-gallery/brown_flanked_bush_warbler/wikimedia/brown_flanked_bush_warbler_1"
+      "public_id": "bird-gallery/rusty_naped_pitta/inaturalist/rusty_naped_pitta_2"
     }
   ]
 }

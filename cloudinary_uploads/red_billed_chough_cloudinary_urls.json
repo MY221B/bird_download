@@ -1,0 +1,153 @@
+{
+  "bird_info": {
+    "slug": "red_billed_chough",
+    "chinese_name": "红嘴山鸦",
+    "english_name": "Red-billed Chough",
+    "scientific_name": "Pyrrhocorax pyrrhocorax"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_billed_chough_248205841.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370081/bird-gallery/red_billed_chough/macaulay/red_billed_chough_248205841.jpg",
+      "public_id": "bird-gallery/red_billed_chough/macaulay/red_billed_chough_248205841",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 102815,
+      "attribution": {
+        "photographer": "Filipe Canário",
+        "photographer_url": "https://macaulaylibrary.org/asset/248205841",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Filipe Canário; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "248205841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_chough_439341001.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370087/bird-gallery/red_billed_chough/macaulay/red_billed_chough_439341001.jpg",
+      "public_id": "bird-gallery/red_billed_chough/macaulay/red_billed_chough_439341001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79710,
+      "attribution": {
+        "photographer": "Oscar Wainwright",
+        "photographer_url": "https://macaulaylibrary.org/asset/439341001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Oscar Wainwright; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "439341001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_chough_622095255.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370094/bird-gallery/red_billed_chough/macaulay/red_billed_chough_622095255.jpg",
+      "public_id": "bird-gallery/red_billed_chough/macaulay/red_billed_chough_622095255",
+      "width": 1200,
+      "height": 845,
+      "format": "jpg",
+      "bytes": 71155,
+      "attribution": {
+        "photographer": "Parmil Kumar",
+        "photographer_url": "https://macaulaylibrary.org/asset/622095255",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Parmil Kumar; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "622095255",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_billed_chough_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370099/bird-gallery/red_billed_chough/inaturalist/red_billed_chough_1.jpg",
+      "public_id": "bird-gallery/red_billed_chough/inaturalist/red_billed_chough_1",
+      "width": 1024,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 39918,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/163096956",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 163096956,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "red_billed_chough_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370103/bird-gallery/red_billed_chough/wikimedia/red_billed_chough_1.jpg",
+      "public_id": "bird-gallery/red_billed_chough/wikimedia/red_billed_chough_1",
+      "width": 1280,
+      "height": 890,
+      "format": "jpg",
+      "bytes": 119720,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_28740732348_0ccea18edd_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370107/bird-gallery/red_billed_chough/avibase/avibase_3_28740732348_0ccea18edd_b.jpg",
+      "public_id": "bird-gallery/red_billed_chough/avibase/avibase_3_28740732348_0ccea18edd_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 137367,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28740732348",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "red_billed_chough_204001731.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770370143/bird-gallery/red_billed_chough/sounds/red_billed_chough_204001731.mp3",
+      "public_id": "bird-gallery/red_billed_chough/sounds/red_billed_chough_204001731",
+      "duration": 28.536,
+      "format": "mp3",
+      "bytes": 408284,
+      "bit_rate": 114461,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "204001731",
+        "asset_url": "https://macaulaylibrary.org/asset/204001731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

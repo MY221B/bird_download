@@ -1,0 +1,190 @@
+{
+  "bird_info": {
+    "slug": "black_naped_oriole",
+    "chinese_name": "黑枕黄鹂",
+    "english_name": "Black-naped Oriole",
+    "scientific_name": "Oriolus chinensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_naped_oriole_228862891.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953800/bird-gallery/black_naped_oriole/macaulay/black_naped_oriole_228862891.jpg",
+      "public_id": "bird-gallery/black_naped_oriole/macaulay/black_naped_oriole_228862891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 102629,
+      "attribution": {
+        "photographer": "Aseem Kothiala",
+        "photographer_url": "https://macaulaylibrary.org/asset/228862891",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Aseem Kothiala; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "228862891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_naped_oriole_604391741.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953805/bird-gallery/black_naped_oriole/macaulay/black_naped_oriole_604391741.jpg",
+      "public_id": "bird-gallery/black_naped_oriole/macaulay/black_naped_oriole_604391741",
+      "width": 1200,
+      "height": 827,
+      "format": "jpg",
+      "bytes": 100469,
+      "attribution": {
+        "photographer": "Forest Botial-Jarvis",
+        "photographer_url": "https://macaulaylibrary.org/asset/604391741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Forest Botial-Jarvis; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "604391741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_naped_oriole_625678999.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953810/bird-gallery/black_naped_oriole/macaulay/black_naped_oriole_625678999.jpg",
+      "public_id": "bird-gallery/black_naped_oriole/macaulay/black_naped_oriole_625678999",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62028,
+      "attribution": {
+        "photographer": "Abhijit Mishra",
+        "photographer_url": "https://macaulaylibrary.org/asset/625678999",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Abhijit Mishra; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625678999",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_naped_oriole_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953816/bird-gallery/black_naped_oriole/inaturalist/black_naped_oriole_1.jpg",
+      "public_id": "bird-gallery/black_naped_oriole/inaturalist/black_naped_oriole_1",
+      "width": 1024,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 137679,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/85011607",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 85011607,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_naped_oriole_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953818/bird-gallery/black_naped_oriole/inaturalist/black_naped_oriole_2.jpg",
+      "public_id": "bird-gallery/black_naped_oriole/inaturalist/black_naped_oriole_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 86761,
+      "attribution": {
+        "photographer": "ck_chan",
+        "photographer_url": "https://www.inaturalist.org/observations/81984460",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ck_chan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 81984460,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_naped_oriole_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953820/bird-gallery/black_naped_oriole/inaturalist/black_naped_oriole_3.jpg",
+      "public_id": "bird-gallery/black_naped_oriole/inaturalist/black_naped_oriole_3",
+      "width": 774,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 123865,
+      "attribution": {
+        "photographer": "robertang",
+        "photographer_url": "https://www.inaturalist.org/observations/76048665",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robertang (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 76048665,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51967517537_e15fe28f10_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953823/bird-gallery/black_naped_oriole/avibase/avibase_1_51967517537_e15fe28f10_b.jpg",
+      "public_id": "bird-gallery/black_naped_oriole/avibase/avibase_1_51967517537_e15fe28f10_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89299,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51967517537",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52059709402_ceac57573c_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953826/bird-gallery/black_naped_oriole/avibase/avibase_3_52059709402_ceac57573c_b.jpg",
+      "public_id": "bird-gallery/black_naped_oriole/avibase/avibase_3_52059709402_ceac57573c_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 57454,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52059709402",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_naped_oriole_611035951.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770954402/bird-gallery/black_naped_oriole/sounds/black_naped_oriole_611035951.mp3",
+      "public_id": "bird-gallery/black_naped_oriole/sounds/black_naped_oriole_611035951",
+      "duration": 22.392,
+      "format": "mp3",
+      "bytes": 554924,
+      "bit_rate": 198257,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "611035951",
+        "asset_url": "https://macaulaylibrary.org/asset/611035951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

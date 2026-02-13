@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "striated_yuhina",
+    "chinese_name": "栗耳凤鹛",
+    "english_name": "Striated Yuhina",
+    "scientific_name": "Staphida castaniceps"
+  },
+  "macaulay": [
+    {
+      "original_file": "striated_yuhina_342992121.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374162/bird-gallery/striated_yuhina/macaulay/striated_yuhina_342992121.jpg",
+      "public_id": "bird-gallery/striated_yuhina/macaulay/striated_yuhina_342992121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60736,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/342992121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "342992121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "striated_yuhina_630948973.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374167/bird-gallery/striated_yuhina/macaulay/striated_yuhina_630948973.jpg",
+      "public_id": "bird-gallery/striated_yuhina/macaulay/striated_yuhina_630948973",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 108241,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/630948973",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "630948973",
+        "note": null
+      }
+    },
+    {
+      "original_file": "striated_yuhina_632694167.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374172/bird-gallery/striated_yuhina/macaulay/striated_yuhina_632694167.jpg",
+      "public_id": "bird-gallery/striated_yuhina/macaulay/striated_yuhina_632694167",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 80127,
+      "attribution": {
+        "photographer": "Sarawin Kreangpichitchai",
+        "photographer_url": "https://macaulaylibrary.org/asset/632694167",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sarawin Kreangpichitchai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "632694167",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "striated_yuhina_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374177/bird-gallery/striated_yuhina/inaturalist/striated_yuhina_1.jpg",
+      "public_id": "bird-gallery/striated_yuhina/inaturalist/striated_yuhina_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 82748,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/146687924",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 146687924,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_3_53542689056_c1c2bc9ac0_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374185/bird-gallery/striated_yuhina/avibase/avibase_3_53542689056_c1c2bc9ac0_b.jpg",
+      "public_id": "bird-gallery/striated_yuhina/avibase/avibase_3_53542689056_c1c2bc9ac0_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 204032,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53542689056",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "striated_yuhina_203964721.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374860/bird-gallery/striated_yuhina/sounds/striated_yuhina_203964721.mp3",
+      "public_id": "bird-gallery/striated_yuhina/sounds/striated_yuhina_203964721",
+      "duration": 19.032,
+      "format": "mp3",
+      "bytes": 264140,
+      "bit_rate": 111029,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203964721",
+        "asset_url": "https://macaulaylibrary.org/asset/203964721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

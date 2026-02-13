@@ -203,5 +203,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "rufous_bellied_woodpecker_611686682.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770369987/bird-gallery/rufous_bellied_woodpecker/sounds/rufous_bellied_woodpecker_611686682.mp3",
+      "public_id": "bird-gallery/rufous_bellied_woodpecker/sounds/rufous_bellied_woodpecker_611686682",
+      "duration": 8.232,
+      "format": "mp3",
+      "bytes": 119804,
+      "bit_rate": 116427,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "611686682",
+        "asset_url": "https://macaulaylibrary.org/asset/611686682",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

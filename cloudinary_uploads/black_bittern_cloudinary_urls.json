@@ -1,0 +1,172 @@
+{
+  "bird_info": {
+    "slug": "black_bittern",
+    "chinese_name": "黑苇鳽",
+    "english_name": "Black Bittern",
+    "scientific_name": "Ixobrychus flavicollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_bittern_305054931.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951202/bird-gallery/black_bittern/macaulay/black_bittern_305054931.jpg",
+      "public_id": "bird-gallery/black_bittern/macaulay/black_bittern_305054931",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 79214,
+      "attribution": {
+        "photographer": "Saravanan Krishnamurthy",
+        "photographer_url": "https://macaulaylibrary.org/asset/305054931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Saravanan Krishnamurthy; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "305054931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_bittern_316408481.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951207/bird-gallery/black_bittern/macaulay/black_bittern_316408481.jpg",
+      "public_id": "bird-gallery/black_bittern/macaulay/black_bittern_316408481",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 121749,
+      "attribution": {
+        "photographer": "JJ Harrison",
+        "photographer_url": "https://macaulaylibrary.org/asset/316408481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by JJ Harrison; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "316408481",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_bittern_320554741.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951213/bird-gallery/black_bittern/macaulay/black_bittern_320554741.jpg",
+      "public_id": "bird-gallery/black_bittern/macaulay/black_bittern_320554741",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 124014,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/320554741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "320554741",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_bittern_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951222/bird-gallery/black_bittern/inaturalist/black_bittern_3.jpg",
+      "public_id": "bird-gallery/black_bittern/inaturalist/black_bittern_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61934,
+      "attribution": {
+        "photographer": "mayoh",
+        "photographer_url": "https://www.inaturalist.org/observations/328184933",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mayoh (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 328184933,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "black_bittern_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951223/bird-gallery/black_bittern/wikimedia/black_bittern_1.jpg",
+      "public_id": "bird-gallery/black_bittern/wikimedia/black_bittern_1",
+      "width": 1280,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 155196,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_22879773030_00b4bd6ae2_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951225/bird-gallery/black_bittern/avibase/avibase_1_22879773030_00b4bd6ae2_b.jpg",
+      "public_id": "bird-gallery/black_bittern/avibase/avibase_1_22879773030_00b4bd6ae2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 233579,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "22879773030",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_23149475026_bdace6f048_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951226/bird-gallery/black_bittern/avibase/avibase_2_23149475026_bdace6f048_b.jpg",
+      "public_id": "bird-gallery/black_bittern/avibase/avibase_2_23149475026_bdace6f048_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 254185,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "23149475026",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_bittern_80886201.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770951610/bird-gallery/black_bittern/sounds/black_bittern_80886201.mp3",
+      "public_id": "bird-gallery/black_bittern/sounds/black_bittern_80886201",
+      "duration": 27.792,
+      "format": "mp3",
+      "bytes": 378812,
+      "bit_rate": 109042,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "80886201",
+        "asset_url": "https://macaulaylibrary.org/asset/80886201",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

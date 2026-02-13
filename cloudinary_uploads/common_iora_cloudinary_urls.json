@@ -1,0 +1,172 @@
+{
+  "bird_info": {
+    "slug": "common_iora",
+    "chinese_name": "黑翅雀鹎",
+    "english_name": "Common Iora",
+    "scientific_name": "Aegithina tiphia"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_iora_169820241.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373564/bird-gallery/common_iora/macaulay/common_iora_169820241.jpg",
+      "public_id": "bird-gallery/common_iora/macaulay/common_iora_169820241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69178,
+      "attribution": {
+        "photographer": "Sharif Uddin",
+        "photographer_url": "https://macaulaylibrary.org/asset/169820241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sharif Uddin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "169820241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_iora_337698951.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373569/bird-gallery/common_iora/macaulay/common_iora_337698951.jpg",
+      "public_id": "bird-gallery/common_iora/macaulay/common_iora_337698951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103686,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/337698951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "337698951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_iora_369122191.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373576/bird-gallery/common_iora/macaulay/common_iora_369122191.jpg",
+      "public_id": "bird-gallery/common_iora/macaulay/common_iora_369122191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 95789,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/369122191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "369122191",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_iora_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373583/bird-gallery/common_iora/inaturalist/common_iora_2.jpg",
+      "public_id": "bird-gallery/common_iora/inaturalist/common_iora_2",
+      "width": 1024,
+      "height": 859,
+      "format": "jpg",
+      "bytes": 153519,
+      "attribution": {
+        "photographer": "rejoicegassah",
+        "photographer_url": "https://www.inaturalist.org/observations/301158319",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 301158319,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "common_iora_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373585/bird-gallery/common_iora/wikimedia/common_iora_1.jpg",
+      "public_id": "bird-gallery/common_iora/wikimedia/common_iora_1",
+      "width": 250,
+      "height": 247,
+      "format": "jpg",
+      "bytes": 11354,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50997467129_2d00510be9_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373586/bird-gallery/common_iora/avibase/avibase_1_50997467129_2d00510be9_b.jpg",
+      "public_id": "bird-gallery/common_iora/avibase/avibase_1_50997467129_2d00510be9_b",
+      "width": 915,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 137477,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50997467129",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_45225042865_b05084f653_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373588/bird-gallery/common_iora/avibase/avibase_2_45225042865_b05084f653_b.jpg",
+      "public_id": "bird-gallery/common_iora/avibase/avibase_2_45225042865_b05084f653_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 85806,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "45225042865",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "common_iora_169519021.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374736/bird-gallery/common_iora/sounds/common_iora_169519021.mp3",
+      "public_id": "bird-gallery/common_iora/sounds/common_iora_169519021",
+      "duration": 198.336,
+      "format": "mp3",
+      "bytes": 2713052,
+      "bit_rate": 109432,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "169519021",
+        "asset_url": "https://macaulaylibrary.org/asset/169519021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

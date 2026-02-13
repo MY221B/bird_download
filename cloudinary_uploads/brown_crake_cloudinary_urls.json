@@ -1,0 +1,172 @@
+{
+  "bird_info": {
+    "slug": "brown_crake",
+    "chinese_name": "红脚田鸡",
+    "english_name": "Brown Crake",
+    "scientific_name": "Zapornia akool"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_crake_246648361.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770949984/bird-gallery/brown_crake/macaulay/brown_crake_246648361.jpg",
+      "public_id": "bird-gallery/brown_crake/macaulay/brown_crake_246648361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 89677,
+      "attribution": {
+        "photographer": "Rahul  Singh",
+        "photographer_url": "https://macaulaylibrary.org/asset/246648361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rahul  Singh; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "246648361",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_crake_623900721.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770949991/bird-gallery/brown_crake/macaulay/brown_crake_623900721.jpg",
+      "public_id": "bird-gallery/brown_crake/macaulay/brown_crake_623900721",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 69564,
+      "attribution": {
+        "photographer": "Abhishek Das",
+        "photographer_url": "https://macaulaylibrary.org/asset/623900721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Abhishek Das; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "623900721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_crake_648275627.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770949998/bird-gallery/brown_crake/macaulay/brown_crake_648275627.jpg",
+      "public_id": "bird-gallery/brown_crake/macaulay/brown_crake_648275627",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 84742,
+      "attribution": {
+        "photographer": "Vikram S",
+        "photographer_url": "https://macaulaylibrary.org/asset/648275627",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vikram S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "648275627",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_crake_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770950005/bird-gallery/brown_crake/inaturalist/brown_crake_1.jpg",
+      "public_id": "bird-gallery/brown_crake/inaturalist/brown_crake_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 93039,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/143168116",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 143168116,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "brown_crake_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770950011/bird-gallery/brown_crake/wikimedia/brown_crake_1.jpg",
+      "public_id": "bird-gallery/brown_crake/wikimedia/brown_crake_1",
+      "width": 1280,
+      "height": 914,
+      "format": "jpg",
+      "bytes": 133837,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_49120949457_1b88009498_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770950014/bird-gallery/brown_crake/avibase/avibase_2_49120949457_1b88009498_b.jpg",
+      "public_id": "bird-gallery/brown_crake/avibase/avibase_2_49120949457_1b88009498_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 199668,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49120949457",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_40009476645_834be9111f_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770950016/bird-gallery/brown_crake/avibase/avibase_3_40009476645_834be9111f_b.jpg",
+      "public_id": "bird-gallery/brown_crake/avibase/avibase_3_40009476645_834be9111f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 194270,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40009476645",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "brown_crake_626690358.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770950060/bird-gallery/brown_crake/sounds/brown_crake_626690358.mp3",
+      "public_id": "bird-gallery/brown_crake/sounds/brown_crake_626690358",
+      "duration": 9.504,
+      "format": "mp3",
+      "bytes": 142844,
+      "bit_rate": 120239,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "626690358",
+        "asset_url": "https://macaulaylibrary.org/asset/626690358",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

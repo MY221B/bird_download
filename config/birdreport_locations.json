@@ -321,6 +321,18 @@
       "point_aliases": [
         "犀鸟谷"
       ]
+    },
+    {
+      "id": "wuhu_shi",
+      "name": "芜湖市",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 30,
+      "query_level": "city",
+      "point_aliases": []
     }
   ]
 }

@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "humes_leaf_warbler",
+    "chinese_name": "淡眉柳莺",
+    "english_name": "Hume's Leaf Warbler",
+    "scientific_name": "Phylloscopus humei"
+  },
+  "macaulay": [
+    {
+      "original_file": "humes_leaf_warbler_298963501.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373812/bird-gallery/humes_leaf_warbler/macaulay/humes_leaf_warbler_298963501.jpg",
+      "public_id": "bird-gallery/humes_leaf_warbler/macaulay/humes_leaf_warbler_298963501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84794,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/298963501",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "298963501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "humes_leaf_warbler_313412511.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373816/bird-gallery/humes_leaf_warbler/macaulay/humes_leaf_warbler_313412511.jpg",
+      "public_id": "bird-gallery/humes_leaf_warbler/macaulay/humes_leaf_warbler_313412511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49041,
+      "attribution": {
+        "photographer": "Ian Hearn",
+        "photographer_url": "https://macaulaylibrary.org/asset/313412511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Hearn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "313412511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "humes_leaf_warbler_624904380.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373821/bird-gallery/humes_leaf_warbler/macaulay/humes_leaf_warbler_624904380.jpg",
+      "public_id": "bird-gallery/humes_leaf_warbler/macaulay/humes_leaf_warbler_624904380",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75091,
+      "attribution": {
+        "photographer": "Elias Biegger",
+        "photographer_url": "https://macaulaylibrary.org/asset/624904380",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Elias Biegger; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624904380",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "humes_leaf_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373827/bird-gallery/humes_leaf_warbler/inaturalist/humes_leaf_warbler_2.jpg",
+      "public_id": "bird-gallery/humes_leaf_warbler/inaturalist/humes_leaf_warbler_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 107159,
+      "attribution": {
+        "photographer": "sergotravelian",
+        "photographer_url": "https://www.inaturalist.org/observations/154468026",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© sergotravelian (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 154468026,
+        "note": null
+      }
+    },
+    {
+      "original_file": "humes_leaf_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373828/bird-gallery/humes_leaf_warbler/inaturalist/humes_leaf_warbler_3.jpg",
+      "public_id": "bird-gallery/humes_leaf_warbler/inaturalist/humes_leaf_warbler_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 79547,
+      "attribution": {
+        "photographer": "andrewbazdyrev",
+        "photographer_url": "https://www.inaturalist.org/observations/187041776",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© andrewbazdyrev (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 187041776,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51387332027_4b2a38f2db_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373830/bird-gallery/humes_leaf_warbler/avibase/avibase_1_51387332027_4b2a38f2db_b.jpg",
+      "public_id": "bird-gallery/humes_leaf_warbler/avibase/avibase_1_51387332027_4b2a38f2db_b",
+      "width": 1024,
+      "height": 963,
+      "format": "jpg",
+      "bytes": 160949,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51387332027",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49029622742_55541f76fc_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373831/bird-gallery/humes_leaf_warbler/avibase/avibase_2_49029622742_55541f76fc_b.jpg",
+      "public_id": "bird-gallery/humes_leaf_warbler/avibase/avibase_2_49029622742_55541f76fc_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 101686,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49029622742",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "humes_leaf_warbler_367754341.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374788/bird-gallery/humes_leaf_warbler/sounds/humes_leaf_warbler_367754341.mp3",
+      "public_id": "bird-gallery/humes_leaf_warbler/sounds/humes_leaf_warbler_367754341",
+      "duration": 24.552,
+      "format": "mp3",
+      "bytes": 464588,
+      "bit_rate": 151380,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "367754341",
+        "asset_url": "https://macaulaylibrary.org/asset/367754341",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

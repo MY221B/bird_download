@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "himalayan_swiftlet",
+    "chinese_name": "短嘴金丝燕",
+    "english_name": "Himalayan Swiftlet",
+    "scientific_name": "Aerodramus brevirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "himalayan_swiftlet_300095001.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373061/bird-gallery/himalayan_swiftlet/macaulay/himalayan_swiftlet_300095001.jpg",
+      "public_id": "bird-gallery/himalayan_swiftlet/macaulay/himalayan_swiftlet_300095001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 19987,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/300095001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "300095001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "himalayan_swiftlet_300095061.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373066/bird-gallery/himalayan_swiftlet/macaulay/himalayan_swiftlet_300095061.jpg",
+      "public_id": "bird-gallery/himalayan_swiftlet/macaulay/himalayan_swiftlet_300095061",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 22881,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/300095061",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "300095061",
+        "note": null
+      }
+    },
+    {
+      "original_file": "himalayan_swiftlet_300095071.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373071/bird-gallery/himalayan_swiftlet/macaulay/himalayan_swiftlet_300095071.jpg",
+      "public_id": "bird-gallery/himalayan_swiftlet/macaulay/himalayan_swiftlet_300095071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 15095,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/300095071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "300095071",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "himalayan_swiftlet_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373080/bird-gallery/himalayan_swiftlet/wikimedia/himalayan_swiftlet_1.jpg",
+      "public_id": "bird-gallery/himalayan_swiftlet/wikimedia/himalayan_swiftlet_1",
+      "width": 250,
+      "height": 213,
+      "format": "jpg",
+      "bytes": 1917,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "himalayan_swiftlet_537994571.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374617/bird-gallery/himalayan_swiftlet/sounds/himalayan_swiftlet_537994571.mp3",
+      "public_id": "bird-gallery/himalayan_swiftlet/sounds/himalayan_swiftlet_537994571",
+      "duration": 7.536,
+      "format": "mp3",
+      "bytes": 105836,
+      "bit_rate": 112352,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "537994571",
+        "asset_url": "https://macaulaylibrary.org/asset/537994571",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

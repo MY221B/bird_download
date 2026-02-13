@@ -1,0 +1,190 @@
+{
+  "bird_info": {
+    "slug": "chestnut_thrush",
+    "chinese_name": "灰头鸫",
+    "english_name": "Chestnut Thrush",
+    "scientific_name": "Turdus rubrocanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_thrush_126765121.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770954198/bird-gallery/chestnut_thrush/macaulay/chestnut_thrush_126765121.jpg",
+      "public_id": "bird-gallery/chestnut_thrush/macaulay/chestnut_thrush_126765121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 106103,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/126765121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "126765121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_thrush_398005011.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770954204/bird-gallery/chestnut_thrush/macaulay/chestnut_thrush_398005011.jpg",
+      "public_id": "bird-gallery/chestnut_thrush/macaulay/chestnut_thrush_398005011",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 112639,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/398005011",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "398005011",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_thrush_424688951.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770954210/bird-gallery/chestnut_thrush/macaulay/chestnut_thrush_424688951.jpg",
+      "public_id": "bird-gallery/chestnut_thrush/macaulay/chestnut_thrush_424688951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 167126,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/424688951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "424688951",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770954216/bird-gallery/chestnut_thrush/inaturalist/chestnut_thrush_1.jpg",
+      "public_id": "bird-gallery/chestnut_thrush/inaturalist/chestnut_thrush_1",
+      "width": 576,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 102457,
+      "attribution": {
+        "photographer": "sopkai_zimik",
+        "photographer_url": "https://www.inaturalist.org/observations/337051573",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopkai_zimik (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337051573,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_thrush_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770954219/bird-gallery/chestnut_thrush/inaturalist/chestnut_thrush_3.jpg",
+      "public_id": "bird-gallery/chestnut_thrush/inaturalist/chestnut_thrush_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 119817,
+      "attribution": {
+        "photographer": "qin_huang",
+        "photographer_url": "https://www.inaturalist.org/observations/329967028",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© qin_huang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 329967028,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_40340001961_ac81bb7077_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770954222/bird-gallery/chestnut_thrush/avibase/avibase_1_40340001961_ac81bb7077_b.jpg",
+      "public_id": "bird-gallery/chestnut_thrush/avibase/avibase_1_40340001961_ac81bb7077_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96371,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40340001961",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_40340003081_7c3463f933_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770954223/bird-gallery/chestnut_thrush/avibase/avibase_2_40340003081_7c3463f933_b.jpg",
+      "public_id": "bird-gallery/chestnut_thrush/avibase/avibase_2_40340003081_7c3463f933_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 184584,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40340003081",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_40340000751_a601b83077_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770954225/bird-gallery/chestnut_thrush/avibase/avibase_3_40340000751_a601b83077_b.jpg",
+      "public_id": "bird-gallery/chestnut_thrush/avibase/avibase_3_40340000751_a601b83077_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 103390,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40340000751",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "chestnut_thrush_179447.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770954662/bird-gallery/chestnut_thrush/sounds/chestnut_thrush_179447.mp3",
+      "public_id": "bird-gallery/chestnut_thrush/sounds/chestnut_thrush_179447",
+      "duration": 122.256,
+      "format": "mp3",
+      "bytes": 1677956,
+      "bit_rate": 109799,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "179447",
+        "asset_url": "https://macaulaylibrary.org/asset/179447",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

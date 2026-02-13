@@ -1,12 +1,14 @@
 #!/bin/bash
 
 # 自动化图片删除脚本
-# 用法: ./delete_images_from_config.sh [配置文件路径]
+# 用法: ./delete_images_from_config.sh [配置文件路径] [--yes|-y]
 # 
 # 功能：从 Cloudinary、本地文件、JSON 引用和 HTML 画廊中删除配置文件中列出的所有图片
 # 并自动提交到 Git
 #
 # 默认配置文件: config/需要删除图片名单
+# 参数:
+#   --yes, -y: 自动确认，跳过交互式确认
 
 set -e  # 遇到错误立即退出
 
@@ -21,6 +23,23 @@ NC='\033[0m' # No Color
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "${REPO_ROOT}"
 
+# 解析参数
+CONFIG_FILE="config/需要删除图片名单"
+AUTO_YES=0
+
+for arg in "$@"; do
+    case $arg in
+        --yes|-y)
+            AUTO_YES=1
+            shift
+            ;;
+        *)
+            CONFIG_FILE="$arg"
+            shift
+            ;;
+    esac
+done
+
 # 🔄 开始前：从 Lovable 同步最新改动
 echo -e "${BLUE}🔄 从 Lovable 同步最新改动...${NC}"
 if bash "${REPO_ROOT}/tools/sync_from_lovable.sh"; then
@@ -29,9 +48,6 @@ else
   echo -e "${YELLOW}⚠️  Lovable 同步失败，继续执行...${NC}"
 fi
 echo ""
-
-# 配置文件路径（默认或从参数获取）
-CONFIG_FILE="${1:-config/需要删除图片名单}"
 
 # 检查配置文件是否存在
 if [[ ! -f "${CONFIG_FILE}" ]]; then
@@ -54,11 +70,16 @@ echo "  3. 删除本地图片文件"
 echo "  4. 重新生成 HTML 画廊"
 echo "  5. 提交并推送到 GitHub"
 echo ""
-read -p "是否继续？[y/N] " -n 1 -r
-echo
-if [[ ! $REPLY =~ ^[Yy]$ ]]; then
-    echo -e "${RED}❌ 操作已取消${NC}"
-    exit 0
+
+if [[ $AUTO_YES -eq 0 ]]; then
+    read -p "是否继续？[y/N] " -n 1 -r
+    echo
+    if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+        echo -e "${RED}❌ 操作已取消${NC}"
+        exit 0
+    fi
+else
+    echo -e "${GREEN}✅ 自动确认模式，继续执行...${NC}"
 fi
 
 echo ""
@@ -99,50 +120,68 @@ cd "${QUIZ_DIR}"
 
 # 检查是否有更改
 if [[ -z "$(git status --porcelain)" ]]; then
-    echo -e "${YELLOW}⚠️  没有文件更改，跳过提交${NC}"
-    exit 0
+    echo -e "${YELLOW}⚠️  子模块没有文件更改，跳过子模块提交${NC}"
+else
+    # 统计更改
+    MODIFIED_COUNT=$(git status --porcelain | wc -l | tr -d ' ')
+    echo -e "📊 子模块修改了 ${MODIFIED_COUNT} 个文件"
+
+    # 添加所有更改
+    git add -A
+
+    # 生成提交信息
+    COMMIT_MSG="批量删除${IMAGE_COUNT}张图片 - 使用自动化脚本"
+    echo -e "📝 提交信息: ${COMMIT_MSG}"
+
+    # 提交
+    git commit -m "${COMMIT_MSG}"
+
+    # 推送到 main 分支
+    echo -e "🚀 推送子模块到 origin/main..."
+    git checkout main 2>/dev/null || git checkout -b main
+    git push origin main
+
+    # 同时推送到 develop_lovable 分支
+    echo -e "🚀 推送子模块到 origin/develop_lovable..."
+    git push origin main:develop_lovable
+    
+    echo -e "${GREEN}✅ 子模块已推送到 main 和 develop_lovable 分支${NC}"
 fi
 
-# 统计更改
-MODIFIED_COUNT=$(git status --porcelain | wc -l | tr -d ' ')
-echo -e "📊 修改了 ${MODIFIED_COUNT} 个文件"
+echo ""
 
-# 添加所有更改
-git add -A
+# 返回主仓库
+cd "${REPO_ROOT}"
 
-# 生成提交信息
-COMMIT_MSG="批量删除${IMAGE_COUNT}张图片 - 使用自动化脚本"
-echo -e "📝 提交信息: ${COMMIT_MSG}"
-
-# 提交
-git commit -m "${COMMIT_MSG}"
-
-# 推送
-CURRENT_BRANCH="$(git rev-parse --abbrev-ref HEAD)"
-echo -e "🚀 推送到 origin/${CURRENT_BRANCH}..."
-git push origin "${CURRENT_BRANCH}"
+# 检查主仓库是否有子模块引用更新
+if [[ -n "$(git status --porcelain feather-flash-quiz)" ]]; then
+    echo -e "${BLUE}📦 更新主仓库的子模块引用...${NC}"
+    
+    # 添加子模块引用更新
+    git add feather-flash-quiz
+    
+    # 提交
+    git commit -m "chore: 更新子模块引用 - 批量删除${IMAGE_COUNT}张图片"
+    
+    # 推送到 main 分支
+    echo -e "🚀 推送主仓库到 origin/main..."
+    git checkout main 2>/dev/null || git checkout -b main
+    git push origin main
+    
+    # 同时推送到 develop_lovable 分支
+    echo -e "🚀 推送主仓库到 origin/develop_lovable..."
+    git push origin main:develop_lovable
+    
+    echo -e "${GREEN}✅ 主仓库已推送到 main 和 develop_lovable 分支${NC}"
+else
+    echo -e "${YELLOW}⚠️  主仓库没有子模块引用更新${NC}"
+fi
 
 echo ""
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e "${GREEN}✨ 所有操作完成！${NC}"
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
-echo -e "${GREEN}✅ 已成功删除 ${IMAGE_COUNT} 张图片并推送到 GitHub${NC}"
+echo -e "${GREEN}✅ 已成功删除 ${IMAGE_COUNT} 张图片并推送到 main 和 develop_lovable 分支${NC}"
+echo -e "${BLUE}🔗 子模块和主仓库都已更新${NC}"
 echo ""
-
-# 返回项目根目录
-cd "${REPO_ROOT}"
-
-# 🔄 结束后：同步改动到 Lovable
-echo ""
-echo -e "${BLUE}🔄 同步改动到 Lovable...${NC}"
-if bash "${REPO_ROOT}/tools/sync_to_lovable.sh"; then
-  echo -e "${GREEN}✅ 已同步到 Lovable 的 develop_lovable 分支${NC}"
-  echo ""
-  echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-  echo -e "${GREEN}🎉 全部完成！请到 Lovable 网站 Publish 推送最新更改${NC}"
-  echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-else
-  echo -e "${RED}❌ 同步到 Lovable 失败${NC}"
-  exit 1
-fi

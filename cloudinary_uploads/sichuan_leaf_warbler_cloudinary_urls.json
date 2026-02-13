@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "sichuan_leaf_warbler",
+    "chinese_name": "四川柳莺",
+    "english_name": "Sichuan Leaf Warbler",
+    "scientific_name": "Phylloscopus forresti"
+  },
+  "macaulay": [
+    {
+      "original_file": "sichuan_leaf_warbler_283739981.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373836/bird-gallery/sichuan_leaf_warbler/macaulay/sichuan_leaf_warbler_283739981.jpg",
+      "public_id": "bird-gallery/sichuan_leaf_warbler/macaulay/sichuan_leaf_warbler_283739981",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 115532,
+      "attribution": {
+        "photographer": "Su Li",
+        "photographer_url": "https://macaulaylibrary.org/asset/283739981",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Su Li; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "283739981",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sichuan_leaf_warbler_316834341.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373841/bird-gallery/sichuan_leaf_warbler/macaulay/sichuan_leaf_warbler_316834341.jpg",
+      "public_id": "bird-gallery/sichuan_leaf_warbler/macaulay/sichuan_leaf_warbler_316834341",
+      "width": 1200,
+      "height": 858,
+      "format": "jpg",
+      "bytes": 75910,
+      "attribution": {
+        "photographer": "Rofikul Islam",
+        "photographer_url": "https://macaulaylibrary.org/asset/316834341",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rofikul Islam; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "316834341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sichuan_leaf_warbler_41840301.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373846/bird-gallery/sichuan_leaf_warbler/macaulay/sichuan_leaf_warbler_41840301.jpg",
+      "public_id": "bird-gallery/sichuan_leaf_warbler/macaulay/sichuan_leaf_warbler_41840301",
+      "width": 1200,
+      "height": 697,
+      "format": "jpg",
+      "bytes": 72491,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/41840301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "41840301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sichuan_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373851/bird-gallery/sichuan_leaf_warbler/inaturalist/sichuan_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/sichuan_leaf_warbler/inaturalist/sichuan_leaf_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61740,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/311982849",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 311982849,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sichuan_leaf_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373853/bird-gallery/sichuan_leaf_warbler/inaturalist/sichuan_leaf_warbler_2.jpg",
+      "public_id": "bird-gallery/sichuan_leaf_warbler/inaturalist/sichuan_leaf_warbler_2",
+      "width": 1024,
+      "height": 823,
+      "format": "jpg",
+      "bytes": 57142,
+      "attribution": {
+        "photographer": "olegrozhko",
+        "photographer_url": "https://www.inaturalist.org/observations/336866441",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© olegrozhko (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 336866441,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sichuan_leaf_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373854/bird-gallery/sichuan_leaf_warbler/inaturalist/sichuan_leaf_warbler_3.jpg",
+      "public_id": "bird-gallery/sichuan_leaf_warbler/inaturalist/sichuan_leaf_warbler_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 78533,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/103880751",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103880751,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "sichuan_leaf_warbler_30318691.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374793/bird-gallery/sichuan_leaf_warbler/sounds/sichuan_leaf_warbler_30318691.mp3",
+      "public_id": "bird-gallery/sichuan_leaf_warbler/sounds/sichuan_leaf_warbler_30318691",
+      "duration": 31.608,
+      "format": "mp3",
+      "bytes": 437564,
+      "bit_rate": 110747,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "30318691",
+        "asset_url": "https://macaulaylibrary.org/asset/30318691",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

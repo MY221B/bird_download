@@ -1,0 +1,93 @@
+{
+  "bird_info": {
+    "slug": "nepal_house_martin",
+    "chinese_name": "黑喉毛脚燕",
+    "english_name": "Nepal House Martin",
+    "scientific_name": "Delichon nipalense"
+  },
+  "macaulay": [
+    {
+      "original_file": "nepal_house_martin_204280191.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953889/bird-gallery/nepal_house_martin/macaulay/nepal_house_martin_204280191.jpg",
+      "public_id": "bird-gallery/nepal_house_martin/macaulay/nepal_house_martin_204280191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 221891,
+      "attribution": {
+        "photographer": "Holger Teichmann",
+        "photographer_url": "https://macaulaylibrary.org/asset/204280191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Holger Teichmann; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204280191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "nepal_house_martin_213514891.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953895/bird-gallery/nepal_house_martin/macaulay/nepal_house_martin_213514891.jpg",
+      "public_id": "bird-gallery/nepal_house_martin/macaulay/nepal_house_martin_213514891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 13727,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/213514891",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "213514891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "nepal_house_martin_213514931.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770953900/bird-gallery/nepal_house_martin/macaulay/nepal_house_martin_213514931.jpg",
+      "public_id": "bird-gallery/nepal_house_martin/macaulay/nepal_house_martin_213514931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 176712,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/213514931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "213514931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "nepal_house_martin_203925211.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770954427/bird-gallery/nepal_house_martin/sounds/nepal_house_martin_203925211.mp3",
+      "public_id": "bird-gallery/nepal_house_martin/sounds/nepal_house_martin_203925211",
+      "duration": 14.208,
+      "format": "mp3",
+      "bytes": 353612,
+      "bit_rate": 199105,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203925211",
+        "asset_url": "https://macaulaylibrary.org/asset/203925211",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

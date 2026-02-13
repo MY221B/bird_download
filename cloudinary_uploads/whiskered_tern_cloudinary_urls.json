@@ -1,0 +1,172 @@
+{
+  "bird_info": {
+    "slug": "whiskered_tern",
+    "chinese_name": "灰翅浮鸥",
+    "english_name": "Whiskered Tern",
+    "scientific_name": "Chlidonias hybrida"
+  },
+  "macaulay": [
+    {
+      "original_file": "whiskered_tern_266029831.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951569/bird-gallery/whiskered_tern/macaulay/whiskered_tern_266029831.jpg",
+      "public_id": "bird-gallery/whiskered_tern/macaulay/whiskered_tern_266029831",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 61681,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/266029831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "266029831",
+        "note": null
+      }
+    },
+    {
+      "original_file": "whiskered_tern_266029861.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951575/bird-gallery/whiskered_tern/macaulay/whiskered_tern_266029861.jpg",
+      "public_id": "bird-gallery/whiskered_tern/macaulay/whiskered_tern_266029861",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58545,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/266029861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "266029861",
+        "note": null
+      }
+    },
+    {
+      "original_file": "whiskered_tern_483474551.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951581/bird-gallery/whiskered_tern/macaulay/whiskered_tern_483474551.jpg",
+      "public_id": "bird-gallery/whiskered_tern/macaulay/whiskered_tern_483474551",
+      "width": 1200,
+      "height": 814,
+      "format": "jpg",
+      "bytes": 26838,
+      "attribution": {
+        "photographer": "David Ongley",
+        "photographer_url": "https://macaulaylibrary.org/asset/483474551",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Ongley; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "483474551",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "whiskered_tern_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951590/bird-gallery/whiskered_tern/inaturalist/whiskered_tern_3.jpg",
+      "public_id": "bird-gallery/whiskered_tern/inaturalist/whiskered_tern_3",
+      "width": 1024,
+      "height": 654,
+      "format": "jpg",
+      "bytes": 29981,
+      "attribution": {
+        "photographer": "benackerley",
+        "photographer_url": "https://www.inaturalist.org/observations/328788009",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© benackerley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 328788009,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "whiskered_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951591/bird-gallery/whiskered_tern/wikimedia/whiskered_tern_1.jpg",
+      "public_id": "bird-gallery/whiskered_tern/wikimedia/whiskered_tern_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 153808,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_50601296006_f53b6ab5c4_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951594/bird-gallery/whiskered_tern/avibase/avibase_2_50601296006_f53b6ab5c4_b.jpg",
+      "public_id": "bird-gallery/whiskered_tern/avibase/avibase_2_50601296006_f53b6ab5c4_b",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 29331,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50601296006",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_33388355871_1cc34a62ec_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951596/bird-gallery/whiskered_tern/avibase/avibase_3_33388355871_1cc34a62ec_b.jpg",
+      "public_id": "bird-gallery/whiskered_tern/avibase/avibase_3_33388355871_1cc34a62ec_b",
+      "width": 1024,
+      "height": 718,
+      "format": "jpg",
+      "bytes": 12055,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "33388355871",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "whiskered_tern_358721141.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770951685/bird-gallery/whiskered_tern/sounds/whiskered_tern_358721141.mp3",
+      "public_id": "bird-gallery/whiskered_tern/sounds/whiskered_tern_358721141",
+      "duration": 16.968,
+      "format": "mp3",
+      "bytes": 350204,
+      "bit_rate": 165112,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "358721141",
+        "asset_url": "https://macaulaylibrary.org/asset/358721141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

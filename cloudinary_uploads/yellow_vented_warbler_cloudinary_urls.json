@@ -1,0 +1,152 @@
+{
+  "bird_info": {
+    "slug": "yellow_vented_warbler",
+    "chinese_name": "黄胸柳莺",
+    "english_name": "Yellow-vented Warbler",
+    "scientific_name": "Phylloscopus cantator"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_vented_warbler_184691791.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373941/bird-gallery/yellow_vented_warbler/macaulay/yellow_vented_warbler_184691791.jpg",
+      "public_id": "bird-gallery/yellow_vented_warbler/macaulay/yellow_vented_warbler_184691791",
+      "width": 1200,
+      "height": 664,
+      "format": "jpg",
+      "bytes": 87257,
+      "attribution": {
+        "photographer": "Krishna Murthy",
+        "photographer_url": "https://macaulaylibrary.org/asset/184691791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Krishna Murthy; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "184691791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_vented_warbler_375921131.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373950/bird-gallery/yellow_vented_warbler/macaulay/yellow_vented_warbler_375921131.jpg",
+      "public_id": "bird-gallery/yellow_vented_warbler/macaulay/yellow_vented_warbler_375921131",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83422,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/375921131",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "375921131",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_vented_warbler_617571779.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373955/bird-gallery/yellow_vented_warbler/macaulay/yellow_vented_warbler_617571779.jpg",
+      "public_id": "bird-gallery/yellow_vented_warbler/macaulay/yellow_vented_warbler_617571779",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 52380,
+      "attribution": {
+        "photographer": "Chris Venetz | Ornis Birding Expeditions",
+        "photographer_url": "https://macaulaylibrary.org/asset/617571779",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Chris Venetz | Ornis Birding Expeditions; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "617571779",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_vented_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373961/bird-gallery/yellow_vented_warbler/inaturalist/yellow_vented_warbler_2.jpg",
+      "public_id": "bird-gallery/yellow_vented_warbler/inaturalist/yellow_vented_warbler_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48333,
+      "attribution": {
+        "photographer": "avi_chat",
+        "photographer_url": "https://www.inaturalist.org/observations/27252720",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© avi_chat (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 27252720,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_vented_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373963/bird-gallery/yellow_vented_warbler/inaturalist/yellow_vented_warbler_3.jpg",
+      "public_id": "bird-gallery/yellow_vented_warbler/inaturalist/yellow_vented_warbler_3",
+      "width": 1024,
+      "height": 605,
+      "format": "jpg",
+      "bytes": 57357,
+      "attribution": {
+        "photographer": "yaoyaoo",
+        "photographer_url": "https://www.inaturalist.org/observations/265041486",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© yaoyaoo (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 265041486,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53573627963_134ed9ddb9_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373965/bird-gallery/yellow_vented_warbler/avibase/avibase_1_53573627963_134ed9ddb9_b.jpg",
+      "public_id": "bird-gallery/yellow_vented_warbler/avibase/avibase_1_53573627963_134ed9ddb9_b",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 67804,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53573627963",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "yellow_vented_warbler_204005261.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374815/bird-gallery/yellow_vented_warbler/sounds/yellow_vented_warbler_204005261.mp3",
+      "public_id": "bird-gallery/yellow_vented_warbler/sounds/yellow_vented_warbler_204005261",
+      "duration": 26.352,
+      "format": "mp3",
+      "bytes": 631292,
+      "bit_rate": 191649,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "204005261",
+        "asset_url": "https://macaulaylibrary.org/asset/204005261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

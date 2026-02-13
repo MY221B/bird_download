@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "common_greenshank",
+    "chinese_name": "青脚鹬",
+    "english_name": "Common Greenshank",
+    "scientific_name": "Tringa nebularia"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_greenshank_262646901.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803806/bird-gallery/common_greenshank/macaulay/common_greenshank_262646901.jpg",
+      "public_id": "bird-gallery/common_greenshank/macaulay/common_greenshank_262646901",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56958,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/262646901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "262646901",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_greenshank_577002671.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803808/bird-gallery/common_greenshank/macaulay/common_greenshank_577002671.jpg",
+      "public_id": "bird-gallery/common_greenshank/macaulay/common_greenshank_577002671",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 94230,
+      "attribution": {
+        "photographer": "Kike Junco",
+        "photographer_url": "https://macaulaylibrary.org/asset/577002671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kike Junco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "577002671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_greenshank_645972110.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770951387/bird-gallery/common_greenshank/macaulay/common_greenshank_645972110.jpg",
+      "public_id": "bird-gallery/common_greenshank/macaulay/common_greenshank_645972110",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 70632,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645972110",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645972110",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_greenshank_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803812/bird-gallery/common_greenshank/inaturalist/common_greenshank_3.jpg",
+      "public_id": "bird-gallery/common_greenshank/inaturalist/common_greenshank_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 50370,
+      "attribution": {
+        "photographer": "shivvarudra",
+        "photographer_url": "https://www.inaturalist.org/observations/78334164",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© shivvarudra (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 78334164,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "common_greenshank_439989201.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768803887/bird-gallery/common_greenshank/sounds/common_greenshank_439989201.mp3",
+      "public_id": "bird-gallery/common_greenshank/sounds/common_greenshank_439989201",
+      "duration": 5.088,
+      "format": "mp3",
+      "bytes": 74972,
+      "bit_rate": 117880,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "439989201",
+        "asset_url": "https://macaulaylibrary.org/asset/439989201",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

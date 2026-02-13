@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "ashy_woodswallow",
+    "chinese_name": "灰燕鵙",
+    "english_name": "Ashy Woodswallow",
+    "scientific_name": "Artamus fuscus"
+  },
+  "macaulay": [
+    {
+      "original_file": "ashy_woodswallow_276975121.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373510/bird-gallery/ashy_woodswallow/macaulay/ashy_woodswallow_276975121.jpg",
+      "public_id": "bird-gallery/ashy_woodswallow/macaulay/ashy_woodswallow_276975121",
+      "width": 1200,
+      "height": 829,
+      "format": "jpg",
+      "bytes": 77196,
+      "attribution": {
+        "photographer": "Dr Mohammed Umer  Sharieff",
+        "photographer_url": "https://macaulaylibrary.org/asset/276975121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dr Mohammed Umer  Sharieff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "276975121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ashy_woodswallow_613265524.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373515/bird-gallery/ashy_woodswallow/macaulay/ashy_woodswallow_613265524.jpg",
+      "public_id": "bird-gallery/ashy_woodswallow/macaulay/ashy_woodswallow_613265524",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 47779,
+      "attribution": {
+        "photographer": "Vikram S",
+        "photographer_url": "https://macaulaylibrary.org/asset/613265524",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vikram S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "613265524",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ashy_woodswallow_621865581.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373520/bird-gallery/ashy_woodswallow/macaulay/ashy_woodswallow_621865581.jpg",
+      "public_id": "bird-gallery/ashy_woodswallow/macaulay/ashy_woodswallow_621865581",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82283,
+      "attribution": {
+        "photographer": "Vikram S",
+        "photographer_url": "https://macaulaylibrary.org/asset/621865581",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vikram S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "621865581",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ashy_woodswallow_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373526/bird-gallery/ashy_woodswallow/inaturalist/ashy_woodswallow_1.jpg",
+      "public_id": "bird-gallery/ashy_woodswallow/inaturalist/ashy_woodswallow_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 32461,
+      "attribution": {
+        "photographer": "akw123",
+        "photographer_url": "https://www.inaturalist.org/observations/213338020",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© akw123 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 213338020,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "ashy_woodswallow_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770373531/bird-gallery/ashy_woodswallow/wikimedia/ashy_woodswallow_1.jpg",
+      "public_id": "bird-gallery/ashy_woodswallow/wikimedia/ashy_woodswallow_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 80470,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "ashy_woodswallow_363615951.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374724/bird-gallery/ashy_woodswallow/sounds/ashy_woodswallow_363615951.mp3",
+      "public_id": "bird-gallery/ashy_woodswallow/sounds/ashy_woodswallow_363615951",
+      "duration": 11.064,
+      "format": "mp3",
+      "bytes": 211436,
+      "bit_rate": 152882,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "363615951",
+        "asset_url": "https://macaulaylibrary.org/asset/363615951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

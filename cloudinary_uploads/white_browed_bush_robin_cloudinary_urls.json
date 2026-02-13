@@ -1,0 +1,153 @@
+{
+  "bird_info": {
+    "slug": "white_browed_bush_robin",
+    "chinese_name": "白眉林鸲",
+    "english_name": "White-browed Bush Robin",
+    "scientific_name": "Tarsiger indicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_browed_bush_robin_367706021.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374418/bird-gallery/white_browed_bush_robin/macaulay/white_browed_bush_robin_367706021.jpg",
+      "public_id": "bird-gallery/white_browed_bush_robin/macaulay/white_browed_bush_robin_367706021",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93947,
+      "attribution": {
+        "photographer": "Ajoy Kumar Dawn",
+        "photographer_url": "https://macaulaylibrary.org/asset/367706021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ajoy Kumar Dawn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "367706021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_bush_robin_538870281.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374424/bird-gallery/white_browed_bush_robin/macaulay/white_browed_bush_robin_538870281.jpg",
+      "public_id": "bird-gallery/white_browed_bush_robin/macaulay/white_browed_bush_robin_538870281",
+      "width": 1200,
+      "height": 941,
+      "format": "jpg",
+      "bytes": 187784,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/538870281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "538870281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_bush_robin_647352986.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374428/bird-gallery/white_browed_bush_robin/macaulay/white_browed_bush_robin_647352986.jpg",
+      "public_id": "bird-gallery/white_browed_bush_robin/macaulay/white_browed_bush_robin_647352986",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 75785,
+      "attribution": {
+        "photographer": "世界鳥王顧真如 （Joseph Gu）",
+        "photographer_url": "https://macaulaylibrary.org/asset/647352986",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by 世界鳥王顧真如 （Joseph Gu）; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "647352986",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_browed_bush_robin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374433/bird-gallery/white_browed_bush_robin/inaturalist/white_browed_bush_robin_1.jpg",
+      "public_id": "bird-gallery/white_browed_bush_robin/inaturalist/white_browed_bush_robin_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 147217,
+      "attribution": {
+        "photographer": "ou_wildlife",
+        "photographer_url": "https://www.inaturalist.org/observations/212444369",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ou_wildlife (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 212444369,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "white_browed_bush_robin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374438/bird-gallery/white_browed_bush_robin/wikimedia/white_browed_bush_robin_1.jpg",
+      "public_id": "bird-gallery/white_browed_bush_robin/wikimedia/white_browed_bush_robin_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 131656,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_52661234988_07f388ce00_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770374441/bird-gallery/white_browed_bush_robin/avibase/avibase_2_52661234988_07f388ce00_b.jpg",
+      "public_id": "bird-gallery/white_browed_bush_robin/avibase/avibase_2_52661234988_07f388ce00_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 101041,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52661234988",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "white_browed_bush_robin_11270.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374925/bird-gallery/white_browed_bush_robin/sounds/white_browed_bush_robin_11270.mp3",
+      "public_id": "bird-gallery/white_browed_bush_robin/sounds/white_browed_bush_robin_11270",
+      "duration": 172.056,
+      "format": "mp3",
+      "bytes": 2307476,
+      "bit_rate": 107289,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "11270",
+        "asset_url": "https://macaulaylibrary.org/asset/11270",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

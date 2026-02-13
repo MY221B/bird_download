@@ -1,0 +1,153 @@
+{
+  "bird_info": {
+    "slug": "eurasian_jay",
+    "chinese_name": "松鸦",
+    "english_name": "Eurasian Jay",
+    "scientific_name": "Garrulus glandarius"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_jay_241250471.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370612/bird-gallery/eurasian_jay/macaulay/eurasian_jay_241250471.jpg",
+      "public_id": "bird-gallery/eurasian_jay/macaulay/eurasian_jay_241250471",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103424,
+      "attribution": {
+        "photographer": "John Higgins",
+        "photographer_url": "https://macaulaylibrary.org/asset/241250471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by John Higgins; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "241250471",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_jay_312283911.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370617/bird-gallery/eurasian_jay/macaulay/eurasian_jay_312283911.jpg",
+      "public_id": "bird-gallery/eurasian_jay/macaulay/eurasian_jay_312283911",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 87846,
+      "attribution": {
+        "photographer": "Mario Vigo",
+        "photographer_url": "https://macaulaylibrary.org/asset/312283911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Mario Vigo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "312283911",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_jay_620075782.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370622/bird-gallery/eurasian_jay/macaulay/eurasian_jay_620075782.jpg",
+      "public_id": "bird-gallery/eurasian_jay/macaulay/eurasian_jay_620075782",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 147370,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/620075782",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "620075782",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_jay_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370627/bird-gallery/eurasian_jay/inaturalist/eurasian_jay_1.jpg",
+      "public_id": "bird-gallery/eurasian_jay/inaturalist/eurasian_jay_1",
+      "width": 1024,
+      "height": 645,
+      "format": "jpg",
+      "bytes": 20672,
+      "attribution": {
+        "photographer": "ausrazilinskiene",
+        "photographer_url": "https://www.inaturalist.org/observations/9125296",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ausrazilinskiene (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9125296,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_jay_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370632/bird-gallery/eurasian_jay/wikimedia/eurasian_jay_1.jpg",
+      "public_id": "bird-gallery/eurasian_jay/wikimedia/eurasian_jay_1",
+      "width": 1280,
+      "height": 875,
+      "format": "jpg",
+      "bytes": 97699,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51182523027_0c179ae1fd_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370633/bird-gallery/eurasian_jay/avibase/avibase_1_51182523027_0c179ae1fd_b.jpg",
+      "public_id": "bird-gallery/eurasian_jay/avibase/avibase_1_51182523027_0c179ae1fd_b",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 133696,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51182523027",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "eurasian_jay_365480321.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770370738/bird-gallery/eurasian_jay/sounds/eurasian_jay_365480321.mp3",
+      "public_id": "bird-gallery/eurasian_jay/sounds/eurasian_jay_365480321",
+      "duration": 69.504,
+      "format": "mp3",
+      "bytes": 1780556,
+      "bit_rate": 204944,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "365480321",
+        "asset_url": "https://macaulaylibrary.org/asset/365480321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

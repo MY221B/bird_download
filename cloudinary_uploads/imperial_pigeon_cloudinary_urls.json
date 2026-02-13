@@ -164,5 +164,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "imperial_pigeon_203904671.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770374582/bird-gallery/imperial_pigeon/sounds/imperial_pigeon_203904671.mp3",
+      "public_id": "bird-gallery/imperial_pigeon/sounds/imperial_pigeon_203904671",
+      "duration": 32.16,
+      "format": "mp3",
+      "bytes": 325292,
+      "bit_rate": 80918,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203904671",
+        "asset_url": "https://macaulaylibrary.org/asset/203904671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

@@ -1,0 +1,93 @@
+{
+  "bird_info": {
+    "slug": "grayish_crowned_leafbird",
+    "chinese_name": "橙腹叶鹎",
+    "english_name": "Grayish-crowned Leafbird",
+    "scientific_name": "Chloropsis lazulina"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "grayish_crowned_leafbird_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370578/bird-gallery/grayish_crowned_leafbird/inaturalist/grayish_crowned_leafbird_1.jpg",
+      "public_id": "bird-gallery/grayish_crowned_leafbird/inaturalist/grayish_crowned_leafbird_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55391,
+      "attribution": {
+        "photographer": "abcdefgewing",
+        "photographer_url": "https://www.inaturalist.org/observations/337178657",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© abcdefgewing (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337178657,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grayish_crowned_leafbird_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370580/bird-gallery/grayish_crowned_leafbird/inaturalist/grayish_crowned_leafbird_2.jpg",
+      "public_id": "bird-gallery/grayish_crowned_leafbird/inaturalist/grayish_crowned_leafbird_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78924,
+      "attribution": {
+        "photographer": "lgz",
+        "photographer_url": "https://www.inaturalist.org/observations/197786902",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lgz (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 197786902,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grayish_crowned_leafbird_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770370581/bird-gallery/grayish_crowned_leafbird/inaturalist/grayish_crowned_leafbird_3.jpg",
+      "public_id": "bird-gallery/grayish_crowned_leafbird/inaturalist/grayish_crowned_leafbird_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57015,
+      "attribution": {
+        "photographer": "mengshuai_ge",
+        "photographer_url": "https://www.inaturalist.org/observations/125272367",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mengshuai_ge (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 125272367,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "grayish_crowned_leafbird_632044345.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770370726/bird-gallery/grayish_crowned_leafbird/sounds/grayish_crowned_leafbird_632044345.mp3",
+      "public_id": "bird-gallery/grayish_crowned_leafbird/sounds/grayish_crowned_leafbird_632044345",
+      "duration": 14.952,
+      "format": "mp3",
+      "bytes": 269996,
+      "bit_rate": 144460,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "632044345",
+        "asset_url": "https://macaulaylibrary.org/asset/632044345",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -2,6 +2,22 @@
 
 一个基于 API 的鸟类图片搜索与展示工具，整合 Macaulay Library、iNaturalist、Avibase（Flickr 社区）、Wikimedia；可本地托管或使用 Cloudinary CDN 生成在线展示页。
 
+---
+
+## ⚠️ AI 操作注意事项
+
+**`feather-flash-quiz/` 目录没有自己的 `.git` 文件**，它是一个普通目录。
+
+在该目录内执行任何 `git` 命令（如 `git remote set-url`、`git reset`），都会意外操作**父级 `bird_download` 仓库**，可能导致主仓库文件被覆盖。
+
+操作 `feather-flash-quiz` 的 git 时，必须先 `cd` 进入该目录，确认 `.git` 存在后再操作。
+
+**分支规则：**
+- 主仓库 `bird_download`：只推送到 `main`，**不需要** `develop_lovable` 分支
+- 子仓库 `feather-flash-quiz`：需同时维护 `main` 和 `develop_lovable` 两个分支
+
+---
+
 ## ✨ 特性
 - 🎯 **100% 准确率**：官方 API + 物种标识符 + 自动验证
 - 🌐 **多源整合**：Macaulay、iNaturalist、Wikimedia、Avibase（补充）

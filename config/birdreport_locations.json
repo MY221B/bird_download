@@ -333,6 +333,18 @@
       "default_days": 30,
       "query_level": "city",
       "point_aliases": []
+    },
+    {
+      "id": "lanzhou_shi",
+      "name": "兰州市",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 30,
+      "query_level": "city",
+      "point_aliases": []
     }
   ]
 }

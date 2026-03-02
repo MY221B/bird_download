@@ -64,87 +64,9 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "dusky_fulvetta_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448538/bird-gallery/dusky_fulvetta/inaturalist/dusky_fulvetta_1.jpg",
-      "public_id": "bird-gallery/dusky_fulvetta/inaturalist/dusky_fulvetta_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 68846,
-      "attribution": {
-        "photographer": "yaoyaoo",
-        "photographer_url": "https://www.inaturalist.org/observations/328201653",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© yaoyaoo (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 328201653,
-        "note": null
-      }
-    },
-    {
-      "original_file": "dusky_fulvetta_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448540/bird-gallery/dusky_fulvetta/inaturalist/dusky_fulvetta_2.jpg",
-      "public_id": "bird-gallery/dusky_fulvetta/inaturalist/dusky_fulvetta_2",
-      "width": 1024,
-      "height": 732,
-      "format": "jpg",
-      "bytes": 82365,
-      "attribution": {
-        "photographer": "doggy0406",
-        "photographer_url": "https://www.inaturalist.org/observations/13980463",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© doggy0406 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 13980463,
-        "note": null
-      }
-    },
-    {
-      "original_file": "dusky_fulvetta_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448541/bird-gallery/dusky_fulvetta/inaturalist/dusky_fulvetta_3.jpg",
-      "public_id": "bird-gallery/dusky_fulvetta/inaturalist/dusky_fulvetta_3",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 172794,
-      "attribution": {
-        "photographer": "tzulunhung",
-        "photographer_url": "https://www.inaturalist.org/observations/296969218",
-        "license": "cc-by-nc-sa",
-        "license_url": null,
-        "credit_format": "© tzulunhung (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
-        "source": "inaturalist",
-        "source_id": 296969218,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "dusky_fulvetta_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448542/bird-gallery/dusky_fulvetta/wikimedia/dusky_fulvetta_1.jpg",
-      "public_id": "bird-gallery/dusky_fulvetta/wikimedia/dusky_fulvetta_1",
-      "width": 250,
-      "height": 187,
-      "format": "jpg",
-      "bytes": 9493,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_53675175916_6878d2f1a2_b.jpg",
@@ -162,25 +84,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "53675175916",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_53675175761_693e3b9d6e_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448545/bird-gallery/dusky_fulvetta/avibase/avibase_2_53675175761_693e3b9d6e_b.jpg",
-      "public_id": "bird-gallery/dusky_fulvetta/avibase/avibase_2_53675175761_693e3b9d6e_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 132701,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53675175761",
         "note": "署名信息需从Flickr获取"
       }
     },

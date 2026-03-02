@@ -102,25 +102,6 @@
         "source_id": 164549509,
         "note": null
       }
-    },
-    {
-      "original_file": "kentish_plover_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448052/bird-gallery/kentish_plover/inaturalist/kentish_plover_3.jpg",
-      "public_id": "bird-gallery/kentish_plover/inaturalist/kentish_plover_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 92367,
-      "attribution": {
-        "photographer": "sriram-birdwatcher",
-        "photographer_url": "https://www.inaturalist.org/observations/63628368",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© sriram-birdwatcher (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 63628368,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -146,25 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_53711993957_bfd5358eab_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448055/bird-gallery/kentish_plover/avibase/avibase_1_53711993957_bfd5358eab_b.jpg",
-      "public_id": "bird-gallery/kentish_plover/avibase/avibase_1_53711993957_bfd5358eab_b",
-      "width": 834,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 132314,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53711993957",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_52075597260_ebdd3a8b6a_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448056/bird-gallery/kentish_plover/avibase/avibase_2_52075597260_ebdd3a8b6a_b.jpg",

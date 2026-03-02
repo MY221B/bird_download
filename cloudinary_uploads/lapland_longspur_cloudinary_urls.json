@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "lapland_longspur_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448228/bird-gallery/lapland_longspur/inaturalist/lapland_longspur_2.jpg",
-      "public_id": "bird-gallery/lapland_longspur/inaturalist/lapland_longspur_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 31466,
-      "attribution": {
-        "photographer": "mariyaushakova",
-        "photographer_url": "https://www.inaturalist.org/observations/143562316",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© mariyaushakova (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 143562316,
-        "note": null
-      }
-    },
-    {
       "original_file": "lapland_longspur_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448230/bird-gallery/lapland_longspur/inaturalist/lapland_longspur_3.jpg",
       "public_id": "bird-gallery/lapland_longspur/inaturalist/lapland_longspur_3",
@@ -124,27 +105,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "lapland_longspur_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448231/bird-gallery/lapland_longspur/wikimedia/lapland_longspur_1.jpg",
-      "public_id": "bird-gallery/lapland_longspur/wikimedia/lapland_longspur_1",
-      "width": 250,
-      "height": 181,
-      "format": "jpg",
-      "bytes": 11428,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_52218146832_605d9378d0_b.jpg",

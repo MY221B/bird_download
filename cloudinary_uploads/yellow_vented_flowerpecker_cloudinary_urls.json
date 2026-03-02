@@ -102,49 +102,10 @@
         "source_id": 14310424,
         "note": null
       }
-    },
-    {
-      "original_file": "yellow_vented_flowerpecker_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449109/bird-gallery/yellow_vented_flowerpecker/inaturalist/yellow_vented_flowerpecker_3.jpg",
-      "public_id": "bird-gallery/yellow_vented_flowerpecker/inaturalist/yellow_vented_flowerpecker_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 58304,
-      "attribution": {
-        "photographer": "martin53",
-        "photographer_url": "https://www.inaturalist.org/observations/65791849",
-        "license": "cc-by-nc-nd",
-        "license_url": null,
-        "credit_format": "© martin53 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
-        "source": "inaturalist",
-        "source_id": 65791849,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "yellow_vented_flowerpecker_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449110/bird-gallery/yellow_vented_flowerpecker/wikimedia/yellow_vented_flowerpecker_1.jpg",
-      "public_id": "bird-gallery/yellow_vented_flowerpecker/wikimedia/yellow_vented_flowerpecker_1",
-      "width": 250,
-      "height": 186,
-      "format": "jpg",
-      "bytes": 6270,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_49478291366_c9730b10b8_b.jpg",

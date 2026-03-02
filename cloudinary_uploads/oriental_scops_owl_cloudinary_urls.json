@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "oriental_scops_owl_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768806426/bird-gallery/oriental_scops_owl/inaturalist/oriental_scops_owl_1.jpg",
-      "public_id": "bird-gallery/oriental_scops_owl/inaturalist/oriental_scops_owl_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 75981,
-      "attribution": {
-        "photographer": "renko30830",
-        "photographer_url": "https://www.inaturalist.org/observations/295392717",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© renko30830 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 295392717,
-        "note": null
-      }
-    },
-    {
       "original_file": "oriental_scops_owl_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768806427/bird-gallery/oriental_scops_owl/inaturalist/oriental_scops_owl_2.jpg",
       "public_id": "bird-gallery/oriental_scops_owl/inaturalist/oriental_scops_owl_2",
@@ -162,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "4628168785",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_49443335523_5ff562149e_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448120/bird-gallery/oriental_scops_owl/avibase/avibase_2_49443335523_5ff562149e_b.jpg",
-      "public_id": "bird-gallery/oriental_scops_owl/avibase/avibase_2_49443335523_5ff562149e_b",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 246765,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "49443335523",
         "note": "署名信息需从Flickr获取"
       }
     },

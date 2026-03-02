@@ -64,87 +64,9 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "sand_martin_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449243/bird-gallery/sand_martin/inaturalist/sand_martin_1.jpg",
-      "public_id": "bird-gallery/sand_martin/inaturalist/sand_martin_1",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 137559,
-      "attribution": {
-        "photographer": "bouteloua",
-        "photographer_url": "https://www.inaturalist.org/observations/34504117",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© bouteloua (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 34504117,
-        "note": null
-      }
-    },
-    {
-      "original_file": "sand_martin_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449247/bird-gallery/sand_martin/inaturalist/sand_martin_2.jpg",
-      "public_id": "bird-gallery/sand_martin/inaturalist/sand_martin_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 112431,
-      "attribution": {
-        "photographer": "danilo_hegg",
-        "photographer_url": "https://www.inaturalist.org/observations/74496562",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© danilo_hegg (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 74496562,
-        "note": null
-      }
-    },
-    {
-      "original_file": "sand_martin_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449249/bird-gallery/sand_martin/inaturalist/sand_martin_3.jpg",
-      "public_id": "bird-gallery/sand_martin/inaturalist/sand_martin_3",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 100862,
-      "attribution": {
-        "photographer": "abotanist_",
-        "photographer_url": "https://www.inaturalist.org/observations/70231467",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© abotanist_ (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 70231467,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "sand_martin_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449251/bird-gallery/sand_martin/wikimedia/sand_martin_1.jpg",
-      "public_id": "bird-gallery/sand_martin/wikimedia/sand_martin_1",
-      "width": 1280,
-      "height": 925,
-      "format": "jpg",
-      "bytes": 210689,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_48057671667_86c5311ff0_b.jpg",
@@ -162,44 +84,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "48057671667",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_51303584115_d2b893771c_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449254/bird-gallery/sand_martin/avibase/avibase_2_51303584115_d2b893771c_b.jpg",
-      "public_id": "bird-gallery/sand_martin/avibase/avibase_2_51303584115_d2b893771c_b",
-      "width": 980,
-      "height": 654,
-      "format": "jpg",
-      "bytes": 18652,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51303584115",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_30357771781_a46b0c7b21_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449256/bird-gallery/sand_martin/avibase/avibase_3_30357771781_a46b0c7b21_b.jpg",
-      "public_id": "bird-gallery/sand_martin/avibase/avibase_3_30357771781_a46b0c7b21_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 19282,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "30357771781",
         "note": "署名信息需从Flickr获取"
       }
     }

@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "brown_backed_spinetail_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448998/bird-gallery/brown_backed_spinetail/inaturalist/brown_backed_spinetail_2.jpg",
-      "public_id": "bird-gallery/brown_backed_spinetail/inaturalist/brown_backed_spinetail_2",
-      "width": 1024,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 44097,
-      "attribution": {
-        "photographer": "plains-wanderer",
-        "photographer_url": "https://www.inaturalist.org/observations/65421708",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© plains-wanderer (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 65421708,
-        "note": null
-      }
-    },
-    {
       "original_file": "brown_backed_spinetail_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448999/bird-gallery/brown_backed_spinetail/inaturalist/brown_backed_spinetail_3.jpg",
       "public_id": "bird-gallery/brown_backed_spinetail/inaturalist/brown_backed_spinetail_3",
@@ -125,65 +106,7 @@
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": [
-    {
-      "original_file": "avibase_1_19570582995_466ddbd0cd_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449000/bird-gallery/brown_backed_spinetail/avibase/avibase_1_19570582995_466ddbd0cd_b.jpg",
-      "public_id": "bird-gallery/brown_backed_spinetail/avibase/avibase_1_19570582995_466ddbd0cd_b",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 41708,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "19570582995",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_8603332350_4cfdba2fca_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449002/bird-gallery/brown_backed_spinetail/avibase/avibase_2_8603332350_4cfdba2fca_b.jpg",
-      "public_id": "bird-gallery/brown_backed_spinetail/avibase/avibase_2_8603332350_4cfdba2fca_b",
-      "width": 1015,
-      "height": 573,
-      "format": "jpg",
-      "bytes": 74516,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "8603332350",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_50965239147_ffbb8e3f4a_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449004/bird-gallery/brown_backed_spinetail/avibase/avibase_3_50965239147_ffbb8e3f4a_b.jpg",
-      "public_id": "bird-gallery/brown_backed_spinetail/avibase/avibase_3_50965239147_ffbb8e3f4a_b",
-      "width": 1024,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 23388,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "50965239147",
-        "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "brown_backed_spinetail_181328281.mp3",

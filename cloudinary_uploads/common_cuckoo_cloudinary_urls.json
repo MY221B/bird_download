@@ -145,65 +145,7 @@
       }
     }
   ],
-  "avibase": [
-    {
-      "original_file": "avibase_1_51162365437_4f5849722f_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448025/bird-gallery/common_cuckoo/avibase/avibase_1_51162365437_4f5849722f_b.jpg",
-      "public_id": "bird-gallery/common_cuckoo/avibase/avibase_1_51162365437_4f5849722f_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 59716,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51162365437",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_54480151813_0139bd9d41_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448027/bird-gallery/common_cuckoo/avibase/avibase_2_54480151813_0139bd9d41_b.jpg",
-      "public_id": "bird-gallery/common_cuckoo/avibase/avibase_2_54480151813_0139bd9d41_b",
-      "width": 1013,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 70051,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54480151813",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_54560900914_7d0945bb1e_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448028/bird-gallery/common_cuckoo/avibase/avibase_3_54560900914_7d0945bb1e_b.jpg",
-      "public_id": "bird-gallery/common_cuckoo/avibase/avibase_3_54560900914_7d0945bb1e_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 49266,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54560900914",
-        "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "common_cuckoo_144060371.mp3",

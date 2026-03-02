@@ -24,44 +24,6 @@
         "source_id": "459354171",
         "note": null
       }
-    },
-    {
-      "original_file": "hodgsons_frogmouth_459354181.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448904/bird-gallery/hodgsons_frogmouth/macaulay/hodgsons_frogmouth_459354181.jpg",
-      "public_id": "bird-gallery/hodgsons_frogmouth/macaulay/hodgsons_frogmouth_459354181",
-      "width": 1200,
-      "height": 857,
-      "format": "jpg",
-      "bytes": 122835,
-      "attribution": {
-        "photographer": "Ayuwat Jearwattanakanok",
-        "photographer_url": "https://macaulaylibrary.org/asset/459354181",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
-        "source": "macaulay",
-        "source_id": "459354181",
-        "note": null
-      }
-    },
-    {
-      "original_file": "hodgsons_frogmouth_459354191.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448910/bird-gallery/hodgsons_frogmouth/macaulay/hodgsons_frogmouth_459354191.jpg",
-      "public_id": "bird-gallery/hodgsons_frogmouth/macaulay/hodgsons_frogmouth_459354191",
-      "width": 1200,
-      "height": 857,
-      "format": "jpg",
-      "bytes": 113391,
-      "attribution": {
-        "photographer": "Ayuwat Jearwattanakanok",
-        "photographer_url": "https://macaulaylibrary.org/asset/459354191",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
-        "source": "macaulay",
-        "source_id": "459354191",
-        "note": null
-      }
     }
   ],
   "inaturalist": [
@@ -81,44 +43,6 @@
         "credit_format": "© lenachow (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
         "source_id": 45877417,
-        "note": null
-      }
-    },
-    {
-      "original_file": "hodgsons_frogmouth_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448917/bird-gallery/hodgsons_frogmouth/inaturalist/hodgsons_frogmouth_2.jpg",
-      "public_id": "bird-gallery/hodgsons_frogmouth/inaturalist/hodgsons_frogmouth_2",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 107120,
-      "attribution": {
-        "photographer": "masonfl",
-        "photographer_url": "https://www.inaturalist.org/observations/263231509",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© masonfl (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 263231509,
-        "note": null
-      }
-    },
-    {
-      "original_file": "hodgsons_frogmouth_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448919/bird-gallery/hodgsons_frogmouth/inaturalist/hodgsons_frogmouth_3.jpg",
-      "public_id": "bird-gallery/hodgsons_frogmouth/inaturalist/hodgsons_frogmouth_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 116139,
-      "attribution": {
-        "photographer": "sukal",
-        "photographer_url": "https://www.inaturalist.org/observations/294059704",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© sukal (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 294059704,
         "note": null
       }
     }

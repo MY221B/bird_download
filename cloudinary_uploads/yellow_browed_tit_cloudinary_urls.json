@@ -102,25 +102,6 @@
         "source_id": 65929569,
         "note": null
       }
-    },
-    {
-      "original_file": "yellow_browed_tit_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448514/bird-gallery/yellow_browed_tit/inaturalist/yellow_browed_tit_3.jpg",
-      "public_id": "bird-gallery/yellow_browed_tit/inaturalist/yellow_browed_tit_3",
-      "width": 870,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 250807,
-      "attribution": {
-        "photographer": "parthparikh",
-        "photographer_url": "https://www.inaturalist.org/observations/201451920",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© parthparikh (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 201451920,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -146,25 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_51255245995_d89779324b_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448516/bird-gallery/yellow_browed_tit/avibase/avibase_1_51255245995_d89779324b_b.jpg",
-      "public_id": "bird-gallery/yellow_browed_tit/avibase/avibase_1_51255245995_d89779324b_b",
-      "width": 1024,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 70386,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51255245995",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_53536967921_0d251fa32b_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772448518/bird-gallery/yellow_browed_tit/avibase/avibase_2_53536967921_0d251fa32b_b.jpg",

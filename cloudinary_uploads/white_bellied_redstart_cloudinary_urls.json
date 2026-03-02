@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "white_bellied_redstart_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449079/bird-gallery/white_bellied_redstart/inaturalist/white_bellied_redstart_2.jpg",
-      "public_id": "bird-gallery/white_bellied_redstart/inaturalist/white_bellied_redstart_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 71716,
-      "attribution": {
-        "photographer": "markuslilje",
-        "photographer_url": "https://www.inaturalist.org/observations/9893721",
-        "license": "cc-by-nc-nd",
-        "license_url": null,
-        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
-        "source": "inaturalist",
-        "source_id": 9893721,
-        "note": null
-      }
-    },
-    {
       "original_file": "white_bellied_redstart_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449081/bird-gallery/white_bellied_redstart/inaturalist/white_bellied_redstart_3.jpg",
       "public_id": "bird-gallery/white_bellied_redstart/inaturalist/white_bellied_redstart_3",
@@ -146,25 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_54400443546_8a56a9cbaf_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449084/bird-gallery/white_bellied_redstart/avibase/avibase_1_54400443546_8a56a9cbaf_b.jpg",
-      "public_id": "bird-gallery/white_bellied_redstart/avibase/avibase_1_54400443546_8a56a9cbaf_b",
-      "width": 1023,
-      "height": 731,
-      "format": "jpg",
-      "bytes": 94943,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54400443546",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_33578260522_d6ca3e45e7_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449085/bird-gallery/white_bellied_redstart/avibase/avibase_2_33578260522_d6ca3e45e7_b.jpg",

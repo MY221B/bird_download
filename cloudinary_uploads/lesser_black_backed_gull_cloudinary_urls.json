@@ -26,25 +26,6 @@
       }
     },
     {
-      "original_file": "lesser_black_backed_gull_429282931.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467300/bird-gallery/lesser_black_backed_gull/macaulay/lesser_black_backed_gull_429282931.jpg",
-      "public_id": "bird-gallery/lesser_black_backed_gull/macaulay/lesser_black_backed_gull_429282931",
-      "width": 1200,
-      "height": 800,
-      "format": "jpg",
-      "bytes": 65406,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": "https://macaulaylibrary.org/asset/429282931",
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "macaulay",
-        "source_id": "429282931",
-        "note": null
-      }
-    },
-    {
       "original_file": "lesser_black_backed_gull_618537029.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467306/bird-gallery/lesser_black_backed_gull/macaulay/lesser_black_backed_gull_618537029.jpg",
       "public_id": "bird-gallery/lesser_black_backed_gull/macaulay/lesser_black_backed_gull_618537029",
@@ -65,25 +46,6 @@
     }
   ],
   "inaturalist": [
-    {
-      "original_file": "lesser_black_backed_gull_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467311/bird-gallery/lesser_black_backed_gull/inaturalist/lesser_black_backed_gull_1.jpg",
-      "public_id": "bird-gallery/lesser_black_backed_gull/inaturalist/lesser_black_backed_gull_1",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 99143,
-      "attribution": {
-        "photographer": "karakaxa",
-        "photographer_url": "https://www.inaturalist.org/observations/126688556",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© karakaxa (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 126688556,
-        "note": null
-      }
-    },
     {
       "original_file": "lesser_black_backed_gull_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467314/bird-gallery/lesser_black_backed_gull/inaturalist/lesser_black_backed_gull_2.jpg",
@@ -181,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "54272571425",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_51730644065_71ec91a17f_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467324/bird-gallery/lesser_black_backed_gull/avibase/avibase_3_51730644065_71ec91a17f_b.jpg",
-      "public_id": "bird-gallery/lesser_black_backed_gull/avibase/avibase_3_51730644065_71ec91a17f_b",
-      "width": 1024,
-      "height": 678,
-      "format": "jpg",
-      "bytes": 83637,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51730644065",
         "note": "署名信息需从Flickr获取"
       }
     }

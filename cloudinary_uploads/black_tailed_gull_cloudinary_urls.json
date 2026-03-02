@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "black_tailed_gull_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467344/bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_1.jpg",
-      "public_id": "bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_1",
-      "width": 473,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 60680,
-      "attribution": {
-        "photographer": "e2gb",
-        "photographer_url": "https://www.inaturalist.org/observations/212543015",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© e2gb (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 212543015,
-        "note": null
-      }
-    },
-    {
       "original_file": "black_tailed_gull_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467346/bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_2.jpg",
       "public_id": "bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_2",
@@ -124,27 +105,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "black_tailed_gull_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467348/bird-gallery/black_tailed_gull/wikimedia/black_tailed_gull_1.jpg",
-      "public_id": "bird-gallery/black_tailed_gull/wikimedia/black_tailed_gull_1",
-      "width": 120,
-      "height": 89,
-      "format": "jpg",
-      "bytes": 3845,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_47961634268_eff1292c12_b.jpg",
@@ -181,25 +142,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "15273548065",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_15086800739_7d9b05d088_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467352/bird-gallery/black_tailed_gull/avibase/avibase_3_15086800739_7d9b05d088_b.jpg",
-      "public_id": "bird-gallery/black_tailed_gull/avibase/avibase_3_15086800739_7d9b05d088_b",
-      "width": 1024,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 120389,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "15086800739",
         "note": "署名信息需从Flickr获取"
       }
     }

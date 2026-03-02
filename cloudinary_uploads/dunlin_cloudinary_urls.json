@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "dunlin_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803784/bird-gallery/dunlin/inaturalist/dunlin_1.jpg",
-      "public_id": "bird-gallery/dunlin/inaturalist/dunlin_1",
-      "width": 1024,
-      "height": 679,
-      "format": "jpg",
-      "bytes": 91088,
-      "attribution": {
-        "photographer": "swampster",
-        "photographer_url": "https://www.inaturalist.org/observations/106181024",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© swampster (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 106181024,
-        "note": null
-      }
-    },
-    {
       "original_file": "dunlin_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467537/bird-gallery/dunlin/inaturalist/dunlin_2.jpg",
       "public_id": "bird-gallery/dunlin/inaturalist/dunlin_2",
@@ -102,69 +83,11 @@
         "source_id": 68098433,
         "note": null
       }
-    },
-    {
-      "original_file": "dunlin_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467539/bird-gallery/dunlin/inaturalist/dunlin_3.jpg",
-      "public_id": "bird-gallery/dunlin/inaturalist/dunlin_3",
-      "width": 1024,
-      "height": 622,
-      "format": "jpg",
-      "bytes": 50287,
-      "attribution": {
-        "photographer": "tiwane",
-        "photographer_url": "https://www.inaturalist.org/observations/65199370",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© tiwane (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 65199370,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "dunlin_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803788/bird-gallery/dunlin/wikimedia/dunlin_1.jpg",
-      "public_id": "bird-gallery/dunlin/wikimedia/dunlin_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 9393,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
-    {
-      "original_file": "avibase_1_44932957092_ec092ed293_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467542/bird-gallery/dunlin/avibase/avibase_1_44932957092_ec092ed293_b.jpg",
-      "public_id": "bird-gallery/dunlin/avibase/avibase_1_44932957092_ec092ed293_b",
-      "width": 1024,
-      "height": 510,
-      "format": "jpg",
-      "bytes": 73112,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "44932957092",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_52698685518_390776b4ff_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467543/bird-gallery/dunlin/avibase/avibase_2_52698685518_390776b4ff_b.jpg",
@@ -181,25 +104,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "52698685518",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_51727784964_6b62041bfd_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467545/bird-gallery/dunlin/avibase/avibase_3_51727784964_6b62041bfd_b.jpg",
-      "public_id": "bird-gallery/dunlin/avibase/avibase_3_51727784964_6b62041bfd_b",
-      "width": 1024,
-      "height": 576,
-      "format": "jpg",
-      "bytes": 77856,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51727784964",
         "note": "署名信息需从Flickr获取"
       }
     }

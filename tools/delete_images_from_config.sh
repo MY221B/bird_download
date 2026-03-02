@@ -139,6 +139,8 @@ else
     # 推送到 main 分支
     echo -e "🚀 推送子模块到 origin/main..."
     git checkout main 2>/dev/null || git checkout -b main
+    echo -e "🔄 拉取远程 main 最新改动..."
+    git pull origin main --no-rebase
     git push origin main
 
     # 同时推送到 develop_lovable 分支
@@ -178,6 +180,8 @@ if [[ -n "$(git status --porcelain)" ]]; then
     # 推送到 main 分支（主仓库只推送到 main）
     echo -e "🚀 推送主仓库到 origin/main..."
     git checkout main 2>/dev/null || git checkout -b main
+    echo -e "🔄 拉取远程 main 最新改动..."
+    git pull origin main --no-rebase
     git push origin main
     
     echo -e "${GREEN}✅ 主仓库已推送到 main 分支${NC}"

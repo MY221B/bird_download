@@ -130,7 +130,9 @@ if [[ -n "$(git status --porcelain)" ]]; then
     git commit --quiet -m "${MAIN_COMMIT_MSG}"
     echo "$(git diff HEAD~1 --shortstat)"
     
-    # 推送到 main
+    # 拉取远程 main 最新改动后再推送
+    echo "🔄 拉取远程 main 最新改动..."
+    git pull origin main --no-rebase
     echo "🚀 推送主仓库到 main..."
     git push --quiet origin main
     echo "✨ 主仓库推送成功（main）"

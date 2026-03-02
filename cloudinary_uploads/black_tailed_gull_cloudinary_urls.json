@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "black_tailed_gull",
+    "chinese_name": "黑尾鸥",
+    "english_name": "Black-tailed Gull",
+    "scientific_name": "Larus crassirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_tailed_gull_567444491.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467327/bird-gallery/black_tailed_gull/macaulay/black_tailed_gull_567444491.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/macaulay/black_tailed_gull_567444491",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 51309,
+      "attribution": {
+        "photographer": "Joachim Bertrands | Ornis Birding Expeditions",
+        "photographer_url": "https://macaulaylibrary.org/asset/567444491",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Joachim Bertrands | Ornis Birding Expeditions; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "567444491",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_tailed_gull_619843062.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467333/bird-gallery/black_tailed_gull/macaulay/black_tailed_gull_619843062.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/macaulay/black_tailed_gull_619843062",
+      "width": 1200,
+      "height": 816,
+      "format": "jpg",
+      "bytes": 48450,
+      "attribution": {
+        "photographer": "Anonymous eBirber",
+        "photographer_url": "https://macaulaylibrary.org/asset/619843062",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous eBirber; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "619843062",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_tailed_gull_76326981.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467339/bird-gallery/black_tailed_gull/macaulay/black_tailed_gull_76326981.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/macaulay/black_tailed_gull_76326981",
+      "width": 1200,
+      "height": 937,
+      "format": "jpg",
+      "bytes": 117427,
+      "attribution": {
+        "photographer": "Eric VanderWerf",
+        "photographer_url": "https://macaulaylibrary.org/asset/76326981",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Eric VanderWerf; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "76326981",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_tailed_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467344/bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_1.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_1",
+      "width": 473,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 60680,
+      "attribution": {
+        "photographer": "e2gb",
+        "photographer_url": "https://www.inaturalist.org/observations/212543015",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© e2gb (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 212543015,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_tailed_gull_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467346/bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_2.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48655,
+      "attribution": {
+        "photographer": "mattrempel",
+        "photographer_url": "https://www.inaturalist.org/observations/10955140",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© mattrempel (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 10955140,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_tailed_gull_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467347/bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_3.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/inaturalist/black_tailed_gull_3",
+      "width": 860,
+      "height": 573,
+      "format": "jpg",
+      "bytes": 15351,
+      "attribution": {
+        "photographer": "gg_copen",
+        "photographer_url": "https://www.inaturalist.org/observations/332266883",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gg_copen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 332266883,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "black_tailed_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467348/bird-gallery/black_tailed_gull/wikimedia/black_tailed_gull_1.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/wikimedia/black_tailed_gull_1",
+      "width": 120,
+      "height": 89,
+      "format": "jpg",
+      "bytes": 3845,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_47961634268_eff1292c12_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467349/bird-gallery/black_tailed_gull/avibase/avibase_1_47961634268_eff1292c12_b.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/avibase/avibase_1_47961634268_eff1292c12_b",
+      "width": 1024,
+      "height": 875,
+      "format": "jpg",
+      "bytes": 104495,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "47961634268",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_15273548065_10fd8d9f43_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467351/bird-gallery/black_tailed_gull/avibase/avibase_2_15273548065_10fd8d9f43_b.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/avibase/avibase_2_15273548065_10fd8d9f43_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 101488,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15273548065",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_15086800739_7d9b05d088_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467352/bird-gallery/black_tailed_gull/avibase/avibase_3_15086800739_7d9b05d088_b.jpg",
+      "public_id": "bird-gallery/black_tailed_gull/avibase/avibase_3_15086800739_7d9b05d088_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 120389,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15086800739",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_tailed_gull_596967951.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772467371/bird-gallery/black_tailed_gull/sounds/black_tailed_gull_596967951.mp3",
+      "public_id": "bird-gallery/black_tailed_gull/sounds/black_tailed_gull_596967951",
+      "duration": 43.08,
+      "format": "mp3",
+      "bytes": 572588,
+      "bit_rate": 106330,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "596967951",
+        "asset_url": "https://macaulaylibrary.org/asset/596967951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "black_faced_spoonbill",
+    "chinese_name": "黑脸琵鹭",
+    "english_name": "Black-faced Spoonbill",
+    "scientific_name": "Platalea minor"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_faced_spoonbill_464394551.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467490/bird-gallery/black_faced_spoonbill/macaulay/black_faced_spoonbill_464394551.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/macaulay/black_faced_spoonbill_464394551",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69803,
+      "attribution": {
+        "photographer": "Yi-Cheng Chen",
+        "photographer_url": "https://macaulaylibrary.org/asset/464394551",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Yi-Cheng Chen; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "464394551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_faced_spoonbill_614213298.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467497/bird-gallery/black_faced_spoonbill/macaulay/black_faced_spoonbill_614213298.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/macaulay/black_faced_spoonbill_614213298",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 48352,
+      "attribution": {
+        "photographer": "Ian Mo",
+        "photographer_url": "https://macaulaylibrary.org/asset/614213298",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Mo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "614213298",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_faced_spoonbill_615203063.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467502/bird-gallery/black_faced_spoonbill/macaulay/black_faced_spoonbill_615203063.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/macaulay/black_faced_spoonbill_615203063",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51984,
+      "attribution": {
+        "photographer": "Ian Mo",
+        "photographer_url": "https://macaulaylibrary.org/asset/615203063",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Mo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "615203063",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_faced_spoonbill_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467508/bird-gallery/black_faced_spoonbill/inaturalist/black_faced_spoonbill_1.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/inaturalist/black_faced_spoonbill_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 56698,
+      "attribution": {
+        "photographer": "iamkcchan",
+        "photographer_url": "https://www.inaturalist.org/observations/145315741",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© iamkcchan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 145315741,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_faced_spoonbill_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467510/bird-gallery/black_faced_spoonbill/inaturalist/black_faced_spoonbill_2.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/inaturalist/black_faced_spoonbill_2",
+      "width": 1024,
+      "height": 748,
+      "format": "jpg",
+      "bytes": 63768,
+      "attribution": {
+        "photographer": "liujimfood",
+        "photographer_url": "https://www.inaturalist.org/observations/266900372",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© liujimfood (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 266900372,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_faced_spoonbill_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467512/bird-gallery/black_faced_spoonbill/inaturalist/black_faced_spoonbill_3.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/inaturalist/black_faced_spoonbill_3",
+      "width": 1024,
+      "height": 783,
+      "format": "jpg",
+      "bytes": 61049,
+      "attribution": {
+        "photographer": "doggy0406",
+        "photographer_url": "https://www.inaturalist.org/observations/106459100",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© doggy0406 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106459100,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "black_faced_spoonbill_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467513/bird-gallery/black_faced_spoonbill/wikimedia/black_faced_spoonbill_1.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/wikimedia/black_faced_spoonbill_1",
+      "width": 250,
+      "height": 150,
+      "format": "jpg",
+      "bytes": 8556,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53465216804_f3ee588b3e_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467514/bird-gallery/black_faced_spoonbill/avibase/avibase_1_53465216804_f3ee588b3e_b.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/avibase/avibase_1_53465216804_f3ee588b3e_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 119994,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53465216804",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_50884158196_8f88cc048d_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467516/bird-gallery/black_faced_spoonbill/avibase/avibase_2_50884158196_8f88cc048d_b.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/avibase/avibase_2_50884158196_8f88cc048d_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 97847,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50884158196",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53661381742_5b4f02d0a8_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772467518/bird-gallery/black_faced_spoonbill/avibase/avibase_3_53661381742_5b4f02d0a8_b.jpg",
+      "public_id": "bird-gallery/black_faced_spoonbill/avibase/avibase_3_53661381742_5b4f02d0a8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 86180,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53661381742",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_faced_spoonbill_614320390.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772467555/bird-gallery/black_faced_spoonbill/sounds/black_faced_spoonbill_614320390.mp3",
+      "public_id": "bird-gallery/black_faced_spoonbill/sounds/black_faced_spoonbill_614320390",
+      "duration": 15.696,
+      "format": "mp3",
+      "bytes": 197036,
+      "bit_rate": 100426,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "614320390",
+        "asset_url": "https://macaulaylibrary.org/asset/614320390",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

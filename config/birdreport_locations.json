@@ -143,6 +143,130 @@
       ]
     },
     {
+      "id": "shiji_gongyuan",
+      "name": "世纪公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "世纪公园"
+      ]
+    },
+    {
+      "id": "binjiang_senlin_gongyuan",
+      "name": "滨江森林公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "滨江森林公园",
+        "滨江森林"
+      ]
+    },
+    {
+      "id": "gaodong_shengtaiyuan",
+      "name": "高东生态园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "高东生态园",
+        "高东"
+      ]
+    },
+    {
+      "id": "wusong_paotaiwan",
+      "name": "吴淞炮台湾湿地森林公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "吴淞炮台湾湿地森林公园",
+        "炮台湾湿地森林公园",
+        "炮台湾"
+      ]
+    },
+    {
+      "id": "nanhui_dongtan",
+      "name": "南汇东滩",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "南汇东滩",
+        "南汇嘴"
+      ]
+    },
+    {
+      "id": "shibo_wenhua_gongyuan",
+      "name": "世博文化公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "世博文化公园",
+        "世博公园"
+      ]
+    },
+    {
+      "id": "shanghai_zhongshan_gongyuan",
+      "name": "中山公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "中山公园"
+      ]
+    },
+    {
+      "id": "shanghai_zhiwuyuan",
+      "name": "上海植物园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "上海植物园"
+      ]
+    },
+    {
+      "id": "chongming_dongtan",
+      "name": "崇明东滩",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "崇明东滩",
+        "崇明东滩鸟类国家级自然保护区"
+      ]
+    },
+    {
       "id": "xingqinggong",
       "name": "兴庆宫",
       "province": "陕西省",

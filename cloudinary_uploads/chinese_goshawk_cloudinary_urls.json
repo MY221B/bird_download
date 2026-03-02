@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "chinese_goshawk",
+    "chinese_name": "赤腹鹰",
+    "english_name": "Chinese Goshawk",
+    "scientific_name": "Accipiter soloensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "chinese_goshawk_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449118/bird-gallery/chinese_goshawk/inaturalist/chinese_goshawk_1.jpg",
+      "public_id": "bird-gallery/chinese_goshawk/inaturalist/chinese_goshawk_1",
+      "width": 320,
+      "height": 240,
+      "format": "jpg",
+      "bytes": 2015,
+      "attribution": {
+        "photographer": "stephenmatthews",
+        "photographer_url": "https://www.inaturalist.org/observations/77604670",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© stephenmatthews (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 77604670,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_goshawk_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449120/bird-gallery/chinese_goshawk/inaturalist/chinese_goshawk_2.jpg",
+      "public_id": "bird-gallery/chinese_goshawk/inaturalist/chinese_goshawk_2",
+      "width": 800,
+      "height": 532,
+      "format": "jpg",
+      "bytes": 44299,
+      "attribution": {
+        "photographer": "kokhuitan",
+        "photographer_url": "https://www.inaturalist.org/observations/11166767",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kokhuitan (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11166767,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_goshawk_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449121/bird-gallery/chinese_goshawk/inaturalist/chinese_goshawk_3.jpg",
+      "public_id": "bird-gallery/chinese_goshawk/inaturalist/chinese_goshawk_3",
+      "width": 1024,
+      "height": 706,
+      "format": "jpg",
+      "bytes": 86847,
+      "attribution": {
+        "photographer": "shukov",
+        "photographer_url": "https://www.inaturalist.org/observations/140947855",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 140947855,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "chinese_goshawk_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772449122/bird-gallery/chinese_goshawk/wikimedia/chinese_goshawk_1.jpg",
+      "public_id": "bird-gallery/chinese_goshawk/wikimedia/chinese_goshawk_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 184481,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "chinese_goshawk_291362181.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772449189/bird-gallery/chinese_goshawk/sounds/chinese_goshawk_291362181.mp3",
+      "public_id": "bird-gallery/chinese_goshawk/sounds/chinese_goshawk_291362181",
+      "duration": 5.232,
+      "format": "mp3",
+      "bytes": 101324,
+      "bit_rate": 154929,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "291362181",
+        "asset_url": "https://macaulaylibrary.org/asset/291362181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

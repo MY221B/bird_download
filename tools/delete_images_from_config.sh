@@ -153,28 +153,36 @@ echo ""
 # 返回主仓库
 cd "${REPO_ROOT}"
 
-# 检查主仓库是否有子模块引用更新
-if [[ -n "$(git status --porcelain feather-flash-quiz)" ]]; then
-    echo -e "${BLUE}📦 更新主仓库的子模块引用...${NC}"
+# 检查主仓库是否有任何改动
+if [[ -n "$(git status --porcelain)" ]]; then
+    echo -e "${BLUE}📦 提交主仓库的改动...${NC}"
     
-    # 添加子模块引用更新
-    git add feather-flash-quiz
+    # 显示改动统计
+    MAIN_MODIFIED_COUNT=$(git status --porcelain | wc -l | tr -d ' ')
+    echo -e "📊 主仓库修改了 ${MAIN_MODIFIED_COUNT} 个文件/目录"
+    
+    # 添加所有改动（包括子模块引用和其他文件）
+    git add -A
+    
+    # 生成提交信息
+    if [[ -n "$(git status --porcelain feather-flash-quiz)" ]]; then
+        MAIN_COMMIT_MSG="chore: 更新子模块引用和相关文件 - 批量删除${IMAGE_COUNT}张图片"
+    else
+        MAIN_COMMIT_MSG="chore: 批量删除${IMAGE_COUNT}张图片相关改动"
+    fi
+    echo -e "📝 提交信息: ${MAIN_COMMIT_MSG}"
     
     # 提交
-    git commit -m "chore: 更新子模块引用 - 批量删除${IMAGE_COUNT}张图片"
+    git commit -m "${MAIN_COMMIT_MSG}"
     
-    # 推送到 main 分支
+    # 推送到 main 分支（主仓库只推送到 main）
     echo -e "🚀 推送主仓库到 origin/main..."
     git checkout main 2>/dev/null || git checkout -b main
     git push origin main
     
-    # 同时推送到 develop_lovable 分支
-    echo -e "🚀 推送主仓库到 origin/develop_lovable..."
-    git push origin main:develop_lovable
-    
-    echo -e "${GREEN}✅ 主仓库已推送到 main 和 develop_lovable 分支${NC}"
+    echo -e "${GREEN}✅ 主仓库已推送到 main 分支${NC}"
 else
-    echo -e "${YELLOW}⚠️  主仓库没有子模块引用更新${NC}"
+    echo -e "${YELLOW}⚠️  主仓库没有改动，跳过提交${NC}"
 fi
 
 echo ""
@@ -182,6 +190,7 @@ echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━�
 echo -e "${GREEN}✨ 所有操作完成！${NC}"
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
-echo -e "${GREEN}✅ 已成功删除 ${IMAGE_COUNT} 张图片并推送到 main 和 develop_lovable 分支${NC}"
-echo -e "${BLUE}🔗 子模块和主仓库都已更新${NC}"
+echo -e "${GREEN}✅ 已成功删除 ${IMAGE_COUNT} 张图片${NC}"
+echo -e "${BLUE}📦 子模块推送到: main + develop_lovable${NC}"
+echo -e "${BLUE}📦 主仓库推送到: main${NC}"
 echo ""

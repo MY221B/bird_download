@@ -1,5 +1,15 @@
 # 自动化删除图片脚本使用说明
 
+## ⚡ TL;DR（只需3步）
+
+1. 打开 `examples/gallery_all_cloudinary.html`，选择要删除的图片
+2. 把删除列表复制粘贴到 `config/需要删除图片名单`
+3. 运行 `bash tools/delete_images_from_config.sh --yes`
+
+**就这么简单！** 脚本会自动完成所有操作并推送到 GitHub。
+
+---
+
 ## 📋 概述
 
 这是一个自动化脚本，可以批量删除图片并自动完成所有相关操作，包括：
@@ -7,81 +17,88 @@
 - 清理 JSON 文件引用
 - 删除本地文件
 - 重新生成 HTML 画廊
-- 自动提交并推送到 GitHub
+- 自动提交并推送到 GitHub（子模块推送到 main + develop_lovable，主仓库推送到 main）
 
-## 🚀 快速开始
+## 🚀 快速开始（详细步骤）
 
-### 1. 准备删除列表
+### 1️⃣ 打开画廊选择要删除的图片
 
-编辑配置文件 `config/需要删除图片名单`，格式如下：
+在浏览器中打开 `examples/gallery_all_cloudinary.html`，浏览并选择需要删除的图片，点击复制按钮获取图片信息。
 
-```json
-{
-  "count": 3,
-  "items": [
-    {
-      "public_id": "bird-gallery/鸟种名/来源/图片名"
-    },
-    {
-      "public_id": "bird-gallery/另一只鸟/来源/图片名"
-    }
-  ]
-}
-```
+### 2️⃣ 粘贴到删除名单
 
-**提示：** 可以直接从 `examples/gallery_all_cloudinary.html` 中复制图片信息
+将复制的图片信息粘贴到 `config/需要删除图片名单` 文件中。
 
-### 2. 运行脚本
+### 3️⃣ 运行脚本
 
 ```bash
-# 使用默认配置文件
-bash tools/delete_images_from_config.sh
-
-# 或指定其他配置文件
-bash tools/delete_images_from_config.sh 自定义配置文件.json
+bash tools/delete_images_from_config.sh --yes
 ```
 
-### 3. 确认删除
+**就这么简单！** 脚本会自动完成从 Cloudinary 删除、清理引用、删除本地文件、更新画廊、提交并推送到 GitHub 的所有操作。
 
-脚本会显示待删除图片数量，输入 `y` 确认后自动执行所有操作。
+## 📝 使用示例
 
-## 📝 完整示例
-
-### 示例1：删除几张不合适的图片
-
-1. 在浏览器打开 `examples/gallery_all_cloudinary.html`
-2. 找到需要删除的图片，点击复制按钮
-3. 将复制的内容粘贴到 `config/需要删除图片名单`
-4. 运行脚本：
+### 示例：删除不合适的图片
 
 ```bash
-cd /Users/my/Desktop/Code/小鸟记忆卡
-bash tools/delete_images_from_config.sh
+# 步骤1：打开画廊 HTML 文件，选择要删除的图片
+open examples/gallery_all_cloudinary.html
+
+# 步骤2：复制图片信息，粘贴到配置文件
+# （在编辑器中打开 config/需要删除图片名单，粘贴）
+
+# 步骤3：运行脚本
+bash tools/delete_images_from_config.sh --yes
 ```
 
-5. 确认删除信息，输入 `y`
-6. 等待脚本自动完成所有操作
+### 执行过程
 
-### 示例2：大批量删除（254张图片）
+脚本会自动执行以下操作：
 
-实际执行过的案例：
+```
+🔄 从 Lovable 同步最新改动...
+✅ Lovable 同步完成
 
-```bash
-# 配置文件已包含254张图片信息
-bash tools/delete_images_from_config.sh config/需要删除图片名单
+📋 读取配置文件: config/需要删除图片名单
+🔢 待删除图片数量: 188
 
-# 输出示例：
-# 📋 读取配置文件: config/需要删除图片名单
-# 🔢 待删除图片数量: 254
-# 
-# ⚠️  即将执行以下操作：
-#   1. 从 Cloudinary 删除 254 张图片
-#   2. 从 JSON 文件清理引用
-#   3. 删除本地图片文件
-#   4. 重新生成 HTML 画廊
-#   5. 提交并推送到 GitHub
-# 
-# 是否继续？[y/N] y
+⚠️  即将执行以下操作：
+  1. 从 Cloudinary 删除 188 张图片
+  2. 从 JSON 文件清理引用
+  3. 删除本地图片文件
+  4. 重新生成 HTML 画廊
+  5. 提交并推送到 GitHub
+
+✅ 自动确认模式，继续执行...
+
+[1/5] 从 Cloudinary 删除图片...
+🗑️  bird-gallery/xxx -> ok
+✅ 完成，尝试删除 188/188 张图片
+
+[2/5] 清理 JSON 文件引用...
+✂️  移除引用...
+✅ 引用清理完成
+
+[3/5] 删除本地图片文件...
+🗑️  删除本地文件...
+✅ 本地文件删除完成
+
+[4/5] 重新生成 HTML 画廊...
+✅ HTML 画廊重新生成完成
+
+[5/5] 提交并推送到 GitHub...
+🚀 推送子模块到 origin/main...
+🚀 推送子模块到 origin/develop_lovable...
+✅ 子模块已推送到 main 和 develop_lovable 分支
+📦 更新主仓库...
+🚀 推送主仓库到 origin/main...
+✅ 主仓库已推送到 main 分支
+
+✨ 所有操作完成！
+✅ 已成功删除 188 张图片
+📦 子模块推送到: main + develop_lovable
+📦 主仓库推送到: main
 ```
 
 ## 🔧 脚本功能详解
@@ -107,11 +124,27 @@ bash tools/delete_images_from_config.sh config/需要删除图片名单
    - 重新生成 `examples/gallery_all_cloudinary.html`
 
 5. **Git 提交推送**
-   - 自动添加所有更改
-   - 生成提交信息
-   - 推送到 GitHub main 分支
+   - 子模块（feather-flash-quiz）：推送到 main 和 develop_lovable 分支
+   - 主仓库（小鸟记忆卡）：推送到 main 分支
+   - 自动添加所有更改并生成提交信息
 
 ## ⚙️ 配置说明
+
+### 命令参数
+
+```bash
+# 自动确认模式（推荐）
+bash tools/delete_images_from_config.sh --yes
+# 或使用短参数
+bash tools/delete_images_from_config.sh -y
+
+# 交互式确认模式
+bash tools/delete_images_from_config.sh
+# 会提示输入 y/N 确认
+
+# 指定自定义配置文件
+bash tools/delete_images_from_config.sh 配置文件路径 --yes
+```
 
 ### 默认配置文件位置
 
@@ -125,10 +158,10 @@ config/需要删除图片名单
 
 ```bash
 # 例如：只删除某个地区的图片
-bash tools/delete_images_from_config.sh config/删除云南地区图片.json
+bash tools/delete_images_from_config.sh config/删除云南地区图片.json --yes
 
 # 或者：删除某个鸟种的图片
-bash tools/delete_images_from_config.sh config/删除特定鸟种.json
+bash tools/delete_images_from_config.sh config/删除特定鸟种.json --yes
 ```
 
 ## ⚠️ 注意事项
@@ -186,7 +219,11 @@ chmod +x tools/delete_images_from_config.sh
 已成功执行的删除任务：
 - ✅ 第1次：38张图片（15个鸟种）
 - ✅ 第2次：254张图片（多个地区）
-- ✅ 累计删除：292张图片
+- ✅ 第3次：188张图片（脚本优化后测试）
+- ✅ 第4次：45张图片
+- ✅ 累计删除：525+ 张图片
+
+**脚本稳定性**：✅ 已验证大批量删除（188张）和多次连续删除的稳定性
 
 ## 🔗 相关文件
 

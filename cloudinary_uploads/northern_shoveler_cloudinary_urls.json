@@ -182,5 +182,27 @@
   "bird_info": {
     "slug": "northern_shoveler",
     "chinese_name": "琵嘴鸭"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "northern_shoveler_296948.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772447640/bird-gallery/northern_shoveler/sounds/northern_shoveler_296948.mp3",
+      "public_id": "bird-gallery/northern_shoveler/sounds/northern_shoveler_296948",
+      "duration": 53.304,
+      "format": "mp3",
+      "bytes": 973484,
+      "bit_rate": 146102,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "296948",
+        "asset_url": "https://macaulaylibrary.org/asset/296948",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

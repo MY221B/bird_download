@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "spotted_greenshank_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879632/bird-gallery/spotted_greenshank/inaturalist/spotted_greenshank_2.jpg",
-      "public_id": "bird-gallery/spotted_greenshank/inaturalist/spotted_greenshank_2",
-      "width": 1024,
-      "height": 676,
-      "format": "jpg",
-      "bytes": 32298,
-      "attribution": {
-        "photographer": "adrian_boyle",
-        "photographer_url": "https://www.inaturalist.org/observations/265791876",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© adrian_boyle (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 265791876,
-        "note": null
-      }
-    },
-    {
       "original_file": "spotted_greenshank_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879633/bird-gallery/spotted_greenshank/inaturalist/spotted_greenshank_3.jpg",
       "public_id": "bird-gallery/spotted_greenshank/inaturalist/spotted_greenshank_3",
@@ -162,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "55110909178",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_51346336801_9172c2aabe_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879637/bird-gallery/spotted_greenshank/avibase/avibase_2_51346336801_9172c2aabe_b.jpg",
-      "public_id": "bird-gallery/spotted_greenshank/avibase/avibase_2_51346336801_9172c2aabe_b",
-      "width": 1024,
-      "height": 530,
-      "format": "jpg",
-      "bytes": 51537,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51346336801",
         "note": "署名信息需从Flickr获取"
       }
     },

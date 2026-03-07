@@ -83,44 +83,6 @@
         "source_id": 266005178,
         "note": null
       }
-    },
-    {
-      "original_file": "whimbrel_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879909/bird-gallery/whimbrel/inaturalist/whimbrel_2.jpg",
-      "public_id": "bird-gallery/whimbrel/inaturalist/whimbrel_2",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 62802,
-      "attribution": {
-        "photographer": "brdnrdr",
-        "photographer_url": "https://www.inaturalist.org/observations/56942578",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© brdnrdr (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 56942578,
-        "note": null
-      }
-    },
-    {
-      "original_file": "whimbrel_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803765/bird-gallery/whimbrel/inaturalist/whimbrel_3.jpg",
-      "public_id": "bird-gallery/whimbrel/inaturalist/whimbrel_3",
-      "width": 570,
-      "height": 421,
-      "format": "jpg",
-      "bytes": 39896,
-      "attribution": {
-        "photographer": "bertharris",
-        "photographer_url": "https://www.inaturalist.org/observations/61268474",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© bertharris (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 61268474,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],

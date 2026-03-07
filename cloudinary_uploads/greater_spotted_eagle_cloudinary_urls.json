@@ -43,47 +43,9 @@
         "source_id": "626069974",
         "note": null
       }
-    },
-    {
-      "original_file": "greater_spotted_eagle_66338391.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880062/bird-gallery/greater_spotted_eagle/macaulay/greater_spotted_eagle_66338391.jpg",
-      "public_id": "bird-gallery/greater_spotted_eagle/macaulay/greater_spotted_eagle_66338391",
-      "width": 1200,
-      "height": 858,
-      "format": "jpg",
-      "bytes": 58865,
-      "attribution": {
-        "photographer": "Christoph Moning",
-        "photographer_url": "https://macaulaylibrary.org/asset/66338391",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "Bird by Christoph Moning; Cornell Lab of Ornithology | Macaulay Library",
-        "source": "macaulay",
-        "source_id": "66338391",
-        "note": null
-      }
     }
   ],
   "inaturalist": [
-    {
-      "original_file": "greater_spotted_eagle_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880067/bird-gallery/greater_spotted_eagle/inaturalist/greater_spotted_eagle_1.jpg",
-      "public_id": "bird-gallery/greater_spotted_eagle/inaturalist/greater_spotted_eagle_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 89193,
-      "attribution": {
-        "photographer": "nat_zouieva",
-        "photographer_url": "https://www.inaturalist.org/observations/238562329",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© nat_zouieva (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 238562329,
-        "note": null
-      }
-    },
     {
       "original_file": "greater_spotted_eagle_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880068/bird-gallery/greater_spotted_eagle/inaturalist/greater_spotted_eagle_2.jpg",
@@ -124,47 +86,8 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "greater_spotted_eagle_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880071/bird-gallery/greater_spotted_eagle/wikimedia/greater_spotted_eagle_1.jpg",
-      "public_id": "bird-gallery/greater_spotted_eagle/wikimedia/greater_spotted_eagle_1",
-      "width": 250,
-      "height": 293,
-      "format": "jpg",
-      "bytes": 13589,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
-    {
-      "original_file": "avibase_1_25847116753_dd5da34b7d_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880072/bird-gallery/greater_spotted_eagle/avibase/avibase_1_25847116753_dd5da34b7d_b.jpg",
-      "public_id": "bird-gallery/greater_spotted_eagle/avibase/avibase_1_25847116753_dd5da34b7d_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 119320,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "25847116753",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_52839304408_6f8a400636_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880073/bird-gallery/greater_spotted_eagle/avibase/avibase_2_52839304408_6f8a400636_b.jpg",
@@ -181,25 +104,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "52839304408",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_54192604362_e324255925_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880074/bird-gallery/greater_spotted_eagle/avibase/avibase_3_54192604362_e324255925_b.jpg",
-      "public_id": "bird-gallery/greater_spotted_eagle/avibase/avibase_3_54192604362_e324255925_b",
-      "width": 1024,
-      "height": 734,
-      "format": "jpg",
-      "bytes": 182993,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54192604362",
         "note": "署名信息需从Flickr获取"
       }
     }

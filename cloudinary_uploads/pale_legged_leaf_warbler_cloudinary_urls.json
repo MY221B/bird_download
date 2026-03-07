@@ -102,25 +102,6 @@
         "source_id": 172732319,
         "note": null
       }
-    },
-    {
-      "original_file": "pale_legged_leaf_warbler_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880354/bird-gallery/pale_legged_leaf_warbler/inaturalist/pale_legged_leaf_warbler_3.jpg",
-      "public_id": "bird-gallery/pale_legged_leaf_warbler/inaturalist/pale_legged_leaf_warbler_3",
-      "width": 1024,
-      "height": 219,
-      "format": "jpg",
-      "bytes": 46213,
-      "attribution": {
-        "photographer": "kalvinchan",
-        "photographer_url": "https://www.inaturalist.org/observations/323831202",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© kalvinchan (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 323831202,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -181,25 +162,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "52787266691",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_54380649742_618cb55aed_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880359/bird-gallery/pale_legged_leaf_warbler/avibase/avibase_3_54380649742_618cb55aed_b.jpg",
-      "public_id": "bird-gallery/pale_legged_leaf_warbler/avibase/avibase_3_54380649742_618cb55aed_b",
-      "width": 1023,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 75487,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54380649742",
         "note": "署名信息需从Flickr获取"
       }
     }

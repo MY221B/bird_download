@@ -354,14 +354,16 @@ def download_birds(csv_file, missing_birds):
             return False
         
         try:
-            result = subprocess.run([str(batch_script), str(temp_csv), "--parallel", "3", "--skip-existing"], 
-                                   check=True, capture_output=True, text=True)
-            print(result.stdout)
-            if result.stderr:
-                print(result.stderr)
+            # 流式输出，实时显示 batch_fetch 的 [X/Y] 进度
+            subprocess.run(
+                [str(batch_script), str(temp_csv), "--parallel", "3", "--skip-existing"],
+                check=True,
+                cwd=str(PROJECT_ROOT),
+            )
             return True
         except subprocess.CalledProcessError as e:
-            print(f"❌ 下载失败: {e.stderr}")
+            err_msg = e.stderr if e.stderr else str(e)
+            print(f"❌ 下载失败: {err_msg}")
             # 即使下载脚本失败，也检查一下是否有部分图片已经下载成功
             print("ℹ️  检查是否有部分图片已下载...")
             downloaded_count = 0

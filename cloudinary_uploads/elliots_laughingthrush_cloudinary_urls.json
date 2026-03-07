@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "elliots_laughingthrush_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881622/bird-gallery/elliots_laughingthrush/inaturalist/elliots_laughingthrush_1.jpg",
-      "public_id": "bird-gallery/elliots_laughingthrush/inaturalist/elliots_laughingthrush_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 135943,
-      "attribution": {
-        "photographer": "else",
-        "photographer_url": "https://www.inaturalist.org/observations/7727100",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© else (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 7727100,
-        "note": null
-      }
-    },
-    {
       "original_file": "elliots_laughingthrush_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881623/bird-gallery/elliots_laughingthrush/inaturalist/elliots_laughingthrush_2.jpg",
       "public_id": "bird-gallery/elliots_laughingthrush/inaturalist/elliots_laughingthrush_2",
@@ -102,49 +83,10 @@
         "source_id": 41049995,
         "note": null
       }
-    },
-    {
-      "original_file": "elliots_laughingthrush_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881624/bird-gallery/elliots_laughingthrush/inaturalist/elliots_laughingthrush_3.jpg",
-      "public_id": "bird-gallery/elliots_laughingthrush/inaturalist/elliots_laughingthrush_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 76398,
-      "attribution": {
-        "photographer": "syqin",
-        "photographer_url": "https://www.inaturalist.org/observations/204148062",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© syqin (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 204148062,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "elliots_laughingthrush_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881625/bird-gallery/elliots_laughingthrush/wikimedia/elliots_laughingthrush_1.jpg",
-      "public_id": "bird-gallery/elliots_laughingthrush/wikimedia/elliots_laughingthrush_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 18423,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_8118652167_b4ab729405_b.jpg",

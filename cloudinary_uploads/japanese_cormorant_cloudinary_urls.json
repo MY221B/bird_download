@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "japanese_cormorant_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879231/bird-gallery/japanese_cormorant/inaturalist/japanese_cormorant_1.jpg",
-      "public_id": "bird-gallery/japanese_cormorant/inaturalist/japanese_cormorant_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 204862,
-      "attribution": {
-        "photographer": "shienok",
-        "photographer_url": "https://www.inaturalist.org/observations/214441442",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© shienok (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 214441442,
-        "note": null
-      }
-    },
-    {
       "original_file": "japanese_cormorant_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879233/bird-gallery/japanese_cormorant/inaturalist/japanese_cormorant_2.jpg",
       "public_id": "bird-gallery/japanese_cormorant/inaturalist/japanese_cormorant_2",
@@ -100,25 +81,6 @@
         "credit_format": "© gg_copen (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
         "source_id": 336452138,
-        "note": null
-      }
-    },
-    {
-      "original_file": "japanese_cormorant_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879234/bird-gallery/japanese_cormorant/inaturalist/japanese_cormorant_3.jpg",
-      "public_id": "bird-gallery/japanese_cormorant/inaturalist/japanese_cormorant_3",
-      "width": 1024,
-      "height": 677,
-      "format": "jpg",
-      "bytes": 285556,
-      "attribution": {
-        "photographer": "mangoverde",
-        "photographer_url": "https://www.inaturalist.org/observations/79827506",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© mangoverde (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 79827506,
         "note": null
       }
     }
@@ -146,25 +108,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_54286944246_8abc560529_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879236/bird-gallery/japanese_cormorant/avibase/avibase_1_54286944246_8abc560529_b.jpg",
-      "public_id": "bird-gallery/japanese_cormorant/avibase/avibase_1_54286944246_8abc560529_b",
-      "width": 1023,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 78781,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54286944246",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_54286058992_193ffbd5bf_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879237/bird-gallery/japanese_cormorant/avibase/avibase_2_54286058992_193ffbd5bf_b.jpg",

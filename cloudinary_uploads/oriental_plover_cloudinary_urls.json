@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "oriental_plover_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879255/bird-gallery/oriental_plover/inaturalist/oriental_plover_1.jpg",
-      "public_id": "bird-gallery/oriental_plover/inaturalist/oriental_plover_1",
-      "width": 600,
-      "height": 400,
-      "format": "jpg",
-      "bytes": 21265,
-      "attribution": {
-        "photographer": "neil_fitzgerald",
-        "photographer_url": "https://www.inaturalist.org/observations/972942",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© neil_fitzgerald (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 972942,
-        "note": null
-      }
-    },
-    {
       "original_file": "oriental_plover_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879256/bird-gallery/oriental_plover/inaturalist/oriental_plover_2.jpg",
       "public_id": "bird-gallery/oriental_plover/inaturalist/oriental_plover_2",
@@ -102,49 +83,10 @@
         "source_id": 72673472,
         "note": null
       }
-    },
-    {
-      "original_file": "oriental_plover_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879257/bird-gallery/oriental_plover/inaturalist/oriental_plover_3.jpg",
-      "public_id": "bird-gallery/oriental_plover/inaturalist/oriental_plover_3",
-      "width": 1024,
-      "height": 896,
-      "format": "jpg",
-      "bytes": 38663,
-      "attribution": {
-        "photographer": "caiden_b",
-        "photographer_url": "https://www.inaturalist.org/observations/230005023",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© caiden_b (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 230005023,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "oriental_plover_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879258/bird-gallery/oriental_plover/wikimedia/oriental_plover_1.jpg",
-      "public_id": "bird-gallery/oriental_plover/wikimedia/oriental_plover_1",
-      "width": 250,
-      "height": 166,
-      "format": "jpg",
-      "bytes": 21294,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_51251528020_cb5c75ddeb_b.jpg",

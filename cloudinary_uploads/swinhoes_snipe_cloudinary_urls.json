@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "swinhoes_snipe_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879583/bird-gallery/swinhoes_snipe/inaturalist/swinhoes_snipe_2.jpg",
-      "public_id": "bird-gallery/swinhoes_snipe/inaturalist/swinhoes_snipe_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 105561,
-      "attribution": {
-        "photographer": "jinze",
-        "photographer_url": "https://www.inaturalist.org/observations/186705577",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© jinze (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 186705577,
-        "note": null
-      }
-    },
-    {
       "original_file": "swinhoes_snipe_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879584/bird-gallery/swinhoes_snipe/inaturalist/swinhoes_snipe_3.jpg",
       "public_id": "bird-gallery/swinhoes_snipe/inaturalist/swinhoes_snipe_3",
@@ -124,27 +105,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "swinhoes_snipe_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879585/bird-gallery/swinhoes_snipe/wikimedia/swinhoes_snipe_1.jpg",
-      "public_id": "bird-gallery/swinhoes_snipe/wikimedia/swinhoes_snipe_1",
-      "width": 250,
-      "height": 179,
-      "format": "jpg",
-      "bytes": 12043,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_12848926164_f5a40a4b61_b.jpg",

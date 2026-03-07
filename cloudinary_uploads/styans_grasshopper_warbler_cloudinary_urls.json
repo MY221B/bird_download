@@ -102,49 +102,10 @@
         "source_id": 85172853,
         "note": null
       }
-    },
-    {
-      "original_file": "styans_grasshopper_warbler_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880718/bird-gallery/styans_grasshopper_warbler/inaturalist/styans_grasshopper_warbler_3.jpg",
-      "public_id": "bird-gallery/styans_grasshopper_warbler/inaturalist/styans_grasshopper_warbler_3",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 101027,
-      "attribution": {
-        "photographer": "vladimirarkhipov",
-        "photographer_url": "https://www.inaturalist.org/observations/28046970",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© vladimirarkhipov (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 28046970,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "styans_grasshopper_warbler_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880719/bird-gallery/styans_grasshopper_warbler/wikimedia/styans_grasshopper_warbler_1.jpg",
-      "public_id": "bird-gallery/styans_grasshopper_warbler/wikimedia/styans_grasshopper_warbler_1",
-      "width": 1280,
-      "height": 854,
-      "format": "jpg",
-      "bytes": 158011,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_54375740903_b1136ed361_b.jpg",

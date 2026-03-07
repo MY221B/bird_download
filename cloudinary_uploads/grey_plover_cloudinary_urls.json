@@ -124,47 +124,8 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "grey_plover_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768803733/bird-gallery/grey_plover/wikimedia/grey_plover_1.jpg",
-      "public_id": "bird-gallery/grey_plover/wikimedia/grey_plover_1",
-      "width": 120,
-      "height": 85,
-      "format": "jpg",
-      "bytes": 1568,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
-    {
-      "original_file": "avibase_1_48860298098_7b21385a81_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880625/bird-gallery/grey_plover/avibase/avibase_1_48860298098_7b21385a81_b.jpg",
-      "public_id": "bird-gallery/grey_plover/avibase/avibase_1_48860298098_7b21385a81_b",
-      "width": 600,
-      "height": 450,
-      "format": "jpg",
-      "bytes": 34127,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "48860298098",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_53930465014_9294c6d33d_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880626/bird-gallery/grey_plover/avibase/avibase_2_53930465014_9294c6d33d_b.jpg",

@@ -124,27 +124,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "rufous_necked_laughingthrush_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881484/bird-gallery/rufous_necked_laughingthrush/wikimedia/rufous_necked_laughingthrush_1.jpg",
-      "public_id": "bird-gallery/rufous_necked_laughingthrush/wikimedia/rufous_necked_laughingthrush_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 13841,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_10240477374_87874222fa_b.jpg",
@@ -181,25 +161,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "53858183786",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_52587326284_6466f93c71_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881487/bird-gallery/rufous_necked_laughingthrush/avibase/avibase_3_52587326284_6466f93c71_b.jpg",
-      "public_id": "bird-gallery/rufous_necked_laughingthrush/avibase/avibase_3_52587326284_6466f93c71_b",
-      "width": 1023,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 115205,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52587326284",
         "note": "署名信息需从Flickr获取"
       }
     }

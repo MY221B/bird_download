@@ -124,27 +124,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "grey_crowned_warbler_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881458/bird-gallery/grey_crowned_warbler/wikimedia/grey_crowned_warbler_1.jpg",
-      "public_id": "bird-gallery/grey_crowned_warbler/wikimedia/grey_crowned_warbler_1",
-      "width": 250,
-      "height": 289,
-      "format": "jpg",
-      "bytes": 17310,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_30242566456_b861de6579_b.jpg",
@@ -162,25 +142,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "30242566456",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_30192050071_b2f365b744_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881461/bird-gallery/grey_crowned_warbler/avibase/avibase_2_30192050071_b2f365b744_b.jpg",
-      "public_id": "bird-gallery/grey_crowned_warbler/avibase/avibase_2_30192050071_b2f365b744_b",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 69985,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "30192050071",
         "note": "署名信息需从Flickr获取"
       }
     },

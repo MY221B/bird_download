@@ -124,27 +124,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "pacific_golden_plover_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879886/bird-gallery/pacific_golden_plover/wikimedia/pacific_golden_plover_1.jpg",
-      "public_id": "bird-gallery/pacific_golden_plover/wikimedia/pacific_golden_plover_1",
-      "width": 250,
-      "height": 170,
-      "format": "jpg",
-      "bytes": 9757,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_53961860281_feaa1ce219_b.jpg",
@@ -162,44 +142,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "53961860281",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_26043412371_8c618d4323_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879889/bird-gallery/pacific_golden_plover/avibase/avibase_2_26043412371_8c618d4323_b.jpg",
-      "public_id": "bird-gallery/pacific_golden_plover/avibase/avibase_2_26043412371_8c618d4323_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 127215,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "26043412371",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_54956668478_eef86743f5_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879890/bird-gallery/pacific_golden_plover/avibase/avibase_3_54956668478_eef86743f5_b.jpg",
-      "public_id": "bird-gallery/pacific_golden_plover/avibase/avibase_3_54956668478_eef86743f5_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 248389,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54956668478",
         "note": "署名信息需从Flickr获取"
       }
     }

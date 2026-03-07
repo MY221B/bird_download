@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "arctic_warbler_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772878961/bird-gallery/arctic_warbler/inaturalist/arctic_warbler_1.jpg",
-      "public_id": "bird-gallery/arctic_warbler/inaturalist/arctic_warbler_1",
-      "width": 1024,
-      "height": 965,
-      "format": "jpg",
-      "bytes": 249078,
-      "attribution": {
-        "photographer": "denisikkochan",
-        "photographer_url": "https://www.inaturalist.org/observations/99054925",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© denisikkochan (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 99054925,
-        "note": null
-      }
-    },
-    {
       "original_file": "arctic_warbler_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772878963/bird-gallery/arctic_warbler/inaturalist/arctic_warbler_2.jpg",
       "public_id": "bird-gallery/arctic_warbler/inaturalist/arctic_warbler_2",

@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "black_capped_kingfisher",
+    "chinese_name": "蓝翡翠",
+    "english_name": "Black-capped Kingfisher",
+    "scientific_name": "Halcyon pileata"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_capped_kingfisher_483461421.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880678/bird-gallery/black_capped_kingfisher/macaulay/black_capped_kingfisher_483461421.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/macaulay/black_capped_kingfisher_483461421",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78254,
+      "attribution": {
+        "photographer": "Aseem Kothiala",
+        "photographer_url": "https://macaulaylibrary.org/asset/483461421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Aseem Kothiala; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "483461421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_kingfisher_485851031.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880682/bird-gallery/black_capped_kingfisher/macaulay/black_capped_kingfisher_485851031.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/macaulay/black_capped_kingfisher_485851031",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 57229,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/485851031",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "485851031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_kingfisher_624582700.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880686/bird-gallery/black_capped_kingfisher/macaulay/black_capped_kingfisher_624582700.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/macaulay/black_capped_kingfisher_624582700",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 23377,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/624582700",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624582700",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_capped_kingfisher_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880691/bird-gallery/black_capped_kingfisher/inaturalist/black_capped_kingfisher_1.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/inaturalist/black_capped_kingfisher_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 60556,
+      "attribution": {
+        "photographer": "hamsambly",
+        "photographer_url": "https://www.inaturalist.org/observations/108852285",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hamsambly (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 108852285,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_kingfisher_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880692/bird-gallery/black_capped_kingfisher/inaturalist/black_capped_kingfisher_2.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/inaturalist/black_capped_kingfisher_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 42543,
+      "attribution": {
+        "photographer": "wu_fi",
+        "photographer_url": "https://www.inaturalist.org/observations/85199879",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wu_fi (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 85199879,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_kingfisher_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880693/bird-gallery/black_capped_kingfisher/inaturalist/black_capped_kingfisher_3.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/inaturalist/black_capped_kingfisher_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 118080,
+      "attribution": {
+        "photographer": "watermargin",
+        "photographer_url": "https://www.inaturalist.org/observations/101466454",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© watermargin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 101466454,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "black_capped_kingfisher_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880694/bird-gallery/black_capped_kingfisher/wikimedia/black_capped_kingfisher_1.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/wikimedia/black_capped_kingfisher_1",
+      "width": 250,
+      "height": 167,
+      "format": "jpg",
+      "bytes": 4888,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50245122713_8ebef8d15b_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880695/bird-gallery/black_capped_kingfisher/avibase/avibase_1_50245122713_8ebef8d15b_b.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/avibase/avibase_1_50245122713_8ebef8d15b_b",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 76307,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50245122713",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_23014721332_c6519219ee_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880696/bird-gallery/black_capped_kingfisher/avibase/avibase_2_23014721332_c6519219ee_b.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/avibase/avibase_2_23014721332_c6519219ee_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61225,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "23014721332",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_15824818686_0b4e1a16f5_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880697/bird-gallery/black_capped_kingfisher/avibase/avibase_3_15824818686_0b4e1a16f5_b.jpg",
+      "public_id": "bird-gallery/black_capped_kingfisher/avibase/avibase_3_15824818686_0b4e1a16f5_b",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 58642,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15824818686",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_capped_kingfisher_383052321.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772880766/bird-gallery/black_capped_kingfisher/sounds/black_capped_kingfisher_383052321.mp3",
+      "public_id": "bird-gallery/black_capped_kingfisher/sounds/black_capped_kingfisher_383052321",
+      "duration": 20.28,
+      "format": "mp3",
+      "bytes": 303932,
+      "bit_rate": 119894,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "383052321",
+        "asset_url": "https://macaulaylibrary.org/asset/383052321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

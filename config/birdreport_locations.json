@@ -165,6 +165,7 @@
       "outside_type": 0,
       "default_days": 7,
       "point_aliases": [
+        "上海滨江森林公园",
         "滨江森林公园",
         "滨江森林"
       ]
@@ -223,6 +224,7 @@
       "default_days": 7,
       "point_aliases": [
         "世博文化公园",
+        "世博文化公园双子山",
         "世博公园"
       ]
     },
@@ -267,6 +269,20 @@
       ]
     },
     {
+      "id": "jinhai_shidi_gongyuan",
+      "name": "金海湿地公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "金海湿地公园",
+        "金海湿地"
+      ]
+    },
+    {
       "id": "xingqinggong",
       "name": "兴庆宫",
       "province": "陕西省",
@@ -278,6 +294,174 @@
       "point_aliases": [
         "兴庆宫",
         "兴庆宫公园"
+      ]
+    },
+    {
+      "id": "guangming_huanle_tianyuan",
+      "name": "光明小镇欢乐田园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "光明小镇欢乐田园",
+        "欢乐田园"
+      ]
+    },
+    {
+      "id": "shenzhen_wan_gongyuan",
+      "name": "深圳湾公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "深圳湾公园",
+        "深圳湾"
+      ]
+    },
+    {
+      "id": "futian_hongshulin_shengtai",
+      "name": "福田红树林生态公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "福田红树林生态公园"
+      ]
+    },
+    {
+      "id": "tiezaishan_gongyuan",
+      "name": "铁仔山公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "铁仔山公园",
+        "铁仔山"
+      ]
+    },
+    {
+      "id": "shenzhen_rencai_gongyuan",
+      "name": "人才公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "深圳人才公园",
+        "人才公园"
+      ]
+    },
+    {
+      "id": "shenzhen_xianmi_gongyuan",
+      "name": "香蜜公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "香蜜公园",
+        "香蜜湖公园"
+      ]
+    },
+    {
+      "id": "hongshulin_haibin_shengtai",
+      "name": "红树林海滨生态公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "红树林海滨生态公园",
+        "红树林公园"
+      ]
+    },
+    {
+      "id": "bijiashan_gongyuan",
+      "name": "笔架山公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "笔架山公园",
+        "笔架山"
+      ]
+    },
+    {
+      "id": "xianhu_zhiwuyuan",
+      "name": "仙湖植物园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "仙湖植物园",
+        "仙湖"
+      ]
+    },
+    {
+      "id": "fenghuangshan_senlin_gongyuan",
+      "name": "凤凰山森林公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "凤凰山森林公园",
+        "凤凰山"
+      ]
+    },
+    {
+      "id": "futian_hongshulin_baohuqu",
+      "name": "福田红树林自然保护区",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "福田红树林自然保护区",
+        "福田红树林保护区"
+      ]
+    },
+    {
+      "id": "huaqiaocheng_shidi_gongyuan",
+      "name": "华侨城国家湿地公园",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "华侨城国家湿地公园",
+        "华侨城湿地公园",
+        "华侨城湿地"
       ]
     },
     {

@@ -1,0 +1,209 @@
+{
+  "bird_info": {
+    "slug": "common_gull_billed_tern",
+    "chinese_name": "鸥嘴噪鸥",
+    "english_name": "Common Gull-billed Tern",
+    "scientific_name": "Gelochelidon nilotica"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_gull_billed_tern_335268511.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879029/bird-gallery/common_gull_billed_tern/macaulay/common_gull_billed_tern_335268511.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/macaulay/common_gull_billed_tern_335268511",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 38297,
+      "attribution": {
+        "photographer": "Gonzalo Valencia Díaz",
+        "photographer_url": "https://macaulaylibrary.org/asset/335268511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Gonzalo Valencia Díaz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "335268511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_gull_billed_tern_620143660.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879034/bird-gallery/common_gull_billed_tern/macaulay/common_gull_billed_tern_620143660.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/macaulay/common_gull_billed_tern_620143660",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 31755,
+      "attribution": {
+        "photographer": "Kike Junco",
+        "photographer_url": "https://macaulaylibrary.org/asset/620143660",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kike Junco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "620143660",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_gull_billed_tern_64464801.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879038/bird-gallery/common_gull_billed_tern/macaulay/common_gull_billed_tern_64464801.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/macaulay/common_gull_billed_tern_64464801",
+      "width": 1200,
+      "height": 1032,
+      "format": "jpg",
+      "bytes": 44074,
+      "attribution": {
+        "photographer": "Rogério Rodrigues",
+        "photographer_url": "https://macaulaylibrary.org/asset/64464801",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rogério Rodrigues; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "64464801",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_gull_billed_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879043/bird-gallery/common_gull_billed_tern/inaturalist/common_gull_billed_tern_1.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/inaturalist/common_gull_billed_tern_1",
+      "width": 1024,
+      "height": 692,
+      "format": "jpg",
+      "bytes": 47070,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/282155651",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 282155651,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_gull_billed_tern_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879044/bird-gallery/common_gull_billed_tern/inaturalist/common_gull_billed_tern_2.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/inaturalist/common_gull_billed_tern_2",
+      "width": 1024,
+      "height": 638,
+      "format": "jpg",
+      "bytes": 10019,
+      "attribution": {
+        "photographer": "benackerley",
+        "photographer_url": "https://www.inaturalist.org/observations/238034739",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© benackerley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 238034739,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_gull_billed_tern_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879045/bird-gallery/common_gull_billed_tern/inaturalist/common_gull_billed_tern_3.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/inaturalist/common_gull_billed_tern_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50059,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/23033453",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 23033453,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_30338168530_ffd55f18e3_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879046/bird-gallery/common_gull_billed_tern/avibase/avibase_1_30338168530_ffd55f18e3_b.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/avibase/avibase_1_30338168530_ffd55f18e3_b",
+      "width": 1024,
+      "height": 737,
+      "format": "jpg",
+      "bytes": 45593,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "30338168530",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_53053079940_1690997a25_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879047/bird-gallery/common_gull_billed_tern/avibase/avibase_2_53053079940_1690997a25_b.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/avibase/avibase_2_53053079940_1690997a25_b",
+      "width": 900,
+      "height": 507,
+      "format": "jpg",
+      "bytes": 34277,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53053079940",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_21223869199_b58a536b59_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772879048/bird-gallery/common_gull_billed_tern/avibase/avibase_3_21223869199_b58a536b59_b.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/avibase/avibase_3_21223869199_b58a536b59_b",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 45600,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "21223869199",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "common_gull_billed_tern_389145611.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772879051/bird-gallery/common_gull_billed_tern/sounds/common_gull_billed_tern_389145611.mp3",
+      "public_id": "bird-gallery/common_gull_billed_tern/sounds/common_gull_billed_tern_389145611",
+      "duration": 28.416,
+      "format": "mp3",
+      "bytes": 390524,
+      "bit_rate": 109944,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "389145611",
+        "asset_url": "https://macaulaylibrary.org/asset/389145611",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

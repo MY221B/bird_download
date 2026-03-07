@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "white_bellied_sea_eagle",
+    "chinese_name": "白腹海雕",
+    "english_name": "White-bellied Sea Eagle",
+    "scientific_name": "Haliaeetus leucogaster"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_bellied_sea_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880235/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_1.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 52359,
+      "attribution": {
+        "photographer": "divercraig",
+        "photographer_url": "https://www.inaturalist.org/observations/106850137",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© divercraig (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106850137,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_sea_eagle_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880236/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_2.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_2",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 21959,
+      "attribution": {
+        "photographer": "richard8484",
+        "photographer_url": "https://www.inaturalist.org/observations/144982051",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© richard8484 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 144982051,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_sea_eagle_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880238/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_3.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 193687,
+      "attribution": {
+        "photographer": "jb2602",
+        "photographer_url": "https://www.inaturalist.org/observations/114975263",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jb2602 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 114975263,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "white_bellied_sea_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880239/bird-gallery/white_bellied_sea_eagle/wikimedia/white_bellied_sea_eagle_1.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/wikimedia/white_bellied_sea_eagle_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 83351,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "white_bellied_sea_eagle_183492.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772880243/bird-gallery/white_bellied_sea_eagle/sounds/white_bellied_sea_eagle_183492.mp3",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/sounds/white_bellied_sea_eagle_183492",
+      "duration": 98.808,
+      "format": "mp3",
+      "bytes": 1336148,
+      "bit_rate": 108181,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "183492",
+        "asset_url": "https://macaulaylibrary.org/asset/183492",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "grey_headed_parrotbill",
+    "chinese_name": "灰头鸦雀",
+    "english_name": "Grey-headed Parrotbill",
+    "scientific_name": "Psittiparus gularis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "grey_headed_parrotbill_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881540/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_1.jpg",
+      "public_id": "bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 72649,
+      "attribution": {
+        "photographer": "dike_zhang",
+        "photographer_url": "https://www.inaturalist.org/observations/174581061",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dike_zhang (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 174581061,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_headed_parrotbill_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881541/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_2.jpg",
+      "public_id": "bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 85645,
+      "attribution": {
+        "photographer": "hsieh_will",
+        "photographer_url": "https://www.inaturalist.org/observations/337531682",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hsieh_will (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337531682,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_headed_parrotbill_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881542/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_3.jpg",
+      "public_id": "bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 91251,
+      "attribution": {
+        "photographer": "inccc",
+        "photographer_url": "https://www.inaturalist.org/observations/198051693",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© inccc (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 198051693,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "grey_headed_parrotbill_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772881543/bird-gallery/grey_headed_parrotbill/wikimedia/grey_headed_parrotbill_1.jpg",
+      "public_id": "bird-gallery/grey_headed_parrotbill/wikimedia/grey_headed_parrotbill_1",
+      "width": 250,
+      "height": 375,
+      "format": "jpg",
+      "bytes": 23638,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "grey_headed_parrotbill_203692931.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772881548/bird-gallery/grey_headed_parrotbill/sounds/grey_headed_parrotbill_203692931.mp3",
+      "public_id": "bird-gallery/grey_headed_parrotbill/sounds/grey_headed_parrotbill_203692931",
+      "duration": 67.44,
+      "format": "mp3",
+      "bytes": 1411052,
+      "bit_rate": 167384,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203692931",
+        "asset_url": "https://macaulaylibrary.org/asset/203692931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

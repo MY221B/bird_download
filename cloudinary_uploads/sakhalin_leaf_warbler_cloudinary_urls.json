@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "sakhalin_leaf_warbler",
+    "chinese_name": "库页岛柳莺",
+    "english_name": "Sakhalin Leaf Warbler",
+    "scientific_name": "Phylloscopus borealoides"
+  },
+  "macaulay": [
+    {
+      "original_file": "sakhalin_leaf_warbler_401752501.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880725/bird-gallery/sakhalin_leaf_warbler/macaulay/sakhalin_leaf_warbler_401752501.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/macaulay/sakhalin_leaf_warbler_401752501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 92542,
+      "attribution": {
+        "photographer": "Jan-Peter  Kelder",
+        "photographer_url": "https://macaulaylibrary.org/asset/401752501",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jan-Peter  Kelder; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "401752501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sakhalin_leaf_warbler_493574371.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880730/bird-gallery/sakhalin_leaf_warbler/macaulay/sakhalin_leaf_warbler_493574371.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/macaulay/sakhalin_leaf_warbler_493574371",
+      "width": 1200,
+      "height": 772,
+      "format": "jpg",
+      "bytes": 60906,
+      "attribution": {
+        "photographer": "Jeran Lin",
+        "photographer_url": "https://macaulaylibrary.org/asset/493574371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jeran Lin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "493574371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sakhalin_leaf_warbler_69308321.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880735/bird-gallery/sakhalin_leaf_warbler/macaulay/sakhalin_leaf_warbler_69308321.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/macaulay/sakhalin_leaf_warbler_69308321",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 81637,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/69308321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "69308321",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sakhalin_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880740/bird-gallery/sakhalin_leaf_warbler/inaturalist/sakhalin_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/inaturalist/sakhalin_leaf_warbler_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 84329,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/83974237",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 83974237,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sakhalin_leaf_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880741/bird-gallery/sakhalin_leaf_warbler/inaturalist/sakhalin_leaf_warbler_2.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/inaturalist/sakhalin_leaf_warbler_2",
+      "width": 1024,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 150944,
+      "attribution": {
+        "photographer": "shukov",
+        "photographer_url": "https://www.inaturalist.org/observations/142138751",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 142138751,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sakhalin_leaf_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880743/bird-gallery/sakhalin_leaf_warbler/inaturalist/sakhalin_leaf_warbler_3.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/inaturalist/sakhalin_leaf_warbler_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 53944,
+      "attribution": {
+        "photographer": "valerkov",
+        "photographer_url": "https://www.inaturalist.org/observations/118980570",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© valerkov (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 118980570,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "sakhalin_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880744/bird-gallery/sakhalin_leaf_warbler/wikimedia/sakhalin_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/wikimedia/sakhalin_leaf_warbler_1",
+      "width": 250,
+      "height": 187,
+      "format": "jpg",
+      "bytes": 6615,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49697088387_2ff7931d8c_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880745/bird-gallery/sakhalin_leaf_warbler/avibase/avibase_1_49697088387_2ff7931d8c_b.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/avibase/avibase_1_49697088387_2ff7931d8c_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 81234,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49697088387",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_4650124419_cf87e234a8_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880746/bird-gallery/sakhalin_leaf_warbler/avibase/avibase_2_4650124419_cf87e234a8_b.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/avibase/avibase_2_4650124419_cf87e234a8_b",
+      "width": 1024,
+      "height": 811,
+      "format": "jpg",
+      "bytes": 162576,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4650124419",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_18592401823_a8664ec2da_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880747/bird-gallery/sakhalin_leaf_warbler/avibase/avibase_3_18592401823_a8664ec2da_b.jpg",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/avibase/avibase_3_18592401823_a8664ec2da_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 119247,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "18592401823",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "sakhalin_leaf_warbler_120189181.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772880774/bird-gallery/sakhalin_leaf_warbler/sounds/sakhalin_leaf_warbler_120189181.mp3",
+      "public_id": "bird-gallery/sakhalin_leaf_warbler/sounds/sakhalin_leaf_warbler_120189181",
+      "duration": 12.672,
+      "format": "mp3",
+      "bytes": 297596,
+      "bit_rate": 187876,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "120189181",
+        "asset_url": "https://macaulaylibrary.org/asset/120189181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

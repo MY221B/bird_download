@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "imperial_eagle",
+    "chinese_name": "白肩雕",
+    "english_name": "Imperial Eagle",
+    "scientific_name": "Aquila heliaca"
+  },
+  "macaulay": [
+    {
+      "original_file": "imperial_eagle_105378791.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880654/bird-gallery/imperial_eagle/macaulay/imperial_eagle_105378791.jpg",
+      "public_id": "bird-gallery/imperial_eagle/macaulay/imperial_eagle_105378791",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 66420,
+      "attribution": {
+        "photographer": "Ferit Başbuğ",
+        "photographer_url": "https://macaulaylibrary.org/asset/105378791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ferit Başbuğ; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "105378791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "imperial_eagle_614483457.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880659/bird-gallery/imperial_eagle/macaulay/imperial_eagle_614483457.jpg",
+      "public_id": "bird-gallery/imperial_eagle/macaulay/imperial_eagle_614483457",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 97093,
+      "attribution": {
+        "photographer": "Albin Jacob",
+        "photographer_url": "https://macaulaylibrary.org/asset/614483457",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Albin Jacob; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "614483457",
+        "note": null
+      }
+    },
+    {
+      "original_file": "imperial_eagle_66340291.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880664/bird-gallery/imperial_eagle/macaulay/imperial_eagle_66340291.jpg",
+      "public_id": "bird-gallery/imperial_eagle/macaulay/imperial_eagle_66340291",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49992,
+      "attribution": {
+        "photographer": "Christoph Moning",
+        "photographer_url": "https://macaulaylibrary.org/asset/66340291",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Christoph Moning; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "66340291",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "imperial_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880668/bird-gallery/imperial_eagle/inaturalist/imperial_eagle_1.jpg",
+      "public_id": "bird-gallery/imperial_eagle/inaturalist/imperial_eagle_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48027,
+      "attribution": {
+        "photographer": "vyacheslavluzanov",
+        "photographer_url": "https://www.inaturalist.org/observations/106875411",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vyacheslavluzanov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106875411,
+        "note": null
+      }
+    },
+    {
+      "original_file": "imperial_eagle_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880669/bird-gallery/imperial_eagle/inaturalist/imperial_eagle_2.jpg",
+      "public_id": "bird-gallery/imperial_eagle/inaturalist/imperial_eagle_2",
+      "width": 1024,
+      "height": 710,
+      "format": "jpg",
+      "bytes": 94172,
+      "attribution": {
+        "photographer": "andreysemenov",
+        "photographer_url": "https://www.inaturalist.org/observations/214764333",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© andreysemenov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 214764333,
+        "note": null
+      }
+    },
+    {
+      "original_file": "imperial_eagle_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880670/bird-gallery/imperial_eagle/inaturalist/imperial_eagle_3.jpg",
+      "public_id": "bird-gallery/imperial_eagle/inaturalist/imperial_eagle_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 32342,
+      "attribution": {
+        "photographer": "matthieu_gauvain",
+        "photographer_url": "https://www.inaturalist.org/observations/193120875",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© matthieu_gauvain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 193120875,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "imperial_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880672/bird-gallery/imperial_eagle/wikimedia/imperial_eagle_1.jpg",
+      "public_id": "bird-gallery/imperial_eagle/wikimedia/imperial_eagle_1",
+      "width": 960,
+      "height": 1427,
+      "format": "jpg",
+      "bytes": 354609,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52552722519_b113e5813e_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880673/bird-gallery/imperial_eagle/avibase/avibase_1_52552722519_b113e5813e_b.jpg",
+      "public_id": "bird-gallery/imperial_eagle/avibase/avibase_1_52552722519_b113e5813e_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 110824,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52552722519",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54773325713_c56ba060b2_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880674/bird-gallery/imperial_eagle/avibase/avibase_2_54773325713_c56ba060b2_b.jpg",
+      "public_id": "bird-gallery/imperial_eagle/avibase/avibase_2_54773325713_c56ba060b2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 14458,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54773325713",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52552975129_1754b74317_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1772880675/bird-gallery/imperial_eagle/avibase/avibase_3_52552975129_1754b74317_b.jpg",
+      "public_id": "bird-gallery/imperial_eagle/avibase/avibase_3_52552975129_1754b74317_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 107761,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52552975129",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "imperial_eagle_605642091.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1772880762/bird-gallery/imperial_eagle/sounds/imperial_eagle_605642091.mp3",
+      "public_id": "bird-gallery/imperial_eagle/sounds/imperial_eagle_605642091",
+      "duration": 3.984,
+      "format": "mp3",
+      "bytes": 55052,
+      "bit_rate": 110546,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "605642091",
+        "asset_url": "https://macaulaylibrary.org/asset/605642091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

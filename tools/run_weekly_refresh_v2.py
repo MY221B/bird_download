@@ -354,6 +354,7 @@ def main():
     all_missing_cloud = set()
     all_missing_info = {}   # slug -> {chinese_name, english_name, scientific_name, wikipedia_page}
     location_data_list = []  # 成功抓取的地点数据
+    extended_range_locs = []  # 使用30天扩展范围才成功抓取的地点
 
     for entry in locations:
         loc_id = entry.get("id") or entry.get("name")
@@ -373,20 +374,41 @@ def main():
         text_file = location_dir / "birds.txt"
         csv_file = location_dir / "birds.csv"
 
-        # 抓取（带重试）
+        # 抓取（带重试，失败后自动扩展到30天再试）
         records = None
+        last_exc = None
         for attempt in range(1, MAX_FETCH_RETRIES + 2):
             try:
                 records = fetch_species_for_location(entry, start_date, end_date, text_file)
                 break
             except Exception as exc:
+                last_exc = exc
                 if attempt < 3:
                     print(f"🔁 抓取失败，第 {attempt}/3 次尝试，将重试: {exc}")
                     time.sleep(4)
                 else:
-                    print(f"❌ 抓取失败（已重试 2 次）: {exc}")
-                    summary.append({"location": loc_name, "status": "抓取失败", "details": str(exc)})
+                    print(f"⚠️  常规时间范围（{start_date} ~ {end_date}）3次均失败，尝试扩展至30天...")
+
+        if records is None:
+            # 用30天范围重试
+            ext_end = date.today()
+            ext_start = ext_end - timedelta(days=29)
+            for attempt in range(1, MAX_FETCH_RETRIES + 2):
+                try:
+                    records = fetch_species_for_location(entry, ext_start, ext_end, text_file)
+                    print(f"✅ 30天扩展范围（{ext_start} ~ {ext_end}）抓取成功: {len(records)} 种")
+                    start_date = ext_start
+                    end_date = ext_end
+                    extended_range_locs.append(loc_name)
                     break
+                except Exception as exc:
+                    last_exc = exc
+                    if attempt < 3:
+                        print(f"🔁 30天范围失败，第 {attempt}/3 次尝试，将重试: {exc}")
+                        time.sleep(4)
+                    else:
+                        print(f"❌ 30天范围也失败（已重试 2 次）: {exc}")
+                        summary.append({"location": loc_name, "status": "抓取失败", "details": str(last_exc)})
 
         if records is None:
             continue
@@ -560,7 +582,7 @@ def main():
         summary.append({
             "location": loc_name,
             "status": status,
-            "details": f"{species_count} 种 -> 复制 {copied} JSON 至 {dest_dir}",
+            "details": f"{species_count} 种",
             "downloads": format_slug_list(downloads_for_log, slug_info),
             "downloads_raw": downloads_for_log,
             "missing_local": format_slug_list(final_missing_local, slug_info),
@@ -579,7 +601,10 @@ def main():
         for item in summary:
             highlight_slugs.extend(item.get("downloads_raw") or [])
         highlight_slugs = list(set(highlight_slugs))
-        generate_html(highlight_slugs, priority_slugs=highlight_slugs)
+        import io as _io, contextlib as _cl
+        with _cl.redirect_stdout(_io.StringIO()):
+            generate_html(highlight_slugs, priority_slugs=highlight_slugs)
+        print("✅ HTML 页面已更新")
         if combined_slugs:
             combined_csv = run_dir / "combined_reorder.csv"
             with open(combined_csv, "w", encoding="utf-8", newline="") as f:
@@ -587,7 +612,9 @@ def main():
                 writer.writerow(["slug", "english_name", "scientific_name", "wikipedia_page"])
                 for slug in combined_slugs:
                     writer.writerow([slug, "", "", ""])
-            reorder_new_birds(combined_csv)
+            with _cl.redirect_stdout(_io.StringIO()):
+                reorder_new_birds(combined_csv)
+            print(f"✅ {len(combined_slugs)} 种新鸟类已移至列表顶部")
 
     # 检查 all_birds.csv 中所有缺少 cloudinary JSON 的鸟类（与原逻辑相同）
     print("\n" + "=" * 80)
@@ -740,7 +767,11 @@ def main():
     all_missing_local_set = set()
     all_missing_json_set = set()
     for item in summary:
-        print(f"- {item['location']}: {item['status']} ({item.get('details','')})")
+        _status = item['status']
+        if _status.startswith("已更新"):
+            print(f"- {item['location']}: {_status} ({item.get('details','')})")
+        else:
+            print(f"- {item['location']}: {_status} — {item.get('details','')}")
         all_downloads.update(item.get("downloads") or [])
         all_missing_local_set.update(item.get("missing_local") or [])
         all_missing_json_set.update(item.get("missing_json") or [])
@@ -761,13 +792,15 @@ def main():
             if total_sounds_failed > 0:
                 print(f"  · 鸟叫声下载失败: {total_sounds_failed} 种")
 
-    print("\nℹ️ 说明：列表中的'缺少 cloudinary JSON'代表对应鸟类的图片尚未成功下载或上传。")
+    if extended_range_locs:
+        print(f"\n⚠️  以下 {len(extended_range_locs)} 个地点使用30天扩展范围才抓取到数据（可能近期观测较少）：")
+        for _loc in extended_range_locs:
+            print(f"  - {_loc}")
+
     print("\n🧾 手动步骤提醒：")
-    print("1. 打开 images/ 或 Cloudinary 后台检查本次新下载的鸟类，删除不合适的照片。")
-    print("2. 检查 Cloudinary 中新上传的鸟叫声，确认音频质量。")
-    print("3. 运行 `python3 tools/delete_cloudinary_by_list.py` 等清理脚本（如需要）。")
-    print("4. 登录 Lovable，触发站点重新部署/推送更新。")
-    print("5. 通过 `feather-flash-quiz/location_birds/<地点>/<日期>` 查看复制结果。")
+    print("1. 检查 images/<slug>/ 中新下载的照片，将不合适的图片路径写入 config/delete_list.txt，")
+    print("   然后运行: python3 tools/delete_cloudinary_by_list.py")
+    print("2. 检查 Cloudinary 中新上传的鸟叫声，确认音频质量（如需删除，同上）。")
 
     all_priority_slugs = set()
     for item in summary:
@@ -775,8 +808,9 @@ def main():
     if remaining_all_missing:
         all_priority_slugs.update(remaining_all_missing)
     if all_priority_slugs:
-        print(f"\n🔄 重新生成HTML，将 {len(all_priority_slugs)} 个需要下载/检查的鸟类排在最前面并标红...")
-        generate_html(highlight_slugs=list(all_priority_slugs), priority_slugs=list(all_priority_slugs))
+        with _cl.redirect_stdout(_io.StringIO()):
+            generate_html(highlight_slugs=list(all_priority_slugs), priority_slugs=list(all_priority_slugs))
+        print(f"✅ HTML 已更新（{len(all_priority_slugs)} 种待检查鸟类排在最前）")
 
     if successful and all_downloads:
         html_file = PROJECT_ROOT / "examples" / "gallery_all_cloudinary.html"

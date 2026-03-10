@@ -85,5 +85,27 @@
   "bird_info": {
     "slug": "japanese_sparrow_hawk",
     "chinese_name": "日本松雀鹰"
-  }
+  },
+  "sounds": [
+    {
+      "original_file": "japanese_sparrow_hawk_638883605.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1773153974/bird-gallery/japanese_sparrow_hawk/sounds/japanese_sparrow_hawk_638883605.mp3",
+      "public_id": "bird-gallery/japanese_sparrow_hawk/sounds/japanese_sparrow_hawk_638883605",
+      "duration": 14.88,
+      "format": "mp3",
+      "bytes": 208220,
+      "bit_rate": 111946,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "638883605",
+        "asset_url": "https://macaulaylibrary.org/asset/638883605",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

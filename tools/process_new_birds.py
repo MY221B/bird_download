@@ -245,19 +245,38 @@ def download_birds(csv_file, missing_birds):
     
     print(f"\n📥 步骤3: 批量下载新鸟类的图片...")
     print(f"需要下载 {len(missing_birds)} 种鸟类")
-    
-    # 获取鸟类名称信息用于显示
+
+    # 获取鸟类名称信息用于显示：优先 all_birds_map，其次读 csv_file（新鸟类）
     all_birds_map = load_all_birds_csv()
+    csv_bird_info = {}
+    if csv_file and Path(csv_file).exists():
+        try:
+            with open(csv_file, 'r', encoding='utf-8') as _f:
+                _lines = _f.readlines()
+                _data = [l for l in _lines if l.strip() and not l.strip().startswith('#')]
+                _hdr = next((l for l in _lines if l.strip().startswith('#')), '')
+                _has_zh = 'chinese_name' in _hdr.lower()
+                _fnames = ['slug', 'chinese_name', 'english_name', 'scientific_name', 'wikipedia_page'] if _has_zh else ['slug', 'english_name', 'scientific_name', 'wikipedia_page']
+                for _row in csv.DictReader(_data, fieldnames=_fnames):
+                    _s = _row.get('slug', '').strip().strip('"')
+                    if _s:
+                        csv_bird_info[_s] = {
+                            'english_name': _row.get('english_name', '').strip().strip('"'),
+                            'chinese_name': (_row.get('chinese_name', '').strip().strip('"') if _has_zh else ''),
+                        }
+        except Exception:
+            pass
+
     bird_names = []
     for slug in missing_birds:
-        bird_info = all_birds_map.get(slug, {})
-        english = bird_info.get('english_name', slug)
+        bird_info = all_birds_map.get(slug) or csv_bird_info.get(slug) or {}
+        english = bird_info.get('english_name') or slug
         chinese = bird_info.get('chinese_name', '')
         if chinese:
             bird_names.append(f"{english}（{chinese}）")
         else:
             bird_names.append(english)
-    
+
     if bird_names:
         print("需要下载的鸟类:")
         for name in bird_names:
@@ -354,11 +373,15 @@ def download_birds(csv_file, missing_birds):
             return False
         
         try:
-            # 流式输出，实时显示 batch_fetch 的 [X/Y] 进度
+            # 流式输出，实时显示 batch_fetch 的 [X/Y] 进度；显式设置 UTF-8 环境避免中文乱码
+            _env = os.environ.copy()
+            _env.setdefault('LANG', 'en_US.UTF-8')
+            _env.setdefault('LC_ALL', 'en_US.UTF-8')
             subprocess.run(
                 [str(batch_script), str(temp_csv), "--parallel", "3", "--skip-existing"],
                 check=True,
                 cwd=str(PROJECT_ROOT),
+                env=_env,
             )
             return True
         except subprocess.CalledProcessError as e:
@@ -572,34 +595,33 @@ def upload_to_cloudinary(missing_birds, csv_file):
         except Exception:
             pass
     
-    for bird in missing_birds:
+    total_upload = len(missing_birds)
+    for i, bird in enumerate(missing_birds, 1):
         # 获取鸟类名称信息用于显示
         bird_info = bird_info_map.get(bird, {})
         english = bird_info.get('english_name', bird)
         chinese = bird_info.get('chinese_name', '')
-        if chinese:
-            print(f"  上传: {bird} - {english}（{chinese}）")
-        else:
-            print(f"  上传: {bird} - {english}")
+        name_display = f"{english}（{chinese}）" if chinese else english
+        print(f"[{i}/{total_upload}] 上传: {name_display}")
         try:
             # 构建命令参数
             cmd = [sys.executable, str(upload_script), bird]
-            
+
             # 如果CSV中有信息，传递给上传脚本
             if bird in bird_info_map:
                 info = bird_info_map[bird]
                 # 使用从新增鸟单.txt提取的中文名（如果存在）
-                chinese = chinese_map.get(bird, info.get('chinese_name', ''))
-                if chinese and info.get('english_name') and info.get('scientific_name'):
-                    cmd.extend([chinese, info['english_name'], info['scientific_name']])
-            
+                chinese_name = chinese_map.get(bird, info.get('chinese_name', ''))
+                if chinese_name and info.get('english_name') and info.get('scientific_name'):
+                    cmd.extend([chinese_name, info['english_name'], info['scientific_name']])
+
             result = subprocess.run(cmd, capture_output=True, text=True)
             if result.returncode != 0:
-                print(f"    ⚠️  {bird} 上传失败: {result.stderr}")
+                print(f"  ⚠️  上传失败: {result.stderr.strip()}")
             else:
-                print(f"    ✅ {bird} 上传成功")
+                print(f"  ✅ 完成")
         except Exception as e:
-            print(f"    ❌ {bird} 上传错误: {e}")
+            print(f"  ❌ 上传错误: {e}")
     
     return True
 

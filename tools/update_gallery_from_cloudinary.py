@@ -214,7 +214,7 @@ def build_html(all_data: dict, ordered_slugs: list, highlight_slugs: list = None
     .badge {{ background:#22c55e; color:#fff; padding:6px 12px; border-radius: 999px; font-weight:700; font-size:12px; }}
     .image-grid {{ display:grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); gap:16px; }}
     .image-card {{ background:#fff; border-radius:12px; overflow:hidden; box-shadow:0 4px 16px rgba(0,0,0,.06); position: relative; }}
-    .image-card img {{ width:100%; height:200px; object-fit:cover; cursor:pointer; }}
+    .image-card img {{ width:100%; height:200px; object-fit:contain; object-position:center; cursor:pointer; }}
     .image-info {{ padding:12px; }}
     .image-label {{ background:#3b82f6; color:#fff; padding:2px 8px; border-radius:12px; font-size:12px; display:inline-block; margin-bottom:6px; }}
     .image-details p {{ font-size:12px; color:#64748b; margin:3px 0; }}

@@ -31,18 +31,16 @@ fi
 echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 
-echo "🔄 更新 location_birds 路径清单 (manifest)..."
 cd "${QUIZ_DIR}"
-node scripts/generate-location-birds-manifest.js
+node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
 if [[ -z "$(git status --porcelain)" ]]; then
-  echo "✅ feather-flash-quiz has no changes; skipping commit."
+  echo "✅ feather-flash-quiz 无新改动，跳过提交"
   exit 0
 fi
 
-echo "🗂️  Staging changes under feather-flash-quiz..."
 git add -A
 if git diff --cached --quiet; then
-  echo "⚠️  Nothing new to commit after staging."
+  echo "✅ feather-flash-quiz 无新改动"
   exit 0
 fi
 
@@ -85,32 +83,17 @@ if ! git config user.name > /dev/null 2>&1 || ! git config user.email > /dev/nul
   fi
 fi
 
-echo "📝 Committing with message: ${COMMIT_MSG}"
 git commit --quiet -m "${COMMIT_MSG}"
-echo "$(git diff HEAD~1 --shortstat)"
-
 current_branch="$(git rev-parse --abbrev-ref HEAD)"
-
-echo "🔄 Pulling latest changes from origin/${current_branch}..."
-if git pull --rebase origin "${current_branch}" 2>&1; then
-  echo "✅ Successfully pulled and rebased"
-else
-  echo "⚠️  Pull failed or has conflicts. Checking status..."
+if ! git pull --rebase origin "${current_branch}" 2>/dev/null; then
   if git status | grep -q "rebase in progress"; then
-    echo "❌ Rebase conflicts detected. Please resolve manually:"
-    echo "   cd ${QUIZ_DIR}"
-    echo "   git status"
-    echo "   # Resolve conflicts, then:"
-    echo "   git rebase --continue"
+    echo "❌ feather-flash-quiz rebase 冲突，请手动解决"
     exit 1
   fi
 fi
-
-echo "🚀 Pushing feather-flash-quiz to origin/main..."
 git push --quiet origin main
-echo "🚀 Pushing feather-flash-quiz to origin/develop_lovable..."
 git push --quiet origin main:develop_lovable
-echo "✨ feather-flash-quiz pushed successfully (main + develop_lovable)."
+echo "✅ feather-flash-quiz 已提交并推送"
 
 # 🔄 推送主仓库改动
 cd "${REPO_ROOT}"

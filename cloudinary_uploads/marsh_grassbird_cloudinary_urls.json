@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "marsh_grassbird_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151992/bird-gallery/marsh_grassbird/inaturalist/marsh_grassbird_1.jpg",
-      "public_id": "bird-gallery/marsh_grassbird/inaturalist/marsh_grassbird_1",
-      "width": 1024,
-      "height": 767,
-      "format": "jpg",
-      "bytes": 80779,
-      "attribution": {
-        "photographer": "ts04",
-        "photographer_url": "https://www.inaturalist.org/observations/283370716",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© ts04 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 283370716,
-        "note": null
-      }
-    },
-    {
       "original_file": "marsh_grassbird_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151993/bird-gallery/marsh_grassbird/inaturalist/marsh_grassbird_2.jpg",
       "public_id": "bird-gallery/marsh_grassbird/inaturalist/marsh_grassbird_2",
@@ -124,27 +105,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "marsh_grassbird_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151997/bird-gallery/marsh_grassbird/wikimedia/marsh_grassbird_1.jpg",
-      "public_id": "bird-gallery/marsh_grassbird/wikimedia/marsh_grassbird_1",
-      "width": 250,
-      "height": 309,
-      "format": "jpg",
-      "bytes": 10856,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_14900989007_619a60fdc7_b.jpg",
@@ -181,25 +142,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "4681590500",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_8097295728_1b345d6702_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773152001/bird-gallery/marsh_grassbird/avibase/avibase_3_8097295728_1b345d6702_b.jpg",
-      "public_id": "bird-gallery/marsh_grassbird/avibase/avibase_3_8097295728_1b345d6702_b",
-      "width": 750,
-      "height": 500,
-      "format": "jpg",
-      "bytes": 97110,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "8097295728",
         "note": "署名信息需从Flickr获取"
       }
     }

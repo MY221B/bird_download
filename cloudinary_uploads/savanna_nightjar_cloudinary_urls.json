@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "savanna_nightjar_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151455/bird-gallery/savanna_nightjar/inaturalist/savanna_nightjar_1.jpg",
-      "public_id": "bird-gallery/savanna_nightjar/inaturalist/savanna_nightjar_1",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 37330,
-      "attribution": {
-        "photographer": "iwank",
-        "photographer_url": "https://www.inaturalist.org/observations/112302839",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© iwank (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 112302839,
-        "note": null
-      }
-    },
-    {
       "original_file": "savanna_nightjar_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151456/bird-gallery/savanna_nightjar/inaturalist/savanna_nightjar_2.jpg",
       "public_id": "bird-gallery/savanna_nightjar/inaturalist/savanna_nightjar_2",
@@ -146,25 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_50935148232_318d91c66b_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151461/bird-gallery/savanna_nightjar/avibase/avibase_1_50935148232_318d91c66b_b.jpg",
-      "public_id": "bird-gallery/savanna_nightjar/avibase/avibase_1_50935148232_318d91c66b_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 294263,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "50935148232",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_55003420935_9b8121af3e_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151463/bird-gallery/savanna_nightjar/avibase/avibase_2_55003420935_9b8121af3e_b.jpg",

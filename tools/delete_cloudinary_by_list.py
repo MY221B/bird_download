@@ -41,12 +41,29 @@ def load_public_ids(p: Path):
     raise ValueError("无法识别的JSON结构，请参考文件头部注释示例")
 
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DEFAULT_FILES = [
+    PROJECT_ROOT / "config" / "需要删除图片名单",
+    PROJECT_ROOT / "config" / "delete_list.json",
+]
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--file", required=True, help="包含 public_id 列表的 JSON 文件路径")
+    ap.add_argument("--file", help="包含 public_id 列表的 JSON 文件路径（默认: config/需要删除图片名单）")
     args = ap.parse_args()
 
-    path = Path(args.file)
+    if args.file:
+        path = Path(args.file)
+    else:
+        for p in DEFAULT_FILES:
+            if p.exists():
+                path = p
+                break
+        else:
+            print("用法: python3 tools/delete_cloudinary_by_list.py --file <JSON文件>")
+            print("  或 将 public_id 列表写入 config/需要删除图片名单 后直接运行")
+            sys.exit(1)
     if not path.exists():
         print(f"❌ 文件不存在: {path}")
         sys.exit(1)

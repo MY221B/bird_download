@@ -124,27 +124,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "vinaceous_rosefinch_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151749/bird-gallery/vinaceous_rosefinch/wikimedia/vinaceous_rosefinch_1.jpg",
-      "public_id": "bird-gallery/vinaceous_rosefinch/wikimedia/vinaceous_rosefinch_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 11932,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_52848408021_3330d7d568_b.jpg",
@@ -181,25 +161,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "28147426269",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_28109192673_13c714daa6_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151753/bird-gallery/vinaceous_rosefinch/avibase/avibase_3_28109192673_13c714daa6_b.jpg",
-      "public_id": "bird-gallery/vinaceous_rosefinch/avibase/avibase_3_28109192673_13c714daa6_b",
-      "width": 1023,
-      "height": 673,
-      "format": "jpg",
-      "bytes": 22540,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "28109192673",
         "note": "署名信息需从Flickr获取"
       }
     }

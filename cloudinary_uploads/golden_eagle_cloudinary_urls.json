@@ -66,44 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "golden_eagle_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151484/bird-gallery/golden_eagle/inaturalist/golden_eagle_1.jpg",
-      "public_id": "bird-gallery/golden_eagle/inaturalist/golden_eagle_1",
-      "width": 576,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 54762,
-      "attribution": {
-        "photographer": "ddellwa",
-        "photographer_url": "https://www.inaturalist.org/observations/17234865",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© ddellwa (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 17234865,
-        "note": null
-      }
-    },
-    {
-      "original_file": "golden_eagle_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151485/bird-gallery/golden_eagle/inaturalist/golden_eagle_2.jpg",
-      "public_id": "bird-gallery/golden_eagle/inaturalist/golden_eagle_2",
-      "width": 1024,
-      "height": 829,
-      "format": "jpg",
-      "bytes": 78935,
-      "attribution": {
-        "photographer": "leuchtturm",
-        "photographer_url": "https://www.inaturalist.org/observations/183253952",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© leuchtturm (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 183253952,
-        "note": null
-      }
-    },
-    {
       "original_file": "golden_eagle_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151487/bird-gallery/golden_eagle/inaturalist/golden_eagle_3.jpg",
       "public_id": "bird-gallery/golden_eagle/inaturalist/golden_eagle_3",
@@ -147,25 +109,6 @@
   ],
   "avibase": [
     {
-      "original_file": "avibase_1_49797804307_e801e44596_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151489/bird-gallery/golden_eagle/avibase/avibase_1_49797804307_e801e44596_b.jpg",
-      "public_id": "bird-gallery/golden_eagle/avibase/avibase_1_49797804307_e801e44596_b",
-      "width": 1023,
-      "height": 681,
-      "format": "jpg",
-      "bytes": 61475,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "49797804307",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
       "original_file": "avibase_2_50025957082_de3a89393e_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151490/bird-gallery/golden_eagle/avibase/avibase_2_50025957082_de3a89393e_b.jpg",
       "public_id": "bird-gallery/golden_eagle/avibase/avibase_2_50025957082_de3a89393e_b",
@@ -181,25 +124,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "50025957082",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_49521516608_aec7339788_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151492/bird-gallery/golden_eagle/avibase/avibase_3_49521516608_aec7339788_b.jpg",
-      "public_id": "bird-gallery/golden_eagle/avibase/avibase_3_49521516608_aec7339788_b",
-      "width": 1023,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 19751,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "49521516608",
         "note": "署名信息需从Flickr获取"
       }
     }

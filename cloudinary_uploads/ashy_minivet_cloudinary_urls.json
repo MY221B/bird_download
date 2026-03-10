@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "ashy_minivet_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773152165/bird-gallery/ashy_minivet/inaturalist/ashy_minivet_1.jpg",
-      "public_id": "bird-gallery/ashy_minivet/inaturalist/ashy_minivet_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 48425,
-      "attribution": {
-        "photographer": "flycatcherwarblerthrush",
-        "photographer_url": "https://www.inaturalist.org/observations/41354698",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© flycatcherwarblerthrush (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 41354698,
-        "note": null
-      }
-    },
-    {
       "original_file": "ashy_minivet_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773152166/bird-gallery/ashy_minivet/inaturalist/ashy_minivet_2.jpg",
       "public_id": "bird-gallery/ashy_minivet/inaturalist/ashy_minivet_2",
@@ -162,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "54369289491",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_13220443553_35d0886216_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773152172/bird-gallery/ashy_minivet/avibase/avibase_2_13220443553_35d0886216_b.jpg",
-      "public_id": "bird-gallery/ashy_minivet/avibase/avibase_2_13220443553_35d0886216_b",
-      "width": 682,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 64743,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "13220443553",
         "note": "署名信息需从Flickr获取"
       }
     },

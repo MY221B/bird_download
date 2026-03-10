@@ -102,49 +102,10 @@
         "source_id": 197402321,
         "note": null
       }
-    },
-    {
-      "original_file": "green_backed_tit_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151691/bird-gallery/green_backed_tit/inaturalist/green_backed_tit_3.jpg",
-      "public_id": "bird-gallery/green_backed_tit/inaturalist/green_backed_tit_3",
-      "width": 1024,
-      "height": 645,
-      "format": "jpg",
-      "bytes": 97451,
-      "attribution": {
-        "photographer": "bharanirules",
-        "photographer_url": "https://www.inaturalist.org/observations/10837133",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© bharanirules (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 10837133,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "green_backed_tit_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151694/bird-gallery/green_backed_tit/wikimedia/green_backed_tit_1.jpg",
-      "public_id": "bird-gallery/green_backed_tit/wikimedia/green_backed_tit_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 5358,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_53847807611_34cc28d1dc_b.jpg",

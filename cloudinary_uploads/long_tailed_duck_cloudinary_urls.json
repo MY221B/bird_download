@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "long_tailed_duck_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151659/bird-gallery/long_tailed_duck/inaturalist/long_tailed_duck_1.jpg",
-      "public_id": "bird-gallery/long_tailed_duck/inaturalist/long_tailed_duck_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 138705,
-      "attribution": {
-        "photographer": "paulreevesphotography",
-        "photographer_url": "https://www.inaturalist.org/observations/20921711",
-        "license": "cc-by-nc-sa",
-        "license_url": null,
-        "credit_format": "© paulreevesphotography (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
-        "source": "inaturalist",
-        "source_id": 20921711,
-        "note": null
-      }
-    },
-    {
       "original_file": "long_tailed_duck_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151660/bird-gallery/long_tailed_duck/inaturalist/long_tailed_duck_2.jpg",
       "public_id": "bird-gallery/long_tailed_duck/inaturalist/long_tailed_duck_2",
@@ -124,47 +105,8 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "long_tailed_duck_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151663/bird-gallery/long_tailed_duck/wikimedia/long_tailed_duck_1.jpg",
-      "public_id": "bird-gallery/long_tailed_duck/wikimedia/long_tailed_duck_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 7143,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
-    {
-      "original_file": "avibase_1_51685013844_b6d1e4a0e2_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151664/bird-gallery/long_tailed_duck/avibase/avibase_1_51685013844_b6d1e4a0e2_b.jpg",
-      "public_id": "bird-gallery/long_tailed_duck/avibase/avibase_1_51685013844_b6d1e4a0e2_b",
-      "width": 1024,
-      "height": 650,
-      "format": "jpg",
-      "bytes": 55907,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51685013844",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_54228893569_01e18c6f3d_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151665/bird-gallery/long_tailed_duck/avibase/avibase_2_54228893569_01e18c6f3d_b.jpg",

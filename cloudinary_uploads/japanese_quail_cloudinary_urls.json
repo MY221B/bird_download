@@ -83,44 +83,6 @@
         "source_id": 197525802,
         "note": null
       }
-    },
-    {
-      "original_file": "japanese_quail_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768806195/bird-gallery/japanese_quail/inaturalist/japanese_quail_2.jpg",
-      "public_id": "bird-gallery/japanese_quail/inaturalist/japanese_quail_2",
-      "width": 576,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 43833,
-      "attribution": {
-        "photographer": "aie-sha",
-        "photographer_url": "https://www.inaturalist.org/observations/301503063",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© aie-sha (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 301503063,
-        "note": null
-      }
-    },
-    {
-      "original_file": "japanese_quail_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768806196/bird-gallery/japanese_quail/inaturalist/japanese_quail_3.jpg",
-      "public_id": "bird-gallery/japanese_quail/inaturalist/japanese_quail_3",
-      "width": 522,
-      "height": 522,
-      "format": "jpg",
-      "bytes": 47679,
-      "attribution": {
-        "photographer": "npenhollow",
-        "photographer_url": "https://www.inaturalist.org/observations/140905283",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© npenhollow (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 140905283,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -181,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "14224147191",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_7379106982_df30c83ecc_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773152226/bird-gallery/japanese_quail/avibase/avibase_3_7379106982_df30c83ecc_b.jpg",
-      "public_id": "bird-gallery/japanese_quail/avibase/avibase_3_7379106982_df30c83ecc_b",
-      "width": 1024,
-      "height": 889,
-      "format": "jpg",
-      "bytes": 147501,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "7379106982",
         "note": "署名信息需从Flickr获取"
       }
     }

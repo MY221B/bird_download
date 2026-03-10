@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "buff_throated_warbler_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151540/bird-gallery/buff_throated_warbler/inaturalist/buff_throated_warbler_1.jpg",
-      "public_id": "bird-gallery/buff_throated_warbler/inaturalist/buff_throated_warbler_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 30840,
-      "attribution": {
-        "photographer": "kunpeng_dong",
-        "photographer_url": "https://www.inaturalist.org/observations/160319622",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© kunpeng_dong (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 160319622,
-        "note": null
-      }
-    },
-    {
       "original_file": "buff_throated_warbler_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151550/bird-gallery/buff_throated_warbler/inaturalist/buff_throated_warbler_2.jpg",
       "public_id": "bird-gallery/buff_throated_warbler/inaturalist/buff_throated_warbler_2",
@@ -124,27 +105,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "buff_throated_warbler_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151580/bird-gallery/buff_throated_warbler/wikimedia/buff_throated_warbler_1.jpg",
-      "public_id": "bird-gallery/buff_throated_warbler/wikimedia/buff_throated_warbler_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 7154,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_8621771229_88cf7f722f_b.jpg",

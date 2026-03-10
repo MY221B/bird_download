@@ -352,6 +352,7 @@ def main():
 
     all_missing_local = set()
     all_missing_cloud = set()
+    all_missing_info = {}   # slug -> {chinese_name, english_name, scientific_name, wikipedia_page}
     location_data_list = []  # 成功抓取的地点数据
 
     for entry in locations:

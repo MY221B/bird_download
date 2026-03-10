@@ -76,24 +76,21 @@ python3 tools/upload_to_cloudinary.py bluetail
 python3 tools/update_gallery_from_cloudinary.py
 ```
 
-### 方式 4：使用AI助手
-
-复制 `可使用的prompt.txt` 里的 prompt，让 AI 自动完成所有步骤（包括临时文件清理）。
-
-### 方式 5：批量/定时刷新（多地点）
+### 方式 4：批量/定时刷新（多地点）
 
 ```bash
 python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 # 可用 --locations 仅跑部分地点
 ```
 
-脚本会遍历 `config/birdreport_locations.json`，自动抓取最近一周的鸟单、下载缺失图片、上传至 Cloudinary，并把最新 JSON 拷贝到 `feather-flash-quiz/location_birds/<地点>/<日期>` 目录，供前端使用。
+脚本会遍历 `config/birdreport_locations.json`，自动抓取最近一周的鸟单、下载缺失图片、上传至 Cloudinary，并把最新 JSON 拷贝到 `feather-flash-quiz/location_birds/<城市>/<地点>/<日期>` 目录，供前端使用。
 
 ## 📚 文档
 - 📖 **快速指南**：`docs/快速指南.md` - 完整使用说明
 - 📋 **CSV 模板**：`examples/birds_template.csv` - 批量下载模板
-- 🤖 **AI Prompt**：`可使用的prompt.txt` - AI 助手操作指南
 - 🗺️ **鸟单自动抓取指南**：`docs/鸟单自动抓取指南.md` - 参数/配置化抓取教程
+- 📍 **地点配置说明**：`docs/地点配置说明.md` - birdreport_locations.json 配置指南
+- 🔊 **鸟叫声使用说明**：`docs/鸟叫声使用说明.md` - 鸟叫声下载与集成说明
 
 ## 📁 结构
 ```

@@ -640,10 +640,14 @@ def update_bird_info(csv_file):
                     'scientific_name': row.get('scientific_name', '').strip('"')
                 }
     
-    # 从新增鸟单.txt提取中文名
+    # 从新增鸟单.txt提取中文名（若文件不存在则跳过，自动化流程中不依赖此文件）
     input_file = PROJECT_ROOT / "新增鸟单.txt"
     chinese_map = {}
-    
+
+    if not input_file.exists():
+        print(f"ℹ️  新增鸟单.txt 不存在，跳过 bird_info 更新")
+        return True
+
     with open(input_file, 'r', encoding='utf-8') as f:
         lines = [l.strip() for l in f.readlines()]
     

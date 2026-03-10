@@ -1,7 +1,7 @@
 {
   "locations": [
     {
-      "id": "aosen_north",
+      "id": "beijing_aosen_north",
       "name": "奥森公园",
       "province": "北京市",
       "city": "",
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "id": "yuanmingyuan",
+      "id": "beijing_yuanmingyuan",
       "name": "圆明园",
       "province": "北京市",
       "city": "",
@@ -28,10 +28,11 @@
       "point_aliases": [
         "圆明园",
         "圆明园遗址公园"
-      ]
+      ],
+      "note": "beijing_rank_11"
     },
     {
-      "id": "yiheyuan",
+      "id": "beijing_yiheyuan",
       "name": "颐和园",
       "province": "北京市",
       "city": "",
@@ -42,10 +43,11 @@
       "point_aliases": [
         "颐和园",
         "颐和园公园"
-      ]
+      ],
+      "note": "beijing_rank_07"
     },
     {
-      "id": "shucun",
+      "id": "beijing_shucun",
       "name": "树村",
       "province": "北京市",
       "city": "",
@@ -59,7 +61,7 @@
       ]
     },
     {
-      "id": "baiwangshan",
+      "id": "beijing_baiwangshan",
       "name": "百望山",
       "province": "北京市",
       "city": "",
@@ -70,10 +72,11 @@
       "point_aliases": [
         "百望山",
         "百望山森林公园"
-      ]
+      ],
+      "note": "beijing_rank_09"
     },
     {
-      "id": "tiantan",
+      "id": "beijing_tiantan",
       "name": "天坛",
       "province": "北京市",
       "city": "",
@@ -84,10 +87,11 @@
       "point_aliases": [
         "天坛",
         "天坛公园"
-      ]
+      ],
+      "note": "beijing_rank_03"
     },
     {
-      "id": "yuyuantan",
+      "id": "beijing_yuyuantan",
       "name": "玉渊潭",
       "province": "北京市",
       "city": "",
@@ -98,10 +102,11 @@
       "point_aliases": [
         "玉渊潭",
         "玉渊潭公园"
-      ]
+      ],
+      "note": "beijing_rank_04"
     },
     {
-      "id": "zhiwuyuan",
+      "id": "beijing_zhiwuyuan",
       "name": "植物园",
       "province": "北京市",
       "city": "",
@@ -115,7 +120,7 @@
       ]
     },
     {
-      "id": "chaoyang_gongyuan",
+      "id": "beijing_chaoyang_gongyuan",
       "name": "朝阳公园",
       "province": "北京市",
       "city": "",
@@ -129,7 +134,7 @@
       ]
     },
     {
-      "id": "shahe_shuiku",
+      "id": "beijing_shahe_shuiku",
       "name": "沙河水库",
       "province": "北京市",
       "city": "",
@@ -143,7 +148,221 @@
       ]
     },
     {
-      "id": "shiji_gongyuan",
+      "id": "beijing_shahe_shuiku_changping_binhe_senlin_gongyuan",
+      "name": "沙河水库/昌平滨河森林公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "沙河水库/昌平滨河森林公园",
+        "沙河水库",
+        "昌平滨河森林公园"
+      ],
+      "note": "beijing_rank_01"
+    },
+    {
+      "id": "beijing_aolinpike_senlin_gongyuan",
+      "name": "奥林匹克森林公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "奥林匹克森林公园"
+      ],
+      "note": "beijing_rank_02"
+    },
+    {
+      "id": "beijing_miyun_shuiku",
+      "name": "密云水库",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "密云水库"
+      ],
+      "note": "beijing_rank_05"
+    },
+    {
+      "id": "beijing_lehuo_zhongdi_daning_shuiku",
+      "name": "乐活中堤/大宁水库",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "乐活中堤/大宁水库",
+        "乐活中堤",
+        "大宁水库"
+      ],
+      "note": "beijing_rank_06"
+    },
+    {
+      "id": "beijing_guojia_zhiwuyuan_beiyuan",
+      "name": "国家植物园北园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "国家植物园北园"
+      ],
+      "note": "beijing_rank_08"
+    },
+    {
+      "id": "beijing_nanhaizi_gongyuan",
+      "name": "南海子公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "南海子公园"
+      ],
+      "note": "beijing_rank_10"
+    },
+    {
+      "id": "beijing_xiaocao_cun",
+      "name": "小漕村",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "小漕村"
+      ],
+      "note": "beijing_rank_12"
+    },
+    {
+      "id": "beijing_yeyahu_shidi_gongyuan",
+      "name": "野鸭湖湿地公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "野鸭湖湿地公园"
+      ],
+      "note": "beijing_rank_13"
+    },
+    {
+      "id": "beijing_beihai_gongyuan",
+      "name": "北海公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "北海公园"
+      ],
+      "note": "beijing_rank_14"
+    },
+    {
+      "id": "beijing_miaofengshan_senlin_gongyuan",
+      "name": "妙峰山森林公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "妙峰山森林公园"
+      ],
+      "note": "beijing_rank_15"
+    },
+    {
+      "id": "beijing_yuandadu_yizhi_gongyuan",
+      "name": "元大都遗址公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "元大都遗址公园"
+      ],
+      "note": "beijing_rank_16"
+    },
+    {
+      "id": "beijing_songzhuang_xuzhihongqu",
+      "name": "宋庄蓄滞洪区",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "宋庄蓄滞洪区"
+      ],
+      "note": "beijing_rank_17"
+    },
+    {
+      "id": "beijing_longtan_xihu_gongyuan",
+      "name": "龙潭西湖公园",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "龙潭西湖公园"
+      ],
+      "note": "beijing_rank_18"
+    },
+    {
+      "id": "beijing_donglingshan",
+      "name": "东灵山",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "东灵山"
+      ],
+      "note": "beijing_rank_19"
+    },
+    {
+      "id": "beijing_shidu",
+      "name": "十渡",
+      "province": "北京市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "十渡"
+      ],
+      "note": "beijing_rank_20"
+    },
+    {
+      "id": "shanghai_shiji_gongyuan",
       "name": "世纪公园",
       "province": "上海市",
       "city": "",
@@ -156,7 +375,7 @@
       ]
     },
     {
-      "id": "binjiang_senlin_gongyuan",
+      "id": "shanghai_binjiang_senlin_gongyuan",
       "name": "滨江森林公园",
       "province": "上海市",
       "city": "",
@@ -171,7 +390,7 @@
       ]
     },
     {
-      "id": "gaodong_shengtaiyuan",
+      "id": "shanghai_gaodong_shengtaiyuan",
       "name": "高东生态园",
       "province": "上海市",
       "city": "",
@@ -185,7 +404,7 @@
       ]
     },
     {
-      "id": "wusong_paotaiwan",
+      "id": "shanghai_wusong_paotaiwan",
       "name": "吴淞炮台湾湿地森林公园",
       "province": "上海市",
       "city": "",
@@ -200,7 +419,7 @@
       ]
     },
     {
-      "id": "nanhui_dongtan",
+      "id": "shanghai_nanhui_dongtan",
       "name": "南汇东滩",
       "province": "上海市",
       "city": "",
@@ -214,7 +433,7 @@
       ]
     },
     {
-      "id": "shibo_wenhua_gongyuan",
+      "id": "shanghai_shibo_wenhua_gongyuan",
       "name": "世博文化公园",
       "province": "上海市",
       "city": "",
@@ -255,7 +474,7 @@
       ]
     },
     {
-      "id": "chongming_dongtan",
+      "id": "shanghai_chongming_dongtan",
       "name": "崇明东滩",
       "province": "上海市",
       "city": "",
@@ -269,7 +488,7 @@
       ]
     },
     {
-      "id": "jinhai_shidi_gongyuan",
+      "id": "shanghai_jinhai_shidi_gongyuan",
       "name": "金海湿地公园",
       "province": "上海市",
       "city": "",
@@ -283,7 +502,7 @@
       ]
     },
     {
-      "id": "xingqinggong",
+      "id": "xian_xingqinggong",
       "name": "兴庆宫",
       "province": "陕西省",
       "city": "西安市",
@@ -294,10 +513,283 @@
       "point_aliases": [
         "兴庆宫",
         "兴庆宫公园"
-      ]
+      ],
+      "note": "xian_rank_05"
     },
     {
-      "id": "guangming_huanle_tianyuan",
+      "id": "xian_jianzhukeji_daxue_yanta_xiaoqu",
+      "name": "西安建筑科技大学(雁塔校区)",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "西安建筑科技大学(雁塔校区)"
+      ],
+      "note": "xian_rank_01"
+    },
+    {
+      "id": "xian_fanchuan_gongyuan",
+      "name": "樊川公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "樊川公园"
+      ],
+      "note": "xian_rank_02"
+    },
+    {
+      "id": "xian_fengqing_gongyuan",
+      "name": "丰庆公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "丰庆公园"
+      ],
+      "note": "xian_rank_03"
+    },
+    {
+      "id": "xian_chanba_guojia_shidi_gongyuan",
+      "name": "浐灞国家湿地公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "浐灞国家湿地公园"
+      ],
+      "note": "xian_rank_04"
+    },
+    {
+      "id": "xian_laowei_shidi_gongyuan",
+      "name": "涝渭湿地公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "涝渭湿地公园"
+      ],
+      "note": "xian_rank_06"
+    },
+    {
+      "id": "xian_guifengsi_gaoguanyu",
+      "name": "圭峰寺/高冠峪",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "圭峰寺/高冠峪",
+        "圭峰寺",
+        "高冠峪"
+      ],
+      "note": "xian_rank_07"
+    },
+    {
+      "id": "xian_xian_zhiwuyuan",
+      "name": "西安植物园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "西安植物园"
+      ],
+      "note": "xian_rank_08"
+    },
+    {
+      "id": "xian_kunmingchi_qixi_gongyuan",
+      "name": "昆明池·七夕公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "昆明池·七夕公园"
+      ],
+      "note": "xian_rank_09"
+    },
+    {
+      "id": "xian_bingmayong_diling",
+      "name": "秦始皇兵马俑/帝陵",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "秦始皇兵马俑/帝陵",
+        "秦始皇兵马俑",
+        "帝陵"
+      ],
+      "note": "xian_rank_10"
+    },
+    {
+      "id": "xian_daminggong_guojia_yizhi_gongyuan",
+      "name": "大明宫国家遗址公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "大明宫国家遗址公园"
+      ],
+      "note": "xian_rank_11"
+    },
+    {
+      "id": "xian_xian_shiboyuan",
+      "name": "西安世博园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "西安世博园"
+      ],
+      "note": "xian_rank_12"
+    },
+    {
+      "id": "xian_yangling_weihe_shidi_shengtai_gongyuan",
+      "name": "杨凌渭河湿地生态公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "杨凌渭河湿地生态公园"
+      ],
+      "note": "xian_rank_13"
+    },
+    {
+      "id": "xian_chanba_taohuatan_gongyuan",
+      "name": "浐灞桃花潭公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "浐灞桃花潭公园"
+      ],
+      "note": "xian_rank_14"
+    },
+    {
+      "id": "xian_qujiangchi_yizhi_gongyuan",
+      "name": "曲江池遗址公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "曲江池遗址公园"
+      ],
+      "note": "xian_rank_15"
+    },
+    {
+      "id": "xian_xiangyu_senlin_gongyuan",
+      "name": "祥峪森林公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "祥峪森林公园"
+      ],
+      "note": "xian_rank_16"
+    },
+    {
+      "id": "xian_bahe_bawei_shidi",
+      "name": "灞河/灞渭湿地",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "灞河/灞渭湿地",
+        "灞河",
+        "灞渭湿地"
+      ],
+      "note": "xian_rank_17"
+    },
+    {
+      "id": "xian_jingwei_shidi",
+      "name": "泾渭湿地",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "泾渭湿地"
+      ],
+      "note": "xian_rank_18"
+    },
+    {
+      "id": "xian_qinling_guojia_zhiwuyuan",
+      "name": "秦岭国家植物园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "秦岭国家植物园"
+      ],
+      "note": "xian_rank_19"
+    },
+    {
+      "id": "xian_xiaohe_shidi_gongyuan",
+      "name": "洨河湿地公园",
+      "province": "陕西省",
+      "city": "西安市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "洨河湿地公园"
+      ],
+      "note": "xian_rank_20"
+    },
+    {
+      "id": "shenzhen_guangming_huanle_tianyuan",
       "name": "光明小镇欢乐田园",
       "province": "广东省",
       "city": "深圳市",
@@ -325,7 +817,7 @@
       ]
     },
     {
-      "id": "futian_hongshulin_shengtai",
+      "id": "shenzhen_futian_hongshulin_shengtai",
       "name": "福田红树林生态公园",
       "province": "广东省",
       "city": "深圳市",
@@ -338,7 +830,7 @@
       ]
     },
     {
-      "id": "tiezaishan_gongyuan",
+      "id": "shenzhen_tiezaishan_gongyuan",
       "name": "铁仔山公园",
       "province": "广东省",
       "city": "深圳市",
@@ -380,7 +872,7 @@
       ]
     },
     {
-      "id": "hongshulin_haibin_shengtai",
+      "id": "shenzhen_hongshulin_haibin_shengtai",
       "name": "红树林海滨生态公园",
       "province": "广东省",
       "city": "深圳市",
@@ -394,7 +886,7 @@
       ]
     },
     {
-      "id": "bijiashan_gongyuan",
+      "id": "shenzhen_bijiashan_gongyuan",
       "name": "笔架山公园",
       "province": "广东省",
       "city": "深圳市",
@@ -408,7 +900,7 @@
       ]
     },
     {
-      "id": "xianhu_zhiwuyuan",
+      "id": "shenzhen_xianhu_zhiwuyuan",
       "name": "仙湖植物园",
       "province": "广东省",
       "city": "深圳市",
@@ -422,7 +914,7 @@
       ]
     },
     {
-      "id": "fenghuangshan_senlin_gongyuan",
+      "id": "shenzhen_fenghuangshan_senlin_gongyuan",
       "name": "凤凰山森林公园",
       "province": "广东省",
       "city": "深圳市",
@@ -436,7 +928,7 @@
       ]
     },
     {
-      "id": "futian_hongshulin_baohuqu",
+      "id": "shenzhen_futian_hongshulin_baohuqu",
       "name": "福田红树林自然保护区",
       "province": "广东省",
       "city": "深圳市",
@@ -450,7 +942,7 @@
       ]
     },
     {
-      "id": "huaqiaocheng_shidi_gongyuan",
+      "id": "shenzhen_huaqiaocheng_shidi_gongyuan",
       "name": "华侨城国家湿地公园",
       "province": "广东省",
       "city": "深圳市",
@@ -480,7 +972,7 @@
       ]
     },
     {
-      "id": "haizhu_hu_gongyuan",
+      "id": "guangzhou_haizhu_hu_gongyuan",
       "name": "海珠湖公园",
       "province": "广东省",
       "city": "广州市",
@@ -494,7 +986,7 @@
       ]
     },
     {
-      "id": "luhu_gongyuan",
+      "id": "guangzhou_luhu_gongyuan",
       "name": "麓湖公园",
       "province": "广东省",
       "city": "广州市",
@@ -508,7 +1000,7 @@
       ]
     },
     {
-      "id": "liuhua_hu_gongyuan",
+      "id": "guangzhou_liuhua_hu_gongyuan",
       "name": "流花湖公园",
       "province": "广东省",
       "city": "广州市",
@@ -536,7 +1028,7 @@
       ]
     },
     {
-      "id": "zhujiang_gongyuan",
+      "id": "guangzhou_zhujiang_gongyuan",
       "name": "珠江公园",
       "province": "广东省",
       "city": "广州市",
@@ -549,7 +1041,7 @@
       ]
     },
     {
-      "id": "yuexiu_gongyuan",
+      "id": "guangzhou_yuexiu_gongyuan",
       "name": "越秀公园",
       "province": "广东省",
       "city": "广州市",
@@ -562,7 +1054,7 @@
       ]
     },
     {
-      "id": "dongshan_hu_gongyuan",
+      "id": "guangzhou_dongshan_hu_gongyuan",
       "name": "东山湖公园",
       "province": "广东省",
       "city": "广州市",
@@ -576,7 +1068,7 @@
       ]
     },
     {
-      "id": "xiaogang_gongyuan",
+      "id": "guangzhou_xiaogang_gongyuan",
       "name": "晓港公园",
       "province": "广东省",
       "city": "广州市",
@@ -618,7 +1110,7 @@
       "point_aliases": []
     },
     {
-      "id": "xiniaogu",
+      "id": "yunnan_xiniaogu",
       "name": "犀鸟谷",
       "province": "云南省",
       "city": "",

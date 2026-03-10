@@ -83,68 +83,10 @@
         "source_id": 264838339,
         "note": null
       }
-    },
-    {
-      "original_file": "alpine_accentor_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773153944/bird-gallery/alpine_accentor/inaturalist/alpine_accentor_2.jpg",
-      "public_id": "bird-gallery/alpine_accentor/inaturalist/alpine_accentor_2",
-      "width": 521,
-      "height": 481,
-      "format": "jpg",
-      "bytes": 24213,
-      "attribution": {
-        "photographer": "keivx",
-        "photographer_url": "https://www.inaturalist.org/observations/220729624",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© keivx (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 220729624,
-        "note": null
-      }
-    },
-    {
-      "original_file": "alpine_accentor_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773153946/bird-gallery/alpine_accentor/inaturalist/alpine_accentor_3.jpg",
-      "public_id": "bird-gallery/alpine_accentor/inaturalist/alpine_accentor_3",
-      "width": 576,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 126471,
-      "attribution": {
-        "photographer": "antoniojos",
-        "photographer_url": "https://www.inaturalist.org/observations/17645542",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© antoniojos (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 17645542,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "alpine_accentor_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773153947/bird-gallery/alpine_accentor/wikimedia/alpine_accentor_1.jpg",
-      "public_id": "bird-gallery/alpine_accentor/wikimedia/alpine_accentor_1",
-      "width": 250,
-      "height": 175,
-      "format": "jpg",
-      "bytes": 8065,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_14252999254_88b2290cbb_b.jpg",

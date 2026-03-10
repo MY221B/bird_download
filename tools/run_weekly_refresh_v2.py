@@ -405,6 +405,12 @@ def main():
         all_missing_local.update(missing_local)
         all_missing_cloud.update(missing_cloud)
 
+        # 收集缺失鸟类的名字信息（优先用 BIRD_INFO_CACHE，其次用本地点的 slug_info）
+        for slug in (set(missing_local) | set(missing_cloud)):
+            if slug not in all_missing_info:
+                info = BIRD_INFO_CACHE.get(slug) or slug_info.get(slug) or {}
+                all_missing_info[slug] = info
+
         report_code = end_date.strftime("%y%m%d")
         slugs = read_slugs_from_csv(csv_file)
         for slug in slugs:
@@ -441,7 +447,8 @@ def main():
         with open(temp_combined_csv, 'w', encoding='utf-8') as f:
             f.write('# slug,chinese_name,english_name,scientific_name,wikipedia_page\n')
             for slug in sorted(all_to_process):
-                bird_info = all_birds_map.get(slug, {})
+                # 优先用 Phase 1 收集的信息（包含新鸟的 API 数据），再 fallback 到 all_birds_map
+                bird_info = all_missing_info.get(slug) or all_birds_map.get(slug) or {}
                 chinese = bird_info.get('chinese_name', '')
                 english = bird_info.get('english_name', '')
                 scientific = bird_info.get('scientific_name', '')

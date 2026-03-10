@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "siberian_rubythroat",
+    "chinese_name": "红喉歌鸲",
+    "english_name": "Siberian Rubythroat",
+    "scientific_name": "Calliope calliope"
+  },
+  "macaulay": [
+    {
+      "original_file": "siberian_rubythroat_175687181.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151495/bird-gallery/siberian_rubythroat/macaulay/siberian_rubythroat_175687181.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/macaulay/siberian_rubythroat_175687181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117856,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/175687181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "175687181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_rubythroat_302046641.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151500/bird-gallery/siberian_rubythroat/macaulay/siberian_rubythroat_302046641.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/macaulay/siberian_rubythroat_302046641",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76017,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/302046641",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "302046641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_rubythroat_310728491.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151506/bird-gallery/siberian_rubythroat/macaulay/siberian_rubythroat_310728491.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/macaulay/siberian_rubythroat_310728491",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87031,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/310728491",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "310728491",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "siberian_rubythroat_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151511/bird-gallery/siberian_rubythroat/inaturalist/siberian_rubythroat_1.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/inaturalist/siberian_rubythroat_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 196176,
+      "attribution": {
+        "photographer": "castillovardarolab",
+        "photographer_url": "https://www.inaturalist.org/observations/150869136",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© castillovardarolab (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 150869136,
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_rubythroat_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151513/bird-gallery/siberian_rubythroat/inaturalist/siberian_rubythroat_2.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/inaturalist/siberian_rubythroat_2",
+      "width": 1024,
+      "height": 708,
+      "format": "jpg",
+      "bytes": 57792,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/55105773",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 55105773,
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_rubythroat_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151515/bird-gallery/siberian_rubythroat/inaturalist/siberian_rubythroat_3.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/inaturalist/siberian_rubythroat_3",
+      "width": 1024,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 61554,
+      "attribution": {
+        "photographer": "hankjorgensen",
+        "photographer_url": "https://www.inaturalist.org/observations/66261830",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hankjorgensen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66261830,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "siberian_rubythroat_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151516/bird-gallery/siberian_rubythroat/wikimedia/siberian_rubythroat_1.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/wikimedia/siberian_rubythroat_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 127465,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_24598487764_07ec72a353_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151518/bird-gallery/siberian_rubythroat/avibase/avibase_1_24598487764_07ec72a353_b.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/avibase/avibase_1_24598487764_07ec72a353_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89182,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "24598487764",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54527234021_342173a59a_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151520/bird-gallery/siberian_rubythroat/avibase/avibase_2_54527234021_342173a59a_b.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/avibase/avibase_2_54527234021_342173a59a_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 109503,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54527234021",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_49580457848_4c083df215_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773151522/bird-gallery/siberian_rubythroat/avibase/avibase_3_49580457848_4c083df215_b.jpg",
+      "public_id": "bird-gallery/siberian_rubythroat/avibase/avibase_3_49580457848_4c083df215_b",
+      "width": 1023,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 67697,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49580457848",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "siberian_rubythroat_123737171.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1773152433/bird-gallery/siberian_rubythroat/sounds/siberian_rubythroat_123737171.mp3",
+      "public_id": "bird-gallery/siberian_rubythroat/sounds/siberian_rubythroat_123737171",
+      "duration": 34.176,
+      "format": "mp3",
+      "bytes": 499964,
+      "bit_rate": 117032,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "123737171",
+        "asset_url": "https://macaulaylibrary.org/asset/123737171",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

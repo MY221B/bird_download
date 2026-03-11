@@ -1,22 +1,6 @@
 {
   "locations": [
     {
-      "id": "beijing_aosen_north",
-      "name": "奥森公园",
-      "province": "北京市",
-      "city": "",
-      "district": "",
-      "mode": 0,
-      "outside_type": 0,
-      "default_days": 7,
-      "point_aliases": [
-        "奥森北园",
-        "奥森",
-        "奥森南园",
-        "奥林匹克森林公园北园"
-      ]
-    },
-    {
       "id": "beijing_yuanmingyuan",
       "name": "圆明园",
       "province": "北京市",
@@ -134,22 +118,8 @@
       ]
     },
     {
-      "id": "beijing_shahe_shuiku",
-      "name": "沙河水库",
-      "province": "北京市",
-      "city": "",
-      "district": "",
-      "mode": 0,
-      "outside_type": 0,
-      "default_days": 7,
-      "point_aliases": [
-        "沙河水库",
-        "北京沙河水库"
-      ]
-    },
-    {
       "id": "beijing_shahe_shuiku_changping_binhe_senlin_gongyuan",
-      "name": "沙河水库/昌平滨河森林公园",
+      "name": "沙河水库／昌平滨河森林公园",
       "province": "北京市",
       "city": "",
       "district": "",
@@ -157,7 +127,8 @@
       "outside_type": 0,
       "default_days": 7,
       "point_aliases": [
-        "沙河水库/昌平滨河森林公园",
+        "沙河水库／昌平滨河森林公园",
+        "沙河水库／昌平滨河森林公园",
         "沙河水库",
         "昌平滨河森林公园"
       ],
@@ -173,7 +144,12 @@
       "outside_type": 0,
       "default_days": 7,
       "point_aliases": [
-        "奥林匹克森林公园"
+        "奥林匹克森林公园",
+        "奥森公园",
+        "奥森北园",
+        "奥森",
+        "奥森南园",
+        "奥林匹克森林公园北园"
       ],
       "note": "beijing_rank_02"
     },
@@ -193,7 +169,7 @@
     },
     {
       "id": "beijing_lehuo_zhongdi_daning_shuiku",
-      "name": "乐活中堤/大宁水库",
+      "name": "乐活中堤／大宁水库",
       "province": "北京市",
       "city": "",
       "district": "",
@@ -201,7 +177,7 @@
       "outside_type": 0,
       "default_days": 7,
       "point_aliases": [
-        "乐活中堤/大宁水库",
+        "乐活中堤／大宁水库",
         "乐活中堤",
         "大宁水库"
       ],
@@ -588,7 +564,7 @@
     },
     {
       "id": "xian_guifengsi_gaoguanyu",
-      "name": "圭峰寺/高冠峪",
+      "name": "圭峰寺／高冠峪",
       "province": "陕西省",
       "city": "西安市",
       "district": "",
@@ -596,7 +572,7 @@
       "outside_type": 0,
       "default_days": 7,
       "point_aliases": [
-        "圭峰寺/高冠峪",
+        "圭峰寺／高冠峪",
         "圭峰寺",
         "高冠峪"
       ],
@@ -632,7 +608,7 @@
     },
     {
       "id": "xian_bingmayong_diling",
-      "name": "秦始皇兵马俑/帝陵",
+      "name": "秦始皇兵马俑／帝陵",
       "province": "陕西省",
       "city": "西安市",
       "district": "",
@@ -640,7 +616,7 @@
       "outside_type": 0,
       "default_days": 7,
       "point_aliases": [
-        "秦始皇兵马俑/帝陵",
+        "秦始皇兵马俑／帝陵",
         "秦始皇兵马俑",
         "帝陵"
       ],
@@ -732,7 +708,7 @@
     },
     {
       "id": "xian_bahe_bawei_shidi",
-      "name": "灞河/灞渭湿地",
+      "name": "灞河／灞渭湿地",
       "province": "陕西省",
       "city": "西安市",
       "district": "",
@@ -740,7 +716,7 @@
       "outside_type": 0,
       "default_days": 7,
       "point_aliases": [
-        "灞河/灞渭湿地",
+        "灞河／灞渭湿地",
         "灞河",
         "灞渭湿地"
       ],

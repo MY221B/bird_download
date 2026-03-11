@@ -1,0 +1,94 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "grey_capped_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753604/bird-gallery/grey_capped_woodpecker/inaturalist/grey_capped_woodpecker_1.jpg",
+      "public_id": "bird-gallery/grey_capped_woodpecker/inaturalist/grey_capped_woodpecker_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 109051,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "grey_capped_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753619/bird-gallery/grey_capped_woodpecker/inaturalist/grey_capped_woodpecker_3.jpg",
+      "public_id": "bird-gallery/grey_capped_woodpecker/inaturalist/grey_capped_woodpecker_3",
+      "width": 1024,
+      "height": 933,
+      "format": "jpg",
+      "bytes": 192106,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "grey_capped_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753623/bird-gallery/grey_capped_woodpecker/wikimedia/grey_capped_woodpecker_1.jpg",
+      "public_id": "bird-gallery/grey_capped_woodpecker/wikimedia/grey_capped_woodpecker_1",
+      "width": 1200,
+      "height": 958,
+      "format": "jpg",
+      "bytes": 254888,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "bird_info": {
+    "slug": "grey_capped_woodpecker",
+    "chinese_name": "星头啄木鸟",
+    "english_name": "Grey-capped Woodpecker",
+    "scientific_name": "Picoides canicapillus"
+  },
+  "sounds": [
+    {
+      "original_file": "grey_capped_woodpecker_90548481.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763051/bird-gallery/grey_capped_woodpecker/sounds/grey_capped_woodpecker_90548481.mp3",
+      "public_id": "bird-gallery/grey_capped_woodpecker/sounds/grey_capped_woodpecker_90548481",
+      "duration": 48.168,
+      "format": "mp3",
+      "bytes": 682604,
+      "bit_rate": 113370,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "90548481",
+        "asset_url": "https://macaulaylibrary.org/asset/90548481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

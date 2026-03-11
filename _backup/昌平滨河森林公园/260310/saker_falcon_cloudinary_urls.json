@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "saker_falcon",
+    "chinese_name": "猎隼",
+    "english_name": "Saker Falcon",
+    "scientific_name": "Falco cherrug"
+  },
+  "macaulay": [
+    {
+      "original_file": "saker_falcon_430760321.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243608/bird-gallery/saker_falcon/macaulay/saker_falcon_430760321.jpg",
+      "public_id": "bird-gallery/saker_falcon/macaulay/saker_falcon_430760321",
+      "width": 1200,
+      "height": 879,
+      "format": "jpg",
+      "bytes": 69853,
+      "attribution": {
+        "photographer": "Pavel Štěpánek",
+        "photographer_url": "https://macaulaylibrary.org/asset/430760321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pavel Štěpánek; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "430760321",
+        "note": null
+      }
+    },
+    {
+      "original_file": "saker_falcon_627255536.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243615/bird-gallery/saker_falcon/macaulay/saker_falcon_627255536.jpg",
+      "public_id": "bird-gallery/saker_falcon/macaulay/saker_falcon_627255536",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 256357,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/627255536",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "627255536",
+        "note": null
+      }
+    },
+    {
+      "original_file": "saker_falcon_629462276.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243622/bird-gallery/saker_falcon/macaulay/saker_falcon_629462276.jpg",
+      "public_id": "bird-gallery/saker_falcon/macaulay/saker_falcon_629462276",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 110858,
+      "attribution": {
+        "photographer": "Piki Ish-Shalom",
+        "photographer_url": "https://macaulaylibrary.org/asset/629462276",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Piki Ish-Shalom; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "629462276",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "saker_falcon_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243631/bird-gallery/saker_falcon/inaturalist/saker_falcon_1.jpg",
+      "public_id": "bird-gallery/saker_falcon/inaturalist/saker_falcon_1",
+      "width": 831,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 54357,
+      "attribution": {
+        "photographer": "pnicolau",
+        "photographer_url": "https://www.inaturalist.org/observations/291069807",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pnicolau (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 291069807,
+        "note": null
+      }
+    },
+    {
+      "original_file": "saker_falcon_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243637/bird-gallery/saker_falcon/inaturalist/saker_falcon_2.jpg",
+      "public_id": "bird-gallery/saker_falcon/inaturalist/saker_falcon_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59491,
+      "attribution": {
+        "photographer": "rhinos59",
+        "photographer_url": "https://www.inaturalist.org/observations/43886510",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rhinos59 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 43886510,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_2_51197103621_690ebfbe51_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243643/bird-gallery/saker_falcon/avibase/avibase_2_51197103621_690ebfbe51_b.jpg",
+      "public_id": "bird-gallery/saker_falcon/avibase/avibase_2_51197103621_690ebfbe51_b",
+      "width": 751,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 32018,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51197103621",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_51403736396_57db6bb141_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764243645/bird-gallery/saker_falcon/avibase/avibase_3_51403736396_57db6bb141_b.jpg",
+      "public_id": "bird-gallery/saker_falcon/avibase/avibase_3_51403736396_57db6bb141_b",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 55040,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51403736396",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "saker_falcon_380295641.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321637/bird-gallery/saker_falcon/sounds/saker_falcon_380295641.mp3",
+      "public_id": "bird-gallery/saker_falcon/sounds/saker_falcon_380295641",
+      "duration": 168.0,
+      "format": "mp3",
+      "bytes": 2269580,
+      "bit_rate": 108075,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "380295641",
+        "asset_url": "https://macaulaylibrary.org/asset/380295641",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

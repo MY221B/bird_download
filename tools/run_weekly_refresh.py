@@ -837,7 +837,7 @@ def main():
     print("\n🧾 手动步骤提醒：")
     print("1. 打开 images/ 或 Cloudinary 后台检查本次新下载的鸟类，删除不合适的照片。")
     print("2. 检查 Cloudinary 中新上传的鸟叫声，确认音频质量。")
-    print("3. 运行 `python3 tools/delete_cloudinary_by_list.py` 等清理脚本（如需要）。")
+    print("3. 将不合适的图片 public_id 写入 config/需要删除图片名单，运行 `bash tools/delete_images_from_config.sh -y`（如需要）。")
     print("4. 登录 Lovable，触发站点重新部署/推送更新。")
     print("5. 通过 `feather-flash-quiz/location_birds/<地点>/<日期>` 查看复制结果。")
     print("\n💡 鸟叫声下载失败的原因通常是：")

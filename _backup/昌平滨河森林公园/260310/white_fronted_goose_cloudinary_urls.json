@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "white_fronted_goose",
+    "chinese_name": "白额雁",
+    "english_name": "White-fronted Goose",
+    "scientific_name": "Anser albifrons"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_fronted_goose_227962621.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765944782/bird-gallery/white_fronted_goose/macaulay/white_fronted_goose_227962621.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/macaulay/white_fronted_goose_227962621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78218,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/227962621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "227962621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_goose_298857961.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765944788/bird-gallery/white_fronted_goose/macaulay/white_fronted_goose_298857961.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/macaulay/white_fronted_goose_298857961",
+      "width": 1200,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 51133,
+      "attribution": {
+        "photographer": "Gautam Apte",
+        "photographer_url": "https://macaulaylibrary.org/asset/298857961",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Gautam Apte; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "298857961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_goose_91115221.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765944793/bird-gallery/white_fronted_goose/macaulay/white_fronted_goose_91115221.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/macaulay/white_fronted_goose_91115221",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69622,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/91115221",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "91115221",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_fronted_goose_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765944801/bird-gallery/white_fronted_goose/inaturalist/white_fronted_goose_2.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/inaturalist/white_fronted_goose_2",
+      "width": 1024,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 100098,
+      "attribution": {
+        "photographer": "blevine",
+        "photographer_url": "https://www.inaturalist.org/observations/97884436",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© blevine (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 97884436,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_goose_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765944803/bird-gallery/white_fronted_goose/inaturalist/white_fronted_goose_3.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/inaturalist/white_fronted_goose_3",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 145442,
+      "attribution": {
+        "photographer": "vladimir_bryukhov",
+        "photographer_url": "https://www.inaturalist.org/observations/143782192",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vladimir_bryukhov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143782192,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_2_51063001776_f0b0007ccb_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765944806/bird-gallery/white_fronted_goose/avibase/avibase_2_51063001776_f0b0007ccb_b.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/avibase/avibase_2_51063001776_f0b0007ccb_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 173873,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51063001776",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_51642078279_6faf926670_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1765944807/bird-gallery/white_fronted_goose/avibase/avibase_3_51642078279_6faf926670_b.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/avibase/avibase_3_51642078279_6faf926670_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 146899,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51642078279",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "white_fronted_goose_31730051.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1765944817/bird-gallery/white_fronted_goose/sounds/white_fronted_goose_31730051.mp3",
+      "public_id": "bird-gallery/white_fronted_goose/sounds/white_fronted_goose_31730051",
+      "duration": 100.8,
+      "format": "mp3",
+      "bytes": 1435436,
+      "bit_rate": 113923,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "31730051",
+        "asset_url": "https://macaulaylibrary.org/asset/31730051",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

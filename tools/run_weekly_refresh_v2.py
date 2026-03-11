@@ -798,8 +798,8 @@ def main():
             print(f"  - {_loc}")
 
     print("\n🧾 手动步骤提醒：")
-    print("1. 检查 images/<slug>/ 中新下载的照片，将不合适的图片路径写入 config/delete_list.txt，")
-    print("   然后运行: python3 tools/delete_cloudinary_by_list.py")
+    print("1. 检查 images/<slug>/ 中新下载的照片，将不合适的图片 public_id 写入 config/需要删除图片名单，")
+    print("   然后运行: bash tools/delete_images_from_config.sh -y")
     print("2. 检查 Cloudinary 中新上传的鸟叫声，确认音频质量（如需删除，同上）。")
 
     all_priority_slugs = set()

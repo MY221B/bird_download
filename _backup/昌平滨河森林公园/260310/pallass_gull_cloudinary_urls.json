@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "pallass_gull",
+    "chinese_name": "渔鸥",
+    "english_name": "Pallas's Gull",
+    "scientific_name": "Ichthyaetus ichthyaetus"
+  },
+  "macaulay": [
+    {
+      "original_file": "pallass_gull_205090381.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770952277/bird-gallery/pallass_gull/macaulay/pallass_gull_205090381.jpg",
+      "public_id": "bird-gallery/pallass_gull/macaulay/pallass_gull_205090381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65663,
+      "attribution": {
+        "photographer": "Daniel Pettersson",
+        "photographer_url": "https://macaulaylibrary.org/asset/205090381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Daniel Pettersson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205090381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pallass_gull_205090391.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770952282/bird-gallery/pallass_gull/macaulay/pallass_gull_205090391.jpg",
+      "public_id": "bird-gallery/pallass_gull/macaulay/pallass_gull_205090391",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 47674,
+      "attribution": {
+        "photographer": "Daniel Pettersson",
+        "photographer_url": "https://macaulaylibrary.org/asset/205090391",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Daniel Pettersson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205090391",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pallass_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770952295/bird-gallery/pallass_gull/inaturalist/pallass_gull_1.jpg",
+      "public_id": "bird-gallery/pallass_gull/inaturalist/pallass_gull_1",
+      "width": 473,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 55982,
+      "attribution": {
+        "photographer": "richfisc",
+        "photographer_url": "https://www.inaturalist.org/observations/124161384",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richfisc (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 124161384,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pallass_gull_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770952297/bird-gallery/pallass_gull/inaturalist/pallass_gull_2.jpg",
+      "public_id": "bird-gallery/pallass_gull/inaturalist/pallass_gull_2",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 124992,
+      "attribution": {
+        "photographer": "birdernerder",
+        "photographer_url": "https://www.inaturalist.org/observations/213975414",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© birdernerder (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 213975414,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49687861677_0e3373d4f2_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770952301/bird-gallery/pallass_gull/avibase/avibase_1_49687861677_0e3373d4f2_b.jpg",
+      "public_id": "bird-gallery/pallass_gull/avibase/avibase_1_49687861677_0e3373d4f2_b",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 48654,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49687861677",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49249696903_fcd37358bb_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770952302/bird-gallery/pallass_gull/avibase/avibase_2_49249696903_fcd37358bb_b.jpg",
+      "public_id": "bird-gallery/pallass_gull/avibase/avibase_2_49249696903_fcd37358bb_b",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 37881,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49249696903",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_49687861342_c7f42e48cb_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1770952304/bird-gallery/pallass_gull/avibase/avibase_3_49687861342_c7f42e48cb_b.jpg",
+      "public_id": "bird-gallery/pallass_gull/avibase/avibase_3_49687861342_c7f42e48cb_b",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 16648,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49687861342",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "pallass_gull_215664111.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1770952311/bird-gallery/pallass_gull/sounds/pallass_gull_215664111.mp3",
+      "public_id": "bird-gallery/pallass_gull/sounds/pallass_gull_215664111",
+      "duration": 18.456,
+      "format": "mp3",
+      "bytes": 249548,
+      "bit_rate": 108169,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "215664111",
+        "asset_url": "https://macaulaylibrary.org/asset/215664111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

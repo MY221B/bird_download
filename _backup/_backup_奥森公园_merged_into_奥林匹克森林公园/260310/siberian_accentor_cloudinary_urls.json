@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "siberian_accentor",
+    "chinese_name": "棕眉山岩鹨",
+    "english_name": "Siberian Accentor",
+    "scientific_name": "Prunella montanella"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "siberian_accentor_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299278/bird-gallery/siberian_accentor/inaturalist/siberian_accentor_1.jpg",
+      "public_id": "bird-gallery/siberian_accentor/inaturalist/siberian_accentor_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 37389,
+      "attribution": {
+        "photographer": "basova_larisa",
+        "photographer_url": "https://www.inaturalist.org/observations/192331703",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© basova_larisa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192331703,
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_accentor_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299279/bird-gallery/siberian_accentor/inaturalist/siberian_accentor_2.jpg",
+      "public_id": "bird-gallery/siberian_accentor/inaturalist/siberian_accentor_2",
+      "width": 1024,
+      "height": 689,
+      "format": "jpg",
+      "bytes": 88229,
+      "attribution": {
+        "photographer": "guyincognito",
+        "photographer_url": "https://www.inaturalist.org/observations/40619083",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© guyincognito (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 40619083,
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_accentor_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299281/bird-gallery/siberian_accentor/inaturalist/siberian_accentor_3.jpg",
+      "public_id": "bird-gallery/siberian_accentor/inaturalist/siberian_accentor_3",
+      "width": 1024,
+      "height": 821,
+      "format": "jpg",
+      "bytes": 35915,
+      "attribution": {
+        "photographer": "stotherah",
+        "photographer_url": "https://www.inaturalist.org/observations/85974539",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stotherah (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 85974539,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54831993563_cd2ec20c01_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299282/bird-gallery/siberian_accentor/avibase/avibase_1_54831993563_cd2ec20c01_b.jpg",
+      "public_id": "bird-gallery/siberian_accentor/avibase/avibase_1_54831993563_cd2ec20c01_b",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 103347,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54831993563",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_30346078776_2ecab0e440_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299284/bird-gallery/siberian_accentor/avibase/avibase_2_30346078776_2ecab0e440_b.jpg",
+      "public_id": "bird-gallery/siberian_accentor/avibase/avibase_2_30346078776_2ecab0e440_b",
+      "width": 1024,
+      "height": 558,
+      "format": "jpg",
+      "bytes": 143980,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "30346078776",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_29732592353_860331d913_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299286/bird-gallery/siberian_accentor/avibase/avibase_3_29732592353_860331d913_b.jpg",
+      "public_id": "bird-gallery/siberian_accentor/avibase/avibase_3_29732592353_860331d913_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 137539,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "29732592353",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "siberian_accentor_203927471.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764850200/bird-gallery/siberian_accentor/sounds/siberian_accentor_203927471.mp3",
+      "public_id": "bird-gallery/siberian_accentor/sounds/siberian_accentor_203927471",
+      "duration": 25.416,
+      "format": "mp3",
+      "bytes": 545900,
+      "bit_rate": 171828,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203927471",
+        "asset_url": "https://macaulaylibrary.org/asset/203927471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

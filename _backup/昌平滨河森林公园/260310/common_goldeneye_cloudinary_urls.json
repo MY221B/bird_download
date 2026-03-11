@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "common_goldeneye",
+    "chinese_name": "鹊鸭",
+    "english_name": "Common Goldeneye",
+    "scientific_name": "Bucephala clangula"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_goldeneye_139849441.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386301/bird-gallery/common_goldeneye/macaulay/common_goldeneye_139849441.jpg",
+      "public_id": "bird-gallery/common_goldeneye/macaulay/common_goldeneye_139849441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75259,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/139849441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "139849441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_goldeneye_301917401.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386306/bird-gallery/common_goldeneye/macaulay/common_goldeneye_301917401.jpg",
+      "public_id": "bird-gallery/common_goldeneye/macaulay/common_goldeneye_301917401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74203,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/301917401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "301917401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_goldeneye_436626521.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386311/bird-gallery/common_goldeneye/macaulay/common_goldeneye_436626521.jpg",
+      "public_id": "bird-gallery/common_goldeneye/macaulay/common_goldeneye_436626521",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 63378,
+      "attribution": {
+        "photographer": "Simon Villeneuve",
+        "photographer_url": "https://macaulaylibrary.org/asset/436626521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Simon Villeneuve; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "436626521",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_goldeneye_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386316/bird-gallery/common_goldeneye/inaturalist/common_goldeneye_1.jpg",
+      "public_id": "bird-gallery/common_goldeneye/inaturalist/common_goldeneye_1",
+      "width": 1024,
+      "height": 816,
+      "format": "jpg",
+      "bytes": 38963,
+      "attribution": {
+        "photographer": "wildgrace",
+        "photographer_url": "https://www.inaturalist.org/observations/89715702",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wildgrace (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 89715702,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_goldeneye_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386318/bird-gallery/common_goldeneye/inaturalist/common_goldeneye_2.jpg",
+      "public_id": "bird-gallery/common_goldeneye/inaturalist/common_goldeneye_2",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 72751,
+      "attribution": {
+        "photographer": "konstantinsamodurov",
+        "photographer_url": "https://www.inaturalist.org/observations/18695068",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© konstantinsamodurov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18695068,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_goldeneye_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386320/bird-gallery/common_goldeneye/inaturalist/common_goldeneye_3.jpg",
+      "public_id": "bird-gallery/common_goldeneye/inaturalist/common_goldeneye_3",
+      "width": 1024,
+      "height": 479,
+      "format": "jpg",
+      "bytes": 50039,
+      "attribution": {
+        "photographer": "cgbc",
+        "photographer_url": "https://www.inaturalist.org/observations/25695810",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cgbc (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 25695810,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "common_goldeneye_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386321/bird-gallery/common_goldeneye/wikimedia/common_goldeneye_1.jpg",
+      "public_id": "bird-gallery/common_goldeneye/wikimedia/common_goldeneye_1",
+      "width": 250,
+      "height": 171,
+      "format": "jpg",
+      "bytes": 7714,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53357129301_761386a464_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386322/bird-gallery/common_goldeneye/avibase/avibase_1_53357129301_761386a464_b.jpg",
+      "public_id": "bird-gallery/common_goldeneye/avibase/avibase_1_53357129301_761386a464_b",
+      "width": 1024,
+      "height": 742,
+      "format": "jpg",
+      "bytes": 26931,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53357129301",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52589153551_b95e9a9078_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386323/bird-gallery/common_goldeneye/avibase/avibase_2_52589153551_b95e9a9078_b.jpg",
+      "public_id": "bird-gallery/common_goldeneye/avibase/avibase_2_52589153551_b95e9a9078_b",
+      "width": 1024,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 60312,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52589153551",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_51107128675_4941e8e789_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763386324/bird-gallery/common_goldeneye/avibase/avibase_3_51107128675_4941e8e789_b.jpg",
+      "public_id": "bird-gallery/common_goldeneye/avibase/avibase_3_51107128675_4941e8e789_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72917,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51107128675",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "common_goldeneye_304684.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321384/bird-gallery/common_goldeneye/sounds/common_goldeneye_304684.mp3",
+      "public_id": "bird-gallery/common_goldeneye/sounds/common_goldeneye_304684",
+      "duration": 55.464,
+      "format": "mp3",
+      "bytes": 1299956,
+      "bit_rate": 187502,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "304684",
+        "asset_url": "https://macaulaylibrary.org/asset/304684",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

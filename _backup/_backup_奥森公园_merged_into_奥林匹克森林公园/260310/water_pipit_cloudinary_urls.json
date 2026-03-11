@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "water_pipit",
+    "chinese_name": "水鹨",
+    "english_name": "Water Pipit",
+    "scientific_name": "Anthus spinoletta"
+  },
+  "macaulay": [
+    {
+      "original_file": "water_pipit_450439741.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318985/bird-gallery/water_pipit/macaulay/water_pipit_450439741.jpg",
+      "public_id": "bird-gallery/water_pipit/macaulay/water_pipit_450439741",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 98375,
+      "attribution": {
+        "photographer": "Lukasz Ifczok",
+        "photographer_url": "https://macaulaylibrary.org/asset/450439741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lukasz Ifczok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "450439741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "water_pipit_630674481.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318987/bird-gallery/water_pipit/macaulay/water_pipit_630674481.jpg",
+      "public_id": "bird-gallery/water_pipit/macaulay/water_pipit_630674481",
+      "width": 1200,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 68563,
+      "attribution": {
+        "photographer": "Jack Pettit",
+        "photographer_url": "https://macaulaylibrary.org/asset/630674481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jack Pettit; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "630674481",
+        "note": null
+      }
+    },
+    {
+      "original_file": "water_pipit_79028331.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318989/bird-gallery/water_pipit/macaulay/water_pipit_79028331.jpg",
+      "public_id": "bird-gallery/water_pipit/macaulay/water_pipit_79028331",
+      "width": 1200,
+      "height": 691,
+      "format": "jpg",
+      "bytes": 58003,
+      "attribution": {
+        "photographer": "Rogério Rodrigues",
+        "photographer_url": "https://macaulaylibrary.org/asset/79028331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rogério Rodrigues; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "79028331",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "water_pipit_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313506/bird-gallery/water_pipit/inaturalist/water_pipit_1.jpg",
+      "public_id": "bird-gallery/water_pipit/inaturalist/water_pipit_1",
+      "width": 722,
+      "height": 578,
+      "format": "jpg",
+      "bytes": 78036,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "water_pipit_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313508/bird-gallery/water_pipit/inaturalist/water_pipit_2.jpg",
+      "public_id": "bird-gallery/water_pipit/inaturalist/water_pipit_2",
+      "width": 900,
+      "height": 509,
+      "format": "jpg",
+      "bytes": 39729,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "water_pipit_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313509/bird-gallery/water_pipit/inaturalist/water_pipit_3.jpg",
+      "public_id": "bird-gallery/water_pipit/inaturalist/water_pipit_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59686,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "water_pipit_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313510/bird-gallery/water_pipit/wikimedia/water_pipit_1.jpg",
+      "public_id": "bird-gallery/water_pipit/wikimedia/water_pipit_1",
+      "width": 1200,
+      "height": 882,
+      "format": "jpg",
+      "bytes": 155734,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "water_pipit_502082531.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321175/bird-gallery/water_pipit/sounds/water_pipit_502082531.mp3",
+      "public_id": "bird-gallery/water_pipit/sounds/water_pipit_502082531",
+      "duration": 7.584,
+      "format": "mp3",
+      "bytes": 102044,
+      "bit_rate": 107641,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "502082531",
+        "asset_url": "https://macaulaylibrary.org/asset/502082531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

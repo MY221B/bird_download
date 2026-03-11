@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "eurasian_wren",
+    "chinese_name": "鹪鹩",
+    "english_name": "Eurasian Wren",
+    "scientific_name": "Troglodytes troglodytes"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_wren_278619281.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318935/bird-gallery/eurasian_wren/macaulay/eurasian_wren_278619281.jpg",
+      "public_id": "bird-gallery/eurasian_wren/macaulay/eurasian_wren_278619281",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 60051,
+      "attribution": {
+        "photographer": "Kuzey Cem Kulaçoğlu",
+        "photographer_url": "https://macaulaylibrary.org/asset/278619281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kuzey Cem Kulaçoğlu; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "278619281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_wren_396581701.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318937/bird-gallery/eurasian_wren/macaulay/eurasian_wren_396581701.jpg",
+      "public_id": "bird-gallery/eurasian_wren/macaulay/eurasian_wren_396581701",
+      "width": 1200,
+      "height": 764,
+      "format": "jpg",
+      "bytes": 52727,
+      "attribution": {
+        "photographer": "Alexis Lours",
+        "photographer_url": "https://macaulaylibrary.org/asset/396581701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Alexis Lours; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "396581701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_wren_641449298.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762318938/bird-gallery/eurasian_wren/macaulay/eurasian_wren_641449298.jpg",
+      "public_id": "bird-gallery/eurasian_wren/macaulay/eurasian_wren_641449298",
+      "width": 1200,
+      "height": 693,
+      "format": "jpg",
+      "bytes": 69976,
+      "attribution": {
+        "photographer": "Sunil Kini",
+        "photographer_url": "https://macaulaylibrary.org/asset/641449298",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sunil Kini; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "641449298",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_wren_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313021/bird-gallery/eurasian_wren/inaturalist/eurasian_wren_2.jpg",
+      "public_id": "bird-gallery/eurasian_wren/inaturalist/eurasian_wren_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 47843,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_wren_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762313024/bird-gallery/eurasian_wren/wikimedia/eurasian_wren_1.jpg",
+      "public_id": "bird-gallery/eurasian_wren/wikimedia/eurasian_wren_1",
+      "width": 1200,
+      "height": 867,
+      "format": "jpg",
+      "bytes": 91970,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "eurasian_wren_473327281.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321134/bird-gallery/eurasian_wren/sounds/eurasian_wren_473327281.mp3",
+      "public_id": "bird-gallery/eurasian_wren/sounds/eurasian_wren_473327281",
+      "duration": 17.376,
+      "format": "mp3",
+      "bytes": 250940,
+      "bit_rate": 115534,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "473327281",
+        "asset_url": "https://macaulaylibrary.org/asset/473327281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

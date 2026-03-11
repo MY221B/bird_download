@@ -1,0 +1,152 @@
+{
+  "bird_info": {
+    "slug": "white_wagtail",
+    "chinese_name": "白鹡鸰",
+    "english_name": "White Wagtail",
+    "scientific_name": "Motacilla alba"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_wagtail_295003631.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768007240/bird-gallery/white_wagtail/macaulay/white_wagtail_295003631.jpg",
+      "public_id": "bird-gallery/white_wagtail/macaulay/white_wagtail_295003631",
+      "width": 1200,
+      "height": 923,
+      "format": "jpg",
+      "bytes": 287725,
+      "attribution": {
+        "photographer": "Tammy McQuade",
+        "photographer_url": "https://macaulaylibrary.org/asset/295003631",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Tammy McQuade; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "295003631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_wagtail_332193291.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768007242/bird-gallery/white_wagtail/macaulay/white_wagtail_332193291.jpg",
+      "public_id": "bird-gallery/white_wagtail/macaulay/white_wagtail_332193291",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 43872,
+      "attribution": {
+        "photographer": "Ben Lucking",
+        "photographer_url": "https://macaulaylibrary.org/asset/332193291",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ben Lucking; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "332193291",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_wagtail_628756569.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768007246/bird-gallery/white_wagtail/macaulay/white_wagtail_628756569.jpg",
+      "public_id": "bird-gallery/white_wagtail/macaulay/white_wagtail_628756569",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49770,
+      "attribution": {
+        "photographer": "Stephen Hurst",
+        "photographer_url": "https://macaulaylibrary.org/asset/628756569",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Stephen Hurst; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "628756569",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "white_wagtail_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768007253/bird-gallery/white_wagtail/wikimedia/white_wagtail_1.jpg",
+      "public_id": "bird-gallery/white_wagtail/wikimedia/white_wagtail_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 97325,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51182863366_f0d9377fa1_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211826/bird-gallery/white_wagtail/avibase/avibase_1_51182863366_f0d9377fa1_b.jpg",
+      "public_id": "bird-gallery/white_wagtail/avibase/avibase_1_51182863366_f0d9377fa1_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 102601,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51182863366",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52318243036_8e236857eb_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1768211828/bird-gallery/white_wagtail/avibase/avibase_3_52318243036_8e236857eb_b.jpg",
+      "public_id": "bird-gallery/white_wagtail/avibase/avibase_3_52318243036_8e236857eb_b",
+      "width": 1023,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 91443,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52318243036",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "white_wagtail_477895331.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1768007269/bird-gallery/white_wagtail/sounds/white_wagtail_477895331.mp3",
+      "public_id": "bird-gallery/white_wagtail/sounds/white_wagtail_477895331",
+      "duration": 16.92,
+      "format": "mp3",
+      "bytes": 330188,
+      "bit_rate": 156117,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "477895331",
+        "asset_url": "https://macaulaylibrary.org/asset/477895331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

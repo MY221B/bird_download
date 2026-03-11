@@ -1,0 +1,74 @@
+{
+  "bird_info": {
+    "slug": "rustic_bunting",
+    "chinese_name": "田鹀",
+    "english_name": "Rustic Bunting",
+    "scientific_name": "Emberiza rustica"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "rustic_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299292/bird-gallery/rustic_bunting/inaturalist/rustic_bunting_1.jpg",
+      "public_id": "bird-gallery/rustic_bunting/inaturalist/rustic_bunting_1",
+      "width": 1024,
+      "height": 779,
+      "format": "jpg",
+      "bytes": 78544,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "rustic_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299293/bird-gallery/rustic_bunting/inaturalist/rustic_bunting_2.jpg",
+      "public_id": "bird-gallery/rustic_bunting/inaturalist/rustic_bunting_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 28364,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "rustic_bunting_348160741.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1765532965/bird-gallery/rustic_bunting/sounds/rustic_bunting_348160741.mp3",
+      "public_id": "bird-gallery/rustic_bunting/sounds/rustic_bunting_348160741",
+      "duration": 20.208,
+      "format": "mp3",
+      "bytes": 276428,
+      "bit_rate": 109433,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "348160741",
+        "asset_url": "https://macaulaylibrary.org/asset/348160741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

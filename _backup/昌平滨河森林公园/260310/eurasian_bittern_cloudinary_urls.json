@@ -1,0 +1,93 @@
+{
+  "bird_info": {
+    "slug": "eurasian_bittern",
+    "chinese_name": "大麻鳽",
+    "english_name": "Eurasian Bittern",
+    "scientific_name": "Botaurus stellaris"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_bittern_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357752/bird-gallery/eurasian_bittern/inaturalist/eurasian_bittern_1.jpg",
+      "public_id": "bird-gallery/eurasian_bittern/inaturalist/eurasian_bittern_1",
+      "width": 830,
+      "height": 554,
+      "format": "jpg",
+      "bytes": 44006,
+      "attribution": {
+        "photographer": "tatyanazarubo",
+        "photographer_url": "https://www.inaturalist.org/observations/38954877",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tatyanazarubo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 38954877,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_bittern_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357753/bird-gallery/eurasian_bittern/inaturalist/eurasian_bittern_2.jpg",
+      "public_id": "bird-gallery/eurasian_bittern/inaturalist/eurasian_bittern_2",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 70558,
+      "attribution": {
+        "photographer": "tatyanazarubo",
+        "photographer_url": "https://www.inaturalist.org/observations/39286322",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tatyanazarubo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39286322,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_bittern_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1762357755/bird-gallery/eurasian_bittern/inaturalist/eurasian_bittern_3.jpg",
+      "public_id": "bird-gallery/eurasian_bittern/inaturalist/eurasian_bittern_3",
+      "width": 640,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 47799,
+      "attribution": {
+        "photographer": "christoph_moning",
+        "photographer_url": "https://www.inaturalist.org/observations/197893270",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christoph_moning (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 197893270,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "eurasian_bittern_198496211.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321007/bird-gallery/eurasian_bittern/sounds/eurasian_bittern_198496211.mp3",
+      "public_id": "bird-gallery/eurasian_bittern/sounds/eurasian_bittern_198496211",
+      "duration": 418.584,
+      "format": "mp3",
+      "bytes": 2121116,
+      "bit_rate": 40538,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "198496211",
+        "asset_url": "https://macaulaylibrary.org/asset/198496211",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

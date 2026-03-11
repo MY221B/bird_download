@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "red_crested_pochard",
+    "chinese_name": "赤嘴潜鸭",
+    "english_name": "Red-crested Pochard",
+    "scientific_name": "Netta rufina"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_crested_pochard_203074381.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717512/bird-gallery/red_crested_pochard/macaulay/red_crested_pochard_203074381.jpg",
+      "public_id": "bird-gallery/red_crested_pochard/macaulay/red_crested_pochard_203074381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 27602,
+      "attribution": {
+        "photographer": "Marco Valentini",
+        "photographer_url": "https://macaulaylibrary.org/asset/203074381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Marco Valentini; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "203074381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_crested_pochard_23442101.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717520/bird-gallery/red_crested_pochard/macaulay/red_crested_pochard_23442101.jpg",
+      "public_id": "bird-gallery/red_crested_pochard/macaulay/red_crested_pochard_23442101",
+      "width": 1200,
+      "height": 714,
+      "format": "jpg",
+      "bytes": 59855,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/23442101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "23442101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_crested_pochard_315616931.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717526/bird-gallery/red_crested_pochard/macaulay/red_crested_pochard_315616931.jpg",
+      "public_id": "bird-gallery/red_crested_pochard/macaulay/red_crested_pochard_315616931",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 56768,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/315616931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "315616931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "red_crested_pochard_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717544/bird-gallery/red_crested_pochard/wikimedia/red_crested_pochard_1.jpg",
+      "public_id": "bird-gallery/red_crested_pochard/wikimedia/red_crested_pochard_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 121959,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51681113428_3a0deeed6c_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717546/bird-gallery/red_crested_pochard/avibase/avibase_1_51681113428_3a0deeed6c_b.jpg",
+      "public_id": "bird-gallery/red_crested_pochard/avibase/avibase_1_51681113428_3a0deeed6c_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76269,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51681113428",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "red_crested_pochard_588459801.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321561/bird-gallery/red_crested_pochard/sounds/red_crested_pochard_588459801.mp3",
+      "public_id": "bird-gallery/red_crested_pochard/sounds/red_crested_pochard_588459801",
+      "duration": 34.344,
+      "format": "mp3",
+      "bytes": 789716,
+      "bit_rate": 183954,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "588459801",
+        "asset_url": "https://macaulaylibrary.org/asset/588459801",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

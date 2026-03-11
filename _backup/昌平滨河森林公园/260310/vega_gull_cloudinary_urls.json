@@ -1,0 +1,172 @@
+{
+  "bird_info": {
+    "slug": "vega_gull",
+    "chinese_name": "西伯利亚银鸥",
+    "english_name": "Vega Gull",
+    "scientific_name": "Larus vegae"
+  },
+  "macaulay": [
+    {
+      "original_file": "vega_gull_31718881.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764406309/bird-gallery/vega_gull/macaulay/vega_gull_31718881.jpg",
+      "public_id": "bird-gallery/vega_gull/macaulay/vega_gull_31718881",
+      "width": 1200,
+      "height": 840,
+      "format": "jpg",
+      "bytes": 62316,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/31718881",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "31718881",
+        "note": null
+      }
+    },
+    {
+      "original_file": "vega_gull_31718911.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764406317/bird-gallery/vega_gull/macaulay/vega_gull_31718911.jpg",
+      "public_id": "bird-gallery/vega_gull/macaulay/vega_gull_31718911",
+      "width": 1200,
+      "height": 758,
+      "format": "jpg",
+      "bytes": 92232,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/31718911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "31718911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "vega_gull_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764406334/bird-gallery/vega_gull/inaturalist/vega_gull_3.jpg",
+      "public_id": "bird-gallery/vega_gull/inaturalist/vega_gull_3",
+      "width": 1024,
+      "height": 649,
+      "format": "jpg",
+      "bytes": 95462,
+      "attribution": {
+        "photographer": "upupamartin",
+        "photographer_url": "https://www.inaturalist.org/observations/4344244",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© upupamartin (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 4344244,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "vega_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764406335/bird-gallery/vega_gull/wikimedia/vega_gull_1.jpg",
+      "public_id": "bird-gallery/vega_gull/wikimedia/vega_gull_1",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 44799,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50747761526_82b85ca799_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764406337/bird-gallery/vega_gull/avibase/avibase_1_50747761526_82b85ca799_b.jpg",
+      "public_id": "bird-gallery/vega_gull/avibase/avibase_1_50747761526_82b85ca799_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 40193,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50747761526",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_50740623451_f8ae432894_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764406338/bird-gallery/vega_gull/avibase/avibase_2_50740623451_f8ae432894_b.jpg",
+      "public_id": "bird-gallery/vega_gull/avibase/avibase_2_50740623451_f8ae432894_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78365,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50740623451",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_552741495_23cbfc45f8_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1764406340/bird-gallery/vega_gull/avibase/avibase_3_552741495_23cbfc45f8_b.jpg",
+      "public_id": "bird-gallery/vega_gull/avibase/avibase_3_552741495_23cbfc45f8_b",
+      "width": 800,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 37849,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "552741495",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "vega_gull_233109.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764406353/bird-gallery/vega_gull/sounds/vega_gull_233109.mp3",
+      "public_id": "bird-gallery/vega_gull/sounds/vega_gull_233109",
+      "duration": 94.344,
+      "format": "mp3",
+      "bytes": 2106884,
+      "bit_rate": 178655,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "233109",
+        "asset_url": "https://macaulaylibrary.org/asset/233109",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

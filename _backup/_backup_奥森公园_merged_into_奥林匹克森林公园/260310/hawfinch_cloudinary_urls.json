@@ -1,0 +1,191 @@
+{
+  "bird_info": {
+    "slug": "hawfinch",
+    "chinese_name": "锡嘴雀",
+    "english_name": "Hawfinch",
+    "scientific_name": "Coccothraustes coccothraustes"
+  },
+  "macaulay": [
+    {
+      "original_file": "hawfinch_204590481.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761667359/bird-gallery/hawfinch/macaulay/hawfinch_204590481.jpg",
+      "public_id": "bird-gallery/hawfinch/macaulay/hawfinch_204590481",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 121651,
+      "attribution": {
+        "photographer": "Marco Valentini",
+        "photographer_url": "https://macaulaylibrary.org/asset/204590481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hawfinch by Marco Valentini; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204590481",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hawfinch_222917101.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761667361/bird-gallery/hawfinch/macaulay/hawfinch_222917101.jpg",
+      "public_id": "bird-gallery/hawfinch/macaulay/hawfinch_222917101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109509,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/222917101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hawfinch by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "222917101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hawfinch_322783181.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761667363/bird-gallery/hawfinch/macaulay/hawfinch_322783181.jpg",
+      "public_id": "bird-gallery/hawfinch/macaulay/hawfinch_322783181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81083,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hawfinch_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761657964/bird-gallery/hawfinch/inaturalist/hawfinch_1.jpg",
+      "public_id": "bird-gallery/hawfinch/inaturalist/hawfinch_1",
+      "width": 1024,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 58713,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "hawfinch_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761657968/bird-gallery/hawfinch/inaturalist/hawfinch_3.jpg",
+      "public_id": "bird-gallery/hawfinch/inaturalist/hawfinch_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 76220,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "hawfinch_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761657969/bird-gallery/hawfinch/wikimedia/hawfinch_1.jpg",
+      "public_id": "bird-gallery/hawfinch/wikimedia/hawfinch_1",
+      "width": 960,
+      "height": 1345,
+      "format": "jpg",
+      "bytes": 181017,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_51211010998_9fbf2ff208_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761657976/bird-gallery/hawfinch/avibase/avibase_2_51211010998_9fbf2ff208_b.jpg",
+      "public_id": "bird-gallery/hawfinch/avibase/avibase_2_51211010998_9fbf2ff208_b",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 98494,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "avibase_3_52150322143_5435e7d487_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761657977/bird-gallery/hawfinch/avibase/avibase_3_52150322143_5435e7d487_b.jpg",
+      "public_id": "bird-gallery/hawfinch/avibase/avibase_3_52150322143_5435e7d487_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 52859,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "hawfinch_214510531.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321191/bird-gallery/hawfinch/sounds/hawfinch_214510531.mp3",
+      "public_id": "bird-gallery/hawfinch/sounds/hawfinch_214510531",
+      "duration": 26.352,
+      "format": "mp3",
+      "bytes": 367916,
+      "bit_rate": 111692,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "214510531",
+        "asset_url": "https://macaulaylibrary.org/asset/214510531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

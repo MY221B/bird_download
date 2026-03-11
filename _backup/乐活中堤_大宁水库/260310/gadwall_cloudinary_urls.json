@@ -1,0 +1,151 @@
+{
+  "macaulay": [
+    {
+      "original_file": "gadwall_283493481.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753120/bird-gallery/gadwall/macaulay/gadwall_283493481.jpg",
+      "public_id": "bird-gallery/gadwall/macaulay/gadwall_283493481",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69604,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "gadwall_386137411.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753122/bird-gallery/gadwall/macaulay/gadwall_386137411.jpg",
+      "public_id": "bird-gallery/gadwall/macaulay/gadwall_386137411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 151827,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "gadwall_51383651.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753124/bird-gallery/gadwall/macaulay/gadwall_51383651.jpg",
+      "public_id": "bird-gallery/gadwall/macaulay/gadwall_51383651",
+      "width": 1200,
+      "height": 802,
+      "format": "jpg",
+      "bytes": 110581,
+      "attribution": {
+        "photographer": "Evan Lipton",
+        "photographer_url": "https://macaulaylibrary.org/asset/51383651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Evan Lipton; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "51383651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gadwall_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753126/bird-gallery/gadwall/inaturalist/gadwall_1.jpg",
+      "public_id": "bird-gallery/gadwall/inaturalist/gadwall_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61759,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "gadwall_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753134/bird-gallery/gadwall/wikimedia/gadwall_1.jpg",
+      "public_id": "bird-gallery/gadwall/wikimedia/gadwall_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 115676,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49603074908_f8e3cd6e0a_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753135/bird-gallery/gadwall/avibase/avibase_1_49603074908_f8e3cd6e0a_b.jpg",
+      "public_id": "bird-gallery/gadwall/avibase/avibase_1_49603074908_f8e3cd6e0a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73420,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "bird_info": {
+    "slug": "gadwall",
+    "chinese_name": "赤膀鸭"
+  },
+  "sounds": [
+    {
+      "original_file": "gadwall_310887101.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763117/bird-gallery/gadwall/sounds/gadwall_310887101.mp3",
+      "public_id": "bird-gallery/gadwall/sounds/gadwall_310887101",
+      "duration": 8.784,
+      "format": "mp3",
+      "bytes": 122828,
+      "bit_rate": 111865,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "310887101",
+        "asset_url": "https://macaulaylibrary.org/asset/310887101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

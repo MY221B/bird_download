@@ -1,0 +1,111 @@
+{
+  "macaulay": [
+    {
+      "original_file": "hen_harrier_256521341.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753473/bird-gallery/hen_harrier/macaulay/hen_harrier_256521341.jpg",
+      "public_id": "bird-gallery/hen_harrier/macaulay/hen_harrier_256521341",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 39248,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/256521341",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "256521341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hen_harrier_262365511.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753475/bird-gallery/hen_harrier/macaulay/hen_harrier_262365511.jpg",
+      "public_id": "bird-gallery/hen_harrier/macaulay/hen_harrier_262365511",
+      "width": 1200,
+      "height": 772,
+      "format": "jpg",
+      "bytes": 33061,
+      "attribution": {
+        "photographer": "Matti Rekilä",
+        "photographer_url": "https://macaulaylibrary.org/asset/262365511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matti Rekilä; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "262365511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hen_harrier_309361061.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753477/bird-gallery/hen_harrier/macaulay/hen_harrier_309361061.jpg",
+      "public_id": "bird-gallery/hen_harrier/macaulay/hen_harrier_309361061",
+      "width": 1200,
+      "height": 829,
+      "format": "jpg",
+      "bytes": 58155,
+      "attribution": {
+        "photographer": "Pavel Štěpánek",
+        "photographer_url": "https://macaulaylibrary.org/asset/309361061",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pavel Štěpánek; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "309361061",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hen_harrier_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753484/bird-gallery/hen_harrier/inaturalist/hen_harrier_3.jpg",
+      "public_id": "bird-gallery/hen_harrier/inaturalist/hen_harrier_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 52576,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "bird_info": {
+    "slug": "hen_harrier",
+    "chinese_name": "白尾鹞"
+  },
+  "sounds": [
+    {
+      "original_file": "hen_harrier_493144381.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1769763126/bird-gallery/hen_harrier/sounds/hen_harrier_493144381.mp3",
+      "public_id": "bird-gallery/hen_harrier/sounds/hen_harrier_493144381",
+      "duration": 7.656,
+      "format": "mp3",
+      "bytes": 114524,
+      "bit_rate": 119669,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "493144381",
+        "asset_url": "https://macaulaylibrary.org/asset/493144381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

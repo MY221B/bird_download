@@ -1,0 +1,210 @@
+{
+  "bird_info": {
+    "slug": "swan_goose",
+    "chinese_name": "鸿雁",
+    "english_name": "Swan Goose",
+    "scientific_name": "Anser cygnoides"
+  },
+  "macaulay": [
+    {
+      "original_file": "swan_goose_134118971.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753012/bird-gallery/swan_goose/macaulay/swan_goose_134118971.jpg",
+      "public_id": "bird-gallery/swan_goose/macaulay/swan_goose_134118971",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 105440,
+      "attribution": {
+        "photographer": "Thomas Doebel",
+        "photographer_url": "https://macaulaylibrary.org/asset/134118971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Swan Goose by Thomas Doebel; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "134118971",
+        "note": null
+      }
+    },
+    {
+      "original_file": "swan_goose_56526941.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753015/bird-gallery/swan_goose/macaulay/swan_goose_56526941.jpg",
+      "public_id": "bird-gallery/swan_goose/macaulay/swan_goose_56526941",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79677,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/56526941",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Swan Goose by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "56526941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "swan_goose_56526951.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753018/bird-gallery/swan_goose/macaulay/swan_goose_56526951.jpg",
+      "public_id": "bird-gallery/swan_goose/macaulay/swan_goose_56526951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75348,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/56526951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Swan Goose by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "56526951",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "swan_goose_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753030/bird-gallery/swan_goose/inaturalist/swan_goose_2.jpg",
+      "public_id": "bird-gallery/swan_goose/inaturalist/swan_goose_2",
+      "width": 1024,
+      "height": 465,
+      "format": "jpg",
+      "bytes": 58491,
+      "attribution": {
+        "photographer": "lonnyholmes",
+        "photographer_url": "https://www.inaturalist.org/observations/46113183",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lonnyholmes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": "46113183",
+        "note": null
+      }
+    },
+    {
+      "original_file": "swan_goose_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753032/bird-gallery/swan_goose/inaturalist/swan_goose_3.jpg",
+      "public_id": "bird-gallery/swan_goose/inaturalist/swan_goose_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 135127,
+      "attribution": {
+        "photographer": "waldier",
+        "photographer_url": "https://www.inaturalist.org/observations/100228057",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© waldier (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": "100228057",
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "swan_goose_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753035/bird-gallery/swan_goose/wikimedia/swan_goose_1.jpg",
+      "public_id": "bird-gallery/swan_goose/wikimedia/swan_goose_1",
+      "width": 1200,
+      "height": 874,
+      "format": "jpg",
+      "bytes": 174660,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52680387001_ec7b4c6532_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753040/bird-gallery/swan_goose/avibase/avibase_1_52680387001_ec7b4c6532_b.jpg",
+      "public_id": "bird-gallery/swan_goose/avibase/avibase_1_52680387001_ec7b4c6532_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 199157,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://www.flickr.com/photo.gne?id=52680387001",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52680387001",
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "avibase_2_53796810086_a0cde904fd_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753043/bird-gallery/swan_goose/avibase/avibase_2_53796810086_a0cde904fd_b.jpg",
+      "public_id": "bird-gallery/swan_goose/avibase/avibase_2_53796810086_a0cde904fd_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 91800,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://www.flickr.com/photo.gne?id=53796810086",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53796810086",
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "avibase_3_54022144709_9a487edb12_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1761753046/bird-gallery/swan_goose/avibase/avibase_3_54022144709_9a487edb12_b.jpg",
+      "public_id": "bird-gallery/swan_goose/avibase/avibase_3_54022144709_9a487edb12_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 86515,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://www.flickr.com/photo.gne?id=54022144709",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54022144709",
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "swan_goose_203914111.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764320973/bird-gallery/swan_goose/sounds/swan_goose_203914111.mp3",
+      "public_id": "bird-gallery/swan_goose/sounds/swan_goose_203914111",
+      "duration": 7.488,
+      "format": "mp3",
+      "bytes": 174860,
+      "bit_rate": 186816,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203914111",
+        "asset_url": "https://macaulaylibrary.org/asset/203914111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

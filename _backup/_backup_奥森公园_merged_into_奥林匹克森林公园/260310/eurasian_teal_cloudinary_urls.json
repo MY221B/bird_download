@@ -1,0 +1,133 @@
+{
+  "bird_info": {
+    "slug": "eurasian_teal",
+    "chinese_name": "绿翅鸭",
+    "english_name": "Eurasian Teal",
+    "scientific_name": "Anas crecca"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_teal_322559021.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717553/bird-gallery/eurasian_teal/macaulay/eurasian_teal_322559021.jpg",
+      "public_id": "bird-gallery/eurasian_teal/macaulay/eurasian_teal_322559021",
+      "width": 1200,
+      "height": 860,
+      "format": "jpg",
+      "bytes": 69754,
+      "attribution": {
+        "photographer": "Rob Mikulec",
+        "photographer_url": "https://macaulaylibrary.org/asset/322559021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rob Mikulec; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "322559021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_teal_422441021.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717560/bird-gallery/eurasian_teal/macaulay/eurasian_teal_422441021.jpg",
+      "public_id": "bird-gallery/eurasian_teal/macaulay/eurasian_teal_422441021",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 43822,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/422441021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "422441021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_teal_501469651.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717567/bird-gallery/eurasian_teal/macaulay/eurasian_teal_501469651.jpg",
+      "public_id": "bird-gallery/eurasian_teal/macaulay/eurasian_teal_501469651",
+      "width": 1200,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 52124,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/501469651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "501469651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_teal_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717576/bird-gallery/eurasian_teal/inaturalist/eurasian_teal_1.jpg",
+      "public_id": "bird-gallery/eurasian_teal/inaturalist/eurasian_teal_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115367,
+      "attribution": {
+        "photographer": "jartigas",
+        "photographer_url": "https://www.inaturalist.org/observations/69418168",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jartigas (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 69418168,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49014927952_75741d751b_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763717590/bird-gallery/eurasian_teal/avibase/avibase_1_49014927952_75741d751b_b.jpg",
+      "public_id": "bird-gallery/eurasian_teal/avibase/avibase_1_49014927952_75741d751b_b",
+      "width": 1024,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 171942,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49014927952",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "eurasian_teal_397241321.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764320978/bird-gallery/eurasian_teal/sounds/eurasian_teal_397241321.mp3",
+      "public_id": "bird-gallery/eurasian_teal/sounds/eurasian_teal_397241321",
+      "duration": 35.88,
+      "format": "mp3",
+      "bytes": 713420,
+      "bit_rate": 159068,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "397241321",
+        "asset_url": "https://macaulaylibrary.org/asset/397241321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

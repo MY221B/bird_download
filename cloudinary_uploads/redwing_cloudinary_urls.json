@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "redwing",
+    "chinese_name": "白眉歌鸫",
+    "english_name": "Redwing",
+    "scientific_name": "Turdus iliacus"
+  },
+  "macaulay": [
+    {
+      "original_file": "redwing_220059681.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215389/bird-gallery/redwing/macaulay/redwing_220059681.jpg",
+      "public_id": "bird-gallery/redwing/macaulay/redwing_220059681",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86075,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/220059681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "220059681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "redwing_303318111.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215394/bird-gallery/redwing/macaulay/redwing_303318111.jpg",
+      "public_id": "bird-gallery/redwing/macaulay/redwing_303318111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 111442,
+      "attribution": {
+        "photographer": "Sam Zhang",
+        "photographer_url": "https://macaulaylibrary.org/asset/303318111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sam Zhang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "303318111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "redwing_85542241.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215399/bird-gallery/redwing/macaulay/redwing_85542241.jpg",
+      "public_id": "bird-gallery/redwing/macaulay/redwing_85542241",
+      "width": 1200,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 77971,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/85542241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "85542241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "redwing_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215403/bird-gallery/redwing/inaturalist/redwing_1.jpg",
+      "public_id": "bird-gallery/redwing/inaturalist/redwing_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 120696,
+      "attribution": {
+        "photographer": "patrickfelker",
+        "photographer_url": "https://www.inaturalist.org/observations/143973410",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© patrickfelker (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143973410,
+        "note": null
+      }
+    },
+    {
+      "original_file": "redwing_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215404/bird-gallery/redwing/inaturalist/redwing_2.jpg",
+      "public_id": "bird-gallery/redwing/inaturalist/redwing_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73126,
+      "attribution": {
+        "photographer": "samzhang",
+        "photographer_url": "https://www.inaturalist.org/observations/68948260",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© samzhang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 68948260,
+        "note": null
+      }
+    },
+    {
+      "original_file": "redwing_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215406/bird-gallery/redwing/inaturalist/redwing_3.jpg",
+      "public_id": "bird-gallery/redwing/inaturalist/redwing_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 69626,
+      "attribution": {
+        "photographer": "rubidiumrubecula",
+        "photographer_url": "https://www.inaturalist.org/observations/333965985",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rubidiumrubecula (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 333965985,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "redwing_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215407/bird-gallery/redwing/wikimedia/redwing_1.jpg",
+      "public_id": "bird-gallery/redwing/wikimedia/redwing_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 127493,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53062977308_d6aaf0a64a_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215409/bird-gallery/redwing/avibase/avibase_1_53062977308_d6aaf0a64a_b.jpg",
+      "public_id": "bird-gallery/redwing/avibase/avibase_1_53062977308_d6aaf0a64a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 118994,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53062977308",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54565156105_7e106f5cbb_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215410/bird-gallery/redwing/avibase/avibase_2_54565156105_7e106f5cbb_b.jpg",
+      "public_id": "bird-gallery/redwing/avibase/avibase_2_54565156105_7e106f5cbb_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 51461,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54565156105",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_51024871448_8f20d12521_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773215411/bird-gallery/redwing/avibase/avibase_3_51024871448_8f20d12521_b.jpg",
+      "public_id": "bird-gallery/redwing/avibase/avibase_3_51024871448_8f20d12521_b",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 140455,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51024871448",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "redwing_73458141.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1773215429/bird-gallery/redwing/sounds/redwing_73458141.mp3",
+      "public_id": "bird-gallery/redwing/sounds/redwing_73458141",
+      "duration": 10.8,
+      "format": "mp3",
+      "bytes": 250700,
+      "bit_rate": 185703,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "73458141",
+        "asset_url": "https://macaulaylibrary.org/asset/73458141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

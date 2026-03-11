@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "goldcrest",
+    "chinese_name": "戴菊",
+    "english_name": "Goldcrest",
+    "scientific_name": "Regulus regulus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "goldcrest_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299267/bird-gallery/goldcrest/inaturalist/goldcrest_1.jpg",
+      "public_id": "bird-gallery/goldcrest/inaturalist/goldcrest_1",
+      "width": 541,
+      "height": 541,
+      "format": "jpg",
+      "bytes": 38604,
+      "attribution": {
+        "photographer": "natali_sid",
+        "photographer_url": "https://www.inaturalist.org/observations/12748817",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© natali_sid (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 12748817,
+        "note": null
+      }
+    },
+    {
+      "original_file": "goldcrest_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299268/bird-gallery/goldcrest/inaturalist/goldcrest_2.jpg",
+      "public_id": "bird-gallery/goldcrest/inaturalist/goldcrest_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 131137,
+      "attribution": {
+        "photographer": "miro_maric",
+        "photographer_url": "https://www.inaturalist.org/observations/250047141",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© miro_maric (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 250047141,
+        "note": null
+      }
+    },
+    {
+      "original_file": "goldcrest_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299270/bird-gallery/goldcrest/inaturalist/goldcrest_3.jpg",
+      "public_id": "bird-gallery/goldcrest/inaturalist/goldcrest_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 90874,
+      "attribution": {
+        "photographer": "frank103",
+        "photographer_url": "https://www.inaturalist.org/observations/67995777",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© frank103 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 67995777,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48898930623_c1d5e832f7_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299271/bird-gallery/goldcrest/avibase/avibase_1_48898930623_c1d5e832f7_b.jpg",
+      "public_id": "bird-gallery/goldcrest/avibase/avibase_1_48898930623_c1d5e832f7_b",
+      "width": 1023,
+      "height": 756,
+      "format": "jpg",
+      "bytes": 58522,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48898930623",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_48889304902_306ae028aa_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299273/bird-gallery/goldcrest/avibase/avibase_2_48889304902_306ae028aa_b.jpg",
+      "public_id": "bird-gallery/goldcrest/avibase/avibase_2_48889304902_306ae028aa_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 79544,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48889304902",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52401325914_1e302fd0d5_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1763299274/bird-gallery/goldcrest/avibase/avibase_3_52401325914_1e302fd0d5_b.jpg",
+      "public_id": "bird-gallery/goldcrest/avibase/avibase_3_52401325914_1e302fd0d5_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 159235,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52401325914",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "goldcrest_203915871.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1764321163/bird-gallery/goldcrest/sounds/goldcrest_203915871.mp3",
+      "public_id": "bird-gallery/goldcrest/sounds/goldcrest_203915871",
+      "duration": 47.928,
+      "format": "mp3",
+      "bytes": 674636,
+      "bit_rate": 112608,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203915871",
+        "asset_url": "https://macaulaylibrary.org/asset/203915871",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

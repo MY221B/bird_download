@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "merlin",
+    "chinese_name": "灰背隼",
+    "english_name": "Merlin",
+    "scientific_name": "Falco columbarius"
+  },
+  "macaulay": [
+    {
+      "original_file": "merlin_132158211.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904777/bird-gallery/merlin/macaulay/merlin_132158211.jpg",
+      "public_id": "bird-gallery/merlin/macaulay/merlin_132158211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84673,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/132158211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "132158211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "merlin_132158371.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904782/bird-gallery/merlin/macaulay/merlin_132158371.jpg",
+      "public_id": "bird-gallery/merlin/macaulay/merlin_132158371",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 119350,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/132158371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "132158371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "merlin_412318091.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904786/bird-gallery/merlin/macaulay/merlin_412318091.jpg",
+      "public_id": "bird-gallery/merlin/macaulay/merlin_412318091",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 52972,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/412318091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "412318091",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "merlin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904791/bird-gallery/merlin/inaturalist/merlin_1.jpg",
+      "public_id": "bird-gallery/merlin/inaturalist/merlin_1",
+      "width": 976,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 61688,
+      "attribution": {
+        "photographer": "anudibranchmom",
+        "photographer_url": "https://www.inaturalist.org/observations/19525864",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© anudibranchmom (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19525864,
+        "note": null
+      }
+    },
+    {
+      "original_file": "merlin_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904792/bird-gallery/merlin/inaturalist/merlin_2.jpg",
+      "public_id": "bird-gallery/merlin/inaturalist/merlin_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 20975,
+      "attribution": {
+        "photographer": "nanorca13",
+        "photographer_url": "https://www.inaturalist.org/observations/15034503",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nanorca13 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 15034503,
+        "note": null
+      }
+    },
+    {
+      "original_file": "merlin_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904793/bird-gallery/merlin/inaturalist/merlin_3.jpg",
+      "public_id": "bird-gallery/merlin/inaturalist/merlin_3",
+      "width": 516,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 55705,
+      "attribution": {
+        "photographer": "katsavvy",
+        "photographer_url": "https://www.inaturalist.org/observations/56713881",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© katsavvy (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 56713881,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "merlin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904795/bird-gallery/merlin/wikimedia/merlin_1.jpg",
+      "public_id": "bird-gallery/merlin/wikimedia/merlin_1",
+      "width": 250,
+      "height": 295,
+      "format": "jpg",
+      "bytes": 31267,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_30427026261_78030da55e_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904796/bird-gallery/merlin/avibase/avibase_1_30427026261_78030da55e_b.jpg",
+      "public_id": "bird-gallery/merlin/avibase/avibase_1_30427026261_78030da55e_b",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 65162,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "30427026261",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_50781201621_4721ff1a91_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904797/bird-gallery/merlin/avibase/avibase_2_50781201621_4721ff1a91_b.jpg",
+      "public_id": "bird-gallery/merlin/avibase/avibase_2_50781201621_4721ff1a91_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 13852,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50781201621",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_32174674530_6d8166c359_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904798/bird-gallery/merlin/avibase/avibase_3_32174674530_6d8166c359_b.jpg",
+      "public_id": "bird-gallery/merlin/avibase/avibase_3_32174674530_6d8166c359_b",
+      "width": 960,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 90677,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32174674530",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "merlin_187047.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1773904901/bird-gallery/merlin/sounds/merlin_187047.mp3",
+      "public_id": "bird-gallery/merlin/sounds/merlin_187047",
+      "duration": 432.84,
+      "format": "mp3",
+      "bytes": 10118780,
+      "bit_rate": 187021,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "187047",
+        "asset_url": "https://macaulaylibrary.org/asset/187047",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

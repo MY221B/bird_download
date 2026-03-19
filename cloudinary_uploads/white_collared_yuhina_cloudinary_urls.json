@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "white_collared_yuhina",
+    "chinese_name": "白领凤鹛",
+    "english_name": "White-collared Yuhina",
+    "scientific_name": "Parayuhina diademata"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_collared_yuhina_204421091.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904628/bird-gallery/white_collared_yuhina/macaulay/white_collared_yuhina_204421091.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/macaulay/white_collared_yuhina_204421091",
+      "width": 916,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 97330,
+      "attribution": {
+        "photographer": "Hal and Kirsten Snyder",
+        "photographer_url": "https://macaulaylibrary.org/asset/204421091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Hal and Kirsten Snyder; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204421091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_collared_yuhina_344531021.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904633/bird-gallery/white_collared_yuhina/macaulay/white_collared_yuhina_344531021.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/macaulay/white_collared_yuhina_344531021",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81143,
+      "attribution": {
+        "photographer": "Su Li",
+        "photographer_url": "https://macaulaylibrary.org/asset/344531021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Su Li; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "344531021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_collared_yuhina_624283847.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904638/bird-gallery/white_collared_yuhina/macaulay/white_collared_yuhina_624283847.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/macaulay/white_collared_yuhina_624283847",
+      "width": 1200,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 75562,
+      "attribution": {
+        "photographer": "Haoning Gong",
+        "photographer_url": "https://macaulaylibrary.org/asset/624283847",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Haoning Gong; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624283847",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_collared_yuhina_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904643/bird-gallery/white_collared_yuhina/inaturalist/white_collared_yuhina_1.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/inaturalist/white_collared_yuhina_1",
+      "width": 713,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 66940,
+      "attribution": {
+        "photographer": "tong-tong-",
+        "photographer_url": "https://www.inaturalist.org/observations/233902299",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tong-tong- (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 233902299,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_collared_yuhina_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904644/bird-gallery/white_collared_yuhina/inaturalist/white_collared_yuhina_2.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/inaturalist/white_collared_yuhina_2",
+      "width": 1024,
+      "height": 690,
+      "format": "jpg",
+      "bytes": 60106,
+      "attribution": {
+        "photographer": "ys_z",
+        "photographer_url": "https://www.inaturalist.org/observations/300670708",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ys_z (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 300670708,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_collared_yuhina_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904646/bird-gallery/white_collared_yuhina/inaturalist/white_collared_yuhina_3.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/inaturalist/white_collared_yuhina_3",
+      "width": 1024,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 69746,
+      "attribution": {
+        "photographer": "greenjay6",
+        "photographer_url": "https://www.inaturalist.org/observations/197568614",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© greenjay6 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 197568614,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "white_collared_yuhina_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904647/bird-gallery/white_collared_yuhina/wikimedia/white_collared_yuhina_1.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/wikimedia/white_collared_yuhina_1",
+      "width": 250,
+      "height": 167,
+      "format": "jpg",
+      "bytes": 6915,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_29688181806_cb0892efbf_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904648/bird-gallery/white_collared_yuhina/avibase/avibase_1_29688181806_cb0892efbf_b.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/avibase/avibase_1_29688181806_cb0892efbf_b",
+      "width": 1024,
+      "height": 688,
+      "format": "jpg",
+      "bytes": 90833,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "29688181806",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_28647136281_6520700f38_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904650/bird-gallery/white_collared_yuhina/avibase/avibase_2_28647136281_6520700f38_b.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/avibase/avibase_2_28647136281_6520700f38_b",
+      "width": 1024,
+      "height": 648,
+      "format": "jpg",
+      "bytes": 82097,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28647136281",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_28647135831_db85d39d8c_b.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904651/bird-gallery/white_collared_yuhina/avibase/avibase_3_28647135831_db85d39d8c_b.jpg",
+      "public_id": "bird-gallery/white_collared_yuhina/avibase/avibase_3_28647135831_db85d39d8c_b",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 64059,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28647135831",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "white_collared_yuhina_620373851.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1773904982/bird-gallery/white_collared_yuhina/sounds/white_collared_yuhina_620373851.mp3",
+      "public_id": "bird-gallery/white_collared_yuhina/sounds/white_collared_yuhina_620373851",
+      "duration": 22.488,
+      "format": "mp3",
+      "bytes": 511460,
+      "bit_rate": 181949,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "620373851",
+        "asset_url": "https://macaulaylibrary.org/asset/620373851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

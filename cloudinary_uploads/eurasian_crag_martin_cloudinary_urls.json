@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "eurasian_crag_martin",
+    "chinese_name": "岩燕",
+    "english_name": "Eurasian Crag Martin",
+    "scientific_name": "Ptyonoprogne rupestris"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_crag_martin_252734451.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904437/bird-gallery/eurasian_crag_martin/macaulay/eurasian_crag_martin_252734451.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/macaulay/eurasian_crag_martin_252734451",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 165191,
+      "attribution": {
+        "photographer": "Marco Valentini",
+        "photographer_url": "https://macaulaylibrary.org/asset/252734451",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Marco Valentini; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "252734451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_crag_martin_577113271.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904441/bird-gallery/eurasian_crag_martin/macaulay/eurasian_crag_martin_577113271.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/macaulay/eurasian_crag_martin_577113271",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 126147,
+      "attribution": {
+        "photographer": "Asmus Schröter",
+        "photographer_url": "https://macaulaylibrary.org/asset/577113271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Asmus Schröter; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "577113271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_crag_martin_625003726.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904446/bird-gallery/eurasian_crag_martin/macaulay/eurasian_crag_martin_625003726.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/macaulay/eurasian_crag_martin_625003726",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 175950,
+      "attribution": {
+        "photographer": "Kike Junco",
+        "photographer_url": "https://macaulaylibrary.org/asset/625003726",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kike Junco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625003726",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_crag_martin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904450/bird-gallery/eurasian_crag_martin/inaturalist/eurasian_crag_martin_1.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/inaturalist/eurasian_crag_martin_1",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 50934,
+      "attribution": {
+        "photographer": "geoltel",
+        "photographer_url": "https://www.inaturalist.org/observations/105577842",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© geoltel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105577842,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_crag_martin_2.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904451/bird-gallery/eurasian_crag_martin/inaturalist/eurasian_crag_martin_2.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/inaturalist/eurasian_crag_martin_2",
+      "width": 583,
+      "height": 549,
+      "format": "jpg",
+      "bytes": 9792,
+      "attribution": {
+        "photographer": "exixel",
+        "photographer_url": "https://www.inaturalist.org/observations/320430960",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© exixel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 320430960,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_crag_martin_3.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904452/bird-gallery/eurasian_crag_martin/inaturalist/eurasian_crag_martin_3.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/inaturalist/eurasian_crag_martin_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 9690,
+      "attribution": {
+        "photographer": "mani_raab",
+        "photographer_url": "https://www.inaturalist.org/observations/279075554",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mani_raab (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 279075554,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_crag_martin_1.jpg",
+      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904454/bird-gallery/eurasian_crag_martin/wikimedia/eurasian_crag_martin_1.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/wikimedia/eurasian_crag_martin_1",
+      "width": 250,
+      "height": 167,
+      "format": "jpg",
+      "bytes": 8684,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "eurasian_crag_martin_479966181.mp3",
+      "url": "https://res.cloudinary.com/dzor6lhz8/video/upload/v1773904888/bird-gallery/eurasian_crag_martin/sounds/eurasian_crag_martin_479966181.mp3",
+      "public_id": "bird-gallery/eurasian_crag_martin/sounds/eurasian_crag_martin_479966181",
+      "duration": 34.08,
+      "format": "mp3",
+      "bytes": 481916,
+      "bit_rate": 113125,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "479966181",
+        "asset_url": "https://macaulaylibrary.org/asset/479966181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

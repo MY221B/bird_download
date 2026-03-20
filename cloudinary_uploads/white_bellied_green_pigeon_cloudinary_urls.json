@@ -64,65 +64,7 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "white_bellied_green_pigeon_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904865/bird-gallery/white_bellied_green_pigeon/inaturalist/white_bellied_green_pigeon_1.jpg",
-      "public_id": "bird-gallery/white_bellied_green_pigeon/inaturalist/white_bellied_green_pigeon_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 125795,
-      "attribution": {
-        "photographer": "igor-dvurekov",
-        "photographer_url": "https://www.inaturalist.org/observations/19615694",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© igor-dvurekov (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 19615694,
-        "note": null
-      }
-    },
-    {
-      "original_file": "white_bellied_green_pigeon_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904867/bird-gallery/white_bellied_green_pigeon/inaturalist/white_bellied_green_pigeon_2.jpg",
-      "public_id": "bird-gallery/white_bellied_green_pigeon/inaturalist/white_bellied_green_pigeon_2",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 115191,
-      "attribution": {
-        "photographer": "ts04",
-        "photographer_url": "https://www.inaturalist.org/observations/259957409",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© ts04 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 259957409,
-        "note": null
-      }
-    },
-    {
-      "original_file": "white_bellied_green_pigeon_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904868/bird-gallery/white_bellied_green_pigeon/inaturalist/white_bellied_green_pigeon_3.jpg",
-      "public_id": "bird-gallery/white_bellied_green_pigeon/inaturalist/white_bellied_green_pigeon_3",
-      "width": 683,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 138710,
-      "attribution": {
-        "photographer": "johnlerond",
-        "photographer_url": "https://www.inaturalist.org/observations/319260767",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© johnlerond (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 319260767,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [
     {
@@ -146,25 +88,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_15268265875_bb4cfaa6f0_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904870/bird-gallery/white_bellied_green_pigeon/avibase/avibase_1_15268265875_bb4cfaa6f0_b.jpg",
-      "public_id": "bird-gallery/white_bellied_green_pigeon/avibase/avibase_1_15268265875_bb4cfaa6f0_b",
-      "width": 682,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 103790,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "15268265875",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_15081706887_1636a1293a_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904872/bird-gallery/white_bellied_green_pigeon/avibase/avibase_2_15081706887_1636a1293a_b.jpg",

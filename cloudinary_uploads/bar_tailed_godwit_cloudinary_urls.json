@@ -66,44 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "bar_tailed_godwit_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904496/bird-gallery/bar_tailed_godwit/inaturalist/bar_tailed_godwit_1.jpg",
-      "public_id": "bird-gallery/bar_tailed_godwit/inaturalist/bar_tailed_godwit_1",
-      "width": 1024,
-      "height": 706,
-      "format": "jpg",
-      "bytes": 107617,
-      "attribution": {
-        "photographer": "emmap_art",
-        "photographer_url": "https://www.inaturalist.org/observations/251651164",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© emmap_art (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 251651164,
-        "note": null
-      }
-    },
-    {
-      "original_file": "bar_tailed_godwit_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904498/bird-gallery/bar_tailed_godwit/inaturalist/bar_tailed_godwit_2.jpg",
-      "public_id": "bird-gallery/bar_tailed_godwit/inaturalist/bar_tailed_godwit_2",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 128030,
-      "attribution": {
-        "photographer": "davidrscott",
-        "photographer_url": "https://www.inaturalist.org/observations/116655551",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© davidrscott (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 116655551,
-        "note": null
-      }
-    },
-    {
       "original_file": "bar_tailed_godwit_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904499/bird-gallery/bar_tailed_godwit/inaturalist/bar_tailed_godwit_3.jpg",
       "public_id": "bird-gallery/bar_tailed_godwit/inaturalist/bar_tailed_godwit_3",
@@ -146,25 +108,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_52627737288_fd678623af_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904502/bird-gallery/bar_tailed_godwit/avibase/avibase_1_52627737288_fd678623af_b.jpg",
-      "public_id": "bird-gallery/bar_tailed_godwit/avibase/avibase_1_52627737288_fd678623af_b",
-      "width": 1023,
-      "height": 575,
-      "format": "jpg",
-      "bytes": 194208,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52627737288",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_47546243521_61496c68aa_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904503/bird-gallery/bar_tailed_godwit/avibase/avibase_2_47546243521_61496c68aa_b.jpg",

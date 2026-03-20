@@ -251,11 +251,33 @@ def download_birds(csv_file, missing_birds):
     csv_bird_info = {}
     if csv_file and Path(csv_file).exists():
         try:
-            with open(csv_file, 'r', encoding='utf-8') as _f:
+            with open(csv_file, 'r', encoding='utf-8-sig') as _f:
                 _lines = _f.readlines()
-                _data = [l for l in _lines if l.strip() and not l.strip().startswith('#')]
-                _hdr = next((l for l in _lines if l.strip().startswith('#')), '')
-                _has_zh = 'chinese_name' in _hdr.lower()
+
+                def _ls(s):
+                    return s.strip().lstrip('\ufeff')
+
+                _data = [l for l in _lines if _ls(l) and not _ls(l).startswith('#')]
+                _has_zh = False
+                if _data:
+                    try:
+                        _nc = len(next(csv.reader(_data[:1])))
+                        if _nc >= 5:
+                            _has_zh = True
+                        elif _nc <= 4:
+                            _has_zh = False
+                        else:
+                            _has_zh = any(
+                                'chinese_name' in _ls(l).lower()
+                                for l in _lines
+                                if _ls(l).startswith('#')
+                            )
+                    except (StopIteration, csv.Error):
+                        _has_zh = any(
+                            'chinese_name' in _ls(l).lower()
+                            for l in _lines
+                            if _ls(l).startswith('#')
+                        )
                 _fnames = ['slug', 'chinese_name', 'english_name', 'scientific_name', 'wikipedia_page'] if _has_zh else ['slug', 'english_name', 'scientific_name', 'wikipedia_page']
                 for _row in csv.DictReader(_data, fieldnames=_fnames):
                     _s = _row.get('slug', '').strip().strip('"')
@@ -319,7 +341,7 @@ def download_birds(csv_file, missing_birds):
     try:
         # 尝试多种编码读取CSV文件
         lines = None
-        encodings = ['utf-8', 'gbk', 'gb2312', 'latin-1', 'cp1252']
+        encodings = ['utf-8-sig', 'utf-8', 'gbk', 'gb2312', 'latin-1', 'cp1252']
         for encoding in encodings:
             try:
                 with open(csv_file, 'r', encoding=encoding) as f_in:
@@ -333,23 +355,47 @@ def download_birds(csv_file, missing_birds):
         if lines is None:
             raise Exception(f"无法读取 CSV 文件，尝试了以下编码: {', '.join(encodings)}")
         
-        header_line = None
+        def _line_start(s):
+            return s.strip().lstrip('\ufeff')
+
+        header_line_idx = None
+        header_line_for_cn = None
         for i, line in enumerate(lines):
-            if line.strip().startswith('#'):
-                header_line = i
-                break
-        
+            if _line_start(line).startswith('#'):
+                if header_line_idx is None:
+                    header_line_idx = i
+                if header_line_for_cn is None and 'chinese_name' in _line_start(line).lower():
+                    header_line_for_cn = i
+
         with open(temp_csv, 'w', encoding='utf-8') as f_out:
-                # 写入表头
-                if header_line is not None:
-                    f_out.write(lines[header_line])
-                
+                # 写入表头：优先带 chinese_name 说明的注释行，避免首行只是「模板说明」时丢失格式信息
+                if header_line_for_cn is not None:
+                    f_out.write(lines[header_line_for_cn])
+                elif header_line_idx is not None:
+                    f_out.write(lines[header_line_idx])
+
                 # 只写入缺失的鸟类
-                data_lines = [line for line in lines if line.strip() and not line.strip().startswith('#')]
+                data_lines = [line for line in lines if _line_start(line) and not _line_start(line).startswith('#')]
                 has_chinese = False
-                if header_line is not None:
-                    header = lines[header_line].strip()
-                    has_chinese = 'chinese_name' in header.lower()
+                if data_lines:
+                    try:
+                        _ncol = len(next(csv.reader(data_lines[:1])))
+                        if _ncol >= 5:
+                            has_chinese = True
+                        elif _ncol <= 4:
+                            has_chinese = False
+                        else:
+                            has_chinese = any(
+                                'chinese_name' in _line_start(l).lower()
+                                for l in lines
+                                if _line_start(l).startswith('#')
+                            )
+                    except (StopIteration, csv.Error):
+                        has_chinese = any(
+                            'chinese_name' in _line_start(l).lower()
+                            for l in lines
+                            if _line_start(l).startswith('#')
+                        )
                 
                 if data_lines:
                     if has_chinese:
@@ -377,6 +423,7 @@ def download_birds(csv_file, missing_birds):
             _env = os.environ.copy()
             _env.setdefault('LANG', 'en_US.UTF-8')
             _env.setdefault('LC_ALL', 'en_US.UTF-8')
+            _env.setdefault('PYTHONIOENCODING', 'utf-8')
             subprocess.run(
                 [str(batch_script), str(temp_csv), "--parallel", "3", "--skip-existing"],
                 check=True,

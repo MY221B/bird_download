@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "scaly_laughingthrush_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904840/bird-gallery/scaly_laughingthrush/inaturalist/scaly_laughingthrush_1.jpg",
-      "public_id": "bird-gallery/scaly_laughingthrush/inaturalist/scaly_laughingthrush_1",
-      "width": 1024,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 78965,
-      "attribution": {
-        "photographer": "subhayan",
-        "photographer_url": "https://www.inaturalist.org/observations/231367404",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© subhayan (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 231367404,
-        "note": null
-      }
-    },
-    {
       "original_file": "scaly_laughingthrush_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904842/bird-gallery/scaly_laughingthrush/inaturalist/scaly_laughingthrush_2.jpg",
       "public_id": "bird-gallery/scaly_laughingthrush/inaturalist/scaly_laughingthrush_2",
@@ -100,25 +81,6 @@
         "credit_format": "© christopherrustay (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
         "source_id": 285254140,
-        "note": null
-      }
-    },
-    {
-      "original_file": "scaly_laughingthrush_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904843/bird-gallery/scaly_laughingthrush/inaturalist/scaly_laughingthrush_3.jpg",
-      "public_id": "bird-gallery/scaly_laughingthrush/inaturalist/scaly_laughingthrush_3",
-      "width": 1024,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 166478,
-      "attribution": {
-        "photographer": "gate2soumyajit",
-        "photographer_url": "https://www.inaturalist.org/observations/24268474",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© gate2soumyajit (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 24268474,
         "note": null
       }
     }
@@ -181,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "26033920638",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_52607076073_341f5d4667_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904848/bird-gallery/scaly_laughingthrush/avibase/avibase_3_52607076073_341f5d4667_b.jpg",
-      "public_id": "bird-gallery/scaly_laughingthrush/avibase/avibase_3_52607076073_341f5d4667_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 198455,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52607076073",
         "note": "署名信息需从Flickr获取"
       }
     }

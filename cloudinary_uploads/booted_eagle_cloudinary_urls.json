@@ -102,25 +102,6 @@
         "source_id": 34628686,
         "note": null
       }
-    },
-    {
-      "original_file": "booted_eagle_3.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904720/bird-gallery/booted_eagle/inaturalist/booted_eagle_3.jpg",
-      "public_id": "bird-gallery/booted_eagle/inaturalist/booted_eagle_3",
-      "width": 1024,
-      "height": 965,
-      "format": "jpg",
-      "bytes": 113683,
-      "attribution": {
-        "photographer": "i_cristina",
-        "photographer_url": "https://www.inaturalist.org/observations/332337566",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© i_cristina (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 332337566,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -145,65 +126,7 @@
       }
     }
   ],
-  "avibase": [
-    {
-      "original_file": "avibase_1_52587957022_4c33bf52cc_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904723/bird-gallery/booted_eagle/avibase/avibase_1_52587957022_4c33bf52cc_b.jpg",
-      "public_id": "bird-gallery/booted_eagle/avibase/avibase_1_52587957022_4c33bf52cc_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 11648,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52587957022",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_10822126044_10f22a0aec_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904724/bird-gallery/booted_eagle/avibase/avibase_2_10822126044_10f22a0aec_b.jpg",
-      "public_id": "bird-gallery/booted_eagle/avibase/avibase_2_10822126044_10f22a0aec_b",
-      "width": 840,
-      "height": 560,
-      "format": "jpg",
-      "bytes": 33768,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "10822126044",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_23206978839_b91a4c34b8_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904725/bird-gallery/booted_eagle/avibase/avibase_3_23206978839_b91a4c34b8_b.jpg",
-      "public_id": "bird-gallery/booted_eagle/avibase/avibase_3_23206978839_b91a4c34b8_b",
-      "width": 683,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 13009,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "23206978839",
-        "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "booted_eagle_269267001.mp3",

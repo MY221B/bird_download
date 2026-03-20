@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "siberian_crane_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904769/bird-gallery/siberian_crane/inaturalist/siberian_crane_2.jpg",
-      "public_id": "bird-gallery/siberian_crane/inaturalist/siberian_crane_2",
-      "width": 1024,
-      "height": 647,
-      "format": "jpg",
-      "bytes": 69981,
-      "attribution": {
-        "photographer": "chartuso",
-        "photographer_url": "https://www.inaturalist.org/observations/23029450",
-        "license": "cc-by-nc-nd",
-        "license_url": null,
-        "credit_format": "© chartuso (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
-        "source": "inaturalist",
-        "source_id": 23029450,
-        "note": null
-      }
-    },
-    {
       "original_file": "siberian_crane_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904770/bird-gallery/siberian_crane/inaturalist/siberian_crane_3.jpg",
       "public_id": "bird-gallery/siberian_crane/inaturalist/siberian_crane_3",
@@ -124,27 +105,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "siberian_crane_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904771/bird-gallery/siberian_crane/wikimedia/siberian_crane_1.jpg",
-      "public_id": "bird-gallery/siberian_crane/wikimedia/siberian_crane_1",
-      "width": 250,
-      "height": 412,
-      "format": "jpg",
-      "bytes": 17680,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_51205100794_47e375c417_b.jpg",
@@ -162,25 +123,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "51205100794",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_10921715906_452c4b45e4_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904773/bird-gallery/siberian_crane/avibase/avibase_2_10921715906_452c4b45e4_b.jpg",
-      "public_id": "bird-gallery/siberian_crane/avibase/avibase_2_10921715906_452c4b45e4_b",
-      "width": 1024,
-      "height": 684,
-      "format": "jpg",
-      "bytes": 200316,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "10921715906",
         "note": "署名信息需从Flickr获取"
       }
     },

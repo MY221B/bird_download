@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "red_necked_stint_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904546/bird-gallery/red_necked_stint/inaturalist/red_necked_stint_2.jpg",
-      "public_id": "bird-gallery/red_necked_stint/inaturalist/red_necked_stint_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 42114,
-      "attribution": {
-        "photographer": "zichen",
-        "photographer_url": "https://www.inaturalist.org/observations/142760995",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© zichen (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 142760995,
-        "note": null
-      }
-    },
-    {
       "original_file": "red_necked_stint_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904547/bird-gallery/red_necked_stint/inaturalist/red_necked_stint_3.jpg",
       "public_id": "bird-gallery/red_necked_stint/inaturalist/red_necked_stint_3",
@@ -181,25 +162,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "8087058891",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_54321465193_de82d9da01_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904553/bird-gallery/red_necked_stint/avibase/avibase_3_54321465193_de82d9da01_b.jpg",
-      "public_id": "bird-gallery/red_necked_stint/avibase/avibase_3_54321465193_de82d9da01_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 71964,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54321465193",
         "note": "署名信息需从Flickr获取"
       }
     }

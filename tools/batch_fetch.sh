@@ -3,6 +3,11 @@
 # 批量下载鸟类图片工具
 # 支持 CSV 输入和并行下载
 
+# 进程替换管道下 Python  stdout 可能非 UTF-8；bash 也需一致 locale，否则中文会变成
+export LC_ALL="${LC_ALL:-en_US.UTF-8}"
+export LANG="${LANG:-en_US.UTF-8}"
+export PYTHONIOENCODING=utf-8
+
 usage() {
   cat << 'EOF'
 用法: ./batch_fetch.sh <birds_file> [--parallel N] [--skip-existing]
@@ -153,38 +158,54 @@ import csv
 import sys
 
 csv_file = sys.argv[1]
-with open(csv_file, 'r', encoding='utf-8') as f:
+# utf-8-sig：去掉 BOM，避免首行 # 注释无法识别
+with open(csv_file, 'r', encoding='utf-8-sig') as f:
     lines = f.readlines()
-    # 跳过注释行
-    data_lines = [line for line in lines if line.strip() and not line.strip().startswith('#')]
-    
-    # 检测是否有 chinese_name 字段
-    has_chinese = False
-    for line in lines:
-        if line.strip().startswith('#'):
-            header = line.strip().lower()
-            has_chinese = 'chinese_name' in header
-            break
-    
-    if data_lines:
-        if has_chinese:
-            reader = csv.DictReader(data_lines, fieldnames=['slug', 'chinese_name', 'english_name', 'scientific_name', 'wikipedia_page'])
-        else:
-            reader = csv.DictReader(data_lines, fieldnames=['slug', 'english_name', 'scientific_name', 'wikipedia_page'])
-        
-        for row in reader:
-            slug = row.get('slug', '').strip().strip('"')
-            if not slug or slug == 'slug':
-                continue
-            
-            en_name = row.get('english_name', '').strip().strip('"')
-            chinese_name = row.get('chinese_name', '').strip().strip('"') if has_chinese else ''
-            sci_name = row.get('scientific_name', '').strip().strip('"')
-            wiki_page = row.get('wikipedia_page', '').strip().strip('"')
-            
-            # 使用 | 作为分隔符，避免与字段内容冲突
-            # 格式: slug|en_name|chinese_name|sci_name|wiki_page
-            print(f"{slug}|{en_name}|{chinese_name}|{sci_name}|{wiki_page}")
+
+def _stripped(line):
+    return line.strip().lstrip('\ufeff')
+
+# 跳过注释与空行
+data_lines = [line for line in lines if _stripped(line) and not _stripped(line).startswith('#')]
+
+# 格式检测：优先看首行数据列数（5 列 = slug + 中文名 + 英文学名 + wiki）
+has_chinese = False
+if data_lines:
+    try:
+        ncol = len(next(csv.reader([data_lines[0]])))
+        if ncol >= 5:
+            has_chinese = True
+        elif ncol <= 4:
+            has_chinese = False
+    except (StopIteration, csv.Error):
+        ncol = 0
+    # 列数暧昧时再看所有 # 注释里是否声明 chinese_name
+    if ncol not in (4, 5):
+        for line in lines:
+            s = _stripped(line)
+            if s.startswith('#') and 'chinese_name' in s.lower():
+                has_chinese = True
+                break
+
+if data_lines:
+    if has_chinese:
+        reader = csv.DictReader(data_lines, fieldnames=['slug', 'chinese_name', 'english_name', 'scientific_name', 'wikipedia_page'])
+    else:
+        reader = csv.DictReader(data_lines, fieldnames=['slug', 'english_name', 'scientific_name', 'wikipedia_page'])
+
+    for row in reader:
+        slug = row.get('slug', '').strip().strip('"')
+        if not slug or slug == 'slug':
+            continue
+
+        en_name = row.get('english_name', '').strip().strip('"')
+        chinese_name = row.get('chinese_name', '').strip().strip('"') if has_chinese else ''
+        sci_name = row.get('scientific_name', '').strip().strip('"')
+        wiki_page = row.get('wikipedia_page', '').strip().strip('"')
+
+        # 使用 | 作为分隔符，避免与字段内容冲突
+        # 格式: slug|en_name|chinese_name|sci_name|wiki_page
+        print(f"{slug}|{en_name}|{chinese_name}|{sci_name}|{wiki_page}")
 PYTHON_EOF
 )
 

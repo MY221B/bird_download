@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "curlew_sandpiper_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904619/bird-gallery/curlew_sandpiper/inaturalist/curlew_sandpiper_2.jpg",
-      "public_id": "bird-gallery/curlew_sandpiper/inaturalist/curlew_sandpiper_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 57279,
-      "attribution": {
-        "photographer": "noahfenwick",
-        "photographer_url": "https://www.inaturalist.org/observations/139891549",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© noahfenwick (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 139891549,
-        "note": null
-      }
-    },
-    {
       "original_file": "curlew_sandpiper_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904620/bird-gallery/curlew_sandpiper/inaturalist/curlew_sandpiper_3.jpg",
       "public_id": "bird-gallery/curlew_sandpiper/inaturalist/curlew_sandpiper_3",
@@ -146,44 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_50322942371_65e9fba7e1_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904623/bird-gallery/curlew_sandpiper/avibase/avibase_1_50322942371_65e9fba7e1_b.jpg",
-      "public_id": "bird-gallery/curlew_sandpiper/avibase/avibase_1_50322942371_65e9fba7e1_b",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 90038,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "50322942371",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_51021690031_caf135dfb3_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904624/bird-gallery/curlew_sandpiper/avibase/avibase_2_51021690031_caf135dfb3_b.jpg",
-      "public_id": "bird-gallery/curlew_sandpiper/avibase/avibase_2_51021690031_caf135dfb3_b",
-      "width": 1024,
-      "height": 637,
-      "format": "jpg",
-      "bytes": 72245,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51021690031",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_3_22553147899_87c2087de9_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904625/bird-gallery/curlew_sandpiper/avibase/avibase_3_22553147899_87c2087de9_b.jpg",

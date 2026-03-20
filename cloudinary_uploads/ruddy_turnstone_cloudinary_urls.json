@@ -66,44 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "ruddy_turnstone_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904815/bird-gallery/ruddy_turnstone/inaturalist/ruddy_turnstone_1.jpg",
-      "public_id": "bird-gallery/ruddy_turnstone/inaturalist/ruddy_turnstone_1",
-      "width": 973,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 96606,
-      "attribution": {
-        "photographer": "anudibranchmom",
-        "photographer_url": "https://www.inaturalist.org/observations/5659071",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© anudibranchmom (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 5659071,
-        "note": null
-      }
-    },
-    {
-      "original_file": "ruddy_turnstone_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904816/bird-gallery/ruddy_turnstone/inaturalist/ruddy_turnstone_2.jpg",
-      "public_id": "bird-gallery/ruddy_turnstone/inaturalist/ruddy_turnstone_2",
-      "width": 1024,
-      "height": 732,
-      "format": "jpg",
-      "bytes": 45858,
-      "attribution": {
-        "photographer": "cassiia",
-        "photographer_url": "https://www.inaturalist.org/observations/182472971",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© cassiia (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 182472971,
-        "note": null
-      }
-    },
-    {
       "original_file": "ruddy_turnstone_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904818/bird-gallery/ruddy_turnstone/inaturalist/ruddy_turnstone_3.jpg",
       "public_id": "bird-gallery/ruddy_turnstone/inaturalist/ruddy_turnstone_3",
@@ -181,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "52063748392",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_52912707677_c477e4daa4_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904823/bird-gallery/ruddy_turnstone/avibase/avibase_3_52912707677_c477e4daa4_b.jpg",
-      "public_id": "bird-gallery/ruddy_turnstone/avibase/avibase_3_52912707677_c477e4daa4_b",
-      "width": 1023,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 138851,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52912707677",
         "note": "署名信息需从Flickr获取"
       }
     }

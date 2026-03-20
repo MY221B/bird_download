@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "russet_sparrow_1.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904669/bird-gallery/russet_sparrow/inaturalist/russet_sparrow_1.jpg",
-      "public_id": "bird-gallery/russet_sparrow/inaturalist/russet_sparrow_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 82628,
-      "attribution": {
-        "photographer": "watermargin",
-        "photographer_url": "https://www.inaturalist.org/observations/91207669",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© watermargin (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 91207669,
-        "note": null
-      }
-    },
-    {
       "original_file": "russet_sparrow_2.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904670/bird-gallery/russet_sparrow/inaturalist/russet_sparrow_2.jpg",
       "public_id": "bird-gallery/russet_sparrow/inaturalist/russet_sparrow_2",

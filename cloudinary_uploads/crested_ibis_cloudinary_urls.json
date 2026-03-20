@@ -147,25 +147,6 @@
   ],
   "avibase": [
     {
-      "original_file": "avibase_1_47946793042_f49a97da9f_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904698/bird-gallery/crested_ibis/avibase/avibase_1_47946793042_f49a97da9f_b.jpg",
-      "public_id": "bird-gallery/crested_ibis/avibase/avibase_1_47946793042_f49a97da9f_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 141654,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "47946793042",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
       "original_file": "avibase_2_47946492038_b5b330ff1a_b.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904699/bird-gallery/crested_ibis/avibase/avibase_2_47946492038_b5b330ff1a_b.jpg",
       "public_id": "bird-gallery/crested_ibis/avibase/avibase_2_47946492038_b5b330ff1a_b",
@@ -181,25 +162,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "47946492038",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_47946444988_a248edde61_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904701/bird-gallery/crested_ibis/avibase/avibase_3_47946444988_a248edde61_b.jpg",
-      "public_id": "bird-gallery/crested_ibis/avibase/avibase_3_47946444988_a248edde61_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 17411,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "47946444988",
         "note": "署名信息需从Flickr获取"
       }
     }

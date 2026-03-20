@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "bull_headed_shrike_2.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904379/bird-gallery/bull_headed_shrike/inaturalist/bull_headed_shrike_2.jpg",
-      "public_id": "bird-gallery/bull_headed_shrike/inaturalist/bull_headed_shrike_2",
-      "width": 499,
-      "height": 333,
-      "format": "jpg",
-      "bytes": 13823,
-      "attribution": {
-        "photographer": "gg_copen",
-        "photographer_url": "https://www.inaturalist.org/observations/337931162",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© gg_copen (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 337931162,
-        "note": null
-      }
-    },
-    {
       "original_file": "bull_headed_shrike_3.jpg",
       "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904380/bird-gallery/bull_headed_shrike/inaturalist/bull_headed_shrike_3.jpg",
       "public_id": "bird-gallery/bull_headed_shrike/inaturalist/bull_headed_shrike_3",
@@ -161,25 +142,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "27776511639",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_48801793692_366e1ae8ca_b.jpg",
-      "url": "https://res.cloudinary.com/dzor6lhz8/image/upload/v1773904384/bird-gallery/bull_headed_shrike/avibase/avibase_3_48801793692_366e1ae8ca_b.jpg",
-      "public_id": "bird-gallery/bull_headed_shrike/avibase/avibase_3_48801793692_366e1ae8ca_b",
-      "width": 1024,
-      "height": 882,
-      "format": "jpg",
-      "bytes": 45785,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "48801793692",
         "note": "署名信息需从Flickr获取"
       }
     }

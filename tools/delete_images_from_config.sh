@@ -2,9 +2,13 @@
 
 # 自动化图片删除脚本
 # 用法: ./delete_images_from_config.sh [配置文件路径] [--yes|-y]
-# 
+#
 # 功能：从 Cloudinary、本地文件、JSON 引用和 HTML 画廊中删除配置文件中列出的所有图片
 # 并自动提交到 Git
+#
+# Cloudinary 与上传脚本一致：使用仓库根目录 .cloudinary_secrets（CLOUD_NAME / API_KEY / API_SECRET），
+# 或环境变量 CLOUDINARY_CLOUD_NAME、CLOUDINARY_API_KEY、CLOUDINARY_API_SECRET。
+# 详见 tools/cloudinary_credentials.py
 #
 # 默认配置文件: config/需要删除图片名单
 # 参数:
@@ -22,6 +26,16 @@ NC='\033[0m' # No Color
 # 获取项目根目录
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "${REPO_ROOT}"
+
+# Cloudinary：与周更上传、delete_cloudinary_by_list.py 相同凭证源
+check_cloudinary_credentials() {
+    python3 -c "
+import sys
+sys.path.insert(0, '${REPO_ROOT}/tools')
+from cloudinary_credentials import ensure_cloudinary_config
+print(ensure_cloudinary_config())
+"
+}
 
 # 解析参数
 CONFIG_FILE="config/需要删除图片名单"
@@ -47,6 +61,16 @@ if bash "${REPO_ROOT}/tools/sync_from_lovable.sh"; then
 else
   echo -e "${YELLOW}⚠️  Lovable 同步失败，继续执行...${NC}"
 fi
+echo ""
+
+echo -e "${BLUE}☁️  检查 Cloudinary 凭证（.cloudinary_secrets 或 CLOUDINARY_* 环境变量）...${NC}"
+if ! GALLERY_CLOUD="$(check_cloudinary_credentials)"; then
+    echo -e "${RED}❌ 未找到有效 Cloudinary 凭证。${NC}"
+    echo "  请在仓库根目录创建 .cloudinary_secrets（含 CLOUD_NAME、API_KEY、API_SECRET），"
+    echo "  或导出 CLOUDINARY_CLOUD_NAME、CLOUDINARY_API_KEY、CLOUDINARY_API_SECRET。"
+    exit 1
+fi
+echo -e "${GREEN}✅ 将使用 Cloudinary cloud: ${GALLERY_CLOUD}${NC}"
 echo ""
 
 # 检查配置文件是否存在

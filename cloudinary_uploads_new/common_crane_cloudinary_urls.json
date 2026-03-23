@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_crane",
+    "chinese_name": "灰鹤",
+    "english_name": "Common Crane",
+    "scientific_name": "Grus grus"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_crane_191418621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171580/bird-gallery/common_crane/macaulay/common_crane_191418621.jpg",
+      "public_id": "bird-gallery/common_crane/macaulay/common_crane_191418621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 191175,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/191418621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "191418621",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_crane_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171581/bird-gallery/common_crane/inaturalist/common_crane_2.jpg",
+      "public_id": "bird-gallery/common_crane/inaturalist/common_crane_2",
+      "width": 960,
+      "height": 726,
+      "format": "jpg",
+      "bytes": 131284,
+      "attribution": {
+        "photographer": "seaheart88",
+        "photographer_url": "https://www.inaturalist.org/observations/18357585",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© seaheart88 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18357585,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50413422442_0db8fccafc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171581/bird-gallery/common_crane/avibase/avibase_1_50413422442_0db8fccafc_b.jpg",
+      "public_id": "bird-gallery/common_crane/avibase/avibase_1_50413422442_0db8fccafc_b",
+      "width": 1023,
+      "height": 504,
+      "format": "jpg",
+      "bytes": 144217,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50413422442",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

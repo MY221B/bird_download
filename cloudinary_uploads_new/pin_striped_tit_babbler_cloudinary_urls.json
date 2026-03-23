@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "pin_striped_tit_babbler",
+    "chinese_name": "纹胸鹛",
+    "english_name": "Pin-striped Tit-babbler",
+    "scientific_name": "Mixornis gularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "pin_striped_tit_babbler_244322241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171832/bird-gallery/pin_striped_tit_babbler/macaulay/pin_striped_tit_babbler_244322241.jpg",
+      "public_id": "bird-gallery/pin_striped_tit_babbler/macaulay/pin_striped_tit_babbler_244322241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 168647,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/244322241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "244322241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pin_striped_tit_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171833/bird-gallery/pin_striped_tit_babbler/inaturalist/pin_striped_tit_babbler_1.jpg",
+      "public_id": "bird-gallery/pin_striped_tit_babbler/inaturalist/pin_striped_tit_babbler_1",
+      "width": 951,
+      "height": 633,
+      "format": "jpg",
+      "bytes": 495407,
+      "attribution": {
+        "photographer": "ivijayanand",
+        "photographer_url": "https://www.inaturalist.org/observations/9482972",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© ivijayanand (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 9482972,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "pin_striped_tit_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171834/bird-gallery/pin_striped_tit_babbler/wikimedia/pin_striped_tit_babbler_1.jpg",
+      "public_id": "bird-gallery/pin_striped_tit_babbler/wikimedia/pin_striped_tit_babbler_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 154190,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49898314252_d4e420808d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171835/bird-gallery/pin_striped_tit_babbler/avibase/avibase_1_49898314252_d4e420808d_b.jpg",
+      "public_id": "bird-gallery/pin_striped_tit_babbler/avibase/avibase_1_49898314252_d4e420808d_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 122531,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49898314252",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

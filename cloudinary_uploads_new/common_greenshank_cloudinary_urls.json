@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "common_greenshank",
+    "chinese_name": "青脚鹬",
+    "english_name": "Common Greenshank",
+    "scientific_name": "Tringa nebularia"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_greenshank_262646901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171584/bird-gallery/common_greenshank/macaulay/common_greenshank_262646901.jpg",
+      "public_id": "bird-gallery/common_greenshank/macaulay/common_greenshank_262646901",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 136471,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/262646901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "262646901",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_greenshank_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171584/bird-gallery/common_greenshank/inaturalist/common_greenshank_3.jpg",
+      "public_id": "bird-gallery/common_greenshank/inaturalist/common_greenshank_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 435428,
+      "attribution": {
+        "photographer": "shivvarudra",
+        "photographer_url": "https://www.inaturalist.org/observations/78334164",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© shivvarudra (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 78334164,
+        "note": null
+      }
+    }
+  ]
+}

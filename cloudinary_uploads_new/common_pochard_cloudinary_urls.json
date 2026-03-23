@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "common_pochard",
+    "chinese_name": "红头潜鸭",
+    "english_name": "Common Pochard",
+    "scientific_name": "Aythya ferina"
+  },
+  "inaturalist": [
+    {
+      "original_file": "common_pochard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171592/bird-gallery/common_pochard/inaturalist/common_pochard_1.jpg",
+      "public_id": "bird-gallery/common_pochard/inaturalist/common_pochard_1",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 210348,
+      "attribution": {
+        "photographer": "a_rover",
+        "photographer_url": "https://www.inaturalist.org/observations/268933570",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© a_rover (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 268933570,
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "hill_pigeon",
+    "chinese_name": "岩鸽",
+    "english_name": "Hill Pigeon",
+    "scientific_name": "Columba rupestris"
+  },
+  "macaulay": [
+    {
+      "original_file": "hill_pigeon_226619261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171709/bird-gallery/hill_pigeon/macaulay/hill_pigeon_226619261.jpg",
+      "public_id": "bird-gallery/hill_pigeon/macaulay/hill_pigeon_226619261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 193912,
+      "attribution": {
+        "photographer": "David Irving",
+        "photographer_url": "https://macaulaylibrary.org/asset/226619261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Irving; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "226619261",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hill_pigeon_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171710/bird-gallery/hill_pigeon/inaturalist/hill_pigeon_2.jpg",
+      "public_id": "bird-gallery/hill_pigeon/inaturalist/hill_pigeon_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 148222,
+      "attribution": {
+        "photographer": "durubird",
+        "photographer_url": "https://www.inaturalist.org/observations/229016581",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© durubird (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 229016581,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52636596510_61275fab12_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171711/bird-gallery/hill_pigeon/avibase/avibase_1_52636596510_61275fab12_b.jpg",
+      "public_id": "bird-gallery/hill_pigeon/avibase/avibase_1_52636596510_61275fab12_b",
+      "width": 1023,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 128351,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52636596510",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

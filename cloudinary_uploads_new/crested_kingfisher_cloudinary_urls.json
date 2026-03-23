@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "crested_kingfisher",
+    "chinese_name": "冠鱼狗",
+    "english_name": "Crested Kingfisher",
+    "scientific_name": "Megaceryle lugubris"
+  },
+  "macaulay": [
+    {
+      "original_file": "crested_kingfisher_285668811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171605/bird-gallery/crested_kingfisher/macaulay/crested_kingfisher_285668811.jpg",
+      "public_id": "bird-gallery/crested_kingfisher/macaulay/crested_kingfisher_285668811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 125669,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/285668811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "285668811",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crested_kingfisher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171605/bird-gallery/crested_kingfisher/inaturalist/crested_kingfisher_1.jpg",
+      "public_id": "bird-gallery/crested_kingfisher/inaturalist/crested_kingfisher_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 377347,
+      "attribution": {
+        "photographer": "whitebean",
+        "photographer_url": "https://www.inaturalist.org/observations/253617886",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© whitebean (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 253617886,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "crested_kingfisher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171606/bird-gallery/crested_kingfisher/wikimedia/crested_kingfisher_1.jpg",
+      "public_id": "bird-gallery/crested_kingfisher/wikimedia/crested_kingfisher_1",
+      "width": 1200,
+      "height": 888,
+      "format": "jpg",
+      "bytes": 163790,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_28858906446_e31246777b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171607/bird-gallery/crested_kingfisher/avibase/avibase_1_28858906446_e31246777b_b.jpg",
+      "public_id": "bird-gallery/crested_kingfisher/avibase/avibase_1_28858906446_e31246777b_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 180517,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28858906446",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

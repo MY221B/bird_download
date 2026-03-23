@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "eurasian_bittern",
+    "chinese_name": "大麻鳽",
+    "english_name": "Eurasian Bittern",
+    "scientific_name": "Botaurus stellaris"
+  },
+  "inaturalist": [
+    {
+      "original_file": "eurasian_bittern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171625/bird-gallery/eurasian_bittern/inaturalist/eurasian_bittern_1.jpg",
+      "public_id": "bird-gallery/eurasian_bittern/inaturalist/eurasian_bittern_1",
+      "width": 830,
+      "height": 554,
+      "format": "jpg",
+      "bytes": 44916,
+      "attribution": {
+        "photographer": "tatyanazarubo",
+        "photographer_url": "https://www.inaturalist.org/observations/38954877",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tatyanazarubo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 38954877,
+        "note": null
+      }
+    }
+  ]
+}

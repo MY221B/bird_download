@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "oriental_skylark",
+    "chinese_name": "小云雀",
+    "english_name": "Oriental Skylark",
+    "scientific_name": "Alauda gulgula"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_skylark_123357651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171812/bird-gallery/oriental_skylark/macaulay/oriental_skylark_123357651.jpg",
+      "public_id": "bird-gallery/oriental_skylark/macaulay/oriental_skylark_123357651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 180788,
+      "attribution": {
+        "photographer": "Anton Liebermann",
+        "photographer_url": "https://macaulaylibrary.org/asset/123357651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anton Liebermann; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "123357651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_skylark_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171814/bird-gallery/oriental_skylark/inaturalist/oriental_skylark_1.jpg",
+      "public_id": "bird-gallery/oriental_skylark/inaturalist/oriental_skylark_1",
+      "width": 991,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 961628,
+      "attribution": {
+        "photographer": "afsarnayakkan",
+        "photographer_url": "https://www.inaturalist.org/observations/137132492",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© afsarnayakkan (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 137132492,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "oriental_skylark_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171814/bird-gallery/oriental_skylark/wikimedia/oriental_skylark_1.jpg",
+      "public_id": "bird-gallery/oriental_skylark/wikimedia/oriental_skylark_1",
+      "width": 1280,
+      "height": 851,
+      "format": "jpg",
+      "bytes": 166759,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_53351524027_e56b20f56b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171816/bird-gallery/oriental_skylark/avibase/avibase_2_53351524027_e56b20f56b_b.jpg",
+      "public_id": "bird-gallery/oriental_skylark/avibase/avibase_2_53351524027_e56b20f56b_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 256384,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53351524027",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

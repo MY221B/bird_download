@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "crested_bunting",
+    "chinese_name": "凤头鹀",
+    "english_name": "Crested Bunting",
+    "scientific_name": "Emberiza lathami"
+  },
+  "macaulay": [
+    {
+      "original_file": "crested_bunting_181888541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171602/bird-gallery/crested_bunting/macaulay/crested_bunting_181888541.jpg",
+      "public_id": "bird-gallery/crested_bunting/macaulay/crested_bunting_181888541",
+      "width": 1200,
+      "height": 803,
+      "format": "jpg",
+      "bytes": 181668,
+      "attribution": {
+        "photographer": "Bhaarat Vyas",
+        "photographer_url": "https://macaulaylibrary.org/asset/181888541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Bhaarat Vyas; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "181888541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crested_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171603/bird-gallery/crested_bunting/inaturalist/crested_bunting_2.jpg",
+      "public_id": "bird-gallery/crested_bunting/inaturalist/crested_bunting_2",
+      "width": 750,
+      "height": 536,
+      "format": "jpg",
+      "bytes": 251278,
+      "attribution": {
+        "photographer": "jayantdeshpande",
+        "photographer_url": "https://www.inaturalist.org/observations/69045103",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jayantdeshpande (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69045103,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_42191572815_7d25d25762_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171604/bird-gallery/crested_bunting/avibase/avibase_1_42191572815_7d25d25762_b.jpg",
+      "public_id": "bird-gallery/crested_bunting/avibase/avibase_1_42191572815_7d25d25762_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 249239,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "42191572815",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

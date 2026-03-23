@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "spot_bellied_eagle_owl",
+    "chinese_name": "林雕鸮",
+    "english_name": "Spot-bellied Eagle Owl",
+    "scientific_name": "Bubo nipalensis"
+  },
+  "inaturalist": [
+    {
+      "original_file": "spot_bellied_eagle_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171928/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_1.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 253132,
+      "attribution": {
+        "photographer": "hamsambly",
+        "photographer_url": "https://www.inaturalist.org/observations/198957361",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hamsambly (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 198957361,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "spot_bellied_eagle_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171929/bird-gallery/spot_bellied_eagle_owl/wikimedia/spot_bellied_eagle_owl_1.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/wikimedia/spot_bellied_eagle_owl_1",
+      "width": 960,
+      "height": 1318,
+      "format": "jpg",
+      "bytes": 506702,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "coral_billed_scimitar_babbler",
+    "chinese_name": "红嘴钩嘴鹛",
+    "english_name": "Coral-billed Scimitar Babbler",
+    "scientific_name": "Pomatorhinus ferruginosus"
+  },
+  "macaulay": [
+    {
+      "original_file": "coral_billed_scimitar_babbler_515792941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171600/bird-gallery/coral_billed_scimitar_babbler/macaulay/coral_billed_scimitar_babbler_515792941.jpg",
+      "public_id": "bird-gallery/coral_billed_scimitar_babbler/macaulay/coral_billed_scimitar_babbler_515792941",
+      "width": 1200,
+      "height": 761,
+      "format": "jpg",
+      "bytes": 173945,
+      "attribution": {
+        "photographer": "Madhav Murthy",
+        "photographer_url": "https://macaulaylibrary.org/asset/515792941",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Madhav Murthy; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "515792941",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "coral_billed_scimitar_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171601/bird-gallery/coral_billed_scimitar_babbler/inaturalist/coral_billed_scimitar_babbler_1.jpg",
+      "public_id": "bird-gallery/coral_billed_scimitar_babbler/inaturalist/coral_billed_scimitar_babbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 108255,
+      "attribution": {
+        "photographer": "kalpeshkrishna",
+        "photographer_url": "https://www.inaturalist.org/observations/330781715",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kalpeshkrishna (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 330781715,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "coral_billed_scimitar_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171602/bird-gallery/coral_billed_scimitar_babbler/wikimedia/coral_billed_scimitar_babbler_1.jpg",
+      "public_id": "bird-gallery/coral_billed_scimitar_babbler/wikimedia/coral_billed_scimitar_babbler_1",
+      "width": 1280,
+      "height": 989,
+      "format": "jpg",
+      "bytes": 167572,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53562903783_fdf5cf1180_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171603/bird-gallery/coral_billed_scimitar_babbler/avibase/avibase_1_53562903783_fdf5cf1180_b.jpg",
+      "public_id": "bird-gallery/coral_billed_scimitar_babbler/avibase/avibase_1_53562903783_fdf5cf1180_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 170665,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53562903783",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

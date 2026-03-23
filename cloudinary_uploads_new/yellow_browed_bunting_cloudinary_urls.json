@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_browed_bunting",
+    "chinese_name": "黄眉鹀",
+    "english_name": "Yellow-browed Bunting",
+    "scientific_name": "Emberiza chrysophrys"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_browed_bunting_226385011.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172006/bird-gallery/yellow_browed_bunting/macaulay/yellow_browed_bunting_226385011.jpg",
+      "public_id": "bird-gallery/yellow_browed_bunting/macaulay/yellow_browed_bunting_226385011",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100079,
+      "attribution": {
+        "photographer": "Lefei Han",
+        "photographer_url": "https://macaulaylibrary.org/asset/226385011",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lefei Han; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "226385011",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_browed_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172009/bird-gallery/yellow_browed_bunting/inaturalist/yellow_browed_bunting_1.jpg",
+      "public_id": "bird-gallery/yellow_browed_bunting/inaturalist/yellow_browed_bunting_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 398901,
+      "attribution": {
+        "photographer": "seokinyang",
+        "photographer_url": "https://www.inaturalist.org/observations/116090249",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© seokinyang (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 116090249,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_9966095266_0a5e57d01d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172010/bird-gallery/yellow_browed_bunting/avibase/avibase_1_9966095266_0a5e57d01d_b.jpg",
+      "public_id": "bird-gallery/yellow_browed_bunting/avibase/avibase_1_9966095266_0a5e57d01d_b",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 99358,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "9966095266",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

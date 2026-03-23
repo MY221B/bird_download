@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "slavonian_grebe",
+    "chinese_name": "角䴙䴘",
+    "english_name": "Slavonian Grebe",
+    "scientific_name": "Podiceps auritus"
+  },
+  "macaulay": [
+    {
+      "original_file": "slavonian_grebe_45349051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171918/bird-gallery/slavonian_grebe/macaulay/slavonian_grebe_45349051.jpg",
+      "public_id": "bird-gallery/slavonian_grebe/macaulay/slavonian_grebe_45349051",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 179503,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/45349051",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "45349051",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slavonian_grebe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171919/bird-gallery/slavonian_grebe/inaturalist/slavonian_grebe_1.jpg",
+      "public_id": "bird-gallery/slavonian_grebe/inaturalist/slavonian_grebe_1",
+      "width": 1000,
+      "height": 603,
+      "format": "jpg",
+      "bytes": 108670,
+      "attribution": {
+        "photographer": "paulcools",
+        "photographer_url": "https://www.inaturalist.org/observations/43867141",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paulcools (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 43867141,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "slavonian_grebe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171920/bird-gallery/slavonian_grebe/wikimedia/slavonian_grebe_1.jpg",
+      "public_id": "bird-gallery/slavonian_grebe/wikimedia/slavonian_grebe_1",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 195741,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48046690907_dac20d86be_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171920/bird-gallery/slavonian_grebe/avibase/avibase_1_48046690907_dac20d86be_b.jpg",
+      "public_id": "bird-gallery/slavonian_grebe/avibase/avibase_1_48046690907_dac20d86be_b",
+      "width": 1024,
+      "height": 724,
+      "format": "jpg",
+      "bytes": 180933,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48046690907",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

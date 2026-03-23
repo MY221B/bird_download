@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_hill_myna",
+    "chinese_name": "鹩哥",
+    "english_name": "Common Hill Myna",
+    "scientific_name": "Gracula religiosa"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_hill_myna_33778751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171586/bird-gallery/common_hill_myna/macaulay/common_hill_myna_33778751.jpg",
+      "public_id": "bird-gallery/common_hill_myna/macaulay/common_hill_myna_33778751",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 100963,
+      "attribution": {
+        "photographer": "Mike Charest",
+        "photographer_url": "https://macaulaylibrary.org/asset/33778751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Mike Charest; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "33778751",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_hill_myna_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171587/bird-gallery/common_hill_myna/inaturalist/common_hill_myna_1.jpg",
+      "public_id": "bird-gallery/common_hill_myna/inaturalist/common_hill_myna_1",
+      "width": 1024,
+      "height": 783,
+      "format": "jpg",
+      "bytes": 141151,
+      "attribution": {
+        "photographer": "brent_isojima",
+        "photographer_url": "https://www.inaturalist.org/observations/134048000",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© brent_isojima (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 134048000,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_hill_myna_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171588/bird-gallery/common_hill_myna/wikimedia/common_hill_myna_1.jpg",
+      "public_id": "bird-gallery/common_hill_myna/wikimedia/common_hill_myna_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 226322,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54656158671_4f07f8ae16_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171589/bird-gallery/common_hill_myna/avibase/avibase_1_54656158671_4f07f8ae16_b.jpg",
+      "public_id": "bird-gallery/common_hill_myna/avibase/avibase_1_54656158671_4f07f8ae16_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 173785,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54656158671",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

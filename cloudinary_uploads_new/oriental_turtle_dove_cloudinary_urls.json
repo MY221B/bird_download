@@ -1,0 +1,86 @@
+{
+  "bird_info": {
+    "slug": "oriental_turtle_dove",
+    "chinese_name": "山斑鸠",
+    "english_name": "Oriental Turtle Dove",
+    "scientific_name": "Streptopelia orientalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_turtle_dove_234496911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171816/bird-gallery/oriental_turtle_dove/macaulay/oriental_turtle_dove_234496911.jpg",
+      "public_id": "bird-gallery/oriental_turtle_dove/macaulay/oriental_turtle_dove_234496911",
+      "width": 1200,
+      "height": 871,
+      "format": "jpg",
+      "bytes": 165220,
+      "attribution": {
+        "photographer": "Savithri Singh",
+        "photographer_url": "https://macaulaylibrary.org/asset/234496911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Oriental Turtle Dove by Savithri Singh; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "234496911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_turtle_dove_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171817/bird-gallery/oriental_turtle_dove/inaturalist/oriental_turtle_dove_1.jpg",
+      "public_id": "bird-gallery/oriental_turtle_dove/inaturalist/oriental_turtle_dove_1",
+      "width": 695,
+      "height": 521,
+      "format": "jpg",
+      "bytes": 131962,
+      "attribution": {
+        "source": "inaturalist",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "oriental_turtle_dove_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171818/bird-gallery/oriental_turtle_dove/wikimedia/oriental_turtle_dove_1.jpg",
+      "public_id": "bird-gallery/oriental_turtle_dove/wikimedia/oriental_turtle_dove_1",
+      "width": 1200,
+      "height": 901,
+      "format": "jpg",
+      "bytes": 256915,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53843849067_dcc36893ea_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171818/bird-gallery/oriental_turtle_dove/avibase/avibase_1_53843849067_dcc36893ea_b.jpg",
+      "public_id": "bird-gallery/oriental_turtle_dove/avibase/avibase_1_53843849067_dcc36893ea_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 103244,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://www.flickr.com/photo.gne?id=53843849067",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53843849067",
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

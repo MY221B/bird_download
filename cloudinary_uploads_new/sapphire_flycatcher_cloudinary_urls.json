@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "sapphire_flycatcher",
+    "chinese_name": "玉头姬鹟",
+    "english_name": "Sapphire Flycatcher",
+    "scientific_name": "Ficedula sapphira"
+  },
+  "macaulay": [
+    {
+      "original_file": "sapphire_flycatcher_358192121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171892/bird-gallery/sapphire_flycatcher/macaulay/sapphire_flycatcher_358192121.jpg",
+      "public_id": "bird-gallery/sapphire_flycatcher/macaulay/sapphire_flycatcher_358192121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 129797,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/358192121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "358192121",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sapphire_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171893/bird-gallery/sapphire_flycatcher/inaturalist/sapphire_flycatcher_1.jpg",
+      "public_id": "bird-gallery/sapphire_flycatcher/inaturalist/sapphire_flycatcher_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 176688,
+      "attribution": {
+        "photographer": "abhaykewat",
+        "photographer_url": "https://www.inaturalist.org/observations/4482666",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© abhaykewat (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 4482666,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "sapphire_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171894/bird-gallery/sapphire_flycatcher/wikimedia/sapphire_flycatcher_1.jpg",
+      "public_id": "bird-gallery/sapphire_flycatcher/wikimedia/sapphire_flycatcher_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 266901,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_31182809786_6180af8ba2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171895/bird-gallery/sapphire_flycatcher/avibase/avibase_1_31182809786_6180af8ba2_b.jpg",
+      "public_id": "bird-gallery/sapphire_flycatcher/avibase/avibase_1_31182809786_6180af8ba2_b",
+      "width": 1024,
+      "height": 663,
+      "format": "jpg",
+      "bytes": 88138,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "31182809786",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

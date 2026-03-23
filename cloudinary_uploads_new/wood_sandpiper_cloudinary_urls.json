@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "wood_sandpiper",
+    "chinese_name": "林鹬",
+    "english_name": "Wood Sandpiper",
+    "scientific_name": "Tringa glareola"
+  },
+  "macaulay": [
+    {
+      "original_file": "wood_sandpiper_206390991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172000/bird-gallery/wood_sandpiper/macaulay/wood_sandpiper_206390991.jpg",
+      "public_id": "bird-gallery/wood_sandpiper/macaulay/wood_sandpiper_206390991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73984,
+      "attribution": {
+        "photographer": "Marco Valentini",
+        "photographer_url": "https://macaulaylibrary.org/asset/206390991",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Marco Valentini; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "206390991",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "wood_sandpiper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172001/bird-gallery/wood_sandpiper/inaturalist/wood_sandpiper_1.jpg",
+      "public_id": "bird-gallery/wood_sandpiper/inaturalist/wood_sandpiper_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 166543,
+      "attribution": {
+        "photographer": "dhruvapunde",
+        "photographer_url": "https://www.inaturalist.org/observations/330112026",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 330112026,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "wood_sandpiper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172002/bird-gallery/wood_sandpiper/wikimedia/wood_sandpiper_1.jpg",
+      "public_id": "bird-gallery/wood_sandpiper/wikimedia/wood_sandpiper_1",
+      "width": 960,
+      "height": 1289,
+      "format": "jpg",
+      "bytes": 149876,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_53988290241_49291d8fcf_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172002/bird-gallery/wood_sandpiper/avibase/avibase_2_53988290241_49291d8fcf_b.jpg",
+      "public_id": "bird-gallery/wood_sandpiper/avibase/avibase_2_53988290241_49291d8fcf_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 174282,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53988290241",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

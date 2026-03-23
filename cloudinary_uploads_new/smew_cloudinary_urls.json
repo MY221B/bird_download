@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "smew",
+    "chinese_name": "斑头秋沙鸭",
+    "english_name": "Smew",
+    "scientific_name": "Mergellus albellus"
+  },
+  "macaulay": [
+    {
+      "original_file": "smew_251680751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171921/bird-gallery/smew/macaulay/smew_251680751.jpg",
+      "public_id": "bird-gallery/smew/macaulay/smew_251680751",
+      "width": 1200,
+      "height": 877,
+      "format": "jpg",
+      "bytes": 172800,
+      "attribution": {
+        "photographer": "Pascal De Munck",
+        "photographer_url": "https://macaulaylibrary.org/asset/251680751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pascal De Munck; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "251680751",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "smew_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171922/bird-gallery/smew/inaturalist/smew_1.jpg",
+      "public_id": "bird-gallery/smew/inaturalist/smew_1",
+      "width": 1024,
+      "height": 592,
+      "format": "jpg",
+      "bytes": 96074,
+      "attribution": {
+        "photographer": "wouterteunissen",
+        "photographer_url": "https://www.inaturalist.org/observations/71694330",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wouterteunissen (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 71694330,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "smew_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171923/bird-gallery/smew/wikimedia/smew_1.jpg",
+      "public_id": "bird-gallery/smew/wikimedia/smew_1",
+      "width": 960,
+      "height": 1273,
+      "format": "jpg",
+      "bytes": 258015,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52562986198_3e16b3da46_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171923/bird-gallery/smew/avibase/avibase_1_52562986198_3e16b3da46_b.jpg",
+      "public_id": "bird-gallery/smew/avibase/avibase_1_52562986198_3e16b3da46_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 41560,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52562986198",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

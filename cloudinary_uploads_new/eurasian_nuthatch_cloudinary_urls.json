@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "eurasian_nuthatch",
+    "chinese_name": "普通䴓",
+    "english_name": "Eurasian Nuthatch",
+    "scientific_name": "Sitta europaea"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_nuthatch_191209781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171630/bird-gallery/eurasian_nuthatch/macaulay/eurasian_nuthatch_191209781.jpg",
+      "public_id": "bird-gallery/eurasian_nuthatch/macaulay/eurasian_nuthatch_191209781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 185831,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/191209781",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "191209781",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_nuthatch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171630/bird-gallery/eurasian_nuthatch/inaturalist/eurasian_nuthatch_1.jpg",
+      "public_id": "bird-gallery/eurasian_nuthatch/inaturalist/eurasian_nuthatch_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 116979,
+      "attribution": {
+        "photographer": "tomegatherion",
+        "photographer_url": "https://www.inaturalist.org/observations/18627217",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tomegatherion (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18627217,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_nuthatch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171631/bird-gallery/eurasian_nuthatch/wikimedia/eurasian_nuthatch_1.jpg",
+      "public_id": "bird-gallery/eurasian_nuthatch/wikimedia/eurasian_nuthatch_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 155208,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53375158761_63059fed1d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171632/bird-gallery/eurasian_nuthatch/avibase/avibase_1_53375158761_63059fed1d_b.jpg",
+      "public_id": "bird-gallery/eurasian_nuthatch/avibase/avibase_1_53375158761_63059fed1d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 119581,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53375158761",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

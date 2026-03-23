@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_throated_bulbul",
+    "chinese_name": "黄腹冠鹎",
+    "english_name": "White-throated Bulbul",
+    "scientific_name": "Alophoixus flaveolus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_throated_bulbul_548971561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171993/bird-gallery/white_throated_bulbul/macaulay/white_throated_bulbul_548971561.jpg",
+      "public_id": "bird-gallery/white_throated_bulbul/macaulay/white_throated_bulbul_548971561",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 146784,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/548971561",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "548971561",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_throated_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171993/bird-gallery/white_throated_bulbul/inaturalist/white_throated_bulbul_1.jpg",
+      "public_id": "bird-gallery/white_throated_bulbul/inaturalist/white_throated_bulbul_1",
+      "width": 1024,
+      "height": 805,
+      "format": "jpg",
+      "bytes": 617604,
+      "attribution": {
+        "photographer": "karda",
+        "photographer_url": "https://www.inaturalist.org/observations/20774969",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© karda (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20774969,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53539148038_e3c14666f8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171995/bird-gallery/white_throated_bulbul/avibase/avibase_1_53539148038_e3c14666f8_b.jpg",
+      "public_id": "bird-gallery/white_throated_bulbul/avibase/avibase_1_53539148038_e3c14666f8_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 170917,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53539148038",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

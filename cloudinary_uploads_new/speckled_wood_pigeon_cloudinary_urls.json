@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "speckled_wood_pigeon",
+    "chinese_name": "斑林鸽",
+    "english_name": "Speckled Wood Pigeon",
+    "scientific_name": "Columba hodgsonii"
+  },
+  "macaulay": [
+    {
+      "original_file": "speckled_wood_pigeon_113383641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171924/bird-gallery/speckled_wood_pigeon/macaulay/speckled_wood_pigeon_113383641.jpg",
+      "public_id": "bird-gallery/speckled_wood_pigeon/macaulay/speckled_wood_pigeon_113383641",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 127353,
+      "attribution": {
+        "photographer": "Santanu Manna",
+        "photographer_url": "https://macaulaylibrary.org/asset/113383641",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Santanu Manna; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "113383641",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "speckled_wood_pigeon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171925/bird-gallery/speckled_wood_pigeon/inaturalist/speckled_wood_pigeon_1.jpg",
+      "public_id": "bird-gallery/speckled_wood_pigeon/inaturalist/speckled_wood_pigeon_1",
+      "width": 1024,
+      "height": 754,
+      "format": "jpg",
+      "bytes": 202390,
+      "attribution": {
+        "photographer": "rinzywangchuk",
+        "photographer_url": "https://www.inaturalist.org/observations/15879715",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rinzywangchuk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 15879715,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_16812924700_d412f20f4c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171926/bird-gallery/speckled_wood_pigeon/avibase/avibase_2_16812924700_d412f20f4c_b.jpg",
+      "public_id": "bird-gallery/speckled_wood_pigeon/avibase/avibase_2_16812924700_d412f20f4c_b",
+      "width": 1000,
+      "height": 615,
+      "format": "jpg",
+      "bytes": 331626,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16812924700",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

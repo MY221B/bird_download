@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "lesser_necklaced_laughingthrush",
+    "chinese_name": "小黑领噪鹛",
+    "english_name": "Lesser Necklaced Laughingthrush",
+    "scientific_name": "Garrulax monileger"
+  },
+  "macaulay": [
+    {
+      "original_file": "lesser_necklaced_laughingthrush_147470431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171747/bird-gallery/lesser_necklaced_laughingthrush/macaulay/lesser_necklaced_laughingthrush_147470431.jpg",
+      "public_id": "bird-gallery/lesser_necklaced_laughingthrush/macaulay/lesser_necklaced_laughingthrush_147470431",
+      "width": 1200,
+      "height": 840,
+      "format": "jpg",
+      "bytes": 277171,
+      "attribution": {
+        "photographer": "Tim Avery",
+        "photographer_url": "https://macaulaylibrary.org/asset/147470431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Tim Avery; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "147470431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "lesser_necklaced_laughingthrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171748/bird-gallery/lesser_necklaced_laughingthrush/inaturalist/lesser_necklaced_laughingthrush_2.jpg",
+      "public_id": "bird-gallery/lesser_necklaced_laughingthrush/inaturalist/lesser_necklaced_laughingthrush_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 761419,
+      "attribution": {
+        "photographer": "qin_huang",
+        "photographer_url": "https://www.inaturalist.org/observations/26157043",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© qin_huang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 26157043,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "lesser_necklaced_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171749/bird-gallery/lesser_necklaced_laughingthrush/wikimedia/lesser_necklaced_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/lesser_necklaced_laughingthrush/wikimedia/lesser_necklaced_laughingthrush_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 166337,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54311535983_c05e915ea6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171750/bird-gallery/lesser_necklaced_laughingthrush/avibase/avibase_1_54311535983_c05e915ea6_b.jpg",
+      "public_id": "bird-gallery/lesser_necklaced_laughingthrush/avibase/avibase_1_54311535983_c05e915ea6_b",
+      "width": 1024,
+      "height": 714,
+      "format": "jpg",
+      "bytes": 126854,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54311535983",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

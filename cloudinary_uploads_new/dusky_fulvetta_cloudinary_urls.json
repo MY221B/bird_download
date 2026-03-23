@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "dusky_fulvetta",
+    "chinese_name": "褐顶雀鹛",
+    "english_name": "Dusky Fulvetta",
+    "scientific_name": "Schoeniparus brunneus"
+  },
+  "macaulay": [
+    {
+      "original_file": "dusky_fulvetta_128684751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171617/bird-gallery/dusky_fulvetta/macaulay/dusky_fulvetta_128684751.jpg",
+      "public_id": "bird-gallery/dusky_fulvetta/macaulay/dusky_fulvetta_128684751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 237988,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/128684751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "128684751",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53675175916_6878d2f1a2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171618/bird-gallery/dusky_fulvetta/avibase/avibase_1_53675175916_6878d2f1a2_b.jpg",
+      "public_id": "bird-gallery/dusky_fulvetta/avibase/avibase_1_53675175916_6878d2f1a2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 218237,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53675175916",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

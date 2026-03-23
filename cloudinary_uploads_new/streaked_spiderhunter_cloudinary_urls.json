@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "streaked_spiderhunter",
+    "chinese_name": "纹背捕蛛鸟",
+    "english_name": "Streaked Spiderhunter",
+    "scientific_name": "Arachnothera magna"
+  },
+  "macaulay": [
+    {
+      "original_file": "streaked_spiderhunter_158462761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171937/bird-gallery/streaked_spiderhunter/macaulay/streaked_spiderhunter_158462761.jpg",
+      "public_id": "bird-gallery/streaked_spiderhunter/macaulay/streaked_spiderhunter_158462761",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 224381,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/158462761",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "158462761",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "streaked_spiderhunter_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171938/bird-gallery/streaked_spiderhunter/inaturalist/streaked_spiderhunter_1.jpg",
+      "public_id": "bird-gallery/streaked_spiderhunter/inaturalist/streaked_spiderhunter_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 245487,
+      "attribution": {
+        "photographer": "kyawlinhan",
+        "photographer_url": "https://www.inaturalist.org/observations/16622721",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kyawlinhan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 16622721,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_8754456430_bdcd74b2d9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171939/bird-gallery/streaked_spiderhunter/avibase/avibase_1_8754456430_bdcd74b2d9_b.jpg",
+      "public_id": "bird-gallery/streaked_spiderhunter/avibase/avibase_1_8754456430_bdcd74b2d9_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 171860,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8754456430",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

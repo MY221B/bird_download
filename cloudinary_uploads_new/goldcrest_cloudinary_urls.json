@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "goldcrest",
+    "chinese_name": "戴菊",
+    "english_name": "Goldcrest",
+    "scientific_name": "Regulus regulus"
+  },
+  "inaturalist": [
+    {
+      "original_file": "goldcrest_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171657/bird-gallery/goldcrest/inaturalist/goldcrest_1.jpg",
+      "public_id": "bird-gallery/goldcrest/inaturalist/goldcrest_1",
+      "width": 541,
+      "height": 541,
+      "format": "jpg",
+      "bytes": 100058,
+      "attribution": {
+        "photographer": "natali_sid",
+        "photographer_url": "https://www.inaturalist.org/observations/12748817",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© natali_sid (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 12748817,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48898930623_c1d5e832f7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171658/bird-gallery/goldcrest/avibase/avibase_1_48898930623_c1d5e832f7_b.jpg",
+      "public_id": "bird-gallery/goldcrest/avibase/avibase_1_48898930623_c1d5e832f7_b",
+      "width": 1023,
+      "height": 756,
+      "format": "jpg",
+      "bytes": 112294,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48898930623",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

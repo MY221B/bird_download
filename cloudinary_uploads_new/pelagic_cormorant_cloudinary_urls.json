@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "pelagic_cormorant",
+    "chinese_name": "海鸬鹚",
+    "english_name": "Pelagic Cormorant",
+    "scientific_name": "Phalacrocorax pelagicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "pelagic_cormorant_205999711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171827/bird-gallery/pelagic_cormorant/macaulay/pelagic_cormorant_205999711.jpg",
+      "public_id": "bird-gallery/pelagic_cormorant/macaulay/pelagic_cormorant_205999711",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 119657,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/205999711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205999711",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pelagic_cormorant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171828/bird-gallery/pelagic_cormorant/inaturalist/pelagic_cormorant_1.jpg",
+      "public_id": "bird-gallery/pelagic_cormorant/inaturalist/pelagic_cormorant_1",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 547347,
+      "attribution": {
+        "photographer": "antnat",
+        "photographer_url": "https://www.inaturalist.org/observations/107938966",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© antnat (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 107938966,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "pelagic_cormorant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171828/bird-gallery/pelagic_cormorant/wikimedia/pelagic_cormorant_1.jpg",
+      "public_id": "bird-gallery/pelagic_cormorant/wikimedia/pelagic_cormorant_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 91748,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_49189745243_888b885d57_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171829/bird-gallery/pelagic_cormorant/avibase/avibase_2_49189745243_888b885d57_b.jpg",
+      "public_id": "bird-gallery/pelagic_cormorant/avibase/avibase_2_49189745243_888b885d57_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 179682,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49189745243",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

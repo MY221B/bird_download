@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "mute_swan",
+    "chinese_name": "疣鼻天鹅",
+    "english_name": "Mute Swan",
+    "scientific_name": "Cygnus olor"
+  },
+  "macaulay": [
+    {
+      "original_file": "mute_swan_317306341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171789/bird-gallery/mute_swan/macaulay/mute_swan_317306341.jpg",
+      "public_id": "bird-gallery/mute_swan/macaulay/mute_swan_317306341",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99845,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/317306341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "317306341",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mute_swan_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171790/bird-gallery/mute_swan/inaturalist/mute_swan_1.jpg",
+      "public_id": "bird-gallery/mute_swan/inaturalist/mute_swan_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 509489,
+      "attribution": {
+        "photographer": "austin0201",
+        "photographer_url": "https://www.inaturalist.org/observations/9600979",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© austin0201 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 9600979,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "mute_swan_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171791/bird-gallery/mute_swan/wikimedia/mute_swan_1.jpg",
+      "public_id": "bird-gallery/mute_swan/wikimedia/mute_swan_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 197067,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50760794088_d3776fffbc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171792/bird-gallery/mute_swan/avibase/avibase_1_50760794088_d3776fffbc_b.jpg",
+      "public_id": "bird-gallery/mute_swan/avibase/avibase_1_50760794088_d3776fffbc_b",
+      "width": 1024,
+      "height": 699,
+      "format": "jpg",
+      "bytes": 153690,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50760794088",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

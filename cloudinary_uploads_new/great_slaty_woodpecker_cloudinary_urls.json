@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "great_slaty_woodpecker",
+    "chinese_name": "大灰啄木鸟",
+    "english_name": "Great Slaty Woodpecker",
+    "scientific_name": "Mulleripicus pulverulentus"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_slaty_woodpecker_31991471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171671/bird-gallery/great_slaty_woodpecker/macaulay/great_slaty_woodpecker_31991471.jpg",
+      "public_id": "bird-gallery/great_slaty_woodpecker/macaulay/great_slaty_woodpecker_31991471",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 224514,
+      "attribution": {
+        "photographer": "Rajesh Panwar",
+        "photographer_url": "https://macaulaylibrary.org/asset/31991471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rajesh Panwar; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "31991471",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "great_slaty_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171674/bird-gallery/great_slaty_woodpecker/inaturalist/great_slaty_woodpecker_1.jpg",
+      "public_id": "bird-gallery/great_slaty_woodpecker/inaturalist/great_slaty_woodpecker_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 771775,
+      "attribution": {
+        "photographer": "jsclough",
+        "photographer_url": "https://www.inaturalist.org/observations/40684224",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jsclough (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 40684224,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49638297646_b166061ac9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171675/bird-gallery/great_slaty_woodpecker/avibase/avibase_1_49638297646_b166061ac9_b.jpg",
+      "public_id": "bird-gallery/great_slaty_woodpecker/avibase/avibase_1_49638297646_b166061ac9_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 126578,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49638297646",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "black_breasted_thrush",
+    "chinese_name": "黑胸鸫",
+    "english_name": "Black-breasted Thrush",
+    "scientific_name": "Turdus dissimilis"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_breasted_thrush_443037261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171488/bird-gallery/black_breasted_thrush/macaulay/black_breasted_thrush_443037261.jpg",
+      "public_id": "bird-gallery/black_breasted_thrush/macaulay/black_breasted_thrush_443037261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 121269,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/443037261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "443037261",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_breasted_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171489/bird-gallery/black_breasted_thrush/inaturalist/black_breasted_thrush_1.jpg",
+      "public_id": "bird-gallery/black_breasted_thrush/inaturalist/black_breasted_thrush_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 553442,
+      "attribution": {
+        "photographer": "alanli",
+        "photographer_url": "https://www.inaturalist.org/observations/333840505",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alanli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 333840505,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_breasted_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171491/bird-gallery/black_breasted_thrush/wikimedia/black_breasted_thrush_1.jpg",
+      "public_id": "bird-gallery/black_breasted_thrush/wikimedia/black_breasted_thrush_1",
+      "width": 1280,
+      "height": 949,
+      "format": "jpg",
+      "bytes": 178716,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48046322023_b8cda4a700_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171492/bird-gallery/black_breasted_thrush/avibase/avibase_1_48046322023_b8cda4a700_b.jpg",
+      "public_id": "bird-gallery/black_breasted_thrush/avibase/avibase_1_48046322023_b8cda4a700_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 159054,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48046322023",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

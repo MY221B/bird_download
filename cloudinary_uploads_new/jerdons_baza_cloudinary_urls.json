@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "jerdons_baza",
+    "chinese_name": "褐冠鹃隼",
+    "english_name": "Jerdon's Baza",
+    "scientific_name": "Aviceda jerdoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "jerdons_baza_287664361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171736/bird-gallery/jerdons_baza/macaulay/jerdons_baza_287664361.jpg",
+      "public_id": "bird-gallery/jerdons_baza/macaulay/jerdons_baza_287664361",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 192562,
+      "attribution": {
+        "photographer": "Saravanan Krishnamurthy",
+        "photographer_url": "https://macaulaylibrary.org/asset/287664361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Saravanan Krishnamurthy; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "287664361",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "jerdons_baza_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171736/bird-gallery/jerdons_baza/inaturalist/jerdons_baza_1.jpg",
+      "public_id": "bird-gallery/jerdons_baza/inaturalist/jerdons_baza_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 378270,
+      "attribution": {
+        "photographer": "wildlifevagabond",
+        "photographer_url": "https://www.inaturalist.org/observations/163198821",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildlifevagabond (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 163198821,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "jerdons_baza_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171737/bird-gallery/jerdons_baza/wikimedia/jerdons_baza_1.jpg",
+      "public_id": "bird-gallery/jerdons_baza/wikimedia/jerdons_baza_1",
+      "width": 960,
+      "height": 1212,
+      "format": "jpg",
+      "bytes": 326834,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54961070923_38f030b71c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171738/bird-gallery/jerdons_baza/avibase/avibase_1_54961070923_38f030b71c_b.jpg",
+      "public_id": "bird-gallery/jerdons_baza/avibase/avibase_1_54961070923_38f030b71c_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 169842,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54961070923",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

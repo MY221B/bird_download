@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_rumped_munia",
+    "chinese_name": "白腰文鸟",
+    "english_name": "White-rumped Munia",
+    "scientific_name": "Lonchura striata"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_rumped_munia_255095411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171986/bird-gallery/white_rumped_munia/macaulay/white_rumped_munia_255095411.jpg",
+      "public_id": "bird-gallery/white_rumped_munia/macaulay/white_rumped_munia_255095411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 151326,
+      "attribution": {
+        "photographer": "Novelkumar M S",
+        "photographer_url": "https://macaulaylibrary.org/asset/255095411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Novelkumar M S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "255095411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_rumped_munia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171987/bird-gallery/white_rumped_munia/inaturalist/white_rumped_munia_1.jpg",
+      "public_id": "bird-gallery/white_rumped_munia/inaturalist/white_rumped_munia_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 325537,
+      "attribution": {
+        "photographer": "hokoonwong",
+        "photographer_url": "https://www.inaturalist.org/observations/11979518",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hokoonwong (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11979518,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_rumped_munia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171988/bird-gallery/white_rumped_munia/wikimedia/white_rumped_munia_1.jpg",
+      "public_id": "bird-gallery/white_rumped_munia/wikimedia/white_rumped_munia_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 361195,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_32588544940_61e1f03745_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171989/bird-gallery/white_rumped_munia/avibase/avibase_1_32588544940_61e1f03745_b.jpg",
+      "public_id": "bird-gallery/white_rumped_munia/avibase/avibase_1_32588544940_61e1f03745_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 158337,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32588544940",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

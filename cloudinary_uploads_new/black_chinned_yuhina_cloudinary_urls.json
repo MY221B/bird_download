@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "black_chinned_yuhina",
+    "chinese_name": "黑颏凤鹛",
+    "english_name": "Black-chinned Yuhina",
+    "scientific_name": "Yuhina nigrimenta"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_chinned_yuhina_206199401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171492/bird-gallery/black_chinned_yuhina/macaulay/black_chinned_yuhina_206199401.jpg",
+      "public_id": "bird-gallery/black_chinned_yuhina/macaulay/black_chinned_yuhina_206199401",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 113109,
+      "attribution": {
+        "photographer": "Frédéric PELSY",
+        "photographer_url": "https://macaulaylibrary.org/asset/206199401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Frédéric PELSY; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "206199401",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_chinned_yuhina_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171493/bird-gallery/black_chinned_yuhina/inaturalist/black_chinned_yuhina_1.jpg",
+      "public_id": "bird-gallery/black_chinned_yuhina/inaturalist/black_chinned_yuhina_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 269247,
+      "attribution": {
+        "photographer": "qin_huang",
+        "photographer_url": "https://www.inaturalist.org/observations/27151849",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© qin_huang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 27151849,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_chinned_yuhina_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171494/bird-gallery/black_chinned_yuhina/wikimedia/black_chinned_yuhina_1.jpg",
+      "public_id": "bird-gallery/black_chinned_yuhina/wikimedia/black_chinned_yuhina_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 198774,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_14005132519_ee005c78d8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171494/bird-gallery/black_chinned_yuhina/avibase/avibase_1_14005132519_ee005c78d8_b.jpg",
+      "public_id": "bird-gallery/black_chinned_yuhina/avibase/avibase_1_14005132519_ee005c78d8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 132310,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14005132519",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

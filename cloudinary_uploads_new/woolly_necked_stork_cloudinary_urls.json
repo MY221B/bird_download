@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "woolly_necked_stork",
+    "chinese_name": "白颈鹳",
+    "english_name": "Woolly-necked Stork",
+    "scientific_name": "Ciconia episcopus"
+  },
+  "macaulay": [
+    {
+      "original_file": "woolly_necked_stork_304464271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172000/bird-gallery/woolly_necked_stork/macaulay/woolly_necked_stork_304464271.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/macaulay/woolly_necked_stork_304464271",
+      "width": 1200,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 183347,
+      "attribution": {
+        "photographer": "Albin Jacob",
+        "photographer_url": "https://macaulaylibrary.org/asset/304464271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Albin Jacob; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "304464271",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "woolly_necked_stork_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172001/bird-gallery/woolly_necked_stork/inaturalist/woolly_necked_stork_1.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/inaturalist/woolly_necked_stork_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 408450,
+      "attribution": {
+        "photographer": "mika177",
+        "photographer_url": "https://www.inaturalist.org/observations/159248789",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mika177 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 159248789,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53436025025_e23fc905b9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172002/bird-gallery/woolly_necked_stork/avibase/avibase_1_53436025025_e23fc905b9_b.jpg",
+      "public_id": "bird-gallery/woolly_necked_stork/avibase/avibase_1_53436025025_e23fc905b9_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 376561,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53436025025",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

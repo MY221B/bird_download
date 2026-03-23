@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "hodgsons_frogmouth",
+    "chinese_name": "黑顶蛙口夜鹰",
+    "english_name": "Hodgson's Frogmouth",
+    "scientific_name": "Batrachostomus hodgsoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "hodgsons_frogmouth_459354171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171716/bird-gallery/hodgsons_frogmouth/macaulay/hodgsons_frogmouth_459354171.jpg",
+      "public_id": "bird-gallery/hodgsons_frogmouth/macaulay/hodgsons_frogmouth_459354171",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 224446,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/459354171",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "459354171",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hodgsons_frogmouth_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171717/bird-gallery/hodgsons_frogmouth/inaturalist/hodgsons_frogmouth_1.jpg",
+      "public_id": "bird-gallery/hodgsons_frogmouth/inaturalist/hodgsons_frogmouth_1",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 316890,
+      "attribution": {
+        "photographer": "lenachow",
+        "photographer_url": "https://www.inaturalist.org/observations/45877417",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lenachow (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 45877417,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "hodgsons_frogmouth_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171718/bird-gallery/hodgsons_frogmouth/wikimedia/hodgsons_frogmouth_1.jpg",
+      "public_id": "bird-gallery/hodgsons_frogmouth/wikimedia/hodgsons_frogmouth_1",
+      "width": 1280,
+      "height": 1430,
+      "format": "jpg",
+      "bytes": 278182,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53407358457_187a46ec7b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171720/bird-gallery/hodgsons_frogmouth/avibase/avibase_1_53407358457_187a46ec7b_b.jpg",
+      "public_id": "bird-gallery/hodgsons_frogmouth/avibase/avibase_1_53407358457_187a46ec7b_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 238002,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53407358457",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

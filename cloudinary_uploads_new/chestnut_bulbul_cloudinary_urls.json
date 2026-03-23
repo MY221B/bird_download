@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "chestnut_bulbul",
+    "chinese_name": "栗背短脚鹎",
+    "english_name": "Chestnut Bulbul",
+    "scientific_name": "Hemixos castanonotus"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_bulbul_395578331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171547/bird-gallery/chestnut_bulbul/macaulay/chestnut_bulbul_395578331.jpg",
+      "public_id": "bird-gallery/chestnut_bulbul/macaulay/chestnut_bulbul_395578331",
+      "width": 1200,
+      "height": 859,
+      "format": "jpg",
+      "bytes": 166257,
+      "attribution": {
+        "photographer": "Akshat K",
+        "photographer_url": "https://macaulaylibrary.org/asset/395578331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Akshat K; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "395578331",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171548/bird-gallery/chestnut_bulbul/inaturalist/chestnut_bulbul_1.jpg",
+      "public_id": "bird-gallery/chestnut_bulbul/inaturalist/chestnut_bulbul_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 789564,
+      "attribution": {
+        "photographer": "kelvinche",
+        "photographer_url": "https://www.inaturalist.org/observations/143727117",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kelvinche (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143727117,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "chestnut_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171549/bird-gallery/chestnut_bulbul/wikimedia/chestnut_bulbul_1.jpg",
+      "public_id": "bird-gallery/chestnut_bulbul/wikimedia/chestnut_bulbul_1",
+      "width": 1280,
+      "height": 1449,
+      "format": "jpg",
+      "bytes": 223697,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_7167671528_5d3d0efd4d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171550/bird-gallery/chestnut_bulbul/avibase/avibase_1_7167671528_5d3d0efd4d_b.jpg",
+      "public_id": "bird-gallery/chestnut_bulbul/avibase/avibase_1_7167671528_5d3d0efd4d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 56286,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "7167671528",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

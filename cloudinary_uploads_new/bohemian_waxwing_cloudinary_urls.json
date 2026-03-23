@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "bohemian_waxwing",
+    "chinese_name": "太平鸟",
+    "english_name": "Bohemian Waxwing",
+    "scientific_name": "Bombycilla garrulus"
+  },
+  "macaulay": [
+    {
+      "original_file": "bohemian_waxwing_134340871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171525/bird-gallery/bohemian_waxwing/macaulay/bohemian_waxwing_134340871.jpg",
+      "public_id": "bird-gallery/bohemian_waxwing/macaulay/bohemian_waxwing_134340871",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104151,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/134340871",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "134340871",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bohemian_waxwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171526/bird-gallery/bohemian_waxwing/inaturalist/bohemian_waxwing_1.jpg",
+      "public_id": "bird-gallery/bohemian_waxwing/inaturalist/bohemian_waxwing_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 279645,
+      "attribution": {
+        "photographer": "kyletansley",
+        "photographer_url": "https://www.inaturalist.org/observations/71266415",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kyletansley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 71266415,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "bohemian_waxwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171527/bird-gallery/bohemian_waxwing/wikimedia/bohemian_waxwing_1.jpg",
+      "public_id": "bird-gallery/bohemian_waxwing/wikimedia/bohemian_waxwing_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 264389,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_32302001378_6ff9375d7b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171528/bird-gallery/bohemian_waxwing/avibase/avibase_1_32302001378_6ff9375d7b_b.jpg",
+      "public_id": "bird-gallery/bohemian_waxwing/avibase/avibase_1_32302001378_6ff9375d7b_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 273467,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32302001378",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

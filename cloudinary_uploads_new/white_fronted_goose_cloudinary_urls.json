@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_fronted_goose",
+    "chinese_name": "白额雁",
+    "english_name": "White-fronted Goose",
+    "scientific_name": "Anser albifrons"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_fronted_goose_227962621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171982/bird-gallery/white_fronted_goose/macaulay/white_fronted_goose_227962621.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/macaulay/white_fronted_goose_227962621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 161934,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/227962621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "227962621",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_fronted_goose_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171983/bird-gallery/white_fronted_goose/inaturalist/white_fronted_goose_2.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/inaturalist/white_fronted_goose_2",
+      "width": 1024,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 225970,
+      "attribution": {
+        "photographer": "blevine",
+        "photographer_url": "https://www.inaturalist.org/observations/97884436",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© blevine (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 97884436,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_51063001776_f0b0007ccb_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171984/bird-gallery/white_fronted_goose/avibase/avibase_2_51063001776_f0b0007ccb_b.jpg",
+      "public_id": "bird-gallery/white_fronted_goose/avibase/avibase_2_51063001776_f0b0007ccb_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 308443,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51063001776",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "himalayan_cutia",
+    "chinese_name": "斑胁姬鹛",
+    "english_name": "Himalayan Cutia",
+    "scientific_name": "Cutia nipalensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "himalayan_cutia_176298171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171712/bird-gallery/himalayan_cutia/macaulay/himalayan_cutia_176298171.jpg",
+      "public_id": "bird-gallery/himalayan_cutia/macaulay/himalayan_cutia_176298171",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 144239,
+      "attribution": {
+        "photographer": "Shakti - Tribesmen.in",
+        "photographer_url": "https://macaulaylibrary.org/asset/176298171",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Shakti - Tribesmen.in; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "176298171",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "himalayan_cutia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171713/bird-gallery/himalayan_cutia/inaturalist/himalayan_cutia_1.jpg",
+      "public_id": "bird-gallery/himalayan_cutia/inaturalist/himalayan_cutia_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 673296,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/15753723",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 15753723,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "himalayan_cutia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171713/bird-gallery/himalayan_cutia/wikimedia/himalayan_cutia_1.jpg",
+      "public_id": "bird-gallery/himalayan_cutia/wikimedia/himalayan_cutia_1",
+      "width": 1280,
+      "height": 1598,
+      "format": "jpg",
+      "bytes": 635889,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_8493042130_65342e6970_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171714/bird-gallery/himalayan_cutia/avibase/avibase_3_8493042130_65342e6970_b.jpg",
+      "public_id": "bird-gallery/himalayan_cutia/avibase/avibase_3_8493042130_65342e6970_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 211976,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8493042130",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

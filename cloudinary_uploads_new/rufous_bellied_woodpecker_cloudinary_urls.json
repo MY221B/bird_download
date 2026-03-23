@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "rufous_bellied_woodpecker",
+    "chinese_name": "棕腹啄木鸟",
+    "english_name": "Rufous-bellied Woodpecker",
+    "scientific_name": "Dendrocopos hyperythrus"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_bellied_woodpecker_560051161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171880/bird-gallery/rufous_bellied_woodpecker/macaulay/rufous_bellied_woodpecker_560051161.jpg",
+      "public_id": "bird-gallery/rufous_bellied_woodpecker/macaulay/rufous_bellied_woodpecker_560051161",
+      "width": 1200,
+      "height": 852,
+      "format": "jpg",
+      "bytes": 243438,
+      "attribution": {
+        "photographer": "Rajkumar Das",
+        "photographer_url": "https://macaulaylibrary.org/asset/560051161",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rajkumar Das; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "560051161",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_bellied_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171881/bird-gallery/rufous_bellied_woodpecker/inaturalist/rufous_bellied_woodpecker_1.jpg",
+      "public_id": "bird-gallery/rufous_bellied_woodpecker/inaturalist/rufous_bellied_woodpecker_1",
+      "width": 900,
+      "height": 646,
+      "format": "jpg",
+      "bytes": 148376,
+      "attribution": {
+        "photographer": "iiukolov",
+        "photographer_url": "https://www.inaturalist.org/observations/95389986",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© iiukolov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 95389986,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "rufous_bellied_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171882/bird-gallery/rufous_bellied_woodpecker/wikimedia/rufous_bellied_woodpecker_1.jpg",
+      "public_id": "bird-gallery/rufous_bellied_woodpecker/wikimedia/rufous_bellied_woodpecker_1",
+      "width": 250,
+      "height": 375,
+      "format": "jpg",
+      "bytes": 35919,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54227606929_a76220514f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171883/bird-gallery/rufous_bellied_woodpecker/avibase/avibase_1_54227606929_a76220514f_b.jpg",
+      "public_id": "bird-gallery/rufous_bellied_woodpecker/avibase/avibase_1_54227606929_a76220514f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 154676,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54227606929",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

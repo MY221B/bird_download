@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "spotted_forktail",
+    "chinese_name": "斑背燕尾",
+    "english_name": "Spotted Forktail",
+    "scientific_name": "Enicurus maculatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "spotted_forktail_205131411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171930/bird-gallery/spotted_forktail/macaulay/spotted_forktail_205131411.jpg",
+      "public_id": "bird-gallery/spotted_forktail/macaulay/spotted_forktail_205131411",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 83317,
+      "attribution": {
+        "photographer": "Dubi Shapiro",
+        "photographer_url": "https://macaulaylibrary.org/asset/205131411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dubi Shapiro; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205131411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spotted_forktail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171931/bird-gallery/spotted_forktail/inaturalist/spotted_forktail_1.jpg",
+      "public_id": "bird-gallery/spotted_forktail/inaturalist/spotted_forktail_1",
+      "width": 1024,
+      "height": 869,
+      "format": "jpg",
+      "bytes": 648284,
+      "attribution": {
+        "photographer": "negi",
+        "photographer_url": "https://www.inaturalist.org/observations/113278423",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© negi (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 113278423,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_32735875488_61284983b4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171932/bird-gallery/spotted_forktail/avibase/avibase_1_32735875488_61284983b4_b.jpg",
+      "public_id": "bird-gallery/spotted_forktail/avibase/avibase_1_32735875488_61284983b4_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 213758,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32735875488",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

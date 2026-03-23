@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "puff_throated_babbler",
+    "chinese_name": "棕头幽鹛",
+    "english_name": "Puff-throated Babbler",
+    "scientific_name": "Pellorneum ruficeps"
+  },
+  "macaulay": [
+    {
+      "original_file": "puff_throated_babbler_143314281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171841/bird-gallery/puff_throated_babbler/macaulay/puff_throated_babbler_143314281.jpg",
+      "public_id": "bird-gallery/puff_throated_babbler/macaulay/puff_throated_babbler_143314281",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 133041,
+      "attribution": {
+        "photographer": "Rahul  Singh",
+        "photographer_url": "https://macaulaylibrary.org/asset/143314281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rahul  Singh; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "143314281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "puff_throated_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171842/bird-gallery/puff_throated_babbler/inaturalist/puff_throated_babbler_1.jpg",
+      "public_id": "bird-gallery/puff_throated_babbler/inaturalist/puff_throated_babbler_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 377533,
+      "attribution": {
+        "photographer": "chayantgonsalves",
+        "photographer_url": "https://www.inaturalist.org/observations/153529620",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© chayantgonsalves (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 153529620,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "puff_throated_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171843/bird-gallery/puff_throated_babbler/wikimedia/puff_throated_babbler_1.jpg",
+      "public_id": "bird-gallery/puff_throated_babbler/wikimedia/puff_throated_babbler_1",
+      "width": 1280,
+      "height": 852,
+      "format": "jpg",
+      "bytes": 183877,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_12206878706_4403b4e80c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171843/bird-gallery/puff_throated_babbler/avibase/avibase_1_12206878706_4403b4e80c_b.jpg",
+      "public_id": "bird-gallery/puff_throated_babbler/avibase/avibase_1_12206878706_4403b4e80c_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 134691,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "12206878706",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

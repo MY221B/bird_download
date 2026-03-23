@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "fork_tailed_swift",
+    "chinese_name": "白腰雨燕",
+    "english_name": "Fork-tailed Swift",
+    "scientific_name": "Apus pacificus"
+  },
+  "macaulay": [
+    {
+      "original_file": "fork_tailed_swift_486922771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171652/bird-gallery/fork_tailed_swift/macaulay/fork_tailed_swift_486922771.jpg",
+      "public_id": "bird-gallery/fork_tailed_swift/macaulay/fork_tailed_swift_486922771",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 48547,
+      "attribution": {
+        "photographer": "Zak Pohlen",
+        "photographer_url": "https://macaulaylibrary.org/asset/486922771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Zak Pohlen; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "486922771",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54348519149_3dacc45f46_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171653/bird-gallery/fork_tailed_swift/avibase/avibase_1_54348519149_3dacc45f46_b.jpg",
+      "public_id": "bird-gallery/fork_tailed_swift/avibase/avibase_1_54348519149_3dacc45f46_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 106336,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54348519149",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

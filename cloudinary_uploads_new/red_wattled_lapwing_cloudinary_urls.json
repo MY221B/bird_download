@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "red_wattled_lapwing",
+    "chinese_name": "肉垂麦鸡",
+    "english_name": "Red-wattled Lapwing",
+    "scientific_name": "Vanellus indicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_wattled_lapwing_126202811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171864/bird-gallery/red_wattled_lapwing/macaulay/red_wattled_lapwing_126202811.jpg",
+      "public_id": "bird-gallery/red_wattled_lapwing/macaulay/red_wattled_lapwing_126202811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 159383,
+      "attribution": {
+        "photographer": "Ramesh Desai",
+        "photographer_url": "https://macaulaylibrary.org/asset/126202811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ramesh Desai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "126202811",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_wattled_lapwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171865/bird-gallery/red_wattled_lapwing/inaturalist/red_wattled_lapwing_1.jpg",
+      "public_id": "bird-gallery/red_wattled_lapwing/inaturalist/red_wattled_lapwing_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 1112019,
+      "attribution": {
+        "photographer": "melodydashora",
+        "photographer_url": "https://www.inaturalist.org/observations/18897824",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© melodydashora (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18897824,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51397247419_6df39a9ce1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171866/bird-gallery/red_wattled_lapwing/avibase/avibase_1_51397247419_6df39a9ce1_b.jpg",
+      "public_id": "bird-gallery/red_wattled_lapwing/avibase/avibase_1_51397247419_6df39a9ce1_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 240242,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51397247419",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

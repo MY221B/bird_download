@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eurasian_siskin",
+    "chinese_name": "黄雀",
+    "english_name": "Eurasian Siskin",
+    "scientific_name": "Spinus spinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_siskin_220056541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171632/bird-gallery/eurasian_siskin/macaulay/eurasian_siskin_220056541.jpg",
+      "public_id": "bird-gallery/eurasian_siskin/macaulay/eurasian_siskin_220056541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81896,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/220056541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "220056541",
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_siskin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171633/bird-gallery/eurasian_siskin/wikimedia/eurasian_siskin_1.jpg",
+      "public_id": "bird-gallery/eurasian_siskin/wikimedia/eurasian_siskin_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 181591,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51892452358_1d8aa96dfc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171633/bird-gallery/eurasian_siskin/avibase/avibase_1_51892452358_1d8aa96dfc_b.jpg",
+      "public_id": "bird-gallery/eurasian_siskin/avibase/avibase_1_51892452358_1d8aa96dfc_b",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 139043,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51892452358",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

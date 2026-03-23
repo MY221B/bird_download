@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "saker_falcon",
+    "chinese_name": "猎隼",
+    "english_name": "Saker Falcon",
+    "scientific_name": "Falco cherrug"
+  },
+  "macaulay": [
+    {
+      "original_file": "saker_falcon_430760321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171890/bird-gallery/saker_falcon/macaulay/saker_falcon_430760321.jpg",
+      "public_id": "bird-gallery/saker_falcon/macaulay/saker_falcon_430760321",
+      "width": 1200,
+      "height": 879,
+      "format": "jpg",
+      "bytes": 99777,
+      "attribution": {
+        "photographer": "Pavel Štěpánek",
+        "photographer_url": "https://macaulaylibrary.org/asset/430760321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pavel Štěpánek; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "430760321",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "saker_falcon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171891/bird-gallery/saker_falcon/inaturalist/saker_falcon_1.jpg",
+      "public_id": "bird-gallery/saker_falcon/inaturalist/saker_falcon_1",
+      "width": 831,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 294762,
+      "attribution": {
+        "photographer": "pnicolau",
+        "photographer_url": "https://www.inaturalist.org/observations/291069807",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pnicolau (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 291069807,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_51197103621_690ebfbe51_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171893/bird-gallery/saker_falcon/avibase/avibase_2_51197103621_690ebfbe51_b.jpg",
+      "public_id": "bird-gallery/saker_falcon/avibase/avibase_2_51197103621_690ebfbe51_b",
+      "width": 751,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 74297,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51197103621",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

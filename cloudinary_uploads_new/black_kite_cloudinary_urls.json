@@ -1,0 +1,90 @@
+{
+  "bird_info": {
+    "slug": "black_kite",
+    "chinese_name": "黑鸢"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_kite_470138931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171500/bird-gallery/black_kite/macaulay/black_kite_470138931.jpg",
+      "public_id": "bird-gallery/black_kite/macaulay/black_kite_470138931",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 70905,
+      "attribution": {
+        "photographer": "Brett Mezen",
+        "photographer_url": "https://macaulaylibrary.org/asset/470138931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Brett Mezen; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "470138931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_kite_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171501/bird-gallery/black_kite/inaturalist/black_kite_1.jpg",
+      "public_id": "bird-gallery/black_kite/inaturalist/black_kite_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 558128,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_kite_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171502/bird-gallery/black_kite/wikimedia/black_kite_1.jpg",
+      "public_id": "bird-gallery/black_kite/wikimedia/black_kite_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 210806,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_49698841298_ce7697ef96_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171503/bird-gallery/black_kite/avibase/avibase_2_49698841298_ce7697ef96_b.jpg",
+      "public_id": "bird-gallery/black_kite/avibase/avibase_2_49698841298_ce7697ef96_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 364097,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "short_eared_owl",
+    "chinese_name": "短耳鸮",
+    "english_name": "Short-eared Owl",
+    "scientific_name": "Asio flammeus"
+  },
+  "macaulay": [
+    {
+      "original_file": "short_eared_owl_392828931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171902/bird-gallery/short_eared_owl/macaulay/short_eared_owl_392828931.jpg",
+      "public_id": "bird-gallery/short_eared_owl/macaulay/short_eared_owl_392828931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 143691,
+      "attribution": {
+        "photographer": "Beth Phillips",
+        "photographer_url": "https://macaulaylibrary.org/asset/392828931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Beth Phillips; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "392828931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "short_eared_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171903/bird-gallery/short_eared_owl/inaturalist/short_eared_owl_1.jpg",
+      "public_id": "bird-gallery/short_eared_owl/inaturalist/short_eared_owl_1",
+      "width": 780,
+      "height": 798,
+      "format": "jpg",
+      "bytes": 621258,
+      "attribution": {
+        "photographer": "anneliesemak",
+        "photographer_url": "https://www.inaturalist.org/observations/193552701",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© anneliesemak (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 193552701,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "short_eared_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171904/bird-gallery/short_eared_owl/wikimedia/short_eared_owl_1.jpg",
+      "public_id": "bird-gallery/short_eared_owl/wikimedia/short_eared_owl_1",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 157271,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_53234139681_d650c991be_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171905/bird-gallery/short_eared_owl/avibase/avibase_3_53234139681_d650c991be_b.jpg",
+      "public_id": "bird-gallery/short_eared_owl/avibase/avibase_3_53234139681_d650c991be_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67799,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53234139681",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

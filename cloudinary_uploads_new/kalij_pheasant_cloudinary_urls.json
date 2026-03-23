@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "kalij_pheasant",
+    "chinese_name": "黑鹇",
+    "english_name": "Kalij Pheasant",
+    "scientific_name": "Lophura leucomelanos"
+  },
+  "macaulay": [
+    {
+      "original_file": "kalij_pheasant_549395521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171736/bird-gallery/kalij_pheasant/macaulay/kalij_pheasant_549395521.jpg",
+      "public_id": "bird-gallery/kalij_pheasant/macaulay/kalij_pheasant_549395521",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 207573,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/549395521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "549395521",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "kalij_pheasant_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171737/bird-gallery/kalij_pheasant/inaturalist/kalij_pheasant_2.jpg",
+      "public_id": "bird-gallery/kalij_pheasant/inaturalist/kalij_pheasant_2",
+      "width": 1000,
+      "height": 816,
+      "format": "jpg",
+      "bytes": 183603,
+      "attribution": {
+        "photographer": "avocat",
+        "photographer_url": "https://www.inaturalist.org/observations/158892775",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© avocat (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 158892775,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "kalij_pheasant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171738/bird-gallery/kalij_pheasant/wikimedia/kalij_pheasant_1.jpg",
+      "public_id": "bird-gallery/kalij_pheasant/wikimedia/kalij_pheasant_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 259320,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_15687840698_538ee395ed_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171738/bird-gallery/kalij_pheasant/avibase/avibase_1_15687840698_538ee395ed_b.jpg",
+      "public_id": "bird-gallery/kalij_pheasant/avibase/avibase_1_15687840698_538ee395ed_b",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 122034,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15687840698",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

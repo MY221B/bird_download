@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "cinereous_vulture",
+    "chinese_name": "秃鹫",
+    "english_name": "Cinereous Vulture",
+    "scientific_name": "Aegypius monachus"
+  },
+  "macaulay": [
+    {
+      "original_file": "cinereous_vulture_214804671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171568/bird-gallery/cinereous_vulture/macaulay/cinereous_vulture_214804671.jpg",
+      "public_id": "bird-gallery/cinereous_vulture/macaulay/cinereous_vulture_214804671",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 225017,
+      "attribution": {
+        "photographer": "Pavel Štěpánek",
+        "photographer_url": "https://macaulaylibrary.org/asset/214804671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pavel Štěpánek; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "214804671",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "cinereous_vulture_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171570/bird-gallery/cinereous_vulture/inaturalist/cinereous_vulture_1.jpg",
+      "public_id": "bird-gallery/cinereous_vulture/inaturalist/cinereous_vulture_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 517810,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/289783327",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 289783327,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54776641512_a9a0ea9235_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171571/bird-gallery/cinereous_vulture/avibase/avibase_1_54776641512_a9a0ea9235_b.jpg",
+      "public_id": "bird-gallery/cinereous_vulture/avibase/avibase_1_54776641512_a9a0ea9235_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 219470,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54776641512",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

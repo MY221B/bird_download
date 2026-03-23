@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "eurasian_sparrow_hawk",
+    "chinese_name": "雀鹰",
+    "english_name": "Eurasian Sparrow Hawk",
+    "scientific_name": "Accipiter nisus"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_sparrow_hawk_415375861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171633/bird-gallery/eurasian_sparrow_hawk/macaulay/eurasian_sparrow_hawk_415375861.jpg",
+      "public_id": "bird-gallery/eurasian_sparrow_hawk/macaulay/eurasian_sparrow_hawk_415375861",
+      "width": 1200,
+      "height": 807,
+      "format": "jpg",
+      "bytes": 89182,
+      "attribution": {
+        "photographer": "Javier Train",
+        "photographer_url": "https://macaulaylibrary.org/asset/415375861",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Javier Train; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "415375861",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_sparrow_hawk_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171633/bird-gallery/eurasian_sparrow_hawk/inaturalist/eurasian_sparrow_hawk_1.jpg",
+      "public_id": "bird-gallery/eurasian_sparrow_hawk/inaturalist/eurasian_sparrow_hawk_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 720228,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_sparrow_hawk_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171634/bird-gallery/eurasian_sparrow_hawk/wikimedia/eurasian_sparrow_hawk_1.jpg",
+      "public_id": "bird-gallery/eurasian_sparrow_hawk/wikimedia/eurasian_sparrow_hawk_1",
+      "width": 960,
+      "height": 1428,
+      "format": "jpg",
+      "bytes": 223254,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48788119592_8c198f15c0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171635/bird-gallery/eurasian_sparrow_hawk/avibase/avibase_1_48788119592_8c198f15c0_b.jpg",
+      "public_id": "bird-gallery/eurasian_sparrow_hawk/avibase/avibase_1_48788119592_8c198f15c0_b",
+      "width": 533,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 148438,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

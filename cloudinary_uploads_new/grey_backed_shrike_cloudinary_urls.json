@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_backed_shrike",
+    "chinese_name": "灰背伯劳",
+    "english_name": "Grey-backed Shrike",
+    "scientific_name": "Lanius tephronotus"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_backed_shrike_208514131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171687/bird-gallery/grey_backed_shrike/macaulay/grey_backed_shrike_208514131.jpg",
+      "public_id": "bird-gallery/grey_backed_shrike/macaulay/grey_backed_shrike_208514131",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 107116,
+      "attribution": {
+        "photographer": "Ian Hearn",
+        "photographer_url": "https://macaulaylibrary.org/asset/208514131",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Hearn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "208514131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_backed_shrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171688/bird-gallery/grey_backed_shrike/inaturalist/grey_backed_shrike_2.jpg",
+      "public_id": "bird-gallery/grey_backed_shrike/inaturalist/grey_backed_shrike_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 327441,
+      "attribution": {
+        "photographer": "supratimdeb",
+        "photographer_url": "https://www.inaturalist.org/observations/331196183",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© supratimdeb (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 331196183,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_8626752685_63bf38bdb9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171689/bird-gallery/grey_backed_shrike/avibase/avibase_1_8626752685_63bf38bdb9_b.jpg",
+      "public_id": "bird-gallery/grey_backed_shrike/avibase/avibase_1_8626752685_63bf38bdb9_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 192795,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8626752685",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

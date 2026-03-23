@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pallass_gull",
+    "chinese_name": "渔鸥",
+    "english_name": "Pallas's Gull",
+    "scientific_name": "Ichthyaetus ichthyaetus"
+  },
+  "macaulay": [
+    {
+      "original_file": "pallass_gull_205090381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171824/bird-gallery/pallass_gull/macaulay/pallass_gull_205090381.jpg",
+      "public_id": "bird-gallery/pallass_gull/macaulay/pallass_gull_205090381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 136592,
+      "attribution": {
+        "photographer": "Daniel Pettersson",
+        "photographer_url": "https://macaulaylibrary.org/asset/205090381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Daniel Pettersson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205090381",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pallass_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171825/bird-gallery/pallass_gull/inaturalist/pallass_gull_1.jpg",
+      "public_id": "bird-gallery/pallass_gull/inaturalist/pallass_gull_1",
+      "width": 473,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 206607,
+      "attribution": {
+        "photographer": "richfisc",
+        "photographer_url": "https://www.inaturalist.org/observations/124161384",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richfisc (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 124161384,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49687861677_0e3373d4f2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171826/bird-gallery/pallass_gull/avibase/avibase_1_49687861677_0e3373d4f2_b.jpg",
+      "public_id": "bird-gallery/pallass_gull/avibase/avibase_1_49687861677_0e3373d4f2_b",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 84346,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49687861677",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

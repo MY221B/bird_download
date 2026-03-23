@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_headed_lapwing",
+    "chinese_name": "灰头麦鸡",
+    "english_name": "Grey-headed Lapwing",
+    "scientific_name": "Vanellus cinereus"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_headed_lapwing_112742371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171697/bird-gallery/grey_headed_lapwing/macaulay/grey_headed_lapwing_112742371.jpg",
+      "public_id": "bird-gallery/grey_headed_lapwing/macaulay/grey_headed_lapwing_112742371",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 176026,
+      "attribution": {
+        "photographer": "Ákos  Lumnitzer",
+        "photographer_url": "https://macaulaylibrary.org/asset/112742371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ákos  Lumnitzer; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "112742371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_headed_lapwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171697/bird-gallery/grey_headed_lapwing/inaturalist/grey_headed_lapwing_1.jpg",
+      "public_id": "bird-gallery/grey_headed_lapwing/inaturalist/grey_headed_lapwing_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 933232,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/186137328",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 186137328,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_21854929108_a63121843b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171698/bird-gallery/grey_headed_lapwing/avibase/avibase_2_21854929108_a63121843b_b.jpg",
+      "public_id": "bird-gallery/grey_headed_lapwing/avibase/avibase_2_21854929108_a63121843b_b",
+      "width": 1024,
+      "height": 794,
+      "format": "jpg",
+      "bytes": 385729,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "21854929108",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eyebrowed_thrush",
+    "chinese_name": "白眉鸫",
+    "english_name": "Eyebrowed Thrush",
+    "scientific_name": "Turdus obscurus"
+  },
+  "macaulay": [
+    {
+      "original_file": "eyebrowed_thrush_198435061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171641/bird-gallery/eyebrowed_thrush/macaulay/eyebrowed_thrush_198435061.jpg",
+      "public_id": "bird-gallery/eyebrowed_thrush/macaulay/eyebrowed_thrush_198435061",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 181411,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/198435061",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "198435061",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eyebrowed_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171641/bird-gallery/eyebrowed_thrush/inaturalist/eyebrowed_thrush_1.jpg",
+      "public_id": "bird-gallery/eyebrowed_thrush/inaturalist/eyebrowed_thrush_1",
+      "width": 1024,
+      "height": 759,
+      "format": "jpg",
+      "bytes": 602692,
+      "attribution": {
+        "photographer": "alamseus",
+        "photographer_url": "https://www.inaturalist.org/observations/288129353",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alamseus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 288129353,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_15997537149_b0903afb54_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171643/bird-gallery/eyebrowed_thrush/avibase/avibase_1_15997537149_b0903afb54_b.jpg",
+      "public_id": "bird-gallery/eyebrowed_thrush/avibase/avibase_1_15997537149_b0903afb54_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 173913,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15997537149",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "daurian_redstart",
+    "chinese_name": "北红尾鸲",
+    "english_name": "Daurian Redstart",
+    "scientific_name": "Phoenicurus auroreus"
+  },
+  "macaulay": [
+    {
+      "original_file": "daurian_redstart_388744171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171614/bird-gallery/daurian_redstart/macaulay/daurian_redstart_388744171.jpg",
+      "public_id": "bird-gallery/daurian_redstart/macaulay/daurian_redstart_388744171",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 138047,
+      "attribution": {
+        "photographer": "Saku Saku",
+        "photographer_url": "https://macaulaylibrary.org/asset/388744171",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Saku Saku; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "388744171",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "daurian_redstart_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171615/bird-gallery/daurian_redstart/inaturalist/daurian_redstart_1.jpg",
+      "public_id": "bird-gallery/daurian_redstart/inaturalist/daurian_redstart_1",
+      "width": 1024,
+      "height": 634,
+      "format": "jpg",
+      "bytes": 371349,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "daurian_redstart_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171616/bird-gallery/daurian_redstart/wikimedia/daurian_redstart_1.jpg",
+      "public_id": "bird-gallery/daurian_redstart/wikimedia/daurian_redstart_1",
+      "width": 1200,
+      "height": 943,
+      "format": "jpg",
+      "bytes": 215801,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

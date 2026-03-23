@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "green_backed_tit",
+    "chinese_name": "绿背山雀",
+    "english_name": "Green-backed Tit",
+    "scientific_name": "Parus monticolus"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_backed_tit_204284391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171683/bird-gallery/green_backed_tit/macaulay/green_backed_tit_204284391.jpg",
+      "public_id": "bird-gallery/green_backed_tit/macaulay/green_backed_tit_204284391",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97883,
+      "attribution": {
+        "photographer": "Holger Teichmann",
+        "photographer_url": "https://macaulaylibrary.org/asset/204284391",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Holger Teichmann; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204284391",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_backed_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171684/bird-gallery/green_backed_tit/inaturalist/green_backed_tit_1.jpg",
+      "public_id": "bird-gallery/green_backed_tit/inaturalist/green_backed_tit_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 266311,
+      "attribution": {
+        "photographer": "yu-chen",
+        "photographer_url": "https://www.inaturalist.org/observations/271434322",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© yu-chen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 271434322,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53847807611_34cc28d1dc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171685/bird-gallery/green_backed_tit/avibase/avibase_1_53847807611_34cc28d1dc_b.jpg",
+      "public_id": "bird-gallery/green_backed_tit/avibase/avibase_1_53847807611_34cc28d1dc_b",
+      "width": 1024,
+      "height": 699,
+      "format": "jpg",
+      "bytes": 274408,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53847807611",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

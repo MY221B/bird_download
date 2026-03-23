@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "striated_bulbul",
+    "chinese_name": "纵纹绿鹎",
+    "english_name": "Striated Bulbul",
+    "scientific_name": "Alcurus striatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "striated_bulbul_408056831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171939/bird-gallery/striated_bulbul/macaulay/striated_bulbul_408056831.jpg",
+      "public_id": "bird-gallery/striated_bulbul/macaulay/striated_bulbul_408056831",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 138125,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/408056831",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "408056831",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "striated_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171940/bird-gallery/striated_bulbul/inaturalist/striated_bulbul_1.jpg",
+      "public_id": "bird-gallery/striated_bulbul/inaturalist/striated_bulbul_1",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70124,
+      "attribution": {
+        "photographer": "tremarctos",
+        "photographer_url": "https://www.inaturalist.org/observations/5956329",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tremarctos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 5956329,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54522878176_bf83812fa4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171941/bird-gallery/striated_bulbul/avibase/avibase_1_54522878176_bf83812fa4_b.jpg",
+      "public_id": "bird-gallery/striated_bulbul/avibase/avibase_1_54522878176_bf83812fa4_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 121234,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54522878176",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "brown_dipper",
+    "chinese_name": "褐河乌",
+    "english_name": "Brown Dipper",
+    "scientific_name": "Cinclus pallasii"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_dipper_386907321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171536/bird-gallery/brown_dipper/macaulay/brown_dipper_386907321.jpg",
+      "public_id": "bird-gallery/brown_dipper/macaulay/brown_dipper_386907321",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 152560,
+      "attribution": {
+        "photographer": "Saku Saku",
+        "photographer_url": "https://macaulaylibrary.org/asset/386907321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Saku Saku; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "386907321",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_dipper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171537/bird-gallery/brown_dipper/inaturalist/brown_dipper_1.jpg",
+      "public_id": "bird-gallery/brown_dipper/inaturalist/brown_dipper_1",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 146627,
+      "attribution": {
+        "photographer": "gennadiy_dyakin",
+        "photographer_url": "https://www.inaturalist.org/observations/276655319",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gennadiy_dyakin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 276655319,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52327655560_e19f42f913_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171538/bird-gallery/brown_dipper/avibase/avibase_1_52327655560_e19f42f913_b.jpg",
+      "public_id": "bird-gallery/brown_dipper/avibase/avibase_1_52327655560_e19f42f913_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 131729,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52327655560",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

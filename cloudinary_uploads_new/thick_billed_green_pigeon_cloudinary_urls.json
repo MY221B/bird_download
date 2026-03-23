@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "thick_billed_green_pigeon",
+    "chinese_name": "厚嘴绿鸠",
+    "english_name": "Thick-billed Green Pigeon",
+    "scientific_name": "Treron curvirostra"
+  },
+  "macaulay": [
+    {
+      "original_file": "thick_billed_green_pigeon_589687471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171948/bird-gallery/thick_billed_green_pigeon/macaulay/thick_billed_green_pigeon_589687471.jpg",
+      "public_id": "bird-gallery/thick_billed_green_pigeon/macaulay/thick_billed_green_pigeon_589687471",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 178242,
+      "attribution": {
+        "photographer": "Sam Hambly",
+        "photographer_url": "https://macaulaylibrary.org/asset/589687471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sam Hambly; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "589687471",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "thick_billed_green_pigeon_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171949/bird-gallery/thick_billed_green_pigeon/inaturalist/thick_billed_green_pigeon_3.jpg",
+      "public_id": "bird-gallery/thick_billed_green_pigeon/inaturalist/thick_billed_green_pigeon_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 552177,
+      "attribution": {
+        "photographer": "carol_kwok",
+        "photographer_url": "https://www.inaturalist.org/observations/105038745",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© carol_kwok (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 105038745,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_5965486983_6bef585d7a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171950/bird-gallery/thick_billed_green_pigeon/avibase/avibase_1_5965486983_6bef585d7a_b.jpg",
+      "public_id": "bird-gallery/thick_billed_green_pigeon/avibase/avibase_1_5965486983_6bef585d7a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115931,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "5965486983",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

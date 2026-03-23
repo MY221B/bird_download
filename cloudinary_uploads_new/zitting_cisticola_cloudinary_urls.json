@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "zitting_cisticola",
+    "chinese_name": "棕扇尾莺",
+    "english_name": "Zitting Cisticola",
+    "scientific_name": "Cisticola juncidis"
+  },
+  "macaulay": [
+    {
+      "original_file": "zitting_cisticola_238790031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172014/bird-gallery/zitting_cisticola/macaulay/zitting_cisticola_238790031.jpg",
+      "public_id": "bird-gallery/zitting_cisticola/macaulay/zitting_cisticola_238790031",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 136786,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/238790031",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "238790031",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "zitting_cisticola_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172015/bird-gallery/zitting_cisticola/inaturalist/zitting_cisticola_3.jpg",
+      "public_id": "bird-gallery/zitting_cisticola/inaturalist/zitting_cisticola_3",
+      "width": 698,
+      "height": 459,
+      "format": "jpg",
+      "bytes": 86910,
+      "attribution": {
+        "photographer": "karimhaddad",
+        "photographer_url": "https://www.inaturalist.org/observations/33155499",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© karimhaddad (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 33155499,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "zitting_cisticola_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172016/bird-gallery/zitting_cisticola/wikimedia/zitting_cisticola_1.jpg",
+      "public_id": "bird-gallery/zitting_cisticola/wikimedia/zitting_cisticola_1",
+      "width": 1280,
+      "height": 968,
+      "format": "jpg",
+      "bytes": 151756,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52129209456_4f20c8bbf7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172016/bird-gallery/zitting_cisticola/avibase/avibase_1_52129209456_4f20c8bbf7_b.jpg",
+      "public_id": "bird-gallery/zitting_cisticola/avibase/avibase_1_52129209456_4f20c8bbf7_b",
+      "width": 1024,
+      "height": 639,
+      "format": "jpg",
+      "bytes": 184863,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52129209456",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

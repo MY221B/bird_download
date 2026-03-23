@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "godlewskis_bunting",
+    "chinese_name": "灰眉岩鹀",
+    "english_name": "Godlewski's Bunting",
+    "scientific_name": "Emberiza godlewskii"
+  },
+  "macaulay": [
+    {
+      "original_file": "godlewskis_bunting_270329451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171657/bird-gallery/godlewskis_bunting/macaulay/godlewskis_bunting_270329451.jpg",
+      "public_id": "bird-gallery/godlewskis_bunting/macaulay/godlewskis_bunting_270329451",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 131750,
+      "attribution": {
+        "photographer": "David Irving",
+        "photographer_url": "https://macaulaylibrary.org/asset/270329451",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Irving; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "270329451",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "godlewskis_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171658/bird-gallery/godlewskis_bunting/inaturalist/godlewskis_bunting_1.jpg",
+      "public_id": "bird-gallery/godlewskis_bunting/inaturalist/godlewskis_bunting_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 469687,
+      "attribution": {
+        "photographer": "vladimir_kulikov",
+        "photographer_url": "https://www.inaturalist.org/observations/257691235",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vladimir_kulikov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 257691235,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "godlewskis_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171659/bird-gallery/godlewskis_bunting/wikimedia/godlewskis_bunting_1.jpg",
+      "public_id": "bird-gallery/godlewskis_bunting/wikimedia/godlewskis_bunting_1",
+      "width": 1200,
+      "height": 743,
+      "format": "jpg",
+      "bytes": 193895,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_7412424368_c5908a24a2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171660/bird-gallery/godlewskis_bunting/avibase/avibase_1_7412424368_c5908a24a2_b.jpg",
+      "public_id": "bird-gallery/godlewskis_bunting/avibase/avibase_1_7412424368_c5908a24a2_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 370858,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "7412424368",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

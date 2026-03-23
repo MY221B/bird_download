@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "coal_tit",
+    "chinese_name": "煤山雀",
+    "english_name": "Coal Tit",
+    "scientific_name": "Periparus ater"
+  },
+  "macaulay": [
+    {
+      "original_file": "coal_tit_545777251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171572/bird-gallery/coal_tit/macaulay/coal_tit_545777251.jpg",
+      "public_id": "bird-gallery/coal_tit/macaulay/coal_tit_545777251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91261,
+      "attribution": {
+        "photographer": "Łukasz Haluch",
+        "photographer_url": "https://macaulaylibrary.org/asset/545777251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Łukasz Haluch; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "545777251",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "coal_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171572/bird-gallery/coal_tit/inaturalist/coal_tit_3.jpg",
+      "public_id": "bird-gallery/coal_tit/inaturalist/coal_tit_3",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 420315,
+      "attribution": {
+        "photographer": "igorderevskov",
+        "photographer_url": "https://www.inaturalist.org/observations/197392522",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© igorderevskov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197392522,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49736094647_5038254422_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171574/bird-gallery/coal_tit/avibase/avibase_1_49736094647_5038254422_b.jpg",
+      "public_id": "bird-gallery/coal_tit/avibase/avibase_1_49736094647_5038254422_b",
+      "width": 1024,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 110060,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49736094647",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

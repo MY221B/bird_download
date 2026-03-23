@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "asian_brown_flycatcher",
+    "chinese_name": "北灰鹟",
+    "english_name": "Asian Brown Flycatcher",
+    "scientific_name": "Muscicapa dauurica"
+  },
+  "macaulay": [
+    {
+      "original_file": "asian_brown_flycatcher_584798671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171468/bird-gallery/asian_brown_flycatcher/macaulay/asian_brown_flycatcher_584798671.jpg",
+      "public_id": "bird-gallery/asian_brown_flycatcher/macaulay/asian_brown_flycatcher_584798671",
+      "width": 1200,
+      "height": 721,
+      "format": "jpg",
+      "bytes": 233198,
+      "attribution": {
+        "photographer": "Zak Pohlen",
+        "photographer_url": "https://macaulaylibrary.org/asset/584798671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Zak Pohlen; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "584798671",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "asian_brown_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171469/bird-gallery/asian_brown_flycatcher/inaturalist/asian_brown_flycatcher_1.jpg",
+      "public_id": "bird-gallery/asian_brown_flycatcher/inaturalist/asian_brown_flycatcher_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 200970,
+      "attribution": {
+        "photographer": "zen2020",
+        "photographer_url": "https://www.inaturalist.org/observations/136125719",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© zen2020 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 136125719,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "asian_brown_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171469/bird-gallery/asian_brown_flycatcher/wikimedia/asian_brown_flycatcher_1.jpg",
+      "public_id": "bird-gallery/asian_brown_flycatcher/wikimedia/asian_brown_flycatcher_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 163859,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50704735783_560f79a234_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171470/bird-gallery/asian_brown_flycatcher/avibase/avibase_1_50704735783_560f79a234_b.jpg",
+      "public_id": "bird-gallery/asian_brown_flycatcher/avibase/avibase_1_50704735783_560f79a234_b",
+      "width": 700,
+      "height": 467,
+      "format": "jpg",
+      "bytes": 82122,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50704735783",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

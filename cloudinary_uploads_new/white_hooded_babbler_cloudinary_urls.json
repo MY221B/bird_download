@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_hooded_babbler",
+    "chinese_name": "白头鵙鹛",
+    "english_name": "White-hooded Babbler",
+    "scientific_name": "Gampsorhynchus rufulus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_hooded_babbler_498617621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171985/bird-gallery/white_hooded_babbler/macaulay/white_hooded_babbler_498617621.jpg",
+      "public_id": "bird-gallery/white_hooded_babbler/macaulay/white_hooded_babbler_498617621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68433,
+      "attribution": {
+        "photographer": "Rajkumar Das",
+        "photographer_url": "https://macaulaylibrary.org/asset/498617621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rajkumar Das; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "498617621",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_hooded_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171986/bird-gallery/white_hooded_babbler/inaturalist/white_hooded_babbler_1.jpg",
+      "public_id": "bird-gallery/white_hooded_babbler/inaturalist/white_hooded_babbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 586619,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/303464653",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 303464653,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48058118471_393298faa6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171986/bird-gallery/white_hooded_babbler/avibase/avibase_1_48058118471_393298faa6_b.jpg",
+      "public_id": "bird-gallery/white_hooded_babbler/avibase/avibase_1_48058118471_393298faa6_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 197618,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48058118471",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

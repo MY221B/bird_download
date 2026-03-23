@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "masked_laughingthrush",
+    "chinese_name": "黑脸噪鹛",
+    "english_name": "Masked Laughingthrush",
+    "scientific_name": "Pterorhinus perspicillatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "masked_laughingthrush_139718771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171776/bird-gallery/masked_laughingthrush/macaulay/masked_laughingthrush_139718771.jpg",
+      "public_id": "bird-gallery/masked_laughingthrush/macaulay/masked_laughingthrush_139718771",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 132632,
+      "attribution": {
+        "photographer": "Sean Fitzgerald",
+        "photographer_url": "https://macaulaylibrary.org/asset/139718771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sean Fitzgerald; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "139718771",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "masked_laughingthrush_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171777/bird-gallery/masked_laughingthrush/inaturalist/masked_laughingthrush_3.jpg",
+      "public_id": "bird-gallery/masked_laughingthrush/inaturalist/masked_laughingthrush_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 269335,
+      "attribution": {
+        "photographer": "gordonhochunman",
+        "photographer_url": "https://www.inaturalist.org/observations/261710375",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© gordonhochunman (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 261710375,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "masked_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171778/bird-gallery/masked_laughingthrush/wikimedia/masked_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/masked_laughingthrush/wikimedia/masked_laughingthrush_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 352392,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51071825877_f73a9b1ee2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171779/bird-gallery/masked_laughingthrush/avibase/avibase_1_51071825877_f73a9b1ee2_b.jpg",
+      "public_id": "bird-gallery/masked_laughingthrush/avibase/avibase_1_51071825877_f73a9b1ee2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 181088,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51071825877",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

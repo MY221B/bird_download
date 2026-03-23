@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_breasted_prinia",
+    "chinese_name": "灰胸山鹪莺",
+    "english_name": "Grey-breasted Prinia",
+    "scientific_name": "Prinia hodgsonii"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_breasted_prinia_115345781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171689/bird-gallery/grey_breasted_prinia/macaulay/grey_breasted_prinia_115345781.jpg",
+      "public_id": "bird-gallery/grey_breasted_prinia/macaulay/grey_breasted_prinia_115345781",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 118435,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/115345781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "115345781",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_breasted_prinia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171690/bird-gallery/grey_breasted_prinia/inaturalist/grey_breasted_prinia_1.jpg",
+      "public_id": "bird-gallery/grey_breasted_prinia/inaturalist/grey_breasted_prinia_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 171267,
+      "attribution": {
+        "photographer": "dhruvapunde",
+        "photographer_url": "https://www.inaturalist.org/observations/310415030",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 310415030,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_27065668281_97cb867b0a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171690/bird-gallery/grey_breasted_prinia/avibase/avibase_1_27065668281_97cb867b0a_b.jpg",
+      "public_id": "bird-gallery/grey_breasted_prinia/avibase/avibase_1_27065668281_97cb867b0a_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 185964,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "27065668281",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

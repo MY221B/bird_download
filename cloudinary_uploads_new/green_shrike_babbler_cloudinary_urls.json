@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "green_shrike_babbler",
+    "chinese_name": "淡绿鵙鹛",
+    "english_name": "Green Shrike-babbler",
+    "scientific_name": "Pteruthius xanthochlorus"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_shrike_babbler_156551771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171684/bird-gallery/green_shrike_babbler/macaulay/green_shrike_babbler_156551771.jpg",
+      "public_id": "bird-gallery/green_shrike_babbler/macaulay/green_shrike_babbler_156551771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 160757,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/156551771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "156551771",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_shrike_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171685/bird-gallery/green_shrike_babbler/inaturalist/green_shrike_babbler_1.jpg",
+      "public_id": "bird-gallery/green_shrike_babbler/inaturalist/green_shrike_babbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 370737,
+      "attribution": {
+        "photographer": "briancasatelli",
+        "photographer_url": "https://www.inaturalist.org/observations/263950305",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© briancasatelli (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 263950305,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52974836921_54c67f2b76_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171686/bird-gallery/green_shrike_babbler/avibase/avibase_1_52974836921_54c67f2b76_b.jpg",
+      "public_id": "bird-gallery/green_shrike_babbler/avibase/avibase_1_52974836921_54c67f2b76_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 166036,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52974836921",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

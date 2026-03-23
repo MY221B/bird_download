@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "styans_grasshopper_warbler",
+    "chinese_name": "东亚蝗莺",
+    "english_name": "Styan's Grasshopper Warbler",
+    "scientific_name": "Helopsaltes pleskei"
+  },
+  "macaulay": [
+    {
+      "original_file": "styans_grasshopper_warbler_206021191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171941/bird-gallery/styans_grasshopper_warbler/macaulay/styans_grasshopper_warbler_206021191.jpg",
+      "public_id": "bird-gallery/styans_grasshopper_warbler/macaulay/styans_grasshopper_warbler_206021191",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 99458,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/206021191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "206021191",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "styans_grasshopper_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171943/bird-gallery/styans_grasshopper_warbler/inaturalist/styans_grasshopper_warbler_1.jpg",
+      "public_id": "bird-gallery/styans_grasshopper_warbler/inaturalist/styans_grasshopper_warbler_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 405573,
+      "attribution": {
+        "photographer": "tsugumi",
+        "photographer_url": "https://www.inaturalist.org/observations/71048773",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tsugumi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 71048773,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54375740903_b1136ed361_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171944/bird-gallery/styans_grasshopper_warbler/avibase/avibase_1_54375740903_b1136ed361_b.jpg",
+      "public_id": "bird-gallery/styans_grasshopper_warbler/avibase/avibase_1_54375740903_b1136ed361_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 73188,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54375740903",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

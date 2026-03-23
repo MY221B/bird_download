@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "crested_lark",
+    "chinese_name": "凤头百灵",
+    "english_name": "Crested Lark",
+    "scientific_name": "Galerida cristata"
+  },
+  "macaulay": [
+    {
+      "original_file": "crested_lark_262419931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171605/bird-gallery/crested_lark/macaulay/crested_lark_262419931.jpg",
+      "public_id": "bird-gallery/crested_lark/macaulay/crested_lark_262419931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 112694,
+      "attribution": {
+        "photographer": "Kavi Nanda",
+        "photographer_url": "https://macaulaylibrary.org/asset/262419931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kavi Nanda; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "262419931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crested_lark_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171606/bird-gallery/crested_lark/inaturalist/crested_lark_1.jpg",
+      "public_id": "bird-gallery/crested_lark/inaturalist/crested_lark_1",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 119415,
+      "attribution": {
+        "photographer": "gennadiy_dyakin",
+        "photographer_url": "https://www.inaturalist.org/observations/277031817",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gennadiy_dyakin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 277031817,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "crested_lark_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171606/bird-gallery/crested_lark/wikimedia/crested_lark_1.jpg",
+      "public_id": "bird-gallery/crested_lark/wikimedia/crested_lark_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 126112,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51864797167_da62ebd34a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171607/bird-gallery/crested_lark/avibase/avibase_1_51864797167_da62ebd34a_b.jpg",
+      "public_id": "bird-gallery/crested_lark/avibase/avibase_1_51864797167_da62ebd34a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 155642,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51864797167",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

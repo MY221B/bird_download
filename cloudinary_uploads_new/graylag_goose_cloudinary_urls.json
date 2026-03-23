@@ -1,0 +1,86 @@
+{
+  "bird_info": {
+    "slug": "graylag_goose",
+    "chinese_name": "灰雁",
+    "english_name": "Graylag Goose",
+    "scientific_name": "Anser anser"
+  },
+  "macaulay": [
+    {
+      "original_file": "graylag_goose_144856361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171666/bird-gallery/graylag_goose/macaulay/graylag_goose_144856361.jpg",
+      "public_id": "bird-gallery/graylag_goose/macaulay/graylag_goose_144856361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99200,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "graylag_goose_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171668/bird-gallery/graylag_goose/inaturalist/graylag_goose_1.jpg",
+      "public_id": "bird-gallery/graylag_goose/inaturalist/graylag_goose_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 470663,
+      "attribution": {
+        "source": "inaturalist",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "graylag_goose_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171669/bird-gallery/graylag_goose/wikimedia/graylag_goose_1.jpg",
+      "public_id": "bird-gallery/graylag_goose/wikimedia/graylag_goose_1",
+      "width": 1200,
+      "height": 989,
+      "format": "jpg",
+      "bytes": 303218,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51065561552_0821596465_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171669/bird-gallery/graylag_goose/avibase/avibase_1_51065561552_0821596465_b.jpg",
+      "public_id": "bird-gallery/graylag_goose/avibase/avibase_1_51065561552_0821596465_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 167064,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

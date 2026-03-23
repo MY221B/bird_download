@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "wallcreeper",
+    "chinese_name": "红翅旋壁雀",
+    "english_name": "Wallcreeper",
+    "scientific_name": "Tichodroma muraria"
+  },
+  "macaulay": [
+    {
+      "original_file": "wallcreeper_205835591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171963/bird-gallery/wallcreeper/macaulay/wallcreeper_205835591.jpg",
+      "public_id": "bird-gallery/wallcreeper/macaulay/wallcreeper_205835591",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 147642,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205835591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205835591",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "wallcreeper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171964/bird-gallery/wallcreeper/inaturalist/wallcreeper_1.jpg",
+      "public_id": "bird-gallery/wallcreeper/inaturalist/wallcreeper_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 702158,
+      "attribution": {
+        "photographer": "christoph_moning",
+        "photographer_url": "https://www.inaturalist.org/observations/57814718",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christoph_moning (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 57814718,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "wallcreeper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171965/bird-gallery/wallcreeper/wikimedia/wallcreeper_1.jpg",
+      "public_id": "bird-gallery/wallcreeper/wikimedia/wallcreeper_1",
+      "width": 1280,
+      "height": 940,
+      "format": "jpg",
+      "bytes": 170070,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49349044567_59fa365486_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171966/bird-gallery/wallcreeper/avibase/avibase_1_49349044567_59fa365486_b.jpg",
+      "public_id": "bird-gallery/wallcreeper/avibase/avibase_1_49349044567_59fa365486_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 300358,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49349044567",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

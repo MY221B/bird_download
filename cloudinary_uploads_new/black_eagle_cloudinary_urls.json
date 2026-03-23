@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_eagle",
+    "chinese_name": "林雕",
+    "english_name": "Black Eagle",
+    "scientific_name": "Ictinaetus malaiensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_eagle_267253281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171495/bird-gallery/black_eagle/macaulay/black_eagle_267253281.jpg",
+      "public_id": "bird-gallery/black_eagle/macaulay/black_eagle_267253281",
+      "width": 1200,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 65045,
+      "attribution": {
+        "photographer": "Chun-Chieh Liao",
+        "photographer_url": "https://macaulaylibrary.org/asset/267253281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Chun-Chieh Liao; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "267253281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171496/bird-gallery/black_eagle/inaturalist/black_eagle_1.jpg",
+      "public_id": "bird-gallery/black_eagle/inaturalist/black_eagle_1",
+      "width": 1024,
+      "height": 710,
+      "format": "jpg",
+      "bytes": 565963,
+      "attribution": {
+        "photographer": "sunnyjosef",
+        "photographer_url": "https://www.inaturalist.org/observations/328928094",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© sunnyjosef (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 328928094,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53483131930_dc44be6d78_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171497/bird-gallery/black_eagle/avibase/avibase_1_53483131930_dc44be6d78_b.jpg",
+      "public_id": "bird-gallery/black_eagle/avibase/avibase_1_53483131930_dc44be6d78_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 183735,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53483131930",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

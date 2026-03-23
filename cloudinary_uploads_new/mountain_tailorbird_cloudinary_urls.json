@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "mountain_tailorbird",
+    "chinese_name": "栗头织叶莺",
+    "english_name": "Mountain Tailorbird",
+    "scientific_name": "Phyllergates cucullatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "mountain_tailorbird_419203451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171785/bird-gallery/mountain_tailorbird/macaulay/mountain_tailorbird_419203451.jpg",
+      "public_id": "bird-gallery/mountain_tailorbird/macaulay/mountain_tailorbird_419203451",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 165770,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/419203451",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "419203451",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mountain_tailorbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171785/bird-gallery/mountain_tailorbird/inaturalist/mountain_tailorbird_1.jpg",
+      "public_id": "bird-gallery/mountain_tailorbird/inaturalist/mountain_tailorbird_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 177485,
+      "attribution": {
+        "photographer": "yuehua",
+        "photographer_url": "https://www.inaturalist.org/observations/143467010",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© yuehua (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 143467010,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "mountain_tailorbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171787/bird-gallery/mountain_tailorbird/wikimedia/mountain_tailorbird_1.jpg",
+      "public_id": "bird-gallery/mountain_tailorbird/wikimedia/mountain_tailorbird_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 172813,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_26376618107_24885fdde6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171788/bird-gallery/mountain_tailorbird/avibase/avibase_1_26376618107_24885fdde6_b.jpg",
+      "public_id": "bird-gallery/mountain_tailorbird/avibase/avibase_1_26376618107_24885fdde6_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 247739,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26376618107",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

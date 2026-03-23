@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "long_tailed_minivet",
+    "chinese_name": "长尾山椒鸟",
+    "english_name": "Long-tailed Minivet",
+    "scientific_name": "Pericrocotus ethologus"
+  },
+  "macaulay": [
+    {
+      "original_file": "long_tailed_minivet_238694371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171766/bird-gallery/long_tailed_minivet/macaulay/long_tailed_minivet_238694371.jpg",
+      "public_id": "bird-gallery/long_tailed_minivet/macaulay/long_tailed_minivet_238694371",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 139817,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/238694371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "238694371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "long_tailed_minivet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171767/bird-gallery/long_tailed_minivet/inaturalist/long_tailed_minivet_1.jpg",
+      "public_id": "bird-gallery/long_tailed_minivet/inaturalist/long_tailed_minivet_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 553951,
+      "attribution": {
+        "photographer": "mrfish33",
+        "photographer_url": "https://www.inaturalist.org/observations/8066827",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mrfish33 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8066827,
+        "note": null
+      }
+    }
+  ]
+}

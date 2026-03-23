@@ -1,0 +1,65 @@
+{
+  "bird_info": {
+    "slug": "eurasian_wren",
+    "chinese_name": "鹪鹩",
+    "english_name": "Eurasian Wren",
+    "scientific_name": "Troglodytes troglodytes"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_wren_278619281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171638/bird-gallery/eurasian_wren/macaulay/eurasian_wren_278619281.jpg",
+      "public_id": "bird-gallery/eurasian_wren/macaulay/eurasian_wren_278619281",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 92895,
+      "attribution": {
+        "photographer": "Kuzey Cem Kulaçoğlu",
+        "photographer_url": "https://macaulaylibrary.org/asset/278619281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kuzey Cem Kulaçoğlu; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "278619281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_wren_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171639/bird-gallery/eurasian_wren/inaturalist/eurasian_wren_1.jpg",
+      "public_id": "bird-gallery/eurasian_wren/inaturalist/eurasian_wren_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 545864,
+      "attribution": {
+        "source": "inaturalist",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_wren_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171639/bird-gallery/eurasian_wren/wikimedia/eurasian_wren_1.jpg",
+      "public_id": "bird-gallery/eurasian_wren/wikimedia/eurasian_wren_1",
+      "width": 1200,
+      "height": 867,
+      "format": "jpg",
+      "bytes": 155936,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

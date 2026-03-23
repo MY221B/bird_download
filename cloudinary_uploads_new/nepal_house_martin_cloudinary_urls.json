@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "nepal_house_martin",
+    "chinese_name": "黑喉毛脚燕",
+    "english_name": "Nepal House Martin",
+    "scientific_name": "Delichon nipalense"
+  },
+  "macaulay": [
+    {
+      "original_file": "nepal_house_martin_204280191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171791/bird-gallery/nepal_house_martin/macaulay/nepal_house_martin_204280191.jpg",
+      "public_id": "bird-gallery/nepal_house_martin/macaulay/nepal_house_martin_204280191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 371350,
+      "attribution": {
+        "photographer": "Holger Teichmann",
+        "photographer_url": "https://macaulaylibrary.org/asset/204280191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Holger Teichmann; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204280191",
+        "note": null
+      }
+    }
+  ]
+}

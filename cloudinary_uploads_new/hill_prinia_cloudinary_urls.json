@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "hill_prinia",
+    "chinese_name": "白喉山鹪莺",
+    "english_name": "Hill Prinia",
+    "scientific_name": "Prinia superciliaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "hill_prinia_145789381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171710/bird-gallery/hill_prinia/macaulay/hill_prinia_145789381.jpg",
+      "public_id": "bird-gallery/hill_prinia/macaulay/hill_prinia_145789381",
+      "width": 1200,
+      "height": 748,
+      "format": "jpg",
+      "bytes": 171519,
+      "attribution": {
+        "photographer": "Carlos Sanchez",
+        "photographer_url": "https://macaulaylibrary.org/asset/145789381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Carlos Sanchez; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "145789381",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hill_prinia_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171711/bird-gallery/hill_prinia/inaturalist/hill_prinia_2.jpg",
+      "public_id": "bird-gallery/hill_prinia/inaturalist/hill_prinia_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 342973,
+      "attribution": {
+        "photographer": "thitiphon_wongkalasin",
+        "photographer_url": "https://www.inaturalist.org/observations/287063310",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© thitiphon_wongkalasin (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 287063310,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49384756152_9e9a6001fc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171712/bird-gallery/hill_prinia/avibase/avibase_1_49384756152_9e9a6001fc_b.jpg",
+      "public_id": "bird-gallery/hill_prinia/avibase/avibase_1_49384756152_9e9a6001fc_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 220880,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49384756152",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

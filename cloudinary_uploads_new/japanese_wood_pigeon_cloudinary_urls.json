@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "japanese_wood_pigeon",
+    "chinese_name": "黑林鸽",
+    "english_name": "Japanese Wood Pigeon",
+    "scientific_name": "Columba janthina"
+  },
+  "macaulay": [
+    {
+      "original_file": "japanese_wood_pigeon_206019301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171734/bird-gallery/japanese_wood_pigeon/macaulay/japanese_wood_pigeon_206019301.jpg",
+      "public_id": "bird-gallery/japanese_wood_pigeon/macaulay/japanese_wood_pigeon_206019301",
+      "width": 849,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 105002,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/206019301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "206019301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "japanese_wood_pigeon_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171735/bird-gallery/japanese_wood_pigeon/inaturalist/japanese_wood_pigeon_3.jpg",
+      "public_id": "bird-gallery/japanese_wood_pigeon/inaturalist/japanese_wood_pigeon_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 628731,
+      "attribution": {
+        "photographer": "jueming641",
+        "photographer_url": "https://www.inaturalist.org/observations/339442913",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jueming641 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 339442913,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48157131191_367b238ccc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171736/bird-gallery/japanese_wood_pigeon/avibase/avibase_1_48157131191_367b238ccc_b.jpg",
+      "public_id": "bird-gallery/japanese_wood_pigeon/avibase/avibase_1_48157131191_367b238ccc_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 83706,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48157131191",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "green_tailed_sunbird",
+    "chinese_name": "绿喉太阳鸟",
+    "english_name": "Green-tailed Sunbird",
+    "scientific_name": "Aethopyga nipalensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_tailed_sunbird_161405351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171685/bird-gallery/green_tailed_sunbird/macaulay/green_tailed_sunbird_161405351.jpg",
+      "public_id": "bird-gallery/green_tailed_sunbird/macaulay/green_tailed_sunbird_161405351",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 178913,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/161405351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "161405351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_tailed_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171686/bird-gallery/green_tailed_sunbird/inaturalist/green_tailed_sunbird_1.jpg",
+      "public_id": "bird-gallery/green_tailed_sunbird/inaturalist/green_tailed_sunbird_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 497780,
+      "attribution": {
+        "photographer": "plains-wanderer",
+        "photographer_url": "https://www.inaturalist.org/observations/81410139",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© plains-wanderer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 81410139,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "green_tailed_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171687/bird-gallery/green_tailed_sunbird/wikimedia/green_tailed_sunbird_1.jpg",
+      "public_id": "bird-gallery/green_tailed_sunbird/wikimedia/green_tailed_sunbird_1",
+      "width": 250,
+      "height": 167,
+      "format": "jpg",
+      "bytes": 10670,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_31353383937_4e905df67d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171688/bird-gallery/green_tailed_sunbird/avibase/avibase_1_31353383937_4e905df67d_b.jpg",
+      "public_id": "bird-gallery/green_tailed_sunbird/avibase/avibase_1_31353383937_4e905df67d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 99168,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "31353383937",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "orange_bellied_leafbird",
+    "chinese_name": "西南橙腹叶鹎",
+    "english_name": "Orange-bellied Leafbird",
+    "scientific_name": "Chloropsis hardwickii"
+  },
+  "macaulay": [
+    {
+      "original_file": "orange_bellied_leafbird_299322271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171799/bird-gallery/orange_bellied_leafbird/macaulay/orange_bellied_leafbird_299322271.jpg",
+      "public_id": "bird-gallery/orange_bellied_leafbird/macaulay/orange_bellied_leafbird_299322271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 177793,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/299322271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "299322271",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "orange_bellied_leafbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171800/bird-gallery/orange_bellied_leafbird/inaturalist/orange_bellied_leafbird_1.jpg",
+      "public_id": "bird-gallery/orange_bellied_leafbird/inaturalist/orange_bellied_leafbird_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 856319,
+      "attribution": {
+        "photographer": "paulkingsnorth",
+        "photographer_url": "https://www.inaturalist.org/observations/223581798",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© paulkingsnorth (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 223581798,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51226926117_3136989140_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171801/bird-gallery/orange_bellied_leafbird/avibase/avibase_1_51226926117_3136989140_b.jpg",
+      "public_id": "bird-gallery/orange_bellied_leafbird/avibase/avibase_1_51226926117_3136989140_b",
+      "width": 682,
+      "height": 1023,
+      "format": "jpg",
+      "bytes": 82351,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51226926117",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

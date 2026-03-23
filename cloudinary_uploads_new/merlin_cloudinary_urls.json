@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "merlin",
+    "chinese_name": "灰背隼",
+    "english_name": "Merlin",
+    "scientific_name": "Falco columbarius"
+  },
+  "macaulay": [
+    {
+      "original_file": "merlin_132158211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171779/bird-gallery/merlin/macaulay/merlin_132158211.jpg",
+      "public_id": "bird-gallery/merlin/macaulay/merlin_132158211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 133193,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/132158211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "132158211",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_32174674530_6d8166c359_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171779/bird-gallery/merlin/avibase/avibase_3_32174674530_6d8166c359_b.jpg",
+      "public_id": "bird-gallery/merlin/avibase/avibase_3_32174674530_6d8166c359_b",
+      "width": 960,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 189087,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32174674530",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

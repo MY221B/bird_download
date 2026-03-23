@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "little_forktail",
+    "chinese_name": "小燕尾",
+    "english_name": "Little Forktail",
+    "scientific_name": "Enicurus scouleri"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_forktail_46197441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171757/bird-gallery/little_forktail/macaulay/little_forktail_46197441.jpg",
+      "public_id": "bird-gallery/little_forktail/macaulay/little_forktail_46197441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104000,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/46197441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "46197441",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_forktail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171758/bird-gallery/little_forktail/inaturalist/little_forktail_1.jpg",
+      "public_id": "bird-gallery/little_forktail/inaturalist/little_forktail_1",
+      "width": 900,
+      "height": 653,
+      "format": "jpg",
+      "bytes": 176281,
+      "attribution": {
+        "photographer": "iiukolov",
+        "photographer_url": "https://www.inaturalist.org/observations/309000199",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© iiukolov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 309000199,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39008717035_4197d36c58_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171759/bird-gallery/little_forktail/avibase/avibase_1_39008717035_4197d36c58_b.jpg",
+      "public_id": "bird-gallery/little_forktail/avibase/avibase_1_39008717035_4197d36c58_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 212981,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39008717035",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

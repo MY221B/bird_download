@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "swinhoes_snipe",
+    "chinese_name": "大沙锥",
+    "english_name": "Swinhoe's Snipe",
+    "scientific_name": "Gallinago megala"
+  },
+  "macaulay": [
+    {
+      "original_file": "swinhoes_snipe_266995791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171944/bird-gallery/swinhoes_snipe/macaulay/swinhoes_snipe_266995791.jpg",
+      "public_id": "bird-gallery/swinhoes_snipe/macaulay/swinhoes_snipe_266995791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 266258,
+      "attribution": {
+        "photographer": "Yann Muzika",
+        "photographer_url": "https://macaulaylibrary.org/asset/266995791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Yann Muzika; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "266995791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "swinhoes_snipe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171947/bird-gallery/swinhoes_snipe/inaturalist/swinhoes_snipe_1.jpg",
+      "public_id": "bird-gallery/swinhoes_snipe/inaturalist/swinhoes_snipe_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 412551,
+      "attribution": {
+        "photographer": "heritarmizi_bin_abdulthaleb",
+        "photographer_url": "https://www.inaturalist.org/observations/81156371",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© heritarmizi_bin_abdulthaleb (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 81156371,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_12848926164_f5a40a4b61_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171947/bird-gallery/swinhoes_snipe/avibase/avibase_1_12848926164_f5a40a4b61_b.jpg",
+      "public_id": "bird-gallery/swinhoes_snipe/avibase/avibase_1_12848926164_f5a40a4b61_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 195101,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "12848926164",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

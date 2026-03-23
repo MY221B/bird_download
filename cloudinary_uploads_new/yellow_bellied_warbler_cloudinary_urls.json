@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_bellied_warbler",
+    "chinese_name": "黄腹鹟莺",
+    "english_name": "Yellow-bellied Warbler",
+    "scientific_name": "Abroscopus superciliaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_bellied_warbler_176320211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172005/bird-gallery/yellow_bellied_warbler/macaulay/yellow_bellied_warbler_176320211.jpg",
+      "public_id": "bird-gallery/yellow_bellied_warbler/macaulay/yellow_bellied_warbler_176320211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 145392,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/176320211",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "176320211",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_bellied_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172006/bird-gallery/yellow_bellied_warbler/inaturalist/yellow_bellied_warbler_1.jpg",
+      "public_id": "bird-gallery/yellow_bellied_warbler/inaturalist/yellow_bellied_warbler_1",
+      "width": 1024,
+      "height": 849,
+      "format": "jpg",
+      "bytes": 167469,
+      "attribution": {
+        "photographer": "shivaprakash",
+        "photographer_url": "https://www.inaturalist.org/observations/111284276",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shivaprakash (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 111284276,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_8559915796_86b9f2429a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172007/bird-gallery/yellow_bellied_warbler/avibase/avibase_1_8559915796_86b9f2429a_b.jpg",
+      "public_id": "bird-gallery/yellow_bellied_warbler/avibase/avibase_1_8559915796_86b9f2429a_b",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 120394,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8559915796",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

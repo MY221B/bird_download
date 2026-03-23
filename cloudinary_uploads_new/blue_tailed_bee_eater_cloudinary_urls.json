@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_tailed_bee_eater",
+    "chinese_name": "栗喉蜂虎",
+    "english_name": "Blue-tailed Bee Eater",
+    "scientific_name": "Merops philippinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_tailed_bee_eater_250275511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171517/bird-gallery/blue_tailed_bee_eater/macaulay/blue_tailed_bee_eater_250275511.jpg",
+      "public_id": "bird-gallery/blue_tailed_bee_eater/macaulay/blue_tailed_bee_eater_250275511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84672,
+      "attribution": {
+        "photographer": "Yeray Seminario",
+        "photographer_url": "https://macaulaylibrary.org/asset/250275511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Yeray Seminario; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "250275511",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_tailed_bee_eater_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171518/bird-gallery/blue_tailed_bee_eater/inaturalist/blue_tailed_bee_eater_1.jpg",
+      "public_id": "bird-gallery/blue_tailed_bee_eater/inaturalist/blue_tailed_bee_eater_1",
+      "width": 960,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 412771,
+      "attribution": {
+        "photographer": "vipulramanuj",
+        "photographer_url": "https://www.inaturalist.org/observations/2560081",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© vipulramanuj (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 2560081,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52662540068_c0a4f14e5d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171518/bird-gallery/blue_tailed_bee_eater/avibase/avibase_1_52662540068_c0a4f14e5d_b.jpg",
+      "public_id": "bird-gallery/blue_tailed_bee_eater/avibase/avibase_1_52662540068_c0a4f14e5d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96565,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52662540068",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

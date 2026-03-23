@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "lesser_shortwing",
+    "chinese_name": "白喉短翅鸫",
+    "english_name": "Lesser Shortwing",
+    "scientific_name": "Brachypteryx leucophris"
+  },
+  "macaulay": [
+    {
+      "original_file": "lesser_shortwing_177562411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171750/bird-gallery/lesser_shortwing/macaulay/lesser_shortwing_177562411.jpg",
+      "public_id": "bird-gallery/lesser_shortwing/macaulay/lesser_shortwing_177562411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 195360,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/177562411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "177562411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "lesser_shortwing_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171751/bird-gallery/lesser_shortwing/inaturalist/lesser_shortwing_2.jpg",
+      "public_id": "bird-gallery/lesser_shortwing/inaturalist/lesser_shortwing_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 423462,
+      "attribution": {
+        "photographer": "matthewkwan",
+        "photographer_url": "https://www.inaturalist.org/observations/124069583",
+        "license": "cc-by-nd",
+        "license_url": null,
+        "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-ND)",
+        "source": "inaturalist",
+        "source_id": 124069583,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "lesser_shortwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171752/bird-gallery/lesser_shortwing/wikimedia/lesser_shortwing_1.jpg",
+      "public_id": "bird-gallery/lesser_shortwing/wikimedia/lesser_shortwing_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 157120,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_27171160647_435320ac13_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171753/bird-gallery/lesser_shortwing/avibase/avibase_2_27171160647_435320ac13_b.jpg",
+      "public_id": "bird-gallery/lesser_shortwing/avibase/avibase_2_27171160647_435320ac13_b",
+      "width": 728,
+      "height": 1023,
+      "format": "jpg",
+      "bytes": 207768,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "27171160647",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "rufous_headed_parrotbill",
+    "chinese_name": "红头鸦雀",
+    "english_name": "Rufous-headed Parrotbill",
+    "scientific_name": "Psittiparus bakeri"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_headed_parrotbill_614604384.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171882/bird-gallery/rufous_headed_parrotbill/macaulay/rufous_headed_parrotbill_614604384.jpg",
+      "public_id": "bird-gallery/rufous_headed_parrotbill/macaulay/rufous_headed_parrotbill_614604384",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 209064,
+      "attribution": {
+        "photographer": "Rajkumar Das",
+        "photographer_url": "https://macaulaylibrary.org/asset/614604384",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rajkumar Das; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "614604384",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_headed_parrotbill_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171883/bird-gallery/rufous_headed_parrotbill/inaturalist/rufous_headed_parrotbill_2.jpg",
+      "public_id": "bird-gallery/rufous_headed_parrotbill/inaturalist/rufous_headed_parrotbill_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 536456,
+      "attribution": {
+        "photographer": "james_birdtourasia",
+        "photographer_url": "https://www.inaturalist.org/observations/203187412",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© james_birdtourasia (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 203187412,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "rufous_headed_parrotbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171884/bird-gallery/rufous_headed_parrotbill/wikimedia/rufous_headed_parrotbill_1.jpg",
+      "public_id": "bird-gallery/rufous_headed_parrotbill/wikimedia/rufous_headed_parrotbill_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 246099,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_14154698991_881fb5223e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171885/bird-gallery/rufous_headed_parrotbill/avibase/avibase_1_14154698991_881fb5223e_b.jpg",
+      "public_id": "bird-gallery/rufous_headed_parrotbill/avibase/avibase_1_14154698991_881fb5223e_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 146897,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14154698991",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "dusky_thrush",
+    "chinese_name": "斑鸫",
+    "english_name": "Dusky Thrush",
+    "scientific_name": "Turdus eunomus"
+  },
+  "inaturalist": [
+    {
+      "original_file": "dusky_thrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171619/bird-gallery/dusky_thrush/inaturalist/dusky_thrush_2.jpg",
+      "public_id": "bird-gallery/dusky_thrush/inaturalist/dusky_thrush_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 445302,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "dusky_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171619/bird-gallery/dusky_thrush/wikimedia/dusky_thrush_1.jpg",
+      "public_id": "bird-gallery/dusky_thrush/wikimedia/dusky_thrush_1",
+      "width": 1200,
+      "height": 1036,
+      "format": "jpg",
+      "bytes": 293865,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52427000263_3d88211936_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171620/bird-gallery/dusky_thrush/avibase/avibase_1_52427000263_3d88211936_b.jpg",
+      "public_id": "bird-gallery/dusky_thrush/avibase/avibase_1_52427000263_3d88211936_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 206456,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

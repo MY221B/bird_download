@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_snipe",
+    "chinese_name": "扇尾沙锥",
+    "english_name": "Common Snipe",
+    "scientific_name": "Gallinago gallinago"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_snipe_126209411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171596/bird-gallery/common_snipe/macaulay/common_snipe_126209411.jpg",
+      "public_id": "bird-gallery/common_snipe/macaulay/common_snipe_126209411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 168121,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/126209411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "126209411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_snipe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171597/bird-gallery/common_snipe/inaturalist/common_snipe_1.jpg",
+      "public_id": "bird-gallery/common_snipe/inaturalist/common_snipe_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 1076883,
+      "attribution": {
+        "photographer": "terathopius",
+        "photographer_url": "https://www.inaturalist.org/observations/63556762",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© terathopius (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 63556762,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_snipe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171598/bird-gallery/common_snipe/wikimedia/common_snipe_1.jpg",
+      "public_id": "bird-gallery/common_snipe/wikimedia/common_snipe_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 226539,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52098574895_04544ee22c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171599/bird-gallery/common_snipe/avibase/avibase_1_52098574895_04544ee22c_b.jpg",
+      "public_id": "bird-gallery/common_snipe/avibase/avibase_1_52098574895_04544ee22c_b",
+      "width": 1024,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 122659,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52098574895",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

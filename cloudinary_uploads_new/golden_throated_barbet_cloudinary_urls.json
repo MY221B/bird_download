@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "golden_throated_barbet",
+    "chinese_name": "金喉拟啄木鸟",
+    "english_name": "Golden-throated Barbet",
+    "scientific_name": "Psilopogon franklinii"
+  },
+  "macaulay": [
+    {
+      "original_file": "golden_throated_barbet_207905751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171663/bird-gallery/golden_throated_barbet/macaulay/golden_throated_barbet_207905751.jpg",
+      "public_id": "bird-gallery/golden_throated_barbet/macaulay/golden_throated_barbet_207905751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 166425,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/207905751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "207905751",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "golden_throated_barbet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171664/bird-gallery/golden_throated_barbet/inaturalist/golden_throated_barbet_1.jpg",
+      "public_id": "bird-gallery/golden_throated_barbet/inaturalist/golden_throated_barbet_1",
+      "width": 1024,
+      "height": 845,
+      "format": "jpg",
+      "bytes": 292603,
+      "attribution": {
+        "photographer": "rejoicegassah",
+        "photographer_url": "https://www.inaturalist.org/observations/304402661",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 304402661,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "golden_throated_barbet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171665/bird-gallery/golden_throated_barbet/wikimedia/golden_throated_barbet_1.jpg",
+      "public_id": "bird-gallery/golden_throated_barbet/wikimedia/golden_throated_barbet_1",
+      "width": 1280,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 195482,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53506816794_0a04601cd8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171666/bird-gallery/golden_throated_barbet/avibase/avibase_1_53506816794_0a04601cd8_b.jpg",
+      "public_id": "bird-gallery/golden_throated_barbet/avibase/avibase_1_53506816794_0a04601cd8_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 201920,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53506816794",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blyths_shrike_babbler",
+    "chinese_name": "红翅鵙鹛",
+    "english_name": "Blyth's Shrike-babbler",
+    "scientific_name": "Pteruthius aeralatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "blyths_shrike_babbler_157714561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171525/bird-gallery/blyths_shrike_babbler/macaulay/blyths_shrike_babbler_157714561.jpg",
+      "public_id": "bird-gallery/blyths_shrike_babbler/macaulay/blyths_shrike_babbler_157714561",
+      "width": 1200,
+      "height": 825,
+      "format": "jpg",
+      "bytes": 193404,
+      "attribution": {
+        "photographer": "Ly Lan Le Do",
+        "photographer_url": "https://macaulaylibrary.org/asset/157714561",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ly Lan Le Do; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "157714561",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blyths_shrike_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171525/bird-gallery/blyths_shrike_babbler/inaturalist/blyths_shrike_babbler_1.jpg",
+      "public_id": "bird-gallery/blyths_shrike_babbler/inaturalist/blyths_shrike_babbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 122865,
+      "attribution": {
+        "photographer": "ck_chan",
+        "photographer_url": "https://www.inaturalist.org/observations/238725969",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ck_chan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 238725969,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54115041275_8f06e140ce_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171526/bird-gallery/blyths_shrike_babbler/avibase/avibase_1_54115041275_8f06e140ce_b.jpg",
+      "public_id": "bird-gallery/blyths_shrike_babbler/avibase/avibase_1_54115041275_8f06e140ce_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 145076,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54115041275",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

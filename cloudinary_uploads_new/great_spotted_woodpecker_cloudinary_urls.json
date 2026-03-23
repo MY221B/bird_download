@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "great_spotted_woodpecker",
+    "chinese_name": "大斑啄木鸟",
+    "english_name": "Great Spotted Woodpecker",
+    "scientific_name": "Dendrocopos major"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_spotted_woodpecker_112095411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171673/bird-gallery/great_spotted_woodpecker/macaulay/great_spotted_woodpecker_112095411.jpg",
+      "public_id": "bird-gallery/great_spotted_woodpecker/macaulay/great_spotted_woodpecker_112095411",
+      "width": 1200,
+      "height": 832,
+      "format": "jpg",
+      "bytes": 200823,
+      "attribution": {
+        "photographer": "Dominic Garcia-Hall",
+        "photographer_url": "https://macaulaylibrary.org/asset/112095411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dominic Garcia-Hall; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "112095411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "great_spotted_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171674/bird-gallery/great_spotted_woodpecker/inaturalist/great_spotted_woodpecker_1.jpg",
+      "public_id": "bird-gallery/great_spotted_woodpecker/inaturalist/great_spotted_woodpecker_1",
+      "width": 1024,
+      "height": 668,
+      "format": "jpg",
+      "bytes": 134824,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "great_spotted_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171675/bird-gallery/great_spotted_woodpecker/wikimedia/great_spotted_woodpecker_1.jpg",
+      "public_id": "bird-gallery/great_spotted_woodpecker/wikimedia/great_spotted_woodpecker_1",
+      "width": 960,
+      "height": 1381,
+      "format": "jpg",
+      "bytes": 372870,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51151570974_545754fe18_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171676/bird-gallery/great_spotted_woodpecker/avibase/avibase_1_51151570974_545754fe18_b.jpg",
+      "public_id": "bird-gallery/great_spotted_woodpecker/avibase/avibase_1_51151570974_545754fe18_b",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 230529,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

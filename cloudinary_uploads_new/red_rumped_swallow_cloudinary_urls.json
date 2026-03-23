@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "red_rumped_swallow",
+    "chinese_name": "金腰燕",
+    "english_name": "Red-rumped Swallow",
+    "scientific_name": "Cecropis daurica"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_rumped_swallow_432514371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171858/bird-gallery/red_rumped_swallow/macaulay/red_rumped_swallow_432514371.jpg",
+      "public_id": "bird-gallery/red_rumped_swallow/macaulay/red_rumped_swallow_432514371",
+      "width": 673,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 97369,
+      "attribution": {
+        "photographer": "Albin Jacob",
+        "photographer_url": "https://macaulaylibrary.org/asset/432514371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Albin Jacob; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "432514371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_rumped_swallow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171859/bird-gallery/red_rumped_swallow/inaturalist/red_rumped_swallow_1.jpg",
+      "public_id": "bird-gallery/red_rumped_swallow/inaturalist/red_rumped_swallow_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 427527,
+      "attribution": {
+        "photographer": "egorbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/74049479",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© egorbirder (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 74049479,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "red_rumped_swallow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171860/bird-gallery/red_rumped_swallow/wikimedia/red_rumped_swallow_1.jpg",
+      "public_id": "bird-gallery/red_rumped_swallow/wikimedia/red_rumped_swallow_1",
+      "width": 1279,
+      "height": 850,
+      "format": "jpg",
+      "bytes": 134525,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49440535348_3f66c351bb_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171861/bird-gallery/red_rumped_swallow/avibase/avibase_1_49440535348_3f66c351bb_b.jpg",
+      "public_id": "bird-gallery/red_rumped_swallow/avibase/avibase_1_49440535348_3f66c351bb_b",
+      "width": 1024,
+      "height": 843,
+      "format": "jpg",
+      "bytes": 270376,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49440535348",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

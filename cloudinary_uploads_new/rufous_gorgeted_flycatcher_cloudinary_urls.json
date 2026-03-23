@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "rufous_gorgeted_flycatcher",
+    "chinese_name": "橙胸姬鹟",
+    "english_name": "Rufous-gorgeted Flycatcher",
+    "scientific_name": "Ficedula strophiata"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_gorgeted_flycatcher_48262181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171881/bird-gallery/rufous_gorgeted_flycatcher/macaulay/rufous_gorgeted_flycatcher_48262181.jpg",
+      "public_id": "bird-gallery/rufous_gorgeted_flycatcher/macaulay/rufous_gorgeted_flycatcher_48262181",
+      "width": 1200,
+      "height": 725,
+      "format": "jpg",
+      "bytes": 140396,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/48262181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "48262181",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_gorgeted_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171882/bird-gallery/rufous_gorgeted_flycatcher/inaturalist/rufous_gorgeted_flycatcher_1.jpg",
+      "public_id": "bird-gallery/rufous_gorgeted_flycatcher/inaturalist/rufous_gorgeted_flycatcher_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 710025,
+      "attribution": {
+        "photographer": "hilucas",
+        "photographer_url": "https://www.inaturalist.org/observations/146761464",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© hilucas (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 146761464,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "rufous_gorgeted_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171883/bird-gallery/rufous_gorgeted_flycatcher/wikimedia/rufous_gorgeted_flycatcher_1.jpg",
+      "public_id": "bird-gallery/rufous_gorgeted_flycatcher/wikimedia/rufous_gorgeted_flycatcher_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 184027,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_54228556089_30ba3c8135_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171884/bird-gallery/rufous_gorgeted_flycatcher/avibase/avibase_2_54228556089_30ba3c8135_b.jpg",
+      "public_id": "bird-gallery/rufous_gorgeted_flycatcher/avibase/avibase_2_54228556089_30ba3c8135_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 168046,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54228556089",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

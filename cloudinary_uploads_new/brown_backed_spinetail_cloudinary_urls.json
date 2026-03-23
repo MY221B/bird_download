@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "brown_backed_spinetail",
+    "chinese_name": "褐背针尾雨燕",
+    "english_name": "Brown-backed Spinetail",
+    "scientific_name": "Hirundapus giganteus"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_backed_spinetail_211624131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171531/bird-gallery/brown_backed_spinetail/macaulay/brown_backed_spinetail_211624131.jpg",
+      "public_id": "bird-gallery/brown_backed_spinetail/macaulay/brown_backed_spinetail_211624131",
+      "width": 1200,
+      "height": 847,
+      "format": "jpg",
+      "bytes": 28431,
+      "attribution": {
+        "photographer": "Virag Sharma",
+        "photographer_url": "https://macaulaylibrary.org/asset/211624131",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Virag Sharma; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "211624131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_backed_spinetail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171533/bird-gallery/brown_backed_spinetail/inaturalist/brown_backed_spinetail_1.jpg",
+      "public_id": "bird-gallery/brown_backed_spinetail/inaturalist/brown_backed_spinetail_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 160983,
+      "attribution": {
+        "photographer": "ye18",
+        "photographer_url": "https://www.inaturalist.org/observations/142202562",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ye18 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 142202562,
+        "note": null
+      }
+    }
+  ]
+}

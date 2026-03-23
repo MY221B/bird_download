@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "yellow_eyed_babbler",
+    "chinese_name": "金眼鹛雀",
+    "english_name": "Yellow-eyed Babbler",
+    "scientific_name": "Chrysomma sinense"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_eyed_babbler_349982321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172010/bird-gallery/yellow_eyed_babbler/macaulay/yellow_eyed_babbler_349982321.jpg",
+      "public_id": "bird-gallery/yellow_eyed_babbler/macaulay/yellow_eyed_babbler_349982321",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 192486,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/349982321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "349982321",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_eyed_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172011/bird-gallery/yellow_eyed_babbler/inaturalist/yellow_eyed_babbler_1.jpg",
+      "public_id": "bird-gallery/yellow_eyed_babbler/inaturalist/yellow_eyed_babbler_1",
+      "width": 1024,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 464230,
+      "attribution": {
+        "photographer": "rajibmaulick",
+        "photographer_url": "https://www.inaturalist.org/observations/72175650",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rajibmaulick (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 72175650,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "yellow_eyed_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172012/bird-gallery/yellow_eyed_babbler/wikimedia/yellow_eyed_babbler_1.jpg",
+      "public_id": "bird-gallery/yellow_eyed_babbler/wikimedia/yellow_eyed_babbler_1",
+      "width": 250,
+      "height": 333,
+      "format": "jpg",
+      "bytes": 25271,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_30476467575_a6e106cc06_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172013/bird-gallery/yellow_eyed_babbler/avibase/avibase_1_30476467575_a6e106cc06_b.jpg",
+      "public_id": "bird-gallery/yellow_eyed_babbler/avibase/avibase_1_30476467575_a6e106cc06_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 103083,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "30476467575",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

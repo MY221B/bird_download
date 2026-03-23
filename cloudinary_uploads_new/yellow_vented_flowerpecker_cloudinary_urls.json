@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_vented_flowerpecker",
+    "chinese_name": "黄臀啄花鸟",
+    "english_name": "Yellow-vented Flowerpecker",
+    "scientific_name": "Dicaeum chrysorrheum"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_vented_flowerpecker_113563631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172012/bird-gallery/yellow_vented_flowerpecker/macaulay/yellow_vented_flowerpecker_113563631.jpg",
+      "public_id": "bird-gallery/yellow_vented_flowerpecker/macaulay/yellow_vented_flowerpecker_113563631",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 144316,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/113563631",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "113563631",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_vented_flowerpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172013/bird-gallery/yellow_vented_flowerpecker/inaturalist/yellow_vented_flowerpecker_1.jpg",
+      "public_id": "bird-gallery/yellow_vented_flowerpecker/inaturalist/yellow_vented_flowerpecker_1",
+      "width": 1024,
+      "height": 749,
+      "format": "jpg",
+      "bytes": 511645,
+      "attribution": {
+        "photographer": "dixonlau",
+        "photographer_url": "https://www.inaturalist.org/observations/191274464",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dixonlau (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191274464,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49478291366_c9730b10b8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172013/bird-gallery/yellow_vented_flowerpecker/avibase/avibase_1_49478291366_c9730b10b8_b.jpg",
+      "public_id": "bird-gallery/yellow_vented_flowerpecker/avibase/avibase_1_49478291366_c9730b10b8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 132339,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49478291366",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

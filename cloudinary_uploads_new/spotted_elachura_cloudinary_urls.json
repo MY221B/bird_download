@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "spotted_elachura",
+    "chinese_name": "丽星鹩鹛",
+    "english_name": "Spotted Elachura",
+    "scientific_name": "Elachura formosa"
+  },
+  "macaulay": [
+    {
+      "original_file": "spotted_elachura_402572651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171929/bird-gallery/spotted_elachura/macaulay/spotted_elachura_402572651.jpg",
+      "public_id": "bird-gallery/spotted_elachura/macaulay/spotted_elachura_402572651",
+      "width": 1200,
+      "height": 849,
+      "format": "jpg",
+      "bytes": 134543,
+      "attribution": {
+        "photographer": "浙江 重要鸟讯汇整",
+        "photographer_url": "https://macaulaylibrary.org/asset/402572651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by 浙江 重要鸟讯汇整; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "402572651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spotted_elachura_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171931/bird-gallery/spotted_elachura/inaturalist/spotted_elachura_1.jpg",
+      "public_id": "bird-gallery/spotted_elachura/inaturalist/spotted_elachura_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 772981,
+      "attribution": {
+        "photographer": "chubzangtangbi",
+        "photographer_url": "https://www.inaturalist.org/observations/132292867",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© chubzangtangbi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 132292867,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "spotted_elachura_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171933/bird-gallery/spotted_elachura/wikimedia/spotted_elachura_1.jpg",
+      "public_id": "bird-gallery/spotted_elachura/wikimedia/spotted_elachura_1",
+      "width": 1280,
+      "height": 1219,
+      "format": "jpg",
+      "bytes": 362545,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_14359610353_d428a33f38_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171934/bird-gallery/spotted_elachura/avibase/avibase_1_14359610353_d428a33f38_b.jpg",
+      "public_id": "bird-gallery/spotted_elachura/avibase/avibase_1_14359610353_d428a33f38_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 183797,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14359610353",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

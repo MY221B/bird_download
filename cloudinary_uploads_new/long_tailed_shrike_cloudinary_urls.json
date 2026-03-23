@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "long_tailed_shrike",
+    "chinese_name": "棕背伯劳",
+    "english_name": "Long-tailed Shrike",
+    "scientific_name": "Lanius schach"
+  },
+  "macaulay": [
+    {
+      "original_file": "long_tailed_shrike_151967641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171767/bird-gallery/long_tailed_shrike/macaulay/long_tailed_shrike_151967641.jpg",
+      "public_id": "bird-gallery/long_tailed_shrike/macaulay/long_tailed_shrike_151967641",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 101546,
+      "attribution": {
+        "photographer": "Ting-Wei (廷維) HUNG (洪)",
+        "photographer_url": "https://macaulaylibrary.org/asset/151967641",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ting-Wei (廷維) HUNG (洪); Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "151967641",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "long_tailed_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171767/bird-gallery/long_tailed_shrike/inaturalist/long_tailed_shrike_1.jpg",
+      "public_id": "bird-gallery/long_tailed_shrike/inaturalist/long_tailed_shrike_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 643540,
+      "attribution": {
+        "photographer": "andrewbazdyrev",
+        "photographer_url": "https://www.inaturalist.org/observations/131584241",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© andrewbazdyrev (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 131584241,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "long_tailed_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171768/bird-gallery/long_tailed_shrike/wikimedia/long_tailed_shrike_1.jpg",
+      "public_id": "bird-gallery/long_tailed_shrike/wikimedia/long_tailed_shrike_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 101196,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50801048446_90bcd6df6f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171769/bird-gallery/long_tailed_shrike/avibase/avibase_1_50801048446_90bcd6df6f_b.jpg",
+      "public_id": "bird-gallery/long_tailed_shrike/avibase/avibase_1_50801048446_90bcd6df6f_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 106425,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50801048446",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

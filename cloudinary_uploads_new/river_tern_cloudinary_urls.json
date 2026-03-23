@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "river_tern",
+    "chinese_name": "河燕鸥",
+    "english_name": "River Tern",
+    "scientific_name": "Sterna aurantia"
+  },
+  "macaulay": [
+    {
+      "original_file": "river_tern_297197491.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171868/bird-gallery/river_tern/macaulay/river_tern_297197491.jpg",
+      "public_id": "bird-gallery/river_tern/macaulay/river_tern_297197491",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 111313,
+      "attribution": {
+        "photographer": "Rathish  RL",
+        "photographer_url": "https://macaulaylibrary.org/asset/297197491",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rathish  RL; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "297197491",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "river_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171870/bird-gallery/river_tern/inaturalist/river_tern_1.jpg",
+      "public_id": "bird-gallery/river_tern/inaturalist/river_tern_1",
+      "width": 1024,
+      "height": 691,
+      "format": "jpg",
+      "bytes": 423727,
+      "attribution": {
+        "photographer": "hemant",
+        "photographer_url": "https://www.inaturalist.org/observations/1512459",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hemant (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1512459,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_31257732564_3a1b78e53e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171870/bird-gallery/river_tern/avibase/avibase_1_31257732564_3a1b78e53e_b.jpg",
+      "public_id": "bird-gallery/river_tern/avibase/avibase_1_31257732564_3a1b78e53e_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 77600,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "31257732564",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

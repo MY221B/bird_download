@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "imperial_eagle",
+    "chinese_name": "白肩雕",
+    "english_name": "Imperial Eagle",
+    "scientific_name": "Aquila heliaca"
+  },
+  "macaulay": [
+    {
+      "original_file": "imperial_eagle_105378791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171723/bird-gallery/imperial_eagle/macaulay/imperial_eagle_105378791.jpg",
+      "public_id": "bird-gallery/imperial_eagle/macaulay/imperial_eagle_105378791",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 98211,
+      "attribution": {
+        "photographer": "Ferit Başbuğ",
+        "photographer_url": "https://macaulaylibrary.org/asset/105378791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ferit Başbuğ; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "105378791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "imperial_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171723/bird-gallery/imperial_eagle/inaturalist/imperial_eagle_1.jpg",
+      "public_id": "bird-gallery/imperial_eagle/inaturalist/imperial_eagle_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 100483,
+      "attribution": {
+        "photographer": "vyacheslavluzanov",
+        "photographer_url": "https://www.inaturalist.org/observations/106875411",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vyacheslavluzanov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106875411,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52552722519_b113e5813e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171724/bird-gallery/imperial_eagle/avibase/avibase_1_52552722519_b113e5813e_b.jpg",
+      "public_id": "bird-gallery/imperial_eagle/avibase/avibase_1_52552722519_b113e5813e_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 200165,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52552722519",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

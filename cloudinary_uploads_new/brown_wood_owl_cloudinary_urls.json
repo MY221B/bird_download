@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "brown_wood_owl",
+    "chinese_name": "褐林鸮",
+    "english_name": "Brown Wood Owl",
+    "scientific_name": "Strix leptogrammica"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_wood_owl_183764481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171538/bird-gallery/brown_wood_owl/macaulay/brown_wood_owl_183764481.jpg",
+      "public_id": "bird-gallery/brown_wood_owl/macaulay/brown_wood_owl_183764481",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 237474,
+      "attribution": {
+        "photographer": "Matthew Kwan",
+        "photographer_url": "https://macaulaylibrary.org/asset/183764481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matthew Kwan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "183764481",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_wood_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171539/bird-gallery/brown_wood_owl/inaturalist/brown_wood_owl_1.jpg",
+      "public_id": "bird-gallery/brown_wood_owl/inaturalist/brown_wood_owl_1",
+      "width": 706,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 395119,
+      "attribution": {
+        "photographer": "rakesh36",
+        "photographer_url": "https://www.inaturalist.org/observations/150116986",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rakesh36 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 150116986,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "brown_wood_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171539/bird-gallery/brown_wood_owl/wikimedia/brown_wood_owl_1.jpg",
+      "public_id": "bird-gallery/brown_wood_owl/wikimedia/brown_wood_owl_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 210615,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

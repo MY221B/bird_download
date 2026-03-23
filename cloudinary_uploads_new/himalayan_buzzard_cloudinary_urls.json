@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "himalayan_buzzard",
+    "chinese_name": "喜山鵟",
+    "english_name": "Himalayan Buzzard",
+    "scientific_name": "Buteo refectus"
+  },
+  "macaulay": [
+    {
+      "original_file": "himalayan_buzzard_205985091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171712/bird-gallery/himalayan_buzzard/macaulay/himalayan_buzzard_205985091.jpg",
+      "public_id": "bird-gallery/himalayan_buzzard/macaulay/himalayan_buzzard_205985091",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 245222,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/205985091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205985091",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_53005843702_8800c1d4d4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171713/bird-gallery/himalayan_buzzard/avibase/avibase_3_53005843702_8800c1d4d4_b.jpg",
+      "public_id": "bird-gallery/himalayan_buzzard/avibase/avibase_3_53005843702_8800c1d4d4_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 86941,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53005843702",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

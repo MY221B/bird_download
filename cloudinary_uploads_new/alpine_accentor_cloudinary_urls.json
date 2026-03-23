@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "alpine_accentor",
+    "chinese_name": "领岩鹨",
+    "english_name": "Alpine Accentor",
+    "scientific_name": "Prunella collaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "alpine_accentor_628866119.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171462/bird-gallery/alpine_accentor/macaulay/alpine_accentor_628866119.jpg",
+      "public_id": "bird-gallery/alpine_accentor/macaulay/alpine_accentor_628866119",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103783,
+      "attribution": {
+        "photographer": "Łukasz Haluch",
+        "photographer_url": "https://macaulaylibrary.org/asset/628866119",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Łukasz Haluch; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "628866119",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "alpine_accentor_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171464/bird-gallery/alpine_accentor/inaturalist/alpine_accentor_1.jpg",
+      "public_id": "bird-gallery/alpine_accentor/inaturalist/alpine_accentor_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 704791,
+      "attribution": {
+        "photographer": "attila21",
+        "photographer_url": "https://www.inaturalist.org/observations/264838339",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© attila21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 264838339,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_14252999254_88b2290cbb_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171464/bird-gallery/alpine_accentor/avibase/avibase_1_14252999254_88b2290cbb_b.jpg",
+      "public_id": "bird-gallery/alpine_accentor/avibase/avibase_1_14252999254_88b2290cbb_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 186334,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14252999254",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

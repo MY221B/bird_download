@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "eurasian_collared_dove",
+    "chinese_name": "灰斑鸠",
+    "english_name": "Eurasian Collared Dove",
+    "scientific_name": "Streptopelia decaocto"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_collared_dove_21934901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171625/bird-gallery/eurasian_collared_dove/macaulay/eurasian_collared_dove_21934901.jpg",
+      "public_id": "bird-gallery/eurasian_collared_dove/macaulay/eurasian_collared_dove_21934901",
+      "width": 1200,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 93459,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_collared_dove_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171626/bird-gallery/eurasian_collared_dove/inaturalist/eurasian_collared_dove_1.jpg",
+      "public_id": "bird-gallery/eurasian_collared_dove/inaturalist/eurasian_collared_dove_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 460163,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_collared_dove_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171627/bird-gallery/eurasian_collared_dove/wikimedia/eurasian_collared_dove_1.jpg",
+      "public_id": "bird-gallery/eurasian_collared_dove/wikimedia/eurasian_collared_dove_1",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 226608,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48228023391_9c1ce1d829_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171628/bird-gallery/eurasian_collared_dove/avibase/avibase_1_48228023391_9c1ce1d829_b.jpg",
+      "public_id": "bird-gallery/eurasian_collared_dove/avibase/avibase_1_48228023391_9c1ce1d829_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 148229,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

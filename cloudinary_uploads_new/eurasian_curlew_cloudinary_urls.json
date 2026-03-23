@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "eurasian_curlew",
+    "chinese_name": "白腰杓鹬",
+    "english_name": "Eurasian Curlew",
+    "scientific_name": "Numenius arquata"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_curlew_499312411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171629/bird-gallery/eurasian_curlew/macaulay/eurasian_curlew_499312411.jpg",
+      "public_id": "bird-gallery/eurasian_curlew/macaulay/eurasian_curlew_499312411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 212204,
+      "attribution": {
+        "photographer": "Kike Junco",
+        "photographer_url": "https://macaulaylibrary.org/asset/499312411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kike Junco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "499312411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_curlew_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171630/bird-gallery/eurasian_curlew/inaturalist/eurasian_curlew_1.jpg",
+      "public_id": "bird-gallery/eurasian_curlew/inaturalist/eurasian_curlew_1",
+      "width": 1024,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 265985,
+      "attribution": {
+        "photographer": "migmon",
+        "photographer_url": "https://www.inaturalist.org/observations/306325880",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© migmon (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 306325880,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_curlew_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171631/bird-gallery/eurasian_curlew/wikimedia/eurasian_curlew_1.jpg",
+      "public_id": "bird-gallery/eurasian_curlew/wikimedia/eurasian_curlew_1",
+      "width": 1280,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 453233,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53493570613_03f3dbd698_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171631/bird-gallery/eurasian_curlew/avibase/avibase_1_53493570613_03f3dbd698_b.jpg",
+      "public_id": "bird-gallery/eurasian_curlew/avibase/avibase_1_53493570613_03f3dbd698_b",
+      "width": 1024,
+      "height": 957,
+      "format": "jpg",
+      "bytes": 245037,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53493570613",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

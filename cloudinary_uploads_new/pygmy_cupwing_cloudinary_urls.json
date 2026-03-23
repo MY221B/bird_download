@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "pygmy_cupwing",
+    "chinese_name": "小鳞胸鹪鹛",
+    "english_name": "Pygmy Cupwing",
+    "scientific_name": "Pnoepyga pusilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "pygmy_cupwing_245614781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171845/bird-gallery/pygmy_cupwing/macaulay/pygmy_cupwing_245614781.jpg",
+      "public_id": "bird-gallery/pygmy_cupwing/macaulay/pygmy_cupwing_245614781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 167066,
+      "attribution": {
+        "photographer": "Phil Chaon",
+        "photographer_url": "https://macaulaylibrary.org/asset/245614781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Phil Chaon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "245614781",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pygmy_cupwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171845/bird-gallery/pygmy_cupwing/inaturalist/pygmy_cupwing_1.jpg",
+      "public_id": "bird-gallery/pygmy_cupwing/inaturalist/pygmy_cupwing_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 463765,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/92889113",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 92889113,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "pygmy_cupwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171846/bird-gallery/pygmy_cupwing/wikimedia/pygmy_cupwing_1.jpg",
+      "public_id": "bird-gallery/pygmy_cupwing/wikimedia/pygmy_cupwing_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 152524,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53702437567_e5264426c9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171847/bird-gallery/pygmy_cupwing/avibase/avibase_1_53702437567_e5264426c9_b.jpg",
+      "public_id": "bird-gallery/pygmy_cupwing/avibase/avibase_1_53702437567_e5264426c9_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 129718,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53702437567",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

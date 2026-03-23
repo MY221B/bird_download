@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "northern_hawk_cuckoo",
+    "chinese_name": "北棕腹鹰鹃",
+    "english_name": "Northern Hawk-cuckoo",
+    "scientific_name": "Hierococcyx hyperythrus"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_hawk_cuckoo_139102791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171794/bird-gallery/northern_hawk_cuckoo/macaulay/northern_hawk_cuckoo_139102791.jpg",
+      "public_id": "bird-gallery/northern_hawk_cuckoo/macaulay/northern_hawk_cuckoo_139102791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 112994,
+      "attribution": {
+        "photographer": "Tomohiro Iuchi",
+        "photographer_url": "https://macaulaylibrary.org/asset/139102791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Tomohiro Iuchi; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "139102791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_hawk_cuckoo_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171795/bird-gallery/northern_hawk_cuckoo/inaturalist/northern_hawk_cuckoo_3.jpg",
+      "public_id": "bird-gallery/northern_hawk_cuckoo/inaturalist/northern_hawk_cuckoo_3",
+      "width": 1024,
+      "height": 578,
+      "format": "jpg",
+      "bytes": 170761,
+      "attribution": {
+        "photographer": "alekseyfaraway",
+        "photographer_url": "https://www.inaturalist.org/observations/57712252",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alekseyfaraway (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 57712252,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "northern_hawk_cuckoo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171797/bird-gallery/northern_hawk_cuckoo/wikimedia/northern_hawk_cuckoo_1.jpg",
+      "public_id": "bird-gallery/northern_hawk_cuckoo/wikimedia/northern_hawk_cuckoo_1",
+      "width": 960,
+      "height": 1506,
+      "format": "jpg",
+      "bytes": 241671,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_2213323121_df51fa50bc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171798/bird-gallery/northern_hawk_cuckoo/avibase/avibase_2_2213323121_df51fa50bc_b.jpg",
+      "public_id": "bird-gallery/northern_hawk_cuckoo/avibase/avibase_2_2213323121_df51fa50bc_b",
+      "width": 500,
+      "height": 442,
+      "format": "jpg",
+      "bytes": 41883,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "2213323121",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

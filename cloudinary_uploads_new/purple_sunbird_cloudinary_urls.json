@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "purple_sunbird",
+    "chinese_name": "紫花蜜鸟",
+    "english_name": "Purple Sunbird",
+    "scientific_name": "Cinnyris asiaticus"
+  },
+  "macaulay": [
+    {
+      "original_file": "purple_sunbird_172940741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171844/bird-gallery/purple_sunbird/macaulay/purple_sunbird_172940741.jpg",
+      "public_id": "bird-gallery/purple_sunbird/macaulay/purple_sunbird_172940741",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 132602,
+      "attribution": {
+        "photographer": "Ian Hearn",
+        "photographer_url": "https://macaulaylibrary.org/asset/172940741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Hearn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "172940741",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "purple_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171845/bird-gallery/purple_sunbird/inaturalist/purple_sunbird_1.jpg",
+      "public_id": "bird-gallery/purple_sunbird/inaturalist/purple_sunbird_1",
+      "width": 1024,
+      "height": 651,
+      "format": "jpg",
+      "bytes": 345056,
+      "attribution": {
+        "photographer": "atif7",
+        "photographer_url": "https://www.inaturalist.org/observations/139993406",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© atif7 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 139993406,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51832136830_cc5f169bfb_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171846/bird-gallery/purple_sunbird/avibase/avibase_1_51832136830_cc5f169bfb_b.jpg",
+      "public_id": "bird-gallery/purple_sunbird/avibase/avibase_1_51832136830_cc5f169bfb_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 135345,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51832136830",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

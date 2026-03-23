@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_treepie",
+    "chinese_name": "灰树鹊",
+    "english_name": "Grey Treepie",
+    "scientific_name": "Dendrocitta formosae"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_treepie_142168901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171704/bird-gallery/grey_treepie/macaulay/grey_treepie_142168901.jpg",
+      "public_id": "bird-gallery/grey_treepie/macaulay/grey_treepie_142168901",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 232746,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/142168901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "142168901",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_treepie_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171705/bird-gallery/grey_treepie/inaturalist/grey_treepie_1.jpg",
+      "public_id": "bird-gallery/grey_treepie/inaturalist/grey_treepie_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 968117,
+      "attribution": {
+        "photographer": "qin_huang",
+        "photographer_url": "https://www.inaturalist.org/observations/36406929",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© qin_huang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 36406929,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52767014841_618d57a7cc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171706/bird-gallery/grey_treepie/avibase/avibase_1_52767014841_618d57a7cc_b.jpg",
+      "public_id": "bird-gallery/grey_treepie/avibase/avibase_1_52767014841_618d57a7cc_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 140006,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52767014841",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

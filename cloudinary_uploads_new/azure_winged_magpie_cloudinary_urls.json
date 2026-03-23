@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "azure_winged_magpie",
+    "chinese_name": "灰喜鹊",
+    "english_name": "Azure-winged Magpie",
+    "scientific_name": "Cyanopica cyanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "azure_winged_magpie_205853451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171471/bird-gallery/azure_winged_magpie/macaulay/azure_winged_magpie_205853451.jpg",
+      "public_id": "bird-gallery/azure_winged_magpie/macaulay/azure_winged_magpie_205853451",
+      "width": 1200,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 141496,
+      "attribution": {
+        "photographer": "Purevsuren Tsolmonjav",
+        "photographer_url": "https://macaulaylibrary.org/asset/205853451",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Purevsuren Tsolmonjav; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205853451",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "azure_winged_magpie_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171472/bird-gallery/azure_winged_magpie/inaturalist/azure_winged_magpie_1.jpg",
+      "public_id": "bird-gallery/azure_winged_magpie/inaturalist/azure_winged_magpie_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 725789,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "azure_winged_magpie_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171473/bird-gallery/azure_winged_magpie/wikimedia/azure_winged_magpie_1.jpg",
+      "public_id": "bird-gallery/azure_winged_magpie/wikimedia/azure_winged_magpie_1",
+      "width": 1200,
+      "height": 824,
+      "format": "jpg",
+      "bytes": 239117,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_24043577969_2ebc5ecb67_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171474/bird-gallery/azure_winged_magpie/avibase/avibase_1_24043577969_2ebc5ecb67_b.jpg",
+      "public_id": "bird-gallery/azure_winged_magpie/avibase/avibase_1_24043577969_2ebc5ecb67_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 163122,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

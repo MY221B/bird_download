@@ -1,0 +1,48 @@
+{
+  "bird_info": {
+    "slug": "japanese_sparrow_hawk",
+    "chinese_name": "日本松雀鹰"
+  },
+  "inaturalist": [
+    {
+      "original_file": "japanese_sparrow_hawk_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171732/bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_1.jpg",
+      "public_id": "bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 179035,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "japanese_sparrow_hawk_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171733/bird-gallery/japanese_sparrow_hawk/wikimedia/japanese_sparrow_hawk_1.jpg",
+      "public_id": "bird-gallery/japanese_sparrow_hawk/wikimedia/japanese_sparrow_hawk_1",
+      "width": 1200,
+      "height": 806,
+      "format": "jpg",
+      "bytes": 207535,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

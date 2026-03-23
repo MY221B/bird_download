@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "sooty_headed_bulbul",
+    "chinese_name": "白喉红臀鹎",
+    "english_name": "Sooty-headed Bulbul",
+    "scientific_name": "Pycnonotus aurigaster"
+  },
+  "macaulay": [
+    {
+      "original_file": "sooty_headed_bulbul_535665241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171922/bird-gallery/sooty_headed_bulbul/macaulay/sooty_headed_bulbul_535665241.jpg",
+      "public_id": "bird-gallery/sooty_headed_bulbul/macaulay/sooty_headed_bulbul_535665241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 188885,
+      "attribution": {
+        "photographer": "David Irving",
+        "photographer_url": "https://macaulaylibrary.org/asset/535665241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Irving; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "535665241",
+        "note": null
+      }
+    }
+  ]
+}

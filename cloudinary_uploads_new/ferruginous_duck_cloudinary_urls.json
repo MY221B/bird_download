@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "ferruginous_duck",
+    "chinese_name": "白眼潜鸭",
+    "english_name": "Ferruginous Duck",
+    "scientific_name": "Aythya nyroca"
+  },
+  "macaulay": [
+    {
+      "original_file": "ferruginous_duck_204585591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171644/bird-gallery/ferruginous_duck/macaulay/ferruginous_duck_204585591.jpg",
+      "public_id": "bird-gallery/ferruginous_duck/macaulay/ferruginous_duck_204585591",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58807,
+      "attribution": {
+        "photographer": "Marco Valentini",
+        "photographer_url": "https://macaulaylibrary.org/asset/204585591",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Marco Valentini; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204585591",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ferruginous_duck_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171644/bird-gallery/ferruginous_duck/inaturalist/ferruginous_duck_1.jpg",
+      "public_id": "bird-gallery/ferruginous_duck/inaturalist/ferruginous_duck_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 649048,
+      "attribution": {
+        "photographer": "diegodgd",
+        "photographer_url": "https://www.inaturalist.org/observations/258409661",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© diegodgd (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 258409661,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "ferruginous_duck_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171645/bird-gallery/ferruginous_duck/wikimedia/ferruginous_duck_1.jpg",
+      "public_id": "bird-gallery/ferruginous_duck/wikimedia/ferruginous_duck_1",
+      "width": 1199,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 145985,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52663892743_1af6976f8f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171646/bird-gallery/ferruginous_duck/avibase/avibase_1_52663892743_1af6976f8f_b.jpg",
+      "public_id": "bird-gallery/ferruginous_duck/avibase/avibase_1_52663892743_1af6976f8f_b",
+      "width": 1023,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 254372,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52663892743",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

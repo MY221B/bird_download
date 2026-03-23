@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_hill_partridge",
+    "chinese_name": "环颈山鹧鸪",
+    "english_name": "Common Hill Partridge",
+    "scientific_name": "Arborophila torqueola"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_hill_partridge_503547431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171585/bird-gallery/common_hill_partridge/macaulay/common_hill_partridge_503547431.jpg",
+      "public_id": "bird-gallery/common_hill_partridge/macaulay/common_hill_partridge_503547431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 139043,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/503547431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "503547431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_hill_partridge_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171586/bird-gallery/common_hill_partridge/inaturalist/common_hill_partridge_1.jpg",
+      "public_id": "bird-gallery/common_hill_partridge/inaturalist/common_hill_partridge_1",
+      "width": 1024,
+      "height": 771,
+      "format": "jpg",
+      "bytes": 308579,
+      "attribution": {
+        "photographer": "atanu_modak",
+        "photographer_url": "https://www.inaturalist.org/observations/99681394",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© atanu_modak (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 99681394,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_hill_partridge_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171587/bird-gallery/common_hill_partridge/wikimedia/common_hill_partridge_1.jpg",
+      "public_id": "bird-gallery/common_hill_partridge/wikimedia/common_hill_partridge_1",
+      "width": 960,
+      "height": 1311,
+      "format": "jpg",
+      "bytes": 348065,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_39914949172_66b739d7d9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171588/bird-gallery/common_hill_partridge/avibase/avibase_2_39914949172_66b739d7d9_b.jpg",
+      "public_id": "bird-gallery/common_hill_partridge/avibase/avibase_2_39914949172_66b739d7d9_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 207860,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39914949172",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "indochinese_yuhina",
+    "chinese_name": "栗颈凤鹛",
+    "english_name": "Indochinese Yuhina",
+    "scientific_name": "Staphida torqueola"
+  },
+  "macaulay": [
+    {
+      "original_file": "indochinese_yuhina_214978141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171726/bird-gallery/indochinese_yuhina/macaulay/indochinese_yuhina_214978141.jpg",
+      "public_id": "bird-gallery/indochinese_yuhina/macaulay/indochinese_yuhina_214978141",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 120366,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/214978141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "214978141",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "indochinese_yuhina_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171727/bird-gallery/indochinese_yuhina/inaturalist/indochinese_yuhina_1.jpg",
+      "public_id": "bird-gallery/indochinese_yuhina/inaturalist/indochinese_yuhina_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 155560,
+      "attribution": {
+        "photographer": "wkcheng71",
+        "photographer_url": "https://www.inaturalist.org/observations/13392186",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wkcheng71 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 13392186,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "indochinese_yuhina_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171728/bird-gallery/indochinese_yuhina/wikimedia/indochinese_yuhina_1.jpg",
+      "public_id": "bird-gallery/indochinese_yuhina/wikimedia/indochinese_yuhina_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 160612,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_45691639725_27e8ea2259_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171729/bird-gallery/indochinese_yuhina/avibase/avibase_2_45691639725_27e8ea2259_b.jpg",
+      "public_id": "bird-gallery/indochinese_yuhina/avibase/avibase_2_45691639725_27e8ea2259_b",
+      "width": 1023,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 146134,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "45691639725",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

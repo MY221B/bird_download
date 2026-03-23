@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "whimbrel",
+    "chinese_name": "中杓鹬",
+    "english_name": "Whimbrel",
+    "scientific_name": "Numenius phaeopus"
+  },
+  "macaulay": [
+    {
+      "original_file": "whimbrel_404982591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171967/bird-gallery/whimbrel/macaulay/whimbrel_404982591.jpg",
+      "public_id": "bird-gallery/whimbrel/macaulay/whimbrel_404982591",
+      "width": 1200,
+      "height": 994,
+      "format": "jpg",
+      "bytes": 367036,
+      "attribution": {
+        "photographer": "Brian Stone",
+        "photographer_url": "https://macaulaylibrary.org/asset/404982591",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Brian Stone; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "404982591",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "whimbrel_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171968/bird-gallery/whimbrel/inaturalist/whimbrel_1.jpg",
+      "public_id": "bird-gallery/whimbrel/inaturalist/whimbrel_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 386962,
+      "attribution": {
+        "photographer": "whistlingduck",
+        "photographer_url": "https://www.inaturalist.org/observations/266005178",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© whistlingduck (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 266005178,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50298973311_ffd179ab0a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171969/bird-gallery/whimbrel/avibase/avibase_1_50298973311_ffd179ab0a_b.jpg",
+      "public_id": "bird-gallery/whimbrel/avibase/avibase_1_50298973311_ffd179ab0a_b",
+      "width": 690,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 128880,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50298973311",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

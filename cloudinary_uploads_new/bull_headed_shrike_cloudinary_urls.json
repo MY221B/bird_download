@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "bull_headed_shrike",
+    "chinese_name": "牛头伯劳",
+    "english_name": "Bull-headed Shrike",
+    "scientific_name": "Lanius bucephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "bull_headed_shrike_26855281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171543/bird-gallery/bull_headed_shrike/macaulay/bull_headed_shrike_26855281.jpg",
+      "public_id": "bird-gallery/bull_headed_shrike/macaulay/bull_headed_shrike_26855281",
+      "width": 1200,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 116723,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/26855281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "26855281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bull_headed_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171544/bird-gallery/bull_headed_shrike/inaturalist/bull_headed_shrike_1.jpg",
+      "public_id": "bird-gallery/bull_headed_shrike/inaturalist/bull_headed_shrike_1",
+      "width": 709,
+      "height": 473,
+      "format": "jpg",
+      "bytes": 266729,
+      "attribution": {
+        "photographer": "gg_copen",
+        "photographer_url": "https://www.inaturalist.org/observations/337930655",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gg_copen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337930655,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48065393122_7a138327b8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171545/bird-gallery/bull_headed_shrike/avibase/avibase_1_48065393122_7a138327b8_b.jpg",
+      "public_id": "bird-gallery/bull_headed_shrike/avibase/avibase_1_48065393122_7a138327b8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 159791,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48065393122",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "spot_breasted_laughingthrush",
+    "chinese_name": "斑胸噪鹛",
+    "english_name": "Spot-breasted Laughingthrush",
+    "scientific_name": "Garrulax merulinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "spot_breasted_laughingthrush_106392361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171926/bird-gallery/spot_breasted_laughingthrush/macaulay/spot_breasted_laughingthrush_106392361.jpg",
+      "public_id": "bird-gallery/spot_breasted_laughingthrush/macaulay/spot_breasted_laughingthrush_106392361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 144076,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/106392361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "106392361",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spot_breasted_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171927/bird-gallery/spot_breasted_laughingthrush/inaturalist/spot_breasted_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/spot_breasted_laughingthrush/inaturalist/spot_breasted_laughingthrush_1",
+      "width": 800,
+      "height": 544,
+      "format": "jpg",
+      "bytes": 152073,
+      "attribution": {
+        "photographer": "petereric",
+        "photographer_url": "https://www.inaturalist.org/observations/61060682",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© petereric (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 61060682,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_8627823639_84ece2b3d0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171929/bird-gallery/spot_breasted_laughingthrush/avibase/avibase_1_8627823639_84ece2b3d0_b.jpg",
+      "public_id": "bird-gallery/spot_breasted_laughingthrush/avibase/avibase_1_8627823639_84ece2b3d0_b",
+      "width": 1024,
+      "height": 500,
+      "format": "jpg",
+      "bytes": 206570,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8627823639",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

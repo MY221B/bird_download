@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "eurasian_crag_martin",
+    "chinese_name": "岩燕",
+    "english_name": "Eurasian Crag Martin",
+    "scientific_name": "Ptyonoprogne rupestris"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_crag_martin_577113271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171627/bird-gallery/eurasian_crag_martin/macaulay/eurasian_crag_martin_577113271.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/macaulay/eurasian_crag_martin_577113271",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 231124,
+      "attribution": {
+        "photographer": "Asmus Schröter",
+        "photographer_url": "https://macaulaylibrary.org/asset/577113271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Asmus Schröter; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "577113271",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_crag_martin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171628/bird-gallery/eurasian_crag_martin/inaturalist/eurasian_crag_martin_1.jpg",
+      "public_id": "bird-gallery/eurasian_crag_martin/inaturalist/eurasian_crag_martin_1",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 106947,
+      "attribution": {
+        "photographer": "geoltel",
+        "photographer_url": "https://www.inaturalist.org/observations/105577842",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© geoltel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105577842,
+        "note": null
+      }
+    }
+  ]
+}

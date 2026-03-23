@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "ruddy_turnstone",
+    "chinese_name": "翻石鹬",
+    "english_name": "Ruddy Turnstone",
+    "scientific_name": "Arenaria interpres"
+  },
+  "macaulay": [
+    {
+      "original_file": "ruddy_turnstone_260046461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171875/bird-gallery/ruddy_turnstone/macaulay/ruddy_turnstone_260046461.jpg",
+      "public_id": "bird-gallery/ruddy_turnstone/macaulay/ruddy_turnstone_260046461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 135766,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/260046461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "260046461",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ruddy_turnstone_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171876/bird-gallery/ruddy_turnstone/inaturalist/ruddy_turnstone_3.jpg",
+      "public_id": "bird-gallery/ruddy_turnstone/inaturalist/ruddy_turnstone_3",
+      "width": 1024,
+      "height": 688,
+      "format": "jpg",
+      "bytes": 345231,
+      "attribution": {
+        "photographer": "cliygh-and-mia",
+        "photographer_url": "https://www.inaturalist.org/observations/45476099",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cliygh-and-mia (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 45476099,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "ruddy_turnstone_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171877/bird-gallery/ruddy_turnstone/wikimedia/ruddy_turnstone_1.jpg",
+      "public_id": "bird-gallery/ruddy_turnstone/wikimedia/ruddy_turnstone_1",
+      "width": 1280,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 184488,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_13749751793_6f6881816a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171878/bird-gallery/ruddy_turnstone/avibase/avibase_1_13749751793_6f6881816a_b.jpg",
+      "public_id": "bird-gallery/ruddy_turnstone/avibase/avibase_1_13749751793_6f6881816a_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 135095,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "13749751793",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

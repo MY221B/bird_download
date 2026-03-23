@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_cheeked_starling",
+    "chinese_name": "灰椋鸟",
+    "english_name": "White-cheeked Starling",
+    "scientific_name": "Spodiopsar cineraceus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_cheeked_starling_624462381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171979/bird-gallery/white_cheeked_starling/macaulay/white_cheeked_starling_624462381.jpg",
+      "public_id": "bird-gallery/white_cheeked_starling/macaulay/white_cheeked_starling_624462381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 166083,
+      "attribution": {
+        "photographer": "Woochan Kwon",
+        "photographer_url": "https://macaulaylibrary.org/asset/624462381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "White-cheeked Starling by Woochan Kwon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624462381",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_cheeked_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171980/bird-gallery/white_cheeked_starling/inaturalist/white_cheeked_starling_1.jpg",
+      "public_id": "bird-gallery/white_cheeked_starling/inaturalist/white_cheeked_starling_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 480982,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_cheeked_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171981/bird-gallery/white_cheeked_starling/wikimedia/white_cheeked_starling_1.jpg",
+      "public_id": "bird-gallery/white_cheeked_starling/wikimedia/white_cheeked_starling_1",
+      "width": 500,
+      "height": 368,
+      "format": "jpg",
+      "bytes": 23691,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49131523893_fa639abafe_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171982/bird-gallery/white_cheeked_starling/avibase/avibase_1_49131523893_fa639abafe_b.jpg",
+      "public_id": "bird-gallery/white_cheeked_starling/avibase/avibase_1_49131523893_fa639abafe_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 220900,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

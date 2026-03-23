@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_streaked_scimitar_babbler",
+    "chinese_name": "斑胸钩嘴鹛",
+    "english_name": "Black-streaked Scimitar Babbler",
+    "scientific_name": "Erythrogenys gravivox"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_streaked_scimitar_babbler_129942911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171506/bird-gallery/black_streaked_scimitar_babbler/macaulay/black_streaked_scimitar_babbler_129942911.jpg",
+      "public_id": "bird-gallery/black_streaked_scimitar_babbler/macaulay/black_streaked_scimitar_babbler_129942911",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 162700,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/129942911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "129942911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_streaked_scimitar_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171507/bird-gallery/black_streaked_scimitar_babbler/inaturalist/black_streaked_scimitar_babbler_1.jpg",
+      "public_id": "bird-gallery/black_streaked_scimitar_babbler/inaturalist/black_streaked_scimitar_babbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 811522,
+      "attribution": {
+        "photographer": "emanon",
+        "photographer_url": "https://www.inaturalist.org/observations/207546072",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© emanon (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 207546072,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_47955191182_76d9f5d943_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171507/bird-gallery/black_streaked_scimitar_babbler/avibase/avibase_1_47955191182_76d9f5d943_b.jpg",
+      "public_id": "bird-gallery/black_streaked_scimitar_babbler/avibase/avibase_1_47955191182_76d9f5d943_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 227347,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "47955191182",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

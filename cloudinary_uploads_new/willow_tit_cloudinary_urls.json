@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "willow_tit",
+    "chinese_name": "褐头山雀",
+    "english_name": "Willow Tit",
+    "scientific_name": "Poecile montanus"
+  },
+  "inaturalist": [
+    {
+      "original_file": "willow_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172000/bird-gallery/willow_tit/inaturalist/willow_tit_1.jpg",
+      "public_id": "bird-gallery/willow_tit/inaturalist/willow_tit_1",
+      "width": 1024,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 363334,
+      "attribution": {
+        "photographer": "naturebynigg",
+        "photographer_url": "https://www.inaturalist.org/observations/61245827",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© naturebynigg (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 61245827,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39951606425_de23eff9a1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172000/bird-gallery/willow_tit/avibase/avibase_1_39951606425_de23eff9a1_b.jpg",
+      "public_id": "bird-gallery/willow_tit/avibase/avibase_1_39951606425_de23eff9a1_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 152511,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39951606425",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

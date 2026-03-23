@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_throated_rock_thrush",
+    "chinese_name": "白喉矶鸫",
+    "english_name": "White-throated Rock Thrush",
+    "scientific_name": "Monticola gularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_throated_rock_thrush_187427731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171997/bird-gallery/white_throated_rock_thrush/macaulay/white_throated_rock_thrush_187427731.jpg",
+      "public_id": "bird-gallery/white_throated_rock_thrush/macaulay/white_throated_rock_thrush_187427731",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 139981,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/187427731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "187427731",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_throated_rock_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171998/bird-gallery/white_throated_rock_thrush/inaturalist/white_throated_rock_thrush_1.jpg",
+      "public_id": "bird-gallery/white_throated_rock_thrush/inaturalist/white_throated_rock_thrush_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 523575,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/125895638",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 125895638,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_throated_rock_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171999/bird-gallery/white_throated_rock_thrush/wikimedia/white_throated_rock_thrush_1.jpg",
+      "public_id": "bird-gallery/white_throated_rock_thrush/wikimedia/white_throated_rock_thrush_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 202044,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52703199803_544b7764db_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171999/bird-gallery/white_throated_rock_thrush/avibase/avibase_1_52703199803_544b7764db_b.jpg",
+      "public_id": "bird-gallery/white_throated_rock_thrush/avibase/avibase_1_52703199803_544b7764db_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 113827,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52703199803",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

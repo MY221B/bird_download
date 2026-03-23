@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_iora",
+    "chinese_name": "黑翅雀鹎",
+    "english_name": "Common Iora",
+    "scientific_name": "Aegithina tiphia"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_iora_169820241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171586/bird-gallery/common_iora/macaulay/common_iora_169820241.jpg",
+      "public_id": "bird-gallery/common_iora/macaulay/common_iora_169820241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 101486,
+      "attribution": {
+        "photographer": "Sharif Uddin",
+        "photographer_url": "https://macaulaylibrary.org/asset/169820241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sharif Uddin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "169820241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_iora_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171586/bird-gallery/common_iora/inaturalist/common_iora_2.jpg",
+      "public_id": "bird-gallery/common_iora/inaturalist/common_iora_2",
+      "width": 1024,
+      "height": 859,
+      "format": "jpg",
+      "bytes": 399936,
+      "attribution": {
+        "photographer": "rejoicegassah",
+        "photographer_url": "https://www.inaturalist.org/observations/301158319",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 301158319,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_iora_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171587/bird-gallery/common_iora/wikimedia/common_iora_1.jpg",
+      "public_id": "bird-gallery/common_iora/wikimedia/common_iora_1",
+      "width": 250,
+      "height": 247,
+      "format": "jpg",
+      "bytes": 17711,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50997467129_2d00510be9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171588/bird-gallery/common_iora/avibase/avibase_1_50997467129_2d00510be9_b.jpg",
+      "public_id": "bird-gallery/common_iora/avibase/avibase_1_50997467129_2d00510be9_b",
+      "width": 915,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 247024,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50997467129",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

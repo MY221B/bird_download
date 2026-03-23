@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "citrine_wagtail",
+    "chinese_name": "黄头鹡鸰",
+    "english_name": "Citrine Wagtail",
+    "scientific_name": "Motacilla citreola"
+  },
+  "macaulay": [
+    {
+      "original_file": "citrine_wagtail_191338911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171570/bird-gallery/citrine_wagtail/macaulay/citrine_wagtail_191338911.jpg",
+      "public_id": "bird-gallery/citrine_wagtail/macaulay/citrine_wagtail_191338911",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 162084,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/191338911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "191338911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "citrine_wagtail_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171574/bird-gallery/citrine_wagtail/inaturalist/citrine_wagtail_2.jpg",
+      "public_id": "bird-gallery/citrine_wagtail/inaturalist/citrine_wagtail_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 871431,
+      "attribution": {
+        "photographer": "bstarzomski",
+        "photographer_url": "https://www.inaturalist.org/observations/241210555",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bstarzomski (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 241210555,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51792962236_28b0750fb3_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171575/bird-gallery/citrine_wagtail/avibase/avibase_1_51792962236_28b0750fb3_b.jpg",
+      "public_id": "bird-gallery/citrine_wagtail/avibase/avibase_1_51792962236_28b0750fb3_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 203138,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51792962236",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

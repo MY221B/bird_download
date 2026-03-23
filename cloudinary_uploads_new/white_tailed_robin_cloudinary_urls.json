@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_tailed_robin",
+    "chinese_name": "白尾蓝地鸲",
+    "english_name": "White-tailed Robin",
+    "scientific_name": "Myiomela leucura"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_tailed_robin_199500801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171990/bird-gallery/white_tailed_robin/macaulay/white_tailed_robin_199500801.jpg",
+      "public_id": "bird-gallery/white_tailed_robin/macaulay/white_tailed_robin_199500801",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 184169,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/199500801",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "199500801",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_tailed_robin_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171993/bird-gallery/white_tailed_robin/inaturalist/white_tailed_robin_2.jpg",
+      "public_id": "bird-gallery/white_tailed_robin/inaturalist/white_tailed_robin_2",
+      "width": 1024,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 559344,
+      "attribution": {
+        "photographer": "woodridgejeff",
+        "photographer_url": "https://www.inaturalist.org/observations/9569458",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© woodridgejeff (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9569458,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_tailed_robin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171994/bird-gallery/white_tailed_robin/wikimedia/white_tailed_robin_1.jpg",
+      "public_id": "bird-gallery/white_tailed_robin/wikimedia/white_tailed_robin_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 230688,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_16264576407_4e585cf6f2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171994/bird-gallery/white_tailed_robin/avibase/avibase_1_16264576407_4e585cf6f2_b.jpg",
+      "public_id": "bird-gallery/white_tailed_robin/avibase/avibase_1_16264576407_4e585cf6f2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 170129,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16264576407",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

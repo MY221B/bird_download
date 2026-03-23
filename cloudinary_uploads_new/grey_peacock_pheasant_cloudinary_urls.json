@@ -1,0 +1,86 @@
+{
+  "bird_info": {
+    "slug": "grey_peacock_pheasant",
+    "chinese_name": "灰孔雀雉",
+    "english_name": "Grey Peacock Pheasant",
+    "scientific_name": "Polyplectron bicalcaratum"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_peacock_pheasant_200489651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171699/bird-gallery/grey_peacock_pheasant/macaulay/grey_peacock_pheasant_200489651.jpg",
+      "public_id": "bird-gallery/grey_peacock_pheasant/macaulay/grey_peacock_pheasant_200489651",
+      "width": 1200,
+      "height": 861,
+      "format": "jpg",
+      "bytes": 395279,
+      "attribution": {
+        "photographer": "Andrew Spencer",
+        "photographer_url": "https://macaulaylibrary.org/asset/200489651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Andrew Spencer; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "200489651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_peacock_pheasant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171700/bird-gallery/grey_peacock_pheasant/inaturalist/grey_peacock_pheasant_1.jpg",
+      "public_id": "bird-gallery/grey_peacock_pheasant/inaturalist/grey_peacock_pheasant_1",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 227573,
+      "attribution": {
+        "source": "inaturalist",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "grey_peacock_pheasant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171701/bird-gallery/grey_peacock_pheasant/wikimedia/grey_peacock_pheasant_1.jpg",
+      "public_id": "bird-gallery/grey_peacock_pheasant/wikimedia/grey_peacock_pheasant_1",
+      "width": 1280,
+      "height": 1121,
+      "format": "jpg",
+      "bytes": 483214,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54320821166_3960e49bd3_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171702/bird-gallery/grey_peacock_pheasant/avibase/avibase_1_54320821166_3960e49bd3_b.jpg",
+      "public_id": "bird-gallery/grey_peacock_pheasant/avibase/avibase_1_54320821166_3960e49bd3_b",
+      "width": 1024,
+      "height": 598,
+      "format": "jpg",
+      "bytes": 214083,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54320821166",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "indian_cuckoo",
+    "chinese_name": "四声杜鹃",
+    "english_name": "Indian Cuckoo",
+    "scientific_name": "Cuculus micropterus"
+  },
+  "macaulay": [
+    {
+      "original_file": "indian_cuckoo_117252301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171724/bird-gallery/indian_cuckoo/macaulay/indian_cuckoo_117252301.jpg",
+      "public_id": "bird-gallery/indian_cuckoo/macaulay/indian_cuckoo_117252301",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 188739,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/117252301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "117252301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "indian_cuckoo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171725/bird-gallery/indian_cuckoo/inaturalist/indian_cuckoo_1.jpg",
+      "public_id": "bird-gallery/indian_cuckoo/inaturalist/indian_cuckoo_1",
+      "width": 821,
+      "height": 821,
+      "format": "jpg",
+      "bytes": 514133,
+      "attribution": {
+        "photographer": "iamukd",
+        "photographer_url": "https://www.inaturalist.org/observations/289906454",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© iamukd (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 289906454,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39487037752_8d699db5c0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171727/bird-gallery/indian_cuckoo/avibase/avibase_1_39487037752_8d699db5c0_b.jpg",
+      "public_id": "bird-gallery/indian_cuckoo/avibase/avibase_1_39487037752_8d699db5c0_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 186713,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39487037752",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

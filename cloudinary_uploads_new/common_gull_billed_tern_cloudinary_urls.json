@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_gull_billed_tern",
+    "chinese_name": "鸥嘴噪鸥",
+    "english_name": "Common Gull-billed Tern",
+    "scientific_name": "Gelochelidon nilotica"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_gull_billed_tern_335268511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171584/bird-gallery/common_gull_billed_tern/macaulay/common_gull_billed_tern_335268511.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/macaulay/common_gull_billed_tern_335268511",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 79487,
+      "attribution": {
+        "photographer": "Gonzalo Valencia Díaz",
+        "photographer_url": "https://macaulaylibrary.org/asset/335268511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Gonzalo Valencia Díaz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "335268511",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_gull_billed_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171584/bird-gallery/common_gull_billed_tern/inaturalist/common_gull_billed_tern_1.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/inaturalist/common_gull_billed_tern_1",
+      "width": 1024,
+      "height": 692,
+      "format": "jpg",
+      "bytes": 367192,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/282155651",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 282155651,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_30338168530_ffd55f18e3_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171585/bird-gallery/common_gull_billed_tern/avibase/avibase_1_30338168530_ffd55f18e3_b.jpg",
+      "public_id": "bird-gallery/common_gull_billed_tern/avibase/avibase_1_30338168530_ffd55f18e3_b",
+      "width": 1024,
+      "height": 737,
+      "format": "jpg",
+      "bytes": 66811,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "30338168530",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

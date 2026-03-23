@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "mountain_scops_owl",
+    "chinese_name": "黄嘴角鸮",
+    "english_name": "Mountain Scops Owl",
+    "scientific_name": "Otus spilocephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "mountain_scops_owl_446563541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171782/bird-gallery/mountain_scops_owl/macaulay/mountain_scops_owl_446563541.jpg",
+      "public_id": "bird-gallery/mountain_scops_owl/macaulay/mountain_scops_owl_446563541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 186448,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/446563541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "446563541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mountain_scops_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171783/bird-gallery/mountain_scops_owl/inaturalist/mountain_scops_owl_1.jpg",
+      "public_id": "bird-gallery/mountain_scops_owl/inaturalist/mountain_scops_owl_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 670681,
+      "attribution": {
+        "photographer": "binturong27",
+        "photographer_url": "https://www.inaturalist.org/observations/95836835",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© binturong27 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 95836835,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "mountain_scops_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171785/bird-gallery/mountain_scops_owl/wikimedia/mountain_scops_owl_1.jpg",
+      "public_id": "bird-gallery/mountain_scops_owl/wikimedia/mountain_scops_owl_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 173292,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_16436980611_67664c2b71_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171786/bird-gallery/mountain_scops_owl/avibase/avibase_2_16436980611_67664c2b71_b.jpg",
+      "public_id": "bird-gallery/mountain_scops_owl/avibase/avibase_2_16436980611_67664c2b71_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 166761,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16436980611",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

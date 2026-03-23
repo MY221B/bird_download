@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "brown_flanked_bush_warbler",
+    "chinese_name": "强脚树莺",
+    "english_name": "Brown-flanked Bush Warbler",
+    "scientific_name": "Horornis fortipes"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_flanked_bush_warbler_191184881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171536/bird-gallery/brown_flanked_bush_warbler/macaulay/brown_flanked_bush_warbler_191184881.jpg",
+      "public_id": "bird-gallery/brown_flanked_bush_warbler/macaulay/brown_flanked_bush_warbler_191184881",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 168346,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/191184881",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "191184881",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51263073997_585ea4fc51_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171537/bird-gallery/brown_flanked_bush_warbler/avibase/avibase_1_51263073997_585ea4fc51_b.jpg",
+      "public_id": "bird-gallery/brown_flanked_bush_warbler/avibase/avibase_1_51263073997_585ea4fc51_b",
+      "width": 1023,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 240763,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51263073997",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

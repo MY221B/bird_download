@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "bronzed_drongo",
+    "chinese_name": "古铜色卷尾",
+    "english_name": "Bronzed Drongo",
+    "scientific_name": "Dicrurus aeneus"
+  },
+  "macaulay": [
+    {
+      "original_file": "bronzed_drongo_303323791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171529/bird-gallery/bronzed_drongo/macaulay/bronzed_drongo_303323791.jpg",
+      "public_id": "bird-gallery/bronzed_drongo/macaulay/bronzed_drongo_303323791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 142274,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/303323791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "303323791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bronzed_drongo_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171532/bird-gallery/bronzed_drongo/inaturalist/bronzed_drongo_2.jpg",
+      "public_id": "bird-gallery/bronzed_drongo/inaturalist/bronzed_drongo_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 146580,
+      "attribution": {
+        "photographer": "rkostecke",
+        "photographer_url": "https://www.inaturalist.org/observations/259593280",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rkostecke (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 259593280,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52917856171_52b6744331_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171532/bird-gallery/bronzed_drongo/avibase/avibase_1_52917856171_52b6744331_b.jpg",
+      "public_id": "bird-gallery/bronzed_drongo/avibase/avibase_1_52917856171_52b6744331_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 74328,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52917856171",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

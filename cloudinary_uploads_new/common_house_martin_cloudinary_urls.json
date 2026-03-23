@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_house_martin",
+    "chinese_name": "毛脚燕",
+    "english_name": "Common House Martin",
+    "scientific_name": "Delichon urbicum"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_house_martin_551737171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171585/bird-gallery/common_house_martin/macaulay/common_house_martin_551737171.jpg",
+      "public_id": "bird-gallery/common_house_martin/macaulay/common_house_martin_551737171",
+      "width": 1200,
+      "height": 994,
+      "format": "jpg",
+      "bytes": 91851,
+      "attribution": {
+        "photographer": "César Gil",
+        "photographer_url": "https://macaulaylibrary.org/asset/551737171",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by César Gil; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "551737171",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_house_martin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171586/bird-gallery/common_house_martin/inaturalist/common_house_martin_1.jpg",
+      "public_id": "bird-gallery/common_house_martin/inaturalist/common_house_martin_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 339607,
+      "attribution": {
+        "photographer": "admss",
+        "photographer_url": "https://www.inaturalist.org/observations/58003806",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© admss (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 58003806,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_house_martin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171587/bird-gallery/common_house_martin/wikimedia/common_house_martin_1.jpg",
+      "public_id": "bird-gallery/common_house_martin/wikimedia/common_house_martin_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103462,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_50141060416_3c56d61590_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171588/bird-gallery/common_house_martin/avibase/avibase_2_50141060416_3c56d61590_b.jpg",
+      "public_id": "bird-gallery/common_house_martin/avibase/avibase_2_50141060416_3c56d61590_b",
+      "width": 1024,
+      "height": 729,
+      "format": "jpg",
+      "bytes": 42330,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50141060416",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

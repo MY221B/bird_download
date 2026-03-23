@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "scarlet_finch",
+    "chinese_name": "血雀",
+    "english_name": "Scarlet Finch",
+    "scientific_name": "Carpodacus sipahi"
+  },
+  "macaulay": [
+    {
+      "original_file": "scarlet_finch_513265031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171898/bird-gallery/scarlet_finch/macaulay/scarlet_finch_513265031.jpg",
+      "public_id": "bird-gallery/scarlet_finch/macaulay/scarlet_finch_513265031",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 175932,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/513265031",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "513265031",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "scarlet_finch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171900/bird-gallery/scarlet_finch/inaturalist/scarlet_finch_1.jpg",
+      "public_id": "bird-gallery/scarlet_finch/inaturalist/scarlet_finch_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 239454,
+      "attribution": {
+        "photographer": "udayagashe",
+        "photographer_url": "https://www.inaturalist.org/observations/149555352",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© udayagashe (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 149555352,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39907673761_bc008b6280_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171900/bird-gallery/scarlet_finch/avibase/avibase_1_39907673761_bc008b6280_b.jpg",
+      "public_id": "bird-gallery/scarlet_finch/avibase/avibase_1_39907673761_bc008b6280_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 212248,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39907673761",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

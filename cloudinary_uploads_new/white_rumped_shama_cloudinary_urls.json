@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_rumped_shama",
+    "chinese_name": "白腰鹊鸲",
+    "english_name": "White-rumped Shama",
+    "scientific_name": "Copsychus malabaricus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_rumped_shama_163198901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171987/bird-gallery/white_rumped_shama/macaulay/white_rumped_shama_163198901.jpg",
+      "public_id": "bird-gallery/white_rumped_shama/macaulay/white_rumped_shama_163198901",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 106818,
+      "attribution": {
+        "photographer": "Sanjay Malik",
+        "photographer_url": "https://macaulaylibrary.org/asset/163198901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sanjay Malik; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "163198901",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_rumped_shama_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171988/bird-gallery/white_rumped_shama/inaturalist/white_rumped_shama_1.jpg",
+      "public_id": "bird-gallery/white_rumped_shama/inaturalist/white_rumped_shama_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 136519,
+      "attribution": {
+        "photographer": "gljcrsmith",
+        "photographer_url": "https://www.inaturalist.org/observations/109094308",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gljcrsmith (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 109094308,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51231211186_9a34b72a46_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171988/bird-gallery/white_rumped_shama/avibase/avibase_1_51231211186_9a34b72a46_b.jpg",
+      "public_id": "bird-gallery/white_rumped_shama/avibase/avibase_1_51231211186_9a34b72a46_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 118780,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51231211186",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

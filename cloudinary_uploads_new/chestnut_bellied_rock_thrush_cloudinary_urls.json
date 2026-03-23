@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "chestnut_bellied_rock_thrush",
+    "chinese_name": "栗腹矶鸫",
+    "english_name": "Chestnut-bellied Rock Thrush",
+    "scientific_name": "Monticola rufiventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_bellied_rock_thrush_125633181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171546/bird-gallery/chestnut_bellied_rock_thrush/macaulay/chestnut_bellied_rock_thrush_125633181.jpg",
+      "public_id": "bird-gallery/chestnut_bellied_rock_thrush/macaulay/chestnut_bellied_rock_thrush_125633181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 209151,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/125633181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "125633181",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_bellied_rock_thrush_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171547/bird-gallery/chestnut_bellied_rock_thrush/inaturalist/chestnut_bellied_rock_thrush_3.jpg",
+      "public_id": "bird-gallery/chestnut_bellied_rock_thrush/inaturalist/chestnut_bellied_rock_thrush_3",
+      "width": 884,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 816888,
+      "attribution": {
+        "photographer": "morten",
+        "photographer_url": "https://www.inaturalist.org/observations/68271990",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© morten (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 68271990,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39198763614_823a738344_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171548/bird-gallery/chestnut_bellied_rock_thrush/avibase/avibase_1_39198763614_823a738344_b.jpg",
+      "public_id": "bird-gallery/chestnut_bellied_rock_thrush/avibase/avibase_1_39198763614_823a738344_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 170341,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39198763614",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

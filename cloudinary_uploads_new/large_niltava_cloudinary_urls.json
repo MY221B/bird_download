@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "large_niltava",
+    "chinese_name": "大仙鹟",
+    "english_name": "Large Niltava",
+    "scientific_name": "Niltava grandis"
+  },
+  "macaulay": [
+    {
+      "original_file": "large_niltava_226433291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171742/bird-gallery/large_niltava/macaulay/large_niltava_226433291.jpg",
+      "public_id": "bird-gallery/large_niltava/macaulay/large_niltava_226433291",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 146579,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/226433291",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "226433291",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "large_niltava_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171742/bird-gallery/large_niltava/inaturalist/large_niltava_1.jpg",
+      "public_id": "bird-gallery/large_niltava/inaturalist/large_niltava_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 735405,
+      "attribution": {
+        "photographer": "ck_chan",
+        "photographer_url": "https://www.inaturalist.org/observations/152488338",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ck_chan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 152488338,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "large_niltava_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171745/bird-gallery/large_niltava/wikimedia/large_niltava_1.jpg",
+      "public_id": "bird-gallery/large_niltava/wikimedia/large_niltava_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 307117,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_38689106332_774bed83f7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171746/bird-gallery/large_niltava/avibase/avibase_1_38689106332_774bed83f7_b.jpg",
+      "public_id": "bird-gallery/large_niltava/avibase/avibase_1_38689106332_774bed83f7_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 69973,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "38689106332",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

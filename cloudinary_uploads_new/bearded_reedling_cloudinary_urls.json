@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "bearded_reedling",
+    "chinese_name": "文须雀",
+    "english_name": "Bearded Reedling",
+    "scientific_name": "Panurus biarmicus"
+  },
+  "inaturalist": [
+    {
+      "original_file": "bearded_reedling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171482/bird-gallery/bearded_reedling/inaturalist/bearded_reedling_1.jpg",
+      "public_id": "bird-gallery/bearded_reedling/inaturalist/bearded_reedling_1",
+      "width": 998,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 305233,
+      "attribution": {
+        "photographer": "karakaxa",
+        "photographer_url": "https://www.inaturalist.org/observations/250340583",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© karakaxa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 250340583,
+        "note": null
+      }
+    }
+  ]
+}

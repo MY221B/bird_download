@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "pale_blue_flycatcher",
+    "chinese_name": "纯蓝仙鹟",
+    "english_name": "Pale Blue Flycatcher",
+    "scientific_name": "Cyornis unicolor"
+  },
+  "macaulay": [
+    {
+      "original_file": "pale_blue_flycatcher_203368521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171818/bird-gallery/pale_blue_flycatcher/macaulay/pale_blue_flycatcher_203368521.jpg",
+      "public_id": "bird-gallery/pale_blue_flycatcher/macaulay/pale_blue_flycatcher_203368521",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 210251,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/203368521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "203368521",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pale_blue_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171821/bird-gallery/pale_blue_flycatcher/inaturalist/pale_blue_flycatcher_1.jpg",
+      "public_id": "bird-gallery/pale_blue_flycatcher/inaturalist/pale_blue_flycatcher_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 358455,
+      "attribution": {
+        "photographer": "kuok",
+        "photographer_url": "https://www.inaturalist.org/observations/23344559",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kuok (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 23344559,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "pale_blue_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171822/bird-gallery/pale_blue_flycatcher/wikimedia/pale_blue_flycatcher_1.jpg",
+      "public_id": "bird-gallery/pale_blue_flycatcher/wikimedia/pale_blue_flycatcher_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 195691,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_53534240614_cd081c2001_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171822/bird-gallery/pale_blue_flycatcher/avibase/avibase_3_53534240614_cd081c2001_b.jpg",
+      "public_id": "bird-gallery/pale_blue_flycatcher/avibase/avibase_3_53534240614_cd081c2001_b",
+      "width": 1023,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 167997,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53534240614",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

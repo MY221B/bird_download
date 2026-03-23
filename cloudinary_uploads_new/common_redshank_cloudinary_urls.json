@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_redshank",
+    "chinese_name": "红脚鹬",
+    "english_name": "Common Redshank",
+    "scientific_name": "Tringa totanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_redshank_279127111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171592/bird-gallery/common_redshank/macaulay/common_redshank_279127111.jpg",
+      "public_id": "bird-gallery/common_redshank/macaulay/common_redshank_279127111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 190970,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/279127111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "279127111",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_redshank_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171592/bird-gallery/common_redshank/inaturalist/common_redshank_1.jpg",
+      "public_id": "bird-gallery/common_redshank/inaturalist/common_redshank_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 127267,
+      "attribution": {
+        "photographer": "don-jean",
+        "photographer_url": "https://www.inaturalist.org/observations/64090453",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© don-jean (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 64090453,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_redshank_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171593/bird-gallery/common_redshank/wikimedia/common_redshank_1.jpg",
+      "public_id": "bird-gallery/common_redshank/wikimedia/common_redshank_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 99575,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

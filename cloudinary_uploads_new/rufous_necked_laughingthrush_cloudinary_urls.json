@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "rufous_necked_laughingthrush",
+    "chinese_name": "栗颈噪鹛",
+    "english_name": "Rufous-necked Laughingthrush",
+    "scientific_name": "Pterorhinus ruficollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_necked_laughingthrush_204279961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171885/bird-gallery/rufous_necked_laughingthrush/macaulay/rufous_necked_laughingthrush_204279961.jpg",
+      "public_id": "bird-gallery/rufous_necked_laughingthrush/macaulay/rufous_necked_laughingthrush_204279961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 318725,
+      "attribution": {
+        "photographer": "Holger Teichmann",
+        "photographer_url": "https://macaulaylibrary.org/asset/204279961",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Holger Teichmann; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204279961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_necked_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171886/bird-gallery/rufous_necked_laughingthrush/inaturalist/rufous_necked_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/rufous_necked_laughingthrush/inaturalist/rufous_necked_laughingthrush_1",
+      "width": 1024,
+      "height": 949,
+      "format": "jpg",
+      "bytes": 457622,
+      "attribution": {
+        "photographer": "rejoicegassah",
+        "photographer_url": "https://www.inaturalist.org/observations/75290654",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 75290654,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_10240477374_87874222fa_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171887/bird-gallery/rufous_necked_laughingthrush/avibase/avibase_1_10240477374_87874222fa_b.jpg",
+      "public_id": "bird-gallery/rufous_necked_laughingthrush/avibase/avibase_1_10240477374_87874222fa_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 178046,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "10240477374",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

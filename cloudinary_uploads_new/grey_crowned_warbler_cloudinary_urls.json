@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_crowned_warbler",
+    "chinese_name": "灰冠鹟莺",
+    "english_name": "Grey-crowned Warbler",
+    "scientific_name": "Phylloscopus tephrocephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_crowned_warbler_191349821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171692/bird-gallery/grey_crowned_warbler/macaulay/grey_crowned_warbler_191349821.jpg",
+      "public_id": "bird-gallery/grey_crowned_warbler/macaulay/grey_crowned_warbler_191349821",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 159657,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/191349821",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "191349821",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_crowned_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171693/bird-gallery/grey_crowned_warbler/inaturalist/grey_crowned_warbler_1.jpg",
+      "public_id": "bird-gallery/grey_crowned_warbler/inaturalist/grey_crowned_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 280604,
+      "attribution": {
+        "photographer": "rupperrt78",
+        "photographer_url": "https://www.inaturalist.org/observations/101809209",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rupperrt78 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 101809209,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_30242566456_b861de6579_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171694/bird-gallery/grey_crowned_warbler/avibase/avibase_1_30242566456_b861de6579_b.jpg",
+      "public_id": "bird-gallery/grey_crowned_warbler/avibase/avibase_1_30242566456_b861de6579_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 204983,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "30242566456",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

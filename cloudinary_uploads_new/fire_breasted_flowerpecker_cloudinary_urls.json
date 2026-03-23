@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "fire_breasted_flowerpecker",
+    "chinese_name": "红胸啄花鸟",
+    "english_name": "Fire-breasted Flowerpecker",
+    "scientific_name": "Dicaeum ignipectus"
+  },
+  "macaulay": [
+    {
+      "original_file": "fire_breasted_flowerpecker_252587661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171644/bird-gallery/fire_breasted_flowerpecker/macaulay/fire_breasted_flowerpecker_252587661.jpg",
+      "public_id": "bird-gallery/fire_breasted_flowerpecker/macaulay/fire_breasted_flowerpecker_252587661",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 145864,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/252587661",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "252587661",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "fire_breasted_flowerpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171645/bird-gallery/fire_breasted_flowerpecker/inaturalist/fire_breasted_flowerpecker_1.jpg",
+      "public_id": "bird-gallery/fire_breasted_flowerpecker/inaturalist/fire_breasted_flowerpecker_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 534880,
+      "attribution": {
+        "photographer": "matthewkwan",
+        "photographer_url": "https://www.inaturalist.org/observations/81512174",
+        "license": "cc-by-nd",
+        "license_url": null,
+        "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-ND)",
+        "source": "inaturalist",
+        "source_id": 81512174,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "fire_breasted_flowerpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171646/bird-gallery/fire_breasted_flowerpecker/wikimedia/fire_breasted_flowerpecker_1.jpg",
+      "public_id": "bird-gallery/fire_breasted_flowerpecker/wikimedia/fire_breasted_flowerpecker_1",
+      "width": 1280,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 230545,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_30161596888_35935d9f45_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171646/bird-gallery/fire_breasted_flowerpecker/avibase/avibase_1_30161596888_35935d9f45_b.jpg",
+      "public_id": "bird-gallery/fire_breasted_flowerpecker/avibase/avibase_1_30161596888_35935d9f45_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 138000,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "30161596888",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

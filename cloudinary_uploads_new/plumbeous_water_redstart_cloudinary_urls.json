@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "plumbeous_water_redstart",
+    "chinese_name": "红尾水鸲",
+    "english_name": "Plumbeous Water Redstart",
+    "scientific_name": "Phoenicurus fuliginosus"
+  },
+  "macaulay": [
+    {
+      "original_file": "plumbeous_water_redstart_199331201.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171840/bird-gallery/plumbeous_water_redstart/macaulay/plumbeous_water_redstart_199331201.jpg",
+      "public_id": "bird-gallery/plumbeous_water_redstart/macaulay/plumbeous_water_redstart_199331201",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 217404,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/199331201",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "199331201",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "plumbeous_water_redstart_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171841/bird-gallery/plumbeous_water_redstart/inaturalist/plumbeous_water_redstart_1.jpg",
+      "public_id": "bird-gallery/plumbeous_water_redstart/inaturalist/plumbeous_water_redstart_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 395475,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "plumbeous_water_redstart_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171842/bird-gallery/plumbeous_water_redstart/wikimedia/plumbeous_water_redstart_1.jpg",
+      "public_id": "bird-gallery/plumbeous_water_redstart/wikimedia/plumbeous_water_redstart_1",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 188654,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

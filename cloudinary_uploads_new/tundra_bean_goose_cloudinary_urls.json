@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "tundra_bean_goose",
+    "chinese_name": "短嘴豆雁",
+    "english_name": "Tundra Bean Goose",
+    "scientific_name": "Anser serrirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "tundra_bean_goose_298193181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171952/bird-gallery/tundra_bean_goose/macaulay/tundra_bean_goose_298193181.jpg",
+      "public_id": "bird-gallery/tundra_bean_goose/macaulay/tundra_bean_goose_298193181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 127709,
+      "attribution": {
+        "photographer": "Tony Dvorak",
+        "photographer_url": "https://macaulaylibrary.org/asset/298193181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Tony Dvorak; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "298193181",
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "tundra_bean_goose_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171953/bird-gallery/tundra_bean_goose/wikimedia/tundra_bean_goose_1.jpg",
+      "public_id": "bird-gallery/tundra_bean_goose/wikimedia/tundra_bean_goose_1",
+      "width": 1280,
+      "height": 968,
+      "format": "jpg",
+      "bytes": 385004,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_52817024112_2ec33b119a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171954/bird-gallery/tundra_bean_goose/avibase/avibase_2_52817024112_2ec33b119a_b.jpg",
+      "public_id": "bird-gallery/tundra_bean_goose/avibase/avibase_2_52817024112_2ec33b119a_b",
+      "width": 1024,
+      "height": 817,
+      "format": "jpg",
+      "bytes": 142105,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52817024112",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

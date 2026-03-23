@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "red_headed_trogon",
+    "chinese_name": "红头咬鹃",
+    "english_name": "Red-headed Trogon",
+    "scientific_name": "Harpactes erythrocephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_headed_trogon_296721021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171855/bird-gallery/red_headed_trogon/macaulay/red_headed_trogon_296721021.jpg",
+      "public_id": "bird-gallery/red_headed_trogon/macaulay/red_headed_trogon_296721021",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 199839,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/296721021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "296721021",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_headed_trogon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171856/bird-gallery/red_headed_trogon/inaturalist/red_headed_trogon_1.jpg",
+      "public_id": "bird-gallery/red_headed_trogon/inaturalist/red_headed_trogon_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 361237,
+      "attribution": {
+        "photographer": "qin_huang",
+        "photographer_url": "https://www.inaturalist.org/observations/138276278",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© qin_huang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 138276278,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "red_headed_trogon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171857/bird-gallery/red_headed_trogon/wikimedia/red_headed_trogon_1.jpg",
+      "public_id": "bird-gallery/red_headed_trogon/wikimedia/red_headed_trogon_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 184621,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_26365813130_49532293a8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171858/bird-gallery/red_headed_trogon/avibase/avibase_1_26365813130_49532293a8_b.jpg",
+      "public_id": "bird-gallery/red_headed_trogon/avibase/avibase_1_26365813130_49532293a8_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 139226,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26365813130",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

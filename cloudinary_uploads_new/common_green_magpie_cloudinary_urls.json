@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_green_magpie",
+    "chinese_name": "蓝绿鹊",
+    "english_name": "Common Green Magpie",
+    "scientific_name": "Cissa chinensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_green_magpie_297596281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171582/bird-gallery/common_green_magpie/macaulay/common_green_magpie_297596281.jpg",
+      "public_id": "bird-gallery/common_green_magpie/macaulay/common_green_magpie_297596281",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 239532,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/297596281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "297596281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_green_magpie_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171583/bird-gallery/common_green_magpie/inaturalist/common_green_magpie_1.jpg",
+      "public_id": "bird-gallery/common_green_magpie/inaturalist/common_green_magpie_1",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 359061,
+      "attribution": {
+        "photographer": "fernwild",
+        "photographer_url": "https://www.inaturalist.org/observations/40028193",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© fernwild (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 40028193,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_green_magpie_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171584/bird-gallery/common_green_magpie/wikimedia/common_green_magpie_1.jpg",
+      "public_id": "bird-gallery/common_green_magpie/wikimedia/common_green_magpie_1",
+      "width": 1280,
+      "height": 964,
+      "format": "jpg",
+      "bytes": 210929,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51221370639_797e7fa42f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171584/bird-gallery/common_green_magpie/avibase/avibase_1_51221370639_797e7fa42f_b.jpg",
+      "public_id": "bird-gallery/common_green_magpie/avibase/avibase_1_51221370639_797e7fa42f_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 229748,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51221370639",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

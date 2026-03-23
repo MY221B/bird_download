@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "pallass_leaf_warbler",
+    "chinese_name": "黄腰柳莺",
+    "english_name": "Pallas's Leaf Warbler",
+    "scientific_name": "Phylloscopus proregulus"
+  },
+  "macaulay": [
+    {
+      "original_file": "pallass_leaf_warbler_181096601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171823/bird-gallery/pallass_leaf_warbler/macaulay/pallass_leaf_warbler_181096601.jpg",
+      "public_id": "bird-gallery/pallass_leaf_warbler/macaulay/pallass_leaf_warbler_181096601",
+      "width": 1200,
+      "height": 753,
+      "format": "jpg",
+      "bytes": 133136,
+      "attribution": {
+        "photographer": "Anton Liebermann",
+        "photographer_url": "https://macaulaylibrary.org/asset/181096601",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anton Liebermann; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "181096601",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pallass_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171824/bird-gallery/pallass_leaf_warbler/inaturalist/pallass_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/pallass_leaf_warbler/inaturalist/pallass_leaf_warbler_1",
+      "width": 1024,
+      "height": 734,
+      "format": "jpg",
+      "bytes": 405734,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "pallass_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171826/bird-gallery/pallass_leaf_warbler/wikimedia/pallass_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/pallass_leaf_warbler/wikimedia/pallass_leaf_warbler_1",
+      "width": 960,
+      "height": 1234,
+      "format": "jpg",
+      "bytes": 173736,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50631176951_53cea5122f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171828/bird-gallery/pallass_leaf_warbler/avibase/avibase_1_50631176951_53cea5122f_b.jpg",
+      "public_id": "bird-gallery/pallass_leaf_warbler/avibase/avibase_1_50631176951_53cea5122f_b",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 127478,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

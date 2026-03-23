@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_naped_crane",
+    "chinese_name": "白枕鹤",
+    "english_name": "White-naped Crane",
+    "scientific_name": "Antigone vipio"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_naped_crane_624939810.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171985/bird-gallery/white_naped_crane/macaulay/white_naped_crane_624939810.jpg",
+      "public_id": "bird-gallery/white_naped_crane/macaulay/white_naped_crane_624939810",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 92464,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/624939810",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624939810",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_naped_crane_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171987/bird-gallery/white_naped_crane/inaturalist/white_naped_crane_1.jpg",
+      "public_id": "bird-gallery/white_naped_crane/inaturalist/white_naped_crane_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 331487,
+      "attribution": {
+        "photographer": "durubird",
+        "photographer_url": "https://www.inaturalist.org/observations/336661554",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© durubird (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 336661554,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_naped_crane_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171987/bird-gallery/white_naped_crane/wikimedia/white_naped_crane_1.jpg",
+      "public_id": "bird-gallery/white_naped_crane/wikimedia/white_naped_crane_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 340069,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49098125008_0bd7fb5954_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171988/bird-gallery/white_naped_crane/avibase/avibase_1_49098125008_0bd7fb5954_b.jpg",
+      "public_id": "bird-gallery/white_naped_crane/avibase/avibase_1_49098125008_0bd7fb5954_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 267376,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49098125008",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

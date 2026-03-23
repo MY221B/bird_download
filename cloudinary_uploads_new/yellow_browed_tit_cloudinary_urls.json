@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "yellow_browed_tit",
+    "chinese_name": "黄眉林雀",
+    "english_name": "Yellow-browed Tit",
+    "scientific_name": "Sylviparus modestus"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_browed_tit_421582821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172007/bird-gallery/yellow_browed_tit/macaulay/yellow_browed_tit_421582821.jpg",
+      "public_id": "bird-gallery/yellow_browed_tit/macaulay/yellow_browed_tit_421582821",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 215591,
+      "attribution": {
+        "photographer": "Su Li",
+        "photographer_url": "https://macaulaylibrary.org/asset/421582821",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Su Li; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "421582821",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_browed_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172008/bird-gallery/yellow_browed_tit/inaturalist/yellow_browed_tit_1.jpg",
+      "public_id": "bird-gallery/yellow_browed_tit/inaturalist/yellow_browed_tit_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 374491,
+      "attribution": {
+        "photographer": "makopisces",
+        "photographer_url": "https://www.inaturalist.org/observations/204295178",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© makopisces (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 204295178,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "yellow_browed_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172009/bird-gallery/yellow_browed_tit/wikimedia/yellow_browed_tit_1.jpg",
+      "public_id": "bird-gallery/yellow_browed_tit/wikimedia/yellow_browed_tit_1",
+      "width": 1280,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 133515,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_53536967921_0d251fa32b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172010/bird-gallery/yellow_browed_tit/avibase/avibase_2_53536967921_0d251fa32b_b.jpg",
+      "public_id": "bird-gallery/yellow_browed_tit/avibase/avibase_2_53536967921_0d251fa32b_b",
+      "width": 1023,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 103251,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53536967921",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "red_tailed_minla",
+    "chinese_name": "火尾希鹛",
+    "english_name": "Red-tailed Minla",
+    "scientific_name": "Minla ignotincta"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_tailed_minla_46328241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171859/bird-gallery/red_tailed_minla/macaulay/red_tailed_minla_46328241.jpg",
+      "public_id": "bird-gallery/red_tailed_minla/macaulay/red_tailed_minla_46328241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 114786,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/46328241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "46328241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_tailed_minla_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171860/bird-gallery/red_tailed_minla/inaturalist/red_tailed_minla_1.jpg",
+      "public_id": "bird-gallery/red_tailed_minla/inaturalist/red_tailed_minla_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 307892,
+      "attribution": {
+        "photographer": "samnew88",
+        "photographer_url": "https://www.inaturalist.org/observations/199359424",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© samnew88 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 199359424,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "red_tailed_minla_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171862/bird-gallery/red_tailed_minla/wikimedia/red_tailed_minla_1.jpg",
+      "public_id": "bird-gallery/red_tailed_minla/wikimedia/red_tailed_minla_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 215344,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_26074414628_0064693bd8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171863/bird-gallery/red_tailed_minla/avibase/avibase_1_26074414628_0064693bd8_b.jpg",
+      "public_id": "bird-gallery/red_tailed_minla/avibase/avibase_1_26074414628_0064693bd8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 181807,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26074414628",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

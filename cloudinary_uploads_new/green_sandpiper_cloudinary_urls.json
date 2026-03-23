@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "green_sandpiper",
+    "chinese_name": "白腰草鹬",
+    "english_name": "Green Sandpiper",
+    "scientific_name": "Tringa ochropus"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_sandpiper_318530531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171684/bird-gallery/green_sandpiper/macaulay/green_sandpiper_318530531.jpg",
+      "public_id": "bird-gallery/green_sandpiper/macaulay/green_sandpiper_318530531",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 142890,
+      "attribution": {
+        "photographer": "Shachar Hizkiya",
+        "photographer_url": "https://macaulaylibrary.org/asset/318530531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Shachar Hizkiya; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "318530531",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_sandpiper_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171685/bird-gallery/green_sandpiper/inaturalist/green_sandpiper_2.jpg",
+      "public_id": "bird-gallery/green_sandpiper/inaturalist/green_sandpiper_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 564839,
+      "attribution": {
+        "photographer": "shtepbraiter",
+        "photographer_url": "https://www.inaturalist.org/observations/72076692",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shtepbraiter (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 72076692,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "green_sandpiper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171686/bird-gallery/green_sandpiper/wikimedia/green_sandpiper_1.jpg",
+      "public_id": "bird-gallery/green_sandpiper/wikimedia/green_sandpiper_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 477888,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_55032030534_cb3a9dd49b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171687/bird-gallery/green_sandpiper/avibase/avibase_1_55032030534_cb3a9dd49b_b.jpg",
+      "public_id": "bird-gallery/green_sandpiper/avibase/avibase_1_55032030534_cb3a9dd49b_b",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 230630,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "55032030534",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

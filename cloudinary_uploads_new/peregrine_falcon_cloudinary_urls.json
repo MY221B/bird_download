@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "peregrine_falcon",
+    "chinese_name": "游隼",
+    "english_name": "Peregrine Falcon",
+    "scientific_name": "Falco peregrinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "peregrine_falcon_173634631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171827/bird-gallery/peregrine_falcon/macaulay/peregrine_falcon_173634631.jpg",
+      "public_id": "bird-gallery/peregrine_falcon/macaulay/peregrine_falcon_173634631",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 126822,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/173634631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "173634631",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "peregrine_falcon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171828/bird-gallery/peregrine_falcon/inaturalist/peregrine_falcon_1.jpg",
+      "public_id": "bird-gallery/peregrine_falcon/inaturalist/peregrine_falcon_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 301734,
+      "attribution": {
+        "photographer": "shaneoneal",
+        "photographer_url": "https://www.inaturalist.org/observations/21143794",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© shaneoneal (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 21143794,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "peregrine_falcon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171829/bird-gallery/peregrine_falcon/wikimedia/peregrine_falcon_1.jpg",
+      "public_id": "bird-gallery/peregrine_falcon/wikimedia/peregrine_falcon_1",
+      "width": 986,
+      "height": 1199,
+      "format": "jpg",
+      "bytes": 245385,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53484636751_84ea89e487_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171830/bird-gallery/peregrine_falcon/avibase/avibase_1_53484636751_84ea89e487_b.jpg",
+      "public_id": "bird-gallery/peregrine_falcon/avibase/avibase_1_53484636751_84ea89e487_b",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 282942,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53484636751",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

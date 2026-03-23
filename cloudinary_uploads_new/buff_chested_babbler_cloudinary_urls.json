@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "buff_chested_babbler",
+    "chinese_name": "黄喉穗鹛",
+    "english_name": "Buff-chested Babbler",
+    "scientific_name": "Cyanoderma ambiguum"
+  },
+  "inaturalist": [
+    {
+      "original_file": "buff_chested_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171541/bird-gallery/buff_chested_babbler/inaturalist/buff_chested_babbler_1.jpg",
+      "public_id": "bird-gallery/buff_chested_babbler/inaturalist/buff_chested_babbler_1",
+      "width": 1024,
+      "height": 658,
+      "format": "jpg",
+      "bytes": 335602,
+      "attribution": {
+        "photographer": "gaurabtalukdar",
+        "photographer_url": "https://www.inaturalist.org/observations/105351528",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gaurabtalukdar (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105351528,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "buff_chested_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171542/bird-gallery/buff_chested_babbler/wikimedia/buff_chested_babbler_1.jpg",
+      "public_id": "bird-gallery/buff_chested_babbler/wikimedia/buff_chested_babbler_1",
+      "width": 1224,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 279810,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

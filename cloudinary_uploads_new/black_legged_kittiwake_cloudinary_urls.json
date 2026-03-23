@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "black_legged_kittiwake",
+    "chinese_name": "三趾鸥",
+    "english_name": "Black-legged Kittiwake",
+    "scientific_name": "Rissa tridactyla"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_legged_kittiwake_167803911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171501/bird-gallery/black_legged_kittiwake/macaulay/black_legged_kittiwake_167803911.jpg",
+      "public_id": "bird-gallery/black_legged_kittiwake/macaulay/black_legged_kittiwake_167803911",
+      "width": 1200,
+      "height": 723,
+      "format": "jpg",
+      "bytes": 96017,
+      "attribution": {
+        "photographer": "Doug Gochfeld",
+        "photographer_url": "https://macaulaylibrary.org/asset/167803911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Doug Gochfeld; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "167803911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_legged_kittiwake_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171502/bird-gallery/black_legged_kittiwake/inaturalist/black_legged_kittiwake_1.jpg",
+      "public_id": "bird-gallery/black_legged_kittiwake/inaturalist/black_legged_kittiwake_1",
+      "width": 1024,
+      "height": 642,
+      "format": "jpg",
+      "bytes": 711641,
+      "attribution": {
+        "photographer": "gmucientes",
+        "photographer_url": "https://www.inaturalist.org/observations/18289367",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gmucientes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18289367,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_legged_kittiwake_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171502/bird-gallery/black_legged_kittiwake/wikimedia/black_legged_kittiwake_1.jpg",
+      "public_id": "bird-gallery/black_legged_kittiwake/wikimedia/black_legged_kittiwake_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 158380,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53087080866_391a13572f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171503/bird-gallery/black_legged_kittiwake/avibase/avibase_1_53087080866_391a13572f_b.jpg",
+      "public_id": "bird-gallery/black_legged_kittiwake/avibase/avibase_1_53087080866_391a13572f_b",
+      "width": 1024,
+      "height": 761,
+      "format": "jpg",
+      "bytes": 113798,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53087080866",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

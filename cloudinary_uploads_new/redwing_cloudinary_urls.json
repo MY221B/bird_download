@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "redwing",
+    "chinese_name": "白眉歌鸫",
+    "english_name": "Redwing",
+    "scientific_name": "Turdus iliacus"
+  },
+  "macaulay": [
+    {
+      "original_file": "redwing_220059681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171864/bird-gallery/redwing/macaulay/redwing_220059681.jpg",
+      "public_id": "bird-gallery/redwing/macaulay/redwing_220059681",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103209,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/220059681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "220059681",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "redwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171865/bird-gallery/redwing/inaturalist/redwing_1.jpg",
+      "public_id": "bird-gallery/redwing/inaturalist/redwing_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 674171,
+      "attribution": {
+        "photographer": "patrickfelker",
+        "photographer_url": "https://www.inaturalist.org/observations/143973410",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© patrickfelker (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143973410,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "redwing_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171866/bird-gallery/redwing/wikimedia/redwing_1.jpg",
+      "public_id": "bird-gallery/redwing/wikimedia/redwing_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 207722,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53062977308_d6aaf0a64a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171867/bird-gallery/redwing/avibase/avibase_1_53062977308_d6aaf0a64a_b.jpg",
+      "public_id": "bird-gallery/redwing/avibase/avibase_1_53062977308_d6aaf0a64a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 191753,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53062977308",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

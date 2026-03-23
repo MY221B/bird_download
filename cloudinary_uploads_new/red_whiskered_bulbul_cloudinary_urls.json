@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "red_whiskered_bulbul",
+    "chinese_name": "红耳鹎",
+    "english_name": "Red-whiskered Bulbul",
+    "scientific_name": "Pycnonotus jocosus"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_whiskered_bulbul_299580921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171864/bird-gallery/red_whiskered_bulbul/macaulay/red_whiskered_bulbul_299580921.jpg",
+      "public_id": "bird-gallery/red_whiskered_bulbul/macaulay/red_whiskered_bulbul_299580921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 238757,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/299580921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "299580921",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_whiskered_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171865/bird-gallery/red_whiskered_bulbul/inaturalist/red_whiskered_bulbul_1.jpg",
+      "public_id": "bird-gallery/red_whiskered_bulbul/inaturalist/red_whiskered_bulbul_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 266427,
+      "attribution": {
+        "photographer": "jeanphilippeb",
+        "photographer_url": "https://www.inaturalist.org/observations/36126853",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanphilippeb (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36126853,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49662397661_f4f90c5fce_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171866/bird-gallery/red_whiskered_bulbul/avibase/avibase_1_49662397661_f4f90c5fce_b.jpg",
+      "public_id": "bird-gallery/red_whiskered_bulbul/avibase/avibase_1_49662397661_f4f90c5fce_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 172212,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49662397661",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

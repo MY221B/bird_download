@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "asian_green_bee_eater",
+    "chinese_name": "绿喉蜂虎",
+    "english_name": "Asian Green Bee Eater",
+    "scientific_name": "Merops orientalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "asian_green_bee_eater_268682041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171468/bird-gallery/asian_green_bee_eater/macaulay/asian_green_bee_eater_268682041.jpg",
+      "public_id": "bird-gallery/asian_green_bee_eater/macaulay/asian_green_bee_eater_268682041",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 162524,
+      "attribution": {
+        "photographer": "Nepal Important  Bird Records",
+        "photographer_url": "https://macaulaylibrary.org/asset/268682041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Nepal Important  Bird Records; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "268682041",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "asian_green_bee_eater_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171469/bird-gallery/asian_green_bee_eater/inaturalist/asian_green_bee_eater_1.jpg",
+      "public_id": "bird-gallery/asian_green_bee_eater/inaturalist/asian_green_bee_eater_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 590809,
+      "attribution": {
+        "photographer": "saurabh_chinkara",
+        "photographer_url": "https://www.inaturalist.org/observations/6048111",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© saurabh_chinkara (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 6048111,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51792155810_b660c78804_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171470/bird-gallery/asian_green_bee_eater/avibase/avibase_1_51792155810_b660c78804_b.jpg",
+      "public_id": "bird-gallery/asian_green_bee_eater/avibase/avibase_1_51792155810_b660c78804_b",
+      "width": 683,
+      "height": 1023,
+      "format": "jpg",
+      "bytes": 125610,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51792155810",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

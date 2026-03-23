@@ -1,0 +1,86 @@
+{
+  "bird_info": {
+    "slug": "mallard",
+    "chinese_name": "绿头鸭",
+    "english_name": "Mallard",
+    "scientific_name": "Anas platyrhynchos"
+  },
+  "macaulay": [
+    {
+      "original_file": "mallard_263233471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171768/bird-gallery/mallard/macaulay/mallard_263233471.jpg",
+      "public_id": "bird-gallery/mallard/macaulay/mallard_263233471",
+      "width": 1200,
+      "height": 703,
+      "format": "jpg",
+      "bytes": 177664,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/263233471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "263233471",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mallard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171769/bird-gallery/mallard/inaturalist/mallard_1.jpg",
+      "public_id": "bird-gallery/mallard/inaturalist/mallard_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 210894,
+      "attribution": {
+        "source": "inaturalist",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "mallard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171770/bird-gallery/mallard/wikimedia/mallard_1.jpg",
+      "public_id": "bird-gallery/mallard/wikimedia/mallard_1",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 442797,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48846172958_e654fdce0c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171771/bird-gallery/mallard/avibase/avibase_1_48846172958_e654fdce0c_b.jpg",
+      "public_id": "bird-gallery/mallard/avibase/avibase_1_48846172958_e654fdce0c_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 203127,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_bellied_redstart",
+    "chinese_name": "白腹短翅鸲",
+    "english_name": "White-bellied Redstart",
+    "scientific_name": "Luscinia phaenicuroides"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_bellied_redstart_135203051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171971/bird-gallery/white_bellied_redstart/macaulay/white_bellied_redstart_135203051.jpg",
+      "public_id": "bird-gallery/white_bellied_redstart/macaulay/white_bellied_redstart_135203051",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 232230,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/135203051",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "135203051",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_bellied_redstart_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171972/bird-gallery/white_bellied_redstart/inaturalist/white_bellied_redstart_1.jpg",
+      "public_id": "bird-gallery/white_bellied_redstart/inaturalist/white_bellied_redstart_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 313931,
+      "attribution": {
+        "photographer": "matthewkwan",
+        "photographer_url": "https://www.inaturalist.org/observations/122899866",
+        "license": "cc-by-nd",
+        "license_url": null,
+        "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-ND)",
+        "source": "inaturalist",
+        "source_id": 122899866,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_bellied_redstart_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171973/bird-gallery/white_bellied_redstart/wikimedia/white_bellied_redstart_1.jpg",
+      "public_id": "bird-gallery/white_bellied_redstart/wikimedia/white_bellied_redstart_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 142132,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_33578260522_d6ca3e45e7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171974/bird-gallery/white_bellied_redstart/avibase/avibase_2_33578260522_d6ca3e45e7_b.jpg",
+      "public_id": "bird-gallery/white_bellied_redstart/avibase/avibase_2_33578260522_d6ca3e45e7_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 128660,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "33578260522",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

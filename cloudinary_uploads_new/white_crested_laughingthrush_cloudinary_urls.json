@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_crested_laughingthrush",
+    "chinese_name": "白冠噪鹛",
+    "english_name": "White-crested Laughingthrush",
+    "scientific_name": "Garrulax leucolophus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_crested_laughingthrush_139906031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171980/bird-gallery/white_crested_laughingthrush/macaulay/white_crested_laughingthrush_139906031.jpg",
+      "public_id": "bird-gallery/white_crested_laughingthrush/macaulay/white_crested_laughingthrush_139906031",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 141900,
+      "attribution": {
+        "photographer": "JJ Harrison",
+        "photographer_url": "https://macaulaylibrary.org/asset/139906031",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by JJ Harrison; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "139906031",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_crested_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171981/bird-gallery/white_crested_laughingthrush/inaturalist/white_crested_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/white_crested_laughingthrush/inaturalist/white_crested_laughingthrush_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 481427,
+      "attribution": {
+        "photographer": "rajkoranga",
+        "photographer_url": "https://www.inaturalist.org/observations/194106039",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rajkoranga (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 194106039,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_crested_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171982/bird-gallery/white_crested_laughingthrush/wikimedia/white_crested_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/white_crested_laughingthrush/wikimedia/white_crested_laughingthrush_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 170794,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_40234490094_2bd2b060d2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171983/bird-gallery/white_crested_laughingthrush/avibase/avibase_1_40234490094_2bd2b060d2_b.jpg",
+      "public_id": "bird-gallery/white_crested_laughingthrush/avibase/avibase_1_40234490094_2bd2b060d2_b",
+      "width": 1023,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 166086,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40234490094",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

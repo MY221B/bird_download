@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "crested_finchbill",
+    "chinese_name": "凤头雀嘴鹎",
+    "english_name": "Crested Finchbill",
+    "scientific_name": "Spizixos canifrons"
+  },
+  "macaulay": [
+    {
+      "original_file": "crested_finchbill_142019071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171602/bird-gallery/crested_finchbill/macaulay/crested_finchbill_142019071.jpg",
+      "public_id": "bird-gallery/crested_finchbill/macaulay/crested_finchbill_142019071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 217797,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/142019071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "142019071",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crested_finchbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171603/bird-gallery/crested_finchbill/inaturalist/crested_finchbill_1.jpg",
+      "public_id": "bird-gallery/crested_finchbill/inaturalist/crested_finchbill_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 416388,
+      "attribution": {
+        "photographer": "bronn",
+        "photographer_url": "https://www.inaturalist.org/observations/203115485",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bronn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 203115485,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51488051684_42da04d9c3_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171604/bird-gallery/crested_finchbill/avibase/avibase_1_51488051684_42da04d9c3_b.jpg",
+      "public_id": "bird-gallery/crested_finchbill/avibase/avibase_1_51488051684_42da04d9c3_b",
+      "width": 697,
+      "height": 1023,
+      "format": "jpg",
+      "bytes": 150953,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51488051684",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

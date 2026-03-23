@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "northern_pintail",
+    "chinese_name": "针尾鸭",
+    "english_name": "Northern Pintail",
+    "scientific_name": "Anas acuta"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_pintail_424361601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171795/bird-gallery/northern_pintail/macaulay/northern_pintail_424361601.jpg",
+      "public_id": "bird-gallery/northern_pintail/macaulay/northern_pintail_424361601",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 66594,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/424361601",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "424361601",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_pintail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171796/bird-gallery/northern_pintail/inaturalist/northern_pintail_1.jpg",
+      "public_id": "bird-gallery/northern_pintail/inaturalist/northern_pintail_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 478249,
+      "attribution": {
+        "photographer": "liliumtbn",
+        "photographer_url": "https://www.inaturalist.org/observations/20495148",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© liliumtbn (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 20495148,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52809000510_77f2f38af2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171797/bird-gallery/northern_pintail/avibase/avibase_1_52809000510_77f2f38af2_b.jpg",
+      "public_id": "bird-gallery/northern_pintail/avibase/avibase_1_52809000510_77f2f38af2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 107402,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52809000510",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

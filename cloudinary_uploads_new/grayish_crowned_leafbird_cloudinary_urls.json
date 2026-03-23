@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "grayish_crowned_leafbird",
+    "chinese_name": "橙腹叶鹎",
+    "english_name": "Grayish-crowned Leafbird",
+    "scientific_name": "Chloropsis lazulina"
+  },
+  "inaturalist": [
+    {
+      "original_file": "grayish_crowned_leafbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171664/bird-gallery/grayish_crowned_leafbird/inaturalist/grayish_crowned_leafbird_1.jpg",
+      "public_id": "bird-gallery/grayish_crowned_leafbird/inaturalist/grayish_crowned_leafbird_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 171401,
+      "attribution": {
+        "photographer": "abcdefgewing",
+        "photographer_url": "https://www.inaturalist.org/observations/337178657",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© abcdefgewing (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337178657,
+        "note": null
+      }
+    }
+  ]
+}

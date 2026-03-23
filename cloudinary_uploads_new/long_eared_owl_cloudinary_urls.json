@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "long_eared_owl",
+    "chinese_name": "长耳鸮",
+    "english_name": "Long-eared Owl",
+    "scientific_name": "Asio otus"
+  },
+  "macaulay": [
+    {
+      "original_file": "long_eared_owl_139251191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171765/bird-gallery/long_eared_owl/macaulay/long_eared_owl_139251191.png",
+      "public_id": "bird-gallery/long_eared_owl/macaulay/long_eared_owl_139251191",
+      "width": 1200,
+      "height": 833,
+      "format": "png",
+      "bytes": 1171120,
+      "attribution": {
+        "photographer": "Christopher Lindsey",
+        "photographer_url": "https://macaulaylibrary.org/asset/139251191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Christopher Lindsey; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "139251191",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "long_eared_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171766/bird-gallery/long_eared_owl/inaturalist/long_eared_owl_1.jpg",
+      "public_id": "bird-gallery/long_eared_owl/inaturalist/long_eared_owl_1",
+      "width": 1024,
+      "height": 673,
+      "format": "jpg",
+      "bytes": 201074,
+      "attribution": {
+        "photographer": "ossifrage94",
+        "photographer_url": "https://www.inaturalist.org/observations/35819512",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© ossifrage94 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 35819512,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50936301786_28346e26a7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171767/bird-gallery/long_eared_owl/avibase/avibase_1_50936301786_28346e26a7_b.jpg",
+      "public_id": "bird-gallery/long_eared_owl/avibase/avibase_1_50936301786_28346e26a7_b",
+      "width": 1024,
+      "height": 703,
+      "format": "jpg",
+      "bytes": 106341,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50936301786",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

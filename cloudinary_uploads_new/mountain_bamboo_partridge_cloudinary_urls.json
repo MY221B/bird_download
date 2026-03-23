@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "mountain_bamboo_partridge",
+    "chinese_name": "棕胸竹鸡",
+    "english_name": "Mountain Bamboo Partridge",
+    "scientific_name": "Bambusicola fytchii"
+  },
+  "macaulay": [
+    {
+      "original_file": "mountain_bamboo_partridge_160407281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171781/bird-gallery/mountain_bamboo_partridge/macaulay/mountain_bamboo_partridge_160407281.jpg",
+      "public_id": "bird-gallery/mountain_bamboo_partridge/macaulay/mountain_bamboo_partridge_160407281",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 184034,
+      "attribution": {
+        "photographer": "Matthew Kwan",
+        "photographer_url": "https://macaulaylibrary.org/asset/160407281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matthew Kwan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "160407281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mountain_bamboo_partridge_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171782/bird-gallery/mountain_bamboo_partridge/inaturalist/mountain_bamboo_partridge_1.jpg",
+      "public_id": "bird-gallery/mountain_bamboo_partridge/inaturalist/mountain_bamboo_partridge_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 266057,
+      "attribution": {
+        "photographer": "veronicafoo",
+        "photographer_url": "https://www.inaturalist.org/observations/141886189",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© veronicafoo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 141886189,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "mountain_bamboo_partridge_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171784/bird-gallery/mountain_bamboo_partridge/wikimedia/mountain_bamboo_partridge_1.jpg",
+      "public_id": "bird-gallery/mountain_bamboo_partridge/wikimedia/mountain_bamboo_partridge_1",
+      "width": 1280,
+      "height": 959,
+      "format": "jpg",
+      "bytes": 520140,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_47955670386_bddc3f4501_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171784/bird-gallery/mountain_bamboo_partridge/avibase/avibase_1_47955670386_bddc3f4501_b.jpg",
+      "public_id": "bird-gallery/mountain_bamboo_partridge/avibase/avibase_1_47955670386_bddc3f4501_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 211848,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "47955670386",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

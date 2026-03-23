@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_plover",
+    "chinese_name": "灰鸻",
+    "english_name": "Grey Plover",
+    "scientific_name": "Pluvialis squatarola"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_plover_284437801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171700/bird-gallery/grey_plover/macaulay/grey_plover_284437801.jpg",
+      "public_id": "bird-gallery/grey_plover/macaulay/grey_plover_284437801",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75101,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/284437801",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "284437801",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171700/bird-gallery/grey_plover/inaturalist/grey_plover_1.jpg",
+      "public_id": "bird-gallery/grey_plover/inaturalist/grey_plover_1",
+      "width": 1024,
+      "height": 651,
+      "format": "jpg",
+      "bytes": 576091,
+      "attribution": {
+        "photographer": "salamamber",
+        "photographer_url": "https://www.inaturalist.org/observations/13280973",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© salamamber (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 13280973,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_53930465014_9294c6d33d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171701/bird-gallery/grey_plover/avibase/avibase_2_53930465014_9294c6d33d_b.jpg",
+      "public_id": "bird-gallery/grey_plover/avibase/avibase_2_53930465014_9294c6d33d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 237239,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53930465014",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

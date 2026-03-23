@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "collared_finchbill",
+    "chinese_name": "领雀嘴鹎",
+    "english_name": "Collared Finchbill",
+    "scientific_name": "Spizixos semitorques"
+  },
+  "macaulay": [
+    {
+      "original_file": "collared_finchbill_105371751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171576/bird-gallery/collared_finchbill/macaulay/collared_finchbill_105371751.png",
+      "public_id": "bird-gallery/collared_finchbill/macaulay/collared_finchbill_105371751",
+      "width": 1200,
+      "height": 750,
+      "format": "png",
+      "bytes": 2055334,
+      "attribution": {
+        "photographer": "Larry Chen",
+        "photographer_url": "https://macaulaylibrary.org/asset/105371751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Larry Chen; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "105371751",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "collared_finchbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171576/bird-gallery/collared_finchbill/inaturalist/collared_finchbill_1.jpg",
+      "public_id": "bird-gallery/collared_finchbill/inaturalist/collared_finchbill_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 397700,
+      "attribution": {
+        "photographer": "fangchen",
+        "photographer_url": "https://www.inaturalist.org/observations/260687363",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fangchen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 260687363,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "collared_finchbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171577/bird-gallery/collared_finchbill/wikimedia/collared_finchbill_1.jpg",
+      "public_id": "bird-gallery/collared_finchbill/wikimedia/collared_finchbill_1",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 211501,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_6980629614_8ea733e83a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171578/bird-gallery/collared_finchbill/avibase/avibase_1_6980629614_8ea733e83a_b.jpg",
+      "public_id": "bird-gallery/collared_finchbill/avibase/avibase_1_6980629614_8ea733e83a_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 114030,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "6980629614",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

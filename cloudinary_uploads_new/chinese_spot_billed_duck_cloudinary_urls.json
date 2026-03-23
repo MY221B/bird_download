@@ -1,0 +1,86 @@
+{
+  "bird_info": {
+    "slug": "chinese_spot_billed_duck",
+    "chinese_name": "斑嘴鸭",
+    "english_name": "Chinese Spot-billed Duck",
+    "scientific_name": "Anas zonorhyncha"
+  },
+  "macaulay": [
+    {
+      "original_file": "chinese_spot_billed_duck_26854871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171567/bird-gallery/chinese_spot_billed_duck/macaulay/chinese_spot_billed_duck_26854871.jpg",
+      "public_id": "bird-gallery/chinese_spot_billed_duck/macaulay/chinese_spot_billed_duck_26854871",
+      "width": 1200,
+      "height": 677,
+      "format": "jpg",
+      "bytes": 162719,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/26854871",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Chinese Spot-billed Duck by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "26854871",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chinese_spot_billed_duck_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171569/bird-gallery/chinese_spot_billed_duck/inaturalist/chinese_spot_billed_duck_1.jpg",
+      "public_id": "bird-gallery/chinese_spot_billed_duck/inaturalist/chinese_spot_billed_duck_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 570565,
+      "attribution": {
+        "source": "inaturalist",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "chinese_spot_billed_duck_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171569/bird-gallery/chinese_spot_billed_duck/wikimedia/chinese_spot_billed_duck_1.jpg",
+      "public_id": "bird-gallery/chinese_spot_billed_duck/wikimedia/chinese_spot_billed_duck_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 184235,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_22469431472_0d5155eb3e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171571/bird-gallery/chinese_spot_billed_duck/avibase/avibase_1_22469431472_0d5155eb3e_b.jpg",
+      "public_id": "bird-gallery/chinese_spot_billed_duck/avibase/avibase_1_22469431472_0d5155eb3e_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 150763,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://www.flickr.com/photo.gne?id=22469431472",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "22469431472",
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

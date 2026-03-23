@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "bay_woodpecker",
+    "chinese_name": "黄嘴栗啄木鸟",
+    "english_name": "Bay Woodpecker",
+    "scientific_name": "Blythipicus pyrrhotis"
+  },
+  "macaulay": [
+    {
+      "original_file": "bay_woodpecker_203381721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171480/bird-gallery/bay_woodpecker/macaulay/bay_woodpecker_203381721.jpg",
+      "public_id": "bird-gallery/bay_woodpecker/macaulay/bay_woodpecker_203381721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 186345,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/203381721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "203381721",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bay_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171481/bird-gallery/bay_woodpecker/inaturalist/bay_woodpecker_1.jpg",
+      "public_id": "bird-gallery/bay_woodpecker/inaturalist/bay_woodpecker_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 340896,
+      "attribution": {
+        "photographer": "pkyeung",
+        "photographer_url": "https://www.inaturalist.org/observations/91854606",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pkyeung (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 91854606,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53842537775_42e5ec6193_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171483/bird-gallery/bay_woodpecker/avibase/avibase_1_53842537775_42e5ec6193_b.jpg",
+      "public_id": "bird-gallery/bay_woodpecker/avibase/avibase_1_53842537775_42e5ec6193_b",
+      "width": 1024,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 362222,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53842537775",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

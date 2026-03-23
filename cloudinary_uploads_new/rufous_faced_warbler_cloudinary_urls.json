@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "rufous_faced_warbler",
+    "chinese_name": "棕脸鹟莺",
+    "english_name": "Rufous-faced Warbler",
+    "scientific_name": "Abroscopus albogularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_faced_warbler_131825811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171880/bird-gallery/rufous_faced_warbler/macaulay/rufous_faced_warbler_131825811.jpg",
+      "public_id": "bird-gallery/rufous_faced_warbler/macaulay/rufous_faced_warbler_131825811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 184664,
+      "attribution": {
+        "photographer": "Doug Gochfeld",
+        "photographer_url": "https://macaulaylibrary.org/asset/131825811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Doug Gochfeld; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "131825811",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_faced_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171881/bird-gallery/rufous_faced_warbler/inaturalist/rufous_faced_warbler_1.jpg",
+      "public_id": "bird-gallery/rufous_faced_warbler/inaturalist/rufous_faced_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 391107,
+      "attribution": {
+        "photographer": "ys_z",
+        "photographer_url": "https://www.inaturalist.org/observations/315161264",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ys_z (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 315161264,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_26849628428_36e5309a97_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171882/bird-gallery/rufous_faced_warbler/avibase/avibase_1_26849628428_36e5309a97_b.jpg",
+      "public_id": "bird-gallery/rufous_faced_warbler/avibase/avibase_1_26849628428_36e5309a97_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 918708,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26849628428",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

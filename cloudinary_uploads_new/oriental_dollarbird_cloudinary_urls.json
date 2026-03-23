@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "oriental_dollarbird",
+    "chinese_name": "三宝鸟",
+    "english_name": "Oriental Dollarbird",
+    "scientific_name": "Eurystomus orientalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_dollarbird_382216911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171801/bird-gallery/oriental_dollarbird/macaulay/oriental_dollarbird_382216911.jpg",
+      "public_id": "bird-gallery/oriental_dollarbird/macaulay/oriental_dollarbird_382216911",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 154234,
+      "attribution": {
+        "photographer": "Ken Tay",
+        "photographer_url": "https://macaulaylibrary.org/asset/382216911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ken Tay; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "382216911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_dollarbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171802/bird-gallery/oriental_dollarbird/inaturalist/oriental_dollarbird_1.jpg",
+      "public_id": "bird-gallery/oriental_dollarbird/inaturalist/oriental_dollarbird_1",
+      "width": 1000,
+      "height": 805,
+      "format": "jpg",
+      "bytes": 495928,
+      "attribution": {
+        "photographer": "olegrozhko",
+        "photographer_url": "https://www.inaturalist.org/observations/139456684",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© olegrozhko (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 139456684,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_13131829233_745f5caba8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171804/bird-gallery/oriental_dollarbird/avibase/avibase_1_13131829233_745f5caba8_b.jpg",
+      "public_id": "bird-gallery/oriental_dollarbird/avibase/avibase_1_13131829233_745f5caba8_b",
+      "width": 637,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 121060,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "13131829233",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

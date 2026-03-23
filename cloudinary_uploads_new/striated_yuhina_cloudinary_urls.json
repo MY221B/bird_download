@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "striated_yuhina",
+    "chinese_name": "栗耳凤鹛",
+    "english_name": "Striated Yuhina",
+    "scientific_name": "Staphida castaniceps"
+  },
+  "macaulay": [
+    {
+      "original_file": "striated_yuhina_342992121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171941/bird-gallery/striated_yuhina/macaulay/striated_yuhina_342992121.jpg",
+      "public_id": "bird-gallery/striated_yuhina/macaulay/striated_yuhina_342992121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 131472,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/342992121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "342992121",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "striated_yuhina_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171941/bird-gallery/striated_yuhina/inaturalist/striated_yuhina_1.jpg",
+      "public_id": "bird-gallery/striated_yuhina/inaturalist/striated_yuhina_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 524690,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/146687924",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 146687924,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_53542689056_c1c2bc9ac0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171942/bird-gallery/striated_yuhina/avibase/avibase_3_53542689056_c1c2bc9ac0_b.jpg",
+      "public_id": "bird-gallery/striated_yuhina/avibase/avibase_3_53542689056_c1c2bc9ac0_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 268251,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53542689056",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

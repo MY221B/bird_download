@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "pintail_snipe",
+    "chinese_name": "针尾沙锥",
+    "english_name": "Pintail Snipe",
+    "scientific_name": "Gallinago stenura"
+  },
+  "macaulay": [
+    {
+      "original_file": "pintail_snipe_377044591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171834/bird-gallery/pintail_snipe/macaulay/pintail_snipe_377044591.jpg",
+      "public_id": "bird-gallery/pintail_snipe/macaulay/pintail_snipe_377044591",
+      "width": 1200,
+      "height": 808,
+      "format": "jpg",
+      "bytes": 190138,
+      "attribution": {
+        "photographer": "Ori Davidor",
+        "photographer_url": "https://macaulaylibrary.org/asset/377044591",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ori Davidor; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "377044591",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pintail_snipe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171837/bird-gallery/pintail_snipe/inaturalist/pintail_snipe_1.jpg",
+      "public_id": "bird-gallery/pintail_snipe/inaturalist/pintail_snipe_1",
+      "width": 1024,
+      "height": 737,
+      "format": "jpg",
+      "bytes": 182397,
+      "attribution": {
+        "photographer": "rajukasambe",
+        "photographer_url": "https://www.inaturalist.org/observations/334703292",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© rajukasambe (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 334703292,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "pintail_snipe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171838/bird-gallery/pintail_snipe/wikimedia/pintail_snipe_1.jpg",
+      "public_id": "bird-gallery/pintail_snipe/wikimedia/pintail_snipe_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 263483,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51767094673_7b3c6e35da_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171839/bird-gallery/pintail_snipe/avibase/avibase_1_51767094673_7b3c6e35da_b.jpg",
+      "public_id": "bird-gallery/pintail_snipe/avibase/avibase_1_51767094673_7b3c6e35da_b",
+      "width": 1024,
+      "height": 771,
+      "format": "jpg",
+      "bytes": 387188,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51767094673",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

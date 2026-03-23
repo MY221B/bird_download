@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "pied_avocet",
+    "chinese_name": "反嘴鹬",
+    "english_name": "Pied Avocet",
+    "scientific_name": "Recurvirostra avosetta"
+  },
+  "macaulay": [
+    {
+      "original_file": "pied_avocet_436620081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171829/bird-gallery/pied_avocet/macaulay/pied_avocet_436620081.jpg",
+      "public_id": "bird-gallery/pied_avocet/macaulay/pied_avocet_436620081",
+      "width": 1200,
+      "height": 997,
+      "format": "jpg",
+      "bytes": 141471,
+      "attribution": {
+        "photographer": "Taylor Abbott",
+        "photographer_url": "https://macaulaylibrary.org/asset/436620081",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Taylor Abbott; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "436620081",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pied_avocet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171830/bird-gallery/pied_avocet/inaturalist/pied_avocet_1.jpg",
+      "public_id": "bird-gallery/pied_avocet/inaturalist/pied_avocet_1",
+      "width": 1024,
+      "height": 605,
+      "format": "jpg",
+      "bytes": 405769,
+      "attribution": {
+        "photographer": "chia",
+        "photographer_url": "https://www.inaturalist.org/observations/10943859",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© chia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10943859,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "pied_avocet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171831/bird-gallery/pied_avocet/wikimedia/pied_avocet_1.jpg",
+      "public_id": "bird-gallery/pied_avocet/wikimedia/pied_avocet_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 218200,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_14307672171_da81072f58_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171831/bird-gallery/pied_avocet/avibase/avibase_1_14307672171_da81072f58_b.jpg",
+      "public_id": "bird-gallery/pied_avocet/avibase/avibase_1_14307672171_da81072f58_b",
+      "width": 1023,
+      "height": 636,
+      "format": "jpg",
+      "bytes": 128574,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14307672171",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

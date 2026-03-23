@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "great_egret",
+    "chinese_name": "大白鹭",
+    "english_name": "Great Egret",
+    "scientific_name": "Ardea alba"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_egret_266810541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171670/bird-gallery/great_egret/macaulay/great_egret_266810541.jpg",
+      "public_id": "bird-gallery/great_egret/macaulay/great_egret_266810541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103007,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/266810541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "266810541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "great_egret_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171670/bird-gallery/great_egret/inaturalist/great_egret_2.jpg",
+      "public_id": "bird-gallery/great_egret/inaturalist/great_egret_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 201018,
+      "attribution": {
+        "photographer": "hemant",
+        "photographer_url": "https://www.inaturalist.org/observations/1510205",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hemant (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1510205,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "great_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171671/bird-gallery/great_egret/wikimedia/great_egret_1.jpg",
+      "public_id": "bird-gallery/great_egret/wikimedia/great_egret_1",
+      "width": 250,
+      "height": 312,
+      "format": "jpg",
+      "bytes": 27321,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_51385423984_a853a6061a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171672/bird-gallery/great_egret/avibase/avibase_2_51385423984_a853a6061a_b.jpg",
+      "public_id": "bird-gallery/great_egret/avibase/avibase_2_51385423984_a853a6061a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50136,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51385423984",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

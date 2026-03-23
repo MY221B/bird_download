@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "vivid_niltava",
+    "chinese_name": "棕腹蓝仙鹟",
+    "english_name": "Vivid Niltava",
+    "scientific_name": "Niltava oatesi"
+  },
+  "macaulay": [
+    {
+      "original_file": "vivid_niltava_456044091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171961/bird-gallery/vivid_niltava/macaulay/vivid_niltava_456044091.jpg",
+      "public_id": "bird-gallery/vivid_niltava/macaulay/vivid_niltava_456044091",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 123154,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/456044091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "456044091",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "vivid_niltava_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171962/bird-gallery/vivid_niltava/inaturalist/vivid_niltava_1.jpg",
+      "public_id": "bird-gallery/vivid_niltava/inaturalist/vivid_niltava_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 741865,
+      "attribution": {
+        "photographer": "jmaley",
+        "photographer_url": "https://www.inaturalist.org/observations/257313477",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© jmaley (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 257313477,
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "daurian_jackdaw",
+    "chinese_name": "达乌里寒鸦",
+    "english_name": "Daurian Jackdaw",
+    "scientific_name": "Corvus dauuricus"
+  },
+  "macaulay": [
+    {
+      "original_file": "daurian_jackdaw_26999121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171613/bird-gallery/daurian_jackdaw/macaulay/daurian_jackdaw_26999121.jpg",
+      "public_id": "bird-gallery/daurian_jackdaw/macaulay/daurian_jackdaw_26999121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 186676,
+      "attribution": {
+        "photographer": "Batmunkh Davaasuren",
+        "photographer_url": "https://macaulaylibrary.org/asset/26999121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Batmunkh Davaasuren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "26999121",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "daurian_jackdaw_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171614/bird-gallery/daurian_jackdaw/inaturalist/daurian_jackdaw_1.jpg",
+      "public_id": "bird-gallery/daurian_jackdaw/inaturalist/daurian_jackdaw_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 169748,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52667207535_cf8a5b2eaf_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171615/bird-gallery/daurian_jackdaw/avibase/avibase_1_52667207535_cf8a5b2eaf_b.jpg",
+      "public_id": "bird-gallery/daurian_jackdaw/avibase/avibase_1_52667207535_cf8a5b2eaf_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 221816,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

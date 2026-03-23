@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "greater_yellow_naped_woodpecker",
+    "chinese_name": "大黄冠啄木鸟",
+    "english_name": "Greater Yellow-naped Woodpecker",
+    "scientific_name": "Chrysophlegma flavinucha"
+  },
+  "macaulay": [
+    {
+      "original_file": "greater_yellow_naped_woodpecker_199988131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171682/bird-gallery/greater_yellow_naped_woodpecker/macaulay/greater_yellow_naped_woodpecker_199988131.jpg",
+      "public_id": "bird-gallery/greater_yellow_naped_woodpecker/macaulay/greater_yellow_naped_woodpecker_199988131",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 280317,
+      "attribution": {
+        "photographer": "Mollee Brown",
+        "photographer_url": "https://macaulaylibrary.org/asset/199988131",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Mollee Brown; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "199988131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "greater_yellow_naped_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171683/bird-gallery/greater_yellow_naped_woodpecker/inaturalist/greater_yellow_naped_woodpecker_1.jpg",
+      "public_id": "bird-gallery/greater_yellow_naped_woodpecker/inaturalist/greater_yellow_naped_woodpecker_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 411592,
+      "attribution": {
+        "photographer": "maya318",
+        "photographer_url": "https://www.inaturalist.org/observations/103466471",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© maya318 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 103466471,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_37331653650_2ff3e87a6a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171684/bird-gallery/greater_yellow_naped_woodpecker/avibase/avibase_2_37331653650_2ff3e87a6a_b.jpg",
+      "public_id": "bird-gallery/greater_yellow_naped_woodpecker/avibase/avibase_2_37331653650_2ff3e87a6a_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 402310,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "37331653650",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

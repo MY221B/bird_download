@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "black_necked_grebe",
+    "chinese_name": "黑颈䴙䴘",
+    "english_name": "Black-necked Grebe",
+    "scientific_name": "Podiceps nigricollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_necked_grebe_210406731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171503/bird-gallery/black_necked_grebe/macaulay/black_necked_grebe_210406731.jpg",
+      "public_id": "bird-gallery/black_necked_grebe/macaulay/black_necked_grebe_210406731",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 107976,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/210406731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "210406731",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_necked_grebe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171504/bird-gallery/black_necked_grebe/inaturalist/black_necked_grebe_1.jpg",
+      "public_id": "bird-gallery/black_necked_grebe/inaturalist/black_necked_grebe_1",
+      "width": 1024,
+      "height": 561,
+      "format": "jpg",
+      "bytes": 91221,
+      "attribution": {
+        "photographer": "lonnyholmes",
+        "photographer_url": "https://www.inaturalist.org/observations/53399421",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lonnyholmes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 53399421,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_necked_grebe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171505/bird-gallery/black_necked_grebe/wikimedia/black_necked_grebe_1.jpg",
+      "public_id": "bird-gallery/black_necked_grebe/wikimedia/black_necked_grebe_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 194312,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54849378438_6a96afd922_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171506/bird-gallery/black_necked_grebe/avibase/avibase_1_54849378438_6a96afd922_b.jpg",
+      "public_id": "bird-gallery/black_necked_grebe/avibase/avibase_1_54849378438_6a96afd922_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 152411,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54849378438",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

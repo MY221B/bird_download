@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "oriental_scops_owl",
+    "chinese_name": "红角鸮",
+    "english_name": "Oriental Scops Owl",
+    "scientific_name": "Otus sunia"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_scops_owl_189977231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171811/bird-gallery/oriental_scops_owl/macaulay/oriental_scops_owl_189977231.jpg",
+      "public_id": "bird-gallery/oriental_scops_owl/macaulay/oriental_scops_owl_189977231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 277452,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/189977231",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "189977231",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_scops_owl_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171813/bird-gallery/oriental_scops_owl/inaturalist/oriental_scops_owl_2.jpg",
+      "public_id": "bird-gallery/oriental_scops_owl/inaturalist/oriental_scops_owl_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 473760,
+      "attribution": {
+        "photographer": "pkyeung",
+        "photographer_url": "https://www.inaturalist.org/observations/37063530",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pkyeung (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 37063530,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "oriental_scops_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171814/bird-gallery/oriental_scops_owl/wikimedia/oriental_scops_owl_1.jpg",
+      "public_id": "bird-gallery/oriental_scops_owl/wikimedia/oriental_scops_owl_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 197027,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_4628168785_e5f3023dee_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171815/bird-gallery/oriental_scops_owl/avibase/avibase_1_4628168785_e5f3023dee_b.jpg",
+      "public_id": "bird-gallery/oriental_scops_owl/avibase/avibase_1_4628168785_e5f3023dee_b",
+      "width": 900,
+      "height": 674,
+      "format": "jpg",
+      "bytes": 183461,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4628168785",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

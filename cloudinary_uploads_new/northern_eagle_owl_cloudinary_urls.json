@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "northern_eagle_owl",
+    "chinese_name": "雕鸮",
+    "english_name": "Northern Eagle Owl",
+    "scientific_name": "Bubo bubo"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_eagle_owl_352664711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171793/bird-gallery/northern_eagle_owl/macaulay/northern_eagle_owl_352664711.jpg",
+      "public_id": "bird-gallery/northern_eagle_owl/macaulay/northern_eagle_owl_352664711",
+      "width": 1200,
+      "height": 697,
+      "format": "jpg",
+      "bytes": 121732,
+      "attribution": {
+        "photographer": "Matti Rekilä",
+        "photographer_url": "https://macaulaylibrary.org/asset/352664711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matti Rekilä; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "352664711",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48177821097_ab7981fbde_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171794/bird-gallery/northern_eagle_owl/avibase/avibase_1_48177821097_ab7981fbde_b.jpg",
+      "public_id": "bird-gallery/northern_eagle_owl/avibase/avibase_1_48177821097_ab7981fbde_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 138141,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48177821097",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

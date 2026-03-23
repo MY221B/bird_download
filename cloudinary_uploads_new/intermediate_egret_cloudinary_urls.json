@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "intermediate_egret",
+    "chinese_name": "中白鹭",
+    "english_name": "Intermediate Egret",
+    "scientific_name": "Ardea intermedia"
+  },
+  "macaulay": [
+    {
+      "original_file": "intermediate_egret_303896141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171727/bird-gallery/intermediate_egret/macaulay/intermediate_egret_303896141.jpg",
+      "public_id": "bird-gallery/intermediate_egret/macaulay/intermediate_egret_303896141",
+      "width": 1200,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 80406,
+      "attribution": {
+        "photographer": "Seth Miller",
+        "photographer_url": "https://macaulaylibrary.org/asset/303896141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Seth Miller; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "303896141",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "intermediate_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171728/bird-gallery/intermediate_egret/inaturalist/intermediate_egret_1.png",
+      "public_id": "bird-gallery/intermediate_egret/inaturalist/intermediate_egret_1",
+      "width": 1024,
+      "height": 680,
+      "format": "png",
+      "bytes": 1242304,
+      "attribution": {
+        "photographer": "andrewlai530",
+        "photographer_url": "https://www.inaturalist.org/observations/245649972",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© andrewlai530 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 245649972,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "intermediate_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171731/bird-gallery/intermediate_egret/wikimedia/intermediate_egret_1.jpg",
+      "public_id": "bird-gallery/intermediate_egret/wikimedia/intermediate_egret_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 134696,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_26069676387_670086baa5_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171732/bird-gallery/intermediate_egret/avibase/avibase_1_26069676387_670086baa5_b.jpg",
+      "public_id": "bird-gallery/intermediate_egret/avibase/avibase_1_26069676387_670086baa5_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 179417,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26069676387",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

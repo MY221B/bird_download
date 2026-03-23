@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "himalayan_bush_robin",
+    "chinese_name": "蓝眉林鸲",
+    "english_name": "Himalayan Bush-robin",
+    "scientific_name": "Tarsiger rufilatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "himalayan_bush_robin_116823051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171712/bird-gallery/himalayan_bush_robin/macaulay/himalayan_bush_robin_116823051.jpg",
+      "public_id": "bird-gallery/himalayan_bush_robin/macaulay/himalayan_bush_robin_116823051",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 132047,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/116823051",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "116823051",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "himalayan_bush_robin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171712/bird-gallery/himalayan_bush_robin/inaturalist/himalayan_bush_robin_1.jpg",
+      "public_id": "bird-gallery/himalayan_bush_robin/inaturalist/himalayan_bush_robin_1",
+      "width": 630,
+      "height": 463,
+      "format": "jpg",
+      "bytes": 242016,
+      "attribution": {
+        "photographer": "csanchezj7",
+        "photographer_url": "https://www.inaturalist.org/observations/5649086",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© csanchezj7 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 5649086,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54510287122_9faf0d5476_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171713/bird-gallery/himalayan_bush_robin/avibase/avibase_1_54510287122_9faf0d5476_b.jpg",
+      "public_id": "bird-gallery/himalayan_bush_robin/avibase/avibase_1_54510287122_9faf0d5476_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 173914,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54510287122",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

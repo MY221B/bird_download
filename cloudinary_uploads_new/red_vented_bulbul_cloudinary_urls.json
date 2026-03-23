@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "red_vented_bulbul",
+    "chinese_name": "黑喉红臀鹎",
+    "english_name": "Red-vented Bulbul",
+    "scientific_name": "Pycnonotus cafer"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_vented_bulbul_164088751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171863/bird-gallery/red_vented_bulbul/macaulay/red_vented_bulbul_164088751.jpg",
+      "public_id": "bird-gallery/red_vented_bulbul/macaulay/red_vented_bulbul_164088751",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 93366,
+      "attribution": {
+        "photographer": "Ramesh Desai",
+        "photographer_url": "https://macaulaylibrary.org/asset/164088751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ramesh Desai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "164088751",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_vented_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171864/bird-gallery/red_vented_bulbul/inaturalist/red_vented_bulbul_1.jpg",
+      "public_id": "bird-gallery/red_vented_bulbul/inaturalist/red_vented_bulbul_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 556958,
+      "attribution": {
+        "photographer": "carlosbocos",
+        "photographer_url": "https://www.inaturalist.org/observations/42119794",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© carlosbocos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 42119794,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "red_vented_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171865/bird-gallery/red_vented_bulbul/wikimedia/red_vented_bulbul_1.jpg",
+      "public_id": "bird-gallery/red_vented_bulbul/wikimedia/red_vented_bulbul_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 271403,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_51221700515_63f88f04ac_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171865/bird-gallery/red_vented_bulbul/avibase/avibase_3_51221700515_63f88f04ac_b.jpg",
+      "public_id": "bird-gallery/red_vented_bulbul/avibase/avibase_3_51221700515_63f88f04ac_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 162719,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51221700515",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

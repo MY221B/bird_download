@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "burmese_shrike",
+    "chinese_name": "栗背伯劳",
+    "english_name": "Burmese Shrike",
+    "scientific_name": "Lanius collurioides"
+  },
+  "macaulay": [
+    {
+      "original_file": "burmese_shrike_546009351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171543/bird-gallery/burmese_shrike/macaulay/burmese_shrike_546009351.jpg",
+      "public_id": "bird-gallery/burmese_shrike/macaulay/burmese_shrike_546009351",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 125003,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/546009351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "546009351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "burmese_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171544/bird-gallery/burmese_shrike/inaturalist/burmese_shrike_1.jpg",
+      "public_id": "bird-gallery/burmese_shrike/inaturalist/burmese_shrike_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 370148,
+      "attribution": {
+        "photographer": "mrfish33",
+        "photographer_url": "https://www.inaturalist.org/observations/8066842",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mrfish33 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8066842,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "burmese_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171545/bird-gallery/burmese_shrike/wikimedia/burmese_shrike_1.jpg",
+      "public_id": "bird-gallery/burmese_shrike/wikimedia/burmese_shrike_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 86718,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_26903119959_a9127858ef_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171546/bird-gallery/burmese_shrike/avibase/avibase_2_26903119959_a9127858ef_b.jpg",
+      "public_id": "bird-gallery/burmese_shrike/avibase/avibase_2_26903119959_a9127858ef_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 96675,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26903119959",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

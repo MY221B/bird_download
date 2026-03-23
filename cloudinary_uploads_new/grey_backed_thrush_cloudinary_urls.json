@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_backed_thrush",
+    "chinese_name": "灰背鸫",
+    "english_name": "Grey-backed Thrush",
+    "scientific_name": "Turdus hortulorum"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_backed_thrush_205663371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171688/bird-gallery/grey_backed_thrush/macaulay/grey_backed_thrush_205663371.jpg",
+      "public_id": "bird-gallery/grey_backed_thrush/macaulay/grey_backed_thrush_205663371",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 170860,
+      "attribution": {
+        "photographer": "Chun Fai LO",
+        "photographer_url": "https://macaulaylibrary.org/asset/205663371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Chun Fai LO; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205663371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_backed_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171688/bird-gallery/grey_backed_thrush/inaturalist/grey_backed_thrush_1.jpg",
+      "public_id": "bird-gallery/grey_backed_thrush/inaturalist/grey_backed_thrush_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 498413,
+      "attribution": {
+        "photographer": "laurada79",
+        "photographer_url": "https://www.inaturalist.org/observations/67073564",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© laurada79 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 67073564,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54393146721_ea3e3158f3_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171689/bird-gallery/grey_backed_thrush/avibase/avibase_1_54393146721_ea3e3158f3_b.jpg",
+      "public_id": "bird-gallery/grey_backed_thrush/avibase/avibase_1_54393146721_ea3e3158f3_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 305341,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54393146721",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

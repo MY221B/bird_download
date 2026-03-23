@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "puff_throated_bulbul",
+    "chinese_name": "白喉冠鹎",
+    "english_name": "Puff-throated Bulbul",
+    "scientific_name": "Alophoixus pallidus"
+  },
+  "macaulay": [
+    {
+      "original_file": "puff_throated_bulbul_191184391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171841/bird-gallery/puff_throated_bulbul/macaulay/puff_throated_bulbul_191184391.jpg",
+      "public_id": "bird-gallery/puff_throated_bulbul/macaulay/puff_throated_bulbul_191184391",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 181790,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/191184391",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "191184391",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "puff_throated_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171842/bird-gallery/puff_throated_bulbul/inaturalist/puff_throated_bulbul_1.jpg",
+      "public_id": "bird-gallery/puff_throated_bulbul/inaturalist/puff_throated_bulbul_1",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 729229,
+      "attribution": {
+        "photographer": "justcapture2021",
+        "photographer_url": "https://www.inaturalist.org/observations/259948796",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© justcapture2021 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 259948796,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "puff_throated_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171845/bird-gallery/puff_throated_bulbul/wikimedia/puff_throated_bulbul_1.jpg",
+      "public_id": "bird-gallery/puff_throated_bulbul/wikimedia/puff_throated_bulbul_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 281408,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51545117661_5fee570ef5_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171845/bird-gallery/puff_throated_bulbul/avibase/avibase_1_51545117661_5fee570ef5_b.jpg",
+      "public_id": "bird-gallery/puff_throated_bulbul/avibase/avibase_1_51545117661_5fee570ef5_b",
+      "width": 923,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 287214,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51545117661",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

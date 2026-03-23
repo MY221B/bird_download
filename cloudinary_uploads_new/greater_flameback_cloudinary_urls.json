@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "greater_flameback",
+    "chinese_name": "大金背啄木鸟",
+    "english_name": "Greater Flameback",
+    "scientific_name": "Chrysocolaptes guttacristatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "greater_flameback_224725671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171676/bird-gallery/greater_flameback/macaulay/greater_flameback_224725671.jpg",
+      "public_id": "bird-gallery/greater_flameback/macaulay/greater_flameback_224725671",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 170682,
+      "attribution": {
+        "photographer": "Thierry NOGARO",
+        "photographer_url": "https://macaulaylibrary.org/asset/224725671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Thierry NOGARO; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "224725671",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "greater_flameback_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171676/bird-gallery/greater_flameback/inaturalist/greater_flameback_1.jpg",
+      "public_id": "bird-gallery/greater_flameback/inaturalist/greater_flameback_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 628720,
+      "attribution": {
+        "photographer": "carlosbocos",
+        "photographer_url": "https://www.inaturalist.org/observations/266469914",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© carlosbocos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 266469914,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "greater_flameback_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171677/bird-gallery/greater_flameback/wikimedia/greater_flameback_1.jpg",
+      "public_id": "bird-gallery/greater_flameback/wikimedia/greater_flameback_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 192246,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51774864324_202367269b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171678/bird-gallery/greater_flameback/avibase/avibase_1_51774864324_202367269b_b.jpg",
+      "public_id": "bird-gallery/greater_flameback/avibase/avibase_1_51774864324_202367269b_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 198894,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51774864324",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

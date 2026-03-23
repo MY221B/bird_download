@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "fujian_niltava",
+    "chinese_name": "棕腹大仙鹟",
+    "english_name": "Fujian Niltava",
+    "scientific_name": "Niltava davidi"
+  },
+  "macaulay": [
+    {
+      "original_file": "fujian_niltava_197359071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171653/bird-gallery/fujian_niltava/macaulay/fujian_niltava_197359071.jpg",
+      "public_id": "bird-gallery/fujian_niltava/macaulay/fujian_niltava_197359071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 181520,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/197359071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "197359071",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "fujian_niltava_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171654/bird-gallery/fujian_niltava/inaturalist/fujian_niltava_1.jpg",
+      "public_id": "bird-gallery/fujian_niltava/inaturalist/fujian_niltava_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 568466,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/69406335",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 69406335,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "fujian_niltava_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171655/bird-gallery/fujian_niltava/wikimedia/fujian_niltava_1.jpg",
+      "public_id": "bird-gallery/fujian_niltava/wikimedia/fujian_niltava_1",
+      "width": 1280,
+      "height": 549,
+      "format": "jpg",
+      "bytes": 105654,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49397055476_b9818dfc2f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171656/bird-gallery/fujian_niltava/avibase/avibase_1_49397055476_b9818dfc2f_b.jpg",
+      "public_id": "bird-gallery/fujian_niltava/avibase/avibase_1_49397055476_b9818dfc2f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 250990,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49397055476",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

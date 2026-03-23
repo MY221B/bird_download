@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "western_koel",
+    "chinese_name": "噪鹃",
+    "english_name": "Western Koel",
+    "scientific_name": "Eudynamys scolopaceus"
+  },
+  "macaulay": [
+    {
+      "original_file": "western_koel_249880191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171966/bird-gallery/western_koel/macaulay/western_koel_249880191.jpg",
+      "public_id": "bird-gallery/western_koel/macaulay/western_koel_249880191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 191364,
+      "attribution": {
+        "photographer": "Novelkumar M S",
+        "photographer_url": "https://macaulaylibrary.org/asset/249880191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Novelkumar M S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "249880191",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_16295183938_ace6732353_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171967/bird-gallery/western_koel/avibase/avibase_2_16295183938_ace6732353_b.jpg",
+      "public_id": "bird-gallery/western_koel/avibase/avibase_2_16295183938_ace6732353_b",
+      "width": 943,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 206276,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16295183938",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

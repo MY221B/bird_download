@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "bar_headed_goose",
+    "chinese_name": "斑头雁",
+    "english_name": "Bar-headed Goose",
+    "scientific_name": "Anser indicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "bar_headed_goose_144866781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171476/bird-gallery/bar_headed_goose/macaulay/bar_headed_goose_144866781.jpg",
+      "public_id": "bird-gallery/bar_headed_goose/macaulay/bar_headed_goose_144866781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98422,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/144866781",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "144866781",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bar_headed_goose_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171477/bird-gallery/bar_headed_goose/inaturalist/bar_headed_goose_1.jpg",
+      "public_id": "bird-gallery/bar_headed_goose/inaturalist/bar_headed_goose_1",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 202255,
+      "attribution": {
+        "photographer": "axeira",
+        "photographer_url": "https://www.inaturalist.org/observations/8233078",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© axeira (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8233078,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "bar_headed_goose_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171478/bird-gallery/bar_headed_goose/wikimedia/bar_headed_goose_1.jpg",
+      "public_id": "bird-gallery/bar_headed_goose/wikimedia/bar_headed_goose_1",
+      "width": 1200,
+      "height": 946,
+      "format": "jpg",
+      "bytes": 485187,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53822769337_a184ea5bdf_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171479/bird-gallery/bar_headed_goose/avibase/avibase_1_53822769337_a184ea5bdf_b.jpg",
+      "public_id": "bird-gallery/bar_headed_goose/avibase/avibase_1_53822769337_a184ea5bdf_b",
+      "width": 1023,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 68088,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53822769337",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

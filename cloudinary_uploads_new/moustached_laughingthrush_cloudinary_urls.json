@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "moustached_laughingthrush",
+    "chinese_name": "灰翅噪鹛",
+    "english_name": "Moustached Laughingthrush",
+    "scientific_name": "Ianthocincla cineracea"
+  },
+  "macaulay": [
+    {
+      "original_file": "moustached_laughingthrush_130170061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171785/bird-gallery/moustached_laughingthrush/macaulay/moustached_laughingthrush_130170061.jpg",
+      "public_id": "bird-gallery/moustached_laughingthrush/macaulay/moustached_laughingthrush_130170061",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 219556,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/130170061",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "130170061",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "moustached_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171786/bird-gallery/moustached_laughingthrush/inaturalist/moustached_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/moustached_laughingthrush/inaturalist/moustached_laughingthrush_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 347788,
+      "attribution": {
+        "photographer": "samnew88",
+        "photographer_url": "https://www.inaturalist.org/observations/104894159",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© samnew88 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 104894159,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_39236555324_94f10f0ca8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171789/bird-gallery/moustached_laughingthrush/avibase/avibase_2_39236555324_94f10f0ca8_b.jpg",
+      "public_id": "bird-gallery/moustached_laughingthrush/avibase/avibase_2_39236555324_94f10f0ca8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 281617,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39236555324",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

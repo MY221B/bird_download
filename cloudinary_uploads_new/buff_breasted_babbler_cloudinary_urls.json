@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "buff_breasted_babbler",
+    "chinese_name": "棕胸雅鹛",
+    "english_name": "Buff-breasted Babbler",
+    "scientific_name": "Pellorneum tickelli"
+  },
+  "macaulay": [
+    {
+      "original_file": "buff_breasted_babbler_177556241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171540/bird-gallery/buff_breasted_babbler/macaulay/buff_breasted_babbler_177556241.jpg",
+      "public_id": "bird-gallery/buff_breasted_babbler/macaulay/buff_breasted_babbler_177556241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 164111,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/177556241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "177556241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "buff_breasted_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171541/bird-gallery/buff_breasted_babbler/inaturalist/buff_breasted_babbler_1.jpg",
+      "public_id": "bird-gallery/buff_breasted_babbler/inaturalist/buff_breasted_babbler_1",
+      "width": 1024,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 404224,
+      "attribution": {
+        "photographer": "rejoicegassah",
+        "photographer_url": "https://www.inaturalist.org/observations/300329899",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 300329899,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "buff_breasted_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171542/bird-gallery/buff_breasted_babbler/wikimedia/buff_breasted_babbler_1.jpg",
+      "public_id": "bird-gallery/buff_breasted_babbler/wikimedia/buff_breasted_babbler_1",
+      "width": 1280,
+      "height": 1056,
+      "format": "jpg",
+      "bytes": 216612,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_32343994244_135bb26e57_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171543/bird-gallery/buff_breasted_babbler/avibase/avibase_1_32343994244_135bb26e57_b.jpg",
+      "public_id": "bird-gallery/buff_breasted_babbler/avibase/avibase_1_32343994244_135bb26e57_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 176458,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32343994244",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

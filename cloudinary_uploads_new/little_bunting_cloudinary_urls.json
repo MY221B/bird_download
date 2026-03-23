@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "little_bunting",
+    "chinese_name": "小鹀",
+    "english_name": "Little Bunting",
+    "scientific_name": "Emberiza pusilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_bunting_241880231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171754/bird-gallery/little_bunting/macaulay/little_bunting_241880231.jpg",
+      "public_id": "bird-gallery/little_bunting/macaulay/little_bunting_241880231",
+      "width": 1200,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 156436,
+      "attribution": {
+        "photographer": "Matti Rekilä",
+        "photographer_url": "https://macaulaylibrary.org/asset/241880231",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matti Rekilä; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "241880231",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171755/bird-gallery/little_bunting/inaturalist/little_bunting_1.jpg",
+      "public_id": "bird-gallery/little_bunting/inaturalist/little_bunting_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 553183,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "little_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171756/bird-gallery/little_bunting/wikimedia/little_bunting_1.jpg",
+      "public_id": "bird-gallery/little_bunting/wikimedia/little_bunting_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 185162,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50801056001_b58cf60304_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171758/bird-gallery/little_bunting/avibase/avibase_1_50801056001_b58cf60304_b.jpg",
+      "public_id": "bird-gallery/little_bunting/avibase/avibase_1_50801056001_b58cf60304_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 128041,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

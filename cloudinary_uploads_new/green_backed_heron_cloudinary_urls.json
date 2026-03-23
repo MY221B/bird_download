@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "green_backed_heron",
+    "chinese_name": "绿鹭",
+    "english_name": "Green-backed Heron",
+    "scientific_name": "Butorides striata"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_backed_heron_124851921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171682/bird-gallery/green_backed_heron/macaulay/green_backed_heron_124851921.jpg",
+      "public_id": "bird-gallery/green_backed_heron/macaulay/green_backed_heron_124851921",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 206574,
+      "attribution": {
+        "photographer": "Jorge Galván",
+        "photographer_url": "https://macaulaylibrary.org/asset/124851921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jorge Galván; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "124851921",
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "green_backed_heron_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171683/bird-gallery/green_backed_heron/wikimedia/green_backed_heron_1.jpg",
+      "public_id": "bird-gallery/green_backed_heron/wikimedia/green_backed_heron_1",
+      "width": 1280,
+      "height": 905,
+      "format": "jpg",
+      "bytes": 209072,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

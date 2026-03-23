@@ -1,0 +1,69 @@
+{
+  "bird_info": {
+    "slug": "little_egret",
+    "chinese_name": "小白鹭"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_egret_206390251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171755/bird-gallery/little_egret/macaulay/little_egret_206390251.jpg",
+      "public_id": "bird-gallery/little_egret/macaulay/little_egret_206390251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93330,
+      "attribution": {
+        "photographer": "Marco Valentini",
+        "photographer_url": "https://macaulaylibrary.org/asset/206390251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Marco Valentini; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "206390251",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171756/bird-gallery/little_egret/inaturalist/little_egret_1.jpg",
+      "public_id": "bird-gallery/little_egret/inaturalist/little_egret_1",
+      "width": 1024,
+      "height": 704,
+      "format": "jpg",
+      "bytes": 161962,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54737243981_04bb08489d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171757/bird-gallery/little_egret/avibase/avibase_1_54737243981_04bb08489d_b.jpg",
+      "public_id": "bird-gallery/little_egret/avibase/avibase_1_54737243981_04bb08489d_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 161594,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

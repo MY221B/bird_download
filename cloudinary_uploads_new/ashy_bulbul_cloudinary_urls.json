@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "ashy_bulbul",
+    "chinese_name": "灰短脚鹎",
+    "english_name": "Ashy Bulbul",
+    "scientific_name": "Hemixos flavala"
+  },
+  "macaulay": [
+    {
+      "original_file": "ashy_bulbul_382871321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171462/bird-gallery/ashy_bulbul/macaulay/ashy_bulbul_382871321.jpg",
+      "public_id": "bird-gallery/ashy_bulbul/macaulay/ashy_bulbul_382871321",
+      "width": 1200,
+      "height": 712,
+      "format": "jpg",
+      "bytes": 103862,
+      "attribution": {
+        "photographer": "Yubin Shrestha",
+        "photographer_url": "https://macaulaylibrary.org/asset/382871321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Yubin Shrestha; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "382871321",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ashy_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171463/bird-gallery/ashy_bulbul/inaturalist/ashy_bulbul_1.jpg",
+      "public_id": "bird-gallery/ashy_bulbul/inaturalist/ashy_bulbul_1",
+      "width": 1024,
+      "height": 719,
+      "format": "jpg",
+      "bytes": 392515,
+      "attribution": {
+        "photographer": "vivek_patel",
+        "photographer_url": "https://www.inaturalist.org/observations/197527069",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vivek_patel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197527069,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "ashy_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171464/bird-gallery/ashy_bulbul/wikimedia/ashy_bulbul_1.jpg",
+      "public_id": "bird-gallery/ashy_bulbul/wikimedia/ashy_bulbul_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 166480,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_457639765_7a2611353e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171465/bird-gallery/ashy_bulbul/avibase/avibase_1_457639765_7a2611353e_b.jpg",
+      "public_id": "bird-gallery/ashy_bulbul/avibase/avibase_1_457639765_7a2611353e_b",
+      "width": 640,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99081,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "457639765",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

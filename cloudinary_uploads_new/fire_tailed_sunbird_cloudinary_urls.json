@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "fire_tailed_sunbird",
+    "chinese_name": "火尾太阳鸟",
+    "english_name": "Fire-tailed Sunbird",
+    "scientific_name": "Aethopyga ignicauda"
+  },
+  "macaulay": [
+    {
+      "original_file": "fire_tailed_sunbird_156553421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171645/bird-gallery/fire_tailed_sunbird/macaulay/fire_tailed_sunbird_156553421.jpg",
+      "public_id": "bird-gallery/fire_tailed_sunbird/macaulay/fire_tailed_sunbird_156553421",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 114619,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/156553421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "156553421",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "fire_tailed_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171645/bird-gallery/fire_tailed_sunbird/inaturalist/fire_tailed_sunbird_1.jpg",
+      "public_id": "bird-gallery/fire_tailed_sunbird/inaturalist/fire_tailed_sunbird_1",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 60286,
+      "attribution": {
+        "photographer": "tremarctos",
+        "photographer_url": "https://www.inaturalist.org/observations/5956336",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tremarctos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 5956336,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "fire_tailed_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171646/bird-gallery/fire_tailed_sunbird/wikimedia/fire_tailed_sunbird_1.jpg",
+      "public_id": "bird-gallery/fire_tailed_sunbird/wikimedia/fire_tailed_sunbird_1",
+      "width": 250,
+      "height": 167,
+      "format": "jpg",
+      "bytes": 7156,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53778098693_7dba23f82d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171647/bird-gallery/fire_tailed_sunbird/avibase/avibase_1_53778098693_7dba23f82d_b.jpg",
+      "public_id": "bird-gallery/fire_tailed_sunbird/avibase/avibase_1_53778098693_7dba23f82d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 154870,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53778098693",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

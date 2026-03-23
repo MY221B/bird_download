@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_cheeked_tit",
+    "chinese_name": "黄颊山雀",
+    "english_name": "Yellow-cheeked Tit",
+    "scientific_name": "Machlolophus spilonotus"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_cheeked_tit_118979291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172010/bird-gallery/yellow_cheeked_tit/macaulay/yellow_cheeked_tit_118979291.jpg",
+      "public_id": "bird-gallery/yellow_cheeked_tit/macaulay/yellow_cheeked_tit_118979291",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 167407,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/118979291",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "118979291",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_cheeked_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172010/bird-gallery/yellow_cheeked_tit/inaturalist/yellow_cheeked_tit_1.jpg",
+      "public_id": "bird-gallery/yellow_cheeked_tit/inaturalist/yellow_cheeked_tit_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 162694,
+      "attribution": {
+        "photographer": "momoshou",
+        "photographer_url": "https://www.inaturalist.org/observations/190896827",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© momoshou (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 190896827,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_28798876442_e9c7b493ed_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172011/bird-gallery/yellow_cheeked_tit/avibase/avibase_2_28798876442_e9c7b493ed_b.jpg",
+      "public_id": "bird-gallery/yellow_cheeked_tit/avibase/avibase_2_28798876442_e9c7b493ed_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 154033,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28798876442",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

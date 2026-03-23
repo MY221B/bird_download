@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "large_woodshrike",
+    "chinese_name": "钩嘴林鵙",
+    "english_name": "Large Woodshrike",
+    "scientific_name": "Tephrodornis virgatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "large_woodshrike_205946481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171744/bird-gallery/large_woodshrike/macaulay/large_woodshrike_205946481.jpg",
+      "public_id": "bird-gallery/large_woodshrike/macaulay/large_woodshrike_205946481",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 139108,
+      "attribution": {
+        "photographer": "Manish Panchal",
+        "photographer_url": "https://macaulaylibrary.org/asset/205946481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Manish Panchal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205946481",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "large_woodshrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171745/bird-gallery/large_woodshrike/inaturalist/large_woodshrike_2.jpg",
+      "public_id": "bird-gallery/large_woodshrike/inaturalist/large_woodshrike_2",
+      "width": 1024,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 421792,
+      "attribution": {
+        "photographer": "anukma",
+        "photographer_url": "https://www.inaturalist.org/observations/9177211",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© anukma (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 9177211,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "large_woodshrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171746/bird-gallery/large_woodshrike/wikimedia/large_woodshrike_1.jpg",
+      "public_id": "bird-gallery/large_woodshrike/wikimedia/large_woodshrike_1",
+      "width": 960,
+      "height": 1481,
+      "format": "jpg",
+      "bytes": 273631,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51984050214_8efae849a0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171746/bird-gallery/large_woodshrike/avibase/avibase_1_51984050214_8efae849a0_b.jpg",
+      "public_id": "bird-gallery/large_woodshrike/avibase/avibase_1_51984050214_8efae849a0_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 118415,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51984050214",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

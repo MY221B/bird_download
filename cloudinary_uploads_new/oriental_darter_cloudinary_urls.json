@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "oriental_darter",
+    "chinese_name": "黑腹蛇鹈",
+    "english_name": "Oriental Darter",
+    "scientific_name": "Anhinga melanogaster"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_darter_470958411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171801/bird-gallery/oriental_darter/macaulay/oriental_darter_470958411.jpg",
+      "public_id": "bird-gallery/oriental_darter/macaulay/oriental_darter_470958411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72839,
+      "attribution": {
+        "photographer": "Deepak Budhathoki 🦉",
+        "photographer_url": "https://macaulaylibrary.org/asset/470958411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Deepak Budhathoki 🦉; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "470958411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_darter_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171802/bird-gallery/oriental_darter/inaturalist/oriental_darter_1.jpg",
+      "public_id": "bird-gallery/oriental_darter/inaturalist/oriental_darter_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 700039,
+      "attribution": {
+        "photographer": "cypseloides",
+        "photographer_url": "https://www.inaturalist.org/observations/8305386",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cypseloides (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 8305386,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_49689715583_256198ecfa_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171803/bird-gallery/oriental_darter/avibase/avibase_2_49689715583_256198ecfa_b.jpg",
+      "public_id": "bird-gallery/oriental_darter/avibase/avibase_2_49689715583_256198ecfa_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 163876,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49689715583",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

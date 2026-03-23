@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "slender_billed_oriole",
+    "chinese_name": "细嘴黄鹂",
+    "english_name": "Slender-billed Oriole",
+    "scientific_name": "Oriolus tenuirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "slender_billed_oriole_286508081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171918/bird-gallery/slender_billed_oriole/macaulay/slender_billed_oriole_286508081.jpg",
+      "public_id": "bird-gallery/slender_billed_oriole/macaulay/slender_billed_oriole_286508081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 159386,
+      "attribution": {
+        "photographer": "Dinh Thinh",
+        "photographer_url": "https://macaulaylibrary.org/asset/286508081",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dinh Thinh; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "286508081",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slender_billed_oriole_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171921/bird-gallery/slender_billed_oriole/inaturalist/slender_billed_oriole_1.jpg",
+      "public_id": "bird-gallery/slender_billed_oriole/inaturalist/slender_billed_oriole_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 427480,
+      "attribution": {
+        "photographer": "pytala",
+        "photographer_url": "https://www.inaturalist.org/observations/10660479",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© pytala (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 10660479,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54500247926_63508ccb6c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171922/bird-gallery/slender_billed_oriole/avibase/avibase_1_54500247926_63508ccb6c_b.jpg",
+      "public_id": "bird-gallery/slender_billed_oriole/avibase/avibase_1_54500247926_63508ccb6c_b",
+      "width": 829,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 106864,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54500247926",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

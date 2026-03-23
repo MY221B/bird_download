@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "lesser_sand_plover",
+    "chinese_name": "蒙古沙鸻",
+    "english_name": "Lesser Sand Plover",
+    "scientific_name": "Charadrius mongolus"
+  },
+  "inaturalist": [
+    {
+      "original_file": "lesser_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171748/bird-gallery/lesser_sand_plover/inaturalist/lesser_sand_plover_1.jpg",
+      "public_id": "bird-gallery/lesser_sand_plover/inaturalist/lesser_sand_plover_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 159046,
+      "attribution": {
+        "photographer": "steveansell",
+        "photographer_url": "https://www.inaturalist.org/observations/261189851",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© steveansell (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 261189851,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "lesser_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171749/bird-gallery/lesser_sand_plover/wikimedia/lesser_sand_plover_1.jpg",
+      "public_id": "bird-gallery/lesser_sand_plover/wikimedia/lesser_sand_plover_1",
+      "width": 1280,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 130742,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bird_info": {
+    "slug": "light_vented_bulbul",
+    "chinese_name": "白头鹎",
+    "english_name": "Light-vented Bulbul",
+    "scientific_name": "Pycnonotus sinensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "light_vented_bulbul_205901091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171754/bird-gallery/light_vented_bulbul/macaulay/light_vented_bulbul_205901091.jpg",
+      "public_id": "bird-gallery/light_vented_bulbul/macaulay/light_vented_bulbul_205901091",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 175151,
+      "attribution": {
+        "photographer": "Sicheng Wan",
+        "photographer_url": "https://macaulaylibrary.org/asset/205901091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sicheng Wan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205901091",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "light_vented_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171754/bird-gallery/light_vented_bulbul/inaturalist/light_vented_bulbul_1.jpg",
+      "public_id": "bird-gallery/light_vented_bulbul/inaturalist/light_vented_bulbul_1",
+      "width": 855,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 267736,
+      "attribution": {
+        "source": "inaturalist",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_25275104477_a55bfb5f97_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171755/bird-gallery/light_vented_bulbul/avibase/avibase_1_25275104477_a55bfb5f97_b.jpg",
+      "public_id": "bird-gallery/light_vented_bulbul/avibase/avibase_1_25275104477_a55bfb5f97_b",
+      "width": 687,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 126282,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

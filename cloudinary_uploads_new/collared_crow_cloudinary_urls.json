@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "collared_crow",
+    "chinese_name": "白颈鸦",
+    "english_name": "Collared Crow",
+    "scientific_name": "Corvus pectoralis"
+  },
+  "macaulay": [
+    {
+      "original_file": "collared_crow_137923461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171574/bird-gallery/collared_crow/macaulay/collared_crow_137923461.jpg",
+      "public_id": "bird-gallery/collared_crow/macaulay/collared_crow_137923461",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 69375,
+      "attribution": {
+        "photographer": "Cheng-Ru Tsai",
+        "photographer_url": "https://macaulaylibrary.org/asset/137923461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Cheng-Ru Tsai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "137923461",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "collared_crow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171575/bird-gallery/collared_crow/inaturalist/collared_crow_1.jpg",
+      "public_id": "bird-gallery/collared_crow/inaturalist/collared_crow_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 527178,
+      "attribution": {
+        "photographer": "stephenmatthews",
+        "photographer_url": "https://www.inaturalist.org/observations/69300739",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© stephenmatthews (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 69300739,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_2154017398_588359f8c7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171576/bird-gallery/collared_crow/avibase/avibase_1_2154017398_588359f8c7_b.jpg",
+      "public_id": "bird-gallery/collared_crow/avibase/avibase_1_2154017398_588359f8c7_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 210236,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "2154017398",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

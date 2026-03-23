@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_tern",
+    "chinese_name": "普通燕鸥",
+    "english_name": "Common Tern",
+    "scientific_name": "Sterna hirundo"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_tern_250208911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171600/bird-gallery/common_tern/macaulay/common_tern_250208911.jpg",
+      "public_id": "bird-gallery/common_tern/macaulay/common_tern_250208911",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 70842,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/250208911",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "250208911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_tern_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171601/bird-gallery/common_tern/inaturalist/common_tern_2.jpg",
+      "public_id": "bird-gallery/common_tern/inaturalist/common_tern_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 388685,
+      "attribution": {
+        "photographer": "bottine",
+        "photographer_url": "https://www.inaturalist.org/observations/12040635",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© bottine (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 12040635,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_53173669177_7db439916c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171602/bird-gallery/common_tern/avibase/avibase_2_53173669177_7db439916c_b.jpg",
+      "public_id": "bird-gallery/common_tern/avibase/avibase_2_53173669177_7db439916c_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 112799,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53173669177",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "blue_bearded_bee_eater",
+    "chinese_name": "蓝须夜蜂虎",
+    "english_name": "Blue-bearded Bee Eater",
+    "scientific_name": "Nyctyornis athertoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_bearded_bee_eater_181639841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171512/bird-gallery/blue_bearded_bee_eater/macaulay/blue_bearded_bee_eater_181639841.jpg",
+      "public_id": "bird-gallery/blue_bearded_bee_eater/macaulay/blue_bearded_bee_eater_181639841",
+      "width": 981,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 127569,
+      "attribution": {
+        "photographer": "Sivaguru Noopuran PRS",
+        "photographer_url": "https://macaulaylibrary.org/asset/181639841",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sivaguru Noopuran PRS; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "181639841",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_bearded_bee_eater_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171513/bird-gallery/blue_bearded_bee_eater/inaturalist/blue_bearded_bee_eater_1.jpg",
+      "public_id": "bird-gallery/blue_bearded_bee_eater/inaturalist/blue_bearded_bee_eater_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 242915,
+      "attribution": {
+        "photographer": "sssuresh",
+        "photographer_url": "https://www.inaturalist.org/observations/118511606",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sssuresh (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 118511606,
+        "note": null
+      }
+    }
+  ]
+}

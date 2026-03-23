@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "elliots_laughingthrush",
+    "chinese_name": "橙翅噪鹛",
+    "english_name": "Elliot's Laughingthrush",
+    "scientific_name": "Trochalopteron elliotii"
+  },
+  "macaulay": [
+    {
+      "original_file": "elliots_laughingthrush_30332701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171623/bird-gallery/elliots_laughingthrush/macaulay/elliots_laughingthrush_30332701.jpg",
+      "public_id": "bird-gallery/elliots_laughingthrush/macaulay/elliots_laughingthrush_30332701",
+      "width": 1200,
+      "height": 719,
+      "format": "jpg",
+      "bytes": 148008,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/30332701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "30332701",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "elliots_laughingthrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171624/bird-gallery/elliots_laughingthrush/inaturalist/elliots_laughingthrush_2.jpg",
+      "public_id": "bird-gallery/elliots_laughingthrush/inaturalist/elliots_laughingthrush_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 634393,
+      "attribution": {
+        "photographer": "carlosbocos",
+        "photographer_url": "https://www.inaturalist.org/observations/41049995",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© carlosbocos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 41049995,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_8118652167_b4ab729405_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171625/bird-gallery/elliots_laughingthrush/avibase/avibase_1_8118652167_b4ab729405_b.jpg",
+      "public_id": "bird-gallery/elliots_laughingthrush/avibase/avibase_1_8118652167_b4ab729405_b",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 176725,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8118652167",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "sultan_tit",
+    "chinese_name": "冕雀",
+    "english_name": "Sultan Tit",
+    "scientific_name": "Melanochlora sultanea"
+  },
+  "macaulay": [
+    {
+      "original_file": "sultan_tit_436913141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171943/bird-gallery/sultan_tit/macaulay/sultan_tit_436913141.jpg",
+      "public_id": "bird-gallery/sultan_tit/macaulay/sultan_tit_436913141",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 148142,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/436913141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "436913141",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sultan_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171944/bird-gallery/sultan_tit/inaturalist/sultan_tit_1.jpg",
+      "public_id": "bird-gallery/sultan_tit/inaturalist/sultan_tit_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 438163,
+      "attribution": {
+        "photographer": "rozandhungel",
+        "photographer_url": "https://www.inaturalist.org/observations/146858053",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rozandhungel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 146858053,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "sultan_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171945/bird-gallery/sultan_tit/wikimedia/sultan_tit_1.jpg",
+      "public_id": "bird-gallery/sultan_tit/wikimedia/sultan_tit_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 252856,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48105450683_c6c8dfb9bc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171946/bird-gallery/sultan_tit/avibase/avibase_1_48105450683_c6c8dfb9bc_b.jpg",
+      "public_id": "bird-gallery/sultan_tit/avibase/avibase_1_48105450683_c6c8dfb9bc_b",
+      "width": 1024,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 187012,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48105450683",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

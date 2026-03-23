@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "silver_eared_mesia",
+    "chinese_name": "银耳相思鸟",
+    "english_name": "Silver-eared Mesia",
+    "scientific_name": "Leiothrix argentauris"
+  },
+  "macaulay": [
+    {
+      "original_file": "silver_eared_mesia_168470651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171912/bird-gallery/silver_eared_mesia/macaulay/silver_eared_mesia_168470651.jpg",
+      "public_id": "bird-gallery/silver_eared_mesia/macaulay/silver_eared_mesia_168470651",
+      "width": 1200,
+      "height": 792,
+      "format": "jpg",
+      "bytes": 178051,
+      "attribution": {
+        "photographer": "Carlos Sanchez",
+        "photographer_url": "https://macaulaylibrary.org/asset/168470651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Carlos Sanchez; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "168470651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "silver_eared_mesia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171913/bird-gallery/silver_eared_mesia/inaturalist/silver_eared_mesia_1.jpg",
+      "public_id": "bird-gallery/silver_eared_mesia/inaturalist/silver_eared_mesia_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 787219,
+      "attribution": {
+        "photographer": "martin53",
+        "photographer_url": "https://www.inaturalist.org/observations/203207562",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© martin53 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 203207562,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "silver_eared_mesia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171914/bird-gallery/silver_eared_mesia/wikimedia/silver_eared_mesia_1.jpg",
+      "public_id": "bird-gallery/silver_eared_mesia/wikimedia/silver_eared_mesia_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 216702,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_44607546052_49ae5babe9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171914/bird-gallery/silver_eared_mesia/avibase/avibase_3_44607546052_49ae5babe9_b.jpg",
+      "public_id": "bird-gallery/silver_eared_mesia/avibase/avibase_3_44607546052_49ae5babe9_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 202513,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "44607546052",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

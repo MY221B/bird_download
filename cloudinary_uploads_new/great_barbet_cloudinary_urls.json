@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "great_barbet",
+    "chinese_name": "大拟啄木鸟",
+    "english_name": "Great Barbet",
+    "scientific_name": "Psilopogon virens"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_barbet_194678271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171667/bird-gallery/great_barbet/macaulay/great_barbet_194678271.jpg",
+      "public_id": "bird-gallery/great_barbet/macaulay/great_barbet_194678271",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 144166,
+      "attribution": {
+        "photographer": "Dr. Pankaj Chibber",
+        "photographer_url": "https://macaulaylibrary.org/asset/194678271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Dr. Pankaj Chibber; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "194678271",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "great_barbet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171668/bird-gallery/great_barbet/inaturalist/great_barbet_1.jpg",
+      "public_id": "bird-gallery/great_barbet/inaturalist/great_barbet_1",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 313672,
+      "attribution": {
+        "photographer": "pelagicgraf",
+        "photographer_url": "https://www.inaturalist.org/observations/319371394",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pelagicgraf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 319371394,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "great_barbet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171669/bird-gallery/great_barbet/wikimedia/great_barbet_1.jpg",
+      "public_id": "bird-gallery/great_barbet/wikimedia/great_barbet_1",
+      "width": 960,
+      "height": 1379,
+      "format": "jpg",
+      "bytes": 240781,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52648750489_1f75330cac_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171670/bird-gallery/great_barbet/avibase/avibase_1_52648750489_1f75330cac_b.jpg",
+      "public_id": "bird-gallery/great_barbet/avibase/avibase_1_52648750489_1f75330cac_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 143286,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52648750489",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

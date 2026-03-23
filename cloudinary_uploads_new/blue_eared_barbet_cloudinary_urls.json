@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_eared_barbet",
+    "chinese_name": "蓝耳拟啄木鸟",
+    "english_name": "Blue-eared Barbet",
+    "scientific_name": "Psilopogon duvaucelii"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_eared_barbet_519839971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171512/bird-gallery/blue_eared_barbet/macaulay/blue_eared_barbet_519839971.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/macaulay/blue_eared_barbet_519839971",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 144910,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/519839971",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "519839971",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_eared_barbet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171513/bird-gallery/blue_eared_barbet/inaturalist/blue_eared_barbet_1.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/inaturalist/blue_eared_barbet_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 144788,
+      "attribution": {
+        "photographer": "henicorhina",
+        "photographer_url": "https://www.inaturalist.org/observations/51498828",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© henicorhina (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 51498828,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54303747727_b55b6a912e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171514/bird-gallery/blue_eared_barbet/avibase/avibase_1_54303747727_b55b6a912e_b.jpg",
+      "public_id": "bird-gallery/blue_eared_barbet/avibase/avibase_1_54303747727_b55b6a912e_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 70897,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54303747727",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "chestnut_crowned_warbler",
+    "chinese_name": "栗头鹟莺",
+    "english_name": "Chestnut-crowned Warbler",
+    "scientific_name": "Phylloscopus castaniceps"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_crowned_warbler_342986921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171549/bird-gallery/chestnut_crowned_warbler/macaulay/chestnut_crowned_warbler_342986921.jpg",
+      "public_id": "bird-gallery/chestnut_crowned_warbler/macaulay/chestnut_crowned_warbler_342986921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 175432,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/342986921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "342986921",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_crowned_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171550/bird-gallery/chestnut_crowned_warbler/inaturalist/chestnut_crowned_warbler_1.jpg",
+      "public_id": "bird-gallery/chestnut_crowned_warbler/inaturalist/chestnut_crowned_warbler_1",
+      "width": 598,
+      "height": 598,
+      "format": "jpg",
+      "bytes": 178464,
+      "attribution": {
+        "photographer": "hilucas",
+        "photographer_url": "https://www.inaturalist.org/observations/143641852",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© hilucas (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 143641852,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_28798873472_c14f2fbb58_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171552/bird-gallery/chestnut_crowned_warbler/avibase/avibase_1_28798873472_c14f2fbb58_b.jpg",
+      "public_id": "bird-gallery/chestnut_crowned_warbler/avibase/avibase_1_28798873472_c14f2fbb58_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 92767,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28798873472",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "white_bellied_sea_eagle",
+    "chinese_name": "白腹海雕",
+    "english_name": "White-bellied Sea Eagle",
+    "scientific_name": "Haliaeetus leucogaster"
+  },
+  "inaturalist": [
+    {
+      "original_file": "white_bellied_sea_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171972/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_1.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 425862,
+      "attribution": {
+        "photographer": "divercraig",
+        "photographer_url": "https://www.inaturalist.org/observations/106850137",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© divercraig (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106850137,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_bellied_sea_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171972/bird-gallery/white_bellied_sea_eagle/wikimedia/white_bellied_sea_eagle_1.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/wikimedia/white_bellied_sea_eagle_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 111624,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

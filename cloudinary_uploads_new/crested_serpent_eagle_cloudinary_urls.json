@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "crested_serpent_eagle",
+    "chinese_name": "蛇雕",
+    "english_name": "Crested Serpent Eagle",
+    "scientific_name": "Spilornis cheela"
+  },
+  "macaulay": [
+    {
+      "original_file": "crested_serpent_eagle_575372071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171607/bird-gallery/crested_serpent_eagle/macaulay/crested_serpent_eagle_575372071.jpg",
+      "public_id": "bird-gallery/crested_serpent_eagle/macaulay/crested_serpent_eagle_575372071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 265714,
+      "attribution": {
+        "photographer": "David Kirsch",
+        "photographer_url": "https://macaulaylibrary.org/asset/575372071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Kirsch; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "575372071",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crested_serpent_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171608/bird-gallery/crested_serpent_eagle/inaturalist/crested_serpent_eagle_1.jpg",
+      "public_id": "bird-gallery/crested_serpent_eagle/inaturalist/crested_serpent_eagle_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 178327,
+      "attribution": {
+        "photographer": "connk",
+        "photographer_url": "https://www.inaturalist.org/observations/56604466",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© connk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 56604466,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49660316393_71f8e0d245_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171608/bird-gallery/crested_serpent_eagle/avibase/avibase_1_49660316393_71f8e0d245_b.jpg",
+      "public_id": "bird-gallery/crested_serpent_eagle/avibase/avibase_1_49660316393_71f8e0d245_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 229416,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49660316393",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

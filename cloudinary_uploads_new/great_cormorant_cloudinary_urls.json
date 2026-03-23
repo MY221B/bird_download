@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "great_cormorant",
+    "chinese_name": "普通鸬鹚",
+    "english_name": "Great Cormorant",
+    "scientific_name": "Phalacrocorax carbo"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_cormorant_255272571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171667/bird-gallery/great_cormorant/macaulay/great_cormorant_255272571.jpg",
+      "public_id": "bird-gallery/great_cormorant/macaulay/great_cormorant_255272571",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 101729,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/255272571",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "255272571",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "great_cormorant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171667/bird-gallery/great_cormorant/inaturalist/great_cormorant_1.jpg",
+      "public_id": "bird-gallery/great_cormorant/inaturalist/great_cormorant_1",
+      "width": 1024,
+      "height": 615,
+      "format": "jpg",
+      "bytes": 357292,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "great_cormorant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171670/bird-gallery/great_cormorant/wikimedia/great_cormorant_1.jpg",
+      "public_id": "bird-gallery/great_cormorant/wikimedia/great_cormorant_1",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 239237,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52754328102_4644f84b15_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171670/bird-gallery/great_cormorant/avibase/avibase_1_52754328102_4644f84b15_b.jpg",
+      "public_id": "bird-gallery/great_cormorant/avibase/avibase_1_52754328102_4644f84b15_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 138687,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

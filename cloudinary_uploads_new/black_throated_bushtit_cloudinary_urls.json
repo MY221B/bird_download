@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "black_throated_bushtit",
+    "chinese_name": "红头长尾山雀",
+    "english_name": "Black-throated Bushtit",
+    "scientific_name": "Aegithalos concinnus"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_throated_bushtit_169336361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171508/bird-gallery/black_throated_bushtit/macaulay/black_throated_bushtit_169336361.jpg",
+      "public_id": "bird-gallery/black_throated_bushtit/macaulay/black_throated_bushtit_169336361",
+      "width": 1200,
+      "height": 841,
+      "format": "jpg",
+      "bytes": 128215,
+      "attribution": {
+        "photographer": "Vinit Bajpai",
+        "photographer_url": "https://macaulaylibrary.org/asset/169336361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vinit Bajpai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "169336361",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_throated_bushtit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171509/bird-gallery/black_throated_bushtit/inaturalist/black_throated_bushtit_1.jpg",
+      "public_id": "bird-gallery/black_throated_bushtit/inaturalist/black_throated_bushtit_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 279620,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/34180886",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 34180886,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_throated_bushtit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171510/bird-gallery/black_throated_bushtit/wikimedia/black_throated_bushtit_1.jpg",
+      "public_id": "bird-gallery/black_throated_bushtit/wikimedia/black_throated_bushtit_1",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 210321,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52984490244_6f9b1311ed_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171511/bird-gallery/black_throated_bushtit/avibase/avibase_1_52984490244_6f9b1311ed_b.jpg",
+      "public_id": "bird-gallery/black_throated_bushtit/avibase/avibase_1_52984490244_6f9b1311ed_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 126027,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52984490244",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

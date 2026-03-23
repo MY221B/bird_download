@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "slaty_blue_flycatcher",
+    "chinese_name": "灰蓝姬鹟",
+    "english_name": "Slaty-blue Flycatcher",
+    "scientific_name": "Ficedula tricolor"
+  },
+  "macaulay": [
+    {
+      "original_file": "slaty_blue_flycatcher_122544541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171918/bird-gallery/slaty_blue_flycatcher/macaulay/slaty_blue_flycatcher_122544541.jpg",
+      "public_id": "bird-gallery/slaty_blue_flycatcher/macaulay/slaty_blue_flycatcher_122544541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 159689,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/122544541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "122544541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slaty_blue_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171918/bird-gallery/slaty_blue_flycatcher/inaturalist/slaty_blue_flycatcher_1.jpg",
+      "public_id": "bird-gallery/slaty_blue_flycatcher/inaturalist/slaty_blue_flycatcher_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 411052,
+      "attribution": {
+        "photographer": "raymond8032",
+        "photographer_url": "https://www.inaturalist.org/observations/139946861",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© raymond8032 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 139946861,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "slaty_blue_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171919/bird-gallery/slaty_blue_flycatcher/wikimedia/slaty_blue_flycatcher_1.jpg",
+      "public_id": "bird-gallery/slaty_blue_flycatcher/wikimedia/slaty_blue_flycatcher_1",
+      "width": 1280,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 292347,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48863039737_d7b6572827_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171920/bird-gallery/slaty_blue_flycatcher/avibase/avibase_1_48863039737_d7b6572827_b.jpg",
+      "public_id": "bird-gallery/slaty_blue_flycatcher/avibase/avibase_1_48863039737_d7b6572827_b",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 173038,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48863039737",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

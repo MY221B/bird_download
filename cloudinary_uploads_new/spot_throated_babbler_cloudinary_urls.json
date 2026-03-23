@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "spot_throated_babbler",
+    "chinese_name": "白腹幽鹛",
+    "english_name": "Spot-throated Babbler",
+    "scientific_name": "Pellorneum albiventre"
+  },
+  "macaulay": [
+    {
+      "original_file": "spot_throated_babbler_379957441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171927/bird-gallery/spot_throated_babbler/macaulay/spot_throated_babbler_379957441.jpg",
+      "public_id": "bird-gallery/spot_throated_babbler/macaulay/spot_throated_babbler_379957441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 171177,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/379957441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "379957441",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spot_throated_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171928/bird-gallery/spot_throated_babbler/inaturalist/spot_throated_babbler_1.jpg",
+      "public_id": "bird-gallery/spot_throated_babbler/inaturalist/spot_throated_babbler_1",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 248604,
+      "attribution": {
+        "photographer": "rejoicegassah",
+        "photographer_url": "https://www.inaturalist.org/observations/240722303",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 240722303,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_39198061014_01b022b98a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171928/bird-gallery/spot_throated_babbler/avibase/avibase_1_39198061014_01b022b98a_b.jpg",
+      "public_id": "bird-gallery/spot_throated_babbler/avibase/avibase_1_39198061014_01b022b98a_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 331316,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "39198061014",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

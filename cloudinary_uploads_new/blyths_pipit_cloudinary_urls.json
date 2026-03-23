@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blyths_pipit",
+    "chinese_name": "布氏鹨",
+    "english_name": "Blyth's Pipit",
+    "scientific_name": "Anthus godlewskii"
+  },
+  "macaulay": [
+    {
+      "original_file": "blyths_pipit_334872761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171525/bird-gallery/blyths_pipit/macaulay/blyths_pipit_334872761.jpg",
+      "public_id": "bird-gallery/blyths_pipit/macaulay/blyths_pipit_334872761",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 140760,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/334872761",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "334872761",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blyths_pipit_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171526/bird-gallery/blyths_pipit/inaturalist/blyths_pipit_2.jpg",
+      "public_id": "bird-gallery/blyths_pipit/inaturalist/blyths_pipit_2",
+      "width": 1024,
+      "height": 642,
+      "format": "jpg",
+      "bytes": 332892,
+      "attribution": {
+        "photographer": "prashanthakrishnamc",
+        "photographer_url": "https://www.inaturalist.org/observations/17894294",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© prashanthakrishnamc (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 17894294,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_46003450964_f1f1f04c9e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171527/bird-gallery/blyths_pipit/avibase/avibase_1_46003450964_f1f1f04c9e_b.jpg",
+      "public_id": "bird-gallery/blyths_pipit/avibase/avibase_1_46003450964_f1f1f04c9e_b",
+      "width": 1023,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 188121,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "46003450964",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

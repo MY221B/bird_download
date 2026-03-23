@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "siberian_stonechat",
+    "chinese_name": "黑喉石䳭",
+    "english_name": "Siberian Stonechat",
+    "scientific_name": "Saxicola maurus"
+  },
+  "macaulay": [
+    {
+      "original_file": "siberian_stonechat_277478581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171907/bird-gallery/siberian_stonechat/macaulay/siberian_stonechat_277478581.jpg",
+      "public_id": "bird-gallery/siberian_stonechat/macaulay/siberian_stonechat_277478581",
+      "width": 1200,
+      "height": 829,
+      "format": "jpg",
+      "bytes": 119161,
+      "attribution": {
+        "photographer": "Hemanya R",
+        "photographer_url": "https://macaulaylibrary.org/asset/277478581",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Hemanya R; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "277478581",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "siberian_stonechat_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171908/bird-gallery/siberian_stonechat/inaturalist/siberian_stonechat_1.jpg",
+      "public_id": "bird-gallery/siberian_stonechat/inaturalist/siberian_stonechat_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 219653,
+      "attribution": {
+        "photographer": "cintylee",
+        "photographer_url": "https://www.inaturalist.org/observations/266155022",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cintylee (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 266155022,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "siberian_stonechat_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171909/bird-gallery/siberian_stonechat/wikimedia/siberian_stonechat_1.jpg",
+      "public_id": "bird-gallery/siberian_stonechat/wikimedia/siberian_stonechat_1",
+      "width": 1280,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 146453,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51985901012_bffa36827a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171911/bird-gallery/siberian_stonechat/avibase/avibase_1_51985901012_bffa36827a_b.jpg",
+      "public_id": "bird-gallery/siberian_stonechat/avibase/avibase_1_51985901012_bffa36827a_b",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 100834,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51985901012",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

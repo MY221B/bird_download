@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "dunlin",
+    "chinese_name": "黑腹滨鹬",
+    "english_name": "Dunlin",
+    "scientific_name": "Calidris alpina"
+  },
+  "macaulay": [
+    {
+      "original_file": "dunlin_284967101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171617/bird-gallery/dunlin/macaulay/dunlin_284967101.jpg",
+      "public_id": "bird-gallery/dunlin/macaulay/dunlin_284967101",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 128505,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/284967101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "284967101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dunlin_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171618/bird-gallery/dunlin/inaturalist/dunlin_2.jpg",
+      "public_id": "bird-gallery/dunlin/inaturalist/dunlin_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 630094,
+      "attribution": {
+        "photographer": "pmali",
+        "photographer_url": "https://www.inaturalist.org/observations/68098433",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© pmali (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 68098433,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_52698685518_390776b4ff_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171618/bird-gallery/dunlin/avibase/avibase_2_52698685518_390776b4ff_b.jpg",
+      "public_id": "bird-gallery/dunlin/avibase/avibase_2_52698685518_390776b4ff_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 129583,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52698685518",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

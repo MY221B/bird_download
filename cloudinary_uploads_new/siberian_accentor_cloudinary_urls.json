@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "siberian_accentor",
+    "chinese_name": "棕眉山岩鹨",
+    "english_name": "Siberian Accentor",
+    "scientific_name": "Prunella montanella"
+  },
+  "inaturalist": [
+    {
+      "original_file": "siberian_accentor_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171904/bird-gallery/siberian_accentor/inaturalist/siberian_accentor_1.jpg",
+      "public_id": "bird-gallery/siberian_accentor/inaturalist/siberian_accentor_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 80677,
+      "attribution": {
+        "photographer": "basova_larisa",
+        "photographer_url": "https://www.inaturalist.org/observations/192331703",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© basova_larisa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192331703,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54831993563_cd2ec20c01_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171905/bird-gallery/siberian_accentor/avibase/avibase_1_54831993563_cd2ec20c01_b.jpg",
+      "public_id": "bird-gallery/siberian_accentor/avibase/avibase_1_54831993563_cd2ec20c01_b",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 162551,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54831993563",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_winged_leafbird",
+    "chinese_name": "蓝翅叶鹎",
+    "english_name": "Blue-winged Leafbird",
+    "scientific_name": "Chloropsis cochinchinensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_winged_leafbird_242508431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171521/bird-gallery/blue_winged_leafbird/macaulay/blue_winged_leafbird_242508431.jpg",
+      "public_id": "bird-gallery/blue_winged_leafbird/macaulay/blue_winged_leafbird_242508431",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 168729,
+      "attribution": {
+        "photographer": "Panji Gusti Akbar",
+        "photographer_url": "https://macaulaylibrary.org/asset/242508431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Panji Gusti Akbar; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "242508431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_winged_leafbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171522/bird-gallery/blue_winged_leafbird/inaturalist/blue_winged_leafbird_2.jpg",
+      "public_id": "bird-gallery/blue_winged_leafbird/inaturalist/blue_winged_leafbird_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 509270,
+      "attribution": {
+        "photographer": "zr_ar",
+        "photographer_url": "https://www.inaturalist.org/observations/35354746",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© zr_ar (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 35354746,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53544731428_7cbb83eac5_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171523/bird-gallery/blue_winged_leafbird/avibase/avibase_1_53544731428_7cbb83eac5_b.jpg",
+      "public_id": "bird-gallery/blue_winged_leafbird/avibase/avibase_1_53544731428_7cbb83eac5_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 163667,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53544731428",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

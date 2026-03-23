@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "sand_martin",
+    "chinese_name": "崖沙燕",
+    "english_name": "Sand Martin",
+    "scientific_name": "Riparia riparia"
+  },
+  "macaulay": [
+    {
+      "original_file": "sand_martin_347652321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171891/bird-gallery/sand_martin/macaulay/sand_martin_347652321.jpg",
+      "public_id": "bird-gallery/sand_martin/macaulay/sand_martin_347652321",
+      "width": 1200,
+      "height": 822,
+      "format": "jpg",
+      "bytes": 117644,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/347652321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "347652321",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48057671667_86c5311ff0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171892/bird-gallery/sand_martin/avibase/avibase_1_48057671667_86c5311ff0_b.jpg",
+      "public_id": "bird-gallery/sand_martin/avibase/avibase_1_48057671667_86c5311ff0_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 115117,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48057671667",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

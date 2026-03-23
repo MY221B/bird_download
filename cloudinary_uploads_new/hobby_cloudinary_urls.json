@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "hobby",
+    "chinese_name": "燕隼",
+    "english_name": "Hobby",
+    "scientific_name": "Falco subbuteo"
+  },
+  "inaturalist": [
+    {
+      "original_file": "hobby_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171715/bird-gallery/hobby/inaturalist/hobby_3.jpg",
+      "public_id": "bird-gallery/hobby/inaturalist/hobby_3",
+      "width": 1024,
+      "height": 835,
+      "format": "jpg",
+      "bytes": 199497,
+      "attribution": {
+        "photographer": "mcekovic",
+        "photographer_url": "https://www.inaturalist.org/observations/239119952",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mcekovic (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 239119952,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54791196386_0d0c8bcc72_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171716/bird-gallery/hobby/avibase/avibase_1_54791196386_0d0c8bcc72_b.jpg",
+      "public_id": "bird-gallery/hobby/avibase/avibase_1_54791196386_0d0c8bcc72_b",
+      "width": 1024,
+      "height": 612,
+      "format": "jpg",
+      "bytes": 133922,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54791196386",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

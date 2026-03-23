@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "striated_swallow",
+    "chinese_name": "斑腰燕",
+    "english_name": "Striated Swallow",
+    "scientific_name": "Cecropis striolata"
+  },
+  "inaturalist": [
+    {
+      "original_file": "striated_swallow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171940/bird-gallery/striated_swallow/inaturalist/striated_swallow_1.jpg",
+      "public_id": "bird-gallery/striated_swallow/inaturalist/striated_swallow_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 233782,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/98285066",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 98285066,
+        "note": null
+      }
+    }
+  ]
+}

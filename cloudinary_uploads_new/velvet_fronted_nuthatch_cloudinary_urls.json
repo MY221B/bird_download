@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "velvet_fronted_nuthatch",
+    "chinese_name": "绒额䴓",
+    "english_name": "Velvet-fronted Nuthatch",
+    "scientific_name": "Sitta frontalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "velvet_fronted_nuthatch_113678561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171955/bird-gallery/velvet_fronted_nuthatch/macaulay/velvet_fronted_nuthatch_113678561.jpg",
+      "public_id": "bird-gallery/velvet_fronted_nuthatch/macaulay/velvet_fronted_nuthatch_113678561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117424,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/113678561",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "113678561",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "velvet_fronted_nuthatch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171956/bird-gallery/velvet_fronted_nuthatch/inaturalist/velvet_fronted_nuthatch_1.jpg",
+      "public_id": "bird-gallery/velvet_fronted_nuthatch/inaturalist/velvet_fronted_nuthatch_1",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 302528,
+      "attribution": {
+        "photographer": "antonygrossy",
+        "photographer_url": "https://www.inaturalist.org/observations/125721853",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© antonygrossy (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 125721853,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "velvet_fronted_nuthatch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171957/bird-gallery/velvet_fronted_nuthatch/wikimedia/velvet_fronted_nuthatch_1.jpg",
+      "public_id": "bird-gallery/velvet_fronted_nuthatch/wikimedia/velvet_fronted_nuthatch_1",
+      "width": 960,
+      "height": 1441,
+      "format": "jpg",
+      "bytes": 492346,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49114914377_d73996963f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171960/bird-gallery/velvet_fronted_nuthatch/avibase/avibase_1_49114914377_d73996963f_b.jpg",
+      "public_id": "bird-gallery/velvet_fronted_nuthatch/avibase/avibase_1_49114914377_d73996963f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 236155,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49114914377",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

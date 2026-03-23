@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "verditer_flycatcher",
+    "chinese_name": "铜蓝鹟",
+    "english_name": "Verditer Flycatcher",
+    "scientific_name": "Eumyias thalassinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "verditer_flycatcher_530409611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171957/bird-gallery/verditer_flycatcher/macaulay/verditer_flycatcher_530409611.jpg",
+      "public_id": "bird-gallery/verditer_flycatcher/macaulay/verditer_flycatcher_530409611",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 63846,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/530409611",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "530409611",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51306118673_245a748334_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171958/bird-gallery/verditer_flycatcher/avibase/avibase_1_51306118673_245a748334_b.jpg",
+      "public_id": "bird-gallery/verditer_flycatcher/avibase/avibase_1_51306118673_245a748334_b",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 71505,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51306118673",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

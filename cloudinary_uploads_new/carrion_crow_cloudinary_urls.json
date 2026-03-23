@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "carrion_crow",
+    "chinese_name": "小嘴乌鸦",
+    "english_name": "Carrion Crow",
+    "scientific_name": "Corvus corone"
+  },
+  "macaulay": [
+    {
+      "original_file": "carrion_crow_414257861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171544/bird-gallery/carrion_crow/macaulay/carrion_crow_414257861.jpg",
+      "public_id": "bird-gallery/carrion_crow/macaulay/carrion_crow_414257861",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 198200,
+      "attribution": {
+        "photographer": "Alexis Lours",
+        "photographer_url": "https://macaulaylibrary.org/asset/414257861",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Alexis Lours; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "414257861",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "carrion_crow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171545/bird-gallery/carrion_crow/inaturalist/carrion_crow_1.jpg",
+      "public_id": "bird-gallery/carrion_crow/inaturalist/carrion_crow_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 274590,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "carrion_crow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171545/bird-gallery/carrion_crow/wikimedia/carrion_crow_1.jpg",
+      "public_id": "bird-gallery/carrion_crow/wikimedia/carrion_crow_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 184176,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53050207813_5981ca30f8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171546/bird-gallery/carrion_crow/avibase/avibase_1_53050207813_5981ca30f8_b.jpg",
+      "public_id": "bird-gallery/carrion_crow/avibase/avibase_1_53050207813_5981ca30f8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 129704,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

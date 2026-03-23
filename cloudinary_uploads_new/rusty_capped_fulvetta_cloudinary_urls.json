@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "rusty_capped_fulvetta",
+    "chinese_name": "褐胁雀鹛",
+    "english_name": "Rusty-capped Fulvetta",
+    "scientific_name": "Schoeniparus dubius"
+  },
+  "macaulay": [
+    {
+      "original_file": "rusty_capped_fulvetta_507591911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171888/bird-gallery/rusty_capped_fulvetta/macaulay/rusty_capped_fulvetta_507591911.jpg",
+      "public_id": "bird-gallery/rusty_capped_fulvetta/macaulay/rusty_capped_fulvetta_507591911",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 147592,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/507591911",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "507591911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rusty_capped_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171889/bird-gallery/rusty_capped_fulvetta/inaturalist/rusty_capped_fulvetta_1.jpg",
+      "public_id": "bird-gallery/rusty_capped_fulvetta/inaturalist/rusty_capped_fulvetta_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 219721,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/25993123",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 25993123,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "rusty_capped_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171890/bird-gallery/rusty_capped_fulvetta/wikimedia/rusty_capped_fulvetta_1.jpg",
+      "public_id": "bird-gallery/rusty_capped_fulvetta/wikimedia/rusty_capped_fulvetta_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 271526,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52778168807_7caa9ba587_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171891/bird-gallery/rusty_capped_fulvetta/avibase/avibase_1_52778168807_7caa9ba587_b.jpg",
+      "public_id": "bird-gallery/rusty_capped_fulvetta/avibase/avibase_1_52778168807_7caa9ba587_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 187249,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52778168807",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

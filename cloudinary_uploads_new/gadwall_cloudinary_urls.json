@@ -1,0 +1,90 @@
+{
+  "bird_info": {
+    "slug": "gadwall",
+    "chinese_name": "赤膀鸭"
+  },
+  "macaulay": [
+    {
+      "original_file": "gadwall_283493481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171654/bird-gallery/gadwall/macaulay/gadwall_283493481.jpg",
+      "public_id": "bird-gallery/gadwall/macaulay/gadwall_283493481",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99700,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gadwall_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171655/bird-gallery/gadwall/inaturalist/gadwall_1.jpg",
+      "public_id": "bird-gallery/gadwall/inaturalist/gadwall_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 162746,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "gadwall_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171656/bird-gallery/gadwall/wikimedia/gadwall_1.jpg",
+      "public_id": "bird-gallery/gadwall/wikimedia/gadwall_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 191646,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49603074908_f8e3cd6e0a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171657/bird-gallery/gadwall/avibase/avibase_1_49603074908_f8e3cd6e0a_b.jpg",
+      "public_id": "bird-gallery/gadwall/avibase/avibase_1_49603074908_f8e3cd6e0a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 144704,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

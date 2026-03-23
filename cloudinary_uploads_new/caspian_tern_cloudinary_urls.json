@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "caspian_tern",
+    "chinese_name": "红嘴巨燕鸥",
+    "english_name": "Caspian Tern",
+    "scientific_name": "Hydroprogne caspia"
+  },
+  "macaulay": [
+    {
+      "original_file": "caspian_tern_263223581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171546/bird-gallery/caspian_tern/macaulay/caspian_tern_263223581.jpg",
+      "public_id": "bird-gallery/caspian_tern/macaulay/caspian_tern_263223581",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 144950,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/263223581",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "263223581",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "caspian_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171546/bird-gallery/caspian_tern/inaturalist/caspian_tern_1.jpg",
+      "public_id": "bird-gallery/caspian_tern/inaturalist/caspian_tern_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 312503,
+      "attribution": {
+        "photographer": "dutch-tt",
+        "photographer_url": "https://www.inaturalist.org/observations/192854140",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© dutch-tt (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 192854140,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "caspian_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171547/bird-gallery/caspian_tern/wikimedia/caspian_tern_1.jpg",
+      "public_id": "bird-gallery/caspian_tern/wikimedia/caspian_tern_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 181516,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52104855814_2277ffd879_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171548/bird-gallery/caspian_tern/avibase/avibase_1_52104855814_2277ffd879_b.jpg",
+      "public_id": "bird-gallery/caspian_tern/avibase/avibase_1_52104855814_2277ffd879_b",
+      "width": 1024,
+      "height": 693,
+      "format": "jpg",
+      "bytes": 270680,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52104855814",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

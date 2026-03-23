@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "japanese_reed_bunting",
+    "chinese_name": "红颈苇鹀",
+    "english_name": "Japanese Reed Bunting",
+    "scientific_name": "Emberiza yessoensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "japanese_reed_bunting_384661261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171731/bird-gallery/japanese_reed_bunting/macaulay/japanese_reed_bunting_384661261.jpg",
+      "public_id": "bird-gallery/japanese_reed_bunting/macaulay/japanese_reed_bunting_384661261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 177909,
+      "attribution": {
+        "photographer": "peng su",
+        "photographer_url": "https://macaulaylibrary.org/asset/384661261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by peng su; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "384661261",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "japanese_reed_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171732/bird-gallery/japanese_reed_bunting/inaturalist/japanese_reed_bunting_1.jpg",
+      "public_id": "bird-gallery/japanese_reed_bunting/inaturalist/japanese_reed_bunting_1",
+      "width": 1024,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 161602,
+      "attribution": {
+        "photographer": "toopique",
+        "photographer_url": "https://www.inaturalist.org/observations/251909478",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© toopique (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 251909478,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "japanese_reed_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171733/bird-gallery/japanese_reed_bunting/wikimedia/japanese_reed_bunting_1.jpg",
+      "public_id": "bird-gallery/japanese_reed_bunting/wikimedia/japanese_reed_bunting_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 142944,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54424653269_e4dd73f0de_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171734/bird-gallery/japanese_reed_bunting/avibase/avibase_1_54424653269_e4dd73f0de_b.jpg",
+      "public_id": "bird-gallery/japanese_reed_bunting/avibase/avibase_1_54424653269_e4dd73f0de_b",
+      "width": 1023,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 106730,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54424653269",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "eastern_yellow_wagtail",
+    "chinese_name": "黄鹡鸰",
+    "english_name": "Eastern Yellow Wagtail",
+    "scientific_name": "Motacilla tschutschensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_yellow_wagtail_167825341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171622/bird-gallery/eastern_yellow_wagtail/macaulay/eastern_yellow_wagtail_167825341.jpg",
+      "public_id": "bird-gallery/eastern_yellow_wagtail/macaulay/eastern_yellow_wagtail_167825341",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 112966,
+      "attribution": {
+        "photographer": "Brian Sullivan",
+        "photographer_url": "https://macaulaylibrary.org/asset/167825341",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Brian Sullivan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "167825341",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eastern_yellow_wagtail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171623/bird-gallery/eastern_yellow_wagtail/inaturalist/eastern_yellow_wagtail_1.jpg",
+      "public_id": "bird-gallery/eastern_yellow_wagtail/inaturalist/eastern_yellow_wagtail_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 516824,
+      "attribution": {
+        "photographer": "igor-dvurekov",
+        "photographer_url": "https://www.inaturalist.org/observations/82160625",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© igor-dvurekov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 82160625,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eastern_yellow_wagtail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171624/bird-gallery/eastern_yellow_wagtail/wikimedia/eastern_yellow_wagtail_1.jpg",
+      "public_id": "bird-gallery/eastern_yellow_wagtail/wikimedia/eastern_yellow_wagtail_1",
+      "width": 960,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 84229,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51112934536_2f670151bb_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171625/bird-gallery/eastern_yellow_wagtail/avibase/avibase_1_51112934536_2f670151bb_b.jpg",
+      "public_id": "bird-gallery/eastern_yellow_wagtail/avibase/avibase_1_51112934536_2f670151bb_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 318042,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51112934536",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

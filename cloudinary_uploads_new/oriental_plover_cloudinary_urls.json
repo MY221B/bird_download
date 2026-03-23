@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "oriental_plover",
+    "chinese_name": "东方鸻",
+    "english_name": "Oriental Plover",
+    "scientific_name": "Charadrius veredus"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_plover_164193491.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171808/bird-gallery/oriental_plover/macaulay/oriental_plover_164193491.jpg",
+      "public_id": "bird-gallery/oriental_plover/macaulay/oriental_plover_164193491",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117320,
+      "attribution": {
+        "photographer": "Laurie Ross | Tracks Birding & Photography Tours",
+        "photographer_url": "https://macaulaylibrary.org/asset/164193491",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Laurie Ross | Tracks Birding & Photography Tours; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "164193491",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_plover_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171809/bird-gallery/oriental_plover/inaturalist/oriental_plover_2.jpg",
+      "public_id": "bird-gallery/oriental_plover/inaturalist/oriental_plover_2",
+      "width": 894,
+      "height": 472,
+      "format": "jpg",
+      "bytes": 148176,
+      "attribution": {
+        "photographer": "queenie1",
+        "photographer_url": "https://www.inaturalist.org/observations/72673472",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© queenie1 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 72673472,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51251528020_cb5c75ddeb_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171810/bird-gallery/oriental_plover/avibase/avibase_1_51251528020_cb5c75ddeb_b.jpg",
+      "public_id": "bird-gallery/oriental_plover/avibase/avibase_1_51251528020_cb5c75ddeb_b",
+      "width": 1023,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 159637,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51251528020",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "red_breasted_flycatcher",
+    "chinese_name": "红胸姬鹟",
+    "english_name": "Red-breasted Flycatcher",
+    "scientific_name": "Ficedula parva"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_breasted_flycatcher_337014461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171851/bird-gallery/red_breasted_flycatcher/macaulay/red_breasted_flycatcher_337014461.jpg",
+      "public_id": "bird-gallery/red_breasted_flycatcher/macaulay/red_breasted_flycatcher_337014461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 156419,
+      "attribution": {
+        "photographer": "Petr Podzemný",
+        "photographer_url": "https://macaulaylibrary.org/asset/337014461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Petr Podzemný; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "337014461",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_breasted_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171851/bird-gallery/red_breasted_flycatcher/inaturalist/red_breasted_flycatcher_1.jpg",
+      "public_id": "bird-gallery/red_breasted_flycatcher/inaturalist/red_breasted_flycatcher_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 277172,
+      "attribution": {
+        "photographer": "yury-redkin",
+        "photographer_url": "https://www.inaturalist.org/observations/218914946",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© yury-redkin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 218914946,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "red_breasted_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171852/bird-gallery/red_breasted_flycatcher/wikimedia/red_breasted_flycatcher_1.jpg",
+      "public_id": "bird-gallery/red_breasted_flycatcher/wikimedia/red_breasted_flycatcher_1",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 108712,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54231873429_ec2255b4ba_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171853/bird-gallery/red_breasted_flycatcher/avibase/avibase_1_54231873429_ec2255b4ba_b.jpg",
+      "public_id": "bird-gallery/red_breasted_flycatcher/avibase/avibase_1_54231873429_ec2255b4ba_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 152390,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54231873429",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

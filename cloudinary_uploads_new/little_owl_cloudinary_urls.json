@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "little_owl",
+    "chinese_name": "纵纹腹小鸮",
+    "english_name": "Little Owl",
+    "scientific_name": "Athene noctua"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_owl_250510051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171758/bird-gallery/little_owl/macaulay/little_owl_250510051.jpg",
+      "public_id": "bird-gallery/little_owl/macaulay/little_owl_250510051",
+      "width": 1200,
+      "height": 647,
+      "format": "jpg",
+      "bytes": 116530,
+      "attribution": {
+        "photographer": "Pascal De Munck",
+        "photographer_url": "https://macaulaylibrary.org/asset/250510051",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pascal De Munck; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "250510051",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171759/bird-gallery/little_owl/inaturalist/little_owl_1.jpg",
+      "public_id": "bird-gallery/little_owl/inaturalist/little_owl_1",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 762781,
+      "attribution": {
+        "photographer": "jessica_peruzzo",
+        "photographer_url": "https://www.inaturalist.org/observations/277688103",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© jessica_peruzzo (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 277688103,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "little_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171760/bird-gallery/little_owl/wikimedia/little_owl_1.jpg",
+      "public_id": "bird-gallery/little_owl/wikimedia/little_owl_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 161835,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54567786800_5b71c40a38_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171760/bird-gallery/little_owl/avibase/avibase_1_54567786800_5b71c40a38_b.jpg",
+      "public_id": "bird-gallery/little_owl/avibase/avibase_1_54567786800_5b71c40a38_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90069,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54567786800",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

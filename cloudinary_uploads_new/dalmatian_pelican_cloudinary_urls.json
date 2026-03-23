@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "dalmatian_pelican",
+    "chinese_name": "卷羽鹈鹕",
+    "english_name": "Dalmatian Pelican",
+    "scientific_name": "Pelecanus crispus"
+  },
+  "macaulay": [
+    {
+      "original_file": "dalmatian_pelican_194678741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171610/bird-gallery/dalmatian_pelican/macaulay/dalmatian_pelican_194678741.jpg",
+      "public_id": "bird-gallery/dalmatian_pelican/macaulay/dalmatian_pelican_194678741",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 121293,
+      "attribution": {
+        "photographer": "Iordan Hristov-- Freelance bird guide--NatureMonitoring.com",
+        "photographer_url": "https://macaulaylibrary.org/asset/194678741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Iordan Hristov-- Freelance bird guide--NatureMonitoring.com; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "194678741",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_38655841414_e6989ab88d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171610/bird-gallery/dalmatian_pelican/avibase/avibase_1_38655841414_e6989ab88d_b.jpg",
+      "public_id": "bird-gallery/dalmatian_pelican/avibase/avibase_1_38655841414_e6989ab88d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 121505,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "38655841414",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

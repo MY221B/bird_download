@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "banded_bay_cuckoo",
+    "chinese_name": "栗斑杜鹃",
+    "english_name": "Banded Bay Cuckoo",
+    "scientific_name": "Cacomantis sonneratii"
+  },
+  "macaulay": [
+    {
+      "original_file": "banded_bay_cuckoo_251431431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171476/bird-gallery/banded_bay_cuckoo/macaulay/banded_bay_cuckoo_251431431.jpg",
+      "public_id": "bird-gallery/banded_bay_cuckoo/macaulay/banded_bay_cuckoo_251431431",
+      "width": 1200,
+      "height": 806,
+      "format": "jpg",
+      "bytes": 178771,
+      "attribution": {
+        "photographer": "Novelkumar M S",
+        "photographer_url": "https://macaulaylibrary.org/asset/251431431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Novelkumar M S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "251431431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "banded_bay_cuckoo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171477/bird-gallery/banded_bay_cuckoo/inaturalist/banded_bay_cuckoo_1.jpg",
+      "public_id": "bird-gallery/banded_bay_cuckoo/inaturalist/banded_bay_cuckoo_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 205478,
+      "attribution": {
+        "photographer": "mchoi_azis",
+        "photographer_url": "https://www.inaturalist.org/observations/302555619",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mchoi_azis (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 302555619,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "banded_bay_cuckoo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171478/bird-gallery/banded_bay_cuckoo/wikimedia/banded_bay_cuckoo_1.jpg",
+      "public_id": "bird-gallery/banded_bay_cuckoo/wikimedia/banded_bay_cuckoo_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 121380,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_16414804681_d8158f2d2b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171479/bird-gallery/banded_bay_cuckoo/avibase/avibase_1_16414804681_d8158f2d2b_b.jpg",
+      "public_id": "bird-gallery/banded_bay_cuckoo/avibase/avibase_1_16414804681_d8158f2d2b_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 177503,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16414804681",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

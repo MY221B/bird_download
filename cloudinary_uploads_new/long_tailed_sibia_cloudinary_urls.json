@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "long_tailed_sibia",
+    "chinese_name": "长尾奇鹛",
+    "english_name": "Long-tailed Sibia",
+    "scientific_name": "Heterophasia picaoides"
+  },
+  "macaulay": [
+    {
+      "original_file": "long_tailed_sibia_159790041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171767/bird-gallery/long_tailed_sibia/macaulay/long_tailed_sibia_159790041.jpg",
+      "public_id": "bird-gallery/long_tailed_sibia/macaulay/long_tailed_sibia_159790041",
+      "width": 1112,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 175079,
+      "attribution": {
+        "photographer": "Bhaarat Vyas",
+        "photographer_url": "https://macaulaylibrary.org/asset/159790041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Bhaarat Vyas; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "159790041",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "long_tailed_sibia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171768/bird-gallery/long_tailed_sibia/inaturalist/long_tailed_sibia_1.png",
+      "public_id": "bird-gallery/long_tailed_sibia/inaturalist/long_tailed_sibia_1",
+      "width": 1024,
+      "height": 681,
+      "format": "png",
+      "bytes": 1029374,
+      "attribution": {
+        "photographer": "cypselurus",
+        "photographer_url": "https://www.inaturalist.org/observations/9365309",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cypselurus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9365309,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_44030056971_a7e524d2f4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171769/bird-gallery/long_tailed_sibia/avibase/avibase_1_44030056971_a7e524d2f4_b.jpg",
+      "public_id": "bird-gallery/long_tailed_sibia/avibase/avibase_1_44030056971_a7e524d2f4_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 121357,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "44030056971",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "greenish_warbler",
+    "chinese_name": "暗绿柳莺",
+    "english_name": "Greenish Warbler",
+    "scientific_name": "Phylloscopus trochiloides"
+  },
+  "macaulay": [
+    {
+      "original_file": "greenish_warbler_297305651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171687/bird-gallery/greenish_warbler/macaulay/greenish_warbler_297305651.jpg",
+      "public_id": "bird-gallery/greenish_warbler/macaulay/greenish_warbler_297305651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 151258,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/297305651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "297305651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "greenish_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171688/bird-gallery/greenish_warbler/inaturalist/greenish_warbler_1.jpg",
+      "public_id": "bird-gallery/greenish_warbler/inaturalist/greenish_warbler_1",
+      "width": 1024,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 180570,
+      "attribution": {
+        "photographer": "zveroboy57",
+        "photographer_url": "https://www.inaturalist.org/observations/51564528",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© zveroboy57 (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 51564528,
+        "note": null
+      }
+    }
+  ]
+}

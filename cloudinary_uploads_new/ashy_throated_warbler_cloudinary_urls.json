@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "ashy_throated_warbler",
+    "chinese_name": "灰喉柳莺",
+    "english_name": "Ashy-throated Warbler",
+    "scientific_name": "Phylloscopus maculipennis"
+  },
+  "macaulay": [
+    {
+      "original_file": "ashy_throated_warbler_417541431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171465/bird-gallery/ashy_throated_warbler/macaulay/ashy_throated_warbler_417541431.jpg",
+      "public_id": "bird-gallery/ashy_throated_warbler/macaulay/ashy_throated_warbler_417541431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 209962,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/417541431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "417541431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ashy_throated_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171466/bird-gallery/ashy_throated_warbler/inaturalist/ashy_throated_warbler_1.jpg",
+      "public_id": "bird-gallery/ashy_throated_warbler/inaturalist/ashy_throated_warbler_1",
+      "width": 1024,
+      "height": 766,
+      "format": "jpg",
+      "bytes": 259473,
+      "attribution": {
+        "photographer": "naturalist23338",
+        "photographer_url": "https://www.inaturalist.org/observations/256634878",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 256634878,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_8617639580_ffd2eb88a6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171467/bird-gallery/ashy_throated_warbler/avibase/avibase_1_8617639580_ffd2eb88a6_b.jpg",
+      "public_id": "bird-gallery/ashy_throated_warbler/avibase/avibase_1_8617639580_ffd2eb88a6_b",
+      "width": 1024,
+      "height": 746,
+      "format": "jpg",
+      "bytes": 131848,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8617639580",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

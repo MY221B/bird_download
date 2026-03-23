@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "whites_thrush",
+    "chinese_name": "虎斑地鸫",
+    "english_name": "White's Thrush",
+    "scientific_name": "Zoothera aurea"
+  },
+  "inaturalist": [
+    {
+      "original_file": "whites_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171999/bird-gallery/whites_thrush/inaturalist/whites_thrush_1.jpg",
+      "public_id": "bird-gallery/whites_thrush/inaturalist/whites_thrush_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 523575,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/125895638",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 125895638,
+        "note": null
+      }
+    }
+  ]
+}

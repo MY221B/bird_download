@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "harterts_leaf_warbler",
+    "chinese_name": "华南冠纹柳莺",
+    "english_name": "Hartert's Leaf Warbler",
+    "scientific_name": "Phylloscopus goodsoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "harterts_leaf_warbler_148956301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171707/bird-gallery/harterts_leaf_warbler/macaulay/harterts_leaf_warbler_148956301.jpg",
+      "public_id": "bird-gallery/harterts_leaf_warbler/macaulay/harterts_leaf_warbler_148956301",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 164913,
+      "attribution": {
+        "photographer": "Paul Hyde",
+        "photographer_url": "https://macaulaylibrary.org/asset/148956301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Paul Hyde; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "148956301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "harterts_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171708/bird-gallery/harterts_leaf_warbler/inaturalist/harterts_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/harterts_leaf_warbler/inaturalist/harterts_leaf_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 360599,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/108704903",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 108704903,
+        "note": null
+      }
+    }
+  ]
+}

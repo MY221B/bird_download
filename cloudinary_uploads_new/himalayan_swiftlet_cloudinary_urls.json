@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "himalayan_swiftlet",
+    "chinese_name": "短嘴金丝燕",
+    "english_name": "Himalayan Swiftlet",
+    "scientific_name": "Aerodramus brevirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "himalayan_swiftlet_300095001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171714/bird-gallery/himalayan_swiftlet/macaulay/himalayan_swiftlet_300095001.jpg",
+      "public_id": "bird-gallery/himalayan_swiftlet/macaulay/himalayan_swiftlet_300095001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 53720,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/300095001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "300095001",
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "himalayan_swiftlet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171715/bird-gallery/himalayan_swiftlet/wikimedia/himalayan_swiftlet_1.jpg",
+      "public_id": "bird-gallery/himalayan_swiftlet/wikimedia/himalayan_swiftlet_1",
+      "width": 250,
+      "height": 213,
+      "format": "jpg",
+      "bytes": 4798,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

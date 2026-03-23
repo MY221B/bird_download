@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "black_tailed_godwit",
+    "chinese_name": "黑尾塍鹬",
+    "english_name": "Black-tailed Godwit",
+    "scientific_name": "Limosa limosa"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_tailed_godwit_258123091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171506/bird-gallery/black_tailed_godwit/macaulay/black_tailed_godwit_258123091.jpg",
+      "public_id": "bird-gallery/black_tailed_godwit/macaulay/black_tailed_godwit_258123091",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97637,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/258123091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "258123091",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_tailed_godwit_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171507/bird-gallery/black_tailed_godwit/inaturalist/black_tailed_godwit_2.jpg",
+      "public_id": "bird-gallery/black_tailed_godwit/inaturalist/black_tailed_godwit_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 322589,
+      "attribution": {
+        "photographer": "kyletansley",
+        "photographer_url": "https://www.inaturalist.org/observations/64379712",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kyletansley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 64379712,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_tailed_godwit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171508/bird-gallery/black_tailed_godwit/wikimedia/black_tailed_godwit_1.jpg",
+      "public_id": "bird-gallery/black_tailed_godwit/wikimedia/black_tailed_godwit_1",
+      "width": 1280,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 196756,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49825577713_29b7e29bbe_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171509/bird-gallery/black_tailed_godwit/avibase/avibase_1_49825577713_29b7e29bbe_b.jpg",
+      "public_id": "bird-gallery/black_tailed_godwit/avibase/avibase_1_49825577713_29b7e29bbe_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 194503,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49825577713",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

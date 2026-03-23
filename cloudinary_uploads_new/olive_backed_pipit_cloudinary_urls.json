@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "olive_backed_pipit",
+    "chinese_name": "树鹨",
+    "english_name": "Olive-backed Pipit",
+    "scientific_name": "Anthus hodgsoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "olive_backed_pipit_332003841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171798/bird-gallery/olive_backed_pipit/macaulay/olive_backed_pipit_332003841.jpg",
+      "public_id": "bird-gallery/olive_backed_pipit/macaulay/olive_backed_pipit_332003841",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74508,
+      "attribution": {
+        "photographer": "Ben Lucking",
+        "photographer_url": "https://macaulaylibrary.org/asset/332003841",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ben Lucking; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "332003841",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "olive_backed_pipit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171798/bird-gallery/olive_backed_pipit/inaturalist/olive_backed_pipit_1.jpg",
+      "public_id": "bird-gallery/olive_backed_pipit/inaturalist/olive_backed_pipit_1",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 203030,
+      "attribution": {
+        "photographer": "olicannes",
+        "photographer_url": "https://www.inaturalist.org/observations/20253170",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© olicannes (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 20253170,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52468560273_9a9175bc33_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171799/bird-gallery/olive_backed_pipit/avibase/avibase_1_52468560273_9a9175bc33_b.jpg",
+      "public_id": "bird-gallery/olive_backed_pipit/avibase/avibase_1_52468560273_9a9175bc33_b",
+      "width": 1023,
+      "height": 711,
+      "format": "jpg",
+      "bytes": 177913,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52468560273",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

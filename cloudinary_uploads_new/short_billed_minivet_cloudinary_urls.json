@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "short_billed_minivet",
+    "chinese_name": "短嘴山椒鸟",
+    "english_name": "Short-billed Minivet",
+    "scientific_name": "Pericrocotus brevirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "short_billed_minivet_192619311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171901/bird-gallery/short_billed_minivet/macaulay/short_billed_minivet_192619311.jpg",
+      "public_id": "bird-gallery/short_billed_minivet/macaulay/short_billed_minivet_192619311",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109385,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/192619311",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "192619311",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "short_billed_minivet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171902/bird-gallery/short_billed_minivet/inaturalist/short_billed_minivet_1.jpg",
+      "public_id": "bird-gallery/short_billed_minivet/inaturalist/short_billed_minivet_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 480487,
+      "attribution": {
+        "photographer": "arun-subba",
+        "photographer_url": "https://www.inaturalist.org/observations/36374596",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© arun-subba (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36374596,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51328704355_0031d2be2b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171903/bird-gallery/short_billed_minivet/avibase/avibase_1_51328704355_0031d2be2b_b.jpg",
+      "public_id": "bird-gallery/short_billed_minivet/avibase/avibase_1_51328704355_0031d2be2b_b",
+      "width": 875,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 227777,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51328704355",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "rufous_bellied_hawk_eagle",
+    "chinese_name": "棕腹隼雕",
+    "english_name": "Rufous-bellied Hawk Eagle",
+    "scientific_name": "Lophotriorchis kienerii"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_bellied_hawk_eagle_246852861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171876/bird-gallery/rufous_bellied_hawk_eagle/macaulay/rufous_bellied_hawk_eagle_246852861.jpg",
+      "public_id": "bird-gallery/rufous_bellied_hawk_eagle/macaulay/rufous_bellied_hawk_eagle_246852861",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 117630,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/246852861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "246852861",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_bellied_hawk_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171877/bird-gallery/rufous_bellied_hawk_eagle/inaturalist/rufous_bellied_hawk_eagle_1.jpg",
+      "public_id": "bird-gallery/rufous_bellied_hawk_eagle/inaturalist/rufous_bellied_hawk_eagle_1",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 179497,
+      "attribution": {
+        "photographer": "karim_imran_clicks",
+        "photographer_url": "https://www.inaturalist.org/observations/128494875",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© karim_imran_clicks (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 128494875,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50648464687_66066c7f44_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171878/bird-gallery/rufous_bellied_hawk_eagle/avibase/avibase_1_50648464687_66066c7f44_b.jpg",
+      "public_id": "bird-gallery/rufous_bellied_hawk_eagle/avibase/avibase_1_50648464687_66066c7f44_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48341,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50648464687",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

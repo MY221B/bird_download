@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "streaked_wren_babbler",
+    "chinese_name": "短尾鹪鹛",
+    "english_name": "Streaked Wren-babbler",
+    "scientific_name": "Gypsophila brevicaudata"
+  },
+  "macaulay": [
+    {
+      "original_file": "streaked_wren_babbler_283237191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171938/bird-gallery/streaked_wren_babbler/macaulay/streaked_wren_babbler_283237191.jpg",
+      "public_id": "bird-gallery/streaked_wren_babbler/macaulay/streaked_wren_babbler_283237191",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 149426,
+      "attribution": {
+        "photographer": "Phil Chaon",
+        "photographer_url": "https://macaulaylibrary.org/asset/283237191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Phil Chaon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "283237191",
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "streaked_wren_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171939/bird-gallery/streaked_wren_babbler/wikimedia/streaked_wren_babbler_1.jpg",
+      "public_id": "bird-gallery/streaked_wren_babbler/wikimedia/streaked_wren_babbler_1",
+      "width": 1280,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 262724,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_16277337310_131996e91d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171940/bird-gallery/streaked_wren_babbler/avibase/avibase_2_16277337310_131996e91d_b.jpg",
+      "public_id": "bird-gallery/streaked_wren_babbler/avibase/avibase_2_16277337310_131996e91d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 127630,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16277337310",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

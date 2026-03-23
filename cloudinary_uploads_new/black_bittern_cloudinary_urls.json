@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "black_bittern",
+    "chinese_name": "黑苇鳽",
+    "english_name": "Black Bittern",
+    "scientific_name": "Ixobrychus flavicollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_bittern_305054931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171488/bird-gallery/black_bittern/macaulay/black_bittern_305054931.jpg",
+      "public_id": "bird-gallery/black_bittern/macaulay/black_bittern_305054931",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 164076,
+      "attribution": {
+        "photographer": "Saravanan Krishnamurthy",
+        "photographer_url": "https://macaulaylibrary.org/asset/305054931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Saravanan Krishnamurthy; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "305054931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_bittern_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171489/bird-gallery/black_bittern/inaturalist/black_bittern_3.jpg",
+      "public_id": "bird-gallery/black_bittern/inaturalist/black_bittern_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 459590,
+      "attribution": {
+        "photographer": "mayoh",
+        "photographer_url": "https://www.inaturalist.org/observations/328184933",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mayoh (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 328184933,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_bittern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171490/bird-gallery/black_bittern/wikimedia/black_bittern_1.jpg",
+      "public_id": "bird-gallery/black_bittern/wikimedia/black_bittern_1",
+      "width": 1280,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 203588,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_22879773030_00b4bd6ae2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171490/bird-gallery/black_bittern/avibase/avibase_1_22879773030_00b4bd6ae2_b.jpg",
+      "public_id": "bird-gallery/black_bittern/avibase/avibase_1_22879773030_00b4bd6ae2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 365691,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "22879773030",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

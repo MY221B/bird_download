@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "chinese_pond_heron",
+    "chinese_name": "池鹭",
+    "english_name": "Chinese Pond Heron",
+    "scientific_name": "Ardeola bacchus"
+  },
+  "inaturalist": [
+    {
+      "original_file": "chinese_pond_heron_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171566/bird-gallery/chinese_pond_heron/inaturalist/chinese_pond_heron_1.jpg",
+      "public_id": "bird-gallery/chinese_pond_heron/inaturalist/chinese_pond_heron_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 293445,
+      "attribution": {
+        "photographer": "guisauco",
+        "photographer_url": "https://www.inaturalist.org/observations/233225501",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© guisauco (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 233225501,
+        "note": null
+      }
+    }
+  ]
+}

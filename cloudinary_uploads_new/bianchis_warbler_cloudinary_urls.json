@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "bianchis_warbler",
+    "chinese_name": "比氏鹟莺",
+    "english_name": "Bianchi's Warbler",
+    "scientific_name": "Phylloscopus valentini"
+  },
+  "macaulay": [
+    {
+      "original_file": "bianchis_warbler_175687801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171485/bird-gallery/bianchis_warbler/macaulay/bianchis_warbler_175687801.jpg",
+      "public_id": "bird-gallery/bianchis_warbler/macaulay/bianchis_warbler_175687801",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 213098,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/175687801",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "175687801",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bianchis_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171486/bird-gallery/bianchis_warbler/inaturalist/bianchis_warbler_1.jpg",
+      "public_id": "bird-gallery/bianchis_warbler/inaturalist/bianchis_warbler_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 599182,
+      "attribution": {
+        "photographer": "romanlo",
+        "photographer_url": "https://www.inaturalist.org/observations/41620491",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© romanlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 41620491,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "bianchis_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171487/bird-gallery/bianchis_warbler/wikimedia/bianchis_warbler_1.jpg",
+      "public_id": "bird-gallery/bianchis_warbler/wikimedia/bianchis_warbler_1",
+      "width": 1280,
+      "height": 548,
+      "format": "jpg",
+      "bytes": 107166,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51052345078_8906a70a6f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171487/bird-gallery/bianchis_warbler/avibase/avibase_1_51052345078_8906a70a6f_b.jpg",
+      "public_id": "bird-gallery/bianchis_warbler/avibase/avibase_1_51052345078_8906a70a6f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 129888,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51052345078",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

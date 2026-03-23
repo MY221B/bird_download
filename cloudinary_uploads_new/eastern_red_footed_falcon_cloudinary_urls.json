@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eastern_red_footed_falcon",
+    "chinese_name": "红脚隼",
+    "english_name": "Eastern Red-footed Falcon",
+    "scientific_name": "Falco amurensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_red_footed_falcon_204357571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171621/bird-gallery/eastern_red_footed_falcon/macaulay/eastern_red_footed_falcon_204357571.jpg",
+      "public_id": "bird-gallery/eastern_red_footed_falcon/macaulay/eastern_red_footed_falcon_204357571",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100883,
+      "attribution": {
+        "photographer": "Ruben Gaasenbeek",
+        "photographer_url": "https://macaulaylibrary.org/asset/204357571",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ruben Gaasenbeek; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204357571",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eastern_red_footed_falcon_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171623/bird-gallery/eastern_red_footed_falcon/inaturalist/eastern_red_footed_falcon_2.jpg",
+      "public_id": "bird-gallery/eastern_red_footed_falcon/inaturalist/eastern_red_footed_falcon_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 426576,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/124733078",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 124733078,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_31017740655_9e1bf5ce16_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171624/bird-gallery/eastern_red_footed_falcon/avibase/avibase_3_31017740655_9e1bf5ce16_b.jpg",
+      "public_id": "bird-gallery/eastern_red_footed_falcon/avibase/avibase_3_31017740655_9e1bf5ce16_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 176961,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "31017740655",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

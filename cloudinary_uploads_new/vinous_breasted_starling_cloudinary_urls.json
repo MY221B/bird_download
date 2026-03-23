@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "vinous_breasted_starling",
+    "chinese_name": "红嘴椋鸟",
+    "english_name": "Vinous-breasted Starling",
+    "scientific_name": "Acridotheres burmannicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "vinous_breasted_starling_387162601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171959/bird-gallery/vinous_breasted_starling/macaulay/vinous_breasted_starling_387162601.jpg",
+      "public_id": "bird-gallery/vinous_breasted_starling/macaulay/vinous_breasted_starling_387162601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 113283,
+      "attribution": {
+        "photographer": "Frank Thierfelder",
+        "photographer_url": "https://macaulaylibrary.org/asset/387162601",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Frank Thierfelder; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "387162601",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "vinous_breasted_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171960/bird-gallery/vinous_breasted_starling/inaturalist/vinous_breasted_starling_1.jpg",
+      "public_id": "bird-gallery/vinous_breasted_starling/inaturalist/vinous_breasted_starling_1",
+      "width": 1024,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 371932,
+      "attribution": {
+        "photographer": "niran_anurakpongsathorn",
+        "photographer_url": "https://www.inaturalist.org/observations/131320161",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niran_anurakpongsathorn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 131320161,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "vinous_breasted_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171961/bird-gallery/vinous_breasted_starling/wikimedia/vinous_breasted_starling_1.jpg",
+      "public_id": "bird-gallery/vinous_breasted_starling/wikimedia/vinous_breasted_starling_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 419012,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_22745811890_197ea633e0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171964/bird-gallery/vinous_breasted_starling/avibase/avibase_1_22745811890_197ea633e0_b.jpg",
+      "public_id": "bird-gallery/vinous_breasted_starling/avibase/avibase_1_22745811890_197ea633e0_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 99984,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "22745811890",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

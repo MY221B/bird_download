@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "mew_gull",
+    "chinese_name": "普通海鸥",
+    "english_name": "Mew Gull",
+    "scientific_name": "Larus canus"
+  },
+  "macaulay": [
+    {
+      "original_file": "mew_gull_136303301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171779/bird-gallery/mew_gull/macaulay/mew_gull_136303301.jpg",
+      "public_id": "bird-gallery/mew_gull/macaulay/mew_gull_136303301",
+      "width": 1200,
+      "height": 803,
+      "format": "jpg",
+      "bytes": 164950,
+      "attribution": {
+        "photographer": "Ryan Zucker",
+        "photographer_url": "https://macaulaylibrary.org/asset/136303301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ryan Zucker; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "136303301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mew_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171780/bird-gallery/mew_gull/inaturalist/mew_gull_1.jpg",
+      "public_id": "bird-gallery/mew_gull/inaturalist/mew_gull_1",
+      "width": 1000,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 340656,
+      "attribution": {
+        "photographer": "anna_parkhaeva",
+        "photographer_url": "https://www.inaturalist.org/observations/100323453",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© anna_parkhaeva (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100323453,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54378170786_b483dee797_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171782/bird-gallery/mew_gull/avibase/avibase_1_54378170786_b483dee797_b.jpg",
+      "public_id": "bird-gallery/mew_gull/avibase/avibase_1_54378170786_b483dee797_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 107710,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54378170786",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

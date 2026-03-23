@@ -1,4 +1,5 @@
 config/ebird_token.sh
+.cloudinary_secrets
 
 # 图片文件不上传到 GitHub（太大了）
 images/

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_gorgeted_flycatcher",
+    "chinese_name": "白喉姬鹟",
+    "english_name": "White-gorgeted Flycatcher",
+    "scientific_name": "Anthipes monileger"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_gorgeted_flycatcher_142168951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171983/bird-gallery/white_gorgeted_flycatcher/macaulay/white_gorgeted_flycatcher_142168951.jpg",
+      "public_id": "bird-gallery/white_gorgeted_flycatcher/macaulay/white_gorgeted_flycatcher_142168951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 147131,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/142168951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "142168951",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_gorgeted_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171984/bird-gallery/white_gorgeted_flycatcher/inaturalist/white_gorgeted_flycatcher_1.jpg",
+      "public_id": "bird-gallery/white_gorgeted_flycatcher/inaturalist/white_gorgeted_flycatcher_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 409761,
+      "attribution": {
+        "photographer": "theweenuthatch",
+        "photographer_url": "https://www.inaturalist.org/observations/266754469",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© theweenuthatch (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 266754469,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_gorgeted_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171985/bird-gallery/white_gorgeted_flycatcher/wikimedia/white_gorgeted_flycatcher_1.jpg",
+      "public_id": "bird-gallery/white_gorgeted_flycatcher/wikimedia/white_gorgeted_flycatcher_1",
+      "width": 1280,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 268879,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_8612930695_8ee6c25856_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171986/bird-gallery/white_gorgeted_flycatcher/avibase/avibase_1_8612930695_8ee6c25856_b.jpg",
+      "public_id": "bird-gallery/white_gorgeted_flycatcher/avibase/avibase_1_8612930695_8ee6c25856_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 612733,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8612930695",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

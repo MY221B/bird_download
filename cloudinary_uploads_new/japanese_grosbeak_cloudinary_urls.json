@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "japanese_grosbeak",
+    "chinese_name": "黑头蜡嘴雀",
+    "english_name": "Japanese Grosbeak",
+    "scientific_name": "Eophona personata"
+  },
+  "macaulay": [
+    {
+      "original_file": "japanese_grosbeak_294782081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171729/bird-gallery/japanese_grosbeak/macaulay/japanese_grosbeak_294782081.jpg",
+      "public_id": "bird-gallery/japanese_grosbeak/macaulay/japanese_grosbeak_294782081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 266244,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/294782081",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "294782081",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "japanese_grosbeak_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171729/bird-gallery/japanese_grosbeak/inaturalist/japanese_grosbeak_1.jpg",
+      "public_id": "bird-gallery/japanese_grosbeak/inaturalist/japanese_grosbeak_1",
+      "width": 1011,
+      "height": 674,
+      "format": "jpg",
+      "bytes": 203821,
+      "attribution": {
+        "photographer": "chaangnoy",
+        "photographer_url": "https://www.inaturalist.org/observations/239985031",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© chaangnoy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 239985031,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "japanese_grosbeak_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171730/bird-gallery/japanese_grosbeak/wikimedia/japanese_grosbeak_1.jpg",
+      "public_id": "bird-gallery/japanese_grosbeak/wikimedia/japanese_grosbeak_1",
+      "width": 250,
+      "height": 375,
+      "format": "jpg",
+      "bytes": 22527,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49339233412_3fe5e99622_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171732/bird-gallery/japanese_grosbeak/avibase/avibase_1_49339233412_3fe5e99622_b.jpg",
+      "public_id": "bird-gallery/japanese_grosbeak/avibase/avibase_1_49339233412_3fe5e99622_b",
+      "width": 1023,
+      "height": 734,
+      "format": "jpg",
+      "bytes": 127565,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49339233412",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

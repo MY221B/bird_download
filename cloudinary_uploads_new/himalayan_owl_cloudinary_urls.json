@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "himalayan_owl",
+    "chinese_name": "灰林鸮",
+    "english_name": "Himalayan Owl",
+    "scientific_name": "Strix nivicolum"
+  },
+  "macaulay": [
+    {
+      "original_file": "himalayan_owl_446566241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171713/bird-gallery/himalayan_owl/macaulay/himalayan_owl_446566241.jpg",
+      "public_id": "bird-gallery/himalayan_owl/macaulay/himalayan_owl_446566241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 179165,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/446566241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "446566241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "himalayan_owl_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171714/bird-gallery/himalayan_owl/inaturalist/himalayan_owl_3.jpg",
+      "public_id": "bird-gallery/himalayan_owl/inaturalist/himalayan_owl_3",
+      "width": 539,
+      "height": 822,
+      "format": "jpg",
+      "bytes": 101729,
+      "attribution": {
+        "photographer": "chartuso",
+        "photographer_url": "https://www.inaturalist.org/observations/3972883",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© chartuso (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 3972883,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "himalayan_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171717/bird-gallery/himalayan_owl/wikimedia/himalayan_owl_1.jpg",
+      "public_id": "bird-gallery/himalayan_owl/wikimedia/himalayan_owl_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 457833,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_30663536908_2b0d9b1211_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171718/bird-gallery/himalayan_owl/avibase/avibase_1_30663536908_2b0d9b1211_b.jpg",
+      "public_id": "bird-gallery/himalayan_owl/avibase/avibase_1_30663536908_2b0d9b1211_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 235846,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "30663536908",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

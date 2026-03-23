@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "green_billed_malkoha",
+    "chinese_name": "绿嘴地鹃",
+    "english_name": "Green-billed Malkoha",
+    "scientific_name": "Phaenicophaeus tristis"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_billed_malkoha_26356501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171684/bird-gallery/green_billed_malkoha/macaulay/green_billed_malkoha_26356501.jpg",
+      "public_id": "bird-gallery/green_billed_malkoha/macaulay/green_billed_malkoha_26356501",
+      "width": 1010,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 256239,
+      "attribution": {
+        "photographer": "Wolfe R",
+        "photographer_url": "https://macaulaylibrary.org/asset/26356501",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Wolfe R; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "26356501",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_billed_malkoha_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171684/bird-gallery/green_billed_malkoha/inaturalist/green_billed_malkoha_1.jpg",
+      "public_id": "bird-gallery/green_billed_malkoha/inaturalist/green_billed_malkoha_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 372074,
+      "attribution": {
+        "photographer": "mwbirdco",
+        "photographer_url": "https://www.inaturalist.org/observations/30790232",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mwbirdco (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 30790232,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "green_billed_malkoha_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171685/bird-gallery/green_billed_malkoha/wikimedia/green_billed_malkoha_1.jpg",
+      "public_id": "bird-gallery/green_billed_malkoha/wikimedia/green_billed_malkoha_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 310853,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_9191624473_69a1c024c1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171686/bird-gallery/green_billed_malkoha/avibase/avibase_1_9191624473_69a1c024c1_b.jpg",
+      "public_id": "bird-gallery/green_billed_malkoha/avibase/avibase_1_9191624473_69a1c024c1_b",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 125183,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "9191624473",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_wagtail",
+    "chinese_name": "白鹡鸰",
+    "english_name": "White Wagtail",
+    "scientific_name": "Motacilla alba"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_wagtail_295003631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171997/bird-gallery/white_wagtail/macaulay/white_wagtail_295003631.jpg",
+      "public_id": "bird-gallery/white_wagtail/macaulay/white_wagtail_295003631",
+      "width": 1200,
+      "height": 923,
+      "format": "jpg",
+      "bytes": 339525,
+      "attribution": {
+        "photographer": "Tammy McQuade",
+        "photographer_url": "https://macaulaylibrary.org/asset/295003631",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Tammy McQuade; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "295003631",
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_wagtail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171998/bird-gallery/white_wagtail/wikimedia/white_wagtail_1.jpg",
+      "public_id": "bird-gallery/white_wagtail/wikimedia/white_wagtail_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 179545,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51182863366_f0d9377fa1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172000/bird-gallery/white_wagtail/avibase/avibase_1_51182863366_f0d9377fa1_b.jpg",
+      "public_id": "bird-gallery/white_wagtail/avibase/avibase_1_51182863366_f0d9377fa1_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 184054,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51182863366",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

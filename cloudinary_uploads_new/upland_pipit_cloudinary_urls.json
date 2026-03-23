@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "upland_pipit",
+    "chinese_name": "山鹨",
+    "english_name": "Upland Pipit",
+    "scientific_name": "Anthus sylvanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "upland_pipit_319651581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171955/bird-gallery/upland_pipit/macaulay/upland_pipit_319651581.jpg",
+      "public_id": "bird-gallery/upland_pipit/macaulay/upland_pipit_319651581",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 152834,
+      "attribution": {
+        "photographer": "Matthew Kwan",
+        "photographer_url": "https://macaulaylibrary.org/asset/319651581",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matthew Kwan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "319651581",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "upland_pipit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171956/bird-gallery/upland_pipit/inaturalist/upland_pipit_1.jpg",
+      "public_id": "bird-gallery/upland_pipit/inaturalist/upland_pipit_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 441728,
+      "attribution": {
+        "photographer": "natureprashant",
+        "photographer_url": "https://www.inaturalist.org/observations/14944031",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© natureprashant (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 14944031,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "upland_pipit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171957/bird-gallery/upland_pipit/wikimedia/upland_pipit_1.jpg",
+      "public_id": "bird-gallery/upland_pipit/wikimedia/upland_pipit_1",
+      "width": 1280,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 199005,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_40009425915_2e3cba9603_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171958/bird-gallery/upland_pipit/avibase/avibase_1_40009425915_2e3cba9603_b.jpg",
+      "public_id": "bird-gallery/upland_pipit/avibase/avibase_1_40009425915_2e3cba9603_b",
+      "width": 1024,
+      "height": 688,
+      "format": "jpg",
+      "bytes": 224771,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40009425915",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

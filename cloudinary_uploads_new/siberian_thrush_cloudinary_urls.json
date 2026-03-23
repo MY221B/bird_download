@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "siberian_thrush",
+    "chinese_name": "白眉地鸫",
+    "english_name": "Siberian Thrush",
+    "scientific_name": "Geokichla sibirica"
+  },
+  "macaulay": [
+    {
+      "original_file": "siberian_thrush_579413791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171908/bird-gallery/siberian_thrush/macaulay/siberian_thrush_579413791.jpg",
+      "public_id": "bird-gallery/siberian_thrush/macaulay/siberian_thrush_579413791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 114184,
+      "attribution": {
+        "photographer": "Kasia & Takashi Someya",
+        "photographer_url": "https://macaulaylibrary.org/asset/579413791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kasia & Takashi Someya; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "579413791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "siberian_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171909/bird-gallery/siberian_thrush/inaturalist/siberian_thrush_1.jpg",
+      "public_id": "bird-gallery/siberian_thrush/inaturalist/siberian_thrush_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 540118,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/68701202",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 68701202,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "siberian_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171909/bird-gallery/siberian_thrush/wikimedia/siberian_thrush_1.jpg",
+      "public_id": "bird-gallery/siberian_thrush/wikimedia/siberian_thrush_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 139893,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52613527045_ddd4be8ca4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171911/bird-gallery/siberian_thrush/avibase/avibase_1_52613527045_ddd4be8ca4_b.jpg",
+      "public_id": "bird-gallery/siberian_thrush/avibase/avibase_1_52613527045_ddd4be8ca4_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 188211,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52613527045",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

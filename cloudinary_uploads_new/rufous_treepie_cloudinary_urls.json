@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "rufous_treepie",
+    "chinese_name": "棕腹树鹊",
+    "english_name": "Rufous Treepie",
+    "scientific_name": "Dendrocitta vagabunda"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_treepie_205950811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171886/bird-gallery/rufous_treepie/macaulay/rufous_treepie_205950811.jpg",
+      "public_id": "bird-gallery/rufous_treepie/macaulay/rufous_treepie_205950811",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 99527,
+      "attribution": {
+        "photographer": "Manish Panchal",
+        "photographer_url": "https://macaulaylibrary.org/asset/205950811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Manish Panchal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205950811",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_treepie_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171886/bird-gallery/rufous_treepie/inaturalist/rufous_treepie_1.jpg",
+      "public_id": "bird-gallery/rufous_treepie/inaturalist/rufous_treepie_1",
+      "width": 797,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 632485,
+      "attribution": {
+        "photographer": "olegrozhko",
+        "photographer_url": "https://www.inaturalist.org/observations/140568384",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© olegrozhko (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 140568384,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "rufous_treepie_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171887/bird-gallery/rufous_treepie/wikimedia/rufous_treepie_1.jpg",
+      "public_id": "bird-gallery/rufous_treepie/wikimedia/rufous_treepie_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 396024,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_15705900108_c943148739_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171888/bird-gallery/rufous_treepie/avibase/avibase_1_15705900108_c943148739_b.jpg",
+      "public_id": "bird-gallery/rufous_treepie/avibase/avibase_1_15705900108_c943148739_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 149139,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15705900108",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

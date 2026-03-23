@@ -1,0 +1,29 @@
+{
+  "bird_info": {
+    "slug": "whooper_swan",
+    "chinese_name": "大天鹅",
+    "english_name": "Whooper Swan",
+    "scientific_name": "Cygnus cygnus"
+  },
+  "inaturalist": [
+    {
+      "original_file": "whooper_swan_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171999/bird-gallery/whooper_swan/inaturalist/whooper_swan_1.jpg",
+      "public_id": "bird-gallery/whooper_swan/inaturalist/whooper_swan_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 509489,
+      "attribution": {
+        "photographer": "austin0201",
+        "photographer_url": "https://www.inaturalist.org/observations/9600979",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© austin0201 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 9600979,
+        "note": null
+      }
+    }
+  ]
+}

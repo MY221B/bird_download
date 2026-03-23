@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_whistling_thrush",
+    "chinese_name": "紫啸鸫",
+    "english_name": "Blue Whistling Thrush",
+    "scientific_name": "Myophonus caeruleus"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_whistling_thrush_404023231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171519/bird-gallery/blue_whistling_thrush/macaulay/blue_whistling_thrush_404023231.jpg",
+      "public_id": "bird-gallery/blue_whistling_thrush/macaulay/blue_whistling_thrush_404023231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 164557,
+      "attribution": {
+        "photographer": "Rajkumar Das",
+        "photographer_url": "https://macaulaylibrary.org/asset/404023231",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rajkumar Das; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "404023231",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_whistling_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171520/bird-gallery/blue_whistling_thrush/inaturalist/blue_whistling_thrush_1.jpg",
+      "public_id": "bird-gallery/blue_whistling_thrush/inaturalist/blue_whistling_thrush_1",
+      "width": 1024,
+      "height": 734,
+      "format": "jpg",
+      "bytes": 769308,
+      "attribution": {
+        "photographer": "thaibirder",
+        "photographer_url": "https://www.inaturalist.org/observations/65263212",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© thaibirder (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 65263212,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52779817703_8a2de499a0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171521/bird-gallery/blue_whistling_thrush/avibase/avibase_1_52779817703_8a2de499a0_b.jpg",
+      "public_id": "bird-gallery/blue_whistling_thrush/avibase/avibase_1_52779817703_8a2de499a0_b",
+      "width": 1024,
+      "height": 722,
+      "format": "jpg",
+      "bytes": 112552,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52779817703",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

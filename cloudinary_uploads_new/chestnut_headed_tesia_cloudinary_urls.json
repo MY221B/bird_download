@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "chestnut_headed_tesia",
+    "chinese_name": "栗头树莺",
+    "english_name": "Chestnut-headed Tesia",
+    "scientific_name": "Cettia castaneocoronata"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_headed_tesia_238454541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171552/bird-gallery/chestnut_headed_tesia/macaulay/chestnut_headed_tesia_238454541.jpg",
+      "public_id": "bird-gallery/chestnut_headed_tesia/macaulay/chestnut_headed_tesia_238454541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 194889,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/238454541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "238454541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_headed_tesia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171553/bird-gallery/chestnut_headed_tesia/inaturalist/chestnut_headed_tesia_1.jpg",
+      "public_id": "bird-gallery/chestnut_headed_tesia/inaturalist/chestnut_headed_tesia_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 684900,
+      "attribution": {
+        "photographer": "rajkoranga",
+        "photographer_url": "https://www.inaturalist.org/observations/195071891",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rajkoranga (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 195071891,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "chestnut_headed_tesia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171554/bird-gallery/chestnut_headed_tesia/wikimedia/chestnut_headed_tesia_1.jpg",
+      "public_id": "bird-gallery/chestnut_headed_tesia/wikimedia/chestnut_headed_tesia_1",
+      "width": 1280,
+      "height": 916,
+      "format": "jpg",
+      "bytes": 259168,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_52897499926_662b2267e7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171555/bird-gallery/chestnut_headed_tesia/avibase/avibase_2_52897499926_662b2267e7_b.jpg",
+      "public_id": "bird-gallery/chestnut_headed_tesia/avibase/avibase_2_52897499926_662b2267e7_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 91245,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52897499926",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

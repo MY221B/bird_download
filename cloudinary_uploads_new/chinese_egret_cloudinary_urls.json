@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "chinese_egret",
+    "chinese_name": "黄嘴白鹭",
+    "english_name": "Chinese Egret",
+    "scientific_name": "Egretta eulophotes"
+  },
+  "macaulay": [
+    {
+      "original_file": "chinese_egret_156718631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171558/bird-gallery/chinese_egret/macaulay/chinese_egret_156718631.jpg",
+      "public_id": "bird-gallery/chinese_egret/macaulay/chinese_egret_156718631",
+      "width": 1200,
+      "height": 705,
+      "format": "jpg",
+      "bytes": 96033,
+      "attribution": {
+        "photographer": "Rui-Yang Ho",
+        "photographer_url": "https://macaulaylibrary.org/asset/156718631",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rui-Yang Ho; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "156718631",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chinese_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171559/bird-gallery/chinese_egret/inaturalist/chinese_egret_1.jpg",
+      "public_id": "bird-gallery/chinese_egret/inaturalist/chinese_egret_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 239986,
+      "attribution": {
+        "photographer": "flycatcherwarblerthrush",
+        "photographer_url": "https://www.inaturalist.org/observations/43519668",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© flycatcherwarblerthrush (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 43519668,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "chinese_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171560/bird-gallery/chinese_egret/wikimedia/chinese_egret_1.jpg",
+      "public_id": "bird-gallery/chinese_egret/wikimedia/chinese_egret_1",
+      "width": 1280,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 122067,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54291663270_7ceecec482_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171560/bird-gallery/chinese_egret/avibase/avibase_1_54291663270_7ceecec482_b.jpg",
+      "public_id": "bird-gallery/chinese_egret/avibase/avibase_1_54291663270_7ceecec482_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 100260,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54291663270",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

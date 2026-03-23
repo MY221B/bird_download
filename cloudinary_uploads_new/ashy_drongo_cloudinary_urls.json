@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "ashy_drongo",
+    "chinese_name": "灰卷尾",
+    "english_name": "Ashy Drongo",
+    "scientific_name": "Dicrurus leucophaeus"
+  },
+  "macaulay": [
+    {
+      "original_file": "ashy_drongo_138470961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171462/bird-gallery/ashy_drongo/macaulay/ashy_drongo_138470961.jpg",
+      "public_id": "bird-gallery/ashy_drongo/macaulay/ashy_drongo_138470961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 139458,
+      "attribution": {
+        "photographer": "Lucas Bobay",
+        "photographer_url": "https://macaulaylibrary.org/asset/138470961",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lucas Bobay; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "138470961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ashy_drongo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171464/bird-gallery/ashy_drongo/inaturalist/ashy_drongo_1.jpg",
+      "public_id": "bird-gallery/ashy_drongo/inaturalist/ashy_drongo_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 552926,
+      "attribution": {
+        "photographer": "anil_kumar_verma",
+        "photographer_url": "https://www.inaturalist.org/observations/107098865",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© anil_kumar_verma (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 107098865,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "ashy_drongo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171465/bird-gallery/ashy_drongo/wikimedia/ashy_drongo_1.jpg",
+      "public_id": "bird-gallery/ashy_drongo/wikimedia/ashy_drongo_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 249631,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50501752483_f7a74a7d8e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171465/bird-gallery/ashy_drongo/avibase/avibase_1_50501752483_f7a74a7d8e_b.jpg",
+      "public_id": "bird-gallery/ashy_drongo/avibase/avibase_1_50501752483_f7a74a7d8e_b",
+      "width": 1023,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 185254,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50501752483",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

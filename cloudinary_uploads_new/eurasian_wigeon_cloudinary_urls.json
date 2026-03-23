@@ -1,0 +1,90 @@
+{
+  "bird_info": {
+    "slug": "eurasian_wigeon",
+    "chinese_name": "赤颈鸭"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_wigeon_302749541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171637/bird-gallery/eurasian_wigeon/macaulay/eurasian_wigeon_302749541.jpg",
+      "public_id": "bird-gallery/eurasian_wigeon/macaulay/eurasian_wigeon_302749541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 147198,
+      "attribution": {
+        "photographer": "David Turgeon",
+        "photographer_url": "https://macaulaylibrary.org/asset/302749541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Turgeon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "302749541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_wigeon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171638/bird-gallery/eurasian_wigeon/inaturalist/eurasian_wigeon_1.jpg",
+      "public_id": "bird-gallery/eurasian_wigeon/inaturalist/eurasian_wigeon_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 744949,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_wigeon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171639/bird-gallery/eurasian_wigeon/wikimedia/eurasian_wigeon_1.jpg",
+      "public_id": "bird-gallery/eurasian_wigeon/wikimedia/eurasian_wigeon_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 197374,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54332473160_20a0c0b552_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171640/bird-gallery/eurasian_wigeon/avibase/avibase_1_54332473160_20a0c0b552_b.jpg",
+      "public_id": "bird-gallery/eurasian_wigeon/avibase/avibase_1_54332473160_20a0c0b552_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 210745,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

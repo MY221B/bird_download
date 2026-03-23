@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "spectacled_fulvetta",
+    "chinese_name": "棕头雀鹛",
+    "english_name": "Spectacled Fulvetta",
+    "scientific_name": "Fulvetta ruficapilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "spectacled_fulvetta_184274711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171925/bird-gallery/spectacled_fulvetta/macaulay/spectacled_fulvetta_184274711.jpg",
+      "public_id": "bird-gallery/spectacled_fulvetta/macaulay/spectacled_fulvetta_184274711",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 203286,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/184274711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "184274711",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spectacled_fulvetta_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171927/bird-gallery/spectacled_fulvetta/inaturalist/spectacled_fulvetta_2.jpg",
+      "public_id": "bird-gallery/spectacled_fulvetta/inaturalist/spectacled_fulvetta_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 235602,
+      "attribution": {
+        "photographer": "haitongyu",
+        "photographer_url": "https://www.inaturalist.org/observations/261244883",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© haitongyu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 261244883,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "spectacled_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171928/bird-gallery/spectacled_fulvetta/wikimedia/spectacled_fulvetta_1.jpg",
+      "public_id": "bird-gallery/spectacled_fulvetta/wikimedia/spectacled_fulvetta_1",
+      "width": 1280,
+      "height": 1164,
+      "format": "jpg",
+      "bytes": 192386,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_26974921305_a98f1c2d50_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171929/bird-gallery/spectacled_fulvetta/avibase/avibase_1_26974921305_a98f1c2d50_b.jpg",
+      "public_id": "bird-gallery/spectacled_fulvetta/avibase/avibase_1_26974921305_a98f1c2d50_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 322151,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26974921305",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

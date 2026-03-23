@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "temmincks_stint",
+    "chinese_name": "青脚滨鹬",
+    "english_name": "Temminck's Stint",
+    "scientific_name": "Calidris temminckii"
+  },
+  "macaulay": [
+    {
+      "original_file": "temmincks_stint_574695381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171949/bird-gallery/temmincks_stint/macaulay/temmincks_stint_574695381.jpg",
+      "public_id": "bird-gallery/temmincks_stint/macaulay/temmincks_stint_574695381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 180429,
+      "attribution": {
+        "photographer": "Jakub Macháň",
+        "photographer_url": "https://macaulaylibrary.org/asset/574695381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jakub Macháň; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "574695381",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "temmincks_stint_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171950/bird-gallery/temmincks_stint/inaturalist/temmincks_stint_1.jpg",
+      "public_id": "bird-gallery/temmincks_stint/inaturalist/temmincks_stint_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 230573,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/184976",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 184976,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "temmincks_stint_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171951/bird-gallery/temmincks_stint/wikimedia/temmincks_stint_1.jpg",
+      "public_id": "bird-gallery/temmincks_stint/wikimedia/temmincks_stint_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 110610,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54731201198_f576120f59_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171951/bird-gallery/temmincks_stint/avibase/avibase_1_54731201198_f576120f59_b.jpg",
+      "public_id": "bird-gallery/temmincks_stint/avibase/avibase_1_54731201198_f576120f59_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 225488,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54731201198",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

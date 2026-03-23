@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "oriental_reed_warbler",
+    "chinese_name": "东方大苇莺",
+    "english_name": "Oriental Reed Warbler",
+    "scientific_name": "Acrocephalus orientalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "oriental_reed_warbler_461022281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171811/bird-gallery/oriental_reed_warbler/macaulay/oriental_reed_warbler_461022281.jpg",
+      "public_id": "bird-gallery/oriental_reed_warbler/macaulay/oriental_reed_warbler_461022281",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 126374,
+      "attribution": {
+        "photographer": "peng su",
+        "photographer_url": "https://macaulaylibrary.org/asset/461022281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by peng su; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "461022281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "oriental_reed_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171812/bird-gallery/oriental_reed_warbler/inaturalist/oriental_reed_warbler_1.jpg",
+      "public_id": "bird-gallery/oriental_reed_warbler/inaturalist/oriental_reed_warbler_1",
+      "width": 1024,
+      "height": 821,
+      "format": "jpg",
+      "bytes": 601233,
+      "attribution": {
+        "photographer": "blackfern",
+        "photographer_url": "https://www.inaturalist.org/observations/271702196",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© blackfern (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 271702196,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_55076409507_94381cac2e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171813/bird-gallery/oriental_reed_warbler/avibase/avibase_1_55076409507_94381cac2e_b.jpg",
+      "public_id": "bird-gallery/oriental_reed_warbler/avibase/avibase_1_55076409507_94381cac2e_b",
+      "width": 977,
+      "height": 651,
+      "format": "jpg",
+      "bytes": 188359,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "55076409507",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

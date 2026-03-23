@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "saunderss_gull",
+    "chinese_name": "黑嘴鸥",
+    "english_name": "Saunders's Gull",
+    "scientific_name": "Saundersilarus saundersi"
+  },
+  "macaulay": [
+    {
+      "original_file": "saunderss_gull_205760361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171893/bird-gallery/saunderss_gull/macaulay/saunderss_gull_205760361.jpg",
+      "public_id": "bird-gallery/saunderss_gull/macaulay/saunderss_gull_205760361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69523,
+      "attribution": {
+        "photographer": "James Eaton \\u002F Birdtour Asia",
+        "photographer_url": "https://macaulaylibrary.org/asset/205760361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by James Eaton \\u002F Birdtour Asia; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205760361",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "saunderss_gull_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171894/bird-gallery/saunderss_gull/inaturalist/saunderss_gull_3.jpg",
+      "public_id": "bird-gallery/saunderss_gull/inaturalist/saunderss_gull_3",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 215538,
+      "attribution": {
+        "photographer": "doggy0406",
+        "photographer_url": "https://www.inaturalist.org/observations/105267077",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© doggy0406 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105267077,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_49675141286_186f38a317_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171894/bird-gallery/saunderss_gull/avibase/avibase_2_49675141286_186f38a317_b.jpg",
+      "public_id": "bird-gallery/saunderss_gull/avibase/avibase_2_49675141286_186f38a317_b",
+      "width": 1023,
+      "height": 660,
+      "format": "jpg",
+      "bytes": 179298,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49675141286",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

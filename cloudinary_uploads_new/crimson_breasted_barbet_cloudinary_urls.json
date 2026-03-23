@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "crimson_breasted_barbet",
+    "chinese_name": "赤胸拟啄木鸟",
+    "english_name": "Crimson-breasted Barbet",
+    "scientific_name": "Psilopogon haemacephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "crimson_breasted_barbet_169213441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171608/bird-gallery/crimson_breasted_barbet/macaulay/crimson_breasted_barbet_169213441.jpg",
+      "public_id": "bird-gallery/crimson_breasted_barbet/macaulay/crimson_breasted_barbet_169213441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 188400,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/169213441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "169213441",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crimson_breasted_barbet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171608/bird-gallery/crimson_breasted_barbet/inaturalist/crimson_breasted_barbet_1.jpg",
+      "public_id": "bird-gallery/crimson_breasted_barbet/inaturalist/crimson_breasted_barbet_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 586494,
+      "attribution": {
+        "photographer": "johsan65",
+        "photographer_url": "https://www.inaturalist.org/observations/10062182",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© johsan65 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 10062182,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_11049980814_b89c2d1940_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171609/bird-gallery/crimson_breasted_barbet/avibase/avibase_2_11049980814_b89c2d1940_b.jpg",
+      "public_id": "bird-gallery/crimson_breasted_barbet/avibase/avibase_2_11049980814_b89c2d1940_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 199772,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "11049980814",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

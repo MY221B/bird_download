@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pale_thrush",
+    "chinese_name": "白腹鸫",
+    "english_name": "Pale Thrush",
+    "scientific_name": "Turdus pallidus"
+  },
+  "macaulay": [
+    {
+      "original_file": "pale_thrush_624817993.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171822/bird-gallery/pale_thrush/macaulay/pale_thrush_624817993.jpg",
+      "public_id": "bird-gallery/pale_thrush/macaulay/pale_thrush_624817993",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86212,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/624817993",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624817993",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pale_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171822/bird-gallery/pale_thrush/inaturalist/pale_thrush_1.jpg",
+      "public_id": "bird-gallery/pale_thrush/inaturalist/pale_thrush_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 157517,
+      "attribution": {
+        "photographer": "j830",
+        "photographer_url": "https://www.inaturalist.org/observations/19581757",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© j830 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 19581757,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_49246869896_df4f0806e8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171825/bird-gallery/pale_thrush/avibase/avibase_2_49246869896_df4f0806e8_b.jpg",
+      "public_id": "bird-gallery/pale_thrush/avibase/avibase_2_49246869896_df4f0806e8_b",
+      "width": 1024,
+      "height": 760,
+      "format": "jpg",
+      "bytes": 242244,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49246869896",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

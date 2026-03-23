@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pine_bunting",
+    "chinese_name": "白头鹀",
+    "english_name": "Pine Bunting",
+    "scientific_name": "Emberiza leucocephalos"
+  },
+  "macaulay": [
+    {
+      "original_file": "pine_bunting_517533991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171834/bird-gallery/pine_bunting/macaulay/pine_bunting_517533991.jpg",
+      "public_id": "bird-gallery/pine_bunting/macaulay/pine_bunting_517533991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 141802,
+      "attribution": {
+        "photographer": "Sanja JZ",
+        "photographer_url": "https://macaulaylibrary.org/asset/517533991",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sanja JZ; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "517533991",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pine_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171834/bird-gallery/pine_bunting/inaturalist/pine_bunting_1.jpg",
+      "public_id": "bird-gallery/pine_bunting/inaturalist/pine_bunting_1",
+      "width": 1024,
+      "height": 671,
+      "format": "jpg",
+      "bytes": 358638,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/248126005",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 248126005,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52550860959_c82c2b5d36_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171835/bird-gallery/pine_bunting/avibase/avibase_1_52550860959_c82c2b5d36_b.jpg",
+      "public_id": "bird-gallery/pine_bunting/avibase/avibase_1_52550860959_c82c2b5d36_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 193815,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52550860959",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

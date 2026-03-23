@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "striated_grassbird",
+    "chinese_name": "沼泽大尾莺",
+    "english_name": "Striated Grassbird",
+    "scientific_name": "Megalurus palustris"
+  },
+  "macaulay": [
+    {
+      "original_file": "striated_grassbird_107020821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171939/bird-gallery/striated_grassbird/macaulay/striated_grassbird_107020821.jpg",
+      "public_id": "bird-gallery/striated_grassbird/macaulay/striated_grassbird_107020821",
+      "width": 1200,
+      "height": 749,
+      "format": "jpg",
+      "bytes": 96521,
+      "attribution": {
+        "photographer": "Bhaarat Vyas",
+        "photographer_url": "https://macaulaylibrary.org/asset/107020821",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Bhaarat Vyas; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "107020821",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "striated_grassbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171940/bird-gallery/striated_grassbird/inaturalist/striated_grassbird_1.jpg",
+      "public_id": "bird-gallery/striated_grassbird/inaturalist/striated_grassbird_1",
+      "width": 1024,
+      "height": 669,
+      "format": "jpg",
+      "bytes": 524178,
+      "attribution": {
+        "photographer": "thomsonsaburaj",
+        "photographer_url": "https://www.inaturalist.org/observations/325645305",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thomsonsaburaj (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 325645305,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54501788177_5bd1444d36_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171941/bird-gallery/striated_grassbird/avibase/avibase_1_54501788177_5bd1444d36_b.jpg",
+      "public_id": "bird-gallery/striated_grassbird/avibase/avibase_1_54501788177_5bd1444d36_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 106418,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54501788177",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

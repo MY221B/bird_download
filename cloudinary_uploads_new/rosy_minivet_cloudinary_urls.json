@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "rosy_minivet",
+    "chinese_name": "粉红山椒鸟",
+    "english_name": "Rosy Minivet",
+    "scientific_name": "Pericrocotus roseus"
+  },
+  "macaulay": [
+    {
+      "original_file": "rosy_minivet_206164001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171871/bird-gallery/rosy_minivet/macaulay/rosy_minivet_206164001.jpg",
+      "public_id": "bird-gallery/rosy_minivet/macaulay/rosy_minivet_206164001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 177028,
+      "attribution": {
+        "photographer": "Jens Toettrup",
+        "photographer_url": "https://macaulaylibrary.org/asset/206164001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jens Toettrup; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "206164001",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rosy_minivet_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171872/bird-gallery/rosy_minivet/inaturalist/rosy_minivet_2.jpg",
+      "public_id": "bird-gallery/rosy_minivet/inaturalist/rosy_minivet_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 403128,
+      "attribution": {
+        "photographer": "mrflower_cn",
+        "photographer_url": "https://www.inaturalist.org/observations/270953932",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© mrflower_cn (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 270953932,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "rosy_minivet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171873/bird-gallery/rosy_minivet/wikimedia/rosy_minivet_1.jpg",
+      "public_id": "bird-gallery/rosy_minivet/wikimedia/rosy_minivet_1",
+      "width": 960,
+      "height": 1610,
+      "format": "jpg",
+      "bytes": 251859,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52743504893_36ee3eaa74_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171874/bird-gallery/rosy_minivet/avibase/avibase_1_52743504893_36ee3eaa74_b.jpg",
+      "public_id": "bird-gallery/rosy_minivet/avibase/avibase_1_52743504893_36ee3eaa74_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 52524,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52743504893",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "great_indian_hornbill",
+    "chinese_name": "双角犀鸟",
+    "english_name": "Great Indian Hornbill",
+    "scientific_name": "Buceros bicornis"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_indian_hornbill_182242251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171670/bird-gallery/great_indian_hornbill/macaulay/great_indian_hornbill_182242251.jpg",
+      "public_id": "bird-gallery/great_indian_hornbill/macaulay/great_indian_hornbill_182242251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 220092,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/182242251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "182242251",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "great_indian_hornbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171671/bird-gallery/great_indian_hornbill/inaturalist/great_indian_hornbill_1.jpg",
+      "public_id": "bird-gallery/great_indian_hornbill/inaturalist/great_indian_hornbill_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 476584,
+      "attribution": {
+        "photographer": "mpwhiten",
+        "photographer_url": "https://www.inaturalist.org/observations/262545266",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mpwhiten (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 262545266,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_14701964405_cf812fa7a9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171674/bird-gallery/great_indian_hornbill/avibase/avibase_1_14701964405_cf812fa7a9_b.jpg",
+      "public_id": "bird-gallery/great_indian_hornbill/avibase/avibase_1_14701964405_cf812fa7a9_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 162972,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14701964405",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "white_backed_woodpecker",
+    "chinese_name": "白背啄木鸟",
+    "english_name": "White-backed Woodpecker",
+    "scientific_name": "Dendrocopos leucotos"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_backed_woodpecker_407314891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171969/bird-gallery/white_backed_woodpecker/macaulay/white_backed_woodpecker_407314891.jpg",
+      "public_id": "bird-gallery/white_backed_woodpecker/macaulay/white_backed_woodpecker_407314891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 200448,
+      "attribution": {
+        "photographer": "Frank Lin",
+        "photographer_url": "https://macaulaylibrary.org/asset/407314891",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Frank Lin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "407314891",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_backed_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171969/bird-gallery/white_backed_woodpecker/inaturalist/white_backed_woodpecker_1.jpg",
+      "public_id": "bird-gallery/white_backed_woodpecker/inaturalist/white_backed_woodpecker_1",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 485068,
+      "attribution": {
+        "photographer": "nikolaiab",
+        "photographer_url": "https://www.inaturalist.org/observations/145586702",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikolaiab (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 145586702,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "white_backed_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171970/bird-gallery/white_backed_woodpecker/wikimedia/white_backed_woodpecker_1.jpg",
+      "public_id": "bird-gallery/white_backed_woodpecker/wikimedia/white_backed_woodpecker_1",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 186368,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_35054973475_37586a2fd8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171971/bird-gallery/white_backed_woodpecker/avibase/avibase_1_35054973475_37586a2fd8_b.jpg",
+      "public_id": "bird-gallery/white_backed_woodpecker/avibase/avibase_1_35054973475_37586a2fd8_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 173955,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "35054973475",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

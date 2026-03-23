@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "yellowhammer",
+    "chinese_name": "黄鹀",
+    "english_name": "Yellowhammer",
+    "scientific_name": "Emberiza citrinella"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellowhammer_207538431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172012/bird-gallery/yellowhammer/macaulay/yellowhammer_207538431.jpg",
+      "public_id": "bird-gallery/yellowhammer/macaulay/yellowhammer_207538431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 112840,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/207538431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "207538431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellowhammer_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172013/bird-gallery/yellowhammer/inaturalist/yellowhammer_2.jpg",
+      "public_id": "bird-gallery/yellowhammer/inaturalist/yellowhammer_2",
+      "width": 1024,
+      "height": 671,
+      "format": "jpg",
+      "bytes": 358638,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/248126005",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 248126005,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "yellowhammer_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172014/bird-gallery/yellowhammer/wikimedia/yellowhammer_1.jpg",
+      "public_id": "bird-gallery/yellowhammer/wikimedia/yellowhammer_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 199653,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53657189976_baa26a16c5_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172015/bird-gallery/yellowhammer/avibase/avibase_1_53657189976_baa26a16c5_b.jpg",
+      "public_id": "bird-gallery/yellowhammer/avibase/avibase_1_53657189976_baa26a16c5_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 131515,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53657189976",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

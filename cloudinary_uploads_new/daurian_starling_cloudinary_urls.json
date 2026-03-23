@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "daurian_starling",
+    "chinese_name": "北椋鸟",
+    "english_name": "Daurian Starling",
+    "scientific_name": "Agropsar sturninus"
+  },
+  "macaulay": [
+    {
+      "original_file": "daurian_starling_139905991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171614/bird-gallery/daurian_starling/macaulay/daurian_starling_139905991.jpg",
+      "public_id": "bird-gallery/daurian_starling/macaulay/daurian_starling_139905991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 128990,
+      "attribution": {
+        "photographer": "JJ Harrison",
+        "photographer_url": "https://macaulaylibrary.org/asset/139905991",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by JJ Harrison; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "139905991",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "daurian_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171615/bird-gallery/daurian_starling/inaturalist/daurian_starling_1.jpg",
+      "public_id": "bird-gallery/daurian_starling/inaturalist/daurian_starling_1",
+      "width": 1024,
+      "height": 871,
+      "format": "jpg",
+      "bytes": 608884,
+      "attribution": {
+        "photographer": "afsarnayakkan",
+        "photographer_url": "https://www.inaturalist.org/observations/85177612",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© afsarnayakkan (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 85177612,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "daurian_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171616/bird-gallery/daurian_starling/wikimedia/daurian_starling_1.jpg",
+      "public_id": "bird-gallery/daurian_starling/wikimedia/daurian_starling_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 160578,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49533117593_75285dc081_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171617/bird-gallery/daurian_starling/avibase/avibase_1_49533117593_75285dc081_b.jpg",
+      "public_id": "bird-gallery/daurian_starling/avibase/avibase_1_49533117593_75285dc081_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 158258,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49533117593",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

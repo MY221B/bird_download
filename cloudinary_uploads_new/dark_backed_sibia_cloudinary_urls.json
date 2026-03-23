@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "dark_backed_sibia",
+    "chinese_name": "黑头奇鹛",
+    "english_name": "Dark-backed Sibia",
+    "scientific_name": "Heterophasia desgodinsi"
+  },
+  "macaulay": [
+    {
+      "original_file": "dark_backed_sibia_141252701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171610/bird-gallery/dark_backed_sibia/macaulay/dark_backed_sibia_141252701.jpg",
+      "public_id": "bird-gallery/dark_backed_sibia/macaulay/dark_backed_sibia_141252701",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 293844,
+      "attribution": {
+        "photographer": "Shelley Rutkin",
+        "photographer_url": "https://macaulaylibrary.org/asset/141252701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Shelley Rutkin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "141252701",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dark_backed_sibia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171611/bird-gallery/dark_backed_sibia/inaturalist/dark_backed_sibia_1.jpg",
+      "public_id": "bird-gallery/dark_backed_sibia/inaturalist/dark_backed_sibia_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 191856,
+      "attribution": {
+        "photographer": "jitucha",
+        "photographer_url": "https://www.inaturalist.org/observations/326934535",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jitucha (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 326934535,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "dark_backed_sibia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171612/bird-gallery/dark_backed_sibia/wikimedia/dark_backed_sibia_1.jpg",
+      "public_id": "bird-gallery/dark_backed_sibia/wikimedia/dark_backed_sibia_1",
+      "width": 1280,
+      "height": 852,
+      "format": "jpg",
+      "bytes": 188816,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49397611067_a829820bb3_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171613/bird-gallery/dark_backed_sibia/avibase/avibase_1_49397611067_a829820bb3_b.jpg",
+      "public_id": "bird-gallery/dark_backed_sibia/avibase/avibase_1_49397611067_a829820bb3_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 101421,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49397611067",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

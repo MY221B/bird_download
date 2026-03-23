@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_chaffinch",
+    "chinese_name": "苍头燕雀",
+    "english_name": "Common Chaffinch",
+    "scientific_name": "Fringilla coelebs"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_chaffinch_204246301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171580/bird-gallery/common_chaffinch/macaulay/common_chaffinch_204246301.jpg",
+      "public_id": "bird-gallery/common_chaffinch/macaulay/common_chaffinch_204246301",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 145819,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/204246301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204246301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_chaffinch_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171581/bird-gallery/common_chaffinch/inaturalist/common_chaffinch_3.jpg",
+      "public_id": "bird-gallery/common_chaffinch/inaturalist/common_chaffinch_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 183165,
+      "attribution": {
+        "photographer": "maractwin",
+        "photographer_url": "https://www.inaturalist.org/observations/199419",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maractwin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 199419,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_chaffinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171582/bird-gallery/common_chaffinch/wikimedia/common_chaffinch_1.jpg",
+      "public_id": "bird-gallery/common_chaffinch/wikimedia/common_chaffinch_1",
+      "width": 1280,
+      "height": 1301,
+      "format": "jpg",
+      "bytes": 283318,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53304009251_0508c059cc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171583/bird-gallery/common_chaffinch/avibase/avibase_1_53304009251_0508c059cc_b.jpg",
+      "public_id": "bird-gallery/common_chaffinch/avibase/avibase_1_53304009251_0508c059cc_b",
+      "width": 1024,
+      "height": 655,
+      "format": "jpg",
+      "bytes": 270716,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53304009251",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

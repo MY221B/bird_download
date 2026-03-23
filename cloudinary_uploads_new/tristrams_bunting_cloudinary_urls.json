@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "tristrams_bunting",
+    "chinese_name": "白眉鹀",
+    "english_name": "Tristram's Bunting",
+    "scientific_name": "Emberiza tristrami"
+  },
+  "macaulay": [
+    {
+      "original_file": "tristrams_bunting_625108124.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171950/bird-gallery/tristrams_bunting/macaulay/tristrams_bunting_625108124.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/macaulay/tristrams_bunting_625108124",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 150213,
+      "attribution": {
+        "photographer": "Woochan Kwon",
+        "photographer_url": "https://macaulaylibrary.org/asset/625108124",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Woochan Kwon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625108124",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "tristrams_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171951/bird-gallery/tristrams_bunting/inaturalist/tristrams_bunting_1.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/inaturalist/tristrams_bunting_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 660175,
+      "attribution": {
+        "photographer": "egorbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/87510180",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© egorbirder (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 87510180,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_19046782382_0343716f77_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171952/bird-gallery/tristrams_bunting/avibase/avibase_1_19046782382_0343716f77_b.jpg",
+      "public_id": "bird-gallery/tristrams_bunting/avibase/avibase_1_19046782382_0343716f77_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 156313,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "19046782382",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

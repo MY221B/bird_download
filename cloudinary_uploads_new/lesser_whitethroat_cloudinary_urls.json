@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lesser_whitethroat",
+    "chinese_name": "白喉林莺",
+    "english_name": "Lesser Whitethroat",
+    "scientific_name": "Curruca curruca"
+  },
+  "macaulay": [
+    {
+      "original_file": "lesser_whitethroat_212053331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171751/bird-gallery/lesser_whitethroat/macaulay/lesser_whitethroat_212053331.jpg",
+      "public_id": "bird-gallery/lesser_whitethroat/macaulay/lesser_whitethroat_212053331",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 119014,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/212053331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "212053331",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "lesser_whitethroat_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171752/bird-gallery/lesser_whitethroat/inaturalist/lesser_whitethroat_1.jpg",
+      "public_id": "bird-gallery/lesser_whitethroat/inaturalist/lesser_whitethroat_1",
+      "width": 339,
+      "height": 208,
+      "format": "jpg",
+      "bytes": 13834,
+      "attribution": {
+        "photographer": "nickleggatt",
+        "photographer_url": "https://www.inaturalist.org/observations/47975010",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nickleggatt (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 47975010,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54613367553_b34ba907f7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171753/bird-gallery/lesser_whitethroat/avibase/avibase_1_54613367553_b34ba907f7_b.jpg",
+      "public_id": "bird-gallery/lesser_whitethroat/avibase/avibase_1_54613367553_b34ba907f7_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 217361,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54613367553",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

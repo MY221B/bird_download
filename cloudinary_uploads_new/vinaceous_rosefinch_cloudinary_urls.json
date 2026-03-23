@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "vinaceous_rosefinch",
+    "chinese_name": "酒红朱雀",
+    "english_name": "Vinaceous Rosefinch",
+    "scientific_name": "Carpodacus vinaceus"
+  },
+  "macaulay": [
+    {
+      "original_file": "vinaceous_rosefinch_325741521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171959/bird-gallery/vinaceous_rosefinch/macaulay/vinaceous_rosefinch_325741521.jpg",
+      "public_id": "bird-gallery/vinaceous_rosefinch/macaulay/vinaceous_rosefinch_325741521",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 194211,
+      "attribution": {
+        "photographer": "Rajesh Panwar",
+        "photographer_url": "https://macaulaylibrary.org/asset/325741521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rajesh Panwar; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "325741521",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "vinaceous_rosefinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171960/bird-gallery/vinaceous_rosefinch/inaturalist/vinaceous_rosefinch_1.jpg",
+      "public_id": "bird-gallery/vinaceous_rosefinch/inaturalist/vinaceous_rosefinch_1",
+      "width": 1024,
+      "height": 656,
+      "format": "jpg",
+      "bytes": 142201,
+      "attribution": {
+        "photographer": "chenshu",
+        "photographer_url": "https://www.inaturalist.org/observations/241478981",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© chenshu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 241478981,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52848408021_3330d7d568_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171962/bird-gallery/vinaceous_rosefinch/avibase/avibase_1_52848408021_3330d7d568_b.jpg",
+      "public_id": "bird-gallery/vinaceous_rosefinch/avibase/avibase_1_52848408021_3330d7d568_b",
+      "width": 1024,
+      "height": 724,
+      "format": "jpg",
+      "bytes": 146993,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52848408021",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

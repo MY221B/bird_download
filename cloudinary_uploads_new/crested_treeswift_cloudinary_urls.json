@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "crested_treeswift",
+    "chinese_name": "凤头雨燕",
+    "english_name": "Crested Treeswift",
+    "scientific_name": "Hemiprocne coronata"
+  },
+  "macaulay": [
+    {
+      "original_file": "crested_treeswift_124684111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171607/bird-gallery/crested_treeswift/macaulay/crested_treeswift_124684111.jpg",
+      "public_id": "bird-gallery/crested_treeswift/macaulay/crested_treeswift_124684111",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 159976,
+      "attribution": {
+        "photographer": "Melvin Jaison",
+        "photographer_url": "https://macaulaylibrary.org/asset/124684111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Melvin Jaison; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "124684111",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crested_treeswift_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171608/bird-gallery/crested_treeswift/inaturalist/crested_treeswift_1.jpg",
+      "public_id": "bird-gallery/crested_treeswift/inaturalist/crested_treeswift_1",
+      "width": 853,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 542938,
+      "attribution": {
+        "photographer": "ashutoshshinde",
+        "photographer_url": "https://www.inaturalist.org/observations/2894623",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ashutoshshinde (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 2894623,
+        "note": null
+      }
+    }
+  ]
+}

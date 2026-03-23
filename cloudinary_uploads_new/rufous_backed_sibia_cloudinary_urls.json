@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "rufous_backed_sibia",
+    "chinese_name": "栗背奇鹛",
+    "english_name": "Rufous-backed Sibia",
+    "scientific_name": "Leioptila annectens"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_backed_sibia_292014721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171876/bird-gallery/rufous_backed_sibia/macaulay/rufous_backed_sibia_292014721.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/macaulay/rufous_backed_sibia_292014721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 180496,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/292014721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "292014721",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_backed_sibia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171876/bird-gallery/rufous_backed_sibia/inaturalist/rufous_backed_sibia_1.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/inaturalist/rufous_backed_sibia_1",
+      "width": 1024,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 598450,
+      "attribution": {
+        "photographer": "grcilis",
+        "photographer_url": "https://www.inaturalist.org/observations/247702027",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© grcilis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 247702027,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_16730752268_3efdc92dec_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171878/bird-gallery/rufous_backed_sibia/avibase/avibase_1_16730752268_3efdc92dec_b.jpg",
+      "public_id": "bird-gallery/rufous_backed_sibia/avibase/avibase_1_16730752268_3efdc92dec_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 205306,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16730752268",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

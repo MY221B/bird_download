@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "western_water_rail",
+    "chinese_name": "西秧鸡",
+    "english_name": "Western Water Rail",
+    "scientific_name": "Rallus aquaticus"
+  },
+  "macaulay": [
+    {
+      "original_file": "western_water_rail_215604921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171966/bird-gallery/western_water_rail/macaulay/western_water_rail_215604921.jpg",
+      "public_id": "bird-gallery/western_water_rail/macaulay/western_water_rail_215604921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 160254,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/215604921",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "215604921",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "western_water_rail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171967/bird-gallery/western_water_rail/inaturalist/western_water_rail_1.jpg",
+      "public_id": "bird-gallery/western_water_rail/inaturalist/western_water_rail_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 237704,
+      "attribution": {
+        "photographer": "svemed",
+        "photographer_url": "https://www.inaturalist.org/observations/195562373",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© svemed (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 195562373,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51385982567_5d55fd162c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171968/bird-gallery/western_water_rail/avibase/avibase_1_51385982567_5d55fd162c_b.jpg",
+      "public_id": "bird-gallery/western_water_rail/avibase/avibase_1_51385982567_5d55fd162c_b",
+      "width": 1024,
+      "height": 721,
+      "format": "jpg",
+      "bytes": 185697,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51385982567",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

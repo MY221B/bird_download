@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "black_capped_bulbul",
+    "chinese_name": "黑冠黄鹎",
+    "english_name": "Black-capped Bulbul",
+    "scientific_name": "Rubigula flaviventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_capped_bulbul_626475504.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171491/bird-gallery/black_capped_bulbul/macaulay/black_capped_bulbul_626475504.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/macaulay/black_capped_bulbul_626475504",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 129536,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/626475504",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "626475504",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_capped_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171492/bird-gallery/black_capped_bulbul/inaturalist/black_capped_bulbul_1.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/inaturalist/black_capped_bulbul_1",
+      "width": 473,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 89709,
+      "attribution": {
+        "photographer": "peterthedragon",
+        "photographer_url": "https://www.inaturalist.org/observations/67128776",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© peterthedragon (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 67128776,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "black_capped_bulbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171493/bird-gallery/black_capped_bulbul/wikimedia/black_capped_bulbul_1.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/wikimedia/black_capped_bulbul_1",
+      "width": 816,
+      "height": 1225,
+      "format": "jpg",
+      "bytes": 188198,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_28311932601_8074b40561_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171494/bird-gallery/black_capped_bulbul/avibase/avibase_1_28311932601_8074b40561_b.jpg",
+      "public_id": "bird-gallery/black_capped_bulbul/avibase/avibase_1_28311932601_8074b40561_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 189306,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28311932601",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

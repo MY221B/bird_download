@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_browed_piculet",
+    "chinese_name": "白眉棕啄木鸟",
+    "english_name": "White-browed Piculet",
+    "scientific_name": "Sasia ochracea"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_browed_piculet_142564081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171974/bird-gallery/white_browed_piculet/macaulay/white_browed_piculet_142564081.jpg",
+      "public_id": "bird-gallery/white_browed_piculet/macaulay/white_browed_piculet_142564081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 143471,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/142564081",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "142564081",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_browed_piculet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171975/bird-gallery/white_browed_piculet/inaturalist/white_browed_piculet_1.jpg",
+      "public_id": "bird-gallery/white_browed_piculet/inaturalist/white_browed_piculet_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 402661,
+      "attribution": {
+        "photographer": "macrodipteryx",
+        "photographer_url": "https://www.inaturalist.org/observations/117432270",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© macrodipteryx (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 117432270,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_24038365112_722c917609_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171976/bird-gallery/white_browed_piculet/avibase/avibase_1_24038365112_722c917609_b.jpg",
+      "public_id": "bird-gallery/white_browed_piculet/avibase/avibase_1_24038365112_722c917609_b",
+      "width": 685,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 240244,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "24038365112",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

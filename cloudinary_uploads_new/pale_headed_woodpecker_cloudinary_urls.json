@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "pale_headed_woodpecker",
+    "chinese_name": "竹啄木鸟",
+    "english_name": "Pale-headed Woodpecker",
+    "scientific_name": "Gecinulus grantia"
+  },
+  "macaulay": [
+    {
+      "original_file": "pale_headed_woodpecker_396038191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171819/bird-gallery/pale_headed_woodpecker/macaulay/pale_headed_woodpecker_396038191.jpg",
+      "public_id": "bird-gallery/pale_headed_woodpecker/macaulay/pale_headed_woodpecker_396038191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 157212,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/396038191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "396038191",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pale_headed_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171821/bird-gallery/pale_headed_woodpecker/inaturalist/pale_headed_woodpecker_3.jpg",
+      "public_id": "bird-gallery/pale_headed_woodpecker/inaturalist/pale_headed_woodpecker_3",
+      "width": 970,
+      "height": 747,
+      "format": "jpg",
+      "bytes": 130803,
+      "attribution": {
+        "photographer": "chartuso",
+        "photographer_url": "https://www.inaturalist.org/observations/4527388",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© chartuso (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 4527388,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "pale_headed_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171821/bird-gallery/pale_headed_woodpecker/wikimedia/pale_headed_woodpecker_1.jpg",
+      "public_id": "bird-gallery/pale_headed_woodpecker/wikimedia/pale_headed_woodpecker_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 234368,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52087407954_b25123df46_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171823/bird-gallery/pale_headed_woodpecker/avibase/avibase_1_52087407954_b25123df46_b.jpg",
+      "public_id": "bird-gallery/pale_headed_woodpecker/avibase/avibase_1_52087407954_b25123df46_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 364974,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52087407954",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

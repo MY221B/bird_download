@@ -1,0 +1,65 @@
+{
+  "bird_info": {
+    "slug": "chestnut_vented_nuthatch"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_vented_nuthatch_117252351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171553/bird-gallery/chestnut_vented_nuthatch/macaulay/chestnut_vented_nuthatch_117252351.jpg",
+      "public_id": "bird-gallery/chestnut_vented_nuthatch/macaulay/chestnut_vented_nuthatch_117252351",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 157778,
+      "attribution": {
+        "source": "macaulay",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_vented_nuthatch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171554/bird-gallery/chestnut_vented_nuthatch/inaturalist/chestnut_vented_nuthatch_1.jpg",
+      "public_id": "bird-gallery/chestnut_vented_nuthatch/inaturalist/chestnut_vented_nuthatch_1",
+      "width": 1024,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 978572,
+      "attribution": {
+        "source": "inaturalist",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "chestnut_vented_nuthatch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171555/bird-gallery/chestnut_vented_nuthatch/wikimedia/chestnut_vented_nuthatch_1.jpg",
+      "public_id": "bird-gallery/chestnut_vented_nuthatch/wikimedia/chestnut_vented_nuthatch_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 254469,
+      "attribution": {
+        "source": "wikimedia",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_26055137098_b89f643748_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171556/bird-gallery/chestnut_vented_nuthatch/avibase/avibase_1_26055137098_b89f643748_b.jpg",
+      "public_id": "bird-gallery/chestnut_vented_nuthatch/avibase/avibase_1_26055137098_b89f643748_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 153692,
+      "attribution": {
+        "source": "avibase",
+        "note": "迁移自旧 cloud"
+      }
+    }
+  ]
+}

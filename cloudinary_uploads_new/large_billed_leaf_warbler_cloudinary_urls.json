@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "large_billed_leaf_warbler",
+    "chinese_name": "乌嘴柳莺",
+    "english_name": "Large-billed Leaf Warbler",
+    "scientific_name": "Phylloscopus magnirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "large_billed_leaf_warbler_57506381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171741/bird-gallery/large_billed_leaf_warbler/macaulay/large_billed_leaf_warbler_57506381.jpg",
+      "public_id": "bird-gallery/large_billed_leaf_warbler/macaulay/large_billed_leaf_warbler_57506381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 120924,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/57506381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "57506381",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "large_billed_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171742/bird-gallery/large_billed_leaf_warbler/inaturalist/large_billed_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/large_billed_leaf_warbler/inaturalist/large_billed_leaf_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 467476,
+      "attribution": {
+        "photographer": "spike_",
+        "photographer_url": "https://www.inaturalist.org/observations/256139988",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© spike_ (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 256139988,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "large_billed_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171742/bird-gallery/large_billed_leaf_warbler/wikimedia/large_billed_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/large_billed_leaf_warbler/wikimedia/large_billed_leaf_warbler_1",
+      "width": 1280,
+      "height": 815,
+      "format": "jpg",
+      "bytes": 258450,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54089679423_22d8b35344_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171743/bird-gallery/large_billed_leaf_warbler/avibase/avibase_1_54089679423_22d8b35344_b.jpg",
+      "public_id": "bird-gallery/large_billed_leaf_warbler/avibase/avibase_1_54089679423_22d8b35344_b",
+      "width": 867,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 197505,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54089679423",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "bird_info": {
+    "slug": "gray_heron",
+    "chinese_name": "苍鹭"
+  },
+  "macaulay": [
+    {
+      "original_file": "gray_heron_204245961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171664/bird-gallery/gray_heron/macaulay/gray_heron_204245961.jpg",
+      "public_id": "bird-gallery/gray_heron/macaulay/gray_heron_204245961",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 113186,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/204245961",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204245961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gray_heron_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171664/bird-gallery/gray_heron/inaturalist/gray_heron_1.jpg",
+      "public_id": "bird-gallery/gray_heron/inaturalist/gray_heron_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 362426,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "gray_heron_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171665/bird-gallery/gray_heron/wikimedia/gray_heron_1.jpg",
+      "public_id": "bird-gallery/gray_heron/wikimedia/gray_heron_1",
+      "width": 960,
+      "height": 1439,
+      "format": "jpg",
+      "bytes": 307847,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51039868237_ab378a1b2d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171666/bird-gallery/gray_heron/avibase/avibase_1_51039868237_ab378a1b2d_b.jpg",
+      "public_id": "bird-gallery/gray_heron/avibase/avibase_1_51039868237_ab378a1b2d_b",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 334449,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

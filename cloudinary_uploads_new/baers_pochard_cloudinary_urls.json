@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "baers_pochard",
+    "chinese_name": "青头潜鸭",
+    "english_name": "Baer's Pochard",
+    "scientific_name": "Aythya baeri"
+  },
+  "macaulay": [
+    {
+      "original_file": "baers_pochard_207742971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171473/bird-gallery/baers_pochard/macaulay/baers_pochard_207742971.jpg",
+      "public_id": "bird-gallery/baers_pochard/macaulay/baers_pochard_207742971",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93482,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/207742971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "207742971",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "baers_pochard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171473/bird-gallery/baers_pochard/inaturalist/baers_pochard_1.jpg",
+      "public_id": "bird-gallery/baers_pochard/inaturalist/baers_pochard_1",
+      "width": 1004,
+      "height": 714,
+      "format": "jpg",
+      "bytes": 110922,
+      "attribution": {
+        "photographer": "amarzee",
+        "photographer_url": "https://www.inaturalist.org/observations/38202485",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© amarzee (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 38202485,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "baers_pochard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171474/bird-gallery/baers_pochard/wikimedia/baers_pochard_1.jpg",
+      "public_id": "bird-gallery/baers_pochard/wikimedia/baers_pochard_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 148597,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_21043568672_9639191d68_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171475/bird-gallery/baers_pochard/avibase/avibase_1_21043568672_9639191d68_b.jpg",
+      "public_id": "bird-gallery/baers_pochard/avibase/avibase_1_21043568672_9639191d68_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 131575,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "21043568672",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

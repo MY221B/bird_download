@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "terek_sandpiper",
+    "chinese_name": "翘嘴鹬",
+    "english_name": "Terek Sandpiper",
+    "scientific_name": "Xenus cinereus"
+  },
+  "macaulay": [
+    {
+      "original_file": "terek_sandpiper_290987121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171949/bird-gallery/terek_sandpiper/macaulay/terek_sandpiper_290987121.jpg",
+      "public_id": "bird-gallery/terek_sandpiper/macaulay/terek_sandpiper_290987121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 126404,
+      "attribution": {
+        "photographer": "Terence Alexander",
+        "photographer_url": "https://macaulaylibrary.org/asset/290987121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Terence Alexander; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "290987121",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "terek_sandpiper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171950/bird-gallery/terek_sandpiper/inaturalist/terek_sandpiper_1.jpg",
+      "public_id": "bird-gallery/terek_sandpiper/inaturalist/terek_sandpiper_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 357991,
+      "attribution": {
+        "photographer": "samuelamaris",
+        "photographer_url": "https://www.inaturalist.org/observations/249281797",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© samuelamaris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 249281797,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "terek_sandpiper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171951/bird-gallery/terek_sandpiper/wikimedia/terek_sandpiper_1.jpg",
+      "public_id": "bird-gallery/terek_sandpiper/wikimedia/terek_sandpiper_1",
+      "width": 1280,
+      "height": 944,
+      "format": "jpg",
+      "bytes": 259792,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_54261164442_8225efcdfa_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171952/bird-gallery/terek_sandpiper/avibase/avibase_2_54261164442_8225efcdfa_b.jpg",
+      "public_id": "bird-gallery/terek_sandpiper/avibase/avibase_2_54261164442_8225efcdfa_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 131524,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54261164442",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

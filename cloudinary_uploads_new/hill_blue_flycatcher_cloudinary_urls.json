@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "hill_blue_flycatcher",
+    "chinese_name": "山蓝仙鹟",
+    "english_name": "Hill Blue Flycatcher",
+    "scientific_name": "Cyornis whitei"
+  },
+  "macaulay": [
+    {
+      "original_file": "hill_blue_flycatcher_144009441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171709/bird-gallery/hill_blue_flycatcher/macaulay/hill_blue_flycatcher_144009441.jpg",
+      "public_id": "bird-gallery/hill_blue_flycatcher/macaulay/hill_blue_flycatcher_144009441",
+      "width": 1200,
+      "height": 808,
+      "format": "jpg",
+      "bytes": 172963,
+      "attribution": {
+        "photographer": "Carlos Sanchez",
+        "photographer_url": "https://macaulaylibrary.org/asset/144009441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Carlos Sanchez; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "144009441",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hill_blue_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171709/bird-gallery/hill_blue_flycatcher/inaturalist/hill_blue_flycatcher_1.jpg",
+      "public_id": "bird-gallery/hill_blue_flycatcher/inaturalist/hill_blue_flycatcher_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 309779,
+      "attribution": {
+        "photographer": "rupperrt78",
+        "photographer_url": "https://www.inaturalist.org/observations/104337690",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rupperrt78 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 104337690,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "hill_blue_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171710/bird-gallery/hill_blue_flycatcher/wikimedia/hill_blue_flycatcher_1.jpg",
+      "public_id": "bird-gallery/hill_blue_flycatcher/wikimedia/hill_blue_flycatcher_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 126038,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54274388463_7dffedfe22_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171711/bird-gallery/hill_blue_flycatcher/avibase/avibase_1_54274388463_7dffedfe22_b.jpg",
+      "public_id": "bird-gallery/hill_blue_flycatcher/avibase/avibase_1_54274388463_7dffedfe22_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 147529,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54274388463",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

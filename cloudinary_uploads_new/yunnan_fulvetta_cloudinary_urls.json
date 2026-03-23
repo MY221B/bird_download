@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "yunnan_fulvetta",
+    "chinese_name": "云南雀鹛",
+    "english_name": "Yunnan Fulvetta",
+    "scientific_name": "Alcippe fratercula"
+  },
+  "macaulay": [
+    {
+      "original_file": "yunnan_fulvetta_46328091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172014/bird-gallery/yunnan_fulvetta/macaulay/yunnan_fulvetta_46328091.jpg",
+      "public_id": "bird-gallery/yunnan_fulvetta/macaulay/yunnan_fulvetta_46328091",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 107346,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/46328091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "46328091",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yunnan_fulvetta_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172014/bird-gallery/yunnan_fulvetta/inaturalist/yunnan_fulvetta_2.jpg",
+      "public_id": "bird-gallery/yunnan_fulvetta/inaturalist/yunnan_fulvetta_2",
+      "width": 1024,
+      "height": 710,
+      "format": "jpg",
+      "bytes": 162559,
+      "attribution": {
+        "photographer": "chenshu",
+        "photographer_url": "https://www.inaturalist.org/observations/241478979",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© chenshu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 241478979,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "yunnan_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172015/bird-gallery/yunnan_fulvetta/wikimedia/yunnan_fulvetta_1.jpg",
+      "public_id": "bird-gallery/yunnan_fulvetta/wikimedia/yunnan_fulvetta_1",
+      "width": 1280,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 198094,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49738700701_30908faa77_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172016/bird-gallery/yunnan_fulvetta/avibase/avibase_1_49738700701_30908faa77_b.jpg",
+      "public_id": "bird-gallery/yunnan_fulvetta/avibase/avibase_1_49738700701_30908faa77_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 151308,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49738700701",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "speckled_piculet",
+    "chinese_name": "斑姬啄木鸟",
+    "english_name": "Speckled Piculet",
+    "scientific_name": "Picumnus innominatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "speckled_piculet_152961951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171923/bird-gallery/speckled_piculet/macaulay/speckled_piculet_152961951.jpg",
+      "public_id": "bird-gallery/speckled_piculet/macaulay/speckled_piculet_152961951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 191807,
+      "attribution": {
+        "photographer": "John Clough",
+        "photographer_url": "https://macaulaylibrary.org/asset/152961951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by John Clough; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "152961951",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "speckled_piculet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171925/bird-gallery/speckled_piculet/inaturalist/speckled_piculet_1.jpg",
+      "public_id": "bird-gallery/speckled_piculet/inaturalist/speckled_piculet_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 201044,
+      "attribution": {
+        "photographer": "darthstevenchan",
+        "photographer_url": "https://www.inaturalist.org/observations/83674765",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© darthstevenchan (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 83674765,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_33729079675_86f6d80dd3_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171926/bird-gallery/speckled_piculet/avibase/avibase_1_33729079675_86f6d80dd3_b.jpg",
+      "public_id": "bird-gallery/speckled_piculet/avibase/avibase_1_33729079675_86f6d80dd3_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 110530,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "33729079675",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

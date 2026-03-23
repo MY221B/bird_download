@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_rosefinch",
+    "chinese_name": "普通朱雀",
+    "english_name": "Common Rosefinch",
+    "scientific_name": "Carpodacus erythrinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_rosefinch_165879411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171593/bird-gallery/common_rosefinch/macaulay/common_rosefinch_165879411.jpg",
+      "public_id": "bird-gallery/common_rosefinch/macaulay/common_rosefinch_165879411",
+      "width": 1200,
+      "height": 898,
+      "format": "jpg",
+      "bytes": 119376,
+      "attribution": {
+        "photographer": "Will Morris",
+        "photographer_url": "https://macaulaylibrary.org/asset/165879411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Will Morris; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "165879411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_rosefinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171593/bird-gallery/common_rosefinch/inaturalist/common_rosefinch_1.jpg",
+      "public_id": "bird-gallery/common_rosefinch/inaturalist/common_rosefinch_1",
+      "width": 1024,
+      "height": 719,
+      "format": "jpg",
+      "bytes": 562169,
+      "attribution": {
+        "photographer": "g_kolotin",
+        "photographer_url": "https://www.inaturalist.org/observations/18874569",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© g_kolotin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18874569,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_rosefinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171594/bird-gallery/common_rosefinch/wikimedia/common_rosefinch_1.jpg",
+      "public_id": "bird-gallery/common_rosefinch/wikimedia/common_rosefinch_1",
+      "width": 1200,
+      "height": 845,
+      "format": "jpg",
+      "bytes": 297169,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_3_53866239220_9d40d2aea0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171595/bird-gallery/common_rosefinch/avibase/avibase_3_53866239220_9d40d2aea0_b.jpg",
+      "public_id": "bird-gallery/common_rosefinch/avibase/avibase_3_53866239220_9d40d2aea0_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 218673,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53866239220",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

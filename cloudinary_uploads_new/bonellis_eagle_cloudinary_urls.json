@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "bonellis_eagle",
+    "chinese_name": "白腹隼雕",
+    "english_name": "Bonelli's Eagle",
+    "scientific_name": "Aquila fasciata"
+  },
+  "macaulay": [
+    {
+      "original_file": "bonellis_eagle_188471031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171527/bird-gallery/bonellis_eagle/macaulay/bonellis_eagle_188471031.jpg",
+      "public_id": "bird-gallery/bonellis_eagle/macaulay/bonellis_eagle_188471031",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 210277,
+      "attribution": {
+        "photographer": "Rahul  Singh",
+        "photographer_url": "https://macaulaylibrary.org/asset/188471031",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rahul  Singh; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "188471031",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bonellis_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171528/bird-gallery/bonellis_eagle/inaturalist/bonellis_eagle_1.jpg",
+      "public_id": "bird-gallery/bonellis_eagle/inaturalist/bonellis_eagle_1",
+      "width": 1024,
+      "height": 820,
+      "format": "jpg",
+      "bytes": 709793,
+      "attribution": {
+        "photographer": "udayakumar_mdu",
+        "photographer_url": "https://www.inaturalist.org/observations/71803969",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© udayakumar_mdu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 71803969,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52743271808_074f6c4a17_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171529/bird-gallery/bonellis_eagle/avibase/avibase_1_52743271808_074f6c4a17_b.jpg",
+      "public_id": "bird-gallery/bonellis_eagle/avibase/avibase_1_52743271808_074f6c4a17_b",
+      "width": 1024,
+      "height": 747,
+      "format": "jpg",
+      "bytes": 39897,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52743271808",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

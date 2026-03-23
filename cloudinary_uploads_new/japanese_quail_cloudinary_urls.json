@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "japanese_quail",
+    "chinese_name": "鹌鹑",
+    "english_name": "Japanese Quail",
+    "scientific_name": "Coturnix japonica"
+  },
+  "macaulay": [
+    {
+      "original_file": "japanese_quail_186984811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171730/bird-gallery/japanese_quail/macaulay/japanese_quail_186984811.jpg",
+      "public_id": "bird-gallery/japanese_quail/macaulay/japanese_quail_186984811",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 331122,
+      "attribution": {
+        "photographer": "Roman Lo",
+        "photographer_url": "https://macaulaylibrary.org/asset/186984811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Roman Lo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "186984811",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "japanese_quail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171731/bird-gallery/japanese_quail/inaturalist/japanese_quail_1.jpg",
+      "public_id": "bird-gallery/japanese_quail/inaturalist/japanese_quail_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 578605,
+      "attribution": {
+        "photographer": "jimchurches",
+        "photographer_url": "https://www.inaturalist.org/observations/197525802",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© jimchurches (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 197525802,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "japanese_quail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171732/bird-gallery/japanese_quail/wikimedia/japanese_quail_1.jpg",
+      "public_id": "bird-gallery/japanese_quail/wikimedia/japanese_quail_1",
+      "width": 1280,
+      "height": 1581,
+      "format": "jpg",
+      "bytes": 366112,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_4096639739_62b5bca977_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171733/bird-gallery/japanese_quail/avibase/avibase_1_4096639739_62b5bca977_b.jpg",
+      "public_id": "bird-gallery/japanese_quail/avibase/avibase_1_4096639739_62b5bca977_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 124682,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4096639739",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

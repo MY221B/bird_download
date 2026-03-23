@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "japanese_cormorant",
+    "chinese_name": "绿背鸬鹚",
+    "english_name": "Japanese Cormorant",
+    "scientific_name": "Phalacrocorax capillatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "japanese_cormorant_141716611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171728/bird-gallery/japanese_cormorant/macaulay/japanese_cormorant_141716611.jpg",
+      "public_id": "bird-gallery/japanese_cormorant/macaulay/japanese_cormorant_141716611",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 98175,
+      "attribution": {
+        "photographer": "Rui-Yang Ho",
+        "photographer_url": "https://macaulaylibrary.org/asset/141716611",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rui-Yang Ho; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "141716611",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "japanese_cormorant_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171729/bird-gallery/japanese_cormorant/inaturalist/japanese_cormorant_2.jpg",
+      "public_id": "bird-gallery/japanese_cormorant/inaturalist/japanese_cormorant_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 613673,
+      "attribution": {
+        "photographer": "gg_copen",
+        "photographer_url": "https://www.inaturalist.org/observations/336452138",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gg_copen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 336452138,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "japanese_cormorant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171730/bird-gallery/japanese_cormorant/wikimedia/japanese_cormorant_1.jpg",
+      "public_id": "bird-gallery/japanese_cormorant/wikimedia/japanese_cormorant_1",
+      "width": 1280,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 145418,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_54286058992_193ffbd5bf_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171730/bird-gallery/japanese_cormorant/avibase/avibase_2_54286058992_193ffbd5bf_b.jpg",
+      "public_id": "bird-gallery/japanese_cormorant/avibase/avibase_2_54286058992_193ffbd5bf_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 157143,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54286058992",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

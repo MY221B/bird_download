@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_throated_martin",
+    "chinese_name": "灰喉沙燕",
+    "english_name": "Grey-throated Martin",
+    "scientific_name": "Riparia chinensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_throated_martin_123754781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171703/bird-gallery/grey_throated_martin/macaulay/grey_throated_martin_123754781.jpg",
+      "public_id": "bird-gallery/grey_throated_martin/macaulay/grey_throated_martin_123754781",
+      "width": 1200,
+      "height": 803,
+      "format": "jpg",
+      "bytes": 82964,
+      "attribution": {
+        "photographer": "Bhaarat Vyas",
+        "photographer_url": "https://macaulaylibrary.org/asset/123754781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Bhaarat Vyas; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "123754781",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_throated_martin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171703/bird-gallery/grey_throated_martin/inaturalist/grey_throated_martin_1.jpg",
+      "public_id": "bird-gallery/grey_throated_martin/inaturalist/grey_throated_martin_1",
+      "width": 1024,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 122340,
+      "attribution": {
+        "photographer": "benoit_segerer",
+        "photographer_url": "https://www.inaturalist.org/observations/208735125",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© benoit_segerer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 208735125,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "grey_throated_martin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171704/bird-gallery/grey_throated_martin/wikimedia/grey_throated_martin_1.jpg",
+      "public_id": "bird-gallery/grey_throated_martin/wikimedia/grey_throated_martin_1",
+      "width": 1280,
+      "height": 843,
+      "format": "jpg",
+      "bytes": 144796,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "bird_info": {
+    "slug": "himalayan_griffon",
+    "chinese_name": "高山兀鹫",
+    "english_name": "Himalayan Griffon",
+    "scientific_name": "Gyps himalayensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "himalayan_griffon_224625911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171713/bird-gallery/himalayan_griffon/macaulay/himalayan_griffon_224625911.jpg",
+      "public_id": "bird-gallery/himalayan_griffon/macaulay/himalayan_griffon_224625911",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 270439,
+      "attribution": {
+        "photographer": "Thierry NOGARO",
+        "photographer_url": "https://macaulaylibrary.org/asset/224625911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Thierry NOGARO; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "224625911",
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_55029381615_b0b5c09c75_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171713/bird-gallery/himalayan_griffon/avibase/avibase_1_55029381615_b0b5c09c75_b.jpg",
+      "public_id": "bird-gallery/himalayan_griffon/avibase/avibase_1_55029381615_b0b5c09c75_b",
+      "width": 1023,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 65448,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "55029381615",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

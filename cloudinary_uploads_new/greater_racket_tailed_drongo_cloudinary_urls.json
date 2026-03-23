@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "greater_racket_tailed_drongo",
+    "chinese_name": "大盘尾",
+    "english_name": "Greater Racket-tailed Drongo",
+    "scientific_name": "Dicrurus paradiseus"
+  },
+  "macaulay": [
+    {
+      "original_file": "greater_racket_tailed_drongo_144002971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171679/bird-gallery/greater_racket_tailed_drongo/macaulay/greater_racket_tailed_drongo_144002971.jpg",
+      "public_id": "bird-gallery/greater_racket_tailed_drongo/macaulay/greater_racket_tailed_drongo_144002971",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 131008,
+      "attribution": {
+        "photographer": "Sriram Reddy",
+        "photographer_url": "https://macaulaylibrary.org/asset/144002971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sriram Reddy; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "144002971",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "greater_racket_tailed_drongo_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171680/bird-gallery/greater_racket_tailed_drongo/inaturalist/greater_racket_tailed_drongo_2.jpg",
+      "public_id": "bird-gallery/greater_racket_tailed_drongo/inaturalist/greater_racket_tailed_drongo_2",
+      "width": 1024,
+      "height": 705,
+      "format": "jpg",
+      "bytes": 370219,
+      "attribution": {
+        "photographer": "sunnyjosef",
+        "photographer_url": "https://www.inaturalist.org/observations/215645953",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© sunnyjosef (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 215645953,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "greater_racket_tailed_drongo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171680/bird-gallery/greater_racket_tailed_drongo/wikimedia/greater_racket_tailed_drongo_1.jpg",
+      "public_id": "bird-gallery/greater_racket_tailed_drongo/wikimedia/greater_racket_tailed_drongo_1",
+      "width": 960,
+      "height": 1265,
+      "format": "jpg",
+      "bytes": 137187,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_15192119390_9099f38680_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171681/bird-gallery/greater_racket_tailed_drongo/avibase/avibase_2_15192119390_9099f38680_b.jpg",
+      "public_id": "bird-gallery/greater_racket_tailed_drongo/avibase/avibase_2_15192119390_9099f38680_b",
+      "width": 683,
+      "height": 1023,
+      "format": "jpg",
+      "bytes": 124644,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15192119390",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

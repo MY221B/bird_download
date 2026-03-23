@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_rock_thrush",
+    "chinese_name": "蓝矶鸫",
+    "english_name": "Blue Rock Thrush",
+    "scientific_name": "Monticola solitarius"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_rock_thrush_198342211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171516/bird-gallery/blue_rock_thrush/macaulay/blue_rock_thrush_198342211.jpg",
+      "public_id": "bird-gallery/blue_rock_thrush/macaulay/blue_rock_thrush_198342211",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 233136,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/198342211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "198342211",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_rock_thrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171517/bird-gallery/blue_rock_thrush/inaturalist/blue_rock_thrush_2.jpg",
+      "public_id": "bird-gallery/blue_rock_thrush/inaturalist/blue_rock_thrush_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 410585,
+      "attribution": {
+        "photographer": "jasont35",
+        "photographer_url": "https://www.inaturalist.org/observations/218292768",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jasont35 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 218292768,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50962678798_ec0b63da65_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171518/bird-gallery/blue_rock_thrush/avibase/avibase_1_50962678798_ec0b63da65_b.jpg",
+      "public_id": "bird-gallery/blue_rock_thrush/avibase/avibase_1_50962678798_ec0b63da65_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 158187,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50962678798",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

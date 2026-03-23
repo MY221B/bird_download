@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "far_eastern_curlew",
+    "chinese_name": "大杓鹬",
+    "english_name": "Far Eastern Curlew",
+    "scientific_name": "Numenius madagascariensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "far_eastern_curlew_113280731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171641/bird-gallery/far_eastern_curlew/macaulay/far_eastern_curlew_113280731.jpg",
+      "public_id": "bird-gallery/far_eastern_curlew/macaulay/far_eastern_curlew_113280731",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 136944,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/113280731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "113280731",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "far_eastern_curlew_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171643/bird-gallery/far_eastern_curlew/inaturalist/far_eastern_curlew_1.jpg",
+      "public_id": "bird-gallery/far_eastern_curlew/inaturalist/far_eastern_curlew_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 309829,
+      "attribution": {
+        "photographer": "samuelamaris",
+        "photographer_url": "https://www.inaturalist.org/observations/198271828",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© samuelamaris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 198271828,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "far_eastern_curlew_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171643/bird-gallery/far_eastern_curlew/wikimedia/far_eastern_curlew_1.jpg",
+      "public_id": "bird-gallery/far_eastern_curlew/wikimedia/far_eastern_curlew_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 126475,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54988641248_fa3e39d0c7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171644/bird-gallery/far_eastern_curlew/avibase/avibase_1_54988641248_fa3e39d0c7_b.jpg",
+      "public_id": "bird-gallery/far_eastern_curlew/avibase/avibase_1_54988641248_fa3e39d0c7_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 265468,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54988641248",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

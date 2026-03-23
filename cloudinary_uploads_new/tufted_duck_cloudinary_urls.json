@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "tufted_duck",
+    "chinese_name": "凤头潜鸭",
+    "english_name": "Tufted Duck",
+    "scientific_name": "Aythya fuligula"
+  },
+  "macaulay": [
+    {
+      "original_file": "tufted_duck_204245921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171951/bird-gallery/tufted_duck/macaulay/tufted_duck_204245921.jpg",
+      "public_id": "bird-gallery/tufted_duck/macaulay/tufted_duck_204245921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88920,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/204245921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204245921",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "tufted_duck_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171952/bird-gallery/tufted_duck/inaturalist/tufted_duck_1.jpg",
+      "public_id": "bird-gallery/tufted_duck/inaturalist/tufted_duck_1",
+      "width": 1024,
+      "height": 624,
+      "format": "jpg",
+      "bytes": 389586,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/60085549",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 60085549,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "tufted_duck_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171953/bird-gallery/tufted_duck/wikimedia/tufted_duck_1.jpg",
+      "public_id": "bird-gallery/tufted_duck/wikimedia/tufted_duck_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99188,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54157031038_2eae002eb0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171954/bird-gallery/tufted_duck/avibase/avibase_1_54157031038_2eae002eb0_b.jpg",
+      "public_id": "bird-gallery/tufted_duck/avibase/avibase_1_54157031038_2eae002eb0_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 235241,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54157031038",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

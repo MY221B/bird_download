@@ -1,0 +1,69 @@
+{
+  "bird_info": {
+    "slug": "eurasian_hoopoe",
+    "chinese_name": "戴胜"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_hoopoe_245950031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171629/bird-gallery/eurasian_hoopoe/macaulay/eurasian_hoopoe_245950031.jpg",
+      "public_id": "bird-gallery/eurasian_hoopoe/macaulay/eurasian_hoopoe_245950031",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 269289,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_hoopoe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171630/bird-gallery/eurasian_hoopoe/inaturalist/eurasian_hoopoe_1.jpg",
+      "public_id": "bird-gallery/eurasian_hoopoe/inaturalist/eurasian_hoopoe_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 450970,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "eurasian_hoopoe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171631/bird-gallery/eurasian_hoopoe/wikimedia/eurasian_hoopoe_1.jpg",
+      "public_id": "bird-gallery/eurasian_hoopoe/wikimedia/eurasian_hoopoe_1",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 191244,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

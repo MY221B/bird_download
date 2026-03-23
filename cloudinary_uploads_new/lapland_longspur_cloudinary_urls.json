@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lapland_longspur",
+    "chinese_name": "铁爪鹀",
+    "english_name": "Lapland Longspur",
+    "scientific_name": "Calcarius lapponicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "lapland_longspur_309041501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171737/bird-gallery/lapland_longspur/macaulay/lapland_longspur_309041501.jpg",
+      "public_id": "bird-gallery/lapland_longspur/macaulay/lapland_longspur_309041501",
+      "width": 1200,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 90746,
+      "attribution": {
+        "photographer": "Marky Mutchler",
+        "photographer_url": "https://macaulaylibrary.org/asset/309041501",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Marky Mutchler; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "309041501",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "lapland_longspur_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171737/bird-gallery/lapland_longspur/inaturalist/lapland_longspur_1.jpg",
+      "public_id": "bird-gallery/lapland_longspur/inaturalist/lapland_longspur_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 164969,
+      "attribution": {
+        "photographer": "jemredwood",
+        "photographer_url": "https://www.inaturalist.org/observations/20209582",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jemredwood (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20209582,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52218146832_605d9378d0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171738/bird-gallery/lapland_longspur/avibase/avibase_1_52218146832_605d9378d0_b.jpg",
+      "public_id": "bird-gallery/lapland_longspur/avibase/avibase_1_52218146832_605d9378d0_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 242799,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52218146832",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

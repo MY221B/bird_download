@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "manipur_fulvetta",
+    "chinese_name": "褐头雀鹛",
+    "english_name": "Manipur Fulvetta",
+    "scientific_name": "Fulvetta manipurensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "manipur_fulvetta_230889011.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171772/bird-gallery/manipur_fulvetta/macaulay/manipur_fulvetta_230889011.jpg",
+      "public_id": "bird-gallery/manipur_fulvetta/macaulay/manipur_fulvetta_230889011",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 182553,
+      "attribution": {
+        "photographer": "Aseem Kothiala",
+        "photographer_url": "https://macaulaylibrary.org/asset/230889011",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Aseem Kothiala; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "230889011",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "manipur_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171773/bird-gallery/manipur_fulvetta/inaturalist/manipur_fulvetta_1.jpg",
+      "public_id": "bird-gallery/manipur_fulvetta/inaturalist/manipur_fulvetta_1",
+      "width": 1024,
+      "height": 780,
+      "format": "jpg",
+      "bytes": 230170,
+      "attribution": {
+        "photographer": "neomorphus",
+        "photographer_url": "https://www.inaturalist.org/observations/19514389",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© neomorphus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19514389,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_517649021_0746475970_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171774/bird-gallery/manipur_fulvetta/avibase/avibase_1_517649021_0746475970_b.jpg",
+      "public_id": "bird-gallery/manipur_fulvetta/avibase/avibase_1_517649021_0746475970_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 159553,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "517649021",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

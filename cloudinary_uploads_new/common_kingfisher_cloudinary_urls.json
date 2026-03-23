@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_kingfisher",
+    "chinese_name": "普通翠鸟",
+    "english_name": "Common Kingfisher",
+    "scientific_name": "Alcedo atthis"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_kingfisher_205090461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171588/bird-gallery/common_kingfisher/macaulay/common_kingfisher_205090461.jpg",
+      "public_id": "bird-gallery/common_kingfisher/macaulay/common_kingfisher_205090461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 118264,
+      "attribution": {
+        "photographer": "Daniel Pettersson",
+        "photographer_url": "https://macaulaylibrary.org/asset/205090461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Daniel Pettersson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205090461",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_kingfisher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171589/bird-gallery/common_kingfisher/inaturalist/common_kingfisher_1.jpg",
+      "public_id": "bird-gallery/common_kingfisher/inaturalist/common_kingfisher_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 431925,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_kingfisher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171590/bird-gallery/common_kingfisher/wikimedia/common_kingfisher_1.jpg",
+      "public_id": "bird-gallery/common_kingfisher/wikimedia/common_kingfisher_1",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 338203,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50842102988_e265845a35_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171591/bird-gallery/common_kingfisher/avibase/avibase_1_50842102988_e265845a35_b.jpg",
+      "public_id": "bird-gallery/common_kingfisher/avibase/avibase_1_50842102988_e265845a35_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 70833,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

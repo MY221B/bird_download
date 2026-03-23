@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_fronted_redstart",
+    "chinese_name": "蓝额红尾鸲",
+    "english_name": "Blue-fronted Redstart",
+    "scientific_name": "Phoenicurus frontalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_fronted_redstart_236837791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171514/bird-gallery/blue_fronted_redstart/macaulay/blue_fronted_redstart_236837791.jpg",
+      "public_id": "bird-gallery/blue_fronted_redstart/macaulay/blue_fronted_redstart_236837791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 166459,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/236837791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "236837791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_fronted_redstart_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171515/bird-gallery/blue_fronted_redstart/inaturalist/blue_fronted_redstart_1.jpg",
+      "public_id": "bird-gallery/blue_fronted_redstart/inaturalist/blue_fronted_redstart_1",
+      "width": 732,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 707086,
+      "attribution": {
+        "photographer": "pvidwansa",
+        "photographer_url": "https://www.inaturalist.org/observations/67960093",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pvidwansa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 67960093,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53893658857_5eac415e87_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171516/bird-gallery/blue_fronted_redstart/avibase/avibase_1_53893658857_5eac415e87_b.jpg",
+      "public_id": "bird-gallery/blue_fronted_redstart/avibase/avibase_1_53893658857_5eac415e87_b",
+      "width": 1023,
+      "height": 660,
+      "format": "jpg",
+      "bytes": 128018,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53893658857",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

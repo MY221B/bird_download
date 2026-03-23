@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_hooded_oriole",
+    "chinese_name": "黑头黄鹂",
+    "english_name": "Black-hooded Oriole",
+    "scientific_name": "Oriolus xanthornus"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_hooded_oriole_629998542.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171499/bird-gallery/black_hooded_oriole/macaulay/black_hooded_oriole_629998542.jpg",
+      "public_id": "bird-gallery/black_hooded_oriole/macaulay/black_hooded_oriole_629998542",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 134767,
+      "attribution": {
+        "photographer": "Vikram S",
+        "photographer_url": "https://macaulaylibrary.org/asset/629998542",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vikram S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "629998542",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_hooded_oriole_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171500/bird-gallery/black_hooded_oriole/inaturalist/black_hooded_oriole_1.jpg",
+      "public_id": "bird-gallery/black_hooded_oriole/inaturalist/black_hooded_oriole_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 335194,
+      "attribution": {
+        "photographer": "sharmabc",
+        "photographer_url": "https://www.inaturalist.org/observations/327209274",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sharmabc (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 327209274,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_6989118972_846aebd20c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171500/bird-gallery/black_hooded_oriole/avibase/avibase_1_6989118972_846aebd20c_b.jpg",
+      "public_id": "bird-gallery/black_hooded_oriole/avibase/avibase_1_6989118972_846aebd20c_b",
+      "width": 1023,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 143291,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "6989118972",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

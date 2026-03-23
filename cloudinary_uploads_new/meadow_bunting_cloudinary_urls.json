@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "meadow_bunting",
+    "chinese_name": "三道眉草鹀",
+    "english_name": "Meadow Bunting",
+    "scientific_name": "Emberiza cioides"
+  },
+  "macaulay": [
+    {
+      "original_file": "meadow_bunting_105114681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171777/bird-gallery/meadow_bunting/macaulay/meadow_bunting_105114681.jpg",
+      "public_id": "bird-gallery/meadow_bunting/macaulay/meadow_bunting_105114681",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 94397,
+      "attribution": {
+        "photographer": "Pavel Parkhaev",
+        "photographer_url": "https://macaulaylibrary.org/asset/105114681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Pavel Parkhaev; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "105114681",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "meadow_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171778/bird-gallery/meadow_bunting/inaturalist/meadow_bunting_1.jpg",
+      "public_id": "bird-gallery/meadow_bunting/inaturalist/meadow_bunting_1",
+      "width": 1024,
+      "height": 689,
+      "format": "jpg",
+      "bytes": 677837,
+      "attribution": {
+        "photographer": "naturalist23338",
+        "photographer_url": "https://www.inaturalist.org/observations/77601604",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 77601604,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54729520513_2656448262_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171780/bird-gallery/meadow_bunting/avibase/avibase_1_54729520513_2656448262_b.jpg",
+      "public_id": "bird-gallery/meadow_bunting/avibase/avibase_1_54729520513_2656448262_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 325429,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54729520513",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

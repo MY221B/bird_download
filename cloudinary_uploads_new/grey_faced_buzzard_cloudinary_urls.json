@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "grey_faced_buzzard",
+    "chinese_name": "灰脸鵟鹰",
+    "english_name": "Grey-faced Buzzard",
+    "scientific_name": "Butastur indicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "grey_faced_buzzard_139964381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171695/bird-gallery/grey_faced_buzzard/macaulay/grey_faced_buzzard_139964381.jpg",
+      "public_id": "bird-gallery/grey_faced_buzzard/macaulay/grey_faced_buzzard_139964381",
+      "width": 1200,
+      "height": 1016,
+      "format": "jpg",
+      "bytes": 220555,
+      "attribution": {
+        "photographer": "Larry  Gridley",
+        "photographer_url": "https://macaulaylibrary.org/asset/139964381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Larry  Gridley; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "139964381",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grey_faced_buzzard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171696/bird-gallery/grey_faced_buzzard/inaturalist/grey_faced_buzzard_1.jpg",
+      "public_id": "bird-gallery/grey_faced_buzzard/inaturalist/grey_faced_buzzard_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 305841,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/83410059",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 83410059,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_40907638151_591700d34c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171697/bird-gallery/grey_faced_buzzard/avibase/avibase_1_40907638151_591700d34c_b.jpg",
+      "public_id": "bird-gallery/grey_faced_buzzard/avibase/avibase_1_40907638151_591700d34c_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 43070,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40907638151",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

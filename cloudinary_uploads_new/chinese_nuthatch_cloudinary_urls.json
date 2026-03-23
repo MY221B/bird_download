@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "chinese_nuthatch",
+    "chinese_name": "黑头䴓",
+    "english_name": "Chinese Nuthatch",
+    "scientific_name": "Sitta villosa"
+  },
+  "macaulay": [
+    {
+      "original_file": "chinese_nuthatch_311587351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171565/bird-gallery/chinese_nuthatch/macaulay/chinese_nuthatch_311587351.jpg",
+      "public_id": "bird-gallery/chinese_nuthatch/macaulay/chinese_nuthatch_311587351",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 253455,
+      "attribution": {
+        "photographer": "Robert Cousins",
+        "photographer_url": "https://macaulaylibrary.org/asset/311587351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Robert Cousins; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "311587351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chinese_nuthatch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171566/bird-gallery/chinese_nuthatch/inaturalist/chinese_nuthatch_1.jpg",
+      "public_id": "bird-gallery/chinese_nuthatch/inaturalist/chinese_nuthatch_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 456559,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54495696527_a71b91bb27_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171568/bird-gallery/chinese_nuthatch/avibase/avibase_1_54495696527_a71b91bb27_b.jpg",
+      "public_id": "bird-gallery/chinese_nuthatch/avibase/avibase_1_54495696527_a71b91bb27_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 169827,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ]
+}

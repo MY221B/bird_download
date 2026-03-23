@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eurasian_woodcock",
+    "chinese_name": "丘鹬",
+    "english_name": "Eurasian Woodcock",
+    "scientific_name": "Scolopax rusticola"
+  },
+  "macaulay": [
+    {
+      "original_file": "eurasian_woodcock_40161731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171637/bird-gallery/eurasian_woodcock/macaulay/eurasian_woodcock_40161731.jpg",
+      "public_id": "bird-gallery/eurasian_woodcock/macaulay/eurasian_woodcock_40161731",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 215942,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/40161731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "40161731",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_woodcock_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171639/bird-gallery/eurasian_woodcock/inaturalist/eurasian_woodcock_1.jpg",
+      "public_id": "bird-gallery/eurasian_woodcock/inaturalist/eurasian_woodcock_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 286887,
+      "attribution": {
+        "photographer": "kristinabraz",
+        "photographer_url": "https://www.inaturalist.org/observations/109355957",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kristinabraz (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 109355957,
+        "note": null
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_2_53477165731_e14af08988_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171640/bird-gallery/eurasian_woodcock/avibase/avibase_2_53477165731_e14af08988_b.jpg",
+      "public_id": "bird-gallery/eurasian_woodcock/avibase/avibase_2_53477165731_e14af08988_b",
+      "width": 1024,
+      "height": 594,
+      "format": "jpg",
+      "bytes": 66961,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53477165731",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

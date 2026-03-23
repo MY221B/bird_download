@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "common_starling",
+    "chinese_name": "紫翅椋鸟",
+    "english_name": "Common Starling",
+    "scientific_name": "Sturnus vulgaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_starling_303465471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171596/bird-gallery/common_starling/macaulay/common_starling_303465471.jpg",
+      "public_id": "bird-gallery/common_starling/macaulay/common_starling_303465471",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 160730,
+      "attribution": {
+        "photographer": "Matthew Plante",
+        "photographer_url": "https://macaulaylibrary.org/asset/303465471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matthew Plante; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "303465471",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_starling_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171597/bird-gallery/common_starling/inaturalist/common_starling_2.jpg",
+      "public_id": "bird-gallery/common_starling/inaturalist/common_starling_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 666836,
+      "attribution": {
+        "photographer": "egorbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/72752929",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© egorbirder (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 72752929,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "common_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171598/bird-gallery/common_starling/wikimedia/common_starling_1.jpg",
+      "public_id": "bird-gallery/common_starling/wikimedia/common_starling_1",
+      "width": 960,
+      "height": 1282,
+      "format": "jpg",
+      "bytes": 160561,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53709245297_2a168f62de_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171599/bird-gallery/common_starling/avibase/avibase_1_53709245297_2a168f62de_b.jpg",
+      "public_id": "bird-gallery/common_starling/avibase/avibase_1_53709245297_2a168f62de_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 255005,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53709245297",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

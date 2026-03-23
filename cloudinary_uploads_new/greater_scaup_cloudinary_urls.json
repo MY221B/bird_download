@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "greater_scaup",
+    "chinese_name": "斑背潜鸭",
+    "english_name": "Greater Scaup",
+    "scientific_name": "Aythya marila"
+  },
+  "macaulay": [
+    {
+      "original_file": "greater_scaup_192288241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171680/bird-gallery/greater_scaup/macaulay/greater_scaup_192288241.jpg",
+      "public_id": "bird-gallery/greater_scaup/macaulay/greater_scaup_192288241",
+      "width": 1200,
+      "height": 872,
+      "format": "jpg",
+      "bytes": 155243,
+      "attribution": {
+        "photographer": "Gord Gadsden",
+        "photographer_url": "https://macaulaylibrary.org/asset/192288241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Gord Gadsden; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "192288241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "greater_scaup_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171681/bird-gallery/greater_scaup/inaturalist/greater_scaup_1.jpg",
+      "public_id": "bird-gallery/greater_scaup/inaturalist/greater_scaup_1",
+      "width": 1024,
+      "height": 656,
+      "format": "jpg",
+      "bytes": 270212,
+      "attribution": {
+        "photographer": "shukov",
+        "photographer_url": "https://www.inaturalist.org/observations/102600528",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 102600528,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "greater_scaup_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171681/bird-gallery/greater_scaup/wikimedia/greater_scaup_1.jpg",
+      "public_id": "bird-gallery/greater_scaup/wikimedia/greater_scaup_1",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 133589,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49693036743_94f5e8bb4c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171683/bird-gallery/greater_scaup/avibase/avibase_1_49693036743_94f5e8bb4c_b.jpg",
+      "public_id": "bird-gallery/greater_scaup/avibase/avibase_1_49693036743_94f5e8bb4c_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 180748,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49693036743",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

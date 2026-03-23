@@ -1,0 +1,92 @@
+{
+  "bird_info": {
+    "slug": "davids_fulvetta",
+    "chinese_name": "灰眶雀鹛",
+    "english_name": "David's Fulvetta",
+    "scientific_name": "Alcippe davidi"
+  },
+  "macaulay": [
+    {
+      "original_file": "davids_fulvetta_177556191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171616/bird-gallery/davids_fulvetta/macaulay/davids_fulvetta_177556191.jpg",
+      "public_id": "bird-gallery/davids_fulvetta/macaulay/davids_fulvetta_177556191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 306938,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/177556191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "177556191",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "davids_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171616/bird-gallery/davids_fulvetta/inaturalist/davids_fulvetta_1.jpg",
+      "public_id": "bird-gallery/davids_fulvetta/inaturalist/davids_fulvetta_1",
+      "width": 673,
+      "height": 1006,
+      "format": "jpg",
+      "bytes": 548226,
+      "attribution": {
+        "photographer": "chartuso",
+        "photographer_url": "https://www.inaturalist.org/observations/35969288",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© chartuso (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 35969288,
+        "note": null
+      }
+    }
+  ],
+  "wikimedia": [
+    {
+      "original_file": "davids_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171617/bird-gallery/davids_fulvetta/wikimedia/davids_fulvetta_1.jpg",
+      "public_id": "bird-gallery/davids_fulvetta/wikimedia/davids_fulvetta_1",
+      "width": 960,
+      "height": 1287,
+      "format": "jpg",
+      "bytes": 190374,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_14785487734_17bea86ed6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171618/bird-gallery/davids_fulvetta/avibase/avibase_1_14785487734_17bea86ed6_b.jpg",
+      "public_id": "bird-gallery/davids_fulvetta/avibase/avibase_1_14785487734_17bea86ed6_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 172716,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14785487734",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

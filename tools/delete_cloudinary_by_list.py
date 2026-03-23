@@ -18,17 +18,7 @@ from pathlib import Path
 import cloudinary
 import cloudinary.uploader
 
-# 复用项目内置凭证（与 tools/cloudinary_cleanup.py 一致）
-CLOUD_NAME = "dzor6lhz8"
-API_KEY = "972579995456539"
-API_SECRET = "pKXHi4_VR4fasuJ0AanitLGWfCM"
-
-cloudinary.config(
-    cloud_name=CLOUD_NAME,
-    api_key=API_KEY,
-    api_secret=API_SECRET,
-    secure=True,
-)
+from cloudinary_credentials import ensure_cloudinary_config
 
 
 def load_public_ids(p: Path):
@@ -73,6 +63,7 @@ def main():
         print("⚠️ 无需删除，列表为空")
         return
 
+    ensure_cloudinary_config()
     ok = 0
     for pid in public_ids:
         try:

@@ -11,18 +11,8 @@ import cloudinary
 import cloudinary.uploader
 from pathlib import Path
 
-# Cloudinary配置
-CLOUD_NAME = "dzor6lhz8"
-API_KEY = "972579995456539"
-API_SECRET = "pKXHi4_VR4fasuJ0AanitLGWfCM"
+from cloudinary_credentials import ensure_cloudinary_config
 
-# 配置Cloudinary
-cloudinary.config(
-    cloud_name=CLOUD_NAME,
-    api_key=API_KEY,
-    api_secret=API_SECRET,
-    secure=True
-)
 
 def upload_sound_to_cloudinary(bird_slug, sound_file_path):
     """
@@ -35,6 +25,7 @@ def upload_sound_to_cloudinary(bird_slug, sound_file_path):
         return None
     
     try:
+        ensure_cloudinary_config()
         # 构建Cloudinary路径
         folder = f"bird-gallery/{bird_slug}/sounds"
         public_id = sound_path.stem

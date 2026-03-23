@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "glaucous_winged_gull",
+    "chinese_name": "灰翅鸥",
+    "english_name": "Glaucous-winged Gull",
+    "scientific_name": "Larus glaucescens"
+  },
+  "macaulay": [
+    {
+      "original_file": "glaucous_winged_gull_132764701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240647/bird-gallery/glaucous_winged_gull/macaulay/glaucous_winged_gull_132764701.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/macaulay/glaucous_winged_gull_132764701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 61376,
+      "attribution": {
+        "photographer": "Cameron Eckert",
+        "photographer_url": "https://macaulaylibrary.org/asset/132764701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Cameron Eckert; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "132764701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "glaucous_winged_gull_205979071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240652/bird-gallery/glaucous_winged_gull/macaulay/glaucous_winged_gull_205979071.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/macaulay/glaucous_winged_gull_205979071",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 44461,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/205979071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205979071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "glaucous_winged_gull_65437781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240656/bird-gallery/glaucous_winged_gull/macaulay/glaucous_winged_gull_65437781.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/macaulay/glaucous_winged_gull_65437781",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 44341,
+      "attribution": {
+        "photographer": "Christoph Moning",
+        "photographer_url": "https://macaulaylibrary.org/asset/65437781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Christoph Moning; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "65437781",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "glaucous_winged_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240660/bird-gallery/glaucous_winged_gull/inaturalist/glaucous_winged_gull_1.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/inaturalist/glaucous_winged_gull_1",
+      "width": 904,
+      "height": 813,
+      "format": "jpg",
+      "bytes": 79679,
+      "attribution": {
+        "photographer": "rm1997",
+        "photographer_url": "https://www.inaturalist.org/observations/106387260",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rm1997 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106387260,
+        "note": null
+      }
+    },
+    {
+      "original_file": "glaucous_winged_gull_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240662/bird-gallery/glaucous_winged_gull/inaturalist/glaucous_winged_gull_2.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/inaturalist/glaucous_winged_gull_2",
+      "width": 838,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 64588,
+      "attribution": {
+        "photographer": "scottveirs",
+        "photographer_url": "https://www.inaturalist.org/observations/262219771",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© scottveirs (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 262219771,
+        "note": null
+      }
+    },
+    {
+      "original_file": "glaucous_winged_gull_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240664/bird-gallery/glaucous_winged_gull/inaturalist/glaucous_winged_gull_3.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/inaturalist/glaucous_winged_gull_3",
+      "width": 1024,
+      "height": 724,
+      "format": "jpg",
+      "bytes": 77207,
+      "attribution": {
+        "photographer": "ted_goshulak",
+        "photographer_url": "https://www.inaturalist.org/observations/59390171",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ted_goshulak (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 59390171,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "glaucous_winged_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240665/bird-gallery/glaucous_winged_gull/wikimedia/glaucous_winged_gull_1.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/wikimedia/glaucous_winged_gull_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 79136,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51122549289_388c9b5050_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240667/bird-gallery/glaucous_winged_gull/avibase/avibase_1_51122549289_388c9b5050_b.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/avibase/avibase_1_51122549289_388c9b5050_b",
+      "width": 1024,
+      "height": 575,
+      "format": "jpg",
+      "bytes": 7436,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51122549289",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54817008494_736853dfe4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240668/bird-gallery/glaucous_winged_gull/avibase/avibase_2_54817008494_736853dfe4_b.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/avibase/avibase_2_54817008494_736853dfe4_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78477,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54817008494",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53994550418_1b908efcd6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240669/bird-gallery/glaucous_winged_gull/avibase/avibase_3_53994550418_1b908efcd6_b.jpg",
+      "public_id": "bird-gallery/glaucous_winged_gull/avibase/avibase_3_53994550418_1b908efcd6_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51212,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53994550418",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "glaucous_winged_gull_183066141.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1774241020/bird-gallery/glaucous_winged_gull/sounds/glaucous_winged_gull_183066141.mp3",
+      "public_id": "bird-gallery/glaucous_winged_gull/sounds/glaucous_winged_gull_183066141",
+      "duration": 14.808,
+      "format": "mp3",
+      "bytes": 207932,
+      "bit_rate": 112334,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "183066141",
+        "asset_url": "https://macaulaylibrary.org/asset/183066141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

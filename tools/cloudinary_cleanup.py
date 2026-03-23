@@ -11,17 +11,7 @@ from pathlib import Path
 import cloudinary
 import cloudinary.uploader
 
-# 复用项目内置凭证
-CLOUD_NAME = "dzor6lhz8"
-API_KEY = "972579995456539"
-API_SECRET = "pKXHi4_VR4fasuJ0AanitLGWfCM"
-
-cloudinary.config(
-    cloud_name=CLOUD_NAME,
-    api_key=API_KEY,
-    api_secret=API_SECRET,
-    secure=True,
-)
+from cloudinary_credentials import ensure_cloudinary_config
 
 def destroy_from_json(json_path: Path) -> int:
     with open(json_path, 'r', encoding='utf-8') as f:
@@ -55,6 +45,7 @@ def main():
         print("⚠️  未发现 *_cloudinary_urls.json，跳过 Cloudinary 清理")
         return
 
+    ensure_cloudinary_config()
     total_deleted = 0
     for jf in json_files:
         total_deleted += destroy_from_json(jf)

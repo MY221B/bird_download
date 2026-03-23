@@ -11,18 +11,8 @@ import cloudinary
 import cloudinary.uploader
 from pathlib import Path
 
-# Cloudinary配置
-CLOUD_NAME = "dzor6lhz8"
-API_KEY = "972579995456539"
-API_SECRET = "pKXHi4_VR4fasuJ0AanitLGWfCM"
+from cloudinary_credentials import ensure_cloudinary_config
 
-# 配置Cloudinary
-cloudinary.config(
-    cloud_name=CLOUD_NAME,
-    api_key=API_KEY,
-    api_secret=API_SECRET,
-    secure=True
-)
 
 def upload_bird_sounds(bird_name, sound_file_path, base_path=None):
     """
@@ -41,10 +31,11 @@ def upload_bird_sounds(bird_name, sound_file_path, base_path=None):
     if not sound_path.exists():
         print(f"❌ 音频文件不存在: {sound_path}")
         return None
-    
+
+    cn = ensure_cloudinary_config()
     print(f"\n{'='*60}")
     print(f"上传鸟类叫声: {bird_name}")
-    print(f"Cloudinary: cloud_name={CLOUD_NAME}")
+    print(f"Cloudinary: cloud_name={cn}")
     print(f"音频文件: {sound_path}")
     print(f"{'='*60}\n")
     

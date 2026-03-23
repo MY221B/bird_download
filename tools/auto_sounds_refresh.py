@@ -15,17 +15,7 @@ from typing import List, Dict, Tuple, Optional
 import cloudinary
 import cloudinary.uploader
 
-# Cloudinary配置
-CLOUD_NAME = "dzor6lhz8"
-API_KEY = "972579995456539"
-API_SECRET = "pKXHi4_VR4fasuJ0AanitLGWfCM"
-
-cloudinary.config(
-    cloud_name=CLOUD_NAME,
-    api_key=API_KEY,
-    api_secret=API_SECRET,
-    secure=True
-)
+from cloudinary_credentials import ensure_cloudinary_config
 
 PROJECT_ROOT = Path(__file__).parent.parent.resolve()
 
@@ -241,6 +231,7 @@ def download_sound(asset_id: str, output_dir: Path, slug: str) -> Optional[Path]
 def upload_sound_to_cloudinary(slug: str, sound_path: Path) -> Optional[Dict]:
     """上传音频到Cloudinary"""
     try:
+        ensure_cloudinary_config()
         folder = f"bird-gallery/{slug}/sounds"
         public_id = sound_path.stem
         

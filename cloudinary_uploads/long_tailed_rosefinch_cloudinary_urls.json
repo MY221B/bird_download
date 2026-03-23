@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "long_tailed_rosefinch",
+    "chinese_name": "长尾雀",
+    "english_name": "Long-tailed Rosefinch",
+    "scientific_name": "Carpodacus sibiricus"
+  },
+  "macaulay": [
+    {
+      "original_file": "long_tailed_rosefinch_121097651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240495/bird-gallery/long_tailed_rosefinch/macaulay/long_tailed_rosefinch_121097651.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/macaulay/long_tailed_rosefinch_121097651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98884,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/121097651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "121097651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_tailed_rosefinch_389161741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240500/bird-gallery/long_tailed_rosefinch/macaulay/long_tailed_rosefinch_389161741.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/macaulay/long_tailed_rosefinch_389161741",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84025,
+      "attribution": {
+        "photographer": "(Ai)Tao Liu",
+        "photographer_url": "https://macaulaylibrary.org/asset/389161741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by (Ai)Tao Liu; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "389161741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_tailed_rosefinch_532745661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240504/bird-gallery/long_tailed_rosefinch/macaulay/long_tailed_rosefinch_532745661.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/macaulay/long_tailed_rosefinch_532745661",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72775,
+      "attribution": {
+        "photographer": "Graham Gerdeman",
+        "photographer_url": "https://macaulaylibrary.org/asset/532745661",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Graham Gerdeman; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "532745661",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "long_tailed_rosefinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240509/bird-gallery/long_tailed_rosefinch/inaturalist/long_tailed_rosefinch_1.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/inaturalist/long_tailed_rosefinch_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48089,
+      "attribution": {
+        "photographer": "konstantinsamodurov",
+        "photographer_url": "https://www.inaturalist.org/observations/19447231",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© konstantinsamodurov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19447231,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_tailed_rosefinch_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240511/bird-gallery/long_tailed_rosefinch/inaturalist/long_tailed_rosefinch_2.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/inaturalist/long_tailed_rosefinch_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 71109,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/82694767",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 82694767,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_tailed_rosefinch_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240512/bird-gallery/long_tailed_rosefinch/inaturalist/long_tailed_rosefinch_3.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/inaturalist/long_tailed_rosefinch_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 44255,
+      "attribution": {
+        "photographer": "carlosbocos",
+        "photographer_url": "https://www.inaturalist.org/observations/41458784",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© carlosbocos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 41458784,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "long_tailed_rosefinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240513/bird-gallery/long_tailed_rosefinch/wikimedia/long_tailed_rosefinch_1.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/wikimedia/long_tailed_rosefinch_1",
+      "width": 250,
+      "height": 188,
+      "format": "jpg",
+      "bytes": 9002,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_21396185053_26d4870a27_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240515/bird-gallery/long_tailed_rosefinch/avibase/avibase_1_21396185053_26d4870a27_b.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/avibase/avibase_1_21396185053_26d4870a27_b",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 56284,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "21396185053",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_53914605173_c9be0e2dc6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240517/bird-gallery/long_tailed_rosefinch/avibase/avibase_2_53914605173_c9be0e2dc6_b.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/avibase/avibase_2_53914605173_c9be0e2dc6_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 71862,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53914605173",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54851420376_32fb16ed54_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240518/bird-gallery/long_tailed_rosefinch/avibase/avibase_3_54851420376_32fb16ed54_b.jpg",
+      "public_id": "bird-gallery/long_tailed_rosefinch/avibase/avibase_3_54851420376_32fb16ed54_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 74114,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54851420376",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "long_tailed_rosefinch_142905421.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1774241011/bird-gallery/long_tailed_rosefinch/sounds/long_tailed_rosefinch_142905421.mp3",
+      "public_id": "bird-gallery/long_tailed_rosefinch/sounds/long_tailed_rosefinch_142905421",
+      "duration": 55.632,
+      "format": "mp3",
+      "bytes": 851804,
+      "bit_rate": 122491,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "142905421",
+        "asset_url": "https://macaulaylibrary.org/asset/142905421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

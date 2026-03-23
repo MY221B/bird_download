@@ -11,23 +11,12 @@ import cloudinary
 import cloudinary.uploader
 from pathlib import Path
 
+from cloudinary_credentials import ensure_cloudinary_config
+
 try:
     import requests
 except ImportError:
     requests = None  # 如果未安装 requests，Macaulay 署名获取功能将不可用
-
-# Cloudinary配置
-CLOUD_NAME = "dzor6lhz8"
-API_KEY = "972579995456539"
-API_SECRET = "pKXHi4_VR4fasuJ0AanitLGWfCM"
-
-# 配置Cloudinary
-cloudinary.config(
-    cloud_name=CLOUD_NAME,
-    api_key=API_KEY,
-    api_secret=API_SECRET,
-    secure=True
-)
 
 def upload_bird_images(bird_name, base_path, bird_info=None):
     """
@@ -48,7 +37,9 @@ def upload_bird_images(bird_name, base_path, bird_info=None):
         'wikimedia': [],
         'avibase': []
     }
-    
+
+    cloud_name = ensure_cloudinary_config()
+
     # 添加鸟类信息到结果中（如果提供）
     if bird_info:
         results['bird_info'] = {
@@ -78,7 +69,7 @@ def upload_bird_images(bird_name, base_path, bird_info=None):
     
     print(f"\n{'='*60}")
     print(f"开始上传: {bird_name}")
-    print(f"Cloudinary: cloud_name={CLOUD_NAME}")
+    print(f"Cloudinary: cloud_name={cloud_name}")
     print(f"本地目录: {bird_path}")
     print(f"{'='*60}\n")
     

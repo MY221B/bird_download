@@ -4,15 +4,46 @@
 - 补齐缺失的鸟种；
 - 缺失的鸟种排在现有列表前面；
 - 保留并注入“多选与删除清单（仅记录）”前端功能。
+
+Cloudinary 目标 cloud：环境变量 VITE_CLOUDINARY_CLOUD_NAME 优先，否则读取仓库根目录
+.gitignore 中的 .cloudinary_secrets 内 CLOUD_NAME=（与上传脚本共用，勿提交该文件）。
+JSON 中若仍为旧 cloud dzor6lhz8，生成时会改写 URL 并写入 window.CLOUDINARY_CLOUD_NAME_OVERRIDE。
 """
 
 from pathlib import Path
-import re
 import json
+import os
+import re
+
+from cloudinary_credentials import LEGACY_CLOUD_NAME, try_resolve_cloud_name_for_gallery
 
 
 UPLOAD_DIR = Path('cloudinary_uploads')
 OUT_FILE = Path('examples/gallery_all_cloudinary.html')
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+# 与 feather-flash-quiz/src/lib/cloudinaryUrl.ts 一致
+_VERSION_RE = re.compile(r"/v\d+/")
+
+
+def resolve_gallery_cloud_name(project_root: Path | None = None) -> str | None:
+    """
+    画廊 HTML 使用的目标 cloud name。
+    优先级：环境变量 VITE_CLOUDINARY_CLOUD_NAME → 仓库根目录 .cloudinary_secrets 的 CLOUD_NAME。
+    """
+    _ = project_root  # 保留参数以兼容旧调用；实际路径见 cloudinary_credentials.PROJECT_ROOT
+    return try_resolve_cloud_name_for_gallery()
+
+
+def rewrite_cloudinary_media_url(url: str, cloud_override: str | None = None) -> str:
+    """将 JSON 中写死的旧 cloud（dzor6lhz8）URL 换为目标 cloud；cloud_override 为 None 时不改写。"""
+    if not cloud_override or cloud_override == LEGACY_CLOUD_NAME:
+        return url
+    needle = f"https://res.cloudinary.com/{LEGACY_CLOUD_NAME}/"
+    if not url.startswith(needle):
+        return url
+    path = _VERSION_RE.sub("/", url[len(needle) :])
+    return f"https://res.cloudinary.com/{cloud_override}/{path}"
 
 
 def load_all_birds(upload_dir: Path) -> dict:
@@ -90,9 +121,20 @@ def bird_info_lookup(slug: str, data: dict) -> dict:
     }
 
 
-def build_html(all_data: dict, ordered_slugs: list, highlight_slugs: list = None) -> str:
+def build_html(
+    all_data: dict,
+    ordered_slugs: list,
+    highlight_slugs: list = None,
+    gallery_cloud_override: str | None = None,
+) -> str:
     def total_images(d: dict) -> int:
         return sum(len(v or []) for k, v in d.items() if k != 'bird_info')
+
+    cloud_name = (
+        gallery_cloud_override
+        if gallery_cloud_override is not None
+        else resolve_gallery_cloud_name()
+    )
 
     # 只标红传入的 highlight_slugs，清除所有旧的标红
     highlight_set = set(highlight_slugs or [])
@@ -145,7 +187,7 @@ def build_html(all_data: dict, ordered_slugs: list, highlight_slugs: list = None
             ''')
 
             for i, img in enumerate(images, 1):
-                url = img['url']
+                url = rewrite_cloudinary_media_url(img["url"], cloud_name)
                 url_opt = url.replace('/upload/', '/upload/c_scale,w_800,q_auto,f_auto/')
                 parts.append(f'''
                         <div class="image-card">
@@ -187,6 +229,10 @@ def build_html(all_data: dict, ordered_slugs: list, highlight_slugs: list = None
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>小鸟记忆卡 - Cloudinary 总览</title>
+  <script>
+  /** 由 tools/update_gallery_from_cloudinary.py 写入：.cloudinary_secrets 的 CLOUD_NAME（VITE_CLOUDINARY_CLOUD_NAME 优先）；?cloud= 可覆盖 */
+  window.CLOUDINARY_CLOUD_NAME_OVERRIDE = %%GALLERY_CLOUD_NAME_JS%%;
+  </script>
   <style>
     :root {{ --sidebar-w: 300px; }}
     * {{ box-sizing: border-box; margin: 0; padding: 0; }}
@@ -261,6 +307,31 @@ def build_html(all_data: dict, ordered_slugs: list, highlight_slugs: list = None
     <img id="lightbox-img" src="" alt="">
   </div>
   <script>
+  const LEGACY_CLOUD_NAME = 'dzor6lhz8';
+  function rewriteCloudinaryMediaUrl(url) {
+    const params = new URLSearchParams(location.search);
+    const override = (params.get('cloud') || (typeof window.CLOUDINARY_CLOUD_NAME_OVERRIDE === 'string' ? window.CLOUDINARY_CLOUD_NAME_OVERRIDE : '') || '').trim();
+    if (!override || override === LEGACY_CLOUD_NAME) return url;
+    const needle = 'https://res.cloudinary.com/' + LEGACY_CLOUD_NAME + '/';
+    if (!url.startsWith(needle)) return url;
+    const path = url.slice(needle.length).replace(/\\/v\\d+\\//g, '/');
+    return 'https://res.cloudinary.com/' + override + '/' + path;
+  }
+  (function rewriteDomCloudinaryUrls() {
+    document.querySelectorAll('img[src*="res.cloudinary.com"]').forEach(function (img) {
+      const s = img.getAttribute('src');
+      const r = rewriteCloudinaryMediaUrl(s);
+      if (r !== s) img.setAttribute('src', r);
+    });
+    document.querySelectorAll('.image-card img[onclick]').forEach(function (img) {
+      const oc = img.getAttribute('onclick');
+      if (!oc || oc.indexOf('openLightbox') === -1) return;
+      const m = oc.match(/openLightbox\\('([^']*)'\\)/);
+      if (!m) return;
+      const r = rewriteCloudinaryMediaUrl(m[1]);
+      if (r !== m[1]) img.setAttribute('onclick', oc.replace(m[1], r));
+    });
+  })();
   function activateBird(slug) {
     document.querySelectorAll('.bird-section').forEach(s => s.classList.remove('active'));
     document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
@@ -271,7 +342,7 @@ def build_html(all_data: dict, ordered_slugs: list, highlight_slugs: list = None
   const firstNav = document.querySelector('.nav-item'); if (firstNav) activateBird(firstNav.dataset.target);
   function openLightbox(src) {
     document.getElementById('lightbox').classList.add('active');
-    document.getElementById('lightbox-img').src = src;
+    document.getElementById('lightbox-img').src = rewriteCloudinaryMediaUrl(src);
     event.stopPropagation();
   }
   function closeLightbox() {
@@ -289,7 +360,19 @@ def build_html(all_data: dict, ordered_slugs: list, highlight_slugs: list = None
     const selected = new Set();
     function ensureToolbarVisibility() { toolbar.style.display = 'flex'; counter.textContent = `已选 ${selected.size} 张`; }
     function getPublicIdFromUrl(url) {
-      try { const u = new URL(url); const parts = u.pathname.split('/'); const uploadIdx = parts.indexOf('upload'); let i = uploadIdx + 1; while (i < parts.length && !/^v\d+/.test(parts[i])) i++; if (i >= parts.length) return null; const afterVersion = parts.slice(i + 1).join('/'); if (!afterVersion) return null; const lastDot = afterVersion.lastIndexOf('.'); const withoutExt = lastDot > 0 ? afterVersion.slice(0, lastDot) : afterVersion; return withoutExt; } catch(_) { return null; }
+      try {
+        const u = new URL(url);
+        const parts = u.pathname.split('/').filter(Boolean);
+        const uploadIdx = parts.indexOf('upload');
+        if (uploadIdx < 0) return null;
+        let i = uploadIdx + 1;
+        if (i < parts.length && /^v\\d+$/.test(parts[i])) i++;
+        const afterUpload = parts.slice(i).join('/');
+        if (!afterUpload) return null;
+        const lastDot = afterUpload.lastIndexOf('.');
+        const withoutExt = lastDot > 0 ? afterUpload.slice(0, lastDot) : afterUpload;
+        return withoutExt;
+      } catch (_) { return null; }
     }
     function attachCheckbox(card) {
       if (card.querySelector('.select-overlay')) return; const img = card.querySelector('img'); if (!img) return; const publicId = getPublicIdFromUrl(img.src); if (!publicId) return; card.dataset.publicId = publicId; const overlay = document.createElement('div'); overlay.className = 'select-overlay'; const cb = document.createElement('input'); cb.type = 'checkbox'; overlay.appendChild(cb); card.appendChild(overlay);
@@ -307,9 +390,14 @@ def build_html(all_data: dict, ordered_slugs: list, highlight_slugs: list = None
 </body>
 </html>
 '''
-    html = html_tpl.replace('%%NAV%%', ''.join(nav_items)).replace('%%SECTIONS%%', ''.join(sections))
+    gallery_cloud_js = json.dumps(cloud_name or "")
+    html = (
+        html_tpl.replace("%%NAV%%", "".join(nav_items))
+        .replace("%%SECTIONS%%", "".join(sections))
+        .replace("%%GALLERY_CLOUD_NAME_JS%%", gallery_cloud_js)
+    )
     # 将为了避免字符串格式化冲突而写的成对花括号还原为单花括号
-    html = html.replace('{{', '{').replace('}}', '}')
+    html = html.replace("{{", "{").replace("}}", "}")
     return html
 
 
@@ -317,6 +405,15 @@ def main(highlight_slugs=None, priority_slugs=None):
     all_data = load_all_birds(UPLOAD_DIR)
     if not all_data:
         raise SystemExit('未找到任何 *_cloudinary_urls.json')
+
+    resolved_cloud = resolve_gallery_cloud_name()
+    if resolved_cloud:
+        print(f"☁️  画廊 Cloudinary cloud: {resolved_cloud}（来自 VITE_CLOUDINARY_CLOUD_NAME 或 .cloudinary_secrets）")
+    else:
+        print(
+            "⚠️  未配置目标 cloud：请设置环境变量 VITE_CLOUDINARY_CLOUD_NAME，"
+            "或在仓库根目录添加 .cloudinary_secrets（含 CLOUD_NAME=…），否则旧 JSON 中的 dzor6lhz8 链接无法显示"
+        )
 
     existing_order = []
     if OUT_FILE.exists():
@@ -335,7 +432,7 @@ def main(highlight_slugs=None, priority_slugs=None):
     existing_list = [s for s in existing_order if s in all_slugs and s not in priority_set]
     final_order = priority_list + missing + existing_list
 
-    html = build_html(all_data, final_order, highlight_slugs or [])
+    html = build_html(all_data, final_order, highlight_slugs or [], gallery_cloud_override=resolved_cloud)
     OUT_FILE.write_text(html, encoding='utf-8')
     
     if highlight_slugs:

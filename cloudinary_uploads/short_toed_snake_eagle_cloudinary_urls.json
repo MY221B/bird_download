@@ -1,0 +1,229 @@
+{
+  "bird_info": {
+    "slug": "short_toed_snake_eagle",
+    "chinese_name": "短趾雕",
+    "english_name": "Short-toed Snake Eagle",
+    "scientific_name": "Circaetus gallicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "short_toed_snake_eagle_232257081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240923/bird-gallery/short_toed_snake_eagle/macaulay/short_toed_snake_eagle_232257081.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/macaulay/short_toed_snake_eagle_232257081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 45719,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/232257081",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "232257081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_toed_snake_eagle_361893721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240928/bird-gallery/short_toed_snake_eagle/macaulay/short_toed_snake_eagle_361893721.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/macaulay/short_toed_snake_eagle_361893721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 242012,
+      "attribution": {
+        "photographer": "Ana  Mendes do Carmo",
+        "photographer_url": "https://macaulaylibrary.org/asset/361893721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ana  Mendes do Carmo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "361893721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_toed_snake_eagle_361893731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240933/bird-gallery/short_toed_snake_eagle/macaulay/short_toed_snake_eagle_361893731.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/macaulay/short_toed_snake_eagle_361893731",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 264646,
+      "attribution": {
+        "photographer": "Ana  Mendes do Carmo",
+        "photographer_url": "https://macaulaylibrary.org/asset/361893731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ana  Mendes do Carmo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "361893731",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "short_toed_snake_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240938/bird-gallery/short_toed_snake_eagle/inaturalist/short_toed_snake_eagle_1.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/inaturalist/short_toed_snake_eagle_1",
+      "width": 1024,
+      "height": 743,
+      "format": "jpg",
+      "bytes": 67342,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/14774518",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 14774518,
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_toed_snake_eagle_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240939/bird-gallery/short_toed_snake_eagle/inaturalist/short_toed_snake_eagle_2.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/inaturalist/short_toed_snake_eagle_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 15312,
+      "attribution": {
+        "photographer": "tolchkoff",
+        "photographer_url": "https://www.inaturalist.org/observations/215562166",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tolchkoff (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 215562166,
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_toed_snake_eagle_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240940/bird-gallery/short_toed_snake_eagle/inaturalist/short_toed_snake_eagle_3.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/inaturalist/short_toed_snake_eagle_3",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 68790,
+      "attribution": {
+        "photographer": "ivanovdg19",
+        "photographer_url": "https://www.inaturalist.org/observations/29906904",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ivanovdg19 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 29906904,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "short_toed_snake_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240941/bird-gallery/short_toed_snake_eagle/wikimedia/short_toed_snake_eagle_1.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/wikimedia/short_toed_snake_eagle_1",
+      "width": 1280,
+      "height": 914,
+      "format": "jpg",
+      "bytes": 73007,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_32538052657_6f8258f59f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240943/bird-gallery/short_toed_snake_eagle/avibase/avibase_1_32538052657_6f8258f59f_b.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/avibase/avibase_1_32538052657_6f8258f59f_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 45490,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32538052657",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_53716053166_540918bfdd_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240945/bird-gallery/short_toed_snake_eagle/avibase/avibase_2_53716053166_540918bfdd_b.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/avibase/avibase_2_53716053166_540918bfdd_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 35381,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53716053166",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_38800323642_da8f05f415_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240947/bird-gallery/short_toed_snake_eagle/avibase/avibase_3_38800323642_da8f05f415_b.jpg",
+      "public_id": "bird-gallery/short_toed_snake_eagle/avibase/avibase_3_38800323642_da8f05f415_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 74019,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "38800323642",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "short_toed_snake_eagle_203921371.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1774240969/bird-gallery/short_toed_snake_eagle/sounds/short_toed_snake_eagle_203921371.mp3",
+      "public_id": "bird-gallery/short_toed_snake_eagle/sounds/short_toed_snake_eagle_203921371",
+      "duration": 25.752,
+      "format": "mp3",
+      "bytes": 571148,
+      "bit_rate": 177430,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203921371",
+        "asset_url": "https://macaulaylibrary.org/asset/203921371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

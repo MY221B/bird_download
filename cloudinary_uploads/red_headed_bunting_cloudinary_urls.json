@@ -145,65 +145,7 @@
       }
     }
   ],
-  "avibase": [
-    {
-      "original_file": "avibase_1_48750212737_eb2c46b3b5_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240717/bird-gallery/red_headed_bunting/avibase/avibase_1_48750212737_eb2c46b3b5_b.jpg",
-      "public_id": "bird-gallery/red_headed_bunting/avibase/avibase_1_48750212737_eb2c46b3b5_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 163280,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "48750212737",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_30336436566_d59d9e09c6_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240718/bird-gallery/red_headed_bunting/avibase/avibase_2_30336436566_d59d9e09c6_b.jpg",
-      "public_id": "bird-gallery/red_headed_bunting/avibase/avibase_2_30336436566_d59d9e09c6_b",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 77111,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "30336436566",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_50749792338_6d24218e07_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240720/bird-gallery/red_headed_bunting/avibase/avibase_3_50749792338_6d24218e07_b.jpg",
-      "public_id": "bird-gallery/red_headed_bunting/avibase/avibase_3_50749792338_6d24218e07_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 27975,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "50749792338",
-        "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "red_headed_bunting_620103245.mp3",

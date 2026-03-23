@@ -363,15 +363,27 @@ def build_html(
       try {
         const u = new URL(url);
         const parts = u.pathname.split('/').filter(Boolean);
+        /* 缩略图 src 形如 .../upload/c_scale,w_800,.../v123/bird-gallery/... — 须去掉变换段，不能当 public_id */
+        const bg = parts.indexOf('bird-gallery');
+        if (bg >= 0) {
+          const after = parts.slice(bg).join('/');
+          if (!after) return null;
+          const lastDot = after.lastIndexOf('.');
+          return lastDot > 0 ? after.slice(0, lastDot) : after;
+        }
         const uploadIdx = parts.indexOf('upload');
         if (uploadIdx < 0) return null;
         let i = uploadIdx + 1;
-        if (i < parts.length && /^v\\d+$/.test(parts[i])) i++;
+        while (i < parts.length) {
+          const seg = parts[i];
+          if (/^v\\d+$/i.test(seg)) { i++; continue; }
+          if (seg.indexOf(',') !== -1) { i++; continue; }
+          break;
+        }
+        if (i >= parts.length) return null;
         const afterUpload = parts.slice(i).join('/');
-        if (!afterUpload) return null;
         const lastDot = afterUpload.lastIndexOf('.');
-        const withoutExt = lastDot > 0 ? afterUpload.slice(0, lastDot) : afterUpload;
-        return withoutExt;
+        return lastDot > 0 ? afterUpload.slice(0, lastDot) : afterUpload;
       } catch (_) { return null; }
     }
     function attachCheckbox(card) {

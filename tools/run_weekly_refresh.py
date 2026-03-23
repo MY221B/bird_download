@@ -37,6 +37,10 @@ from process_new_birds import (  # type: ignore
     generate_html,
     reorder_new_birds,
 )
+from bird_image_policy import (  # type: ignore
+    bird_dir_has_acceptable_local_images,
+    count_acceptable_images_in_bird_dir,
+)
 from fetch_from_birdreport import fetch_birds_for_payload  # type: ignore
 from auto_sounds_refresh import (  # type: ignore
     download_and_upload_sounds,
@@ -440,16 +444,7 @@ def main():
             new_missing = []
             for slug in remaining_local:
                 bird_path = PROJECT_ROOT / "images" / slug
-                has_images = False
-                if bird_path.exists():
-                    for source_dir in ['macaulay', 'inaturalist', 'wikimedia', 'avibase']:
-                        source_path = bird_path / source_dir
-                        if source_path.exists():
-                            image_files = list(source_path.glob("*.jpg")) + list(source_path.glob("*.jpeg")) + list(source_path.glob("*.png"))
-                            if image_files:
-                                has_images = True
-                                break
-                if not has_images:
+                if not bird_dir_has_acceptable_local_images(bird_path):
                     new_missing.append(slug)
             remaining_local = new_missing
         if remaining_local:
@@ -495,18 +490,10 @@ def main():
         # 3. 如果 Cloudinary JSON 不存在，且本地也没有图片 → 下载失败 → 应该显示在"仍缺本地图片"中
         final_missing_local = []
         for slug in remaining_local:
-            # 检查本地图片
+            # 检查本地图片（仅计 ≥10KB 的合格图）
             bird_path = PROJECT_ROOT / "images" / slug
-            has_images = False
-            if bird_path.exists():
-                for source_dir in ['macaulay', 'inaturalist', 'wikimedia', 'avibase']:
-                    source_path = bird_path / source_dir
-                    if source_path.exists():
-                        image_files = list(source_path.glob("*.jpg")) + list(source_path.glob("*.jpeg")) + list(source_path.glob("*.png"))
-                        if image_files:
-                            has_images = True
-                            break
-            
+            has_images = bird_dir_has_acceptable_local_images(bird_path)
+
             # 只有真正没有本地图片的才显示在"仍缺本地图片"中
             # 如果本地有图片但 Cloudinary JSON 不存在，说明上传失败，会显示在"缺少 cloudinary JSON"中
             if not has_images:
@@ -678,16 +665,8 @@ def main():
         for slug in all_missing_birds:
             bird_path = PROJECT_ROOT / "images" / slug
             if bird_path.exists():
-                # 检查是否有任何图片文件
-                has_images = False
-                total_images = 0
-                for source_dir in ['macaulay', 'inaturalist', 'wikimedia', 'avibase']:
-                    source_path = bird_path / source_dir
-                    if source_path.exists():
-                        image_files = list(source_path.glob("*.jpg")) + list(source_path.glob("*.jpeg")) + list(source_path.glob("*.png"))
-                        total_images += len(image_files)
-                        if image_files:
-                            has_images = True
+                total_images = count_acceptable_images_in_bird_dir(bird_path)
+                has_images = total_images > 0
                 if has_images:
                     birds_with_images.append(slug)
                     bird_info = all_birds_map.get(slug, {})

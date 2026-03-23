@@ -102,49 +102,10 @@
         "source_id": 118494988,
         "note": null
       }
-    },
-    {
-      "original_file": "green_cochoa_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240688/bird-gallery/green_cochoa/inaturalist/green_cochoa_3.jpg",
-      "public_id": "bird-gallery/green_cochoa/inaturalist/green_cochoa_3",
-      "width": 480,
-      "height": 360,
-      "format": "jpg",
-      "bytes": 22514,
-      "attribution": {
-        "photographer": "tomwheatley",
-        "photographer_url": "https://www.inaturalist.org/observations/251351959",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© tomwheatley (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 251351959,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "green_cochoa_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240689/bird-gallery/green_cochoa/wikimedia/green_cochoa_1.jpg",
-      "public_id": "bird-gallery/green_cochoa/wikimedia/green_cochoa_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 8952,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_28273728194_2e699170b3_b.jpg",
@@ -162,25 +123,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "28273728194",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_28273729964_41b3bc2195_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240692/bird-gallery/green_cochoa/avibase/avibase_2_28273729964_41b3bc2195_b.jpg",
-      "public_id": "bird-gallery/green_cochoa/avibase/avibase_2_28273729964_41b3bc2195_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 260389,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "28273729964",
         "note": "署名信息需从Flickr获取"
       }
     },

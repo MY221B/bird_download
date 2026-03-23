@@ -147,25 +147,6 @@
   ],
   "avibase": [
     {
-      "original_file": "avibase_1_51122549289_388c9b5050_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240667/bird-gallery/glaucous_winged_gull/avibase/avibase_1_51122549289_388c9b5050_b.jpg",
-      "public_id": "bird-gallery/glaucous_winged_gull/avibase/avibase_1_51122549289_388c9b5050_b",
-      "width": 1024,
-      "height": 575,
-      "format": "jpg",
-      "bytes": 7436,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51122549289",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
       "original_file": "avibase_2_54817008494_736853dfe4_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240668/bird-gallery/glaucous_winged_gull/avibase/avibase_2_54817008494_736853dfe4_b.jpg",
       "public_id": "bird-gallery/glaucous_winged_gull/avibase/avibase_2_54817008494_736853dfe4_b",
@@ -181,25 +162,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "54817008494",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_53994550418_1b908efcd6_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240669/bird-gallery/glaucous_winged_gull/avibase/avibase_3_53994550418_1b908efcd6_b.jpg",
-      "public_id": "bird-gallery/glaucous_winged_gull/avibase/avibase_3_53994550418_1b908efcd6_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 51212,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53994550418",
         "note": "署名信息需从Flickr获取"
       }
     }

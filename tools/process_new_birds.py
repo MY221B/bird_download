@@ -21,6 +21,12 @@ os.chdir(PROJECT_ROOT)
 
 # 导入工具函数
 sys.path.insert(0, str(PROJECT_ROOT / "tools"))
+from bird_image_policy import (
+    MIN_BIRD_IMAGE_BYTES,
+    bird_dir_has_acceptable_local_images,
+    prune_tiny_images_for_slugs,
+)
+
 try:
     from load_bird_info_from_all_birds_csv import load_all_birds_csv
 except ImportError:
@@ -439,21 +445,18 @@ def download_birds(csv_file, missing_birds):
             downloaded_count = 0
             for slug in missing_birds:
                 bird_path = PROJECT_ROOT / "images" / slug
-                if bird_path.exists():
-                    has_images = False
-                    for source_dir in ['macaulay', 'inaturalist', 'wikimedia', 'avibase']:
-                        source_path = bird_path / source_dir
-                        if source_path.exists():
-                            image_files = list(source_path.glob("*.jpg")) + list(source_path.glob("*.jpeg")) + list(source_path.glob("*.png"))
-                            if image_files:
-                                has_images = True
-                                break
-                    if has_images:
-                        downloaded_count += 1
+                if bird_dir_has_acceptable_local_images(bird_path):
+                    downloaded_count += 1
             if downloaded_count > 0:
                 print(f"ℹ️  发现 {downloaded_count}/{len(missing_birds)} 种鸟类已有本地图片")
             return False
         finally:
+            removed = prune_tiny_images_for_slugs(PROJECT_ROOT / "images", missing_birds)
+            if removed:
+                print(
+                    f"ℹ️  已删除 {removed} 个小于 {MIN_BIRD_IMAGE_BYTES // 1024} KB 的本地图片"
+                    "（视为无效，不保留、不上传）"
+                )
             # 清理临时文件
             if temp_csv.exists():
                 temp_csv.unlink()
@@ -465,17 +468,8 @@ def download_birds(csv_file, missing_birds):
         downloaded_count = 0
         for slug in missing_birds:
             bird_path = PROJECT_ROOT / "images" / slug
-            if bird_path.exists():
-                has_images = False
-                for source_dir in ['macaulay', 'inaturalist', 'wikimedia', 'avibase']:
-                    source_path = bird_path / source_dir
-                    if source_path.exists():
-                        image_files = list(source_path.glob("*.jpg")) + list(source_path.glob("*.jpeg")) + list(source_path.glob("*.png"))
-                        if image_files:
-                            has_images = True
-                            break
-                if has_images:
-                    downloaded_count += 1
+            if bird_dir_has_acceptable_local_images(bird_path):
+                downloaded_count += 1
         if downloaded_count > 0:
             print(f"ℹ️  发现 {downloaded_count}/{len(missing_birds)} 种鸟类已有本地图片，可以继续上传步骤")
         return False

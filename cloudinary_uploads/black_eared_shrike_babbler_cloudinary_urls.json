@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "black_eared_shrike_babbler_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240761/bird-gallery/black_eared_shrike_babbler/inaturalist/black_eared_shrike_babbler_2.jpg",
-      "public_id": "bird-gallery/black_eared_shrike_babbler/inaturalist/black_eared_shrike_babbler_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 37924,
-      "attribution": {
-        "photographer": "jervisy",
-        "photographer_url": "https://www.inaturalist.org/observations/256893134",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© jervisy (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 256893134,
-        "note": null
-      }
-    },
-    {
       "original_file": "black_eared_shrike_babbler_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240763/bird-gallery/black_eared_shrike_babbler/inaturalist/black_eared_shrike_babbler_3.jpg",
       "public_id": "bird-gallery/black_eared_shrike_babbler/inaturalist/black_eared_shrike_babbler_3",
@@ -147,25 +128,6 @@
   ],
   "avibase": [
     {
-      "original_file": "avibase_1_52138086946_e5f6594689_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240765/bird-gallery/black_eared_shrike_babbler/avibase/avibase_1_52138086946_e5f6594689_b.jpg",
-      "public_id": "bird-gallery/black_eared_shrike_babbler/avibase/avibase_1_52138086946_e5f6594689_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 70137,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52138086946",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
       "original_file": "avibase_2_49559955338_d0d5c17b25_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240767/bird-gallery/black_eared_shrike_babbler/avibase/avibase_2_49559955338_d0d5c17b25_b.jpg",
       "public_id": "bird-gallery/black_eared_shrike_babbler/avibase/avibase_2_49559955338_d0d5c17b25_b",
@@ -181,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "49559955338",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_52138086956_3709f0f89d_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240768/bird-gallery/black_eared_shrike_babbler/avibase/avibase_3_52138086956_3709f0f89d_b.jpg",
-      "public_id": "bird-gallery/black_eared_shrike_babbler/avibase/avibase_3_52138086956_3709f0f89d_b",
-      "width": 683,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 71815,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52138086956",
         "note": "署名信息需从Flickr获取"
       }
     }

@@ -147,25 +147,6 @@
   ],
   "avibase": [
     {
-      "original_file": "avibase_1_40914664622_a567b965c2_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240641/bird-gallery/lesser_coucal/avibase/avibase_1_40914664622_a567b965c2_b.jpg",
-      "public_id": "bird-gallery/lesser_coucal/avibase/avibase_1_40914664622_a567b965c2_b",
-      "width": 1024,
-      "height": 664,
-      "format": "jpg",
-      "bytes": 154064,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "40914664622",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
       "original_file": "avibase_2_54759983575_243846cb77_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240643/bird-gallery/lesser_coucal/avibase/avibase_2_54759983575_243846cb77_b.jpg",
       "public_id": "bird-gallery/lesser_coucal/avibase/avibase_2_54759983575_243846cb77_b",
@@ -181,25 +162,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "54759983575",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_44341883271_52d1c4aa0a_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240644/bird-gallery/lesser_coucal/avibase/avibase_3_44341883271_52d1c4aa0a_b.jpg",
-      "public_id": "bird-gallery/lesser_coucal/avibase/avibase_3_44341883271_52d1c4aa0a_b",
-      "width": 1024,
-      "height": 684,
-      "format": "jpg",
-      "bytes": 100768,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "44341883271",
         "note": "署名信息需从Flickr获取"
       }
     }

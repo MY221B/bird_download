@@ -83,44 +83,6 @@
         "source_id": 257111288,
         "note": null
       }
-    },
-    {
-      "original_file": "solitary_snipe_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240889/bird-gallery/solitary_snipe/inaturalist/solitary_snipe_2.jpg",
-      "public_id": "bird-gallery/solitary_snipe/inaturalist/solitary_snipe_2",
-      "width": 1024,
-      "height": 667,
-      "format": "jpg",
-      "bytes": 52639,
-      "attribution": {
-        "photographer": "alcedo77",
-        "photographer_url": "https://www.inaturalist.org/observations/231266432",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© alcedo77 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 231266432,
-        "note": null
-      }
-    },
-    {
-      "original_file": "solitary_snipe_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240890/bird-gallery/solitary_snipe/inaturalist/solitary_snipe_3.jpg",
-      "public_id": "bird-gallery/solitary_snipe/inaturalist/solitary_snipe_3",
-      "width": 1024,
-      "height": 848,
-      "format": "jpg",
-      "bytes": 142508,
-      "attribution": {
-        "photographer": "woobin_byun",
-        "photographer_url": "https://www.inaturalist.org/observations/338200964",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© woobin_byun (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 338200964,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -162,44 +124,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "52900904546",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_53455297429_8a9ebc6ea3_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240895/bird-gallery/solitary_snipe/avibase/avibase_2_53455297429_8a9ebc6ea3_b.jpg",
-      "public_id": "bird-gallery/solitary_snipe/avibase/avibase_2_53455297429_8a9ebc6ea3_b",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 132900,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53455297429",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_53815794918_d9eabdf1f1_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240896/bird-gallery/solitary_snipe/avibase/avibase_3_53815794918_d9eabdf1f1_b.jpg",
-      "public_id": "bird-gallery/solitary_snipe/avibase/avibase_3_53815794918_d9eabdf1f1_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 50295,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53815794918",
         "note": "署名信息需从Flickr获取"
       }
     }

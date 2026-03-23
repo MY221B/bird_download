@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "spectacled_parrotbill_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240615/bird-gallery/spectacled_parrotbill/inaturalist/spectacled_parrotbill_2.jpg",
-      "public_id": "bird-gallery/spectacled_parrotbill/inaturalist/spectacled_parrotbill_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 81429,
-      "attribution": {
-        "photographer": "goose_way",
-        "photographer_url": "https://www.inaturalist.org/observations/177301906",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© goose_way (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 177301906,
-        "note": null
-      }
-    },
-    {
       "original_file": "spectacled_parrotbill_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240617/bird-gallery/spectacled_parrotbill/inaturalist/spectacled_parrotbill_3.jpg",
       "public_id": "bird-gallery/spectacled_parrotbill/inaturalist/spectacled_parrotbill_3",
@@ -124,27 +105,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "spectacled_parrotbill_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240619/bird-gallery/spectacled_parrotbill/wikimedia/spectacled_parrotbill_1.jpg",
-      "public_id": "bird-gallery/spectacled_parrotbill/wikimedia/spectacled_parrotbill_1",
-      "width": 40,
-      "height": 58,
-      "format": "jpg",
-      "bytes": 1345,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [],
   "sounds": [
     {

@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "asian_short_toed_lark_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240536/bird-gallery/asian_short_toed_lark/inaturalist/asian_short_toed_lark_1.jpg",
-      "public_id": "bird-gallery/asian_short_toed_lark/inaturalist/asian_short_toed_lark_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 80509,
-      "attribution": {
-        "photographer": "sasha_nikonova",
-        "photographer_url": "https://www.inaturalist.org/observations/265948019",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© sasha_nikonova (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 265948019,
-        "note": null
-      }
-    },
-    {
       "original_file": "asian_short_toed_lark_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240538/bird-gallery/asian_short_toed_lark/inaturalist/asian_short_toed_lark_2.jpg",
       "public_id": "bird-gallery/asian_short_toed_lark/inaturalist/asian_short_toed_lark_2",
@@ -124,27 +105,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "asian_short_toed_lark_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240540/bird-gallery/asian_short_toed_lark/wikimedia/asian_short_toed_lark_1.jpg",
-      "public_id": "bird-gallery/asian_short_toed_lark/wikimedia/asian_short_toed_lark_1",
-      "width": 40,
-      "height": 30,
-      "format": "jpg",
-      "bytes": 840,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_54692670333_72e34e0a85_b.jpg",
@@ -181,25 +142,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "54691631022",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_54692782120_c5ff45e85b_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774240544/bird-gallery/asian_short_toed_lark/avibase/avibase_3_54692782120_c5ff45e85b_b.jpg",
-      "public_id": "bird-gallery/asian_short_toed_lark/avibase/avibase_3_54692782120_c5ff45e85b_b",
-      "width": 1023,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 169053,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54692782120",
         "note": "署名信息需从Flickr获取"
       }
     }

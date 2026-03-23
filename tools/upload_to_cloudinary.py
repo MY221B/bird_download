@@ -11,6 +11,7 @@ import cloudinary
 import cloudinary.uploader
 from pathlib import Path
 
+from bird_image_policy import MIN_BIRD_IMAGE_BYTES, iter_image_files, list_acceptable_images_in_source
 from cloudinary_credentials import ensure_cloudinary_config
 
 try:
@@ -84,8 +85,12 @@ def upload_bird_images(bird_name, base_path, bird_info=None):
         print(f"\n📁 处理来源: {source}")
         print("-" * 60)
         
-        # 获取所有图片文件
-        image_files = list(source_path.glob("*.jpg")) + list(source_path.glob("*.jpeg")) + list(source_path.glob("*.png"))
+        # 获取所有图片文件（跳过过小文件，与 weekly refresh 策略一致）
+        raw_files = sorted(p for p in iter_image_files(source_path) if p.is_file())
+        image_files = list_acceptable_images_in_source(source_path)
+        tiny = len(raw_files) - len(image_files)
+        if tiny:
+            print(f"  ⏭️  跳过 {tiny} 个小于 {MIN_BIRD_IMAGE_BYTES // 1024} KB 的文件（不上传）")
         print(f"  待上传文件数: {len(image_files)}")
         
         if not image_files:

@@ -1111,6 +1111,20 @@
       "point_aliases": []
     },
     {
+      "id": "changsha_yuelushan",
+      "name": "岳麓山",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "point_aliases": [
+        "岳麓山",
+        "岳麓山风景名胜区"
+      ]
+    },
+    {
       "id": "lanzhou_shi",
       "name": "兰州市",
       "province": "甘肃省",

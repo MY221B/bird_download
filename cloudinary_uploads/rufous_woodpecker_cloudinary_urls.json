@@ -6,65 +6,7 @@
     "scientific_name": "Micropternus brachyurus"
   },
   "macaulay": [],
-  "inaturalist": [
-    {
-      "original_file": "rufous_woodpecker_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133521/bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_1.jpg",
-      "public_id": "bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_1",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 120144,
-      "attribution": {
-        "photographer": "stalinsm",
-        "photographer_url": "https://www.inaturalist.org/observations/150914826",
-        "license": "cc-by-nc-nd",
-        "license_url": null,
-        "credit_format": "© stalinsm (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
-        "source": "inaturalist",
-        "source_id": 150914826,
-        "note": null
-      }
-    },
-    {
-      "original_file": "rufous_woodpecker_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133523/bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_2.jpg",
-      "public_id": "bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_2",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 123917,
-      "attribution": {
-        "photographer": "elijah_goh",
-        "photographer_url": "https://www.inaturalist.org/observations/74495843",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© elijah_goh (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 74495843,
-        "note": null
-      }
-    },
-    {
-      "original_file": "rufous_woodpecker_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133524/bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_3.jpg",
-      "public_id": "bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_3",
-      "width": 957,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 181873,
-      "attribution": {
-        "photographer": "alexisgreenwood",
-        "photographer_url": "https://www.inaturalist.org/observations/329326380",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© alexisgreenwood (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 329326380,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [],
   "avibase": [

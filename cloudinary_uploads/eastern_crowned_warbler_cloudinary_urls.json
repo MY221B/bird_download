@@ -69,25 +69,6 @@
   "wikimedia": [],
   "avibase": [
     {
-      "original_file": "avibase_1_49607904431_fa3053a628_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133498/bird-gallery/eastern_crowned_warbler/avibase/avibase_1_49607904431_fa3053a628_b.jpg",
-      "public_id": "bird-gallery/eastern_crowned_warbler/avibase/avibase_1_49607904431_fa3053a628_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 85695,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "49607904431",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
       "original_file": "avibase_2_29546655493_4b7bd8a10f_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133500/bird-gallery/eastern_crowned_warbler/avibase/avibase_2_29546655493_4b7bd8a10f_b.jpg",
       "public_id": "bird-gallery/eastern_crowned_warbler/avibase/avibase_2_29546655493_4b7bd8a10f_b",
@@ -103,25 +84,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "29546655493",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_21461418444_b2d9f94e24_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133501/bird-gallery/eastern_crowned_warbler/avibase/avibase_3_21461418444_b2d9f94e24_b.jpg",
-      "public_id": "bird-gallery/eastern_crowned_warbler/avibase/avibase_3_21461418444_b2d9f94e24_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 103158,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "21461418444",
         "note": "署名信息需从Flickr获取"
       }
     }

@@ -86,44 +86,6 @@
         "source_id": "54779662044",
         "note": "署名信息需从Flickr获取"
       }
-    },
-    {
-      "original_file": "avibase_2_26402537916_d86df3528b_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133640/bird-gallery/steppe_eagle/avibase/avibase_2_26402537916_d86df3528b_b.jpg",
-      "public_id": "bird-gallery/steppe_eagle/avibase/avibase_2_26402537916_d86df3528b_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 7635,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "26402537916",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_54860163761_289afaa2e1_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133641/bird-gallery/steppe_eagle/avibase/avibase_3_54860163761_289afaa2e1_b.jpg",
-      "public_id": "bird-gallery/steppe_eagle/avibase/avibase_3_54860163761_289afaa2e1_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 132822,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54860163761",
-        "note": "署名信息需从Flickr获取"
-      }
     }
   ]
 }

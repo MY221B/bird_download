@@ -8,25 +8,6 @@
   "macaulay": [],
   "inaturalist": [
     {
-      "original_file": "swinhoes_minivet_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133542/bird-gallery/swinhoes_minivet/inaturalist/swinhoes_minivet_1.jpg",
-      "public_id": "bird-gallery/swinhoes_minivet/inaturalist/swinhoes_minivet_1",
-      "width": 1024,
-      "height": 745,
-      "format": "jpg",
-      "bytes": 67913,
-      "attribution": {
-        "photographer": "flycatcherwarblerthrush",
-        "photographer_url": "https://www.inaturalist.org/observations/85891394",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© flycatcherwarblerthrush (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 85891394,
-        "note": null
-      }
-    },
-    {
       "original_file": "swinhoes_minivet_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133543/bird-gallery/swinhoes_minivet/inaturalist/swinhoes_minivet_2.jpg",
       "public_id": "bird-gallery/swinhoes_minivet/inaturalist/swinhoes_minivet_2",
@@ -103,25 +84,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "52262920374",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_8648695408_34825fc8dc_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133548/bird-gallery/swinhoes_minivet/avibase/avibase_3_8648695408_34825fc8dc_b.jpg",
-      "public_id": "bird-gallery/swinhoes_minivet/avibase/avibase_3_8648695408_34825fc8dc_b",
-      "width": 680,
-      "height": 800,
-      "format": "jpg",
-      "bytes": 112052,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "8648695408",
         "note": "署名信息需从Flickr获取"
       }
     }

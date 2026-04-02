@@ -25,44 +25,6 @@
         "source_id": 68566614,
         "note": null
       }
-    },
-    {
-      "original_file": "sanderling_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133562/bird-gallery/sanderling/inaturalist/sanderling_2.jpg",
-      "public_id": "bird-gallery/sanderling/inaturalist/sanderling_2",
-      "width": 1024,
-      "height": 720,
-      "format": "jpg",
-      "bytes": 75063,
-      "attribution": {
-        "photographer": "nancynorman",
-        "photographer_url": "https://www.inaturalist.org/observations/100739579",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© nancynorman (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 100739579,
-        "note": null
-      }
-    },
-    {
-      "original_file": "sanderling_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133564/bird-gallery/sanderling/inaturalist/sanderling_3.jpg",
-      "public_id": "bird-gallery/sanderling/inaturalist/sanderling_3",
-      "width": 1024,
-      "height": 718,
-      "format": "jpg",
-      "bytes": 108680,
-      "attribution": {
-        "photographer": "emmap_art",
-        "photographer_url": "https://www.inaturalist.org/observations/241091402",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© emmap_art (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 241091402,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],

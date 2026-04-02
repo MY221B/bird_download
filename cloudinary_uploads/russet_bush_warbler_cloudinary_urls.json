@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "russet_bush_warbler",
+    "chinese_name": "高山短翅蝗莺",
+    "english_name": "Russet Bush Warbler",
+    "scientific_name": "Locustella mandelli"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "russet_bush_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133484/bird-gallery/russet_bush_warbler/inaturalist/russet_bush_warbler_1.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/inaturalist/russet_bush_warbler_1",
+      "width": 1024,
+      "height": 641,
+      "format": "jpg",
+      "bytes": 108093,
+      "attribution": {
+        "photographer": "christoph_moning",
+        "photographer_url": "https://www.inaturalist.org/observations/65693441",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christoph_moning (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 65693441,
+        "note": null
+      }
+    },
+    {
+      "original_file": "russet_bush_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133485/bird-gallery/russet_bush_warbler/inaturalist/russet_bush_warbler_2.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/inaturalist/russet_bush_warbler_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 76938,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/156746191",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 156746191,
+        "note": null
+      }
+    },
+    {
+      "original_file": "russet_bush_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133487/bird-gallery/russet_bush_warbler/inaturalist/russet_bush_warbler_3.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/inaturalist/russet_bush_warbler_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 39219,
+      "attribution": {
+        "photographer": "enoch14",
+        "photographer_url": "https://www.inaturalist.org/observations/162424820",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© enoch14 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 162424820,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_29030176970_1da3281cd1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133488/bird-gallery/russet_bush_warbler/avibase/avibase_1_29030176970_1da3281cd1_b.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/avibase/avibase_1_29030176970_1da3281cd1_b",
+      "width": 1023,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 124802,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "29030176970",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54927910264_7d81e759c6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133490/bird-gallery/russet_bush_warbler/avibase/avibase_2_54927910264_7d81e759c6_b.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/avibase/avibase_2_54927910264_7d81e759c6_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 213964,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54927910264",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_8364028780_5b47e80b59_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133491/bird-gallery/russet_bush_warbler/avibase/avibase_3_8364028780_5b47e80b59_b.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/avibase/avibase_3_8364028780_5b47e80b59_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 130318,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8364028780",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_redstart",
+    "chinese_name": "赭红尾鸲",
+    "english_name": "Black Redstart",
+    "scientific_name": "Phoenicurus ochruros"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_redstart_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133613/bird-gallery/black_redstart/inaturalist/black_redstart_1.jpg",
+      "public_id": "bird-gallery/black_redstart/inaturalist/black_redstart_1",
+      "width": 1024,
+      "height": 991,
+      "format": "jpg",
+      "bytes": 81011,
+      "attribution": {
+        "photographer": "karakaxa",
+        "photographer_url": "https://www.inaturalist.org/observations/104811044",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© karakaxa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 104811044,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_redstart_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133615/bird-gallery/black_redstart/inaturalist/black_redstart_2.jpg",
+      "public_id": "bird-gallery/black_redstart/inaturalist/black_redstart_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 65289,
+      "attribution": {
+        "photographer": "pdubois",
+        "photographer_url": "https://www.inaturalist.org/observations/22383529",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pdubois (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 22383529,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_redstart_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133617/bird-gallery/black_redstart/inaturalist/black_redstart_3.jpg",
+      "public_id": "bird-gallery/black_redstart/inaturalist/black_redstart_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 108850,
+      "attribution": {
+        "photographer": "llourenco92",
+        "photographer_url": "https://www.inaturalist.org/observations/69149790",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© llourenco92 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 69149790,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52841951638_50292aa47f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133620/bird-gallery/black_redstart/avibase/avibase_1_52841951638_50292aa47f_b.jpg",
+      "public_id": "bird-gallery/black_redstart/avibase/avibase_1_52841951638_50292aa47f_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 98959,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52841951638",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_53901945761_14902baa80_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133621/bird-gallery/black_redstart/avibase/avibase_2_53901945761_14902baa80_b.jpg",
+      "public_id": "bird-gallery/black_redstart/avibase/avibase_2_53901945761_14902baa80_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 16218,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53901945761",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53651840114_0a0b4e3149_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133622/bird-gallery/black_redstart/avibase/avibase_3_53651840114_0a0b4e3149_b.jpg",
+      "public_id": "bird-gallery/black_redstart/avibase/avibase_3_53651840114_0a0b4e3149_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 29963,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53651840114",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

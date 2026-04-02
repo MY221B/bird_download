@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "narcissus_flycatcher",
+    "chinese_name": "黄眉姬鹟",
+    "english_name": "Narcissus Flycatcher",
+    "scientific_name": "Ficedula narcissina"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "narcissus_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133532/bird-gallery/narcissus_flycatcher/inaturalist/narcissus_flycatcher_1.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/inaturalist/narcissus_flycatcher_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 61413,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/83422402",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 83422402,
+        "note": null
+      }
+    },
+    {
+      "original_file": "narcissus_flycatcher_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133534/bird-gallery/narcissus_flycatcher/inaturalist/narcissus_flycatcher_2.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/inaturalist/narcissus_flycatcher_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 62250,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/74689804",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 74689804,
+        "note": null
+      }
+    },
+    {
+      "original_file": "narcissus_flycatcher_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133536/bird-gallery/narcissus_flycatcher/inaturalist/narcissus_flycatcher_3.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/inaturalist/narcissus_flycatcher_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61075,
+      "attribution": {
+        "photographer": "alicia_ma",
+        "photographer_url": "https://www.inaturalist.org/observations/40183243",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© alicia_ma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 40183243,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_48516507991_28354ee669_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133537/bird-gallery/narcissus_flycatcher/avibase/avibase_1_48516507991_28354ee669_b.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/avibase/avibase_1_48516507991_28354ee669_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 84223,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48516507991",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54602222226_f5e8c62a73_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133538/bird-gallery/narcissus_flycatcher/avibase/avibase_2_54602222226_f5e8c62a73_b.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/avibase/avibase_2_54602222226_f5e8c62a73_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89940,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54602222226",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54601375002_b05d333933_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133539/bird-gallery/narcissus_flycatcher/avibase/avibase_3_54601375002_b05d333933_b.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/avibase/avibase_3_54601375002_b05d333933_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 57634,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54601375002",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

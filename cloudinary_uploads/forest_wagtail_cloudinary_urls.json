@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "forest_wagtail",
+    "chinese_name": "山鹡鸰",
+    "english_name": "Forest Wagtail",
+    "scientific_name": "Dendronanthus indicus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "forest_wagtail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133654/bird-gallery/forest_wagtail/inaturalist/forest_wagtail_1.jpg",
+      "public_id": "bird-gallery/forest_wagtail/inaturalist/forest_wagtail_1",
+      "width": 343,
+      "height": 343,
+      "format": "jpg",
+      "bytes": 17710,
+      "attribution": {
+        "photographer": "amuro33",
+        "photographer_url": "https://www.inaturalist.org/observations/283845500",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© amuro33 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 283845500,
+        "note": null
+      }
+    },
+    {
+      "original_file": "forest_wagtail_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133656/bird-gallery/forest_wagtail/inaturalist/forest_wagtail_2.jpg",
+      "public_id": "bird-gallery/forest_wagtail/inaturalist/forest_wagtail_2",
+      "width": 1024,
+      "height": 746,
+      "format": "jpg",
+      "bytes": 86204,
+      "attribution": {
+        "photographer": "g_kolotin",
+        "photographer_url": "https://www.inaturalist.org/observations/235967120",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© g_kolotin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 235967120,
+        "note": null
+      }
+    },
+    {
+      "original_file": "forest_wagtail_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133657/bird-gallery/forest_wagtail/inaturalist/forest_wagtail_3.jpg",
+      "public_id": "bird-gallery/forest_wagtail/inaturalist/forest_wagtail_3",
+      "width": 1024,
+      "height": 713,
+      "format": "jpg",
+      "bytes": 36265,
+      "attribution": {
+        "photographer": "lucaboscain",
+        "photographer_url": "https://www.inaturalist.org/observations/268362802",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lucaboscain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 268362802,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_4229179477_85926d8cd8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133658/bird-gallery/forest_wagtail/avibase/avibase_1_4229179477_85926d8cd8_b.jpg",
+      "public_id": "bird-gallery/forest_wagtail/avibase/avibase_1_4229179477_85926d8cd8_b",
+      "width": 742,
+      "height": 494,
+      "format": "jpg",
+      "bytes": 42642,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4229179477",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_53528526286_2481a5b475_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133659/bird-gallery/forest_wagtail/avibase/avibase_2_53528526286_2481a5b475_b.jpg",
+      "public_id": "bird-gallery/forest_wagtail/avibase/avibase_2_53528526286_2481a5b475_b",
+      "width": 823,
+      "height": 549,
+      "format": "jpg",
+      "bytes": 120614,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53528526286",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_50293708952_967b9c04bc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133661/bird-gallery/forest_wagtail/avibase/avibase_3_50293708952_967b9c04bc_b.jpg",
+      "public_id": "bird-gallery/forest_wagtail/avibase/avibase_3_50293708952_967b9c04bc_b",
+      "width": 700,
+      "height": 467,
+      "format": "jpg",
+      "bytes": 86750,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50293708952",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

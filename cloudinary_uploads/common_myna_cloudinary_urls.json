@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "common_myna",
+    "chinese_name": "家八哥",
+    "english_name": "Common Myna",
+    "scientific_name": "Acridotheres tristis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_myna_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133593/bird-gallery/common_myna/inaturalist/common_myna_1.jpg",
+      "public_id": "bird-gallery/common_myna/inaturalist/common_myna_1",
+      "width": 1024,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 58091,
+      "attribution": {
+        "photographer": "humu797",
+        "photographer_url": "https://www.inaturalist.org/observations/24641522",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© humu797 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 24641522,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_myna_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133595/bird-gallery/common_myna/inaturalist/common_myna_2.jpg",
+      "public_id": "bird-gallery/common_myna/inaturalist/common_myna_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 105362,
+      "attribution": {
+        "photographer": "beavisnail",
+        "photographer_url": "https://www.inaturalist.org/observations/45609929",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© beavisnail (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 45609929,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_myna_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133596/bird-gallery/common_myna/inaturalist/common_myna_3.jpg",
+      "public_id": "bird-gallery/common_myna/inaturalist/common_myna_3",
+      "width": 886,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 34482,
+      "attribution": {
+        "photographer": "kbbutler",
+        "photographer_url": "https://www.inaturalist.org/observations/197400184",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kbbutler (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197400184,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_55070044048_750d6213c7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133597/bird-gallery/common_myna/avibase/avibase_1_55070044048_750d6213c7_b.jpg",
+      "public_id": "bird-gallery/common_myna/avibase/avibase_1_55070044048_750d6213c7_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57769,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "55070044048",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_48370699502_18ba31bf50_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133599/bird-gallery/common_myna/avibase/avibase_2_48370699502_18ba31bf50_b.jpg",
+      "public_id": "bird-gallery/common_myna/avibase/avibase_2_48370699502_18ba31bf50_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 119564,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48370699502",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52585253146_47d41c16ff_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133600/bird-gallery/common_myna/avibase/avibase_3_52585253146_47d41c16ff_b.jpg",
+      "public_id": "bird-gallery/common_myna/avibase/avibase_3_52585253146_47d41c16ff_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 76431,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52585253146",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "blue_and_white_flycatcher",
+    "chinese_name": "白腹蓝鹟",
+    "english_name": "Blue-and-white Flycatcher",
+    "scientific_name": "Cyanoptila cyanomelana"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "blue_and_white_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133583/bird-gallery/blue_and_white_flycatcher/inaturalist/blue_and_white_flycatcher_1.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/inaturalist/blue_and_white_flycatcher_1",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 124092,
+      "attribution": {
+        "photographer": "birdchuvashia",
+        "photographer_url": "https://www.inaturalist.org/observations/36326777",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© birdchuvashia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36326777,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_and_white_flycatcher_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133584/bird-gallery/blue_and_white_flycatcher/inaturalist/blue_and_white_flycatcher_2.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/inaturalist/blue_and_white_flycatcher_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 55207,
+      "attribution": {
+        "photographer": "noammarkus",
+        "photographer_url": "https://www.inaturalist.org/observations/103444301",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© noammarkus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103444301,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_and_white_flycatcher_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133586/bird-gallery/blue_and_white_flycatcher/inaturalist/blue_and_white_flycatcher_3.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/inaturalist/blue_and_white_flycatcher_3",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 51853,
+      "attribution": {
+        "photographer": "toopique",
+        "photographer_url": "https://www.inaturalist.org/observations/245290217",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© toopique (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 245290217,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_23257613172_6637ac6639_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133587/bird-gallery/blue_and_white_flycatcher/avibase/avibase_1_23257613172_6637ac6639_b.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/avibase/avibase_1_23257613172_6637ac6639_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 99412,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "23257613172",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_23283415451_62da382884_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133589/bird-gallery/blue_and_white_flycatcher/avibase/avibase_2_23283415451_62da382884_b.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/avibase/avibase_2_23283415451_62da382884_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49138,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "23283415451",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_42567714982_618344ae54_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133590/bird-gallery/blue_and_white_flycatcher/avibase/avibase_3_42567714982_618344ae54_b.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/avibase/avibase_3_42567714982_618344ae54_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 101553,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "42567714982",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

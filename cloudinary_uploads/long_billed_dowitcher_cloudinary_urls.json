@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "long_billed_dowitcher",
+    "chinese_name": "长嘴半蹼鹬",
+    "english_name": "Long-billed Dowitcher",
+    "scientific_name": "Limnodromus scolopaceus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "long_billed_dowitcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133511/bird-gallery/long_billed_dowitcher/inaturalist/long_billed_dowitcher_1.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/inaturalist/long_billed_dowitcher_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76973,
+      "attribution": {
+        "photographer": "jartigas",
+        "photographer_url": "https://www.inaturalist.org/observations/67632443",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jartigas (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 67632443,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_billed_dowitcher_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133513/bird-gallery/long_billed_dowitcher/inaturalist/long_billed_dowitcher_2.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/inaturalist/long_billed_dowitcher_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 79501,
+      "attribution": {
+        "photographer": "blairdudeck",
+        "photographer_url": "https://www.inaturalist.org/observations/46051187",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© blairdudeck (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 46051187,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_billed_dowitcher_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133514/bird-gallery/long_billed_dowitcher/inaturalist/long_billed_dowitcher_3.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/inaturalist/long_billed_dowitcher_3",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 131771,
+      "attribution": {
+        "photographer": "m-randall",
+        "photographer_url": "https://www.inaturalist.org/observations/127908582",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© m-randall (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 127908582,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50720187162_02e3db52d1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133515/bird-gallery/long_billed_dowitcher/avibase/avibase_1_50720187162_02e3db52d1_b.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/avibase/avibase_1_50720187162_02e3db52d1_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 103377,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50720187162",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_24788047965_7039b7473d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133516/bird-gallery/long_billed_dowitcher/avibase/avibase_2_24788047965_7039b7473d_b.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/avibase/avibase_2_24788047965_7039b7473d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 118608,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "24788047965",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_55079029062_0124f37cf2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133518/bird-gallery/long_billed_dowitcher/avibase/avibase_3_55079029062_0124f37cf2_b.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/avibase/avibase_3_55079029062_0124f37cf2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 106667,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "55079029062",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

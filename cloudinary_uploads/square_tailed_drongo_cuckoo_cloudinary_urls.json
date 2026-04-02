@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "square_tailed_drongo_cuckoo",
+    "chinese_name": "乌鹃",
+    "english_name": "Square-tailed Drongo-cuckoo",
+    "scientific_name": "Surniculus lugubris"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "square_tailed_drongo_cuckoo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133473/bird-gallery/square_tailed_drongo_cuckoo/inaturalist/square_tailed_drongo_cuckoo_1.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/inaturalist/square_tailed_drongo_cuckoo_1",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 62291,
+      "attribution": {
+        "photographer": "afzalhossainkhan",
+        "photographer_url": "https://www.inaturalist.org/observations/100173046",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© afzalhossainkhan (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100173046,
+        "note": null
+      }
+    },
+    {
+      "original_file": "square_tailed_drongo_cuckoo_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133474/bird-gallery/square_tailed_drongo_cuckoo/inaturalist/square_tailed_drongo_cuckoo_2.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/inaturalist/square_tailed_drongo_cuckoo_2",
+      "width": 615,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 59417,
+      "attribution": {
+        "photographer": "kelvinche",
+        "photographer_url": "https://www.inaturalist.org/observations/27844507",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kelvinche (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 27844507,
+        "note": null
+      }
+    },
+    {
+      "original_file": "square_tailed_drongo_cuckoo_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133476/bird-gallery/square_tailed_drongo_cuckoo/inaturalist/square_tailed_drongo_cuckoo_3.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/inaturalist/square_tailed_drongo_cuckoo_3",
+      "width": 688,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 50304,
+      "attribution": {
+        "photographer": "umavaijnath",
+        "photographer_url": "https://www.inaturalist.org/observations/185918666",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© umavaijnath (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 185918666,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_15824153049_fe34ebc6d0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133478/bird-gallery/square_tailed_drongo_cuckoo/avibase/avibase_1_15824153049_fe34ebc6d0_b.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/avibase/avibase_1_15824153049_fe34ebc6d0_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 93569,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15824153049",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_15899285788_c3285478ce_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133479/bird-gallery/square_tailed_drongo_cuckoo/avibase/avibase_2_15899285788_c3285478ce_b.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/avibase/avibase_2_15899285788_c3285478ce_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59338,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15899285788",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54489078991_b7a3aa379a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133481/bird-gallery/square_tailed_drongo_cuckoo/avibase/avibase_3_54489078991_b7a3aa379a_b.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/avibase/avibase_3_54489078991_b7a3aa379a_b",
+      "width": 1023,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 124883,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54489078991",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

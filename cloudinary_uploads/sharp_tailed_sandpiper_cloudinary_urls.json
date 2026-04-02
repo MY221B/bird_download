@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "sharp_tailed_sandpiper",
+    "chinese_name": "尖尾滨鹬",
+    "english_name": "Sharp-tailed Sandpiper",
+    "scientific_name": "Calidris acuminata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "sharp_tailed_sandpiper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133574/bird-gallery/sharp_tailed_sandpiper/inaturalist/sharp_tailed_sandpiper_1.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/inaturalist/sharp_tailed_sandpiper_1",
+      "width": 1024,
+      "height": 624,
+      "format": "jpg",
+      "bytes": 66334,
+      "attribution": {
+        "photographer": "benackerley",
+        "photographer_url": "https://www.inaturalist.org/observations/270040717",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© benackerley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 270040717,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharp_tailed_sandpiper_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133575/bird-gallery/sharp_tailed_sandpiper/inaturalist/sharp_tailed_sandpiper_2.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/inaturalist/sharp_tailed_sandpiper_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50382,
+      "attribution": {
+        "photographer": "samuelamaris",
+        "photographer_url": "https://www.inaturalist.org/observations/250184552",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© samuelamaris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 250184552,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharp_tailed_sandpiper_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133576/bird-gallery/sharp_tailed_sandpiper/inaturalist/sharp_tailed_sandpiper_3.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/inaturalist/sharp_tailed_sandpiper_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 120973,
+      "attribution": {
+        "photographer": "mbdbirds",
+        "photographer_url": "https://www.inaturalist.org/observations/68200280",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mbdbirds (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 68200280,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_31720550117_d198440a2b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133577/bird-gallery/sharp_tailed_sandpiper/avibase/avibase_1_31720550117_d198440a2b_b.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/avibase/avibase_1_31720550117_d198440a2b_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76408,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "31720550117",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49277085943_25e9090cff_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133578/bird-gallery/sharp_tailed_sandpiper/avibase/avibase_2_49277085943_25e9090cff_b.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/avibase/avibase_2_49277085943_25e9090cff_b",
+      "width": 1024,
+      "height": 527,
+      "format": "jpg",
+      "bytes": 103707,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49277085943",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_48128312743_4d4fcc8105_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133580/bird-gallery/sharp_tailed_sandpiper/avibase/avibase_3_48128312743_4d4fcc8105_b.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/avibase/avibase_3_48128312743_4d4fcc8105_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63897,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48128312743",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

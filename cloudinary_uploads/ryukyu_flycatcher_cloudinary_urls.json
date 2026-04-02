@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "ryukyu_flycatcher",
+    "chinese_name": "琉球姬鹟",
+    "english_name": "Ryukyu Flycatcher",
+    "scientific_name": "Ficedula owstoni"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "ryukyu_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133504/bird-gallery/ryukyu_flycatcher/inaturalist/ryukyu_flycatcher_1.jpg",
+      "public_id": "bird-gallery/ryukyu_flycatcher/inaturalist/ryukyu_flycatcher_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61075,
+      "attribution": {
+        "photographer": "alicia_ma",
+        "photographer_url": "https://www.inaturalist.org/observations/40183243",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© alicia_ma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 40183243,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ryukyu_flycatcher_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133506/bird-gallery/ryukyu_flycatcher/inaturalist/ryukyu_flycatcher_2.jpg",
+      "public_id": "bird-gallery/ryukyu_flycatcher/inaturalist/ryukyu_flycatcher_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 138970,
+      "attribution": {
+        "photographer": "lbaobao2008hf",
+        "photographer_url": "https://www.inaturalist.org/observations/268744937",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lbaobao2008hf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 268744937,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ryukyu_flycatcher_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133507/bird-gallery/ryukyu_flycatcher/inaturalist/ryukyu_flycatcher_3.jpg",
+      "public_id": "bird-gallery/ryukyu_flycatcher/inaturalist/ryukyu_flycatcher_3",
+      "width": 576,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 55640,
+      "attribution": {
+        "photographer": "sffung",
+        "photographer_url": "https://www.inaturalist.org/observations/26435593",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© sffung (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 26435593,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_4925905455_df72dd3285_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133508/bird-gallery/ryukyu_flycatcher/avibase/avibase_1_4925905455_df72dd3285_b.jpg",
+      "public_id": "bird-gallery/ryukyu_flycatcher/avibase/avibase_1_4925905455_df72dd3285_b",
+      "width": 800,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 37199,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4925905455",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

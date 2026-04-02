@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "fire_capped_tit",
+    "chinese_name": "火冠雀",
+    "english_name": "Fire-capped Tit",
+    "scientific_name": "Cephalopyrus flammiceps"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "fire_capped_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133644/bird-gallery/fire_capped_tit/inaturalist/fire_capped_tit_1.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/inaturalist/fire_capped_tit_1",
+      "width": 932,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 39650,
+      "attribution": {
+        "photographer": "samishwild",
+        "photographer_url": "https://www.inaturalist.org/observations/336359644",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© samishwild (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 336359644,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fire_capped_tit_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133646/bird-gallery/fire_capped_tit/inaturalist/fire_capped_tit_2.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/inaturalist/fire_capped_tit_2",
+      "width": 1024,
+      "height": 951,
+      "format": "jpg",
+      "bytes": 60244,
+      "attribution": {
+        "photographer": "amaltasnaturewalks",
+        "photographer_url": "https://www.inaturalist.org/observations/56009466",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© amaltasnaturewalks (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 56009466,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fire_capped_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133647/bird-gallery/fire_capped_tit/inaturalist/fire_capped_tit_3.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/inaturalist/fire_capped_tit_3",
+      "width": 1024,
+      "height": 673,
+      "format": "jpg",
+      "bytes": 30924,
+      "attribution": {
+        "photographer": "nirajmanichourasia",
+        "photographer_url": "https://www.inaturalist.org/observations/43364524",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nirajmanichourasia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 43364524,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_7215202856_4638475a72_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133648/bird-gallery/fire_capped_tit/avibase/avibase_1_7215202856_4638475a72_b.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/avibase/avibase_1_7215202856_4638475a72_b",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 92352,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "7215202856",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54419195702_4367f90f7a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133649/bird-gallery/fire_capped_tit/avibase/avibase_2_54419195702_4367f90f7a_b.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/avibase/avibase_2_54419195702_4367f90f7a_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 62228,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54419195702",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54420245514_4ff6e332a1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133651/bird-gallery/fire_capped_tit/avibase/avibase_3_54420245514_4ff6e332a1_b.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/avibase/avibase_3_54420245514_4ff6e332a1_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 74497,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54420245514",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

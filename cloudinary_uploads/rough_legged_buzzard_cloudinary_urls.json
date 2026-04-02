@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "rough_legged_buzzard",
+    "chinese_name": "毛脚鵟",
+    "english_name": "Rough-legged Buzzard",
+    "scientific_name": "Buteo lagopus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "rough_legged_buzzard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133551/bird-gallery/rough_legged_buzzard/inaturalist/rough_legged_buzzard_1.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/inaturalist/rough_legged_buzzard_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 156630,
+      "attribution": {
+        "photographer": "matroskin24",
+        "photographer_url": "https://www.inaturalist.org/observations/18549891",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© matroskin24 (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 18549891,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rough_legged_buzzard_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133552/bird-gallery/rough_legged_buzzard/inaturalist/rough_legged_buzzard_2.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/inaturalist/rough_legged_buzzard_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 37070,
+      "attribution": {
+        "photographer": "brianstahls",
+        "photographer_url": "https://www.inaturalist.org/observations/331130605",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© brianstahls (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 331130605,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rough_legged_buzzard_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133553/bird-gallery/rough_legged_buzzard/inaturalist/rough_legged_buzzard_3.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/inaturalist/rough_legged_buzzard_3",
+      "width": 667,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 71827,
+      "attribution": {
+        "photographer": "troydeclan",
+        "photographer_url": "https://www.inaturalist.org/observations/7948910",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© troydeclan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 7948910,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54149782576_92909e3d12_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133554/bird-gallery/rough_legged_buzzard/avibase/avibase_1_54149782576_92909e3d12_b.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/avibase/avibase_1_54149782576_92909e3d12_b",
+      "width": 1024,
+      "height": 698,
+      "format": "jpg",
+      "bytes": 39253,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54149782576",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_50787745222_994eeda15d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133556/bird-gallery/rough_legged_buzzard/avibase/avibase_2_50787745222_994eeda15d_b.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/avibase/avibase_2_50787745222_994eeda15d_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 127688,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50787745222",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_50573164341_d7173a4b33_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133557/bird-gallery/rough_legged_buzzard/avibase/avibase_3_50573164341_d7173a4b33_b.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/avibase/avibase_3_50573164341_d7173a4b33_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 44643,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50573164341",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

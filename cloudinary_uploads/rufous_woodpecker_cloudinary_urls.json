@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "rufous_woodpecker",
+    "chinese_name": "栗啄木鸟",
+    "english_name": "Rufous Woodpecker",
+    "scientific_name": "Micropternus brachyurus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "rufous_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133521/bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_1.jpg",
+      "public_id": "bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 120144,
+      "attribution": {
+        "photographer": "stalinsm",
+        "photographer_url": "https://www.inaturalist.org/observations/150914826",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© stalinsm (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 150914826,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133523/bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_2.jpg",
+      "public_id": "bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 123917,
+      "attribution": {
+        "photographer": "elijah_goh",
+        "photographer_url": "https://www.inaturalist.org/observations/74495843",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© elijah_goh (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 74495843,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133524/bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_3.jpg",
+      "public_id": "bird-gallery/rufous_woodpecker/inaturalist/rufous_woodpecker_3",
+      "width": 957,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 181873,
+      "attribution": {
+        "photographer": "alexisgreenwood",
+        "photographer_url": "https://www.inaturalist.org/observations/329326380",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexisgreenwood (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 329326380,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54979166901_b4de30753f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133526/bird-gallery/rufous_woodpecker/avibase/avibase_1_54979166901_b4de30753f_b.jpg",
+      "public_id": "bird-gallery/rufous_woodpecker/avibase/avibase_1_54979166901_b4de30753f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48678,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54979166901",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_55152931792_ec33a9bbee_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133527/bird-gallery/rufous_woodpecker/avibase/avibase_2_55152931792_ec33a9bbee_b.jpg",
+      "public_id": "bird-gallery/rufous_woodpecker/avibase/avibase_2_55152931792_ec33a9bbee_b",
+      "width": 684,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 102942,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "55152931792",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_29982896171_dccdd2c2ed_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133529/bird-gallery/rufous_woodpecker/avibase/avibase_3_29982896171_dccdd2c2ed_b.jpg",
+      "public_id": "bird-gallery/rufous_woodpecker/avibase/avibase_3_29982896171_dccdd2c2ed_b",
+      "width": 1024,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 88644,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "29982896171",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "common_ringed_plover",
+    "chinese_name": "剑鸻",
+    "english_name": "Common Ringed Plover",
+    "scientific_name": "Charadrius hiaticula"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_ringed_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133462/bird-gallery/common_ringed_plover/inaturalist/common_ringed_plover_1.jpg",
+      "public_id": "bird-gallery/common_ringed_plover/inaturalist/common_ringed_plover_1",
+      "width": 1000,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 49090,
+      "attribution": {
+        "photographer": "punkbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/249311216",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© punkbirder (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 249311216,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_ringed_plover_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133464/bird-gallery/common_ringed_plover/inaturalist/common_ringed_plover_2.jpg",
+      "public_id": "bird-gallery/common_ringed_plover/inaturalist/common_ringed_plover_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 41530,
+      "attribution": {
+        "photographer": "bird_in_silence",
+        "photographer_url": "https://www.inaturalist.org/observations/241087505",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bird_in_silence (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 241087505,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_ringed_plover_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133465/bird-gallery/common_ringed_plover/inaturalist/common_ringed_plover_3.jpg",
+      "public_id": "bird-gallery/common_ringed_plover/inaturalist/common_ringed_plover_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 99209,
+      "attribution": {
+        "photographer": "rjadams55",
+        "photographer_url": "https://www.inaturalist.org/observations/335624860",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rjadams55 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 335624860,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52123594273_cdf45c8297_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133467/bird-gallery/common_ringed_plover/avibase/avibase_1_52123594273_cdf45c8297_b.jpg",
+      "public_id": "bird-gallery/common_ringed_plover/avibase/avibase_1_52123594273_cdf45c8297_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 88420,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52123594273",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54792677109_67aa783046_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133468/bird-gallery/common_ringed_plover/avibase/avibase_2_54792677109_67aa783046_b.jpg",
+      "public_id": "bird-gallery/common_ringed_plover/avibase/avibase_2_54792677109_67aa783046_b",
+      "width": 1024,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 66325,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54792677109",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53210130014_0228529367_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133469/bird-gallery/common_ringed_plover/avibase/avibase_3_53210130014_0228529367_b.jpg",
+      "public_id": "bird-gallery/common_ringed_plover/avibase/avibase_3_53210130014_0228529367_b",
+      "width": 1000,
+      "height": 744,
+      "format": "jpg",
+      "bytes": 133763,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53210130014",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

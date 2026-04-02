@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "steppe_eagle",
+    "chinese_name": "草原雕",
+    "english_name": "Steppe Eagle",
+    "scientific_name": "Aquila nipalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "steppe_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133634/bird-gallery/steppe_eagle/inaturalist/steppe_eagle_1.jpg",
+      "public_id": "bird-gallery/steppe_eagle/inaturalist/steppe_eagle_1",
+      "width": 1024,
+      "height": 574,
+      "format": "jpg",
+      "bytes": 66795,
+      "attribution": {
+        "photographer": "mousamr",
+        "photographer_url": "https://www.inaturalist.org/observations/1669219",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mousamr (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1669219,
+        "note": null
+      }
+    },
+    {
+      "original_file": "steppe_eagle_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133636/bird-gallery/steppe_eagle/inaturalist/steppe_eagle_2.jpg",
+      "public_id": "bird-gallery/steppe_eagle/inaturalist/steppe_eagle_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 64314,
+      "attribution": {
+        "photographer": "mousamr",
+        "photographer_url": "https://www.inaturalist.org/observations/1669319",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mousamr (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1669319,
+        "note": null
+      }
+    },
+    {
+      "original_file": "steppe_eagle_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133638/bird-gallery/steppe_eagle/inaturalist/steppe_eagle_3.jpg",
+      "public_id": "bird-gallery/steppe_eagle/inaturalist/steppe_eagle_3",
+      "width": 960,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 39297,
+      "attribution": {
+        "photographer": "vipulramanuj",
+        "photographer_url": "https://www.inaturalist.org/observations/1619002",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© vipulramanuj (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 1619002,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54779662044_226173e4f1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133639/bird-gallery/steppe_eagle/avibase/avibase_1_54779662044_226173e4f1_b.jpg",
+      "public_id": "bird-gallery/steppe_eagle/avibase/avibase_1_54779662044_226173e4f1_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 138971,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54779662044",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_26402537916_d86df3528b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133640/bird-gallery/steppe_eagle/avibase/avibase_2_26402537916_d86df3528b_b.jpg",
+      "public_id": "bird-gallery/steppe_eagle/avibase/avibase_2_26402537916_d86df3528b_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 7635,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "26402537916",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54860163761_289afaa2e1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133641/bird-gallery/steppe_eagle/avibase/avibase_3_54860163761_289afaa2e1_b.jpg",
+      "public_id": "bird-gallery/steppe_eagle/avibase/avibase_3_54860163761_289afaa2e1_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 132822,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54860163761",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

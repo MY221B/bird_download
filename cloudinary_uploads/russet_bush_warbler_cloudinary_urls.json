@@ -5,7 +5,65 @@
     "english_name": "Russet Bush Warbler",
     "scientific_name": "Locustella mandelli"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "russet_bush_warbler_231617901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136927/bird-gallery/russet_bush_warbler/macaulay/russet_bush_warbler_231617901.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/macaulay/russet_bush_warbler_231617901",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 91136,
+      "attribution": {
+        "photographer": "Aseem Kothiala",
+        "photographer_url": "https://macaulaylibrary.org/asset/231617901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Aseem Kothiala; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "231617901",
+        "note": null
+      }
+    },
+    {
+      "original_file": "russet_bush_warbler_296758191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136932/bird-gallery/russet_bush_warbler/macaulay/russet_bush_warbler_296758191.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/macaulay/russet_bush_warbler_296758191",
+      "width": 1200,
+      "height": 756,
+      "format": "jpg",
+      "bytes": 83703,
+      "attribution": {
+        "photographer": "Koel Ko",
+        "photographer_url": "https://macaulaylibrary.org/asset/296758191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Koel Ko; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "296758191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "russet_bush_warbler_620369479.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136939/bird-gallery/russet_bush_warbler/macaulay/russet_bush_warbler_620369479.jpg",
+      "public_id": "bird-gallery/russet_bush_warbler/macaulay/russet_bush_warbler_620369479",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 131077,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/620369479",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "620369479",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "russet_bush_warbler_2.jpg",

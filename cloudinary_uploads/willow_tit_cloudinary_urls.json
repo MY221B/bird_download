@@ -5,16 +5,74 @@
     "english_name": "Willow Tit",
     "scientific_name": "Poecile montanus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "willow_tit_188987991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137066/bird-gallery/willow_tit/macaulay/willow_tit_188987991.jpg",
+      "public_id": "bird-gallery/willow_tit/macaulay/willow_tit_188987991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 89253,
+      "attribution": {
+        "photographer": "Jun Yang",
+        "photographer_url": "https://macaulaylibrary.org/asset/188987991",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jun Yang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "188987991",
+        "note": null
+      }
+    },
+    {
+      "original_file": "willow_tit_209897711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137072/bird-gallery/willow_tit/macaulay/willow_tit_209897711.jpg",
+      "public_id": "bird-gallery/willow_tit/macaulay/willow_tit_209897711",
+      "width": 1200,
+      "height": 607,
+      "format": "jpg",
+      "bytes": 56553,
+      "attribution": {
+        "photographer": "Matti Rekilä",
+        "photographer_url": "https://macaulaylibrary.org/asset/209897711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matti Rekilä; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "209897711",
+        "note": null
+      }
+    },
+    {
+      "original_file": "willow_tit_56776851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137077/bird-gallery/willow_tit/macaulay/willow_tit_56776851.jpg",
+      "public_id": "bird-gallery/willow_tit/macaulay/willow_tit_56776851",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90993,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/56776851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "56776851",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "willow_tit_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172000/bird-gallery/willow_tit/inaturalist/willow_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137082/bird-gallery/willow_tit/inaturalist/willow_tit_1.jpg",
       "public_id": "bird-gallery/willow_tit/inaturalist/willow_tit_1",
       "width": 1024,
       "height": 600,
       "format": "jpg",
-      "bytes": 363334,
+      "bytes": 46089,
       "attribution": {
         "photographer": "naturebynigg",
         "photographer_url": "https://www.inaturalist.org/observations/61245827",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "willow_tit_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774253524/bird-gallery/willow_tit/inaturalist/willow_tit_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137084/bird-gallery/willow_tit/inaturalist/willow_tit_2.jpg",
       "public_id": "bird-gallery/willow_tit/inaturalist/willow_tit_2",
       "width": 842,
       "height": 583,
       "format": "jpg",
-      "bytes": 83217,
+      "bytes": 36688,
       "attribution": {
         "photographer": "olegdavydov",
         "photographer_url": "https://www.inaturalist.org/observations/36118542",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "willow_tit_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774253539/bird-gallery/willow_tit/inaturalist/willow_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137086/bird-gallery/willow_tit/inaturalist/willow_tit_3.jpg",
       "public_id": "bird-gallery/willow_tit/inaturalist/willow_tit_3",
       "width": 768,
       "height": 1024,
       "format": "jpg",
-      "bytes": 567831,
+      "bytes": 117745,
       "attribution": {
         "photographer": "essiaro",
         "photographer_url": "https://www.inaturalist.org/observations/99534903",
@@ -70,12 +128,12 @@
   "avibase": [
     {
       "original_file": "avibase_1_39951606425_de23eff9a1_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774172000/bird-gallery/willow_tit/avibase/avibase_1_39951606425_de23eff9a1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137088/bird-gallery/willow_tit/avibase/avibase_1_39951606425_de23eff9a1_b.jpg",
       "public_id": "bird-gallery/willow_tit/avibase/avibase_1_39951606425_de23eff9a1_b",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 152511,
+      "bytes": 106267,
       "attribution": {
         "photographer": null,
         "photographer_url": null,
@@ -89,12 +147,12 @@
     },
     {
       "original_file": "avibase_2_51801957661_ee23ebbb09_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774253543/bird-gallery/willow_tit/avibase/avibase_2_51801957661_ee23ebbb09_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137090/bird-gallery/willow_tit/avibase/avibase_2_51801957661_ee23ebbb09_b.jpg",
       "public_id": "bird-gallery/willow_tit/avibase/avibase_2_51801957661_ee23ebbb09_b",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 255587,
+      "bytes": 160719,
       "attribution": {
         "photographer": null,
         "photographer_url": null,
@@ -108,12 +166,12 @@
     },
     {
       "original_file": "avibase_3_51054875348_68079dfefd_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774253548/bird-gallery/willow_tit/avibase/avibase_3_51054875348_68079dfefd_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137092/bird-gallery/willow_tit/avibase/avibase_3_51054875348_68079dfefd_b.jpg",
       "public_id": "bird-gallery/willow_tit/avibase/avibase_3_51054875348_68079dfefd_b",
       "width": 735,
       "height": 530,
       "format": "jpg",
-      "bytes": 96617,
+      "bytes": 42223,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

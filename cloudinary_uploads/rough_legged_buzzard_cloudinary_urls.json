@@ -5,7 +5,65 @@
     "english_name": "Rough-legged Buzzard",
     "scientific_name": "Buteo lagopus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "rough_legged_buzzard_414568271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136921/bird-gallery/rough_legged_buzzard/macaulay/rough_legged_buzzard_414568271.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/macaulay/rough_legged_buzzard_414568271",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 81544,
+      "attribution": {
+        "photographer": "Blair Dudeck",
+        "photographer_url": "https://macaulaylibrary.org/asset/414568271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Blair Dudeck; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "414568271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rough_legged_buzzard_49319351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136926/bird-gallery/rough_legged_buzzard/macaulay/rough_legged_buzzard_49319351.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/macaulay/rough_legged_buzzard_49319351",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 106510,
+      "attribution": {
+        "photographer": "Matthew Pendleton",
+        "photographer_url": "https://macaulaylibrary.org/asset/49319351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matthew Pendleton; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "49319351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rough_legged_buzzard_49319361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136934/bird-gallery/rough_legged_buzzard/macaulay/rough_legged_buzzard_49319361.jpg",
+      "public_id": "bird-gallery/rough_legged_buzzard/macaulay/rough_legged_buzzard_49319361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55760,
+      "attribution": {
+        "photographer": "Matthew Pendleton",
+        "photographer_url": "https://macaulaylibrary.org/asset/49319361",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matthew Pendleton; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "49319361",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "rough_legged_buzzard_1.jpg",

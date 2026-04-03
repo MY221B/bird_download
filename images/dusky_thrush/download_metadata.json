@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "dusky_thrush_630668681.jpg",
+      "asset_id": "630668681",
+      "asset_url": "https://macaulaylibrary.org/asset/630668681"
+    },
+    {
+      "filename": "dusky_thrush_630668680.jpg",
+      "asset_id": "630668680",
+      "asset_url": "https://macaulaylibrary.org/asset/630668680"
+    },
+    {
+      "filename": "dusky_thrush_630668683.jpg",
+      "asset_id": "630668683",
+      "asset_url": "https://macaulaylibrary.org/asset/630668683"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "dusky_thrush_1.jpg",

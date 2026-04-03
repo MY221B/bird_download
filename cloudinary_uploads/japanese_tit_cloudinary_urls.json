@@ -5,44 +5,121 @@
     "english_name": "Japanese Tit",
     "scientific_name": "Parus minor"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "japanese_tit_387967001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136872/bird-gallery/japanese_tit/macaulay/japanese_tit_387967001.jpg",
+      "public_id": "bird-gallery/japanese_tit/macaulay/japanese_tit_387967001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72848,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/387967001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "387967001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_tit_394535721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136877/bird-gallery/japanese_tit/macaulay/japanese_tit_394535721.jpg",
+      "public_id": "bird-gallery/japanese_tit/macaulay/japanese_tit_394535721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 110599,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/394535721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "394535721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_tit_632002281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136882/bird-gallery/japanese_tit/macaulay/japanese_tit_632002281.jpg",
+      "public_id": "bird-gallery/japanese_tit/macaulay/japanese_tit_632002281",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 132859,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/632002281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "632002281",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "japanese_tit_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171735/bird-gallery/japanese_tit/inaturalist/japanese_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136888/bird-gallery/japanese_tit/inaturalist/japanese_tit_1.jpg",
       "public_id": "bird-gallery/japanese_tit/inaturalist/japanese_tit_1",
       "width": 875,
       "height": 1024,
       "format": "jpg",
-      "bytes": 686879,
+      "bytes": 98703,
       "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
+        "photographer": "kimssight",
+        "photographer_url": "https://www.inaturalist.org/observations/19542484",
+        "license": "all-rights-reserved",
         "license_url": null,
-        "credit_format": null,
+        "credit_format": "© kimssight (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
+        "source_id": 19542484,
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_tit_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136889/bird-gallery/japanese_tit/inaturalist/japanese_tit_2.jpg",
+      "public_id": "bird-gallery/japanese_tit/inaturalist/japanese_tit_2",
+      "width": 1024,
+      "height": 975,
+      "format": "jpg",
+      "bytes": 99302,
+      "attribution": {
+        "photographer": "guyincognito",
+        "photographer_url": "https://www.inaturalist.org/observations/39633296",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© guyincognito (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39633296,
+        "note": null
       }
     },
     {
       "original_file": "japanese_tit_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249670/bird-gallery/japanese_tit/inaturalist/japanese_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136890/bird-gallery/japanese_tit/inaturalist/japanese_tit_3.jpg",
       "public_id": "bird-gallery/japanese_tit/inaturalist/japanese_tit_3",
       "width": 1024,
       "height": 1024,
       "format": "jpg",
-      "bytes": 201020,
+      "bytes": 21980,
       "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
+        "photographer": "rmacfie",
+        "photographer_url": "https://www.inaturalist.org/observations/200713659",
+        "license": "cc-by-nc",
         "license_url": null,
-        "credit_format": null,
+        "credit_format": "© rmacfie (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
+        "source_id": 200713659,
+        "note": null
       }
     }
   ],
@@ -50,12 +127,12 @@
   "wikimedia": [
     {
       "original_file": "japanese_tit_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171736/bird-gallery/japanese_tit/wikimedia/japanese_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136892/bird-gallery/japanese_tit/wikimedia/japanese_tit_1.jpg",
       "public_id": "bird-gallery/japanese_tit/wikimedia/japanese_tit_1",
       "width": 250,
       "height": 187,
       "format": "jpg",
-      "bytes": 27782,
+      "bytes": 18135,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

@@ -5,7 +5,65 @@
     "english_name": "Yellow-rumped Flycatcher",
     "scientific_name": "Ficedula zanthopygia"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "yellow_rumped_flycatcher_154906791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137077/bird-gallery/yellow_rumped_flycatcher/macaulay/yellow_rumped_flycatcher_154906791.jpg",
+      "public_id": "bird-gallery/yellow_rumped_flycatcher/macaulay/yellow_rumped_flycatcher_154906791",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 64397,
+      "attribution": {
+        "photographer": "Craig Brelsford",
+        "photographer_url": "https://macaulaylibrary.org/asset/154906791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Craig Brelsford; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "154906791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_rumped_flycatcher_625107569.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137082/bird-gallery/yellow_rumped_flycatcher/macaulay/yellow_rumped_flycatcher_625107569.jpg",
+      "public_id": "bird-gallery/yellow_rumped_flycatcher/macaulay/yellow_rumped_flycatcher_625107569",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62700,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/625107569",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625107569",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_rumped_flycatcher_627546470.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137088/bird-gallery/yellow_rumped_flycatcher/macaulay/yellow_rumped_flycatcher_627546470.jpg",
+      "public_id": "bird-gallery/yellow_rumped_flycatcher/macaulay/yellow_rumped_flycatcher_627546470",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 163373,
+      "attribution": {
+        "photographer": "Raghavendra  Pai",
+        "photographer_url": "https://macaulaylibrary.org/asset/627546470",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Raghavendra  Pai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "627546470",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "yellow_rumped_flycatcher_1.jpg",

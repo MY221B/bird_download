@@ -5,7 +5,65 @@
     "english_name": "Common Myna",
     "scientific_name": "Acridotheres tristis"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "common_myna_423332831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136716/bird-gallery/common_myna/macaulay/common_myna_423332831.jpg",
+      "public_id": "bird-gallery/common_myna/macaulay/common_myna_423332831",
+      "width": 1200,
+      "height": 842,
+      "format": "jpg",
+      "bytes": 64022,
+      "attribution": {
+        "photographer": "Denny Swaby",
+        "photographer_url": "https://macaulaylibrary.org/asset/423332831",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Denny Swaby; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "423332831",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_myna_423332841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136722/bird-gallery/common_myna/macaulay/common_myna_423332841.jpg",
+      "public_id": "bird-gallery/common_myna/macaulay/common_myna_423332841",
+      "width": 1200,
+      "height": 856,
+      "format": "jpg",
+      "bytes": 81451,
+      "attribution": {
+        "photographer": "Denny Swaby",
+        "photographer_url": "https://macaulaylibrary.org/asset/423332841",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Denny Swaby; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "423332841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_myna_98174391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136728/bird-gallery/common_myna/macaulay/common_myna_98174391.jpg",
+      "public_id": "bird-gallery/common_myna/macaulay/common_myna_98174391",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66534,
+      "attribution": {
+        "photographer": "Oscar Thomas",
+        "photographer_url": "https://macaulaylibrary.org/asset/98174391",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Oscar Thomas; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "98174391",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "common_myna_1.jpg",

@@ -5,7 +5,65 @@
     "english_name": "Eastern Crowned Warbler",
     "scientific_name": "Phylloscopus coronatus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "eastern_crowned_warbler_206003931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136764/bird-gallery/eastern_crowned_warbler/macaulay/eastern_crowned_warbler_206003931.jpg",
+      "public_id": "bird-gallery/eastern_crowned_warbler/macaulay/eastern_crowned_warbler_206003931",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 61949,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/206003931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "206003931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_crowned_warbler_623744932.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136770/bird-gallery/eastern_crowned_warbler/macaulay/eastern_crowned_warbler_623744932.jpg",
+      "public_id": "bird-gallery/eastern_crowned_warbler/macaulay/eastern_crowned_warbler_623744932",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83990,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/623744932",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "623744932",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_crowned_warbler_97250371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136775/bird-gallery/eastern_crowned_warbler/macaulay/eastern_crowned_warbler_97250371.jpg",
+      "public_id": "bird-gallery/eastern_crowned_warbler/macaulay/eastern_crowned_warbler_97250371",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67431,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/97250371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "97250371",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "eastern_crowned_warbler_1.jpg",

@@ -5,16 +5,74 @@
     "english_name": "Hobby",
     "scientific_name": "Falco subbuteo"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "hobby_575212531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136846/bird-gallery/hobby/macaulay/hobby_575212531.jpg",
+      "public_id": "bird-gallery/hobby/macaulay/hobby_575212531",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 46000,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/575212531",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "575212531",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hobby_575212551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136852/bird-gallery/hobby/macaulay/hobby_575212551.jpg",
+      "public_id": "bird-gallery/hobby/macaulay/hobby_575212551",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 50978,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/575212551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "575212551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hobby_636171140.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136859/bird-gallery/hobby/macaulay/hobby_636171140.jpg",
+      "public_id": "bird-gallery/hobby/macaulay/hobby_636171140",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70804,
+      "attribution": {
+        "photographer": "Thomas Miller",
+        "photographer_url": "https://macaulaylibrary.org/asset/636171140",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Thomas Miller; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "636171140",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "hobby_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171715/bird-gallery/hobby/inaturalist/hobby_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136864/bird-gallery/hobby/inaturalist/hobby_3.jpg",
       "public_id": "bird-gallery/hobby/inaturalist/hobby_3",
       "width": 1024,
       "height": 835,
       "format": "jpg",
-      "bytes": 199497,
+      "bytes": 32602,
       "attribution": {
         "photographer": "mcekovic",
         "photographer_url": "https://www.inaturalist.org/observations/239119952",
@@ -32,12 +90,12 @@
   "avibase": [
     {
       "original_file": "avibase_1_54791196386_0d0c8bcc72_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171716/bird-gallery/hobby/avibase/avibase_1_54791196386_0d0c8bcc72_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136865/bird-gallery/hobby/avibase/avibase_1_54791196386_0d0c8bcc72_b.jpg",
       "public_id": "bird-gallery/hobby/avibase/avibase_1_54791196386_0d0c8bcc72_b",
       "width": 1024,
       "height": 612,
       "format": "jpg",
-      "bytes": 133922,
+      "bytes": 106383,
       "attribution": {
         "photographer": null,
         "photographer_url": null,
@@ -51,12 +109,12 @@
     },
     {
       "original_file": "avibase_2_53930910531_c562488b24_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249448/bird-gallery/hobby/avibase/avibase_2_53930910531_c562488b24_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136867/bird-gallery/hobby/avibase/avibase_2_53930910531_c562488b24_b.jpg",
       "public_id": "bird-gallery/hobby/avibase/avibase_2_53930910531_c562488b24_b",
       "width": 1024,
       "height": 750,
       "format": "jpg",
-      "bytes": 252632,
+      "bytes": 141364,
       "attribution": {
         "photographer": null,
         "photographer_url": null,
@@ -70,12 +128,12 @@
     },
     {
       "original_file": "avibase_3_54713892089_cc93934f19_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249450/bird-gallery/hobby/avibase/avibase_3_54713892089_cc93934f19_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136868/bird-gallery/hobby/avibase/avibase_3_54713892089_cc93934f19_b.jpg",
       "public_id": "bird-gallery/hobby/avibase/avibase_3_54713892089_cc93934f19_b",
       "width": 1023,
       "height": 682,
       "format": "jpg",
-      "bytes": 37895,
+      "bytes": 9907,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

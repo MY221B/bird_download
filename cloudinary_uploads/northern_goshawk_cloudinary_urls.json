@@ -1,54 +1,112 @@
 {
-  "macaulay": [],
-  "inaturalist": [
-    {
-      "original_file": "northern_goshawk_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171793/bird-gallery/northern_goshawk/inaturalist/northern_goshawk_2.jpg",
-      "public_id": "bird-gallery/northern_goshawk/inaturalist/northern_goshawk_2",
-      "width": 1000,
-      "height": 681,
-      "format": "jpg",
-      "bytes": 582166,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
-      "original_file": "northern_goshawk_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774250524/bird-gallery/northern_goshawk/inaturalist/northern_goshawk_3.jpg",
-      "public_id": "bird-gallery/northern_goshawk/inaturalist/northern_goshawk_3",
-      "width": 1024,
-      "height": 780,
-      "format": "jpg",
-      "bytes": 593909,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
-  "birdphotos": [],
-  "wikimedia": [],
-  "avibase": [],
   "bird_info": {
     "slug": "northern_goshawk",
     "chinese_name": "苍鹰",
     "english_name": "Northern Goshawk",
     "scientific_name": "Accipiter gentilis"
   },
+  "macaulay": [
+    {
+      "original_file": "northern_goshawk_182469441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136903/bird-gallery/northern_goshawk/macaulay/northern_goshawk_182469441.jpg",
+      "public_id": "bird-gallery/northern_goshawk/macaulay/northern_goshawk_182469441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100966,
+      "attribution": {
+        "photographer": "Miguel Rouco",
+        "photographer_url": "https://macaulaylibrary.org/asset/182469441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Miguel Rouco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "182469441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_goshawk_312218031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136908/bird-gallery/northern_goshawk/macaulay/northern_goshawk_312218031.jpg",
+      "public_id": "bird-gallery/northern_goshawk/macaulay/northern_goshawk_312218031",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 118495,
+      "attribution": {
+        "photographer": "Mario Vigo",
+        "photographer_url": "https://macaulaylibrary.org/asset/312218031",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Mario Vigo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "312218031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_goshawk_312218091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136914/bird-gallery/northern_goshawk/macaulay/northern_goshawk_312218091.jpg",
+      "public_id": "bird-gallery/northern_goshawk/macaulay/northern_goshawk_312218091",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82622,
+      "attribution": {
+        "photographer": "Mario Vigo",
+        "photographer_url": "https://macaulaylibrary.org/asset/312218091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Mario Vigo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "312218091",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_goshawk_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136921/bird-gallery/northern_goshawk/inaturalist/northern_goshawk_2.jpg",
+      "public_id": "bird-gallery/northern_goshawk/inaturalist/northern_goshawk_2",
+      "width": 1000,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 89946,
+      "attribution": {
+        "photographer": "psweet",
+        "photographer_url": "https://www.inaturalist.org/observations/9327389",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© psweet (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 9327389,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_goshawk_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136923/bird-gallery/northern_goshawk/inaturalist/northern_goshawk_3.jpg",
+      "public_id": "bird-gallery/northern_goshawk/inaturalist/northern_goshawk_3",
+      "width": 1024,
+      "height": 780,
+      "format": "jpg",
+      "bytes": 70906,
+      "attribution": {
+        "photographer": "clara_g",
+        "photographer_url": "https://www.inaturalist.org/observations/59984409",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© clara_g (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 59984409,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "northern_goshawk_291362181.mp3",

@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "rustic_bunting_385227721.jpg",
+      "asset_id": "385227721",
+      "asset_url": "https://macaulaylibrary.org/asset/385227721"
+    },
+    {
+      "filename": "rustic_bunting_385227701.jpg",
+      "asset_id": "385227701",
+      "asset_url": "https://macaulaylibrary.org/asset/385227701"
+    },
+    {
+      "filename": "rustic_bunting_632445223.jpg",
+      "asset_id": "632445223",
+      "asset_url": "https://macaulaylibrary.org/asset/632445223"
+    }
+  ],
   "inaturalist": [],
   "wikimedia": [],
   "avibase": []

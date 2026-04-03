@@ -5,16 +5,74 @@
     "english_name": "White's Thrush",
     "scientific_name": "Zoothera aurea"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "whites_thrush_234159271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137052/bird-gallery/whites_thrush/macaulay/whites_thrush_234159271.jpg",
+      "public_id": "bird-gallery/whites_thrush/macaulay/whites_thrush_234159271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117964,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/234159271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "234159271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "whites_thrush_373604261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137058/bird-gallery/whites_thrush/macaulay/whites_thrush_373604261.jpg",
+      "public_id": "bird-gallery/whites_thrush/macaulay/whites_thrush_373604261",
+      "width": 1200,
+      "height": 837,
+      "format": "jpg",
+      "bytes": 85326,
+      "attribution": {
+        "photographer": "Daniel Gornall",
+        "photographer_url": "https://macaulaylibrary.org/asset/373604261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Daniel Gornall; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "373604261",
+        "note": null
+      }
+    },
+    {
+      "original_file": "whites_thrush_525433211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137063/bird-gallery/whites_thrush/macaulay/whites_thrush_525433211.jpg",
+      "public_id": "bird-gallery/whites_thrush/macaulay/whites_thrush_525433211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67463,
+      "attribution": {
+        "photographer": "Andaman Kaosung",
+        "photographer_url": "https://macaulaylibrary.org/asset/525433211",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Andaman Kaosung; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "525433211",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "whites_thrush_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171999/bird-gallery/whites_thrush/inaturalist/whites_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137068/bird-gallery/whites_thrush/inaturalist/whites_thrush_1.jpg",
       "public_id": "bird-gallery/whites_thrush/inaturalist/whites_thrush_1",
       "width": 1024,
       "height": 684,
       "format": "jpg",
-      "bytes": 523575,
+      "bytes": 65026,
       "attribution": {
         "photographer": "anna-solisia",
         "photographer_url": "https://www.inaturalist.org/observations/125895638",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "whites_thrush_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774253517/bird-gallery/whites_thrush/inaturalist/whites_thrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137070/bird-gallery/whites_thrush/inaturalist/whites_thrush_2.jpg",
       "public_id": "bird-gallery/whites_thrush/inaturalist/whites_thrush_2",
       "width": 1024,
       "height": 668,
       "format": "jpg",
-      "bytes": 372682,
+      "bytes": 182515,
       "attribution": {
         "photographer": "boatbirder",
         "photographer_url": "https://www.inaturalist.org/observations/139410495",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "whites_thrush_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774253518/bird-gallery/whites_thrush/inaturalist/whites_thrush_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137072/bird-gallery/whites_thrush/inaturalist/whites_thrush_3.jpg",
       "public_id": "bird-gallery/whites_thrush/inaturalist/whites_thrush_3",
       "width": 1024,
       "height": 701,
       "format": "jpg",
-      "bytes": 393246,
+      "bytes": 185168,
       "attribution": {
         "photographer": "greglasley",
         "photographer_url": "https://www.inaturalist.org/observations/152948",

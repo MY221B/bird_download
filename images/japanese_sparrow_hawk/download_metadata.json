@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "japanese_sparrow_hawk_624298639.jpg",
+      "asset_id": "624298639",
+      "asset_url": "https://macaulaylibrary.org/asset/624298639"
+    },
+    {
+      "filename": "japanese_sparrow_hawk_277501751.jpg",
+      "asset_id": "277501751",
+      "asset_url": "https://macaulaylibrary.org/asset/277501751"
+    },
+    {
+      "filename": "japanese_sparrow_hawk_634654446.jpg",
+      "asset_id": "634654446",
+      "asset_url": "https://macaulaylibrary.org/asset/634654446"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "japanese_sparrow_hawk_1.jpg",

@@ -5,7 +5,65 @@
     "english_name": "Steppe Eagle",
     "scientific_name": "Aquila nipalensis"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "steppe_eagle_511179671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137007/bird-gallery/steppe_eagle/macaulay/steppe_eagle_511179671.jpg",
+      "public_id": "bird-gallery/steppe_eagle/macaulay/steppe_eagle_511179671",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 29367,
+      "attribution": {
+        "photographer": "Joachim Bertrands | Ornis Birding Expeditions",
+        "photographer_url": "https://macaulaylibrary.org/asset/511179671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Joachim Bertrands | Ornis Birding Expeditions; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "511179671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "steppe_eagle_512695711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137013/bird-gallery/steppe_eagle/macaulay/steppe_eagle_512695711.jpg",
+      "public_id": "bird-gallery/steppe_eagle/macaulay/steppe_eagle_512695711",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86187,
+      "attribution": {
+        "photographer": "Sylvain Reyt",
+        "photographer_url": "https://macaulaylibrary.org/asset/512695711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sylvain Reyt; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "512695711",
+        "note": null
+      }
+    },
+    {
+      "original_file": "steppe_eagle_609960661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137018/bird-gallery/steppe_eagle/macaulay/steppe_eagle_609960661.jpg",
+      "public_id": "bird-gallery/steppe_eagle/macaulay/steppe_eagle_609960661",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 30299,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/609960661",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "609960661",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "steppe_eagle_1.jpg",

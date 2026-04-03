@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "willow_tit_188987991.jpg",
+      "asset_id": "188987991",
+      "asset_url": "https://macaulaylibrary.org/asset/188987991"
+    },
+    {
+      "filename": "willow_tit_56776851.jpg",
+      "asset_id": "56776851",
+      "asset_url": "https://macaulaylibrary.org/asset/56776851"
+    },
+    {
+      "filename": "willow_tit_209897711.jpg",
+      "asset_id": "209897711",
+      "asset_url": "https://macaulaylibrary.org/asset/209897711"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "willow_tit_1.jpg",
@@ -8,7 +24,7 @@
       "observation_url": "https://www.inaturalist.org/observations/61245827",
       "photographer": "naturebynigg",
       "license": "cc-by",
-      "credit_format": "© naturebynigg (via iNaturalist), some rights reserved (CC-BY)"
+      "credit_format": "\u00a9 naturebynigg (via iNaturalist), some rights reserved (CC-BY)"
     },
     {
       "filename": "willow_tit_2.jpg",
@@ -17,7 +33,7 @@
       "observation_url": "https://www.inaturalist.org/observations/36118542",
       "photographer": "olegdavydov",
       "license": "cc-by-nc",
-      "credit_format": "© olegdavydov (via iNaturalist), some rights reserved (CC-BY-NC)"
+      "credit_format": "\u00a9 olegdavydov (via iNaturalist), some rights reserved (CC-BY-NC)"
     },
     {
       "filename": "willow_tit_3.jpg",
@@ -26,7 +42,7 @@
       "observation_url": "https://www.inaturalist.org/observations/99534903",
       "photographer": "essiaro",
       "license": "all-rights-reserved",
-      "credit_format": "© essiaro (via iNaturalist), All Rights Reserved"
+      "credit_format": "\u00a9 essiaro (via iNaturalist), All Rights Reserved"
     }
   ],
   "wikimedia": [],
@@ -36,21 +52,21 @@
       "flickr_photo_id": "39951606425",
       "flickr_url": "https://www.flickr.com/photo.gne?id=39951606425",
       "source_url": "https://live.staticflickr.com/821/39951606425_de23eff9a1_b.jpg",
-      "note": "署名信息需从Flickr获取"
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
     },
     {
       "filename": "avibase_2_51801957661_ee23ebbb09_b.jpg",
       "flickr_photo_id": "51801957661",
       "flickr_url": "https://www.flickr.com/photo.gne?id=51801957661",
       "source_url": "https://live.staticflickr.com/65535/51801957661_ee23ebbb09_b.jpg",
-      "note": "署名信息需从Flickr获取"
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
     },
     {
       "filename": "avibase_3_51054875348_68079dfefd_b.jpg",
       "flickr_photo_id": "51054875348",
       "flickr_url": "https://www.flickr.com/photo.gne?id=51054875348",
       "source_url": "https://live.staticflickr.com/65535/51054875348_68079dfefd_b.jpg",
-      "note": "署名信息需从Flickr获取"
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
     }
   ]
 }

@@ -5,7 +5,65 @@
     "english_name": "Square-tailed Drongo-cuckoo",
     "scientific_name": "Surniculus lugubris"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "square_tailed_drongo_cuckoo_172592421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136998/bird-gallery/square_tailed_drongo_cuckoo/macaulay/square_tailed_drongo_cuckoo_172592421.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/macaulay/square_tailed_drongo_cuckoo_172592421",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65748,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/172592421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "172592421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "square_tailed_drongo_cuckoo_443036711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137004/bird-gallery/square_tailed_drongo_cuckoo/macaulay/square_tailed_drongo_cuckoo_443036711.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/macaulay/square_tailed_drongo_cuckoo_443036711",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71501,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/443036711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "443036711",
+        "note": null
+      }
+    },
+    {
+      "original_file": "square_tailed_drongo_cuckoo_85984971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137011/bird-gallery/square_tailed_drongo_cuckoo/macaulay/square_tailed_drongo_cuckoo_85984971.jpg",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/macaulay/square_tailed_drongo_cuckoo_85984971",
+      "width": 1200,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 58065,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/85984971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "85984971",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "square_tailed_drongo_cuckoo_1.jpg",

@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "bearded_reedling_66059641.jpg",
+      "asset_id": "66059641",
+      "asset_url": "https://macaulaylibrary.org/asset/66059641"
+    },
+    {
+      "filename": "bearded_reedling_205090471.jpg",
+      "asset_id": "205090471",
+      "asset_url": "https://macaulaylibrary.org/asset/205090471"
+    },
+    {
+      "filename": "bearded_reedling_204359721.jpg",
+      "asset_id": "204359721",
+      "asset_url": "https://macaulaylibrary.org/asset/204359721"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "bearded_reedling_1.jpg",

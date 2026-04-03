@@ -5,16 +5,74 @@
     "english_name": "White-bellied Sea Eagle",
     "scientific_name": "Haliaeetus leucogaster"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "white_bellied_sea_eagle_183515861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137037/bird-gallery/white_bellied_sea_eagle/macaulay/white_bellied_sea_eagle_183515861.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/macaulay/white_bellied_sea_eagle_183515861",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 99947,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/183515861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "183515861",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_sea_eagle_40721321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137044/bird-gallery/white_bellied_sea_eagle/macaulay/white_bellied_sea_eagle_40721321.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/macaulay/white_bellied_sea_eagle_40721321",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 41038,
+      "attribution": {
+        "photographer": "Peter Taylor",
+        "photographer_url": "https://macaulaylibrary.org/asset/40721321",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Peter Taylor; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "40721321",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_sea_eagle_504611491.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137050/bird-gallery/white_bellied_sea_eagle/macaulay/white_bellied_sea_eagle_504611491.jpg",
+      "public_id": "bird-gallery/white_bellied_sea_eagle/macaulay/white_bellied_sea_eagle_504611491",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72477,
+      "attribution": {
+        "photographer": "JJ Harrison",
+        "photographer_url": "https://macaulaylibrary.org/asset/504611491",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by JJ Harrison; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "504611491",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "white_bellied_sea_eagle_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171972/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137057/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_1.jpg",
       "public_id": "bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_1",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 425862,
+      "bytes": 52359,
       "attribution": {
         "photographer": "divercraig",
         "photographer_url": "https://www.inaturalist.org/observations/106850137",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "white_bellied_sea_eagle_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774252907/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137059/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_2.jpg",
       "public_id": "bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_2",
       "width": 1024,
       "height": 767,
       "format": "jpg",
-      "bytes": 299185,
+      "bytes": 21959,
       "attribution": {
         "photographer": "richard8484",
         "photographer_url": "https://www.inaturalist.org/observations/144982051",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "white_bellied_sea_eagle_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774252908/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137060/bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_3.jpg",
       "public_id": "bird-gallery/white_bellied_sea_eagle/inaturalist/white_bellied_sea_eagle_3",
       "width": 1024,
       "height": 1024,
       "format": "jpg",
-      "bytes": 586790,
+      "bytes": 193687,
       "attribution": {
         "photographer": "jb2602",
         "photographer_url": "https://www.inaturalist.org/observations/114975263",
@@ -69,12 +127,12 @@
   "wikimedia": [
     {
       "original_file": "white_bellied_sea_eagle_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171972/bird-gallery/white_bellied_sea_eagle/wikimedia/white_bellied_sea_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137062/bird-gallery/white_bellied_sea_eagle/wikimedia/white_bellied_sea_eagle_1.jpg",
       "public_id": "bird-gallery/white_bellied_sea_eagle/wikimedia/white_bellied_sea_eagle_1",
       "width": 1280,
       "height": 853,
       "format": "jpg",
-      "bytes": 111624,
+      "bytes": 83351,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

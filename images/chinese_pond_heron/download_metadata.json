@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "chinese_pond_heron_625109526.jpg",
+      "asset_id": "625109526",
+      "asset_url": "https://macaulaylibrary.org/asset/625109526"
+    },
+    {
+      "filename": "chinese_pond_heron_198509171.jpg",
+      "asset_id": "198509171",
+      "asset_url": "https://macaulaylibrary.org/asset/198509171"
+    },
+    {
+      "filename": "chinese_pond_heron_319914201.jpg",
+      "asset_id": "319914201",
+      "asset_url": "https://macaulaylibrary.org/asset/319914201"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "chinese_pond_heron_1.jpg",

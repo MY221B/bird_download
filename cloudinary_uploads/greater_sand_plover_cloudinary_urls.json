@@ -5,16 +5,74 @@
     "english_name": "Greater Sand Plover",
     "scientific_name": "Charadrius leschenaultii"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "greater_sand_plover_207375101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136819/bird-gallery/greater_sand_plover/macaulay/greater_sand_plover_207375101.jpg",
+      "public_id": "bird-gallery/greater_sand_plover/macaulay/greater_sand_plover_207375101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 46199,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/207375101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "207375101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_sand_plover_328967811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136826/bird-gallery/greater_sand_plover/macaulay/greater_sand_plover_328967811.jpg",
+      "public_id": "bird-gallery/greater_sand_plover/macaulay/greater_sand_plover_328967811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 47735,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/328967811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "328967811",
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_sand_plover_398965441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136831/bird-gallery/greater_sand_plover/macaulay/greater_sand_plover_398965441.jpg",
+      "public_id": "bird-gallery/greater_sand_plover/macaulay/greater_sand_plover_398965441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 53250,
+      "attribution": {
+        "photographer": "Terence Alexander",
+        "photographer_url": "https://macaulaylibrary.org/asset/398965441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Terence Alexander; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "398965441",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "greater_sand_plover_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171680/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136836/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_1.jpg",
       "public_id": "bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_1",
       "width": 1024,
       "height": 617,
       "format": "jpg",
-      "bytes": 283537,
+      "bytes": 37025,
       "attribution": {
         "photographer": "caiden_b",
         "photographer_url": "https://www.inaturalist.org/observations/226314983",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "greater_sand_plover_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248761/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136838/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_2.jpg",
       "public_id": "bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_2",
       "width": 793,
       "height": 793,
       "format": "jpg",
-      "bytes": 409539,
+      "bytes": 67228,
       "attribution": {
         "photographer": "pcaseirito",
         "photographer_url": "https://www.inaturalist.org/observations/112185885",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "greater_sand_plover_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248762/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136840/bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_3.jpg",
       "public_id": "bird-gallery/greater_sand_plover/inaturalist/greater_sand_plover_3",
       "width": 900,
       "height": 598,
       "format": "jpg",
-      "bytes": 402903,
+      "bytes": 52078,
       "attribution": {
         "photographer": "paulcools",
         "photographer_url": "https://www.inaturalist.org/observations/1563373",
@@ -69,12 +127,12 @@
   "wikimedia": [
     {
       "original_file": "greater_sand_plover_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171681/bird-gallery/greater_sand_plover/wikimedia/greater_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136842/bird-gallery/greater_sand_plover/wikimedia/greater_sand_plover_1.jpg",
       "public_id": "bird-gallery/greater_sand_plover/wikimedia/greater_sand_plover_1",
       "width": 1280,
       "height": 960,
       "format": "jpg",
-      "bytes": 363637,
+      "bytes": 215719,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

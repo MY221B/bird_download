@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "northern_goshawk_312218091.jpg",
+      "asset_id": "312218091",
+      "asset_url": "https://macaulaylibrary.org/asset/312218091"
+    },
+    {
+      "filename": "northern_goshawk_312218031.jpg",
+      "asset_id": "312218031",
+      "asset_url": "https://macaulaylibrary.org/asset/312218031"
+    },
+    {
+      "filename": "northern_goshawk_182469441.jpg",
+      "asset_id": "182469441",
+      "asset_url": "https://macaulaylibrary.org/asset/182469441"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "northern_goshawk_1.jpg",
@@ -8,7 +24,7 @@
       "observation_url": "https://www.inaturalist.org/observations/18522341",
       "photographer": "tomegatherion",
       "license": "cc-by-nc",
-      "credit_format": "\u00a9 tomegatherion (via iNaturalist), some rights reserved (CC-BY-NC)"
+      "credit_format": "© tomegatherion (via iNaturalist), some rights reserved (CC-BY-NC)"
     },
     {
       "filename": "northern_goshawk_2.jpg",
@@ -17,7 +33,7 @@
       "observation_url": "https://www.inaturalist.org/observations/9327389",
       "photographer": "psweet",
       "license": "cc-by-sa",
-      "credit_format": "\u00a9 psweet (via iNaturalist), some rights reserved (CC-BY-SA)"
+      "credit_format": "© psweet (via iNaturalist), some rights reserved (CC-BY-SA)"
     },
     {
       "filename": "northern_goshawk_3.jpg",
@@ -26,7 +42,7 @@
       "observation_url": "https://www.inaturalist.org/observations/59984409",
       "photographer": "clara_g",
       "license": "cc-by-nc-sa",
-      "credit_format": "\u00a9 clara_g (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
+      "credit_format": "© clara_g (via iNaturalist), some rights reserved (CC-BY-NC-SA)"
     }
   ],
   "wikimedia": [],

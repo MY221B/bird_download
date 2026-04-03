@@ -5,16 +5,74 @@
     "english_name": "Rustic Bunting",
     "scientific_name": "Emberiza rustica"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "rustic_bunting_385227701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136947/bird-gallery/rustic_bunting/macaulay/rustic_bunting_385227701.jpg",
+      "public_id": "bird-gallery/rustic_bunting/macaulay/rustic_bunting_385227701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58250,
+      "attribution": {
+        "photographer": "Volker Hesse",
+        "photographer_url": "https://macaulaylibrary.org/asset/385227701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Volker Hesse; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "385227701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rustic_bunting_385227721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136953/bird-gallery/rustic_bunting/macaulay/rustic_bunting_385227721.jpg",
+      "public_id": "bird-gallery/rustic_bunting/macaulay/rustic_bunting_385227721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75255,
+      "attribution": {
+        "photographer": "Volker Hesse",
+        "photographer_url": "https://macaulaylibrary.org/asset/385227721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Volker Hesse; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "385227721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rustic_bunting_632445223.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136958/bird-gallery/rustic_bunting/macaulay/rustic_bunting_632445223.jpg",
+      "public_id": "bird-gallery/rustic_bunting/macaulay/rustic_bunting_632445223",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82505,
+      "attribution": {
+        "photographer": "Marc Kramer | Birding by Bus",
+        "photographer_url": "https://macaulaylibrary.org/asset/632445223",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Marc Kramer | Birding by Bus; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "632445223",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "rustic_bunting_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171887/bird-gallery/rustic_bunting/inaturalist/rustic_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136964/bird-gallery/rustic_bunting/inaturalist/rustic_bunting_1.jpg",
       "public_id": "bird-gallery/rustic_bunting/inaturalist/rustic_bunting_1",
       "width": 1024,
       "height": 779,
       "format": "jpg",
-      "bytes": 442366,
+      "bytes": 78544,
       "attribution": {
         "photographer": null,
         "photographer_url": null,
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "rustic_bunting_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774251716/bird-gallery/rustic_bunting/inaturalist/rustic_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136966/bird-gallery/rustic_bunting/inaturalist/rustic_bunting_2.jpg",
       "public_id": "bird-gallery/rustic_bunting/inaturalist/rustic_bunting_2",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 155648,
+      "bytes": 28364,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

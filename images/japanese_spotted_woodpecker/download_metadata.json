@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "japanese_spotted_woodpecker_302941691.jpg",
+      "asset_id": "302941691",
+      "asset_url": "https://macaulaylibrary.org/asset/302941691"
+    },
+    {
+      "filename": "japanese_spotted_woodpecker_24366071.jpg",
+      "asset_id": "24366071",
+      "asset_url": "https://macaulaylibrary.org/asset/24366071"
+    },
+    {
+      "filename": "japanese_spotted_woodpecker_103657971.jpg",
+      "asset_id": "103657971",
+      "asset_url": "https://macaulaylibrary.org/asset/103657971"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "japanese_spotted_woodpecker_1.jpg",

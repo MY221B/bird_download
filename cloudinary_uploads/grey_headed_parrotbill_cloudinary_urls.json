@@ -5,16 +5,74 @@
     "english_name": "Grey-headed Parrotbill",
     "scientific_name": "Psittiparus gularis"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "grey_headed_parrotbill_141970371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136845/bird-gallery/grey_headed_parrotbill/macaulay/grey_headed_parrotbill_141970371.jpg",
+      "public_id": "bird-gallery/grey_headed_parrotbill/macaulay/grey_headed_parrotbill_141970371",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 71608,
+      "attribution": {
+        "photographer": "Wei Yan",
+        "photographer_url": "https://macaulaylibrary.org/asset/141970371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Wei Yan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "141970371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_headed_parrotbill_203433931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136851/bird-gallery/grey_headed_parrotbill/macaulay/grey_headed_parrotbill_203433931.jpg",
+      "public_id": "bird-gallery/grey_headed_parrotbill/macaulay/grey_headed_parrotbill_203433931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 63492,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/203433931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "203433931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_headed_parrotbill_203433971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136856/bird-gallery/grey_headed_parrotbill/macaulay/grey_headed_parrotbill_203433971.jpg",
+      "public_id": "bird-gallery/grey_headed_parrotbill/macaulay/grey_headed_parrotbill_203433971",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82592,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/203433971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "203433971",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "grey_headed_parrotbill_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171698/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136862/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_1.jpg",
       "public_id": "bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_1",
       "width": 683,
       "height": 1024,
       "format": "jpg",
-      "bytes": 270408,
+      "bytes": 72649,
       "attribution": {
         "photographer": "dike_zhang",
         "photographer_url": "https://www.inaturalist.org/observations/174581061",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "grey_headed_parrotbill_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249135/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136864/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_2.jpg",
       "public_id": "bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_2",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 263019,
+      "bytes": 85645,
       "attribution": {
         "photographer": "hsieh_will",
         "photographer_url": "https://www.inaturalist.org/observations/337531682",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "grey_headed_parrotbill_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249136/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136866/bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_3.jpg",
       "public_id": "bird-gallery/grey_headed_parrotbill/inaturalist/grey_headed_parrotbill_3",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 300720,
+      "bytes": 91251,
       "attribution": {
         "photographer": "inccc",
         "photographer_url": "https://www.inaturalist.org/observations/198051693",
@@ -69,12 +127,12 @@
   "wikimedia": [
     {
       "original_file": "grey_headed_parrotbill_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171699/bird-gallery/grey_headed_parrotbill/wikimedia/grey_headed_parrotbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136867/bird-gallery/grey_headed_parrotbill/wikimedia/grey_headed_parrotbill_1.jpg",
       "public_id": "bird-gallery/grey_headed_parrotbill/wikimedia/grey_headed_parrotbill_1",
       "width": 250,
       "height": 375,
       "format": "jpg",
-      "bytes": 34572,
+      "bytes": 23638,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

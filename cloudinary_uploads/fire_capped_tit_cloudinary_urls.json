@@ -5,7 +5,65 @@
     "english_name": "Fire-capped Tit",
     "scientific_name": "Cephalopyrus flammiceps"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "fire_capped_tit_541097521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136790/bird-gallery/fire_capped_tit/macaulay/fire_capped_tit_541097521.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/macaulay/fire_capped_tit_541097521",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 104373,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/541097521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "541097521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fire_capped_tit_541097531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136796/bird-gallery/fire_capped_tit/macaulay/fire_capped_tit_541097531.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/macaulay/fire_capped_tit_541097531",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 87970,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/541097531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "541097531",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fire_capped_tit_541097551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136802/bird-gallery/fire_capped_tit/macaulay/fire_capped_tit_541097551.jpg",
+      "public_id": "bird-gallery/fire_capped_tit/macaulay/fire_capped_tit_541097551",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 80118,
+      "attribution": {
+        "photographer": "Arpit Bansal",
+        "photographer_url": "https://macaulaylibrary.org/asset/541097551",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arpit Bansal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "541097551",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "fire_capped_tit_1.jpg",

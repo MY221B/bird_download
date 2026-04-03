@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "whites_thrush_234159271.jpg",
+      "asset_id": "234159271",
+      "asset_url": "https://macaulaylibrary.org/asset/234159271"
+    },
+    {
+      "filename": "whites_thrush_525433211.jpg",
+      "asset_id": "525433211",
+      "asset_url": "https://macaulaylibrary.org/asset/525433211"
+    },
+    {
+      "filename": "whites_thrush_373604261.jpg",
+      "asset_id": "373604261",
+      "asset_url": "https://macaulaylibrary.org/asset/373604261"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "whites_thrush_1.jpg",

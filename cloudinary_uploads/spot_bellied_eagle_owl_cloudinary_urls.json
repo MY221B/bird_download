@@ -5,16 +5,74 @@
     "english_name": "Spot-bellied Eagle Owl",
     "scientific_name": "Bubo nipalensis"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "spot_bellied_eagle_owl_114336911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136977/bird-gallery/spot_bellied_eagle_owl/macaulay/spot_bellied_eagle_owl_114336911.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/macaulay/spot_bellied_eagle_owl_114336911",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 125117,
+      "attribution": {
+        "photographer": "Snehasis Sinha",
+        "photographer_url": "https://macaulaylibrary.org/asset/114336911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Snehasis Sinha; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "114336911",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spot_bellied_eagle_owl_556457521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136983/bird-gallery/spot_bellied_eagle_owl/macaulay/spot_bellied_eagle_owl_556457521.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/macaulay/spot_bellied_eagle_owl_556457521",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 124471,
+      "attribution": {
+        "photographer": "Vikram S",
+        "photographer_url": "https://macaulaylibrary.org/asset/556457521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vikram S; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "556457521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spot_bellied_eagle_owl_81691741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136991/bird-gallery/spot_bellied_eagle_owl/macaulay/spot_bellied_eagle_owl_81691741.jpg",
+      "public_id": "bird-gallery/spot_bellied_eagle_owl/macaulay/spot_bellied_eagle_owl_81691741",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 116694,
+      "attribution": {
+        "photographer": "Prashant Kumar",
+        "photographer_url": "https://macaulaylibrary.org/asset/81691741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Prashant Kumar; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "81691741",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "spot_bellied_eagle_owl_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171928/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136996/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_1.jpg",
       "public_id": "bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_1",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 253132,
+      "bytes": 109362,
       "attribution": {
         "photographer": "hamsambly",
         "photographer_url": "https://www.inaturalist.org/observations/198957361",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "spot_bellied_eagle_owl_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774252237/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136998/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_2.jpg",
       "public_id": "bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_2",
       "width": 768,
       "height": 1024,
       "format": "jpg",
-      "bytes": 219056,
+      "bytes": 112991,
       "attribution": {
         "photographer": "rujutavinod",
         "photographer_url": "https://www.inaturalist.org/observations/73365593",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "spot_bellied_eagle_owl_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774252238/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137000/bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_3.jpg",
       "public_id": "bird-gallery/spot_bellied_eagle_owl/inaturalist/spot_bellied_eagle_owl_3",
       "width": 762,
       "height": 1024,
       "format": "jpg",
-      "bytes": 621221,
+      "bytes": 112036,
       "attribution": {
         "photographer": "suryaram90",
         "photographer_url": "https://www.inaturalist.org/observations/95946423",
@@ -69,12 +127,12 @@
   "wikimedia": [
     {
       "original_file": "spot_bellied_eagle_owl_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171929/bird-gallery/spot_bellied_eagle_owl/wikimedia/spot_bellied_eagle_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137003/bird-gallery/spot_bellied_eagle_owl/wikimedia/spot_bellied_eagle_owl_1.jpg",
       "public_id": "bird-gallery/spot_bellied_eagle_owl/wikimedia/spot_bellied_eagle_owl_1",
       "width": 960,
       "height": 1318,
       "format": "jpg",
-      "bytes": 506702,
+      "bytes": 428272,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

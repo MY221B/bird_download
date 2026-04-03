@@ -5,7 +5,65 @@
     "english_name": "Blue-and-white Flycatcher",
     "scientific_name": "Cyanoptila cyanomelana"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "blue_and_white_flycatcher_428165901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136659/bird-gallery/blue_and_white_flycatcher/macaulay/blue_and_white_flycatcher_428165901.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/macaulay/blue_and_white_flycatcher_428165901",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 88013,
+      "attribution": {
+        "photographer": "Roman Lo",
+        "photographer_url": "https://macaulaylibrary.org/asset/428165901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Roman Lo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "428165901",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_and_white_flycatcher_437715621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136666/bird-gallery/blue_and_white_flycatcher/macaulay/blue_and_white_flycatcher_437715621.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/macaulay/blue_and_white_flycatcher_437715621",
+      "width": 1200,
+      "height": 796,
+      "format": "jpg",
+      "bytes": 69335,
+      "attribution": {
+        "photographer": "Rui-Yang Ho",
+        "photographer_url": "https://macaulaylibrary.org/asset/437715621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rui-Yang Ho; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "437715621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_and_white_flycatcher_625107781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136675/bird-gallery/blue_and_white_flycatcher/macaulay/blue_and_white_flycatcher_625107781.jpg",
+      "public_id": "bird-gallery/blue_and_white_flycatcher/macaulay/blue_and_white_flycatcher_625107781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 59391,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/625107781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625107781",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "blue_and_white_flycatcher_1.jpg",

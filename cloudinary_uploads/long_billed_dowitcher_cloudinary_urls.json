@@ -5,7 +5,65 @@
     "english_name": "Long-billed Dowitcher",
     "scientific_name": "Limnodromus scolopaceus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "long_billed_dowitcher_270844651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136894/bird-gallery/long_billed_dowitcher/macaulay/long_billed_dowitcher_270844651.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/macaulay/long_billed_dowitcher_270844651",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 79350,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/270844651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "270844651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_billed_dowitcher_598850381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136899/bird-gallery/long_billed_dowitcher/macaulay/long_billed_dowitcher_598850381.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/macaulay/long_billed_dowitcher_598850381",
+      "width": 1200,
+      "height": 845,
+      "format": "jpg",
+      "bytes": 62987,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/598850381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "598850381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_billed_dowitcher_64787501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136905/bird-gallery/long_billed_dowitcher/macaulay/long_billed_dowitcher_64787501.jpg",
+      "public_id": "bird-gallery/long_billed_dowitcher/macaulay/long_billed_dowitcher_64787501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 140326,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/64787501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "64787501",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "long_billed_dowitcher_1.jpg",

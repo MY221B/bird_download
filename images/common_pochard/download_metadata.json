@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "common_pochard_396331801.jpg",
+      "asset_id": "396331801",
+      "asset_url": "https://macaulaylibrary.org/asset/396331801"
+    },
+    {
+      "filename": "common_pochard_462692491.jpg",
+      "asset_id": "462692491",
+      "asset_url": "https://macaulaylibrary.org/asset/462692491"
+    },
+    {
+      "filename": "common_pochard_645054330.jpg",
+      "asset_id": "645054330",
+      "asset_url": "https://macaulaylibrary.org/asset/645054330"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "common_pochard_1.jpg",

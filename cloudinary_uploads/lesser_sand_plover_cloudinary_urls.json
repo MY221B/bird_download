@@ -5,16 +5,74 @@
     "english_name": "Lesser Sand Plover",
     "scientific_name": "Charadrius mongolus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "lesser_sand_plover_162226241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136881/bird-gallery/lesser_sand_plover/macaulay/lesser_sand_plover_162226241.jpg",
+      "public_id": "bird-gallery/lesser_sand_plover/macaulay/lesser_sand_plover_162226241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 116902,
+      "attribution": {
+        "photographer": "Sulli Gibson",
+        "photographer_url": "https://macaulaylibrary.org/asset/162226241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sulli Gibson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "162226241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_sand_plover_290992901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136885/bird-gallery/lesser_sand_plover/macaulay/lesser_sand_plover_290992901.jpg",
+      "public_id": "bird-gallery/lesser_sand_plover/macaulay/lesser_sand_plover_290992901",
+      "width": 1200,
+      "height": 821,
+      "format": "jpg",
+      "bytes": 37932,
+      "attribution": {
+        "photographer": "David Irving",
+        "photographer_url": "https://macaulaylibrary.org/asset/290992901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Irving; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "290992901",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_sand_plover_372405741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136892/bird-gallery/lesser_sand_plover/macaulay/lesser_sand_plover_372405741.jpg",
+      "public_id": "bird-gallery/lesser_sand_plover/macaulay/lesser_sand_plover_372405741",
+      "width": 1200,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 63672,
+      "attribution": {
+        "photographer": "Cedrik von Briel",
+        "photographer_url": "https://macaulaylibrary.org/asset/372405741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Cedrik von Briel; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "372405741",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "lesser_sand_plover_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171748/bird-gallery/lesser_sand_plover/inaturalist/lesser_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136897/bird-gallery/lesser_sand_plover/inaturalist/lesser_sand_plover_1.jpg",
       "public_id": "bird-gallery/lesser_sand_plover/inaturalist/lesser_sand_plover_1",
       "width": 1024,
       "height": 768,
       "format": "jpg",
-      "bytes": 159046,
+      "bytes": 60254,
       "attribution": {
         "photographer": "steveansell",
         "photographer_url": "https://www.inaturalist.org/observations/261189851",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "lesser_sand_plover_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249882/bird-gallery/lesser_sand_plover/inaturalist/lesser_sand_plover_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136898/bird-gallery/lesser_sand_plover/inaturalist/lesser_sand_plover_2.jpg",
       "public_id": "bird-gallery/lesser_sand_plover/inaturalist/lesser_sand_plover_2",
       "width": 1024,
       "height": 682,
       "format": "jpg",
-      "bytes": 713754,
+      "bytes": 120736,
       "attribution": {
         "photographer": "evgen_gu",
         "photographer_url": "https://www.inaturalist.org/observations/250696615",
@@ -50,12 +108,12 @@
   "wikimedia": [
     {
       "original_file": "lesser_sand_plover_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171749/bird-gallery/lesser_sand_plover/wikimedia/lesser_sand_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136900/bird-gallery/lesser_sand_plover/wikimedia/lesser_sand_plover_1.jpg",
       "public_id": "bird-gallery/lesser_sand_plover/wikimedia/lesser_sand_plover_1",
       "width": 1280,
       "height": 799,
       "format": "jpg",
-      "bytes": 130742,
+      "bytes": 47539,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

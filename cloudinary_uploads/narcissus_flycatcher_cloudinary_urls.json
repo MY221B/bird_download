@@ -5,7 +5,65 @@
     "english_name": "Narcissus Flycatcher",
     "scientific_name": "Ficedula narcissina"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "narcissus_flycatcher_234514091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136894/bird-gallery/narcissus_flycatcher/macaulay/narcissus_flycatcher_234514091.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/macaulay/narcissus_flycatcher_234514091",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97966,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/234514091",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "234514091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "narcissus_flycatcher_41844211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136901/bird-gallery/narcissus_flycatcher/macaulay/narcissus_flycatcher_41844211.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/macaulay/narcissus_flycatcher_41844211",
+      "width": 1200,
+      "height": 745,
+      "format": "jpg",
+      "bytes": 51348,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/41844211",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "41844211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "narcissus_flycatcher_437716471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136907/bird-gallery/narcissus_flycatcher/macaulay/narcissus_flycatcher_437716471.jpg",
+      "public_id": "bird-gallery/narcissus_flycatcher/macaulay/narcissus_flycatcher_437716471",
+      "width": 1200,
+      "height": 829,
+      "format": "jpg",
+      "bytes": 44632,
+      "attribution": {
+        "photographer": "Rui-Yang Ho",
+        "photographer_url": "https://macaulaylibrary.org/asset/437716471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rui-Yang Ho; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "437716471",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "narcissus_flycatcher_1.jpg",

@@ -5,16 +5,74 @@
     "english_name": "Cattle Egret",
     "scientific_name": "Bubulcus coromandus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "cattle_egret_158411721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136689/bird-gallery/cattle_egret/macaulay/cattle_egret_158411721.jpg",
+      "public_id": "bird-gallery/cattle_egret/macaulay/cattle_egret_158411721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 37967,
+      "attribution": {
+        "photographer": "Mat Gilfedder",
+        "photographer_url": "https://macaulaylibrary.org/asset/158411721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Mat Gilfedder; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "158411721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cattle_egret_276873651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136695/bird-gallery/cattle_egret/macaulay/cattle_egret_276873651.jpg",
+      "public_id": "bird-gallery/cattle_egret/macaulay/cattle_egret_276873651",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 109382,
+      "attribution": {
+        "photographer": "Alexander Babych",
+        "photographer_url": "https://macaulaylibrary.org/asset/276873651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Alexander Babych; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "276873651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cattle_egret_625107926.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136700/bird-gallery/cattle_egret/macaulay/cattle_egret_625107926.jpg",
+      "public_id": "bird-gallery/cattle_egret/macaulay/cattle_egret_625107926",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85458,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/625107926",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625107926",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "cattle_egret_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171546/bird-gallery/cattle_egret/inaturalist/cattle_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136709/bird-gallery/cattle_egret/inaturalist/cattle_egret_1.jpg",
       "public_id": "bird-gallery/cattle_egret/inaturalist/cattle_egret_1",
       "width": 1024,
       "height": 947,
       "format": "jpg",
-      "bytes": 648361,
+      "bytes": 66257,
       "attribution": {
         "photographer": "tejaspm",
         "photographer_url": "https://www.inaturalist.org/observations/150499333",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "cattle_egret_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774246978/bird-gallery/cattle_egret/inaturalist/cattle_egret_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136710/bird-gallery/cattle_egret/inaturalist/cattle_egret_2.jpg",
       "public_id": "bird-gallery/cattle_egret/inaturalist/cattle_egret_2",
       "width": 1024,
       "height": 768,
       "format": "jpg",
-      "bytes": 160954,
+      "bytes": 125013,
       "attribution": {
         "photographer": "reginchen",
         "photographer_url": "https://www.inaturalist.org/observations/197480443",
@@ -50,12 +108,12 @@
   "wikimedia": [
     {
       "original_file": "cattle_egret_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171547/bird-gallery/cattle_egret/wikimedia/cattle_egret_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136712/bird-gallery/cattle_egret/wikimedia/cattle_egret_1.jpg",
       "public_id": "bird-gallery/cattle_egret/wikimedia/cattle_egret_1",
       "width": 250,
       "height": 322,
       "format": "jpg",
-      "bytes": 15641,
+      "bytes": 9639,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

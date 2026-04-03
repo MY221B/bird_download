@@ -5,16 +5,74 @@
     "english_name": "Striated Swallow",
     "scientific_name": "Cecropis striolata"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "striated_swallow_206002181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137009/bird-gallery/striated_swallow/macaulay/striated_swallow_206002181.jpg",
+      "public_id": "bird-gallery/striated_swallow/macaulay/striated_swallow_206002181",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 43138,
+      "attribution": {
+        "photographer": "Lars Petersson | My World of Bird Photography",
+        "photographer_url": "https://macaulaylibrary.org/asset/206002181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Lars Petersson | My World of Bird Photography; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "206002181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "striated_swallow_376961111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137015/bird-gallery/striated_swallow/macaulay/striated_swallow_376961111.jpg",
+      "public_id": "bird-gallery/striated_swallow/macaulay/striated_swallow_376961111",
+      "width": 1200,
+      "height": 787,
+      "format": "jpg",
+      "bytes": 44574,
+      "attribution": {
+        "photographer": "Robert Hutchinson \\u002F Birdtour Asia",
+        "photographer_url": "https://macaulaylibrary.org/asset/376961111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Robert Hutchinson \\u002F Birdtour Asia; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "376961111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "striated_swallow_609967399.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137021/bird-gallery/striated_swallow/macaulay/striated_swallow_609967399.jpg",
+      "public_id": "bird-gallery/striated_swallow/macaulay/striated_swallow_609967399",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58526,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/609967399",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "609967399",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "striated_swallow_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171940/bird-gallery/striated_swallow/inaturalist/striated_swallow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137027/bird-gallery/striated_swallow/inaturalist/striated_swallow_1.jpg",
       "public_id": "bird-gallery/striated_swallow/inaturalist/striated_swallow_1",
       "width": 1024,
       "height": 684,
       "format": "jpg",
-      "bytes": 233782,
+      "bytes": 35397,
       "attribution": {
         "photographer": "anna-solisia",
         "photographer_url": "https://www.inaturalist.org/observations/98285066",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "striated_swallow_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774252431/bird-gallery/striated_swallow/inaturalist/striated_swallow_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137028/bird-gallery/striated_swallow/inaturalist/striated_swallow_2.jpg",
       "public_id": "bird-gallery/striated_swallow/inaturalist/striated_swallow_2",
       "width": 1024,
       "height": 682,
       "format": "jpg",
-      "bytes": 132089,
+      "bytes": 46091,
       "attribution": {
         "photographer": "sahdevsinh87",
         "photographer_url": "https://www.inaturalist.org/observations/167176203",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "striated_swallow_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774252432/bird-gallery/striated_swallow/inaturalist/striated_swallow_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137030/bird-gallery/striated_swallow/inaturalist/striated_swallow_3.jpg",
       "public_id": "bird-gallery/striated_swallow/inaturalist/striated_swallow_3",
       "width": 1024,
       "height": 684,
       "format": "jpg",
-      "bytes": 543887,
+      "bytes": 78778,
       "attribution": {
         "photographer": "anna-solisia",
         "photographer_url": "https://www.inaturalist.org/observations/119602880",

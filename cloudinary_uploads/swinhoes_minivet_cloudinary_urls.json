@@ -5,7 +5,65 @@
     "english_name": "Swinhoe's Minivet",
     "scientific_name": "Pericrocotus cantonensis"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "swinhoes_minivet_344849071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137026/bird-gallery/swinhoes_minivet/macaulay/swinhoes_minivet_344849071.jpg",
+      "public_id": "bird-gallery/swinhoes_minivet/macaulay/swinhoes_minivet_344849071",
+      "width": 1200,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 62776,
+      "attribution": {
+        "photographer": "Ting-Wei (廷維) HUNG (洪)",
+        "photographer_url": "https://macaulaylibrary.org/asset/344849071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ting-Wei (廷維) HUNG (洪); Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "344849071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "swinhoes_minivet_638665306.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137032/bird-gallery/swinhoes_minivet/macaulay/swinhoes_minivet_638665306.jpg",
+      "public_id": "bird-gallery/swinhoes_minivet/macaulay/swinhoes_minivet_638665306",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 35831,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/638665306",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "638665306",
+        "note": null
+      }
+    },
+    {
+      "original_file": "swinhoes_minivet_638665308.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137037/bird-gallery/swinhoes_minivet/macaulay/swinhoes_minivet_638665308.jpg",
+      "public_id": "bird-gallery/swinhoes_minivet/macaulay/swinhoes_minivet_638665308",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77829,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/638665308",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "638665308",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "swinhoes_minivet_2.jpg",

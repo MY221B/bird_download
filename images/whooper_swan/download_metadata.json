@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "whooper_swan_65426221.jpg",
+      "asset_id": "65426221",
+      "asset_url": "https://macaulaylibrary.org/asset/65426221"
+    },
+    {
+      "filename": "whooper_swan_521680941.jpg",
+      "asset_id": "521680941",
+      "asset_url": "https://macaulaylibrary.org/asset/521680941"
+    },
+    {
+      "filename": "whooper_swan_624989075.jpg",
+      "asset_id": "624989075",
+      "asset_url": "https://macaulaylibrary.org/asset/624989075"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "whooper_swan_1.jpg",

@@ -1,61 +1,125 @@
 {
-  "macaulay": [],
+  "bird_info": {
+    "slug": "japanese_sparrow_hawk",
+    "chinese_name": "日本松雀鹰",
+    "english_name": "Japanese Sparrowhawk",
+    "scientific_name": "Accipiter gularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "japanese_sparrow_hawk_277501751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136852/bird-gallery/japanese_sparrow_hawk/macaulay/japanese_sparrow_hawk_277501751.jpg",
+      "public_id": "bird-gallery/japanese_sparrow_hawk/macaulay/japanese_sparrow_hawk_277501751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 40393,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/277501751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "277501751",
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_sparrow_hawk_624298639.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136858/bird-gallery/japanese_sparrow_hawk/macaulay/japanese_sparrow_hawk_624298639.jpg",
+      "public_id": "bird-gallery/japanese_sparrow_hawk/macaulay/japanese_sparrow_hawk_624298639",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91105,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/624298639",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624298639",
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_sparrow_hawk_634654446.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136863/bird-gallery/japanese_sparrow_hawk/macaulay/japanese_sparrow_hawk_634654446.jpg",
+      "public_id": "bird-gallery/japanese_sparrow_hawk/macaulay/japanese_sparrow_hawk_634654446",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 65822,
+      "attribution": {
+        "photographer": "김 석현",
+        "photographer_url": "https://macaulaylibrary.org/asset/634654446",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by 김 석현; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "634654446",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "japanese_sparrow_hawk_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171732/bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136871/bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_1.jpg",
       "public_id": "bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_1",
       "width": 1024,
       "height": 682,
       "format": "jpg",
-      "bytes": 179035,
+      "bytes": 13867,
       "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/74691808",
+        "license": "all-rights-reserved",
         "license_url": null,
-        "credit_format": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
+        "source_id": 74691808,
+        "note": null
       }
     },
     {
       "original_file": "japanese_sparrow_hawk_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249651/bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136873/bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_2.jpg",
       "public_id": "bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_2",
       "width": 1024,
       "height": 709,
       "format": "jpg",
-      "bytes": 38562,
+      "bytes": 12401,
       "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
+        "photographer": "queenie1",
+        "photographer_url": "https://www.inaturalist.org/observations/97748679",
+        "license": "all-rights-reserved",
         "license_url": null,
-        "credit_format": null,
+        "credit_format": "© queenie1 (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
+        "source_id": 97748679,
+        "note": null
       }
     },
     {
       "original_file": "japanese_sparrow_hawk_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249653/bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136875/bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_3.jpg",
       "public_id": "bird-gallery/japanese_sparrow_hawk/inaturalist/japanese_sparrow_hawk_3",
       "width": 1024,
       "height": 768,
       "format": "jpg",
-      "bytes": 248472,
+      "bytes": 76824,
       "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
+        "photographer": "g33k5p34k",
+        "photographer_url": "https://www.inaturalist.org/observations/155564335",
+        "license": "cc-by-nc",
         "license_url": null,
-        "credit_format": null,
+        "credit_format": "© g33k5p34k (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
+        "source_id": 155564335,
+        "note": null
       }
     }
   ],
@@ -63,12 +127,12 @@
   "wikimedia": [
     {
       "original_file": "japanese_sparrow_hawk_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171733/bird-gallery/japanese_sparrow_hawk/wikimedia/japanese_sparrow_hawk_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136877/bird-gallery/japanese_sparrow_hawk/wikimedia/japanese_sparrow_hawk_1.jpg",
       "public_id": "bird-gallery/japanese_sparrow_hawk/wikimedia/japanese_sparrow_hawk_1",
       "width": 1200,
       "height": 806,
       "format": "jpg",
-      "bytes": 207535,
+      "bytes": 130981,
       "attribution": {
         "photographer": null,
         "photographer_url": null,
@@ -82,10 +146,6 @@
     }
   ],
   "avibase": [],
-  "bird_info": {
-    "slug": "japanese_sparrow_hawk",
-    "chinese_name": "日本松雀鹰"
-  },
   "sounds": [
     {
       "original_file": "japanese_sparrow_hawk_638883605.mp3",

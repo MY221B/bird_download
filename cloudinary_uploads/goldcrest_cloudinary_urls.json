@@ -5,16 +5,74 @@
     "english_name": "Goldcrest",
     "scientific_name": "Regulus regulus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "goldcrest_204246211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136798/bird-gallery/goldcrest/macaulay/goldcrest_204246211.jpg",
+      "public_id": "bird-gallery/goldcrest/macaulay/goldcrest_204246211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 102202,
+      "attribution": {
+        "photographer": "Ivan Sjögren",
+        "photographer_url": "https://macaulaylibrary.org/asset/204246211",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ivan Sjögren; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204246211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "goldcrest_500048971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136805/bird-gallery/goldcrest/macaulay/goldcrest_500048971.jpg",
+      "public_id": "bird-gallery/goldcrest/macaulay/goldcrest_500048971",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 82393,
+      "attribution": {
+        "photographer": "Kuzey Cem Kulaçoğlu",
+        "photographer_url": "https://macaulaylibrary.org/asset/500048971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kuzey Cem Kulaçoğlu; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "500048971",
+        "note": null
+      }
+    },
+    {
+      "original_file": "goldcrest_512577901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136810/bird-gallery/goldcrest/macaulay/goldcrest_512577901.jpg",
+      "public_id": "bird-gallery/goldcrest/macaulay/goldcrest_512577901",
+      "width": 1200,
+      "height": 791,
+      "format": "jpg",
+      "bytes": 110623,
+      "attribution": {
+        "photographer": "Rui Pereira | Portugal Birding",
+        "photographer_url": "https://macaulaylibrary.org/asset/512577901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rui Pereira | Portugal Birding; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "512577901",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "goldcrest_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171657/bird-gallery/goldcrest/inaturalist/goldcrest_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136816/bird-gallery/goldcrest/inaturalist/goldcrest_1.jpg",
       "public_id": "bird-gallery/goldcrest/inaturalist/goldcrest_1",
       "width": 541,
       "height": 541,
       "format": "jpg",
-      "bytes": 100058,
+      "bytes": 38604,
       "attribution": {
         "photographer": "natali_sid",
         "photographer_url": "https://www.inaturalist.org/observations/12748817",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "goldcrest_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248479/bird-gallery/goldcrest/inaturalist/goldcrest_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136817/bird-gallery/goldcrest/inaturalist/goldcrest_2.jpg",
       "public_id": "bird-gallery/goldcrest/inaturalist/goldcrest_2",
       "width": 1024,
       "height": 1024,
       "format": "jpg",
-      "bytes": 274035,
+      "bytes": 131137,
       "attribution": {
         "photographer": "miro_maric",
         "photographer_url": "https://www.inaturalist.org/observations/250047141",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "goldcrest_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248480/bird-gallery/goldcrest/inaturalist/goldcrest_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136819/bird-gallery/goldcrest/inaturalist/goldcrest_3.jpg",
       "public_id": "bird-gallery/goldcrest/inaturalist/goldcrest_3",
       "width": 1024,
       "height": 1024,
       "format": "jpg",
-      "bytes": 248698,
+      "bytes": 90874,
       "attribution": {
         "photographer": "frank103",
         "photographer_url": "https://www.inaturalist.org/observations/67995777",
@@ -70,12 +128,12 @@
   "avibase": [
     {
       "original_file": "avibase_1_48898930623_c1d5e832f7_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171658/bird-gallery/goldcrest/avibase/avibase_1_48898930623_c1d5e832f7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136820/bird-gallery/goldcrest/avibase/avibase_1_48898930623_c1d5e832f7_b.jpg",
       "public_id": "bird-gallery/goldcrest/avibase/avibase_1_48898930623_c1d5e832f7_b",
       "width": 1023,
       "height": 756,
       "format": "jpg",
-      "bytes": 112294,
+      "bytes": 58522,
       "attribution": {
         "photographer": null,
         "photographer_url": null,
@@ -89,12 +147,12 @@
     },
     {
       "original_file": "avibase_2_48889304902_306ae028aa_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248483/bird-gallery/goldcrest/avibase/avibase_2_48889304902_306ae028aa_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136822/bird-gallery/goldcrest/avibase/avibase_2_48889304902_306ae028aa_b.jpg",
       "public_id": "bird-gallery/goldcrest/avibase/avibase_2_48889304902_306ae028aa_b",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 146132,
+      "bytes": 79544,
       "attribution": {
         "photographer": null,
         "photographer_url": null,
@@ -108,12 +166,12 @@
     },
     {
       "original_file": "avibase_3_52401325914_1e302fd0d5_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248484/bird-gallery/goldcrest/avibase/avibase_3_52401325914_1e302fd0d5_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136823/bird-gallery/goldcrest/avibase/avibase_3_52401325914_1e302fd0d5_b.jpg",
       "public_id": "bird-gallery/goldcrest/avibase/avibase_3_52401325914_1e302fd0d5_b",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 303888,
+      "bytes": 159235,
       "attribution": {
         "photographer": null,
         "photographer_url": null,

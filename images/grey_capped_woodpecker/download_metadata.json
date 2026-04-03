@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "grey_capped_woodpecker_624074309.jpg",
+      "asset_id": "624074309",
+      "asset_url": "https://macaulaylibrary.org/asset/624074309"
+    },
+    {
+      "filename": "grey_capped_woodpecker_97806461.jpg",
+      "asset_id": "97806461",
+      "asset_url": "https://macaulaylibrary.org/asset/97806461"
+    },
+    {
+      "filename": "grey_capped_woodpecker_205988061.jpg",
+      "asset_id": "205988061",
+      "asset_url": "https://macaulaylibrary.org/asset/205988061"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "grey_capped_woodpecker_1.jpg",
@@ -8,7 +24,7 @@
       "observation_url": "https://www.inaturalist.org/observations/8739640",
       "photographer": "wkcheng71",
       "license": "all-rights-reserved",
-      "credit_format": "\u00a9 wkcheng71 (via iNaturalist), All Rights Reserved"
+      "credit_format": "© wkcheng71 (via iNaturalist), All Rights Reserved"
     },
     {
       "filename": "grey_capped_woodpecker_2.jpg",
@@ -17,7 +33,7 @@
       "observation_url": "https://www.inaturalist.org/observations/307034024",
       "photographer": "great_horned_owl_tw",
       "license": "all-rights-reserved",
-      "credit_format": "\u00a9 great_horned_owl_tw (via iNaturalist), All Rights Reserved"
+      "credit_format": "© great_horned_owl_tw (via iNaturalist), All Rights Reserved"
     },
     {
       "filename": "grey_capped_woodpecker_3.jpg",
@@ -26,7 +42,7 @@
       "observation_url": "https://www.inaturalist.org/observations/68903528",
       "photographer": "taitung811",
       "license": "all-rights-reserved",
-      "credit_format": "\u00a9 taitung811 (via iNaturalist), All Rights Reserved"
+      "credit_format": "© taitung811 (via iNaturalist), All Rights Reserved"
     }
   ],
   "wikimedia": [],

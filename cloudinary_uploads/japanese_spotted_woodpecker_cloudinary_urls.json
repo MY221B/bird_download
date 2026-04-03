@@ -1,69 +1,123 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "japanese_spotted_woodpecker_103657971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136871/bird-gallery/japanese_spotted_woodpecker/macaulay/japanese_spotted_woodpecker_103657971.jpg",
+      "public_id": "bird-gallery/japanese_spotted_woodpecker/macaulay/japanese_spotted_woodpecker_103657971",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 80338,
+      "attribution": {
+        "photographer": "Todd Burrows",
+        "photographer_url": "https://macaulaylibrary.org/asset/103657971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Todd Burrows; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "103657971",
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_spotted_woodpecker_24366071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136876/bird-gallery/japanese_spotted_woodpecker/macaulay/japanese_spotted_woodpecker_24366071.jpg",
+      "public_id": "bird-gallery/japanese_spotted_woodpecker/macaulay/japanese_spotted_woodpecker_24366071",
+      "width": 806,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 79328,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/24366071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "24366071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_spotted_woodpecker_302941691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136881/bird-gallery/japanese_spotted_woodpecker/macaulay/japanese_spotted_woodpecker_302941691.jpg",
+      "public_id": "bird-gallery/japanese_spotted_woodpecker/macaulay/japanese_spotted_woodpecker_302941691",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 121132,
+      "attribution": {
+        "photographer": "Robert Cousins",
+        "photographer_url": "https://macaulaylibrary.org/asset/302941691",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Robert Cousins; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "302941691",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "japanese_spotted_woodpecker_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171733/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136886/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_1.jpg",
       "public_id": "bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_1",
       "width": 1024,
       "height": 768,
       "format": "jpg",
-      "bytes": 412590,
+      "bytes": 85248,
       "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
+        "photographer": "hajime_hojo",
+        "photographer_url": "https://www.inaturalist.org/observations/260334108",
+        "license": "cc-by-nc",
         "license_url": null,
-        "credit_format": null,
+        "credit_format": "© hajime_hojo (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
+        "source_id": 260334108,
+        "note": null
       }
     },
     {
       "original_file": "japanese_spotted_woodpecker_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249656/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136887/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_2.jpg",
       "public_id": "bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_2",
       "width": 1024,
       "height": 684,
       "format": "jpg",
-      "bytes": 580269,
+      "bytes": 127196,
       "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/113758858",
+        "license": "cc-by-nc-nd",
         "license_url": null,
-        "credit_format": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
         "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
+        "source_id": 113758858,
+        "note": null
       }
     },
     {
       "original_file": "japanese_spotted_woodpecker_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774249657/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136889/bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_3.jpg",
       "public_id": "bird-gallery/japanese_spotted_woodpecker/inaturalist/japanese_spotted_woodpecker_3",
       "width": 1024,
       "height": 768,
       "format": "jpg",
-      "bytes": 584360,
+      "bytes": 97297,
       "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
+        "photographer": "grack03",
+        "photographer_url": "https://www.inaturalist.org/observations/260339650",
+        "license": "cc-by-nc",
         "license_url": null,
-        "credit_format": null,
+        "credit_format": "© grack03 (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
+        "source_id": 260339650,
+        "note": null
       }
     }
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": [],
-  "bird_info": {
-    "slug": "japanese_spotted_woodpecker",
-    "chinese_name": "小星头啄木鸟"
-  }
+  "avibase": []
 }

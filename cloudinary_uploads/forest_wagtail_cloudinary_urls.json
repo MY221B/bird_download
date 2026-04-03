@@ -5,7 +5,65 @@
     "english_name": "Forest Wagtail",
     "scientific_name": "Dendronanthus indicus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "forest_wagtail_21136311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136791/bird-gallery/forest_wagtail/macaulay/forest_wagtail_21136311.jpg",
+      "public_id": "bird-gallery/forest_wagtail/macaulay/forest_wagtail_21136311",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64432,
+      "attribution": {
+        "photographer": "Ting-Wei (廷維) HUNG (洪)",
+        "photographer_url": "https://macaulaylibrary.org/asset/21136311",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ting-Wei (廷維) HUNG (洪); Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "21136311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "forest_wagtail_623741495.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136798/bird-gallery/forest_wagtail/macaulay/forest_wagtail_623741495.jpg",
+      "public_id": "bird-gallery/forest_wagtail/macaulay/forest_wagtail_623741495",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81671,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/623741495",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "623741495",
+        "note": null
+      }
+    },
+    {
+      "original_file": "forest_wagtail_629905861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136803/bird-gallery/forest_wagtail/macaulay/forest_wagtail_629905861.jpg",
+      "public_id": "bird-gallery/forest_wagtail/macaulay/forest_wagtail_629905861",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75878,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/629905861",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "629905861",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "forest_wagtail_1.jpg",

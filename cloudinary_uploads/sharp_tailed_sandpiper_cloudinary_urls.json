@@ -5,7 +5,65 @@
     "english_name": "Sharp-tailed Sandpiper",
     "scientific_name": "Calidris acuminata"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "sharp_tailed_sandpiper_143912771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136969/bird-gallery/sharp_tailed_sandpiper/macaulay/sharp_tailed_sandpiper_143912771.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/macaulay/sharp_tailed_sandpiper_143912771",
+      "width": 1200,
+      "height": 745,
+      "format": "jpg",
+      "bytes": 84615,
+      "attribution": {
+        "photographer": "Luke Seitz",
+        "photographer_url": "https://macaulaylibrary.org/asset/143912771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Luke Seitz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "143912771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharp_tailed_sandpiper_173549671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136973/bird-gallery/sharp_tailed_sandpiper/macaulay/sharp_tailed_sandpiper_173549671.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/macaulay/sharp_tailed_sandpiper_173549671",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55133,
+      "attribution": {
+        "photographer": "Sharif Uddin",
+        "photographer_url": "https://macaulaylibrary.org/asset/173549671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sharif Uddin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "173549671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharp_tailed_sandpiper_72942181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136979/bird-gallery/sharp_tailed_sandpiper/macaulay/sharp_tailed_sandpiper_72942181.jpg",
+      "public_id": "bird-gallery/sharp_tailed_sandpiper/macaulay/sharp_tailed_sandpiper_72942181",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 47927,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/72942181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "72942181",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "sharp_tailed_sandpiper_1.jpg",

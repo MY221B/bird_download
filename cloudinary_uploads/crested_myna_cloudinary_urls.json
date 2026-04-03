@@ -5,16 +5,74 @@
     "english_name": "Crested Myna",
     "scientific_name": "Acridotheres cristatellus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "crested_myna_178251441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136743/bird-gallery/crested_myna/macaulay/crested_myna_178251441.jpg",
+      "public_id": "bird-gallery/crested_myna/macaulay/crested_myna_178251441",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 57651,
+      "attribution": {
+        "photographer": "Arnaud Lacroix",
+        "photographer_url": "https://macaulaylibrary.org/asset/178251441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Arnaud Lacroix; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "178251441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "crested_myna_325636421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136750/bird-gallery/crested_myna/macaulay/crested_myna_325636421.jpg",
+      "public_id": "bird-gallery/crested_myna/macaulay/crested_myna_325636421",
+      "width": 1200,
+      "height": 701,
+      "format": "jpg",
+      "bytes": 44379,
+      "attribution": {
+        "photographer": "Rui Pereira | Portugal Birding",
+        "photographer_url": "https://macaulaylibrary.org/asset/325636421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rui Pereira | Portugal Birding; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "325636421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "crested_myna_353153791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136755/bird-gallery/crested_myna/macaulay/crested_myna_353153791.jpg",
+      "public_id": "bird-gallery/crested_myna/macaulay/crested_myna_353153791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82091,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/353153791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "353153791",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "crested_myna_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171606/bird-gallery/crested_myna/inaturalist/crested_myna_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136760/bird-gallery/crested_myna/inaturalist/crested_myna_1.jpg",
       "public_id": "bird-gallery/crested_myna/inaturalist/crested_myna_1",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 116760,
+      "bytes": 45204,
       "attribution": {
         "photographer": "graeme45",
         "photographer_url": "https://www.inaturalist.org/observations/98303086",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "crested_myna_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774247792/bird-gallery/crested_myna/inaturalist/crested_myna_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136761/bird-gallery/crested_myna/inaturalist/crested_myna_3.jpg",
       "public_id": "bird-gallery/crested_myna/inaturalist/crested_myna_3",
       "width": 1024,
       "height": 1024,
       "format": "jpg",
-      "bytes": 270739,
+      "bytes": 54311,
       "attribution": {
         "photographer": "pauldickson",
         "photographer_url": "https://www.inaturalist.org/observations/69621265",

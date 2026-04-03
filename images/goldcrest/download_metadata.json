@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "goldcrest_512577901.jpg",
+      "asset_id": "512577901",
+      "asset_url": "https://macaulaylibrary.org/asset/512577901"
+    },
+    {
+      "filename": "goldcrest_500048971.jpg",
+      "asset_id": "500048971",
+      "asset_url": "https://macaulaylibrary.org/asset/500048971"
+    },
+    {
+      "filename": "goldcrest_204246211.jpg",
+      "asset_id": "204246211",
+      "asset_url": "https://macaulaylibrary.org/asset/204246211"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "goldcrest_1.jpg",
@@ -8,7 +24,7 @@
       "observation_url": "https://www.inaturalist.org/observations/12748817",
       "photographer": "natali_sid",
       "license": "all-rights-reserved",
-      "credit_format": "© natali_sid (via iNaturalist), All Rights Reserved"
+      "credit_format": "\u00a9 natali_sid (via iNaturalist), All Rights Reserved"
     },
     {
       "filename": "goldcrest_2.jpg",
@@ -17,7 +33,7 @@
       "observation_url": "https://www.inaturalist.org/observations/250047141",
       "photographer": "miro_maric",
       "license": "cc-by-nc-nd",
-      "credit_format": "© miro_maric (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
+      "credit_format": "\u00a9 miro_maric (via iNaturalist), some rights reserved (CC-BY-NC-ND)"
     },
     {
       "filename": "goldcrest_3.jpg",
@@ -26,7 +42,7 @@
       "observation_url": "https://www.inaturalist.org/observations/67995777",
       "photographer": "frank103",
       "license": "cc-by",
-      "credit_format": "© frank103 (via iNaturalist), some rights reserved (CC-BY)"
+      "credit_format": "\u00a9 frank103 (via iNaturalist), some rights reserved (CC-BY)"
     }
   ],
   "wikimedia": [],
@@ -36,21 +52,21 @@
       "flickr_photo_id": "48898930623",
       "flickr_url": "https://www.flickr.com/photo.gne?id=48898930623",
       "source_url": "https://live.staticflickr.com/65535/48898930623_c1d5e832f7_b.jpg",
-      "note": "署名信息需从Flickr获取"
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
     },
     {
       "filename": "avibase_2_48889304902_306ae028aa_b.jpg",
       "flickr_photo_id": "48889304902",
       "flickr_url": "https://www.flickr.com/photo.gne?id=48889304902",
       "source_url": "https://live.staticflickr.com/65535/48889304902_306ae028aa_b.jpg",
-      "note": "署名信息需从Flickr获取"
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
     },
     {
       "filename": "avibase_3_52401325914_1e302fd0d5_b.jpg",
       "flickr_photo_id": "52401325914",
       "flickr_url": "https://www.flickr.com/photo.gne?id=52401325914",
       "source_url": "https://live.staticflickr.com/65535/52401325914_1e302fd0d5_b.jpg",
-      "note": "署名信息需从Flickr获取"
+      "note": "\u7f72\u540d\u4fe1\u606f\u9700\u4eceFlickr\u83b7\u53d6"
     }
   ]
 }

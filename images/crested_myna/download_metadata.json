@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "crested_myna_178251441.jpg",
+      "asset_id": "178251441",
+      "asset_url": "https://macaulaylibrary.org/asset/178251441"
+    },
+    {
+      "filename": "crested_myna_353153791.jpg",
+      "asset_id": "353153791",
+      "asset_url": "https://macaulaylibrary.org/asset/353153791"
+    },
+    {
+      "filename": "crested_myna_325636421.jpg",
+      "asset_id": "325636421",
+      "asset_url": "https://macaulaylibrary.org/asset/325636421"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "crested_myna_1.jpg",

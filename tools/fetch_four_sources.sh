@@ -110,17 +110,35 @@ if [ -n "$EBIRD_TOKEN" ]; then
     CACHE_DIR="$HOME/.cache/bird_memory_cards"
     mkdir -p "$CACHE_DIR"
     CACHE_FILE="$CACHE_DIR/ebird_taxonomy_$(date +%Y%m).json"
-    
+
+    # 验证缓存文件是否有效（必须是有记录的 JSON 数组）
+    _cache_valid=0
     if [ -f "$CACHE_FILE" ]; then
-      echo "[日志] 使用缓存的 eBird taxonomy（$(date +%Y-%m)）"
+      _record_count=$(python3 -c "import json,sys; d=json.load(open(sys.argv[1])); print(len(d))" "$CACHE_FILE" 2>/dev/null || echo "0")
+      if [ "$_record_count" -gt 100 ] 2>/dev/null; then
+        _cache_valid=1
+      else
+        echo "[日志] 缓存文件无效（记录数: ${_record_count}），将重新下载"
+        rm -f "$CACHE_FILE"
+      fi
+    fi
+
+    if [ "$_cache_valid" -eq 1 ]; then
+      echo "[日志] 使用缓存的 eBird taxonomy（$(date +%Y-%m)，${_record_count} 条）"
       EBIRD_FULL=$(cat "$CACHE_FILE")
     else
       echo "[日志] 下载完整 eBird taxonomy（首次或月度更新）..."
       EBIRD_FULL=$(curl -s -H "X-eBirdApiToken: $EBIRD_TOKEN" \
         "https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=en")
-      # 保存到缓存
-      echo "$EBIRD_FULL" > "$CACHE_FILE"
-      echo "[日志] 已缓存到: $CACHE_FILE"
+      # 验证下载结果再保存到缓存
+      _dl_count=$(echo "$EBIRD_FULL" | python3 -c "import json,sys; d=json.load(sys.stdin); print(len(d))" 2>/dev/null || echo "0")
+      if [ "$_dl_count" -gt 100 ] 2>/dev/null; then
+        echo "$EBIRD_FULL" > "$CACHE_FILE"
+        echo "[日志] 已缓存到: $CACHE_FILE（${_dl_count} 条记录）"
+      else
+        echo "[日志] ⚠️  下载的 taxonomy 无效（记录数: ${_dl_count}），跳过缓存保存"
+        EBIRD_FULL=""
+      fi
     fi
     
     if [ -n "$EBIRD_FULL" ]; then

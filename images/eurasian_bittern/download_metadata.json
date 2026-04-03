@@ -1,5 +1,21 @@
 {
-  "macaulay": [],
+  "macaulay": [
+    {
+      "filename": "eurasian_bittern_204584641.jpg",
+      "asset_id": "204584641",
+      "asset_url": "https://macaulaylibrary.org/asset/204584641"
+    },
+    {
+      "filename": "eurasian_bittern_205650181.jpg",
+      "asset_id": "205650181",
+      "asset_url": "https://macaulaylibrary.org/asset/205650181"
+    },
+    {
+      "filename": "eurasian_bittern_394120801.jpg",
+      "asset_id": "394120801",
+      "asset_url": "https://macaulaylibrary.org/asset/394120801"
+    }
+  ],
   "inaturalist": [
     {
       "filename": "eurasian_bittern_1.jpg",

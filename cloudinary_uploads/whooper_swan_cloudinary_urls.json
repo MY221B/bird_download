@@ -5,16 +5,74 @@
     "english_name": "Whooper Swan",
     "scientific_name": "Cygnus cygnus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "whooper_swan_521680941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137060/bird-gallery/whooper_swan/macaulay/whooper_swan_521680941.jpg",
+      "public_id": "bird-gallery/whooper_swan/macaulay/whooper_swan_521680941",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98779,
+      "attribution": {
+        "photographer": "Hung-Chieh Chien",
+        "photographer_url": "https://macaulaylibrary.org/asset/521680941",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Hung-Chieh Chien; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "521680941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "whooper_swan_624989075.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137067/bird-gallery/whooper_swan/macaulay/whooper_swan_624989075.jpg",
+      "public_id": "bird-gallery/whooper_swan/macaulay/whooper_swan_624989075",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 59402,
+      "attribution": {
+        "photographer": "Kike Junco",
+        "photographer_url": "https://macaulaylibrary.org/asset/624989075",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kike Junco; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624989075",
+        "note": null
+      }
+    },
+    {
+      "original_file": "whooper_swan_65426221.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137072/bird-gallery/whooper_swan/macaulay/whooper_swan_65426221.jpg",
+      "public_id": "bird-gallery/whooper_swan/macaulay/whooper_swan_65426221",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 70929,
+      "attribution": {
+        "photographer": "Christoph Moning",
+        "photographer_url": "https://macaulaylibrary.org/asset/65426221",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Christoph Moning; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "65426221",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "whooper_swan_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171999/bird-gallery/whooper_swan/inaturalist/whooper_swan_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137078/bird-gallery/whooper_swan/inaturalist/whooper_swan_1.jpg",
       "public_id": "bird-gallery/whooper_swan/inaturalist/whooper_swan_1",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 509489,
+      "bytes": 59421,
       "attribution": {
         "photographer": "austin0201",
         "photographer_url": "https://www.inaturalist.org/observations/9600979",
@@ -28,12 +86,12 @@
     },
     {
       "original_file": "whooper_swan_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774253521/bird-gallery/whooper_swan/inaturalist/whooper_swan_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137080/bird-gallery/whooper_swan/inaturalist/whooper_swan_2.jpg",
       "public_id": "bird-gallery/whooper_swan/inaturalist/whooper_swan_2",
       "width": 1024,
       "height": 683,
       "format": "jpg",
-      "bytes": 224803,
+      "bytes": 95320,
       "attribution": {
         "photographer": "boatbirder",
         "photographer_url": "https://www.inaturalist.org/observations/66290901",
@@ -47,12 +105,12 @@
     },
     {
       "original_file": "whooper_swan_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774253522/bird-gallery/whooper_swan/inaturalist/whooper_swan_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775137081/bird-gallery/whooper_swan/inaturalist/whooper_swan_3.jpg",
       "public_id": "bird-gallery/whooper_swan/inaturalist/whooper_swan_3",
       "width": 1024,
       "height": 745,
       "format": "jpg",
-      "bytes": 390057,
+      "bytes": 36700,
       "attribution": {
         "photographer": "dmitrydubikovskiy",
         "photographer_url": "https://www.inaturalist.org/observations/104808697",

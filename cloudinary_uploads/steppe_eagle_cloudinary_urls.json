@@ -145,5 +145,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "steppe_eagle_211633851.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1775928159/bird-gallery/steppe_eagle/sounds/steppe_eagle_211633851.mp3",
+      "public_id": "bird-gallery/steppe_eagle/sounds/steppe_eagle_211633851",
+      "duration": 8.064,
+      "format": "mp3",
+      "bytes": 112076,
+      "bit_rate": 111186,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "211633851",
+        "asset_url": "https://macaulaylibrary.org/asset/211633851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

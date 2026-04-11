@@ -145,5 +145,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "sanderling_138266.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1775928245/bird-gallery/sanderling/sounds/sanderling_138266.mp3",
+      "public_id": "bird-gallery/sanderling/sounds/sanderling_138266",
+      "duration": 52.776,
+      "format": "mp3",
+      "bytes": 1295036,
+      "bit_rate": 196306,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "138266",
+        "asset_url": "https://macaulaylibrary.org/asset/138266",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

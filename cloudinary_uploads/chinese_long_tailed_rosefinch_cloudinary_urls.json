@@ -1,0 +1,113 @@
+{
+  "bird_info": {
+    "slug": "chinese_long_tailed_rosefinch",
+    "chinese_name": "中华长尾雀",
+    "english_name": "Chinese Long-tailed Rosefinch",
+    "scientific_name": "Carpodacus lepidus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "chinese_long_tailed_rosefinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928145/bird-gallery/chinese_long_tailed_rosefinch/inaturalist/chinese_long_tailed_rosefinch_1.jpg",
+      "public_id": "bird-gallery/chinese_long_tailed_rosefinch/inaturalist/chinese_long_tailed_rosefinch_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 114979,
+      "attribution": {
+        "photographer": "hsia_chungkuei",
+        "photographer_url": "https://www.inaturalist.org/observations/336583363",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© hsia_chungkuei (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 336583363,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_long_tailed_rosefinch_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928147/bird-gallery/chinese_long_tailed_rosefinch/inaturalist/chinese_long_tailed_rosefinch_2.jpg",
+      "public_id": "bird-gallery/chinese_long_tailed_rosefinch/inaturalist/chinese_long_tailed_rosefinch_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 97407,
+      "attribution": {
+        "photographer": "lgz",
+        "photographer_url": "https://www.inaturalist.org/observations/340739612",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lgz (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 340739612,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_long_tailed_rosefinch_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928148/bird-gallery/chinese_long_tailed_rosefinch/inaturalist/chinese_long_tailed_rosefinch_3.jpg",
+      "public_id": "bird-gallery/chinese_long_tailed_rosefinch/inaturalist/chinese_long_tailed_rosefinch_3",
+      "width": 1024,
+      "height": 705,
+      "format": "jpg",
+      "bytes": 53186,
+      "attribution": {
+        "photographer": "terrytownshend",
+        "photographer_url": "https://www.inaturalist.org/observations/327343148",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© terrytownshend (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 327343148,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "chinese_long_tailed_rosefinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928149/bird-gallery/chinese_long_tailed_rosefinch/wikimedia/chinese_long_tailed_rosefinch_1.jpg",
+      "public_id": "bird-gallery/chinese_long_tailed_rosefinch/wikimedia/chinese_long_tailed_rosefinch_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 348034,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "chinese_long_tailed_rosefinch_251379261.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1775928214/bird-gallery/chinese_long_tailed_rosefinch/sounds/chinese_long_tailed_rosefinch_251379261.mp3",
+      "public_id": "bird-gallery/chinese_long_tailed_rosefinch/sounds/chinese_long_tailed_rosefinch_251379261",
+      "duration": 19.344,
+      "format": "mp3",
+      "bytes": 288740,
+      "bit_rate": 119412,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "251379261",
+        "asset_url": "https://macaulaylibrary.org/asset/251379261",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "bird_info": {
+    "slug": "ruff",
+    "chinese_name": "流苏鹬",
+    "english_name": "Ruff",
+    "scientific_name": "Calidris pugnax"
+  },
+  "macaulay": [
+    {
+      "original_file": "ruff_205648651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927913/bird-gallery/ruff/macaulay/ruff_205648651.jpg",
+      "public_id": "bird-gallery/ruff/macaulay/ruff_205648651",
+      "width": 1200,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 73437,
+      "attribution": {
+        "photographer": "Frans Vandewalle",
+        "photographer_url": "https://macaulaylibrary.org/asset/205648651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Frans Vandewalle; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "205648651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruff_98650201.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927918/bird-gallery/ruff/macaulay/ruff_98650201.jpg",
+      "public_id": "bird-gallery/ruff/macaulay/ruff_98650201",
+      "width": 1200,
+      "height": 734,
+      "format": "jpg",
+      "bytes": 87968,
+      "attribution": {
+        "photographer": "Jay McGowan",
+        "photographer_url": "https://macaulaylibrary.org/asset/98650201",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jay McGowan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "98650201",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruff_98650341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927922/bird-gallery/ruff/macaulay/ruff_98650341.jpg",
+      "public_id": "bird-gallery/ruff/macaulay/ruff_98650341",
+      "width": 1200,
+      "height": 764,
+      "format": "jpg",
+      "bytes": 64726,
+      "attribution": {
+        "photographer": "Jay McGowan",
+        "photographer_url": "https://macaulaylibrary.org/asset/98650341",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Jay McGowan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "98650341",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ruff_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927927/bird-gallery/ruff/inaturalist/ruff_1.jpg",
+      "public_id": "bird-gallery/ruff/inaturalist/ruff_1",
+      "width": 1024,
+      "height": 658,
+      "format": "jpg",
+      "bytes": 81766,
+      "attribution": {
+        "photographer": "birdchuvashia",
+        "photographer_url": "https://www.inaturalist.org/observations/19088861",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© birdchuvashia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19088861,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruff_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927928/bird-gallery/ruff/inaturalist/ruff_2.jpg",
+      "public_id": "bird-gallery/ruff/inaturalist/ruff_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57311,
+      "attribution": {
+        "photographer": "naturpel",
+        "photographer_url": "https://www.inaturalist.org/observations/20511973",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© naturpel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20511973,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruff_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927929/bird-gallery/ruff/inaturalist/ruff_3.jpg",
+      "public_id": "bird-gallery/ruff/inaturalist/ruff_3",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 58451,
+      "attribution": {
+        "photographer": "gaudettelaura",
+        "photographer_url": "https://www.inaturalist.org/observations/5981564",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© gaudettelaura (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 5981564,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54351906488_f558e7787a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927930/bird-gallery/ruff/avibase/avibase_1_54351906488_f558e7787a_b.jpg",
+      "public_id": "bird-gallery/ruff/avibase/avibase_1_54351906488_f558e7787a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 102418,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54351906488",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52326307922_bd3a906705_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927931/bird-gallery/ruff/avibase/avibase_2_52326307922_bd3a906705_b.jpg",
+      "public_id": "bird-gallery/ruff/avibase/avibase_2_52326307922_bd3a906705_b",
+      "width": 820,
+      "height": 820,
+      "format": "jpg",
+      "bytes": 66917,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52326307922",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54393365973_286bf00562_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927933/bird-gallery/ruff/avibase/avibase_3_54393365973_286bf00562_b.jpg",
+      "public_id": "bird-gallery/ruff/avibase/avibase_3_54393365973_286bf00562_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 138606,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54393365973",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "ruff_121526871.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1775928368/bird-gallery/ruff/sounds/ruff_121526871.mp3",
+      "public_id": "bird-gallery/ruff/sounds/ruff_121526871",
+      "duration": 8.16,
+      "format": "mp3",
+      "bytes": 190508,
+      "bit_rate": 186772,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "121526871",
+        "asset_url": "https://macaulaylibrary.org/asset/121526871",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

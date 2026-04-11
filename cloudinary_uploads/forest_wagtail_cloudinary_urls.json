@@ -164,5 +164,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "forest_wagtail_590592451.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1775928376/bird-gallery/forest_wagtail/sounds/forest_wagtail_590592451.mp3",
+      "public_id": "bird-gallery/forest_wagtail/sounds/forest_wagtail_590592451",
+      "duration": 122.448,
+      "format": "mp3",
+      "bytes": 1994252,
+      "bit_rate": 130292,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "590592451",
+        "asset_url": "https://macaulaylibrary.org/asset/590592451",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

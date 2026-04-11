@@ -107,5 +107,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_redstart_175467811.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1775928396/bird-gallery/black_redstart/sounds/black_redstart_175467811.mp3",
+      "public_id": "bird-gallery/black_redstart/sounds/black_redstart_175467811",
+      "duration": 100.464,
+      "format": "mp3",
+      "bytes": 1459772,
+      "bit_rate": 116242,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "175467811",
+        "asset_url": "https://macaulaylibrary.org/asset/175467811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

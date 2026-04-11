@@ -126,5 +126,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "ryukyu_flycatcher_203895861.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1775928338/bird-gallery/ryukyu_flycatcher/sounds/ryukyu_flycatcher_203895861.mp3",
+      "public_id": "bird-gallery/ryukyu_flycatcher/sounds/ryukyu_flycatcher_203895861",
+      "duration": 32.088,
+      "format": "mp3",
+      "bytes": 427028,
+      "bit_rate": 106464,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203895861",
+        "asset_url": "https://macaulaylibrary.org/asset/203895861",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

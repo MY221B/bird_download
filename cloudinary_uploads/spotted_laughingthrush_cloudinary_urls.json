@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "spotted_laughingthrush",
+    "chinese_name": "眼纹噪鹛",
+    "english_name": "Spotted Laughingthrush",
+    "scientific_name": "Ianthocincla ocellata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "spotted_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941421/bird-gallery/spotted_laughingthrush/inaturalist/spotted_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/spotted_laughingthrush/inaturalist/spotted_laughingthrush_1",
+      "width": 1024,
+      "height": 629,
+      "format": "jpg",
+      "bytes": 52183,
+      "attribution": {
+        "photographer": "tshulthrim",
+        "photographer_url": "https://www.inaturalist.org/observations/103612421",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tshulthrim (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 103612421,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_laughingthrush_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941424/bird-gallery/spotted_laughingthrush/inaturalist/spotted_laughingthrush_3.jpg",
+      "public_id": "bird-gallery/spotted_laughingthrush/inaturalist/spotted_laughingthrush_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59717,
+      "attribution": {
+        "photographer": "redpandacat",
+        "photographer_url": "https://www.inaturalist.org/observations/314743890",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 314743890,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_14390732431_4cfa71e478_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941425/bird-gallery/spotted_laughingthrush/avibase/avibase_1_14390732431_4cfa71e478_b.jpg",
+      "public_id": "bird-gallery/spotted_laughingthrush/avibase/avibase_1_14390732431_4cfa71e478_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 105766,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14390732431",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51257657049_732b80cef6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941426/bird-gallery/spotted_laughingthrush/avibase/avibase_2_51257657049_732b80cef6_b.jpg",
+      "public_id": "bird-gallery/spotted_laughingthrush/avibase/avibase_2_51257657049_732b80cef6_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 228031,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51257657049",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_51256911566_f07807b510_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941427/bird-gallery/spotted_laughingthrush/avibase/avibase_3_51256911566_f07807b510_b.jpg",
+      "public_id": "bird-gallery/spotted_laughingthrush/avibase/avibase_3_51256911566_f07807b510_b",
+      "width": 684,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 211840,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51256911566",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

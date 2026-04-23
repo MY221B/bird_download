@@ -83,107 +83,11 @@
         "source_id": 19088861,
         "note": null
       }
-    },
-    {
-      "original_file": "ruff_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927928/bird-gallery/ruff/inaturalist/ruff_2.jpg",
-      "public_id": "bird-gallery/ruff/inaturalist/ruff_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 57311,
-      "attribution": {
-        "photographer": "naturpel",
-        "photographer_url": "https://www.inaturalist.org/observations/20511973",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© naturpel (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 20511973,
-        "note": null
-      }
-    },
-    {
-      "original_file": "ruff_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927929/bird-gallery/ruff/inaturalist/ruff_3.jpg",
-      "public_id": "bird-gallery/ruff/inaturalist/ruff_3",
-      "width": 683,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 58451,
-      "attribution": {
-        "photographer": "gaudettelaura",
-        "photographer_url": "https://www.inaturalist.org/observations/5981564",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© gaudettelaura (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 5981564,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": [
-    {
-      "original_file": "avibase_1_54351906488_f558e7787a_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927930/bird-gallery/ruff/avibase/avibase_1_54351906488_f558e7787a_b.jpg",
-      "public_id": "bird-gallery/ruff/avibase/avibase_1_54351906488_f558e7787a_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 102418,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54351906488",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_52326307922_bd3a906705_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927931/bird-gallery/ruff/avibase/avibase_2_52326307922_bd3a906705_b.jpg",
-      "public_id": "bird-gallery/ruff/avibase/avibase_2_52326307922_bd3a906705_b",
-      "width": 820,
-      "height": 820,
-      "format": "jpg",
-      "bytes": 66917,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52326307922",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_54393365973_286bf00562_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927933/bird-gallery/ruff/avibase/avibase_3_54393365973_286bf00562_b.jpg",
-      "public_id": "bird-gallery/ruff/avibase/avibase_3_54393365973_286bf00562_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 138606,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54393365973",
-        "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "ruff_121526871.mp3",

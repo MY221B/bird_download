@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "masked_bunting",
+    "chinese_name": "日本灰头鹀",
+    "english_name": "Masked Bunting",
+    "scientific_name": "Emberiza personata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "masked_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941334/bird-gallery/masked_bunting/inaturalist/masked_bunting_2.jpg",
+      "public_id": "bird-gallery/masked_bunting/inaturalist/masked_bunting_2",
+      "width": 718,
+      "height": 479,
+      "format": "jpg",
+      "bytes": 26175,
+      "attribution": {
+        "photographer": "gg_copen",
+        "photographer_url": "https://www.inaturalist.org/observations/335573637",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gg_copen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 335573637,
+        "note": null
+      }
+    },
+    {
+      "original_file": "masked_bunting_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941336/bird-gallery/masked_bunting/inaturalist/masked_bunting_3.jpg",
+      "public_id": "bird-gallery/masked_bunting/inaturalist/masked_bunting_3",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 67287,
+      "attribution": {
+        "photographer": "m_sato",
+        "photographer_url": "https://www.inaturalist.org/observations/337762620",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© m_sato (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337762620,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52522575988_39e16b6dff_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941337/bird-gallery/masked_bunting/avibase/avibase_1_52522575988_39e16b6dff_b.jpg",
+      "public_id": "bird-gallery/masked_bunting/avibase/avibase_1_52522575988_39e16b6dff_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 83452,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52522575988",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52522576813_65db5b965a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941339/bird-gallery/masked_bunting/avibase/avibase_2_52522576813_65db5b965a_b.jpg",
+      "public_id": "bird-gallery/masked_bunting/avibase/avibase_2_52522576813_65db5b965a_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 78300,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52522576813",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_25009609942_e4c9853328_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941340/bird-gallery/masked_bunting/avibase/avibase_3_25009609942_e4c9853328_b.jpg",
+      "public_id": "bird-gallery/masked_bunting/avibase/avibase_3_25009609942_e4c9853328_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 119032,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "25009609942",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

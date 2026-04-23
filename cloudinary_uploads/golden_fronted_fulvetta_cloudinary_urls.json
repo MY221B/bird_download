@@ -1,0 +1,52 @@
+{
+  "bird_info": {
+    "slug": "golden_fronted_fulvetta",
+    "chinese_name": "金额雀鹛",
+    "english_name": "Golden-fronted Fulvetta",
+    "scientific_name": "Schoeniparus variegaticeps"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "golden_fronted_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941386/bird-gallery/golden_fronted_fulvetta/inaturalist/golden_fronted_fulvetta_1.jpg",
+      "public_id": "bird-gallery/golden_fronted_fulvetta/inaturalist/golden_fronted_fulvetta_1",
+      "width": 584,
+      "height": 779,
+      "format": "jpg",
+      "bytes": 31930,
+      "attribution": {
+        "photographer": "cypselurus",
+        "photographer_url": "https://www.inaturalist.org/observations/237243030",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cypselurus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 237243030,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_fronted_fulvetta_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941388/bird-gallery/golden_fronted_fulvetta/inaturalist/golden_fronted_fulvetta_2.jpg",
+      "public_id": "bird-gallery/golden_fronted_fulvetta/inaturalist/golden_fronted_fulvetta_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 52903,
+      "attribution": {
+        "photographer": "eeveefang",
+        "photographer_url": "https://www.inaturalist.org/observations/280453046",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© eeveefang (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 280453046,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

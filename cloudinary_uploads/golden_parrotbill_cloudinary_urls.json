@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "golden_parrotbill_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927994/bird-gallery/golden_parrotbill/inaturalist/golden_parrotbill_2.jpg",
-      "public_id": "bird-gallery/golden_parrotbill/inaturalist/golden_parrotbill_2",
-      "width": 1024,
-      "height": 719,
-      "format": "jpg",
-      "bytes": 129791,
-      "attribution": {
-        "photographer": "zztty",
-        "photographer_url": "https://www.inaturalist.org/observations/336304943",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© zztty (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 336304943,
-        "note": null
-      }
-    },
-    {
       "original_file": "golden_parrotbill_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927995/bird-gallery/golden_parrotbill/inaturalist/golden_parrotbill_3.jpg",
       "public_id": "bird-gallery/golden_parrotbill/inaturalist/golden_parrotbill_3",
@@ -124,47 +105,8 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "golden_parrotbill_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927996/bird-gallery/golden_parrotbill/wikimedia/golden_parrotbill_1.jpg",
-      "public_id": "bird-gallery/golden_parrotbill/wikimedia/golden_parrotbill_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 7379,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
-    {
-      "original_file": "avibase_1_49744843896_5d004ce3fe_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927997/bird-gallery/golden_parrotbill/avibase/avibase_1_49744843896_5d004ce3fe_b.jpg",
-      "public_id": "bird-gallery/golden_parrotbill/avibase/avibase_1_49744843896_5d004ce3fe_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 124820,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "49744843896",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_29288070311_d759e81009_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927998/bird-gallery/golden_parrotbill/avibase/avibase_2_29288070311_d759e81009_b.jpg",

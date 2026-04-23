@@ -43,25 +43,6 @@
         "source_id": "222562081",
         "note": null
       }
-    },
-    {
-      "original_file": "whistling_hawk_cuckoo_643612731.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928083/bird-gallery/whistling_hawk_cuckoo/macaulay/whistling_hawk_cuckoo_643612731.jpg",
-      "public_id": "bird-gallery/whistling_hawk_cuckoo/macaulay/whistling_hawk_cuckoo_643612731",
-      "width": 1200,
-      "height": 801,
-      "format": "jpg",
-      "bytes": 78043,
-      "attribution": {
-        "photographer": "Michelle & Peter Wong",
-        "photographer_url": "https://macaulaylibrary.org/asset/643612731",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "Bird by Michelle & Peter Wong; Cornell Lab of Ornithology | Macaulay Library",
-        "source": "macaulay",
-        "source_id": "643612731",
-        "note": null
-      }
     }
   ],
   "inaturalist": [
@@ -81,25 +62,6 @@
         "credit_format": "© mchoi_azis (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
         "source_id": 340100543,
-        "note": null
-      }
-    },
-    {
-      "original_file": "whistling_hawk_cuckoo_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928088/bird-gallery/whistling_hawk_cuckoo/inaturalist/whistling_hawk_cuckoo_2.jpg",
-      "public_id": "bird-gallery/whistling_hawk_cuckoo/inaturalist/whistling_hawk_cuckoo_2",
-      "width": 1024,
-      "height": 681,
-      "format": "jpg",
-      "bytes": 40819,
-      "attribution": {
-        "photographer": "eumaniraptora_guy",
-        "photographer_url": "https://www.inaturalist.org/observations/338442033",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© eumaniraptora_guy (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 338442033,
         "note": null
       }
     },

@@ -1,0 +1,72 @@
+{
+  "bird_info": {
+    "slug": "little_tern",
+    "chinese_name": "白额燕鸥",
+    "english_name": "Little Tern",
+    "scientific_name": "Sternula albifrons"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "little_tern_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941462/bird-gallery/little_tern/inaturalist/little_tern_3.jpg",
+      "public_id": "bird-gallery/little_tern/inaturalist/little_tern_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 46509,
+      "attribution": {
+        "photographer": "jartigas",
+        "photographer_url": "https://www.inaturalist.org/observations/77571657",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jartigas (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 77571657,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_2_54988447989_54058239b4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941464/bird-gallery/little_tern/avibase/avibase_2_54988447989_54058239b4_b.jpg",
+      "public_id": "bird-gallery/little_tern/avibase/avibase_2_54988447989_54058239b4_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 134246,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54988447989",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_49207093641_cf2c7821c0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941465/bird-gallery/little_tern/avibase/avibase_3_49207093641_cf2c7821c0_b.jpg",
+      "public_id": "bird-gallery/little_tern/avibase/avibase_3_49207093641_cf2c7821c0_b",
+      "width": 524,
+      "height": 382,
+      "format": "jpg",
+      "bytes": 11164,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49207093641",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

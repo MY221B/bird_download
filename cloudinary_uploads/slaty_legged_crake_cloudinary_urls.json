@@ -66,44 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "slaty_legged_crake_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928109/bird-gallery/slaty_legged_crake/inaturalist/slaty_legged_crake_1.jpg",
-      "public_id": "bird-gallery/slaty_legged_crake/inaturalist/slaty_legged_crake_1",
-      "width": 640,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 63962,
-      "attribution": {
-        "photographer": "shahidsshaikh",
-        "photographer_url": "https://www.inaturalist.org/observations/320983099",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© shahidsshaikh (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 320983099,
-        "note": null
-      }
-    },
-    {
-      "original_file": "slaty_legged_crake_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928110/bird-gallery/slaty_legged_crake/inaturalist/slaty_legged_crake_2.jpg",
-      "public_id": "bird-gallery/slaty_legged_crake/inaturalist/slaty_legged_crake_2",
-      "width": 1024,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 72776,
-      "attribution": {
-        "photographer": "aravindmanoj",
-        "photographer_url": "https://www.inaturalist.org/observations/71550780",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© aravindmanoj (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 71550780,
-        "note": null
-      }
-    },
-    {
       "original_file": "slaty_legged_crake_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928111/bird-gallery/slaty_legged_crake/inaturalist/slaty_legged_crake_3.jpg",
       "public_id": "bird-gallery/slaty_legged_crake/inaturalist/slaty_legged_crake_3",
@@ -162,44 +124,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "33061306411",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_22320312233_e736a78a6d_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928116/bird-gallery/slaty_legged_crake/avibase/avibase_2_22320312233_e736a78a6d_b.jpg",
-      "public_id": "bird-gallery/slaty_legged_crake/avibase/avibase_2_22320312233_e736a78a6d_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 72377,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "22320312233",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_22915469766_21d0af88c2_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928117/bird-gallery/slaty_legged_crake/avibase/avibase_3_22915469766_21d0af88c2_b.jpg",
-      "public_id": "bird-gallery/slaty_legged_crake/avibase/avibase_3_22915469766_21d0af88c2_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 82225,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "22915469766",
         "note": "署名信息需从Flickr获取"
       }
     }

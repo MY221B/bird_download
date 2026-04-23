@@ -66,44 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "brown_breasted_flycatcher_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928016/bird-gallery/brown_breasted_flycatcher/inaturalist/brown_breasted_flycatcher_1.jpg",
-      "public_id": "bird-gallery/brown_breasted_flycatcher/inaturalist/brown_breasted_flycatcher_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 109241,
-      "attribution": {
-        "photographer": "pkyeung",
-        "photographer_url": "https://www.inaturalist.org/observations/83915358",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© pkyeung (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 83915358,
-        "note": null
-      }
-    },
-    {
-      "original_file": "brown_breasted_flycatcher_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928017/bird-gallery/brown_breasted_flycatcher/inaturalist/brown_breasted_flycatcher_2.jpg",
-      "public_id": "bird-gallery/brown_breasted_flycatcher/inaturalist/brown_breasted_flycatcher_2",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 115475,
-      "attribution": {
-        "photographer": "bel_li",
-        "photographer_url": "https://www.inaturalist.org/observations/87238104",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© bel_li (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 87238104,
-        "note": null
-      }
-    },
-    {
       "original_file": "brown_breasted_flycatcher_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928018/bird-gallery/brown_breasted_flycatcher/inaturalist/brown_breasted_flycatcher_3.jpg",
       "public_id": "bird-gallery/brown_breasted_flycatcher/inaturalist/brown_breasted_flycatcher_3",

@@ -1,0 +1,52 @@
+{
+  "bird_info": {
+    "slug": "southern_rock_bunting",
+    "chinese_name": "西南灰眉岩鹀",
+    "english_name": "Southern Rock Bunting",
+    "scientific_name": "Emberiza yunnanensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "southern_rock_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941369/bird-gallery/southern_rock_bunting/inaturalist/southern_rock_bunting_1.jpg",
+      "public_id": "bird-gallery/southern_rock_bunting/inaturalist/southern_rock_bunting_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 77014,
+      "attribution": {
+        "photographer": "redpandacat",
+        "photographer_url": "https://www.inaturalist.org/observations/272465849",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 272465849,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_rock_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941371/bird-gallery/southern_rock_bunting/inaturalist/southern_rock_bunting_2.jpg",
+      "public_id": "bird-gallery/southern_rock_bunting/inaturalist/southern_rock_bunting_2",
+      "width": 976,
+      "height": 923,
+      "format": "jpg",
+      "bytes": 163696,
+      "attribution": {
+        "photographer": "alexander_naumov",
+        "photographer_url": "https://www.inaturalist.org/observations/345156309",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexander_naumov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 345156309,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

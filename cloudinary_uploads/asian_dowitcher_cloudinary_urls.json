@@ -1,0 +1,53 @@
+{
+  "bird_info": {
+    "slug": "asian_dowitcher",
+    "chinese_name": "半蹼鹬",
+    "english_name": "Asian Dowitcher",
+    "scientific_name": "Limnodromus semipalmatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "asian_dowitcher_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941394/bird-gallery/asian_dowitcher/inaturalist/asian_dowitcher_2.jpg",
+      "public_id": "bird-gallery/asian_dowitcher/inaturalist/asian_dowitcher_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73858,
+      "attribution": {
+        "photographer": "mike_hooper",
+        "photographer_url": "https://www.inaturalist.org/observations/132524368",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mike_hooper (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 132524368,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54266157210_ecfe815a5b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941397/bird-gallery/asian_dowitcher/avibase/avibase_1_54266157210_ecfe815a5b_b.jpg",
+      "public_id": "bird-gallery/asian_dowitcher/avibase/avibase_1_54266157210_ecfe815a5b_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 46164,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54266157210",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

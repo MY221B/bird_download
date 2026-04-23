@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "little_stint",
+    "chinese_name": "小滨鹬",
+    "english_name": "Little Stint",
+    "scientific_name": "Calidris minuta"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "little_stint_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941412/bird-gallery/little_stint/inaturalist/little_stint_1.jpg",
+      "public_id": "bird-gallery/little_stint/inaturalist/little_stint_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 82178,
+      "attribution": {
+        "photographer": "don-jean",
+        "photographer_url": "https://www.inaturalist.org/observations/60481805",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© don-jean (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 60481805,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_stint_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941413/bird-gallery/little_stint/inaturalist/little_stint_2.jpg",
+      "public_id": "bird-gallery/little_stint/inaturalist/little_stint_2",
+      "width": 1024,
+      "height": 722,
+      "format": "jpg",
+      "bytes": 131813,
+      "attribution": {
+        "photographer": "larisa-plusnina",
+        "photographer_url": "https://www.inaturalist.org/observations/184285222",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© larisa-plusnina (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 184285222,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_stint_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941415/bird-gallery/little_stint/inaturalist/little_stint_3.jpg",
+      "public_id": "bird-gallery/little_stint/inaturalist/little_stint_3",
+      "width": 1024,
+      "height": 658,
+      "format": "jpg",
+      "bytes": 78763,
+      "attribution": {
+        "photographer": "valeriya_xoma",
+        "photographer_url": "https://www.inaturalist.org/observations/19031555",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© valeriya_xoma (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19031555,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50549575088_3f2514069e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941416/bird-gallery/little_stint/avibase/avibase_1_50549575088_3f2514069e_b.jpg",
+      "public_id": "bird-gallery/little_stint/avibase/avibase_1_50549575088_3f2514069e_b",
+      "width": 1024,
+      "height": 804,
+      "format": "jpg",
+      "bytes": 111072,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50549575088",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_32284174878_94797a76a1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941417/bird-gallery/little_stint/avibase/avibase_3_32284174878_94797a76a1_b.jpg",
+      "public_id": "bird-gallery/little_stint/avibase/avibase_3_32284174878_94797a76a1_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59502,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32284174878",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

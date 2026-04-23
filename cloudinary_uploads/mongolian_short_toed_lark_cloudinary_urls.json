@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "mongolian_short_toed_lark_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927584/bird-gallery/mongolian_short_toed_lark/inaturalist/mongolian_short_toed_lark_1.jpg",
-      "public_id": "bird-gallery/mongolian_short_toed_lark/inaturalist/mongolian_short_toed_lark_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 109553,
-      "attribution": {
-        "photographer": "guanmushan",
-        "photographer_url": "https://www.inaturalist.org/observations/348623307",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© guanmushan (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 348623307,
-        "note": null
-      }
-    },
-    {
       "original_file": "mongolian_short_toed_lark_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927585/bird-gallery/mongolian_short_toed_lark/inaturalist/mongolian_short_toed_lark_2.jpg",
       "public_id": "bird-gallery/mongolian_short_toed_lark/inaturalist/mongolian_short_toed_lark_2",
@@ -146,44 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_50964416763_59d3cd2334_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927590/bird-gallery/mongolian_short_toed_lark/avibase/avibase_1_50964416763_59d3cd2334_b.jpg",
-      "public_id": "bird-gallery/mongolian_short_toed_lark/avibase/avibase_1_50964416763_59d3cd2334_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 141860,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "50964416763",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_50935150072_ba18e91eee_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927591/bird-gallery/mongolian_short_toed_lark/avibase/avibase_2_50935150072_ba18e91eee_b.jpg",
-      "public_id": "bird-gallery/mongolian_short_toed_lark/avibase/avibase_2_50935150072_ba18e91eee_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 211043,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "50935150072",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_3_53486033894_940680dda9_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927593/bird-gallery/mongolian_short_toed_lark/avibase/avibase_3_53486033894_940680dda9_b.jpg",

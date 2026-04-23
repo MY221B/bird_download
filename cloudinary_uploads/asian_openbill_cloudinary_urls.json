@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "asian_openbill_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927808/bird-gallery/asian_openbill/inaturalist/asian_openbill_1.jpg",
-      "public_id": "bird-gallery/asian_openbill/inaturalist/asian_openbill_1",
-      "width": 960,
-      "height": 720,
-      "format": "jpg",
-      "bytes": 82244,
-      "attribution": {
-        "photographer": "albertuserri",
-        "photographer_url": "https://www.inaturalist.org/observations/100846327",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© albertuserri (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 100846327,
-        "note": null
-      }
-    },
-    {
       "original_file": "asian_openbill_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927809/bird-gallery/asian_openbill/inaturalist/asian_openbill_2.jpg",
       "public_id": "bird-gallery/asian_openbill/inaturalist/asian_openbill_2",
@@ -162,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "51311637787",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_53060009038_f442299b13_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927815/bird-gallery/asian_openbill/avibase/avibase_2_53060009038_f442299b13_b.jpg",
-      "public_id": "bird-gallery/asian_openbill/avibase/avibase_2_53060009038_f442299b13_b",
-      "width": 870,
-      "height": 580,
-      "format": "jpg",
-      "bytes": 123042,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53060009038",
         "note": "署名信息需从Flickr获取"
       }
     },

@@ -1,0 +1,72 @@
+{
+  "bird_info": {
+    "slug": "baillons_crake",
+    "chinese_name": "小田鸡",
+    "english_name": "Baillon's Crake",
+    "scientific_name": "Zapornia pusilla"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "baillons_crake_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941470/bird-gallery/baillons_crake/inaturalist/baillons_crake_2.jpg",
+      "public_id": "bird-gallery/baillons_crake/inaturalist/baillons_crake_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 110620,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/141793317",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 141793317,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_2_50657595111_a42afaae19_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941473/bird-gallery/baillons_crake/avibase/avibase_2_50657595111_a42afaae19_b.jpg",
+      "public_id": "bird-gallery/baillons_crake/avibase/avibase_2_50657595111_a42afaae19_b",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 143853,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50657595111",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_49711341677_4a476f00f1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941474/bird-gallery/baillons_crake/avibase/avibase_3_49711341677_4a476f00f1_b.jpg",
+      "public_id": "bird-gallery/baillons_crake/avibase/avibase_3_49711341677_4a476f00f1_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 52152,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49711341677",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "grey_headed_bullfinch_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927738/bird-gallery/grey_headed_bullfinch/inaturalist/grey_headed_bullfinch_1.jpg",
-      "public_id": "bird-gallery/grey_headed_bullfinch/inaturalist/grey_headed_bullfinch_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 89257,
-      "attribution": {
-        "photographer": "hylee0829",
-        "photographer_url": "https://www.inaturalist.org/observations/35407610",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© hylee0829 (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 35407610,
-        "note": null
-      }
-    },
-    {
       "original_file": "grey_headed_bullfinch_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927740/bird-gallery/grey_headed_bullfinch/inaturalist/grey_headed_bullfinch_2.jpg",
       "public_id": "bird-gallery/grey_headed_bullfinch/inaturalist/grey_headed_bullfinch_2",
@@ -100,25 +81,6 @@
         "credit_format": "© wkcheng71 (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
         "source_id": 8906500,
-        "note": null
-      }
-    },
-    {
-      "original_file": "grey_headed_bullfinch_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927741/bird-gallery/grey_headed_bullfinch/inaturalist/grey_headed_bullfinch_3.jpg",
-      "public_id": "bird-gallery/grey_headed_bullfinch/inaturalist/grey_headed_bullfinch_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 78047,
-      "attribution": {
-        "photographer": "lin-chen-wen",
-        "photographer_url": "https://www.inaturalist.org/observations/337266056",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© lin-chen-wen (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 337266056,
         "note": null
       }
     }

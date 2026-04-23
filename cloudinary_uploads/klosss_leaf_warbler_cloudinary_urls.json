@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "klosss_leaf_warbler",
+    "chinese_name": "白斑尾柳莺",
+    "english_name": "Kloss's Leaf Warbler",
+    "scientific_name": "Phylloscopus ogilviegranti"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "klosss_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941359/bird-gallery/klosss_leaf_warbler/inaturalist/klosss_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/klosss_leaf_warbler/inaturalist/klosss_leaf_warbler_1",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 37593,
+      "attribution": {
+        "photographer": "robbythai",
+        "photographer_url": "https://www.inaturalist.org/observations/7540206",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robbythai (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 7540206,
+        "note": null
+      }
+    },
+    {
+      "original_file": "klosss_leaf_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941361/bird-gallery/klosss_leaf_warbler/inaturalist/klosss_leaf_warbler_2.jpg",
+      "public_id": "bird-gallery/klosss_leaf_warbler/inaturalist/klosss_leaf_warbler_2",
+      "width": 1024,
+      "height": 641,
+      "format": "jpg",
+      "bytes": 65975,
+      "attribution": {
+        "photographer": "christoph_moning",
+        "photographer_url": "https://www.inaturalist.org/observations/65696265",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christoph_moning (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 65696265,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_49767002311_d15b418b57_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941364/bird-gallery/klosss_leaf_warbler/avibase/avibase_1_49767002311_d15b418b57_b.jpg",
+      "public_id": "bird-gallery/klosss_leaf_warbler/avibase/avibase_1_49767002311_d15b418b57_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 62984,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49767002311",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49767332262_29cb474626_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941365/bird-gallery/klosss_leaf_warbler/avibase/avibase_2_49767332262_29cb474626_b.jpg",
+      "public_id": "bird-gallery/klosss_leaf_warbler/avibase/avibase_2_49767332262_29cb474626_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51823,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49767332262",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_31626384627_672fac8094_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941366/bird-gallery/klosss_leaf_warbler/avibase/avibase_3_31626384627_672fac8094_b.jpg",
+      "public_id": "bird-gallery/klosss_leaf_warbler/avibase/avibase_3_31626384627_672fac8094_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 82544,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "31626384627",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

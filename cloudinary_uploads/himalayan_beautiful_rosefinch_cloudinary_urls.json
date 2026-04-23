@@ -145,65 +145,7 @@
       }
     }
   ],
-  "avibase": [
-    {
-      "original_file": "avibase_1_46242136892_a783bd580e_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927473/bird-gallery/himalayan_beautiful_rosefinch/avibase/avibase_1_46242136892_a783bd580e_b.jpg",
-      "public_id": "bird-gallery/himalayan_beautiful_rosefinch/avibase/avibase_1_46242136892_a783bd580e_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 130788,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "46242136892",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_53659670767_de65960b9c_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927476/bird-gallery/himalayan_beautiful_rosefinch/avibase/avibase_2_53659670767_de65960b9c_b.jpg",
-      "public_id": "bird-gallery/himalayan_beautiful_rosefinch/avibase/avibase_2_53659670767_de65960b9c_b",
-      "width": 1024,
-      "height": 681,
-      "format": "jpg",
-      "bytes": 241789,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53659670767",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_53660892954_075b5e6452_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927477/bird-gallery/himalayan_beautiful_rosefinch/avibase/avibase_3_53660892954_075b5e6452_b.jpg",
-      "public_id": "bird-gallery/himalayan_beautiful_rosefinch/avibase/avibase_3_53660892954_075b5e6452_b",
-      "width": 1024,
-      "height": 681,
-      "format": "jpg",
-      "bytes": 119758,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53660892954",
-        "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "himalayan_beautiful_rosefinch_203942251.mp3",

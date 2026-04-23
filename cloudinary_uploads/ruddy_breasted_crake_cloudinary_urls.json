@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "ruddy_breasted_crake",
+    "chinese_name": "红胸田鸡",
+    "english_name": "Ruddy-breasted Crake",
+    "scientific_name": "Zapornia fusca"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "ruddy_breasted_crake_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941351/bird-gallery/ruddy_breasted_crake/inaturalist/ruddy_breasted_crake_2.jpg",
+      "public_id": "bird-gallery/ruddy_breasted_crake/inaturalist/ruddy_breasted_crake_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 107647,
+      "attribution": {
+        "photographer": "tamphan",
+        "photographer_url": "https://www.inaturalist.org/observations/268017178",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tamphan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 268017178,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruddy_breasted_crake_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941352/bird-gallery/ruddy_breasted_crake/inaturalist/ruddy_breasted_crake_3.jpg",
+      "public_id": "bird-gallery/ruddy_breasted_crake/inaturalist/ruddy_breasted_crake_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 67523,
+      "attribution": {
+        "photographer": "vivek32",
+        "photographer_url": "https://www.inaturalist.org/observations/301767533",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© vivek32 (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 301767533,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_53539290197_59aa038dee_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941353/bird-gallery/ruddy_breasted_crake/avibase/avibase_1_53539290197_59aa038dee_b.jpg",
+      "public_id": "bird-gallery/ruddy_breasted_crake/avibase/avibase_1_53539290197_59aa038dee_b",
+      "width": 1023,
+      "height": 706,
+      "format": "jpg",
+      "bytes": 122834,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53539290197",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_12539255885_c654fdf8a7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941355/bird-gallery/ruddy_breasted_crake/avibase/avibase_2_12539255885_c654fdf8a7_b.jpg",
+      "public_id": "bird-gallery/ruddy_breasted_crake/avibase/avibase_2_12539255885_c654fdf8a7_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 92377,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "12539255885",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "long_toed_stint",
+    "chinese_name": "长趾滨鹬",
+    "english_name": "Long-toed Stint",
+    "scientific_name": "Calidris subminuta"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "long_toed_stint_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941495/bird-gallery/long_toed_stint/inaturalist/long_toed_stint_1.jpg",
+      "public_id": "bird-gallery/long_toed_stint/inaturalist/long_toed_stint_1",
+      "width": 1024,
+      "height": 672,
+      "format": "jpg",
+      "bytes": 140004,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/160765",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 160765,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_toed_stint_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941496/bird-gallery/long_toed_stint/inaturalist/long_toed_stint_2.jpg",
+      "public_id": "bird-gallery/long_toed_stint/inaturalist/long_toed_stint_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49748,
+      "attribution": {
+        "photographer": "steveattwood",
+        "photographer_url": "https://www.inaturalist.org/observations/145297116",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© steveattwood (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 145297116,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_toed_stint_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941497/bird-gallery/long_toed_stint/inaturalist/long_toed_stint_3.jpg",
+      "public_id": "bird-gallery/long_toed_stint/inaturalist/long_toed_stint_3",
+      "width": 1024,
+      "height": 846,
+      "format": "jpg",
+      "bytes": 152791,
+      "attribution": {
+        "photographer": "mikew65",
+        "photographer_url": "https://www.inaturalist.org/observations/239876366",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mikew65 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 239876366,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_16760675715_f9b83ca59e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941498/bird-gallery/long_toed_stint/avibase/avibase_1_16760675715_f9b83ca59e_b.jpg",
+      "public_id": "bird-gallery/long_toed_stint/avibase/avibase_1_16760675715_f9b83ca59e_b",
+      "width": 600,
+      "height": 402,
+      "format": "jpg",
+      "bytes": 39900,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16760675715",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_22945296055_bc2f988b0a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941499/bird-gallery/long_toed_stint/avibase/avibase_2_22945296055_bc2f988b0a_b.jpg",
+      "public_id": "bird-gallery/long_toed_stint/avibase/avibase_2_22945296055_bc2f988b0a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64202,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "22945296055",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_49171482553_8b224bbc99_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941500/bird-gallery/long_toed_stint/avibase/avibase_3_49171482553_8b224bbc99_b.jpg",
+      "public_id": "bird-gallery/long_toed_stint/avibase/avibase_3_49171482553_8b224bbc99_b",
+      "width": 1024,
+      "height": 703,
+      "format": "jpg",
+      "bytes": 117492,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49171482553",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

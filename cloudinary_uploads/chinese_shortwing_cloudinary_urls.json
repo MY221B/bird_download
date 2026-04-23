@@ -1,0 +1,52 @@
+{
+  "bird_info": {
+    "slug": "chinese_shortwing",
+    "chinese_name": "蓝短翅鸫",
+    "english_name": "Chinese Shortwing",
+    "scientific_name": "Brachypteryx sinensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "chinese_shortwing_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941345/bird-gallery/chinese_shortwing/inaturalist/chinese_shortwing_2.jpg",
+      "public_id": "bird-gallery/chinese_shortwing/inaturalist/chinese_shortwing_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 61882,
+      "attribution": {
+        "photographer": "fishingcatt",
+        "photographer_url": "https://www.inaturalist.org/observations/339673782",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© fishingcatt (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 339673782,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_shortwing_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941346/bird-gallery/chinese_shortwing/inaturalist/chinese_shortwing_3.jpg",
+      "public_id": "bird-gallery/chinese_shortwing/inaturalist/chinese_shortwing_3",
+      "width": 1024,
+      "height": 704,
+      "format": "jpg",
+      "bytes": 60355,
+      "attribution": {
+        "photographer": "vincent_zhu",
+        "photographer_url": "https://www.inaturalist.org/observations/221028398",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© vincent_zhu (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 221028398,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -66,44 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "house_sparrow_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927904/bird-gallery/house_sparrow/inaturalist/house_sparrow_1.jpg",
-      "public_id": "bird-gallery/house_sparrow/inaturalist/house_sparrow_1",
-      "width": 851,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 185364,
-      "attribution": {
-        "photographer": "carnifex",
-        "photographer_url": "https://www.inaturalist.org/observations/125500734",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© carnifex (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 125500734,
-        "note": null
-      }
-    },
-    {
-      "original_file": "house_sparrow_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927905/bird-gallery/house_sparrow/inaturalist/house_sparrow_2.jpg",
-      "public_id": "bird-gallery/house_sparrow/inaturalist/house_sparrow_2",
-      "width": 1024,
-      "height": 640,
-      "format": "jpg",
-      "bytes": 35627,
-      "attribution": {
-        "photographer": "dwiebe",
-        "photographer_url": "https://www.inaturalist.org/observations/54899206",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© dwiebe (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 54899206,
-        "note": null
-      }
-    },
-    {
       "original_file": "house_sparrow_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927906/bird-gallery/house_sparrow/inaturalist/house_sparrow_3.jpg",
       "public_id": "bird-gallery/house_sparrow/inaturalist/house_sparrow_3",

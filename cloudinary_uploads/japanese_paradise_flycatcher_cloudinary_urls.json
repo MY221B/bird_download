@@ -102,25 +102,6 @@
         "source_id": 284849676,
         "note": null
       }
-    },
-    {
-      "original_file": "japanese_paradise_flycatcher_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928066/bird-gallery/japanese_paradise_flycatcher/inaturalist/japanese_paradise_flycatcher_3.jpg",
-      "public_id": "bird-gallery/japanese_paradise_flycatcher/inaturalist/japanese_paradise_flycatcher_3",
-      "width": 1024,
-      "height": 713,
-      "format": "jpg",
-      "bytes": 71744,
-      "attribution": {
-        "photographer": "flycatcherwarblerthrush",
-        "photographer_url": "https://www.inaturalist.org/observations/82519162",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© flycatcherwarblerthrush (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 82519162,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -146,44 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_49936003323_ef32ec10f2_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928068/bird-gallery/japanese_paradise_flycatcher/avibase/avibase_1_49936003323_ef32ec10f2_b.jpg",
-      "public_id": "bird-gallery/japanese_paradise_flycatcher/avibase/avibase_1_49936003323_ef32ec10f2_b",
-      "width": 913,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 140928,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "49936003323",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_53670735002_3952cce9d1_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928069/bird-gallery/japanese_paradise_flycatcher/avibase/avibase_2_53670735002_3952cce9d1_b.jpg",
-      "public_id": "bird-gallery/japanese_paradise_flycatcher/avibase/avibase_2_53670735002_3952cce9d1_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 195806,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53670735002",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_3_49719661938_70176c60c3_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775928071/bird-gallery/japanese_paradise_flycatcher/avibase/avibase_3_49719661938_70176c60c3_b.jpg",

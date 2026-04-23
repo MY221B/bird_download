@@ -83,44 +83,6 @@
         "source_id": 326441507,
         "note": null
       }
-    },
-    {
-      "original_file": "twite_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927764/bird-gallery/twite/inaturalist/twite_2.jpg",
-      "public_id": "bird-gallery/twite/inaturalist/twite_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 45074,
-      "attribution": {
-        "photographer": "d_pakalnis",
-        "photographer_url": "https://www.inaturalist.org/observations/263479267",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© d_pakalnis (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 263479267,
-        "note": null
-      }
-    },
-    {
-      "original_file": "twite_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927765/bird-gallery/twite/inaturalist/twite_3.jpg",
-      "public_id": "bird-gallery/twite/inaturalist/twite_3",
-      "width": 1024,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 44568,
-      "attribution": {
-        "photographer": "marina_mi",
-        "photographer_url": "https://www.inaturalist.org/observations/134062691",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© marina_mi (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 134062691,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],

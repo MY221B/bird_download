@@ -1,0 +1,72 @@
+{
+  "bird_info": {
+    "slug": "grey_hooded_fulvetta",
+    "chinese_name": "灰头雀鹛",
+    "english_name": "Grey-hooded Fulvetta",
+    "scientific_name": "Fulvetta cinereiceps"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "grey_hooded_fulvetta_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941451/bird-gallery/grey_hooded_fulvetta/inaturalist/grey_hooded_fulvetta_3.jpg",
+      "public_id": "bird-gallery/grey_hooded_fulvetta/inaturalist/grey_hooded_fulvetta_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 64916,
+      "attribution": {
+        "photographer": "stevestevens",
+        "photographer_url": "https://www.inaturalist.org/observations/290952467",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© stevestevens (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 290952467,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51052345773_437b742337_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941452/bird-gallery/grey_hooded_fulvetta/avibase/avibase_1_51052345773_437b742337_b.jpg",
+      "public_id": "bird-gallery/grey_hooded_fulvetta/avibase/avibase_1_51052345773_437b742337_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 91822,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51052345773",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_517576609_5db0e72b0a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941455/bird-gallery/grey_hooded_fulvetta/avibase/avibase_3_517576609_5db0e72b0a_b.jpg",
+      "public_id": "bird-gallery/grey_hooded_fulvetta/avibase/avibase_3_517576609_5db0e72b0a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 83969,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "517576609",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

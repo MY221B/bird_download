@@ -7,25 +7,6 @@
   },
   "macaulay": [
     {
-      "original_file": "red_throated_loon_127930701.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927524/bird-gallery/red_throated_loon/macaulay/red_throated_loon_127930701.jpg",
-      "public_id": "bird-gallery/red_throated_loon/macaulay/red_throated_loon_127930701",
-      "width": 1200,
-      "height": 800,
-      "format": "jpg",
-      "bytes": 53162,
-      "attribution": {
-        "photographer": "Dorian Anderson",
-        "photographer_url": "https://macaulaylibrary.org/asset/127930701",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "Bird by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
-        "source": "macaulay",
-        "source_id": "127930701",
-        "note": null
-      }
-    },
-    {
       "original_file": "red_throated_loon_175078971.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927528/bird-gallery/red_throated_loon/macaulay/red_throated_loon_175078971.jpg",
       "public_id": "bird-gallery/red_throated_loon/macaulay/red_throated_loon_175078971",
@@ -66,25 +47,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "red_throated_loon_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927537/bird-gallery/red_throated_loon/inaturalist/red_throated_loon_1.jpg",
-      "public_id": "bird-gallery/red_throated_loon/inaturalist/red_throated_loon_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 44916,
-      "attribution": {
-        "photographer": "jarvishere",
-        "photographer_url": "https://www.inaturalist.org/observations/94005131",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© jarvishere (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 94005131,
-        "note": null
-      }
-    },
-    {
       "original_file": "red_throated_loon_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927538/bird-gallery/red_throated_loon/inaturalist/red_throated_loon_2.jpg",
       "public_id": "bird-gallery/red_throated_loon/inaturalist/red_throated_loon_2",
@@ -100,25 +62,6 @@
         "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
         "source": "inaturalist",
         "source_id": 60546337,
-        "note": null
-      }
-    },
-    {
-      "original_file": "red_throated_loon_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927539/bird-gallery/red_throated_loon/inaturalist/red_throated_loon_3.jpg",
-      "public_id": "bird-gallery/red_throated_loon/inaturalist/red_throated_loon_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 55742,
-      "attribution": {
-        "photographer": "troydeclan",
-        "photographer_url": "https://www.inaturalist.org/observations/196434813",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© troydeclan (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 196434813,
         "note": null
       }
     }
@@ -145,65 +88,7 @@
       }
     }
   ],
-  "avibase": [
-    {
-      "original_file": "avibase_1_53353499395_2082e8811d_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927542/bird-gallery/red_throated_loon/avibase/avibase_1_53353499395_2082e8811d_b.jpg",
-      "public_id": "bird-gallery/red_throated_loon/avibase/avibase_1_53353499395_2082e8811d_b",
-      "width": 1024,
-      "height": 794,
-      "format": "jpg",
-      "bytes": 135562,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "53353499395",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_52153290194_a0311de2e9_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927543/bird-gallery/red_throated_loon/avibase/avibase_2_52153290194_a0311de2e9_b.jpg",
-      "public_id": "bird-gallery/red_throated_loon/avibase/avibase_2_52153290194_a0311de2e9_b",
-      "width": 1024,
-      "height": 656,
-      "format": "jpg",
-      "bytes": 43366,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52153290194",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_3_51589005285_0d99ba81ee_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927544/bird-gallery/red_throated_loon/avibase/avibase_3_51589005285_0d99ba81ee_b.jpg",
-      "public_id": "bird-gallery/red_throated_loon/avibase/avibase_3_51589005285_0d99ba81ee_b",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 81769,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "51589005285",
-        "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "red_throated_loon_138234.mp3",

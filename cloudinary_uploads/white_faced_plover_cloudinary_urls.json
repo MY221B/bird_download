@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "white_faced_plover",
+    "chinese_name": "白脸鸻",
+    "english_name": "White-faced Plover",
+    "scientific_name": "Charadrius dealbatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_faced_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941477/bird-gallery/white_faced_plover/inaturalist/white_faced_plover_1.jpg",
+      "public_id": "bird-gallery/white_faced_plover/inaturalist/white_faced_plover_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 133421,
+      "attribution": {
+        "photographer": "jjepanda",
+        "photographer_url": "https://www.inaturalist.org/observations/142793759",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jjepanda (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 142793759,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50924475432_72e6a355e9_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941480/bird-gallery/white_faced_plover/avibase/avibase_1_50924475432_72e6a355e9_b.jpg",
+      "public_id": "bird-gallery/white_faced_plover/avibase/avibase_1_50924475432_72e6a355e9_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 91450,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50924475432",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_48222237416_78287c91a4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941481/bird-gallery/white_faced_plover/avibase/avibase_2_48222237416_78287c91a4_b.jpg",
+      "public_id": "bird-gallery/white_faced_plover/avibase/avibase_2_48222237416_78287c91a4_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 66825,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48222237416",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52541845376_27a6f0aab2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941482/bird-gallery/white_faced_plover/avibase/avibase_3_52541845376_27a6f0aab2_b.jpg",
+      "public_id": "bird-gallery/white_faced_plover/avibase/avibase_3_52541845376_27a6f0aab2_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 63284,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52541845376",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

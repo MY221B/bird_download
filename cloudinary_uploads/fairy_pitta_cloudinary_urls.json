@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "fairy_pitta",
+    "chinese_name": "仙八色鸫",
+    "english_name": "Fairy Pitta",
+    "scientific_name": "Pitta nympha"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "fairy_pitta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941430/bird-gallery/fairy_pitta/inaturalist/fairy_pitta_1.jpg",
+      "public_id": "bird-gallery/fairy_pitta/inaturalist/fairy_pitta_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 65648,
+      "attribution": {
+        "photographer": "mike_hooper",
+        "photographer_url": "https://www.inaturalist.org/observations/99956901",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mike_hooper (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 99956901,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fairy_pitta_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941432/bird-gallery/fairy_pitta/inaturalist/fairy_pitta_2.jpg",
+      "public_id": "bird-gallery/fairy_pitta/inaturalist/fairy_pitta_2",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 124109,
+      "attribution": {
+        "photographer": "bwedderburn",
+        "photographer_url": "https://www.inaturalist.org/observations/226781942",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bwedderburn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 226781942,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fairy_pitta_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941433/bird-gallery/fairy_pitta/inaturalist/fairy_pitta_3.jpg",
+      "public_id": "bird-gallery/fairy_pitta/inaturalist/fairy_pitta_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 70693,
+      "attribution": {
+        "photographer": "palmi_xx9jw",
+        "photographer_url": "https://www.inaturalist.org/observations/137954963",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© palmi_xx9jw (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 137954963,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52564783888_60fc0d0c9d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941434/bird-gallery/fairy_pitta/avibase/avibase_1_52564783888_60fc0d0c9d_b.jpg",
+      "public_id": "bird-gallery/fairy_pitta/avibase/avibase_1_52564783888_60fc0d0c9d_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 118790,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52564783888",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52564783948_19797ca0c6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941435/bird-gallery/fairy_pitta/avibase/avibase_2_52564783948_19797ca0c6_b.jpg",
+      "public_id": "bird-gallery/fairy_pitta/avibase/avibase_2_52564783948_19797ca0c6_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 94659,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52564783948",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52664060406_697553e908_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941436/bird-gallery/fairy_pitta/avibase/avibase_3_52664060406_697553e908_b.jpg",
+      "public_id": "bird-gallery/fairy_pitta/avibase/avibase_3_52664060406_697553e908_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 93333,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52664060406",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

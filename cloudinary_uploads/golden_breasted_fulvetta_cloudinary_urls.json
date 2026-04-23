@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "golden_breasted_fulvetta",
+    "chinese_name": "金胸雀鹛",
+    "english_name": "Golden-breasted Fulvetta",
+    "scientific_name": "Lioparus chrysotis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "golden_breasted_fulvetta_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941403/bird-gallery/golden_breasted_fulvetta/inaturalist/golden_breasted_fulvetta_2.jpg",
+      "public_id": "bird-gallery/golden_breasted_fulvetta/inaturalist/golden_breasted_fulvetta_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89398,
+      "attribution": {
+        "photographer": "udayagashe",
+        "photographer_url": "https://www.inaturalist.org/observations/111905180",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© udayagashe (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 111905180,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_fulvetta_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941404/bird-gallery/golden_breasted_fulvetta/inaturalist/golden_breasted_fulvetta_3.jpg",
+      "public_id": "bird-gallery/golden_breasted_fulvetta/inaturalist/golden_breasted_fulvetta_3",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 43285,
+      "attribution": {
+        "photographer": "ys_z",
+        "photographer_url": "https://www.inaturalist.org/observations/300670705",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ys_z (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 300670705,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51257705964_7732e43f58_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941406/bird-gallery/golden_breasted_fulvetta/avibase/avibase_1_51257705964_7732e43f58_b.jpg",
+      "public_id": "bird-gallery/golden_breasted_fulvetta/avibase/avibase_1_51257705964_7732e43f58_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 220482,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51257705964",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51252808926_43e95d9729_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941407/bird-gallery/golden_breasted_fulvetta/avibase/avibase_2_51252808926_43e95d9729_b.jpg",
+      "public_id": "bird-gallery/golden_breasted_fulvetta/avibase/avibase_2_51252808926_43e95d9729_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 260402,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51252808926",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53576878121_130d7c7abe_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941409/bird-gallery/golden_breasted_fulvetta/avibase/avibase_3_53576878121_130d7c7abe_b.jpg",
+      "public_id": "bird-gallery/golden_breasted_fulvetta/avibase/avibase_3_53576878121_130d7c7abe_b",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 117982,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53576878121",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

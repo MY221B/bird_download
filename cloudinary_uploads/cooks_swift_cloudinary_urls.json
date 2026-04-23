@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "cooks_swift",
+    "chinese_name": "库氏白腰雨燕",
+    "english_name": "Cook's Swift",
+    "scientific_name": "Apus cooki"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "cooks_swift_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941439/bird-gallery/cooks_swift/inaturalist/cooks_swift_1.jpg",
+      "public_id": "bird-gallery/cooks_swift/inaturalist/cooks_swift_1",
+      "width": 1024,
+      "height": 615,
+      "format": "jpg",
+      "bytes": 28950,
+      "attribution": {
+        "photographer": "slsfirefight",
+        "photographer_url": "https://www.inaturalist.org/observations/34263464",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© slsfirefight (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34263464,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cooks_swift_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941442/bird-gallery/cooks_swift/inaturalist/cooks_swift_3.jpg",
+      "public_id": "bird-gallery/cooks_swift/inaturalist/cooks_swift_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 28356,
+      "attribution": {
+        "photographer": "allenlyu",
+        "photographer_url": "https://www.inaturalist.org/observations/260122178",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© allenlyu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 260122178,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54281139390_16e9c76469_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941443/bird-gallery/cooks_swift/avibase/avibase_1_54281139390_16e9c76469_b.jpg",
+      "public_id": "bird-gallery/cooks_swift/avibase/avibase_1_54281139390_16e9c76469_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 13735,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54281139390",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_7141193443_8bdcb014a1_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776941446/bird-gallery/cooks_swift/avibase/avibase_3_7141193443_8bdcb014a1_b.jpg",
+      "public_id": "bird-gallery/cooks_swift/avibase/avibase_3_7141193443_8bdcb014a1_b",
+      "width": 572,
+      "height": 479,
+      "format": "jpg",
+      "bytes": 13891,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "7141193443",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

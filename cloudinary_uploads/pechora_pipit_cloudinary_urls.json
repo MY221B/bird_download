@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "pechora_pipit_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927857/bird-gallery/pechora_pipit/inaturalist/pechora_pipit_2.jpg",
-      "public_id": "bird-gallery/pechora_pipit/inaturalist/pechora_pipit_2",
-      "width": 712,
-      "height": 852,
-      "format": "jpg",
-      "bytes": 105813,
-      "attribution": {
-        "photographer": "queenie1",
-        "photographer_url": "https://www.inaturalist.org/observations/98178051",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© queenie1 (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 98178051,
-        "note": null
-      }
-    },
-    {
       "original_file": "pechora_pipit_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927859/bird-gallery/pechora_pipit/inaturalist/pechora_pipit_3.jpg",
       "public_id": "bird-gallery/pechora_pipit/inaturalist/pechora_pipit_3",
@@ -146,25 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_55079928361_09fdf6fbf8_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927862/bird-gallery/pechora_pipit/avibase/avibase_1_55079928361_09fdf6fbf8_b.jpg",
-      "public_id": "bird-gallery/pechora_pipit/avibase/avibase_1_55079928361_09fdf6fbf8_b",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 134954,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "55079928361",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_50997326547_03e2e4f503_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927863/bird-gallery/pechora_pipit/avibase/avibase_2_50997326547_03e2e4f503_b.jpg",

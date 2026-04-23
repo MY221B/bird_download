@@ -167,6 +167,25 @@ print(code)
   fi
 fi
 
+# 1.3) 仍无 code：用 tools/smart_ebird_lookup（仓库 taxonomy 缓存 + 过期仍可用 + slug 硬编码兜底）
+if [ -z "$EBIRD_CODE" ]; then
+  _REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+  EBIRD_CODE=$(cd "$_REPO_ROOT" && SLUG="$SLUG" EN_NAME="$EN_NAME" SCI_NAME="$SCI_NAME" python3 -c '
+import os, sys
+sys.path.insert(0, "tools")
+from smart_ebird_lookup import smart_get_ebird_code
+c = smart_get_ebird_code(
+    slug=os.environ.get("SLUG", ""),
+    english_name=os.environ.get("EN_NAME", ""),
+    scientific_name=os.environ.get("SCI_NAME", ""),
+)
+print(c or "")
+' 2>/dev/null || echo "")
+  if [ -n "$EBIRD_CODE" ]; then
+    echo "[日志] smart_ebird_lookup（仓库）speciesCode: $EBIRD_CODE"
+  fi
+fi
+
 if [ -n "$EBIRD_CODE" ]; then
   echo "[日志] eBird taxonomy speciesCode: $EBIRD_CODE" 
   echo "[日志] Macaulay页面(用speciesCode充当taxonCode): https://search.macaulaylibrary.org/catalog?taxonCode=$EBIRD_CODE&sort=rating_rank_desc"
@@ -178,6 +197,9 @@ fi
 download_macaulay() {
 if should_download "macaulay"; then
 echo "📥 [1/4] Macaulay Library"
+
+# Macaulay 搜索 API 对简陋 UA 常返回空或非 JSON；使用常见浏览器标识
+MACAULAY_UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
 
 # 直接使用 eBird code 作为 Macaulay taxonCode（无需 API 搜索学名/英文名）
 ML_CODE=""
@@ -191,7 +213,7 @@ if [ -z "$ML_CODE" ]; then
   echo "  [日志] eBird 未返回 code，尝试从 Macaulay suggest API 获取…"
   
   # 先尝试学名
-  SUGGEST_RESP=$(curl -s -H "Accept: application/json" -H "User-Agent: Mozilla/5.0" \
+  SUGGEST_RESP=$(curl -s -H "Accept: application/json" -H "User-Agent: $MACAULAY_UA" -H "Referer: https://search.macaulaylibrary.org/" \
     "https://search.macaulaylibrary.org/api/v1/suggest?q=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$SCI_NAME" 2>/dev/null || echo "$SCI_NAME")" || echo "")
   
   if [ -n "$SUGGEST_RESP" ]; then
@@ -201,7 +223,7 @@ if [ -z "$ML_CODE" ]; then
   # 如果学名没找到，尝试英文名
   if [ -z "$ML_CODE" ]; then
     echo "  [日志] 学名未命中，改用英文名…"
-    SUGGEST_RESP=$(curl -s -H "Accept: application/json" -H "User-Agent: Mozilla/5.0" \
+    SUGGEST_RESP=$(curl -s -H "Accept: application/json" -H "User-Agent: $MACAULAY_UA" -H "Referer: https://search.macaulaylibrary.org/" \
       "https://search.macaulaylibrary.org/api/v1/suggest?q=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$EN_NAME" 2>/dev/null || echo "$EN_NAME")" || echo "")
     
     if [ -n "$SUGGEST_RESP" ]; then
@@ -216,13 +238,19 @@ if [ -z "$ML_CODE" ]; then
   ASSETS=""
 else
   echo "  [日志] 使用 taxonCode=$ML_CODE 查询照片…"
-  RESPONSE=$(curl -s -H "Accept: application/json" -H "User-Agent: Mozilla/5.0" \
+  RESPONSE=$(curl -s -H "Accept: application/json" -H "User-Agent: $MACAULAY_UA" -H "Referer: https://search.macaulaylibrary.org/" \
     "https://search.macaulaylibrary.org/api/v1/search?taxonCode=${ML_CODE}&mediaType=p&sort=rating_rank_desc&count=20")
-  ASSETS=$(echo "$RESPONSE" | python3 -c 'import sys,json
-d=json.load(sys.stdin)
+  ASSETS=$(echo "$RESPONSE" | python3 -c 'import sys, json
+raw = sys.stdin.read()
+try:
+    d = json.loads(raw)
+except json.JSONDecodeError:
+    print("  [日志] Macaulay search 返回非 JSON（可能被拦截或网络异常），跳过 asset 列表解析", file=sys.stderr)
+    sys.exit(0)
 for a in (d.get("results",{}) or {}).get("content",[]) or []:
-    aid=a.get("assetId") or a.get("catalogId")
-    if aid: print(aid)
+    aid = a.get("assetId") or a.get("catalogId")
+    if aid:
+        print(aid)
 ')
 fi
 COUNT=0

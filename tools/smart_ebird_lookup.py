@@ -11,6 +11,7 @@
 import json
 import os
 import re
+import sys
 import subprocess
 import urllib.parse
 from pathlib import Path
@@ -26,27 +27,33 @@ def load_or_fetch_taxonomy() -> List[Dict]:
     """
     加载或获取 eBird taxonomy
     使用本地缓存减少 API 调用
+
+    过期后优先尝试在线刷新；若无 EBIRD_TOKEN 或网络失败，仍返回过期缓存（stale-while-revalidate），
+    避免 7 天一过智能匹配全部失效。
     """
-    # 检查缓存是否存在且未过期
+    stale_data: List[Dict] = []
     if CACHE_FILE.exists():
         try:
             with open(CACHE_FILE, 'r', encoding='utf-8') as f:
                 cache = json.load(f)
-            
+            stale_data = cache.get('data') or []
             cached_time = datetime.fromisoformat(cache.get('timestamp', '2000-01-01'))
-            if datetime.now() - cached_time < timedelta(days=CACHE_EXPIRY_DAYS):
-                return cache.get('data', [])
-        except:
-            pass
-    
+            if stale_data and datetime.now() - cached_time < timedelta(days=CACHE_EXPIRY_DAYS):
+                return stale_data
+        except Exception:
+            stale_data = []
+
     # 获取新数据
-    print("📥 正在获取 eBird taxonomy 数据...")
+    print("📥 正在获取 eBird taxonomy 数据...", file=sys.stderr)
     ebird_token = os.environ.get('EBIRD_TOKEN')
-    
+
     if not ebird_token:
-        print("❌ 未设置 EBIRD_TOKEN")
+        print("❌ 未设置 EBIRD_TOKEN", file=sys.stderr)
+        if stale_data:
+            print(f"⚠️ 使用过期本地 taxonomy（{len(stale_data)} 条），智能匹配仍可用", file=sys.stderr)
+            return stale_data
         return []
-    
+
     try:
         url = "https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=en"
         result = subprocess.run(
@@ -55,10 +62,10 @@ def load_or_fetch_taxonomy() -> List[Dict]:
             text=True,
             timeout=60
         )
-        
+
         if result.returncode == 0 and result.stdout:
             data = json.loads(result.stdout)
-            
+
             # 保存缓存
             cache = {
                 'timestamp': datetime.now().isoformat(),
@@ -67,12 +74,15 @@ def load_or_fetch_taxonomy() -> List[Dict]:
             CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
             with open(CACHE_FILE, 'w', encoding='utf-8') as f:
                 json.dump(cache, f, ensure_ascii=False)
-            
-            print(f"✅ 已缓存 {len(data)} 个物种到 {CACHE_FILE}")
+
+            print(f"✅ 已缓存 {len(data)} 个物种到 {CACHE_FILE}", file=sys.stderr)
             return data
     except Exception as e:
-        print(f"❌ 获取 taxonomy 失败: {e}")
-    
+        print(f"❌ 获取 taxonomy 失败: {e}", file=sys.stderr)
+
+    if stale_data:
+        print(f"⚠️ 刷新失败，继续使用过期本地 taxonomy（{len(stale_data)} 条）", file=sys.stderr)
+        return stale_data
     return []
 
 
@@ -122,6 +132,11 @@ SLUG_TO_CODE_MAPPING = {
     
     # 雀形目
     'dusky_warbler': 'duswar',  # 褐柳莺（注意：不是 duswar1）
+
+    # eBird 仍作 Godlewski's Bunting；IOC「西南灰眉岩鹀」学名 Emberiza yunnanensis 无独立种
+    'southern_rock_bunting': 'godbun1',
+    # 学名已从 Charadrius 移至 Anarhynchus；英文名匹配即可，此处兜底
+    'white_faced_plover': 'whfplo2',
 }
 
 

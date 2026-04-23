@@ -64,65 +64,7 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "brambling_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171529/bird-gallery/brambling/inaturalist/brambling_1.jpg",
-      "public_id": "bird-gallery/brambling/inaturalist/brambling_1",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 627425,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
-      "original_file": "brambling_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774246744/bird-gallery/brambling/inaturalist/brambling_2.jpg",
-      "public_id": "bird-gallery/brambling/inaturalist/brambling_2",
-      "width": 1024,
-      "height": 686,
-      "format": "jpg",
-      "bytes": 392330,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
-      "original_file": "brambling_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774246746/bird-gallery/brambling/inaturalist/brambling_3.png",
-      "public_id": "bird-gallery/brambling/inaturalist/brambling_3",
-      "width": 1024,
-      "height": 573,
-      "format": "png",
-      "bytes": 685570,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [
     {

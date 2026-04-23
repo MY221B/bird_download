@@ -6,19 +6,21 @@
 
 ## ⚠️ AI 操作注意事项
 
-**`feather-flash-quiz/` 目录没有自己的 `.git` 文件**，它是一个普通目录。
+`**feather-flash-quiz/` 目录没有自己的 `.git` 文件**，它是一个普通目录。
 
 在该目录内执行任何 `git` 命令（如 `git remote set-url`、`git reset`），都会意外操作**父级 `bird_download` 仓库**，可能导致主仓库文件被覆盖。
 
 操作 `feather-flash-quiz` 的 git 时，必须先 `cd` 进入该目录，确认 `.git` 存在后再操作。
 
 **分支规则：**
+
 - 主仓库 `bird_download`：只推送到 `main`，**不需要** `develop_lovable` 分支
 - 子仓库 `feather-flash-quiz`：需同时维护 `main` 和 `develop_lovable` 两个分支
 
 ---
 
 ## ✨ 特性
+
 - 🎯 **100% 准确率**：官方 API + 物种标识符 + 自动验证
 - 🌐 **多源整合**：Macaulay、iNaturalist、Wikimedia、Avibase（补充）
 - 📝 **署名管理**：自动保存照片署名信息，符合各平台许可要求
@@ -86,6 +88,7 @@ python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 脚本会遍历 `config/birdreport_locations.json`，自动抓取最近一周的鸟单、下载缺失图片、上传至 Cloudinary，并把最新 JSON 拷贝到 `feather-flash-quiz/location_birds/<城市>/<地点>/<日期>` 目录，供前端使用。
 
 ## 📚 文档
+
 - 📖 **快速指南**：`docs/快速指南.md` - 完整使用说明
 - 📋 **CSV 模板**：`examples/birds_template.csv` - 批量下载模板
 - 🗺️ **鸟单自动抓取指南**：`docs/鸟单自动抓取指南.md` - 参数/配置化抓取教程
@@ -93,6 +96,7 @@ python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 - 🔊 **鸟叫声使用说明**：`docs/鸟叫声使用说明.md` - 鸟叫声下载与集成说明
 
 ## 📁 结构
+
 ```
 小鸟记忆卡/
 ├── all_birds.csv                    # 鸟类信息总表（包含中文名、英文名、学名）
@@ -135,6 +139,7 @@ python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 ### all_birds.csv 的作用
 
 `all_birds.csv` 是鸟类信息的主数据源（格式：`slug,chinese_name,english_name,scientific_name,wikipedia_page`），用于：
+
 - 提供准确的鸟类名称信息（优先于临时CSV）
 - 避免重复处理和错误信息
 - 自动补全新鸟类信息
@@ -142,6 +147,7 @@ python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 处理新鸟类时会自动更新 CSV，也可通过 `tools/add_missing_birds_to_csv.py` 手动补全。
 
 ## 🔑 方法论
+
 - **标识符优先级**：`Species Code (eBird) > Taxon ID (iNat) > 学名 > 英文名`
 - **数据源优先级**：`all_birds.csv > 临时CSV > JSON文件`
 - **质量筛选**：Macaulay 按评分降序；iNat 使用 `quality_grade=research`
@@ -150,6 +156,7 @@ python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 - **智能缓存**：已下载文件自动跳过，eBird taxonomy 月度缓存
 
 ## ⚡ 性能
+
 - **25-30 种鸟类批量下载**：~6 分钟（并行 3 个）
 - **重复运行**：~30 秒（智能跳过已有文件）
 - **成功率**：100%（容错模式，自动处理学名分类变更）
@@ -161,6 +168,7 @@ python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 **署名状态**：Macaulay（✅ 164 张）、iNaturalist（✅ 126 张）、Wikimedia（📝 未来自动保存）、Avibase（⏸️ 字段已预留）
 
 **补充工具**：
+
 ```bash
 python3 tools/fetch_macaulay_attribution.py  # 补充 Macaulay 署名
 python3 tools/add_attribution_fields.py      # 添加署名字段结构
@@ -173,6 +181,7 @@ python3 tools/add_attribution_fields.py      # 添加署名字段结构
 1. **在HTML页面选择图片**：打开 `examples/gallery_all_cloudinary.html`，勾选要删除的图片，点击"复制删除清单"
 2. **保存删除列表**：将复制的JSON保存为 `delete_list.json`
 3. **执行删除**：
+
 ```bash
 python3 tools/delete_cloudinary_by_list.py --file delete_list.json      # 从 Cloudinary 删除
 python3 tools/cleanup_references_by_list.py --file delete_list.json      # 从 JSON 文件移除引用
@@ -182,6 +191,7 @@ python3 tools/update_gallery_from_cloudinary.py                         # 更新
 **注意**：删除操作不可逆，请确认后再执行。
 
 ## 📄 许可
+
 - 代码与文档：MIT
 - 图片版权归原作者与平台所有（遵循各自许可证）
 - 使用照片时请遵循 cloudinary_uploads JSON 中的 attribution 信息

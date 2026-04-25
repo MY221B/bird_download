@@ -1099,6 +1099,22 @@
       ]
     },
     {
+      "id": "yunnan_puer_jingmaishan",
+      "name": "景迈山",
+      "province": "云南省",
+      "city": "普洱市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 60,
+      "point_aliases": [
+        "景迈山",
+        "普洱景迈山",
+        "景迈山古茶林",
+        "景迈山古茶林文化景观"
+      ]
+    },
+    {
       "id": "wuhu_shi",
       "name": "芜湖市",
       "province": "安徽省",

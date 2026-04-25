@@ -1,0 +1,4 @@
+{
+  "$schema": "https://www.cursor.com/schemas/environment.schema.json",
+  "install": "python3 -m pip install --user requests pycryptodome cloudinary\ngit submodule update --init --recursive\nif [ -f feather-flash-quiz/package-lock.json ]; then\n  npm ci --prefix feather-flash-quiz\nelif [ -f feather-flash-quiz/package.json ]; then\n  npm install --prefix feather-flash-quiz\nfi"
+}

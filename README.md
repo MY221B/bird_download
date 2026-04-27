@@ -87,6 +87,20 @@ python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 
 脚本会遍历 `config/birdreport_locations.json`，自动抓取最近一周的鸟单、下载缺失图片、上传至 Cloudinary，并把最新 JSON 拷贝到 `feather-flash-quiz/location_birds/<城市>/<地点>/<日期>` 目录，供前端使用。
 
+### 方式 5：美国公园近期鸟种（eBird）
+
+eBird recent observations API 最多支持回看 30 天。William O'Brien State Park 可直接使用热点 `L336470`，或使用地址坐标自动寻找附近热点：
+
+```bash
+export EBIRD_TOKEN=your_token
+python3 tools/fetch_ebird_recent_birds.py --loc-id L336470 --days 30
+
+# 默认坐标为 16821 O'Brien Trl N, Marine on St Croix, MN 55047
+python3 tools/fetch_ebird_recent_birds.py --days 30 --fallback-geo
+```
+
+如果公园热点 30 天内没有记录，可改用 `--mode geo --radius-km 10` 查询同一区域附近公开记录，或增大半径（eBird 坐标热点接口上限 50 km）。
+
 ## 📚 文档
 
 - 📖 **快速指南**：`docs/快速指南.md` - 完整使用说明

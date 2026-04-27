@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "hairy_woodpecker",
+    "chinese_name": "Hairy Woodpecker",
+    "english_name": "Hairy Woodpecker",
+    "scientific_name": "Leuconotopicus villosus"
+  },
+  "macaulay": [
+    {
+      "original_file": "hairy_woodpecker_308764911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261792/bird-gallery/hairy_woodpecker/macaulay/hairy_woodpecker_308764911.jpg",
+      "public_id": "bird-gallery/hairy_woodpecker/macaulay/hairy_woodpecker_308764911",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 118533,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/308764911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hairy Woodpecker by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "308764911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

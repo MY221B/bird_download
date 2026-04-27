@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "great_blue_heron",
+    "chinese_name": "Great Blue Heron",
+    "english_name": "Great Blue Heron",
+    "scientific_name": "Ardea herodias"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_blue_heron_295900451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261860/bird-gallery/great_blue_heron/macaulay/great_blue_heron_295900451.jpg",
+      "public_id": "bird-gallery/great_blue_heron/macaulay/great_blue_heron_295900451",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 103464,
+      "attribution": {
+        "photographer": "Carl Bergstrom",
+        "photographer_url": "https://macaulaylibrary.org/asset/295900451",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Great Blue Heron by Carl Bergstrom; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "295900451",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

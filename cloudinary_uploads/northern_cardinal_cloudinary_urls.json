@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "northern_cardinal",
+    "chinese_name": "Northern Cardinal",
+    "english_name": "Northern Cardinal",
+    "scientific_name": "Cardinalis cardinalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_cardinal_257386271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261816/bird-gallery/northern_cardinal/macaulay/northern_cardinal_257386271.jpg",
+      "public_id": "bird-gallery/northern_cardinal/macaulay/northern_cardinal_257386271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68788,
+      "attribution": {
+        "photographer": "Suzie McCann",
+        "photographer_url": "https://macaulaylibrary.org/asset/257386271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Cardinal by Suzie McCann; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "257386271",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

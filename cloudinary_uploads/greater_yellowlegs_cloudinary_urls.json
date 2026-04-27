@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "greater_yellowlegs",
+    "chinese_name": "Greater Yellowlegs",
+    "english_name": "Greater Yellowlegs",
+    "scientific_name": "Tringa melanoleuca"
+  },
+  "macaulay": [
+    {
+      "original_file": "greater_yellowlegs_409359061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261852/bird-gallery/greater_yellowlegs/macaulay/greater_yellowlegs_409359061.jpg",
+      "public_id": "bird-gallery/greater_yellowlegs/macaulay/greater_yellowlegs_409359061",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 48645,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/409359061",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Greater Yellowlegs by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "409359061",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

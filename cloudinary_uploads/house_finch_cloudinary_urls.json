@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "house_finch",
+    "chinese_name": "House Finch",
+    "english_name": "House Finch",
+    "scientific_name": "Haemorhous mexicanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "house_finch_402039751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261864/bird-gallery/house_finch/macaulay/house_finch_402039751.jpg",
+      "public_id": "bird-gallery/house_finch/macaulay/house_finch_402039751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72031,
+      "attribution": {
+        "photographer": "Davey Walters",
+        "photographer_url": "https://macaulaylibrary.org/asset/402039751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "House Finch by Davey Walters; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "402039751",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

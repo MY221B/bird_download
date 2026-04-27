@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "eastern_towhee",
+    "chinese_name": "Eastern Towhee",
+    "english_name": "Eastern Towhee",
+    "scientific_name": "Pipilo erythrophthalmus"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_towhee_324396161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261812/bird-gallery/eastern_towhee/macaulay/eastern_towhee_324396161.jpg",
+      "public_id": "bird-gallery/eastern_towhee/macaulay/eastern_towhee_324396161",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 54654,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/324396161",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Towhee by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "324396161",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

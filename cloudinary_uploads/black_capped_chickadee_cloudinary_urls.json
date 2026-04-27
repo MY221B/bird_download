@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "black_capped_chickadee",
+    "chinese_name": "Black-capped Chickadee",
+    "english_name": "Black-capped Chickadee",
+    "scientific_name": "Poecile atricapillus"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_capped_chickadee_47337851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261796/bird-gallery/black_capped_chickadee/macaulay/black_capped_chickadee_47337851.jpg",
+      "public_id": "bird-gallery/black_capped_chickadee/macaulay/black_capped_chickadee_47337851",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 91956,
+      "attribution": {
+        "photographer": "Scott Martin",
+        "photographer_url": "https://macaulaylibrary.org/asset/47337851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Black-capped Chickadee by Scott Martin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "47337851",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "fox_sparrow",
+    "chinese_name": "Fox Sparrow",
+    "english_name": "Fox Sparrow",
+    "scientific_name": "Passerella iliaca"
+  },
+  "macaulay": [
+    {
+      "original_file": "fox_sparrow_409190151.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261867/bird-gallery/fox_sparrow/macaulay/fox_sparrow_409190151.jpg",
+      "public_id": "bird-gallery/fox_sparrow/macaulay/fox_sparrow_409190151",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 100403,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/409190151",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Fox Sparrow by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "409190151",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

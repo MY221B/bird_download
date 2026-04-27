@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "killdeer",
+    "chinese_name": "Killdeer",
+    "english_name": "Killdeer",
+    "scientific_name": "Charadrius vociferus"
+  },
+  "macaulay": [
+    {
+      "original_file": "killdeer_158310331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261818/bird-gallery/killdeer/macaulay/killdeer_158310331.jpg",
+      "public_id": "bird-gallery/killdeer/macaulay/killdeer_158310331",
+      "width": 1200,
+      "height": 754,
+      "format": "jpg",
+      "bytes": 83185,
+      "attribution": {
+        "photographer": "Max Nootbaar",
+        "photographer_url": "https://macaulaylibrary.org/asset/158310331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Killdeer by Max Nootbaar; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "158310331",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

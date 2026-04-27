@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "american_robin",
+    "chinese_name": "American Robin",
+    "english_name": "American Robin",
+    "scientific_name": "Turdus migratorius"
+  },
+  "macaulay": [
+    {
+      "original_file": "american_robin_125030541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261804/bird-gallery/american_robin/macaulay/american_robin_125030541.jpg",
+      "public_id": "bird-gallery/american_robin/macaulay/american_robin_125030541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66335,
+      "attribution": {
+        "photographer": "Kyle Tansley",
+        "photographer_url": "https://macaulaylibrary.org/asset/125030541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Robin by Kyle Tansley; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "125030541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

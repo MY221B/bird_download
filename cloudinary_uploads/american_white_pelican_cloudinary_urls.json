@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "american_white_pelican",
+    "chinese_name": "American White Pelican",
+    "english_name": "American White Pelican",
+    "scientific_name": "Pelecanus erythrorhynchos"
+  },
+  "macaulay": [
+    {
+      "original_file": "american_white_pelican_559588161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261829/bird-gallery/american_white_pelican/macaulay/american_white_pelican_559588161.jpg",
+      "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_559588161",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69185,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/559588161",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American White Pelican by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "559588161",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

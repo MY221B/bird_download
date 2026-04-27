@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "pileated_woodpecker",
+    "chinese_name": "Pileated Woodpecker",
+    "english_name": "Pileated Woodpecker",
+    "scientific_name": "Dryocopus pileatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "pileated_woodpecker_204316431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261820/bird-gallery/pileated_woodpecker/macaulay/pileated_woodpecker_204316431.jpg",
+      "public_id": "bird-gallery/pileated_woodpecker/macaulay/pileated_woodpecker_204316431",
+      "width": 1085,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 200312,
+      "attribution": {
+        "photographer": "Hal and Kirsten Snyder",
+        "photographer_url": "https://macaulaylibrary.org/asset/204316431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Pileated Woodpecker by Hal and Kirsten Snyder; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204316431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

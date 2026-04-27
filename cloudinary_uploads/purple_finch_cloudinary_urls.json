@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "purple_finch",
+    "chinese_name": "Purple Finch",
+    "english_name": "Purple Finch",
+    "scientific_name": "Haemorhous purpureus"
+  },
+  "macaulay": [
+    {
+      "original_file": "purple_finch_313986001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261866/bird-gallery/purple_finch/macaulay/purple_finch_313986001.jpg",
+      "public_id": "bird-gallery/purple_finch/macaulay/purple_finch_313986001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82385,
+      "attribution": {
+        "photographer": "James MacKenzie",
+        "photographer_url": "https://macaulaylibrary.org/asset/313986001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Purple Finch by James MacKenzie; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "313986001",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

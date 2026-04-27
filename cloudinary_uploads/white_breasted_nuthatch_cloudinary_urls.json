@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "white_breasted_nuthatch",
+    "chinese_name": "White-breasted Nuthatch",
+    "english_name": "White-breasted Nuthatch",
+    "scientific_name": "Sitta carolinensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_breasted_nuthatch_51357571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261799/bird-gallery/white_breasted_nuthatch/macaulay/white_breasted_nuthatch_51357571.jpg",
+      "public_id": "bird-gallery/white_breasted_nuthatch/macaulay/white_breasted_nuthatch_51357571",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103813,
+      "attribution": {
+        "photographer": "Evan Lipton",
+        "photographer_url": "https://macaulaylibrary.org/asset/51357571",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "White-breasted Nuthatch by Evan Lipton; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "51357571",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

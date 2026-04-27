@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "blue_jay",
+    "chinese_name": "Blue Jay",
+    "english_name": "Blue Jay",
+    "scientific_name": "Cyanocitta cristata"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_jay_320796051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261817/bird-gallery/blue_jay/macaulay/blue_jay_320796051.jpg",
+      "public_id": "bird-gallery/blue_jay/macaulay/blue_jay_320796051",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 96123,
+      "attribution": {
+        "photographer": "Martina Nordstrand",
+        "photographer_url": "https://macaulaylibrary.org/asset/320796051",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Blue Jay by Martina Nordstrand; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "320796051",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

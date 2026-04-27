@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "pine_warbler",
+    "chinese_name": "Pine Warbler",
+    "english_name": "Pine Warbler",
+    "scientific_name": "Setophaga pinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "pine_warbler_40933351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261839/bird-gallery/pine_warbler/macaulay/pine_warbler_40933351.jpg",
+      "public_id": "bird-gallery/pine_warbler/macaulay/pine_warbler_40933351",
+      "width": 1200,
+      "height": 703,
+      "format": "jpg",
+      "bytes": 45167,
+      "attribution": {
+        "photographer": "Ryan Schain",
+        "photographer_url": "https://macaulaylibrary.org/asset/40933351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Pine Warbler by Ryan Schain; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "40933351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

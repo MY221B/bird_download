@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "brown_thrasher",
+    "chinese_name": "Brown Thrasher",
+    "english_name": "Brown Thrasher",
+    "scientific_name": "Toxostoma rufum"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_thrasher_86708941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261834/bird-gallery/brown_thrasher/macaulay/brown_thrasher_86708941.jpg",
+      "public_id": "bird-gallery/brown_thrasher/macaulay/brown_thrasher_86708941",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74105,
+      "attribution": {
+        "photographer": "Melissa James",
+        "photographer_url": "https://macaulaylibrary.org/asset/86708941",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown Thrasher by Melissa James; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "86708941",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

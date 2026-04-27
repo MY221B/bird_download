@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "tree_swallow",
+    "chinese_name": "Tree Swallow",
+    "english_name": "Tree Swallow",
+    "scientific_name": "Tachycineta bicolor"
+  },
+  "macaulay": [
+    {
+      "original_file": "tree_swallow_616262580.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261797/bird-gallery/tree_swallow/macaulay/tree_swallow_616262580.jpg",
+      "public_id": "bird-gallery/tree_swallow/macaulay/tree_swallow_616262580",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 28184,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/616262580",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Tree Swallow by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "616262580",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

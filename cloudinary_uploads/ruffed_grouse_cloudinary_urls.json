@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "ruffed_grouse",
+    "chinese_name": "Ruffed Grouse",
+    "english_name": "Ruffed Grouse",
+    "scientific_name": "Bonasa umbellus"
+  },
+  "macaulay": [
+    {
+      "original_file": "ruffed_grouse_485244381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261843/bird-gallery/ruffed_grouse/macaulay/ruffed_grouse_485244381.jpg",
+      "public_id": "bird-gallery/ruffed_grouse/macaulay/ruffed_grouse_485244381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 168873,
+      "attribution": {
+        "photographer": "Frédérick Lelièvre",
+        "photographer_url": "https://macaulaylibrary.org/asset/485244381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ruffed Grouse by Frédérick Lelièvre; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "485244381",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

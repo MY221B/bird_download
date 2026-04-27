@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "northern_house_wren",
+    "chinese_name": "Northern House Wren",
+    "english_name": "Northern House Wren",
+    "scientific_name": "Troglodytes aedon"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_house_wren_334908971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261802/bird-gallery/northern_house_wren/macaulay/northern_house_wren_334908971.jpg",
+      "public_id": "bird-gallery/northern_house_wren/macaulay/northern_house_wren_334908971",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85901,
+      "attribution": {
+        "photographer": "Mitchell Goldfarb",
+        "photographer_url": "https://macaulaylibrary.org/asset/334908971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern House Wren by Mitchell Goldfarb; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "334908971",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

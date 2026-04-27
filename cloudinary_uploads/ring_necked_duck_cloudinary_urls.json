@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "ring_necked_duck",
+    "chinese_name": "Ring-necked Duck",
+    "english_name": "Ring-necked Duck",
+    "scientific_name": "Aythya collaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "ring_necked_duck_547945981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261826/bird-gallery/ring_necked_duck/macaulay/ring_necked_duck_547945981.jpg",
+      "public_id": "bird-gallery/ring_necked_duck/macaulay/ring_necked_duck_547945981",
+      "width": 1200,
+      "height": 784,
+      "format": "jpg",
+      "bytes": 63028,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/547945981",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ring-necked Duck by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "547945981",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

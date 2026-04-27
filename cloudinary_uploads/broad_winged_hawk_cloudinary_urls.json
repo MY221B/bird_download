@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "broad_winged_hawk",
+    "chinese_name": "Broad-winged Hawk",
+    "english_name": "Broad-winged Hawk",
+    "scientific_name": "Buteo platypterus"
+  },
+  "macaulay": [
+    {
+      "original_file": "broad_winged_hawk_265262561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261787/bird-gallery/broad_winged_hawk/macaulay/broad_winged_hawk_265262561.jpg",
+      "public_id": "bird-gallery/broad_winged_hawk/macaulay/broad_winged_hawk_265262561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73402,
+      "attribution": {
+        "photographer": "Baxter Beamer",
+        "photographer_url": "https://macaulaylibrary.org/asset/265262561",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Broad-winged Hawk by Baxter Beamer; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "265262561",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

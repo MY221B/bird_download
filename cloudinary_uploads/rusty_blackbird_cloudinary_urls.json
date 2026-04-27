@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "rusty_blackbird",
+    "chinese_name": "Rusty Blackbird",
+    "english_name": "Rusty Blackbird",
+    "scientific_name": "Euphagus carolinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "rusty_blackbird_278719741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261870/bird-gallery/rusty_blackbird/macaulay/rusty_blackbird_278719741.jpg",
+      "public_id": "bird-gallery/rusty_blackbird/macaulay/rusty_blackbird_278719741",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60798,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/278719741",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Rusty Blackbird by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "278719741",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

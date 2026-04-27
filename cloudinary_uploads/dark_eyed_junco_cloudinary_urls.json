@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "dark_eyed_junco",
+    "chinese_name": "Dark-eyed Junco",
+    "english_name": "Dark-eyed Junco",
+    "scientific_name": "Junco hyemalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "dark_eyed_junco_47337561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261837/bird-gallery/dark_eyed_junco/macaulay/dark_eyed_junco_47337561.jpg",
+      "public_id": "bird-gallery/dark_eyed_junco/macaulay/dark_eyed_junco_47337561",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 83618,
+      "attribution": {
+        "photographer": "Scott Martin",
+        "photographer_url": "https://macaulaylibrary.org/asset/47337561",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Dark-eyed Junco by Scott Martin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "47337561",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

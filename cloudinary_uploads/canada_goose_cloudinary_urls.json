@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "canada_goose",
+    "chinese_name": "Canada Goose",
+    "english_name": "Canada Goose",
+    "scientific_name": "Branta canadensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "canada_goose_196796851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261736/bird-gallery/canada_goose/macaulay/canada_goose_196796851.jpg",
+      "public_id": "bird-gallery/canada_goose/macaulay/canada_goose_196796851",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60148,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/196796851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Canada Goose by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "196796851",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

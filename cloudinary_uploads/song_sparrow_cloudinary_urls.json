@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "song_sparrow",
+    "chinese_name": "Song Sparrow",
+    "english_name": "Song Sparrow",
+    "scientific_name": "Melospiza melodia"
+  },
+  "macaulay": [
+    {
+      "original_file": "song_sparrow_325489791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261809/bird-gallery/song_sparrow/macaulay/song_sparrow_325489791.jpg",
+      "public_id": "bird-gallery/song_sparrow/macaulay/song_sparrow_325489791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76451,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/325489791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Song Sparrow by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "325489791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

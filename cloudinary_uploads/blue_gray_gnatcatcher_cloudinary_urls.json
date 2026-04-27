@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "blue_gray_gnatcatcher",
+    "chinese_name": "Blue-gray Gnatcatcher",
+    "english_name": "Blue-gray Gnatcatcher",
+    "scientific_name": "Polioptila caerulea"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_gray_gnatcatcher_330267781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261800/bird-gallery/blue_gray_gnatcatcher/macaulay/blue_gray_gnatcatcher_330267781.jpg",
+      "public_id": "bird-gallery/blue_gray_gnatcatcher/macaulay/blue_gray_gnatcatcher_330267781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 127657,
+      "attribution": {
+        "photographer": "Mollie Ficker",
+        "photographer_url": "https://macaulaylibrary.org/asset/330267781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Blue-gray Gnatcatcher by Mollie Ficker; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "330267781",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

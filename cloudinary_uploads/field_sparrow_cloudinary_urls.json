@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "field_sparrow",
+    "chinese_name": "Field Sparrow",
+    "english_name": "Field Sparrow",
+    "scientific_name": "Spizella pusilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "field_sparrow_558064611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261806/bird-gallery/field_sparrow/macaulay/field_sparrow_558064611.jpg",
+      "public_id": "bird-gallery/field_sparrow/macaulay/field_sparrow_558064611",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78676,
+      "attribution": {
+        "photographer": "Nico Sarbanes",
+        "photographer_url": "https://macaulaylibrary.org/asset/558064611",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Field Sparrow by Nico Sarbanes; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "558064611",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

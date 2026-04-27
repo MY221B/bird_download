@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "northern_flicker",
+    "chinese_name": "Northern Flicker",
+    "english_name": "Northern Flicker",
+    "scientific_name": "Colaptes auratus"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_flicker_431726081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261854/bird-gallery/northern_flicker/macaulay/northern_flicker_431726081.jpg",
+      "public_id": "bird-gallery/northern_flicker/macaulay/northern_flicker_431726081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87641,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/431726081",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Flicker by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "431726081",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

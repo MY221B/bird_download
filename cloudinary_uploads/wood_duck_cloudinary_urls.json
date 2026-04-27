@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "wood_duck",
+    "chinese_name": "Wood Duck",
+    "english_name": "Wood Duck",
+    "scientific_name": "Aix sponsa"
+  },
+  "macaulay": [
+    {
+      "original_file": "wood_duck_421340531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261782/bird-gallery/wood_duck/macaulay/wood_duck_421340531.jpg",
+      "public_id": "bird-gallery/wood_duck/macaulay/wood_duck_421340531",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 98224,
+      "attribution": {
+        "photographer": "Blair Dudeck",
+        "photographer_url": "https://macaulaylibrary.org/asset/421340531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wood Duck by Blair Dudeck; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "421340531",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

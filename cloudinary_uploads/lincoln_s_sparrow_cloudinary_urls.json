@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "lincoln_s_sparrow",
+    "chinese_name": "Lincoln's Sparrow",
+    "english_name": "Lincoln's Sparrow",
+    "scientific_name": "Melospiza lincolnii"
+  },
+  "macaulay": [
+    {
+      "original_file": "lincoln_s_sparrow_608554765.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261849/bird-gallery/lincoln_s_sparrow/macaulay/lincoln_s_sparrow_608554765.jpg",
+      "public_id": "bird-gallery/lincoln_s_sparrow/macaulay/lincoln_s_sparrow_608554765",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74915,
+      "attribution": {
+        "photographer": "Owen Sinkus",
+        "photographer_url": "https://macaulaylibrary.org/asset/608554765",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Lincoln's Sparrow by Owen Sinkus; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "608554765",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

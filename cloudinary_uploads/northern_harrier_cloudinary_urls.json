@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "northern_harrier",
+    "chinese_name": "Northern Harrier",
+    "english_name": "Northern Harrier",
+    "scientific_name": "Circus hudsonius"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_harrier_229519571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261824/bird-gallery/northern_harrier/macaulay/northern_harrier_229519571.jpg",
+      "public_id": "bird-gallery/northern_harrier/macaulay/northern_harrier_229519571",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 50795,
+      "attribution": {
+        "photographer": "Russ Morgan",
+        "photographer_url": "https://macaulaylibrary.org/asset/229519571",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Harrier by Russ Morgan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "229519571",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "american_goldfinch",
+    "chinese_name": "American Goldfinch",
+    "english_name": "American Goldfinch",
+    "scientific_name": "Spinus tristis"
+  },
+  "macaulay": [
+    {
+      "original_file": "american_goldfinch_408058881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261805/bird-gallery/american_goldfinch/macaulay/american_goldfinch_408058881.jpg",
+      "public_id": "bird-gallery/american_goldfinch/macaulay/american_goldfinch_408058881",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65871,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/408058881",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Goldfinch by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "408058881",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

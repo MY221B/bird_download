@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "brown_headed_cowbird",
+    "chinese_name": "Brown-headed Cowbird",
+    "english_name": "Brown-headed Cowbird",
+    "scientific_name": "Molothrus ater"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_headed_cowbird_457793471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261814/bird-gallery/brown_headed_cowbird/macaulay/brown_headed_cowbird_457793471.jpg",
+      "public_id": "bird-gallery/brown_headed_cowbird/macaulay/brown_headed_cowbird_457793471",
+      "width": 1200,
+      "height": 896,
+      "format": "jpg",
+      "bytes": 96971,
+      "attribution": {
+        "photographer": "Matt Mason",
+        "photographer_url": "https://macaulaylibrary.org/asset/457793471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown-headed Cowbird by Matt Mason; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "457793471",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

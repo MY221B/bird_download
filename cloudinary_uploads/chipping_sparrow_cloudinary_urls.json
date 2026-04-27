@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "chipping_sparrow",
+    "chinese_name": "Chipping Sparrow",
+    "english_name": "Chipping Sparrow",
+    "scientific_name": "Spizella passerina"
+  },
+  "macaulay": [
+    {
+      "original_file": "chipping_sparrow_444262671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261821/bird-gallery/chipping_sparrow/macaulay/chipping_sparrow_444262671.jpg",
+      "public_id": "bird-gallery/chipping_sparrow/macaulay/chipping_sparrow_444262671",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72302,
+      "attribution": {
+        "photographer": "Ben Lucking",
+        "photographer_url": "https://macaulaylibrary.org/asset/444262671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Chipping Sparrow by Ben Lucking; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "444262671",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

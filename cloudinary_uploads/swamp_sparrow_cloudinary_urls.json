@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "swamp_sparrow",
+    "chinese_name": "Swamp Sparrow",
+    "english_name": "Swamp Sparrow",
+    "scientific_name": "Melospiza georgiana"
+  },
+  "macaulay": [
+    {
+      "original_file": "swamp_sparrow_342203811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261810/bird-gallery/swamp_sparrow/macaulay/swamp_sparrow_342203811.jpg",
+      "public_id": "bird-gallery/swamp_sparrow/macaulay/swamp_sparrow_342203811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87351,
+      "attribution": {
+        "photographer": "Blair Dudeck",
+        "photographer_url": "https://macaulaylibrary.org/asset/342203811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Swamp Sparrow by Blair Dudeck; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "342203811",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

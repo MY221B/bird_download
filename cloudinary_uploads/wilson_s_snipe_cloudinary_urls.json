@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "wilson_s_snipe",
+    "chinese_name": "Wilson's Snipe",
+    "english_name": "Wilson's Snipe",
+    "scientific_name": "Gallinago delicata"
+  },
+  "macaulay": [
+    {
+      "original_file": "wilson_s_snipe_183634001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261858/bird-gallery/wilson_s_snipe/macaulay/wilson_s_snipe_183634001.jpg",
+      "public_id": "bird-gallery/wilson_s_snipe/macaulay/wilson_s_snipe_183634001",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 55474,
+      "attribution": {
+        "photographer": "Bryan Calk",
+        "photographer_url": "https://macaulaylibrary.org/asset/183634001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wilson's Snipe by Bryan Calk; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "183634001",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "red_bellied_woodpecker",
+    "chinese_name": "Red-bellied Woodpecker",
+    "english_name": "Red-bellied Woodpecker",
+    "scientific_name": "Melanerpes carolinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_bellied_woodpecker_306716341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261789/bird-gallery/red_bellied_woodpecker/macaulay/red_bellied_woodpecker_306716341.jpg",
+      "public_id": "bird-gallery/red_bellied_woodpecker/macaulay/red_bellied_woodpecker_306716341",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84227,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/306716341",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-bellied Woodpecker by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "306716341",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

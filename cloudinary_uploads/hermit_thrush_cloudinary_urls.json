@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "hermit_thrush",
+    "chinese_name": "Hermit Thrush",
+    "english_name": "Hermit Thrush",
+    "scientific_name": "Catharus guttatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "hermit_thrush_414323721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261836/bird-gallery/hermit_thrush/macaulay/hermit_thrush_414323721.jpg",
+      "public_id": "bird-gallery/hermit_thrush/macaulay/hermit_thrush_414323721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67159,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/414323721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hermit Thrush by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "414323721",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

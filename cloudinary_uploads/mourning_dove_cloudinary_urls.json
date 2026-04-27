@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "mourning_dove",
+    "chinese_name": "Mourning Dove",
+    "english_name": "Mourning Dove",
+    "scientific_name": "Zenaida macroura"
+  },
+  "macaulay": [
+    {
+      "original_file": "mourning_dove_613742715.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261844/bird-gallery/mourning_dove/macaulay/mourning_dove_613742715.jpg",
+      "public_id": "bird-gallery/mourning_dove/macaulay/mourning_dove_613742715",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 59084,
+      "attribution": {
+        "photographer": "James Tornetta",
+        "photographer_url": "https://macaulaylibrary.org/asset/613742715",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Mourning Dove by James Tornetta; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "613742715",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

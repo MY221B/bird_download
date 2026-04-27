@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "wild_turkey",
+    "chinese_name": "Wild Turkey",
+    "english_name": "Wild Turkey",
+    "scientific_name": "Meleagris gallopavo"
+  },
+  "macaulay": [
+    {
+      "original_file": "wild_turkey_619681099.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261857/bird-gallery/wild_turkey/macaulay/wild_turkey_619681099.jpg",
+      "public_id": "bird-gallery/wild_turkey/macaulay/wild_turkey_619681099",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 134163,
+      "attribution": {
+        "photographer": "Steven Meisel",
+        "photographer_url": "https://macaulaylibrary.org/asset/619681099",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wild Turkey by Steven Meisel; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "619681099",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

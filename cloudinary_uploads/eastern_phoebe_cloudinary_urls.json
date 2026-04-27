@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "eastern_phoebe",
+    "chinese_name": "Eastern Phoebe",
+    "english_name": "Eastern Phoebe",
+    "scientific_name": "Sayornis phoebe"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_phoebe_362413861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261793/bird-gallery/eastern_phoebe/macaulay/eastern_phoebe_362413861.jpg",
+      "public_id": "bird-gallery/eastern_phoebe/macaulay/eastern_phoebe_362413861",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64746,
+      "attribution": {
+        "photographer": "Gang Wu",
+        "photographer_url": "https://macaulaylibrary.org/asset/362413861",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Phoebe by Gang Wu; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "362413861",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

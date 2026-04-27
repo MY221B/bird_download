@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "red_winged_blackbird",
+    "chinese_name": "Red-winged Blackbird",
+    "english_name": "Red-winged Blackbird",
+    "scientific_name": "Agelaius phoeniceus"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_winged_blackbird_636630599.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261813/bird-gallery/red_winged_blackbird/macaulay/red_winged_blackbird_636630599.jpg",
+      "public_id": "bird-gallery/red_winged_blackbird/macaulay/red_winged_blackbird_636630599",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 52948,
+      "attribution": {
+        "photographer": "Kevin Todd",
+        "photographer_url": "https://macaulaylibrary.org/asset/636630599",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-winged Blackbird by Kevin Todd; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "636630599",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

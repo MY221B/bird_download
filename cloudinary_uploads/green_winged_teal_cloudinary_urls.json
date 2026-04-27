@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "green_winged_teal",
+    "chinese_name": "Green-winged Teal",
+    "english_name": "Green-winged Teal",
+    "scientific_name": "Anas crecca"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_winged_teal_501469651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261841/bird-gallery/green_winged_teal/macaulay/green_winged_teal_501469651.jpg",
+      "public_id": "bird-gallery/green_winged_teal/macaulay/green_winged_teal_501469651",
+      "width": 1200,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 52124,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/501469651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Green-winged Teal by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "501469651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

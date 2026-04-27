@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "hooded_merganser",
+    "chinese_name": "Hooded Merganser",
+    "english_name": "Hooded Merganser",
+    "scientific_name": "Lophodytes cucullatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "hooded_merganser_612274023.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261828/bird-gallery/hooded_merganser/macaulay/hooded_merganser_612274023.jpg",
+      "public_id": "bird-gallery/hooded_merganser/macaulay/hooded_merganser_612274023",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75717,
+      "attribution": {
+        "photographer": "Matthew Dolkart",
+        "photographer_url": "https://macaulaylibrary.org/asset/612274023",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hooded Merganser by Matthew Dolkart; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "612274023",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

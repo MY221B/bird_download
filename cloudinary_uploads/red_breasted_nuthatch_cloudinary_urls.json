@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "red_breasted_nuthatch",
+    "chinese_name": "Red-breasted Nuthatch",
+    "english_name": "Red-breasted Nuthatch",
+    "scientific_name": "Sitta canadensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_breasted_nuthatch_267198251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261862/bird-gallery/red_breasted_nuthatch/macaulay/red_breasted_nuthatch_267198251.jpg",
+      "public_id": "bird-gallery/red_breasted_nuthatch/macaulay/red_breasted_nuthatch_267198251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81390,
+      "attribution": {
+        "photographer": "Phil Chaon • Your Ad Here",
+        "photographer_url": "https://macaulaylibrary.org/asset/267198251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-breasted Nuthatch by Phil Chaon • Your Ad Here; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "267198251",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

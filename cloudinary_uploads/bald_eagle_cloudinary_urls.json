@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "bald_eagle",
+    "chinese_name": "Bald Eagle",
+    "english_name": "Bald Eagle",
+    "scientific_name": "Haliaeetus leucocephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "bald_eagle_44317071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261853/bird-gallery/bald_eagle/macaulay/bald_eagle_44317071.jpg",
+      "public_id": "bird-gallery/bald_eagle/macaulay/bald_eagle_44317071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72452,
+      "attribution": {
+        "photographer": "Scott Heidorn",
+        "photographer_url": "https://macaulaylibrary.org/asset/44317071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bald Eagle by Scott Heidorn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "44317071",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

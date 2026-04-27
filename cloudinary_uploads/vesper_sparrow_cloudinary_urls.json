@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "vesper_sparrow",
+    "chinese_name": "Vesper Sparrow",
+    "english_name": "Vesper Sparrow",
+    "scientific_name": "Pooecetes gramineus"
+  },
+  "macaulay": [
+    {
+      "original_file": "vesper_sparrow_359529631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261808/bird-gallery/vesper_sparrow/macaulay/vesper_sparrow_359529631.jpg",
+      "public_id": "bird-gallery/vesper_sparrow/macaulay/vesper_sparrow_359529631",
+      "width": 1200,
+      "height": 748,
+      "format": "jpg",
+      "bytes": 70139,
+      "attribution": {
+        "photographer": "Zebedee Muller",
+        "photographer_url": "https://macaulaylibrary.org/asset/359529631",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Vesper Sparrow by Zebedee Muller; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "359529631",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

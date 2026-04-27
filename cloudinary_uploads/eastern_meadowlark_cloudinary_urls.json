@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "eastern_meadowlark",
+    "chinese_name": "Eastern Meadowlark",
+    "english_name": "Eastern Meadowlark",
+    "scientific_name": "Sturnella magna"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_meadowlark_426756621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261850/bird-gallery/eastern_meadowlark/macaulay/eastern_meadowlark_426756621.jpg",
+      "public_id": "bird-gallery/eastern_meadowlark/macaulay/eastern_meadowlark_426756621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109060,
+      "attribution": {
+        "photographer": "Neo Morpheus",
+        "photographer_url": "https://macaulaylibrary.org/asset/426756621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Meadowlark by Neo Morpheus; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "426756621",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

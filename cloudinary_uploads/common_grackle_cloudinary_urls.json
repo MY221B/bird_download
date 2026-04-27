@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "common_grackle",
+    "chinese_name": "Common Grackle",
+    "english_name": "Common Grackle",
+    "scientific_name": "Quiscalus quiscula"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_grackle_652399570.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261871/bird-gallery/common_grackle/macaulay/common_grackle_652399570.jpg",
+      "public_id": "bird-gallery/common_grackle/macaulay/common_grackle_652399570",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 67635,
+      "attribution": {
+        "photographer": "Joseph Bratta",
+        "photographer_url": "https://macaulaylibrary.org/asset/652399570",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Common Grackle by Joseph Bratta; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "652399570",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

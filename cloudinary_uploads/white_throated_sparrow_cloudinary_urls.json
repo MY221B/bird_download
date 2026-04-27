@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "white_throated_sparrow",
+    "chinese_name": "White-throated Sparrow",
+    "english_name": "White-throated Sparrow",
+    "scientific_name": "Zonotrichia albicollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_throated_sparrow_297100961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261807/bird-gallery/white_throated_sparrow/macaulay/white_throated_sparrow_297100961.jpg",
+      "public_id": "bird-gallery/white_throated_sparrow/macaulay/white_throated_sparrow_297100961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104758,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/297100961",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "White-throated Sparrow by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "297100961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

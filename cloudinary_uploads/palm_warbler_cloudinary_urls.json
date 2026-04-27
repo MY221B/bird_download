@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "palm_warbler",
+    "chinese_name": "Palm Warbler",
+    "english_name": "Palm Warbler",
+    "scientific_name": "Setophaga palmarum"
+  },
+  "macaulay": [
+    {
+      "original_file": "palm_warbler_227744791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261822/bird-gallery/palm_warbler/macaulay/palm_warbler_227744791.jpg",
+      "public_id": "bird-gallery/palm_warbler/macaulay/palm_warbler_227744791",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 70195,
+      "attribution": {
+        "photographer": "Ryan Schain",
+        "photographer_url": "https://macaulaylibrary.org/asset/227744791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Palm Warbler by Ryan Schain; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "227744791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

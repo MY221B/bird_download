@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "orange_crowned_warbler",
+    "chinese_name": "Orange-crowned Warbler",
+    "english_name": "Orange-crowned Warbler",
+    "scientific_name": "Leiothlypis celata"
+  },
+  "macaulay": [
+    {
+      "original_file": "orange_crowned_warbler_517129771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261838/bird-gallery/orange_crowned_warbler/macaulay/orange_crowned_warbler_517129771.jpg",
+      "public_id": "bird-gallery/orange_crowned_warbler/macaulay/orange_crowned_warbler_517129771",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 67361,
+      "attribution": {
+        "photographer": "Adam Cunningham",
+        "photographer_url": "https://macaulaylibrary.org/asset/517129771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Orange-crowned Warbler by Adam Cunningham; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "517129771",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

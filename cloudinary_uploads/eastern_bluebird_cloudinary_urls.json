@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "eastern_bluebird",
+    "chinese_name": "Eastern Bluebird",
+    "english_name": "Eastern Bluebird",
+    "scientific_name": "Sialia sialis"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_bluebird_213783891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261803/bird-gallery/eastern_bluebird/macaulay/eastern_bluebird_213783891.jpg",
+      "public_id": "bird-gallery/eastern_bluebird/macaulay/eastern_bluebird_213783891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77239,
+      "attribution": {
+        "photographer": "Keith Kennedy",
+        "photographer_url": "https://macaulaylibrary.org/asset/213783891",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Bluebird by Keith Kennedy; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "213783891",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

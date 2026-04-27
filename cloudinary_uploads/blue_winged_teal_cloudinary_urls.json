@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "blue_winged_teal",
+    "chinese_name": "Blue-winged Teal",
+    "english_name": "Blue-winged Teal",
+    "scientific_name": "Spatula discors"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_winged_teal_325396921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261825/bird-gallery/blue_winged_teal/macaulay/blue_winged_teal_325396921.jpg",
+      "public_id": "bird-gallery/blue_winged_teal/macaulay/blue_winged_teal_325396921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88721,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/325396921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Blue-winged Teal by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "325396921",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

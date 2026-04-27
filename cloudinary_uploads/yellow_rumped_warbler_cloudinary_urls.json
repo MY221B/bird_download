@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "yellow_rumped_warbler",
+    "chinese_name": "Yellow-rumped Warbler",
+    "english_name": "Yellow-rumped Warbler",
+    "scientific_name": "Setophaga coronata"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_rumped_warbler_42617691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261815/bird-gallery/yellow_rumped_warbler/macaulay/yellow_rumped_warbler_42617691.jpg",
+      "public_id": "bird-gallery/yellow_rumped_warbler/macaulay/yellow_rumped_warbler_42617691",
+      "width": 1200,
+      "height": 758,
+      "format": "jpg",
+      "bytes": 89791,
+      "attribution": {
+        "photographer": "Luke Seitz",
+        "photographer_url": "https://macaulaylibrary.org/asset/42617691",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Yellow-rumped Warbler by Luke Seitz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "42617691",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

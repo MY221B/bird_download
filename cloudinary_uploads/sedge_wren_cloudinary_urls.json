@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "sedge_wren",
+    "chinese_name": "Sedge Wren",
+    "english_name": "Sedge Wren",
+    "scientific_name": "Cistothorus stellaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "sedge_wren_350821911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261833/bird-gallery/sedge_wren/macaulay/sedge_wren_350821911.jpg",
+      "public_id": "bird-gallery/sedge_wren/macaulay/sedge_wren_350821911",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 42636,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/350821911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Sedge Wren by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "350821911",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

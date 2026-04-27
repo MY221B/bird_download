@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "american_tree_sparrow",
+    "chinese_name": "American Tree Sparrow",
+    "english_name": "American Tree Sparrow",
+    "scientific_name": "Spizelloides arborea"
+  },
+  "macaulay": [
+    {
+      "original_file": "american_tree_sparrow_504470851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261859/bird-gallery/american_tree_sparrow/macaulay/american_tree_sparrow_504470851.jpg",
+      "public_id": "bird-gallery/american_tree_sparrow/macaulay/american_tree_sparrow_504470851",
+      "width": 940,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 93528,
+      "attribution": {
+        "photographer": "Dylan S.",
+        "photographer_url": "https://macaulaylibrary.org/asset/504470851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Tree Sparrow by Dylan S.; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "504470851",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

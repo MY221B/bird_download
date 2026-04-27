@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "yellow_bellied_sapsucker",
+    "chinese_name": "Yellow-bellied Sapsucker",
+    "english_name": "Yellow-bellied Sapsucker",
+    "scientific_name": "Sphyrapicus varius"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_bellied_sapsucker_157574821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261842/bird-gallery/yellow_bellied_sapsucker/macaulay/yellow_bellied_sapsucker_157574821.jpg",
+      "public_id": "bird-gallery/yellow_bellied_sapsucker/macaulay/yellow_bellied_sapsucker_157574821",
+      "width": 1200,
+      "height": 1091,
+      "format": "jpg",
+      "bytes": 96728,
+      "attribution": {
+        "photographer": "Henry Trombley",
+        "photographer_url": "https://macaulaylibrary.org/asset/157574821",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Yellow-bellied Sapsucker by Henry Trombley; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "157574821",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

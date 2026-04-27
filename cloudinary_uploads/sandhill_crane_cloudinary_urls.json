@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "sandhill_crane",
+    "chinese_name": "Sandhill Crane",
+    "english_name": "Sandhill Crane",
+    "scientific_name": "Antigone canadensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "sandhill_crane_309666411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261785/bird-gallery/sandhill_crane/macaulay/sandhill_crane_309666411.jpg",
+      "public_id": "bird-gallery/sandhill_crane/macaulay/sandhill_crane_309666411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68281,
+      "attribution": {
+        "photographer": "Matt Felperin",
+        "photographer_url": "https://macaulaylibrary.org/asset/309666411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Sandhill Crane by Matt Felperin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "309666411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

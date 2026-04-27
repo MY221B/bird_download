@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "belted_kingfisher",
+    "chinese_name": "Belted Kingfisher",
+    "english_name": "Belted Kingfisher",
+    "scientific_name": "Megaceryle alcyon"
+  },
+  "macaulay": [
+    {
+      "original_file": "belted_kingfisher_366925301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261831/bird-gallery/belted_kingfisher/macaulay/belted_kingfisher_366925301.jpg",
+      "public_id": "bird-gallery/belted_kingfisher/macaulay/belted_kingfisher_366925301",
+      "width": 1200,
+      "height": 798,
+      "format": "jpg",
+      "bytes": 63497,
+      "attribution": {
+        "photographer": "Grace C",
+        "photographer_url": "https://macaulaylibrary.org/asset/366925301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Belted Kingfisher by Grace C; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "366925301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

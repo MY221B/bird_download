@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "turkey_vulture",
+    "chinese_name": "Turkey Vulture",
+    "english_name": "Turkey Vulture",
+    "scientific_name": "Cathartes aura"
+  },
+  "macaulay": [
+    {
+      "original_file": "turkey_vulture_373545991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261823/bird-gallery/turkey_vulture/macaulay/turkey_vulture_373545991.jpg",
+      "public_id": "bird-gallery/turkey_vulture/macaulay/turkey_vulture_373545991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 94508,
+      "attribution": {
+        "photographer": "Kathryn Young",
+        "photographer_url": "https://macaulaylibrary.org/asset/373545991",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Turkey Vulture by Kathryn Young; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "373545991",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

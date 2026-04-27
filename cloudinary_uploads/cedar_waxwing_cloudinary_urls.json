@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "cedar_waxwing",
+    "chinese_name": "Cedar Waxwing",
+    "english_name": "Cedar Waxwing",
+    "scientific_name": "Bombycilla cedrorum"
+  },
+  "macaulay": [
+    {
+      "original_file": "cedar_waxwing_554489311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261855/bird-gallery/cedar_waxwing/macaulay/cedar_waxwing_554489311.jpg",
+      "public_id": "bird-gallery/cedar_waxwing/macaulay/cedar_waxwing_554489311",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 53645,
+      "attribution": {
+        "photographer": "Chris Venetz | Ornis Birding Expeditions",
+        "photographer_url": "https://macaulaylibrary.org/asset/554489311",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Cedar Waxwing by Chris Venetz | Ornis Birding Expeditions; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "554489311",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

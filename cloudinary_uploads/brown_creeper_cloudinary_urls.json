@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "brown_creeper",
+    "chinese_name": "Brown Creeper",
+    "english_name": "Brown Creeper",
+    "scientific_name": "Certhia americana"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_creeper_307778271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261847/bird-gallery/brown_creeper/macaulay/brown_creeper_307778271.jpg",
+      "public_id": "bird-gallery/brown_creeper/macaulay/brown_creeper_307778271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 108241,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/307778271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown Creeper by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "307778271",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

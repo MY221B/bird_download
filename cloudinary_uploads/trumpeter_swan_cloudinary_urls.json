@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "trumpeter_swan",
+    "chinese_name": "Trumpeter Swan",
+    "english_name": "Trumpeter Swan",
+    "scientific_name": "Cygnus buccinator"
+  },
+  "macaulay": [
+    {
+      "original_file": "trumpeter_swan_521638581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261851/bird-gallery/trumpeter_swan/macaulay/trumpeter_swan_521638581.jpg",
+      "public_id": "bird-gallery/trumpeter_swan/macaulay/trumpeter_swan_521638581",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 35382,
+      "attribution": {
+        "photographer": "Evan Pak",
+        "photographer_url": "https://macaulaylibrary.org/asset/521638581",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Trumpeter Swan by Evan Pak; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "521638581",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

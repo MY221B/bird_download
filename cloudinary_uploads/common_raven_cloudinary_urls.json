@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "common_raven",
+    "chinese_name": "Common Raven",
+    "english_name": "Common Raven",
+    "scientific_name": "Corvus corax"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_raven_645103070.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261794/bird-gallery/common_raven/macaulay/common_raven_645103070.jpg",
+      "public_id": "bird-gallery/common_raven/macaulay/common_raven_645103070",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 63637,
+      "attribution": {
+        "photographer": "Beau Cotter",
+        "photographer_url": "https://macaulaylibrary.org/asset/645103070",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Common Raven by Beau Cotter; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "645103070",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "golden_crowned_kinglet",
+    "chinese_name": "Golden-crowned Kinglet",
+    "english_name": "Golden-crowned Kinglet",
+    "scientific_name": "Regulus satrapa"
+  },
+  "macaulay": [
+    {
+      "original_file": "golden_crowned_kinglet_432993771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261846/bird-gallery/golden_crowned_kinglet/macaulay/golden_crowned_kinglet_432993771.jpg",
+      "public_id": "bird-gallery/golden_crowned_kinglet/macaulay/golden_crowned_kinglet_432993771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 61532,
+      "attribution": {
+        "photographer": "Ezra J. Campanelli",
+        "photographer_url": "https://macaulaylibrary.org/asset/432993771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Golden-crowned Kinglet by Ezra J. Campanelli; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "432993771",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

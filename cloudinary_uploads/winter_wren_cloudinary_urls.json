@@ -1,0 +1,33 @@
+{
+  "bird_info": {
+    "slug": "winter_wren",
+    "chinese_name": "Winter Wren",
+    "english_name": "Winter Wren",
+    "scientific_name": "Troglodytes hiemalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "winter_wren_297982601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261863/bird-gallery/winter_wren/macaulay/winter_wren_297982601.jpg",
+      "public_id": "bird-gallery/winter_wren/macaulay/winter_wren_297982601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97152,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/297982601",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Winter Wren by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "297982601",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

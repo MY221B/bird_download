@@ -24,6 +24,44 @@
         "source_id": "185825571",
         "note": null
       }
+    },
+    {
+      "original_file": "red_shouldered_hawk_649455518.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267208/bird-gallery/red_shouldered_hawk/macaulay/red_shouldered_hawk_649455518.jpg",
+      "public_id": "bird-gallery/red_shouldered_hawk/macaulay/red_shouldered_hawk_649455518",
+      "width": 900,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 133431,
+      "attribution": {
+        "photographer": "Ava Kornfeld",
+        "photographer_url": "https://macaulaylibrary.org/asset/649455518",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-shouldered Hawk by Ava Kornfeld; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "649455518",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_shouldered_hawk_156802521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267209/bird-gallery/red_shouldered_hawk/macaulay/red_shouldered_hawk_156802521.jpg",
+      "public_id": "bird-gallery/red_shouldered_hawk/macaulay/red_shouldered_hawk_156802521",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 115630,
+      "attribution": {
+        "photographer": "Lynette Spence",
+        "photographer_url": "https://macaulaylibrary.org/asset/156802521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-shouldered Hawk by Lynette Spence; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "156802521",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

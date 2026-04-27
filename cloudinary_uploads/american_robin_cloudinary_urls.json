@@ -24,6 +24,44 @@
         "source_id": "125030541",
         "note": null
       }
+    },
+    {
+      "original_file": "american_robin_290023681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267098/bird-gallery/american_robin/macaulay/american_robin_290023681.jpg",
+      "public_id": "bird-gallery/american_robin/macaulay/american_robin_290023681",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 108948,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/290023681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Robin by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "290023681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_robin_214262601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267099/bird-gallery/american_robin/macaulay/american_robin_214262601.jpg",
+      "public_id": "bird-gallery/american_robin/macaulay/american_robin_214262601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103365,
+      "attribution": {
+        "photographer": "Jeffrey Offermann",
+        "photographer_url": "https://macaulaylibrary.org/asset/214262601",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Robin by Jeffrey Offermann; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "214262601",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

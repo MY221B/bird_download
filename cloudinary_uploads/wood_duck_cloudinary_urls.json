@@ -24,6 +24,44 @@
         "source_id": "421340531",
         "note": null
       }
+    },
+    {
+      "original_file": "wood_duck_218407651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267257/bird-gallery/wood_duck/macaulay/wood_duck_218407651.jpg",
+      "public_id": "bird-gallery/wood_duck/macaulay/wood_duck_218407651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56965,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/218407651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wood Duck by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "218407651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "wood_duck_35998481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267258/bird-gallery/wood_duck/macaulay/wood_duck_35998481.jpg",
+      "public_id": "bird-gallery/wood_duck/macaulay/wood_duck_35998481",
+      "width": 1200,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 56344,
+      "attribution": {
+        "photographer": "Ryan Schain",
+        "photographer_url": "https://macaulaylibrary.org/asset/35998481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wood Duck by Ryan Schain; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "35998481",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

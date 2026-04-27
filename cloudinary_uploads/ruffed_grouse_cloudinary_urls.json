@@ -24,6 +24,44 @@
         "source_id": "485244381",
         "note": null
       }
+    },
+    {
+      "original_file": "ruffed_grouse_331931941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267221/bird-gallery/ruffed_grouse/macaulay/ruffed_grouse_331931941.jpg",
+      "public_id": "bird-gallery/ruffed_grouse/macaulay/ruffed_grouse_331931941",
+      "width": 1200,
+      "height": 784,
+      "format": "jpg",
+      "bytes": 143331,
+      "attribution": {
+        "photographer": "Steeve R. Baker",
+        "photographer_url": "https://macaulaylibrary.org/asset/331931941",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ruffed Grouse by Steeve R. Baker; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "331931941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruffed_grouse_311516851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267222/bird-gallery/ruffed_grouse/macaulay/ruffed_grouse_311516851.jpg",
+      "public_id": "bird-gallery/ruffed_grouse/macaulay/ruffed_grouse_311516851",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 108553,
+      "attribution": {
+        "photographer": "Laurie Parent",
+        "photographer_url": "https://macaulaylibrary.org/asset/311516851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ruffed Grouse by Laurie Parent; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "311516851",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

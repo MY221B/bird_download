@@ -24,6 +24,44 @@
         "source_id": "554489311",
         "note": null
       }
+    },
+    {
+      "original_file": "cedar_waxwing_240239681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267134/bird-gallery/cedar_waxwing/macaulay/cedar_waxwing_240239681.jpg",
+      "public_id": "bird-gallery/cedar_waxwing/macaulay/cedar_waxwing_240239681",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57823,
+      "attribution": {
+        "photographer": "Joshua Brown",
+        "photographer_url": "https://macaulaylibrary.org/asset/240239681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Cedar Waxwing by Joshua Brown; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "240239681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cedar_waxwing_599119021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267135/bird-gallery/cedar_waxwing/macaulay/cedar_waxwing_599119021.jpg",
+      "public_id": "bird-gallery/cedar_waxwing/macaulay/cedar_waxwing_599119021",
+      "width": 1200,
+      "height": 947,
+      "format": "jpg",
+      "bytes": 72185,
+      "attribution": {
+        "photographer": "Matthew Addicks",
+        "photographer_url": "https://macaulaylibrary.org/asset/599119021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Cedar Waxwing by Matthew Addicks; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "599119021",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

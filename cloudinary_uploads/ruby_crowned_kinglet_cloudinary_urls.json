@@ -24,6 +24,44 @@
         "source_id": "406572681",
         "note": null
       }
+    },
+    {
+      "original_file": "ruby_crowned_kinglet_389954851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267219/bird-gallery/ruby_crowned_kinglet/macaulay/ruby_crowned_kinglet_389954851.jpg",
+      "public_id": "bird-gallery/ruby_crowned_kinglet/macaulay/ruby_crowned_kinglet_389954851",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 57627,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/389954851",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ruby-crowned Kinglet by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "389954851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruby_crowned_kinglet_386091681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267220/bird-gallery/ruby_crowned_kinglet/macaulay/ruby_crowned_kinglet_386091681.jpg",
+      "public_id": "bird-gallery/ruby_crowned_kinglet/macaulay/ruby_crowned_kinglet_386091681",
+      "width": 1200,
+      "height": 794,
+      "format": "jpg",
+      "bytes": 94688,
+      "attribution": {
+        "photographer": "Barbara Swanson",
+        "photographer_url": "https://macaulaylibrary.org/asset/386091681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ruby-crowned Kinglet by Barbara Swanson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "386091681",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

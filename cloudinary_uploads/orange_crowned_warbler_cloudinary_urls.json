@@ -24,6 +24,44 @@
         "source_id": "517129771",
         "note": null
       }
+    },
+    {
+      "original_file": "orange_crowned_warbler_182902241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267193/bird-gallery/orange_crowned_warbler/macaulay/orange_crowned_warbler_182902241.jpg",
+      "public_id": "bird-gallery/orange_crowned_warbler/macaulay/orange_crowned_warbler_182902241",
+      "width": 1200,
+      "height": 737,
+      "format": "jpg",
+      "bytes": 55266,
+      "attribution": {
+        "photographer": "Alix d'Entremont",
+        "photographer_url": "https://macaulaylibrary.org/asset/182902241",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Orange-crowned Warbler by Alix d'Entremont; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "182902241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "orange_crowned_warbler_499912541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267194/bird-gallery/orange_crowned_warbler/macaulay/orange_crowned_warbler_499912541.jpg",
+      "public_id": "bird-gallery/orange_crowned_warbler/macaulay/orange_crowned_warbler_499912541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85581,
+      "attribution": {
+        "photographer": "Tim Emmerzaal",
+        "photographer_url": "https://macaulaylibrary.org/asset/499912541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Orange-crowned Warbler by Tim Emmerzaal; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "499912541",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

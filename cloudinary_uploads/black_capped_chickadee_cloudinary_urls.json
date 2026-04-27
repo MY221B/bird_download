@@ -24,6 +24,44 @@
         "source_id": "47337851",
         "note": null
       }
+    },
+    {
+      "original_file": "black_capped_chickadee_649455519.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267109/bird-gallery/black_capped_chickadee/macaulay/black_capped_chickadee_649455519.jpg",
+      "public_id": "bird-gallery/black_capped_chickadee/macaulay/black_capped_chickadee_649455519",
+      "width": 900,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 93823,
+      "attribution": {
+        "photographer": "Jamie Muise",
+        "photographer_url": "https://macaulaylibrary.org/asset/649455519",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Black-capped Chickadee by Jamie Muise; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "649455519",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_chickadee_430641551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267110/bird-gallery/black_capped_chickadee/macaulay/black_capped_chickadee_430641551.jpg",
+      "public_id": "bird-gallery/black_capped_chickadee/macaulay/black_capped_chickadee_430641551",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 63181,
+      "attribution": {
+        "photographer": "Ezra J. Campanelli",
+        "photographer_url": "https://macaulaylibrary.org/asset/430641551",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Black-capped Chickadee by Ezra J. Campanelli; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "430641551",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

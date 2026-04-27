@@ -24,6 +24,44 @@
         "source_id": "547945981",
         "note": null
       }
+    },
+    {
+      "original_file": "ring_necked_duck_89398921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267214/bird-gallery/ring_necked_duck/macaulay/ring_necked_duck_89398921.jpg",
+      "public_id": "bird-gallery/ring_necked_duck/macaulay/ring_necked_duck_89398921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 54408,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/89398921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ring-necked Duck by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "89398921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ring_necked_duck_423723961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267216/bird-gallery/ring_necked_duck/macaulay/ring_necked_duck_423723961.jpg",
+      "public_id": "bird-gallery/ring_necked_duck/macaulay/ring_necked_duck_423723961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 52172,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/423723961",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ring-necked Duck by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "423723961",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

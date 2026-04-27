@@ -24,6 +24,44 @@
         "source_id": "307778271",
         "note": null
       }
+    },
+    {
+      "original_file": "brown_creeper_554802721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267120/bird-gallery/brown_creeper/macaulay/brown_creeper_554802721.jpg",
+      "public_id": "bird-gallery/brown_creeper/macaulay/brown_creeper_554802721",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 125934,
+      "attribution": {
+        "photographer": "Carl Giometti 🍹",
+        "photographer_url": "https://macaulaylibrary.org/asset/554802721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown Creeper by Carl Giometti 🍹; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "554802721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_creeper_529183911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267122/bird-gallery/brown_creeper/macaulay/brown_creeper_529183911.jpg",
+      "public_id": "bird-gallery/brown_creeper/macaulay/brown_creeper_529183911",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84764,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/529183911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown Creeper by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "529183911",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

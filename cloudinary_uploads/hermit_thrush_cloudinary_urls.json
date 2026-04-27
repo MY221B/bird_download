@@ -24,6 +24,44 @@
         "source_id": "414323721",
         "note": null
       }
+    },
+    {
+      "original_file": "hermit_thrush_346844731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267171/bird-gallery/hermit_thrush/macaulay/hermit_thrush_346844731.jpg",
+      "public_id": "bird-gallery/hermit_thrush/macaulay/hermit_thrush_346844731",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72295,
+      "attribution": {
+        "photographer": "mark daly",
+        "photographer_url": "https://macaulaylibrary.org/asset/346844731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hermit Thrush by mark daly; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "346844731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hermit_thrush_614841090.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267172/bird-gallery/hermit_thrush/macaulay/hermit_thrush_614841090.jpg",
+      "public_id": "bird-gallery/hermit_thrush/macaulay/hermit_thrush_614841090",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86015,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/614841090",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hermit Thrush by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "614841090",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

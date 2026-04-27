@@ -24,6 +24,44 @@
         "source_id": "295900451",
         "note": null
       }
+    },
+    {
+      "original_file": "great_blue_heron_295900421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267162/bird-gallery/great_blue_heron/macaulay/great_blue_heron_295900421.jpg",
+      "public_id": "bird-gallery/great_blue_heron/macaulay/great_blue_heron_295900421",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 106714,
+      "attribution": {
+        "photographer": "Carl Bergstrom",
+        "photographer_url": "https://macaulaylibrary.org/asset/295900421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Great Blue Heron by Carl Bergstrom; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "295900421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_blue_heron_316983781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267163/bird-gallery/great_blue_heron/macaulay/great_blue_heron_316983781.jpg",
+      "public_id": "bird-gallery/great_blue_heron/macaulay/great_blue_heron_316983781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 63939,
+      "attribution": {
+        "photographer": "Andrew Newmark",
+        "photographer_url": "https://macaulaylibrary.org/asset/316983781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Great Blue Heron by Andrew Newmark; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "316983781",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

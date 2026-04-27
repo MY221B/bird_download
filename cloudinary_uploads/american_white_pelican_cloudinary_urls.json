@@ -24,6 +24,44 @@
         "source_id": "559588161",
         "note": null
       }
+    },
+    {
+      "original_file": "american_white_pelican_192450401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267102/bird-gallery/american_white_pelican/macaulay/american_white_pelican_192450401.jpg",
+      "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_192450401",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 56988,
+      "attribution": {
+        "photographer": "Gerrit Vyn",
+        "photographer_url": "https://macaulaylibrary.org/asset/192450401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American White Pelican by Gerrit Vyn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "192450401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_630514549.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267104/bird-gallery/american_white_pelican/macaulay/american_white_pelican_630514549.jpg",
+      "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_630514549",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78971,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/630514549",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American White Pelican by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "630514549",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

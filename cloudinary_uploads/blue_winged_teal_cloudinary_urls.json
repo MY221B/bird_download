@@ -24,6 +24,44 @@
         "source_id": "325396921",
         "note": null
       }
+    },
+    {
+      "original_file": "blue_winged_teal_404562701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267116/bird-gallery/blue_winged_teal/macaulay/blue_winged_teal_404562701.jpg",
+      "public_id": "bird-gallery/blue_winged_teal/macaulay/blue_winged_teal_404562701",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 100414,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/404562701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Blue-winged Teal by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "404562701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_winged_teal_217395561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267117/bird-gallery/blue_winged_teal/macaulay/blue_winged_teal_217395561.jpg",
+      "public_id": "bird-gallery/blue_winged_teal/macaulay/blue_winged_teal_217395561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 113994,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/217395561",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Blue-winged Teal by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "217395561",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

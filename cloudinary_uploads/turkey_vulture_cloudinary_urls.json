@@ -24,6 +24,44 @@
         "source_id": "373545991",
         "note": null
       }
+    },
+    {
+      "original_file": "turkey_vulture_527839701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267241/bird-gallery/turkey_vulture/macaulay/turkey_vulture_527839701.jpg",
+      "public_id": "bird-gallery/turkey_vulture/macaulay/turkey_vulture_527839701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 294621,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/527839701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Turkey Vulture by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "527839701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "turkey_vulture_219940511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267242/bird-gallery/turkey_vulture/macaulay/turkey_vulture_219940511.jpg",
+      "public_id": "bird-gallery/turkey_vulture/macaulay/turkey_vulture_219940511",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 96903,
+      "attribution": {
+        "photographer": "Scott Martin",
+        "photographer_url": "https://macaulaylibrary.org/asset/219940511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Turkey Vulture by Scott Martin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "219940511",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

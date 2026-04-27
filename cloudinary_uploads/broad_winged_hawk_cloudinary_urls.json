@@ -24,6 +24,44 @@
         "source_id": "265262561",
         "note": null
       }
+    },
+    {
+      "original_file": "broad_winged_hawk_43136691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267118/bird-gallery/broad_winged_hawk/macaulay/broad_winged_hawk_43136691.jpg",
+      "public_id": "bird-gallery/broad_winged_hawk/macaulay/broad_winged_hawk_43136691",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 77201,
+      "attribution": {
+        "photographer": "Alex Lamoreaux",
+        "photographer_url": "https://macaulaylibrary.org/asset/43136691",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Broad-winged Hawk by Alex Lamoreaux; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "43136691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "broad_winged_hawk_460049751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267119/bird-gallery/broad_winged_hawk/macaulay/broad_winged_hawk_460049751.jpg",
+      "public_id": "bird-gallery/broad_winged_hawk/macaulay/broad_winged_hawk_460049751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 105089,
+      "attribution": {
+        "photographer": "Frédérick Lelièvre",
+        "photographer_url": "https://macaulaylibrary.org/asset/460049751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Broad-winged Hawk by Frédérick Lelièvre; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "460049751",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

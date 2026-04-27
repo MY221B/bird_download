@@ -24,6 +24,44 @@
         "source_id": "320796051",
         "note": null
       }
+    },
+    {
+      "original_file": "blue_jay_625708916.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267113/bird-gallery/blue_jay/macaulay/blue_jay_625708916.jpg",
+      "public_id": "bird-gallery/blue_jay/macaulay/blue_jay_625708916",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77169,
+      "attribution": {
+        "photographer": "Mark Sak",
+        "photographer_url": "https://macaulaylibrary.org/asset/625708916",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Blue Jay by Mark Sak; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "625708916",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_jay_47351251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267114/bird-gallery/blue_jay/macaulay/blue_jay_47351251.jpg",
+      "public_id": "bird-gallery/blue_jay/macaulay/blue_jay_47351251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62921,
+      "attribution": {
+        "photographer": "bellemare celine",
+        "photographer_url": "https://macaulaylibrary.org/asset/47351251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Blue Jay by bellemare celine; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "47351251",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

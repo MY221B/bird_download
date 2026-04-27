@@ -24,6 +24,44 @@
         "source_id": "504470851",
         "note": null
       }
+    },
+    {
+      "original_file": "american_tree_sparrow_228668281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267100/bird-gallery/american_tree_sparrow/macaulay/american_tree_sparrow_228668281.jpg",
+      "public_id": "bird-gallery/american_tree_sparrow/macaulay/american_tree_sparrow_228668281",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 53851,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/228668281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Tree Sparrow by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "228668281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_tree_sparrow_497154101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267101/bird-gallery/american_tree_sparrow/macaulay/american_tree_sparrow_497154101.jpg",
+      "public_id": "bird-gallery/american_tree_sparrow/macaulay/american_tree_sparrow_497154101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70785,
+      "attribution": {
+        "photographer": "Simon Villeneuve",
+        "photographer_url": "https://macaulaylibrary.org/asset/497154101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Tree Sparrow by Simon Villeneuve; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "497154101",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

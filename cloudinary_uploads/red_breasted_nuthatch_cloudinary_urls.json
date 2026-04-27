@@ -24,6 +24,44 @@
         "source_id": "267198251",
         "note": null
       }
+    },
+    {
+      "original_file": "red_breasted_nuthatch_310504121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267206/bird-gallery/red_breasted_nuthatch/macaulay/red_breasted_nuthatch_310504121.jpg",
+      "public_id": "bird-gallery/red_breasted_nuthatch/macaulay/red_breasted_nuthatch_310504121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 105437,
+      "attribution": {
+        "photographer": "Kyle Tansley",
+        "photographer_url": "https://macaulaylibrary.org/asset/310504121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-breasted Nuthatch by Kyle Tansley; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "310504121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_breasted_nuthatch_261806601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267207/bird-gallery/red_breasted_nuthatch/macaulay/red_breasted_nuthatch_261806601.jpg",
+      "public_id": "bird-gallery/red_breasted_nuthatch/macaulay/red_breasted_nuthatch_261806601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51970,
+      "attribution": {
+        "photographer": "Linda Petersen",
+        "photographer_url": "https://macaulaylibrary.org/asset/261806601",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-breasted Nuthatch by Linda Petersen; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "261806601",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

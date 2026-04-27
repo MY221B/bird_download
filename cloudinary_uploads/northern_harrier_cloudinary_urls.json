@@ -24,6 +24,44 @@
         "source_id": "229519571",
         "note": null
       }
+    },
+    {
+      "original_file": "northern_harrier_386756111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267189/bird-gallery/northern_harrier/macaulay/northern_harrier_386756111.jpg",
+      "public_id": "bird-gallery/northern_harrier/macaulay/northern_harrier_386756111",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 69008,
+      "attribution": {
+        "photographer": "Blair Dudeck",
+        "photographer_url": "https://macaulaylibrary.org/asset/386756111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Harrier by Blair Dudeck; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "386756111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_harrier_512393471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267190/bird-gallery/northern_harrier/macaulay/northern_harrier_512393471.jpg",
+      "public_id": "bird-gallery/northern_harrier/macaulay/northern_harrier_512393471",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 31313,
+      "attribution": {
+        "photographer": "Matt Zuro",
+        "photographer_url": "https://macaulaylibrary.org/asset/512393471",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Harrier by Matt Zuro; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "512393471",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

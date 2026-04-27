@@ -24,6 +24,44 @@
         "source_id": "408058881",
         "note": null
       }
+    },
+    {
+      "original_file": "american_goldfinch_155107331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267096/bird-gallery/american_goldfinch/macaulay/american_goldfinch_155107331.jpg",
+      "public_id": "bird-gallery/american_goldfinch/macaulay/american_goldfinch_155107331",
+      "width": 1200,
+      "height": 823,
+      "format": "jpg",
+      "bytes": 71675,
+      "attribution": {
+        "photographer": "Don Danko",
+        "photographer_url": "https://macaulaylibrary.org/asset/155107331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Goldfinch by Don Danko; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "155107331",
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_goldfinch_620231363.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267097/bird-gallery/american_goldfinch/macaulay/american_goldfinch_620231363.jpg",
+      "public_id": "bird-gallery/american_goldfinch/macaulay/american_goldfinch_620231363",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79615,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/620231363",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Goldfinch by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "620231363",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

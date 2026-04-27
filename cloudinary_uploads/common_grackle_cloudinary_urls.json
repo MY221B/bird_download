@@ -24,6 +24,44 @@
         "source_id": "652399570",
         "note": null
       }
+    },
+    {
+      "original_file": "common_grackle_37761501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267138/bird-gallery/common_grackle/macaulay/common_grackle_37761501.jpg",
+      "public_id": "bird-gallery/common_grackle/macaulay/common_grackle_37761501",
+      "width": 1200,
+      "height": 802,
+      "format": "jpg",
+      "bytes": 73950,
+      "attribution": {
+        "photographer": "Ryan Schain",
+        "photographer_url": "https://macaulaylibrary.org/asset/37761501",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Common Grackle by Ryan Schain; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "37761501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_grackle_93138231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267139/bird-gallery/common_grackle/macaulay/common_grackle_93138231.jpg",
+      "public_id": "bird-gallery/common_grackle/macaulay/common_grackle_93138231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 174920,
+      "attribution": {
+        "photographer": "Jack & Holly Bartholmai",
+        "photographer_url": "https://macaulaylibrary.org/asset/93138231",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Common Grackle by Jack & Holly Bartholmai; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "93138231",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

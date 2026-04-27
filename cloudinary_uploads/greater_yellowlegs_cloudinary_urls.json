@@ -24,6 +24,44 @@
         "source_id": "409359061",
         "note": null
       }
+    },
+    {
+      "original_file": "greater_yellowlegs_411223011.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267165/bird-gallery/greater_yellowlegs/macaulay/greater_yellowlegs_411223011.jpg",
+      "public_id": "bird-gallery/greater_yellowlegs/macaulay/greater_yellowlegs_411223011",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56088,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/411223011",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Greater Yellowlegs by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "411223011",
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_yellowlegs_321955251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267166/bird-gallery/greater_yellowlegs/macaulay/greater_yellowlegs_321955251.jpg",
+      "public_id": "bird-gallery/greater_yellowlegs/macaulay/greater_yellowlegs_321955251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76655,
+      "attribution": {
+        "photographer": "Matthew Plante",
+        "photographer_url": "https://macaulaylibrary.org/asset/321955251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Greater Yellowlegs by Matthew Plante; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "321955251",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

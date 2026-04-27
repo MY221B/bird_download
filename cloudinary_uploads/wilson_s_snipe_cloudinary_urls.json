@@ -24,6 +24,44 @@
         "source_id": "183634001",
         "note": null
       }
+    },
+    {
+      "original_file": "wilson_s_snipe_388375291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267252/bird-gallery/wilson_s_snipe/macaulay/wilson_s_snipe_388375291.jpg",
+      "public_id": "bird-gallery/wilson_s_snipe/macaulay/wilson_s_snipe_388375291",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 144631,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/388375291",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wilson's Snipe by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "388375291",
+        "note": null
+      }
+    },
+    {
+      "original_file": "wilson_s_snipe_347200951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267253/bird-gallery/wilson_s_snipe/macaulay/wilson_s_snipe_347200951.jpg",
+      "public_id": "bird-gallery/wilson_s_snipe/macaulay/wilson_s_snipe_347200951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56395,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/347200951",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wilson's Snipe by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "347200951",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

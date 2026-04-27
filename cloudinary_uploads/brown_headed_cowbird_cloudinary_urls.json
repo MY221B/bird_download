@@ -24,6 +24,44 @@
         "source_id": "457793471",
         "note": null
       }
+    },
+    {
+      "original_file": "brown_headed_cowbird_341362771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267123/bird-gallery/brown_headed_cowbird/macaulay/brown_headed_cowbird_341362771.jpg",
+      "public_id": "bird-gallery/brown_headed_cowbird/macaulay/brown_headed_cowbird_341362771",
+      "width": 1115,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 92266,
+      "attribution": {
+        "photographer": "Jim Merritt",
+        "photographer_url": "https://macaulaylibrary.org/asset/341362771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown-headed Cowbird by Jim Merritt; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "341362771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_headed_cowbird_437418291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267124/bird-gallery/brown_headed_cowbird/macaulay/brown_headed_cowbird_437418291.jpg",
+      "public_id": "bird-gallery/brown_headed_cowbird/macaulay/brown_headed_cowbird_437418291",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67204,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/437418291",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown-headed Cowbird by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "437418291",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

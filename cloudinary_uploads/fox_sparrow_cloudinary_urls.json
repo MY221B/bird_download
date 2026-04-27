@@ -24,6 +24,44 @@
         "source_id": "409190151",
         "note": null
       }
+    },
+    {
+      "original_file": "fox_sparrow_293788021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267158/bird-gallery/fox_sparrow/macaulay/fox_sparrow_293788021.jpg",
+      "public_id": "bird-gallery/fox_sparrow/macaulay/fox_sparrow_293788021",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 98881,
+      "attribution": {
+        "photographer": "Ryan Schain",
+        "photographer_url": "https://macaulaylibrary.org/asset/293788021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Fox Sparrow by Ryan Schain; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "293788021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fox_sparrow_125733281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267159/bird-gallery/fox_sparrow/macaulay/fox_sparrow_125733281.jpg",
+      "public_id": "bird-gallery/fox_sparrow/macaulay/fox_sparrow_125733281",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 62858,
+      "attribution": {
+        "photographer": "Scott Martin",
+        "photographer_url": "https://macaulaylibrary.org/asset/125733281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Fox Sparrow by Scott Martin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "125733281",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

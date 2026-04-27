@@ -24,6 +24,44 @@
         "source_id": "608554765",
         "note": null
       }
+    },
+    {
+      "original_file": "lincoln_s_sparrow_371909921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267180/bird-gallery/lincoln_s_sparrow/macaulay/lincoln_s_sparrow_371909921.jpg",
+      "public_id": "bird-gallery/lincoln_s_sparrow/macaulay/lincoln_s_sparrow_371909921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70093,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/371909921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Lincoln's Sparrow by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "371909921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lincoln_s_sparrow_495902981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267181/bird-gallery/lincoln_s_sparrow/macaulay/lincoln_s_sparrow_495902981.jpg",
+      "public_id": "bird-gallery/lincoln_s_sparrow/macaulay/lincoln_s_sparrow_495902981",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98334,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/495902981",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Lincoln's Sparrow by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "495902981",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

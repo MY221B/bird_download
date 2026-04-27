@@ -24,6 +24,44 @@
         "source_id": "204316431",
         "note": null
       }
+    },
+    {
+      "original_file": "pileated_woodpecker_54346191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267198/bird-gallery/pileated_woodpecker/macaulay/pileated_woodpecker_54346191.jpg",
+      "public_id": "bird-gallery/pileated_woodpecker/macaulay/pileated_woodpecker_54346191",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 91528,
+      "attribution": {
+        "photographer": "bellemare celine",
+        "photographer_url": "https://macaulaylibrary.org/asset/54346191",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Pileated Woodpecker by bellemare celine; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "54346191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pileated_woodpecker_427666031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267199/bird-gallery/pileated_woodpecker/macaulay/pileated_woodpecker_427666031.jpg",
+      "public_id": "bird-gallery/pileated_woodpecker/macaulay/pileated_woodpecker_427666031",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97919,
+      "attribution": {
+        "photographer": "Tanner Martin",
+        "photographer_url": "https://macaulaylibrary.org/asset/427666031",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Pileated Woodpecker by Tanner Martin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "427666031",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

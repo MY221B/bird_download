@@ -24,6 +24,44 @@
         "source_id": "309666411",
         "note": null
       }
+    },
+    {
+      "original_file": "sandhill_crane_278098351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267225/bird-gallery/sandhill_crane/macaulay/sandhill_crane_278098351.jpg",
+      "public_id": "bird-gallery/sandhill_crane/macaulay/sandhill_crane_278098351",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 49032,
+      "attribution": {
+        "photographer": "Bryan Calk",
+        "photographer_url": "https://macaulaylibrary.org/asset/278098351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Sandhill Crane by Bryan Calk; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "278098351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sandhill_crane_305597181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267227/bird-gallery/sandhill_crane/macaulay/sandhill_crane_305597181.jpg",
+      "public_id": "bird-gallery/sandhill_crane/macaulay/sandhill_crane_305597181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51236,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/305597181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Sandhill Crane by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "305597181",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

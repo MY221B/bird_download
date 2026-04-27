@@ -24,6 +24,44 @@
         "source_id": "158310331",
         "note": null
       }
+    },
+    {
+      "original_file": "killdeer_584677301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267177/bird-gallery/killdeer/macaulay/killdeer_584677301.jpg",
+      "public_id": "bird-gallery/killdeer/macaulay/killdeer_584677301",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 50413,
+      "attribution": {
+        "photographer": "Matt Felperin",
+        "photographer_url": "https://macaulaylibrary.org/asset/584677301",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Killdeer by Matt Felperin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "584677301",
+        "note": null
+      }
+    },
+    {
+      "original_file": "killdeer_622589119.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267179/bird-gallery/killdeer/macaulay/killdeer_622589119.jpg",
+      "public_id": "bird-gallery/killdeer/macaulay/killdeer_622589119",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 53031,
+      "attribution": {
+        "photographer": "Janet Hix",
+        "photographer_url": "https://macaulaylibrary.org/asset/622589119",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Killdeer by Janet Hix; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "622589119",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

@@ -24,6 +24,44 @@
         "source_id": "431726081",
         "note": null
       }
+    },
+    {
+      "original_file": "northern_flicker_462640971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267186/bird-gallery/northern_flicker/macaulay/northern_flicker_462640971.jpg",
+      "public_id": "bird-gallery/northern_flicker/macaulay/northern_flicker_462640971",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 111581,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/462640971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Flicker by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "462640971",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_flicker_222447961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267187/bird-gallery/northern_flicker/macaulay/northern_flicker_222447961.jpg",
+      "public_id": "bird-gallery/northern_flicker/macaulay/northern_flicker_222447961",
+      "width": 1062,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 120779,
+      "attribution": {
+        "photographer": "Jim Merritt",
+        "photographer_url": "https://macaulaylibrary.org/asset/222447961",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Flicker by Jim Merritt; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "222447961",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

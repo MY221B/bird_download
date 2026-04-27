@@ -24,6 +24,44 @@
         "source_id": "40933351",
         "note": null
       }
+    },
+    {
+      "original_file": "pine_warbler_222635611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267200/bird-gallery/pine_warbler/macaulay/pine_warbler_222635611.jpg",
+      "public_id": "bird-gallery/pine_warbler/macaulay/pine_warbler_222635611",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 118868,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/222635611",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Pine Warbler by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "222635611",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pine_warbler_436685041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267201/bird-gallery/pine_warbler/macaulay/pine_warbler_436685041.jpg",
+      "public_id": "bird-gallery/pine_warbler/macaulay/pine_warbler_436685041",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60990,
+      "attribution": {
+        "photographer": "Kojo Baidoo",
+        "photographer_url": "https://macaulaylibrary.org/asset/436685041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Pine Warbler by Kojo Baidoo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "436685041",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

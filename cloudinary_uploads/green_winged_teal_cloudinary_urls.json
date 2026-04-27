@@ -24,6 +24,44 @@
         "source_id": "501469651",
         "note": null
       }
+    },
+    {
+      "original_file": "green_winged_teal_422441021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267167/bird-gallery/green_winged_teal/macaulay/green_winged_teal_422441021.jpg",
+      "public_id": "bird-gallery/green_winged_teal/macaulay/green_winged_teal_422441021",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 43822,
+      "attribution": {
+        "photographer": "Matt Misewicz",
+        "photographer_url": "https://macaulaylibrary.org/asset/422441021",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Green-winged Teal by Matt Misewicz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "422441021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_winged_teal_616033693.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267168/bird-gallery/green_winged_teal/macaulay/green_winged_teal_616033693.jpg",
+      "public_id": "bird-gallery/green_winged_teal/macaulay/green_winged_teal_616033693",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62547,
+      "attribution": {
+        "photographer": "Matt Felperin",
+        "photographer_url": "https://macaulaylibrary.org/asset/616033693",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Green-winged Teal by Matt Felperin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "616033693",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

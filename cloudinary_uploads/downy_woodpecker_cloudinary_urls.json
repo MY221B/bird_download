@@ -24,6 +24,44 @@
         "source_id": "47337961",
         "note": null
       }
+    },
+    {
+      "original_file": "downy_woodpecker_281001791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267144/bird-gallery/downy_woodpecker/macaulay/downy_woodpecker_281001791.jpg",
+      "public_id": "bird-gallery/downy_woodpecker/macaulay/downy_woodpecker_281001791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 59502,
+      "attribution": {
+        "photographer": "Stefano Ianiro",
+        "photographer_url": "https://macaulaylibrary.org/asset/281001791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Downy Woodpecker by Stefano Ianiro; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "281001791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "downy_woodpecker_150049391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267145/bird-gallery/downy_woodpecker/macaulay/downy_woodpecker_150049391.jpg",
+      "public_id": "bird-gallery/downy_woodpecker/macaulay/downy_woodpecker_150049391",
+      "width": 1200,
+      "height": 796,
+      "format": "jpg",
+      "bytes": 91254,
+      "attribution": {
+        "photographer": "Fyn Kynd",
+        "photographer_url": "https://macaulaylibrary.org/asset/150049391",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Downy Woodpecker by Fyn Kynd; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "150049391",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

@@ -24,6 +24,44 @@
         "source_id": "362413861",
         "note": null
       }
+    },
+    {
+      "original_file": "eastern_phoebe_156205531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267151/bird-gallery/eastern_phoebe/macaulay/eastern_phoebe_156205531.jpg",
+      "public_id": "bird-gallery/eastern_phoebe/macaulay/eastern_phoebe_156205531",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 36914,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/156205531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Phoebe by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "156205531",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_phoebe_395309991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267151/bird-gallery/eastern_phoebe/macaulay/eastern_phoebe_395309991.jpg",
+      "public_id": "bird-gallery/eastern_phoebe/macaulay/eastern_phoebe_395309991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 89954,
+      "attribution": {
+        "photographer": "Nico Sarbanes",
+        "photographer_url": "https://macaulaylibrary.org/asset/395309991",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Phoebe by Nico Sarbanes; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "395309991",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

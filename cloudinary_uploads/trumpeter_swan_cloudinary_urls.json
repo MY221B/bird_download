@@ -24,6 +24,44 @@
         "source_id": "521638581",
         "note": null
       }
+    },
+    {
+      "original_file": "trumpeter_swan_335636821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267239/bird-gallery/trumpeter_swan/macaulay/trumpeter_swan_335636821.jpg",
+      "public_id": "bird-gallery/trumpeter_swan/macaulay/trumpeter_swan_335636821",
+      "width": 1200,
+      "height": 723,
+      "format": "jpg",
+      "bytes": 69590,
+      "attribution": {
+        "photographer": "Raymond Ladurantaye",
+        "photographer_url": "https://macaulaylibrary.org/asset/335636821",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Trumpeter Swan by Raymond Ladurantaye; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "335636821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "trumpeter_swan_433283981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267240/bird-gallery/trumpeter_swan/macaulay/trumpeter_swan_433283981.jpg",
+      "public_id": "bird-gallery/trumpeter_swan/macaulay/trumpeter_swan_433283981",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62168,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/433283981",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Trumpeter Swan by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "433283981",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

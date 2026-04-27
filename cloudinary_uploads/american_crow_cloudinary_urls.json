@@ -24,6 +24,44 @@
         "source_id": "269969201",
         "note": null
       }
+    },
+    {
+      "original_file": "american_crow_286868001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267094/bird-gallery/american_crow/macaulay/american_crow_286868001.jpg",
+      "public_id": "bird-gallery/american_crow/macaulay/american_crow_286868001",
+      "width": 1200,
+      "height": 673,
+      "format": "jpg",
+      "bytes": 47392,
+      "attribution": {
+        "photographer": "Ian Routley",
+        "photographer_url": "https://macaulaylibrary.org/asset/286868001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Crow by Ian Routley; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "286868001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_crow_290453231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267095/bird-gallery/american_crow/macaulay/american_crow_290453231.jpg",
+      "public_id": "bird-gallery/american_crow/macaulay/american_crow_290453231",
+      "width": 1200,
+      "height": 816,
+      "format": "jpg",
+      "bytes": 62703,
+      "attribution": {
+        "photographer": "Gord Gadsden",
+        "photographer_url": "https://macaulaylibrary.org/asset/290453231",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "American Crow by Gord Gadsden; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "290453231",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

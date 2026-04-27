@@ -24,6 +24,44 @@
         "source_id": "213783891",
         "note": null
       }
+    },
+    {
+      "original_file": "eastern_bluebird_416173871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267146/bird-gallery/eastern_bluebird/macaulay/eastern_bluebird_416173871.jpg",
+      "public_id": "bird-gallery/eastern_bluebird/macaulay/eastern_bluebird_416173871",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66517,
+      "attribution": {
+        "photographer": "Nico Sarbanes",
+        "photographer_url": "https://macaulaylibrary.org/asset/416173871",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Bluebird by Nico Sarbanes; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "416173871",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_bluebird_630564048.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267147/bird-gallery/eastern_bluebird/macaulay/eastern_bluebird_630564048.jpg",
+      "public_id": "bird-gallery/eastern_bluebird/macaulay/eastern_bluebird_630564048",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 30105,
+      "attribution": {
+        "photographer": "Andrew Sonea",
+        "photographer_url": "https://macaulaylibrary.org/asset/630564048",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Bluebird by Andrew Sonea; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "630564048",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

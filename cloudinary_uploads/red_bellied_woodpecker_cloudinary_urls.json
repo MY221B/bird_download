@@ -24,6 +24,44 @@
         "source_id": "306716341",
         "note": null
       }
+    },
+    {
+      "original_file": "red_bellied_woodpecker_311715351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267204/bird-gallery/red_bellied_woodpecker/macaulay/red_bellied_woodpecker_311715351.jpg",
+      "public_id": "bird-gallery/red_bellied_woodpecker/macaulay/red_bellied_woodpecker_311715351",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 135503,
+      "attribution": {
+        "photographer": "Matthew Plante",
+        "photographer_url": "https://macaulaylibrary.org/asset/311715351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-bellied Woodpecker by Matthew Plante; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "311715351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_bellied_woodpecker_308783941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267205/bird-gallery/red_bellied_woodpecker/macaulay/red_bellied_woodpecker_308783941.jpg",
+      "public_id": "bird-gallery/red_bellied_woodpecker/macaulay/red_bellied_woodpecker_308783941",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82908,
+      "attribution": {
+        "photographer": "Matthew Plante",
+        "photographer_url": "https://macaulaylibrary.org/asset/308783941",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-bellied Woodpecker by Matthew Plante; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "308783941",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

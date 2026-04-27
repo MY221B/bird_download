@@ -24,6 +24,44 @@
         "source_id": "297100961",
         "note": null
       }
+    },
+    {
+      "original_file": "white_throated_sparrow_155039781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267248/bird-gallery/white_throated_sparrow/macaulay/white_throated_sparrow_155039781.jpg",
+      "public_id": "bird-gallery/white_throated_sparrow/macaulay/white_throated_sparrow_155039781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76742,
+      "attribution": {
+        "photographer": "August Davidson-Onsgard",
+        "photographer_url": "https://macaulaylibrary.org/asset/155039781",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "White-throated Sparrow by August Davidson-Onsgard; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "155039781",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_throated_sparrow_278793201.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267249/bird-gallery/white_throated_sparrow/macaulay/white_throated_sparrow_278793201.jpg",
+      "public_id": "bird-gallery/white_throated_sparrow/macaulay/white_throated_sparrow_278793201",
+      "width": 1200,
+      "height": 794,
+      "format": "jpg",
+      "bytes": 81559,
+      "attribution": {
+        "photographer": "Ryan Schain",
+        "photographer_url": "https://macaulaylibrary.org/asset/278793201",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "White-throated Sparrow by Ryan Schain; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "278793201",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

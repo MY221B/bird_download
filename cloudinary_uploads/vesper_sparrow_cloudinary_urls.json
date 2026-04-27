@@ -24,6 +24,44 @@
         "source_id": "359529631",
         "note": null
       }
+    },
+    {
+      "original_file": "vesper_sparrow_277638591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267243/bird-gallery/vesper_sparrow/macaulay/vesper_sparrow_277638591.jpg",
+      "public_id": "bird-gallery/vesper_sparrow/macaulay/vesper_sparrow_277638591",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98749,
+      "attribution": {
+        "photographer": "Grace C",
+        "photographer_url": "https://macaulaylibrary.org/asset/277638591",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Vesper Sparrow by Grace C; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "277638591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "vesper_sparrow_236422221.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267245/bird-gallery/vesper_sparrow/macaulay/vesper_sparrow_236422221.jpg",
+      "public_id": "bird-gallery/vesper_sparrow/macaulay/vesper_sparrow_236422221",
+      "width": 1200,
+      "height": 733,
+      "format": "jpg",
+      "bytes": 92951,
+      "attribution": {
+        "photographer": "Simon Boivin",
+        "photographer_url": "https://macaulaylibrary.org/asset/236422221",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Vesper Sparrow by Simon Boivin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "236422221",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

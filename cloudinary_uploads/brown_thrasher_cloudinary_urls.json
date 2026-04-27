@@ -24,6 +24,44 @@
         "source_id": "86708941",
         "note": null
       }
+    },
+    {
+      "original_file": "brown_thrasher_348481561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267130/bird-gallery/brown_thrasher/macaulay/brown_thrasher_348481561.jpg",
+      "public_id": "bird-gallery/brown_thrasher/macaulay/brown_thrasher_348481561",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 67799,
+      "attribution": {
+        "photographer": "John Wyatt",
+        "photographer_url": "https://macaulaylibrary.org/asset/348481561",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown Thrasher by John Wyatt; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "348481561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_thrasher_224055581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267131/bird-gallery/brown_thrasher/macaulay/brown_thrasher_224055581.jpg",
+      "public_id": "bird-gallery/brown_thrasher/macaulay/brown_thrasher_224055581",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56661,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/224055581",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Brown Thrasher by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "224055581",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

@@ -24,6 +24,44 @@
         "source_id": "636630599",
         "note": null
       }
+    },
+    {
+      "original_file": "red_winged_blackbird_151495311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267212/bird-gallery/red_winged_blackbird/macaulay/red_winged_blackbird_151495311.jpg",
+      "public_id": "bird-gallery/red_winged_blackbird/macaulay/red_winged_blackbird_151495311",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104444,
+      "attribution": {
+        "photographer": "Don Danko",
+        "photographer_url": "https://macaulaylibrary.org/asset/151495311",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-winged Blackbird by Don Danko; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "151495311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_winged_blackbird_464819251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267213/bird-gallery/red_winged_blackbird/macaulay/red_winged_blackbird_464819251.jpg",
+      "public_id": "bird-gallery/red_winged_blackbird/macaulay/red_winged_blackbird_464819251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64963,
+      "attribution": {
+        "photographer": "Connor Cochrane",
+        "photographer_url": "https://macaulaylibrary.org/asset/464819251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-winged Blackbird by Connor Cochrane; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "464819251",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

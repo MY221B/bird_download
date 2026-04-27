@@ -24,6 +24,44 @@
         "source_id": "432993771",
         "note": null
       }
+    },
+    {
+      "original_file": "golden_crowned_kinglet_289734871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267160/bird-gallery/golden_crowned_kinglet/macaulay/golden_crowned_kinglet_289734871.jpg",
+      "public_id": "bird-gallery/golden_crowned_kinglet/macaulay/golden_crowned_kinglet_289734871",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 59554,
+      "attribution": {
+        "photographer": "Bryan Calk",
+        "photographer_url": "https://macaulaylibrary.org/asset/289734871",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Golden-crowned Kinglet by Bryan Calk; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "289734871",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_crowned_kinglet_611841137.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267161/bird-gallery/golden_crowned_kinglet/macaulay/golden_crowned_kinglet_611841137.jpg",
+      "public_id": "bird-gallery/golden_crowned_kinglet/macaulay/golden_crowned_kinglet_611841137",
+      "width": 1200,
+      "height": 896,
+      "format": "jpg",
+      "bytes": 84810,
+      "attribution": {
+        "photographer": "Nick Saunders",
+        "photographer_url": "https://macaulaylibrary.org/asset/611841137",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Golden-crowned Kinglet by Nick Saunders; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "611841137",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

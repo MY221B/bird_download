@@ -24,6 +24,44 @@
         "source_id": "426756621",
         "note": null
       }
+    },
+    {
+      "original_file": "eastern_meadowlark_446213821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267149/bird-gallery/eastern_meadowlark/macaulay/eastern_meadowlark_446213821.jpg",
+      "public_id": "bird-gallery/eastern_meadowlark/macaulay/eastern_meadowlark_446213821",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58138,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/446213821",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Meadowlark by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "446213821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_meadowlark_629169294.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267150/bird-gallery/eastern_meadowlark/macaulay/eastern_meadowlark_629169294.jpg",
+      "public_id": "bird-gallery/eastern_meadowlark/macaulay/eastern_meadowlark_629169294",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64486,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/629169294",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Eastern Meadowlark by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "629169294",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

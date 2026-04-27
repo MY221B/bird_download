@@ -24,6 +24,44 @@
         "source_id": "380778111",
         "note": null
       }
+    },
+    {
+      "original_file": "red_tailed_hawk_390920461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267210/bird-gallery/red_tailed_hawk/macaulay/red_tailed_hawk_390920461.jpg",
+      "public_id": "bird-gallery/red_tailed_hawk/macaulay/red_tailed_hawk_390920461",
+      "width": 1200,
+      "height": 956,
+      "format": "jpg",
+      "bytes": 114004,
+      "attribution": {
+        "photographer": "Ken Pitts",
+        "photographer_url": "https://macaulaylibrary.org/asset/390920461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-tailed Hawk by Ken Pitts; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "390920461",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_hawk_380778141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267211/bird-gallery/red_tailed_hawk/macaulay/red_tailed_hawk_380778141.jpg",
+      "public_id": "bird-gallery/red_tailed_hawk/macaulay/red_tailed_hawk_380778141",
+      "width": 1200,
+      "height": 772,
+      "format": "jpg",
+      "bytes": 96813,
+      "attribution": {
+        "photographer": "Shirley Pulgar Hughes",
+        "photographer_url": "https://macaulaylibrary.org/asset/380778141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Red-tailed Hawk by Shirley Pulgar Hughes; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "380778141",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

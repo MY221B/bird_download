@@ -24,6 +24,44 @@
         "source_id": "46363871",
         "note": null
       }
+    },
+    {
+      "original_file": "ring_necked_pheasant_125602631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267217/bird-gallery/ring_necked_pheasant/macaulay/ring_necked_pheasant_125602631.jpg",
+      "public_id": "bird-gallery/ring_necked_pheasant/macaulay/ring_necked_pheasant_125602631",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 113962,
+      "attribution": {
+        "photographer": "Sean Williams",
+        "photographer_url": "https://macaulaylibrary.org/asset/125602631",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ring-necked Pheasant by Sean Williams; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "125602631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ring_necked_pheasant_484408801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267218/bird-gallery/ring_necked_pheasant/macaulay/ring_necked_pheasant_484408801.jpg",
+      "public_id": "bird-gallery/ring_necked_pheasant/macaulay/ring_necked_pheasant_484408801",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 75923,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/484408801",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Ring-necked Pheasant by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "484408801",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

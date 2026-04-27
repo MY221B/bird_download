@@ -24,6 +24,44 @@
         "source_id": "342203811",
         "note": null
       }
+    },
+    {
+      "original_file": "swamp_sparrow_613532095.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267234/bird-gallery/swamp_sparrow/macaulay/swamp_sparrow_613532095.jpg",
+      "public_id": "bird-gallery/swamp_sparrow/macaulay/swamp_sparrow_613532095",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81934,
+      "attribution": {
+        "photographer": "N KC",
+        "photographer_url": "https://macaulaylibrary.org/asset/613532095",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Swamp Sparrow by N KC; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "613532095",
+        "note": null
+      }
+    },
+    {
+      "original_file": "swamp_sparrow_55148411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267235/bird-gallery/swamp_sparrow/macaulay/swamp_sparrow_55148411.jpg",
+      "public_id": "bird-gallery/swamp_sparrow/macaulay/swamp_sparrow_55148411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 61284,
+      "attribution": {
+        "photographer": "Evan Lipton",
+        "photographer_url": "https://macaulaylibrary.org/asset/55148411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Swamp Sparrow by Evan Lipton; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "55148411",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

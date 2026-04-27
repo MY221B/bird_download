@@ -24,6 +24,44 @@
         "source_id": "350821911",
         "note": null
       }
+    },
+    {
+      "original_file": "sedge_wren_233761381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267228/bird-gallery/sedge_wren/macaulay/sedge_wren_233761381.jpg",
+      "public_id": "bird-gallery/sedge_wren/macaulay/sedge_wren_233761381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74783,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/233761381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Sedge Wren by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "233761381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sedge_wren_350822001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267229/bird-gallery/sedge_wren/macaulay/sedge_wren_350822001.jpg",
+      "public_id": "bird-gallery/sedge_wren/macaulay/sedge_wren_350822001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 43664,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/350822001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Sedge Wren by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "350822001",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

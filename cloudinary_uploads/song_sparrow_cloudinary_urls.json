@@ -24,6 +24,44 @@
         "source_id": "325489791",
         "note": null
       }
+    },
+    {
+      "original_file": "song_sparrow_322706591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267232/bird-gallery/song_sparrow/macaulay/song_sparrow_322706591.jpg",
+      "public_id": "bird-gallery/song_sparrow/macaulay/song_sparrow_322706591",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 70822,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/322706591",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Song Sparrow by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "322706591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "song_sparrow_650914438.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267233/bird-gallery/song_sparrow/macaulay/song_sparrow_650914438.jpg",
+      "public_id": "bird-gallery/song_sparrow/macaulay/song_sparrow_650914438",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66775,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/650914438",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Song Sparrow by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "650914438",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

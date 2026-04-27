@@ -24,6 +24,44 @@
         "source_id": "444262671",
         "note": null
       }
+    },
+    {
+      "original_file": "chipping_sparrow_464550351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267136/bird-gallery/chipping_sparrow/macaulay/chipping_sparrow_464550351.jpg",
+      "public_id": "bird-gallery/chipping_sparrow/macaulay/chipping_sparrow_464550351",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78380,
+      "attribution": {
+        "photographer": "David Turgeon",
+        "photographer_url": "https://macaulaylibrary.org/asset/464550351",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Chipping Sparrow by David Turgeon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "464550351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chipping_sparrow_230927461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267137/bird-gallery/chipping_sparrow/macaulay/chipping_sparrow_230927461.jpg",
+      "public_id": "bird-gallery/chipping_sparrow/macaulay/chipping_sparrow_230927461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70350,
+      "attribution": {
+        "photographer": "Tony Dvorak",
+        "photographer_url": "https://macaulaylibrary.org/asset/230927461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Chipping Sparrow by Tony Dvorak; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "230927461",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

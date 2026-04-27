@@ -24,6 +24,44 @@
         "source_id": "619681099",
         "note": null
       }
+    },
+    {
+      "original_file": "wild_turkey_484715111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267250/bird-gallery/wild_turkey/macaulay/wild_turkey_484715111.jpg",
+      "public_id": "bird-gallery/wild_turkey/macaulay/wild_turkey_484715111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81148,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/484715111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wild Turkey by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "484715111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "wild_turkey_536973431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267251/bird-gallery/wild_turkey/macaulay/wild_turkey_536973431.jpg",
+      "public_id": "bird-gallery/wild_turkey/macaulay/wild_turkey_536973431",
+      "width": 1042,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 206930,
+      "attribution": {
+        "photographer": "Arun Christopher Manoharan",
+        "photographer_url": "https://macaulaylibrary.org/asset/536973431",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Wild Turkey by Arun Christopher Manoharan; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "536973431",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

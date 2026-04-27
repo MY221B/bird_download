@@ -24,6 +24,44 @@
         "source_id": "402039751",
         "note": null
       }
+    },
+    {
+      "original_file": "house_finch_325279211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267175/bird-gallery/house_finch/macaulay/house_finch_325279211.jpg",
+      "public_id": "bird-gallery/house_finch/macaulay/house_finch_325279211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86911,
+      "attribution": {
+        "photographer": "Matthew Plante",
+        "photographer_url": "https://macaulaylibrary.org/asset/325279211",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "House Finch by Matthew Plante; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "325279211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "house_finch_401965731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267176/bird-gallery/house_finch/macaulay/house_finch_401965731.jpg",
+      "public_id": "bird-gallery/house_finch/macaulay/house_finch_401965731",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67667,
+      "attribution": {
+        "photographer": "Blair Dudeck",
+        "photographer_url": "https://macaulaylibrary.org/asset/401965731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "House Finch by Blair Dudeck; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "401965731",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

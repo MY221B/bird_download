@@ -24,6 +24,44 @@
         "source_id": "257386271",
         "note": null
       }
+    },
+    {
+      "original_file": "northern_cardinal_424860971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267184/bird-gallery/northern_cardinal/macaulay/northern_cardinal_424860971.jpg",
+      "public_id": "bird-gallery/northern_cardinal/macaulay/northern_cardinal_424860971",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 39206,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/424860971",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Cardinal by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "424860971",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_cardinal_281003001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267185/bird-gallery/northern_cardinal/macaulay/northern_cardinal_281003001.jpg",
+      "public_id": "bird-gallery/northern_cardinal/macaulay/northern_cardinal_281003001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72147,
+      "attribution": {
+        "photographer": "Stefano Ianiro",
+        "photographer_url": "https://macaulaylibrary.org/asset/281003001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern Cardinal by Stefano Ianiro; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "281003001",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

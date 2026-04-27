@@ -24,6 +24,44 @@
         "source_id": "645103070",
         "note": null
       }
+    },
+    {
+      "original_file": "common_raven_394617871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267140/bird-gallery/common_raven/macaulay/common_raven_394617871.jpg",
+      "public_id": "bird-gallery/common_raven/macaulay/common_raven_394617871",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 63083,
+      "attribution": {
+        "photographer": "Bryan Calk",
+        "photographer_url": "https://macaulaylibrary.org/asset/394617871",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Common Raven by Bryan Calk; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "394617871",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_raven_371283491.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267141/bird-gallery/common_raven/macaulay/common_raven_371283491.jpg",
+      "public_id": "bird-gallery/common_raven/macaulay/common_raven_371283491",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93786,
+      "attribution": {
+        "photographer": "Yeray Seminario",
+        "photographer_url": "https://macaulaylibrary.org/asset/371283491",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Common Raven by Yeray Seminario; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "371283491",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

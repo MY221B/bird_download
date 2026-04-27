@@ -24,6 +24,44 @@
         "source_id": "51357571",
         "note": null
       }
+    },
+    {
+      "original_file": "white_breasted_nuthatch_296422131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267246/bird-gallery/white_breasted_nuthatch/macaulay/white_breasted_nuthatch_296422131.jpg",
+      "public_id": "bird-gallery/white_breasted_nuthatch/macaulay/white_breasted_nuthatch_296422131",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 78187,
+      "attribution": {
+        "photographer": "Zane Shantz",
+        "photographer_url": "https://macaulaylibrary.org/asset/296422131",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "White-breasted Nuthatch by Zane Shantz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "296422131",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_breasted_nuthatch_45769831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267247/bird-gallery/white_breasted_nuthatch/macaulay/white_breasted_nuthatch_45769831.jpg",
+      "public_id": "bird-gallery/white_breasted_nuthatch/macaulay/white_breasted_nuthatch_45769831",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 105843,
+      "attribution": {
+        "photographer": "Gordon Dimmig",
+        "photographer_url": "https://macaulaylibrary.org/asset/45769831",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "White-breasted Nuthatch by Gordon Dimmig; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "45769831",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

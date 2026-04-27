@@ -24,6 +24,44 @@
         "source_id": "308764911",
         "note": null
       }
+    },
+    {
+      "original_file": "hairy_woodpecker_303463251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267169/bird-gallery/hairy_woodpecker/macaulay/hairy_woodpecker_303463251.jpg",
+      "public_id": "bird-gallery/hairy_woodpecker/macaulay/hairy_woodpecker_303463251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 111576,
+      "attribution": {
+        "photographer": "Matthew Plante",
+        "photographer_url": "https://macaulaylibrary.org/asset/303463251",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hairy Woodpecker by Matthew Plante; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "303463251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hairy_woodpecker_259476121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267170/bird-gallery/hairy_woodpecker/macaulay/hairy_woodpecker_259476121.jpg",
+      "public_id": "bird-gallery/hairy_woodpecker/macaulay/hairy_woodpecker_259476121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76188,
+      "attribution": {
+        "photographer": "Bryan Calk",
+        "photographer_url": "https://macaulaylibrary.org/asset/259476121",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Hairy Woodpecker by Bryan Calk; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "259476121",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

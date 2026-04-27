@@ -24,6 +24,44 @@
         "source_id": "613742715",
         "note": null
       }
+    },
+    {
+      "original_file": "mourning_dove_413819881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267182/bird-gallery/mourning_dove/macaulay/mourning_dove_413819881.jpg",
+      "public_id": "bird-gallery/mourning_dove/macaulay/mourning_dove_413819881",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 26510,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/413819881",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Mourning Dove by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "413819881",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mourning_dove_453526271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267183/bird-gallery/mourning_dove/macaulay/mourning_dove_453526271.jpg",
+      "public_id": "bird-gallery/mourning_dove/macaulay/mourning_dove_453526271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57169,
+      "attribution": {
+        "photographer": "Reed Robinson",
+        "photographer_url": "https://macaulaylibrary.org/asset/453526271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Mourning Dove by Reed Robinson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "453526271",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

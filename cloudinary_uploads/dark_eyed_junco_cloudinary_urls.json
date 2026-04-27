@@ -24,6 +24,44 @@
         "source_id": "47337561",
         "note": null
       }
+    },
+    {
+      "original_file": "dark_eyed_junco_330239651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267142/bird-gallery/dark_eyed_junco/macaulay/dark_eyed_junco_330239651.jpg",
+      "public_id": "bird-gallery/dark_eyed_junco/macaulay/dark_eyed_junco_330239651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74377,
+      "attribution": {
+        "photographer": "David Turgeon",
+        "photographer_url": "https://macaulaylibrary.org/asset/330239651",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Dark-eyed Junco by David Turgeon; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "330239651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dark_eyed_junco_411043211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267143/bird-gallery/dark_eyed_junco/macaulay/dark_eyed_junco_411043211.jpg",
+      "public_id": "bird-gallery/dark_eyed_junco/macaulay/dark_eyed_junco_411043211",
+      "width": 1200,
+      "height": 789,
+      "format": "jpg",
+      "bytes": 40052,
+      "attribution": {
+        "photographer": "Matt Mason",
+        "photographer_url": "https://macaulaylibrary.org/asset/411043211",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Dark-eyed Junco by Matt Mason; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "411043211",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

@@ -24,6 +24,44 @@
         "source_id": "157574821",
         "note": null
       }
+    },
+    {
+      "original_file": "yellow_bellied_sapsucker_325608001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267259/bird-gallery/yellow_bellied_sapsucker/macaulay/yellow_bellied_sapsucker_325608001.jpg",
+      "public_id": "bird-gallery/yellow_bellied_sapsucker/macaulay/yellow_bellied_sapsucker_325608001",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 136451,
+      "attribution": {
+        "photographer": "Zane Shantz",
+        "photographer_url": "https://macaulaylibrary.org/asset/325608001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Yellow-bellied Sapsucker by Zane Shantz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "325608001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_sapsucker_612350538.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267260/bird-gallery/yellow_bellied_sapsucker/macaulay/yellow_bellied_sapsucker_612350538.jpg",
+      "public_id": "bird-gallery/yellow_bellied_sapsucker/macaulay/yellow_bellied_sapsucker_612350538",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 196927,
+      "attribution": {
+        "photographer": "Matt Felperin",
+        "photographer_url": "https://macaulaylibrary.org/asset/612350538",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Yellow-bellied Sapsucker by Matt Felperin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "612350538",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

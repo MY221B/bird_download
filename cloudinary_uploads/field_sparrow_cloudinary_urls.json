@@ -24,6 +24,44 @@
         "source_id": "558064611",
         "note": null
       }
+    },
+    {
+      "original_file": "field_sparrow_226506511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267156/bird-gallery/field_sparrow/macaulay/field_sparrow_226506511.jpg",
+      "public_id": "bird-gallery/field_sparrow/macaulay/field_sparrow_226506511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 42422,
+      "attribution": {
+        "photographer": "Kojo Baidoo",
+        "photographer_url": "https://macaulaylibrary.org/asset/226506511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Field Sparrow by Kojo Baidoo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "226506511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "field_sparrow_343262751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267157/bird-gallery/field_sparrow/macaulay/field_sparrow_343262751.jpg",
+      "public_id": "bird-gallery/field_sparrow/macaulay/field_sparrow_343262751",
+      "width": 1200,
+      "height": 807,
+      "format": "jpg",
+      "bytes": 71236,
+      "attribution": {
+        "photographer": "Ryan Schain",
+        "photographer_url": "https://macaulaylibrary.org/asset/343262751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Field Sparrow by Ryan Schain; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "343262751",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

@@ -24,6 +24,44 @@
         "source_id": "278719741",
         "note": null
       }
+    },
+    {
+      "original_file": "rusty_blackbird_279735811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267223/bird-gallery/rusty_blackbird/macaulay/rusty_blackbird_279735811.jpg",
+      "public_id": "bird-gallery/rusty_blackbird/macaulay/rusty_blackbird_279735811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 59266,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/279735811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Rusty Blackbird by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "279735811",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rusty_blackbird_281089901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267224/bird-gallery/rusty_blackbird/macaulay/rusty_blackbird_281089901.jpg",
+      "public_id": "bird-gallery/rusty_blackbird/macaulay/rusty_blackbird_281089901",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60730,
+      "attribution": {
+        "photographer": "Dorian Anderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/281089901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Rusty Blackbird by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "281089901",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

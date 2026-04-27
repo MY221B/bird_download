@@ -24,6 +24,44 @@
         "source_id": "42617691",
         "note": null
       }
+    },
+    {
+      "original_file": "yellow_rumped_warbler_630734529.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267261/bird-gallery/yellow_rumped_warbler/macaulay/yellow_rumped_warbler_630734529.jpg",
+      "public_id": "bird-gallery/yellow_rumped_warbler/macaulay/yellow_rumped_warbler_630734529",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66770,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/630734529",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Yellow-rumped Warbler by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "630734529",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_rumped_warbler_43274371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267263/bird-gallery/yellow_rumped_warbler/macaulay/yellow_rumped_warbler_43274371.jpg",
+      "public_id": "bird-gallery/yellow_rumped_warbler/macaulay/yellow_rumped_warbler_43274371",
+      "width": 1200,
+      "height": 737,
+      "format": "jpg",
+      "bytes": 106974,
+      "attribution": {
+        "photographer": "Luke Seitz",
+        "photographer_url": "https://macaulaylibrary.org/asset/43274371",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Yellow-rumped Warbler by Luke Seitz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "43274371",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

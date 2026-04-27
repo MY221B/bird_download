@@ -24,6 +24,44 @@
         "source_id": "313986001",
         "note": null
       }
+    },
+    {
+      "original_file": "purple_finch_521031571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267202/bird-gallery/purple_finch/macaulay/purple_finch_521031571.jpg",
+      "public_id": "bird-gallery/purple_finch/macaulay/purple_finch_521031571",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 53143,
+      "attribution": {
+        "photographer": "Manny Salas",
+        "photographer_url": "https://macaulaylibrary.org/asset/521031571",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Purple Finch by Manny Salas; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "521031571",
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_finch_529740621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267203/bird-gallery/purple_finch/macaulay/purple_finch_529740621.jpg",
+      "public_id": "bird-gallery/purple_finch/macaulay/purple_finch_529740621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68438,
+      "attribution": {
+        "photographer": "Matt Zuro",
+        "photographer_url": "https://macaulaylibrary.org/asset/529740621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Purple Finch by Matt Zuro; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "529740621",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

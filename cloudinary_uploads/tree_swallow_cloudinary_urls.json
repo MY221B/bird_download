@@ -24,6 +24,44 @@
         "source_id": "616262580",
         "note": null
       }
+    },
+    {
+      "original_file": "tree_swallow_616262577.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267237/bird-gallery/tree_swallow/macaulay/tree_swallow_616262577.jpg",
+      "public_id": "bird-gallery/tree_swallow/macaulay/tree_swallow_616262577",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 38545,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/616262577",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Tree Swallow by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "616262577",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tree_swallow_633098775.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267238/bird-gallery/tree_swallow/macaulay/tree_swallow_633098775.jpg",
+      "public_id": "bird-gallery/tree_swallow/macaulay/tree_swallow_633098775",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 19916,
+      "attribution": {
+        "photographer": "Josiah Santiago",
+        "photographer_url": "https://macaulaylibrary.org/asset/633098775",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Tree Swallow by Josiah Santiago; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "633098775",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

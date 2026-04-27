@@ -24,6 +24,44 @@
         "source_id": "366925301",
         "note": null
       }
+    },
+    {
+      "original_file": "belted_kingfisher_474434481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267107/bird-gallery/belted_kingfisher/macaulay/belted_kingfisher_474434481.jpg",
+      "public_id": "bird-gallery/belted_kingfisher/macaulay/belted_kingfisher_474434481",
+      "width": 1200,
+      "height": 752,
+      "format": "jpg",
+      "bytes": 77569,
+      "attribution": {
+        "photographer": "Annie Lavoie",
+        "photographer_url": "https://macaulaylibrary.org/asset/474434481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Belted Kingfisher by Annie Lavoie; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "474434481",
+        "note": null
+      }
+    },
+    {
+      "original_file": "belted_kingfisher_387808861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267108/bird-gallery/belted_kingfisher/macaulay/belted_kingfisher_387808861.jpg",
+      "public_id": "bird-gallery/belted_kingfisher/macaulay/belted_kingfisher_387808861",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 88778,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/387808861",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Belted Kingfisher by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "387808861",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

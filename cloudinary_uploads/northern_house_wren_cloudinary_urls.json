@@ -24,6 +24,44 @@
         "source_id": "334908971",
         "note": null
       }
+    },
+    {
+      "original_file": "northern_house_wren_403326401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267191/bird-gallery/northern_house_wren/macaulay/northern_house_wren_403326401.jpg",
+      "public_id": "bird-gallery/northern_house_wren/macaulay/northern_house_wren_403326401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 123094,
+      "attribution": {
+        "photographer": "Brad Imhoff",
+        "photographer_url": "https://macaulaylibrary.org/asset/403326401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern House Wren by Brad Imhoff; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "403326401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_house_wren_246832101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267192/bird-gallery/northern_house_wren/macaulay/northern_house_wren_246832101.jpg",
+      "public_id": "bird-gallery/northern_house_wren/macaulay/northern_house_wren_246832101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 105096,
+      "attribution": {
+        "photographer": "John Missing",
+        "photographer_url": "https://macaulaylibrary.org/asset/246832101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Northern House Wren by John Missing; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "246832101",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

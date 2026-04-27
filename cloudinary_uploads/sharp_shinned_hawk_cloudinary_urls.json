@@ -24,6 +24,44 @@
         "source_id": "277340471",
         "note": null
       }
+    },
+    {
+      "original_file": "sharp_shinned_hawk_183111271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267230/bird-gallery/sharp_shinned_hawk/macaulay/sharp_shinned_hawk_183111271.jpg",
+      "public_id": "bird-gallery/sharp_shinned_hawk/macaulay/sharp_shinned_hawk_183111271",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 70928,
+      "attribution": {
+        "photographer": "Kyle Tansley",
+        "photographer_url": "https://macaulaylibrary.org/asset/183111271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Sharp-shinned Hawk by Kyle Tansley; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "183111271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharp_shinned_hawk_446889041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267231/bird-gallery/sharp_shinned_hawk/macaulay/sharp_shinned_hawk_446889041.jpg",
+      "public_id": "bird-gallery/sharp_shinned_hawk/macaulay/sharp_shinned_hawk_446889041",
+      "width": 906,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 79571,
+      "attribution": {
+        "photographer": "Ian Routley",
+        "photographer_url": "https://macaulaylibrary.org/asset/446889041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Sharp-shinned Hawk by Ian Routley; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "446889041",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

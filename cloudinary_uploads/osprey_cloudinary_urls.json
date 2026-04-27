@@ -43,6 +43,25 @@
         "source_id": "265741751",
         "note": null
       }
+    },
+    {
+      "original_file": "osprey_538661131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267195/bird-gallery/osprey/macaulay/osprey_538661131.jpg",
+      "public_id": "bird-gallery/osprey/macaulay/osprey_538661131",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56317,
+      "attribution": {
+        "photographer": "Alex Sauerbrunn",
+        "photographer_url": "https://macaulaylibrary.org/asset/538661131",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Osprey by Alex Sauerbrunn; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "538661131",
+        "note": null
+      }
     }
   ],
   "inaturalist": [

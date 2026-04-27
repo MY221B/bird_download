@@ -24,6 +24,44 @@
         "source_id": "297982601",
         "note": null
       }
+    },
+    {
+      "original_file": "winter_wren_406114111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267255/bird-gallery/winter_wren/macaulay/winter_wren_406114111.jpg",
+      "public_id": "bird-gallery/winter_wren/macaulay/winter_wren_406114111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57392,
+      "attribution": {
+        "photographer": "Ryan Sanderson",
+        "photographer_url": "https://macaulaylibrary.org/asset/406114111",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Winter Wren by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "406114111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "winter_wren_203772061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267256/bird-gallery/winter_wren/macaulay/winter_wren_203772061.jpg",
+      "public_id": "bird-gallery/winter_wren/macaulay/winter_wren_203772061",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 81526,
+      "attribution": {
+        "photographer": "Scott Martin",
+        "photographer_url": "https://macaulaylibrary.org/asset/203772061",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Winter Wren by Scott Martin; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "203772061",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

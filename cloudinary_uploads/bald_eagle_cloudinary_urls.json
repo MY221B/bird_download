@@ -24,6 +24,44 @@
         "source_id": "44317071",
         "note": null
       }
+    },
+    {
+      "original_file": "bald_eagle_285750511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267105/bird-gallery/bald_eagle/macaulay/bald_eagle_285750511.jpg",
+      "public_id": "bird-gallery/bald_eagle/macaulay/bald_eagle_285750511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56424,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/285750511",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bald Eagle by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "285750511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bald_eagle_285750461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267106/bird-gallery/bald_eagle/macaulay/bald_eagle_285750461.jpg",
+      "public_id": "bird-gallery/bald_eagle/macaulay/bald_eagle_285750461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 48156,
+      "attribution": {
+        "photographer": "Mason Maron",
+        "photographer_url": "https://macaulaylibrary.org/asset/285750461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bald Eagle by Mason Maron; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "285750461",
+        "note": null
+      }
     }
   ],
   "inaturalist": [],

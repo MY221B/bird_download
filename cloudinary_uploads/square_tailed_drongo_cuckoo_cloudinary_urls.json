@@ -164,5 +164,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "square_tailed_drongo_cuckoo_203489841.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1777510055/bird-gallery/square_tailed_drongo_cuckoo/sounds/square_tailed_drongo_cuckoo_203489841.mp3",
+      "public_id": "bird-gallery/square_tailed_drongo_cuckoo/sounds/square_tailed_drongo_cuckoo_203489841",
+      "duration": 35.376,
+      "format": "mp3",
+      "bytes": 567308,
+      "bit_rate": 128292,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203489841",
+        "asset_url": "https://macaulaylibrary.org/asset/203489841",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

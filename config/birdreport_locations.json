@@ -1115,6 +1115,18 @@
       ]
     },
     {
+      "id": "yunnan_puer_shi",
+      "name": "普洱市",
+      "province": "云南省",
+      "city": "普洱市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 30,
+      "query_level": "city",
+      "point_aliases": []
+    },
+    {
       "id": "wuhu_shi",
       "name": "芜湖市",
       "province": "安徽省",

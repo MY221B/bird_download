@@ -5,7 +5,65 @@
     "english_name": "Golden-breasted Fulvetta",
     "scientific_name": "Lioparus chrysotis"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "golden_breasted_fulvetta_170119921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946053/bird-gallery/golden_breasted_fulvetta/macaulay/golden_breasted_fulvetta_170119921.jpg",
+      "public_id": "bird-gallery/golden_breasted_fulvetta/macaulay/golden_breasted_fulvetta_170119921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62375,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/170119921",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "170119921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_fulvetta_170119931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946061/bird-gallery/golden_breasted_fulvetta/macaulay/golden_breasted_fulvetta_170119931.jpg",
+      "public_id": "bird-gallery/golden_breasted_fulvetta/macaulay/golden_breasted_fulvetta_170119931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87528,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/170119931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "170119931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_fulvetta_230888891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946068/bird-gallery/golden_breasted_fulvetta/macaulay/golden_breasted_fulvetta_230888891.jpg",
+      "public_id": "bird-gallery/golden_breasted_fulvetta/macaulay/golden_breasted_fulvetta_230888891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73207,
+      "attribution": {
+        "photographer": "Aseem Kothiala",
+        "photographer_url": "https://macaulaylibrary.org/asset/230888891",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Aseem Kothiala; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "230888891",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "golden_breasted_fulvetta_2.jpg",

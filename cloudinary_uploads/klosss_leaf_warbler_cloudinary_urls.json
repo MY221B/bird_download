@@ -5,7 +5,65 @@
     "english_name": "Kloss's Leaf Warbler",
     "scientific_name": "Phylloscopus ogilviegranti"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "klosss_leaf_warbler_344560721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946177/bird-gallery/klosss_leaf_warbler/macaulay/klosss_leaf_warbler_344560721.jpg",
+      "public_id": "bird-gallery/klosss_leaf_warbler/macaulay/klosss_leaf_warbler_344560721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69372,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/344560721",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "344560721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "klosss_leaf_warbler_627423405.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946184/bird-gallery/klosss_leaf_warbler/macaulay/klosss_leaf_warbler_627423405.jpg",
+      "public_id": "bird-gallery/klosss_leaf_warbler/macaulay/klosss_leaf_warbler_627423405",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60502,
+      "attribution": {
+        "photographer": "Ben Lucking",
+        "photographer_url": "https://macaulaylibrary.org/asset/627423405",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ben Lucking; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "627423405",
+        "note": null
+      }
+    },
+    {
+      "original_file": "klosss_leaf_warbler_627423407.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946191/bird-gallery/klosss_leaf_warbler/macaulay/klosss_leaf_warbler_627423407.jpg",
+      "public_id": "bird-gallery/klosss_leaf_warbler/macaulay/klosss_leaf_warbler_627423407",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49075,
+      "attribution": {
+        "photographer": "Ben Lucking",
+        "photographer_url": "https://macaulaylibrary.org/asset/627423407",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ben Lucking; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "627423407",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "klosss_leaf_warbler_1.jpg",

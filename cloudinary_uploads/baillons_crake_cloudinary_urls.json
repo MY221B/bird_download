@@ -5,7 +5,65 @@
     "english_name": "Baillon's Crake",
     "scientific_name": "Zapornia pusilla"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "baillons_crake_178274911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776945941/bird-gallery/baillons_crake/macaulay/baillons_crake_178274911.jpg",
+      "public_id": "bird-gallery/baillons_crake/macaulay/baillons_crake_178274911",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74407,
+      "attribution": {
+        "photographer": "JJ Harrison",
+        "photographer_url": "https://macaulaylibrary.org/asset/178274911",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by JJ Harrison; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "178274911",
+        "note": null
+      }
+    },
+    {
+      "original_file": "baillons_crake_212194931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776945949/bird-gallery/baillons_crake/macaulay/baillons_crake_212194931.jpg",
+      "public_id": "bird-gallery/baillons_crake/macaulay/baillons_crake_212194931",
+      "width": 1200,
+      "height": 858,
+      "format": "jpg",
+      "bytes": 91351,
+      "attribution": {
+        "photographer": "Sneha Gupta",
+        "photographer_url": "https://macaulaylibrary.org/asset/212194931",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Sneha Gupta; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "212194931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "baillons_crake_534114771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776945955/bird-gallery/baillons_crake/macaulay/baillons_crake_534114771.jpg",
+      "public_id": "bird-gallery/baillons_crake/macaulay/baillons_crake_534114771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70197,
+      "attribution": {
+        "photographer": "JJ Harrison",
+        "photographer_url": "https://macaulaylibrary.org/asset/534114771",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by JJ Harrison; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "534114771",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "baillons_crake_2.jpg",

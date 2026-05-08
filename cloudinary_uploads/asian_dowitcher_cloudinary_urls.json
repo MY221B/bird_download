@@ -5,7 +5,65 @@
     "english_name": "Asian Dowitcher",
     "scientific_name": "Limnodromus semipalmatus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "asian_dowitcher_400491621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776945912/bird-gallery/asian_dowitcher/macaulay/asian_dowitcher_400491621.jpg",
+      "public_id": "bird-gallery/asian_dowitcher/macaulay/asian_dowitcher_400491621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 24942,
+      "attribution": {
+        "photographer": "Chris Murray",
+        "photographer_url": "https://macaulaylibrary.org/asset/400491621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Chris Murray; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "400491621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "asian_dowitcher_479616571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776945921/bird-gallery/asian_dowitcher/macaulay/asian_dowitcher_479616571.jpg",
+      "public_id": "bird-gallery/asian_dowitcher/macaulay/asian_dowitcher_479616571",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 108755,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/479616571",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "479616571",
+        "note": null
+      }
+    },
+    {
+      "original_file": "asian_dowitcher_629624015.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776945928/bird-gallery/asian_dowitcher/macaulay/asian_dowitcher_629624015.jpg",
+      "public_id": "bird-gallery/asian_dowitcher/macaulay/asian_dowitcher_629624015",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67612,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/629624015",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "629624015",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "asian_dowitcher_2.jpg",

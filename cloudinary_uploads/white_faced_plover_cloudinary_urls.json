@@ -3,9 +3,67 @@
     "slug": "white_faced_plover",
     "chinese_name": "白脸鸻",
     "english_name": "White-faced Plover",
-    "scientific_name": "Charadrius dealbatus"
+    "scientific_name": "Anarhynchus dealbatus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "white_faced_plover_301171541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946458/bird-gallery/white_faced_plover/macaulay/white_faced_plover_301171541.jpg",
+      "public_id": "bird-gallery/white_faced_plover/macaulay/white_faced_plover_301171541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 32048,
+      "attribution": {
+        "photographer": "Saravanan Krishnamurthy",
+        "photographer_url": "https://macaulaylibrary.org/asset/301171541",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Saravanan Krishnamurthy; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "301171541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_faced_plover_459400041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946465/bird-gallery/white_faced_plover/macaulay/white_faced_plover_459400041.jpg",
+      "public_id": "bird-gallery/white_faced_plover/macaulay/white_faced_plover_459400041",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67049,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/459400041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "459400041",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_faced_plover_54021041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946473/bird-gallery/white_faced_plover/macaulay/white_faced_plover_54021041.jpg",
+      "public_id": "bird-gallery/white_faced_plover/macaulay/white_faced_plover_54021041",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67078,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/54021041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "54021041",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "white_faced_plover_1.jpg",

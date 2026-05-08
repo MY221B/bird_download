@@ -5,7 +5,65 @@
     "english_name": "Cook's Swift",
     "scientific_name": "Apus cooki"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "cooks_swift_187147741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776945993/bird-gallery/cooks_swift/macaulay/cooks_swift_187147741.jpg",
+      "public_id": "bird-gallery/cooks_swift/macaulay/cooks_swift_187147741",
+      "width": 1200,
+      "height": 872,
+      "format": "jpg",
+      "bytes": 19403,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/187147741",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "187147741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cooks_swift_61142151.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776945999/bird-gallery/cooks_swift/macaulay/cooks_swift_61142151.jpg",
+      "public_id": "bird-gallery/cooks_swift/macaulay/cooks_swift_61142151",
+      "width": 1200,
+      "height": 776,
+      "format": "jpg",
+      "bytes": 19385,
+      "attribution": {
+        "photographer": "Luke Seitz",
+        "photographer_url": "https://macaulaylibrary.org/asset/61142151",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Luke Seitz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "61142151",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cooks_swift_89715591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946006/bird-gallery/cooks_swift/macaulay/cooks_swift_89715591.jpg",
+      "public_id": "bird-gallery/cooks_swift/macaulay/cooks_swift_89715591",
+      "width": 1200,
+      "height": 886,
+      "format": "jpg",
+      "bytes": 41243,
+      "attribution": {
+        "photographer": "Luke Seitz",
+        "photographer_url": "https://macaulaylibrary.org/asset/89715591",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Luke Seitz; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "89715591",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "cooks_swift_1.jpg",

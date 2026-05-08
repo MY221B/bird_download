@@ -5,7 +5,65 @@
     "english_name": "Long-toed Stint",
     "scientific_name": "Calidris subminuta"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "long_toed_stint_118146411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946272/bird-gallery/long_toed_stint/macaulay/long_toed_stint_118146411.jpg",
+      "public_id": "bird-gallery/long_toed_stint/macaulay/long_toed_stint_118146411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75047,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/118146411",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "118146411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_toed_stint_195603861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946278/bird-gallery/long_toed_stint/macaulay/long_toed_stint_195603861.jpg",
+      "public_id": "bird-gallery/long_toed_stint/macaulay/long_toed_stint_195603861",
+      "width": 1000,
+      "height": 762,
+      "format": "jpg",
+      "bytes": 115178,
+      "attribution": {
+        "photographer": "Volkov Sergey",
+        "photographer_url": "https://macaulaylibrary.org/asset/195603861",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Volkov Sergey; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "195603861",
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_toed_stint_624298734.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946284/bird-gallery/long_toed_stint/macaulay/long_toed_stint_624298734.jpg",
+      "public_id": "bird-gallery/long_toed_stint/macaulay/long_toed_stint_624298734",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77112,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/624298734",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "624298734",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "long_toed_stint_1.jpg",

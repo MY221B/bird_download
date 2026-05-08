@@ -5,7 +5,65 @@
     "english_name": "Grey-headed Swamphen",
     "scientific_name": "Porphyrio poliocephalus"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "grey_headed_swamphen_21573611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946113/bird-gallery/grey_headed_swamphen/macaulay/grey_headed_swamphen_21573611.jpg",
+      "public_id": "bird-gallery/grey_headed_swamphen/macaulay/grey_headed_swamphen_21573611",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 181010,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/21573611",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "21573611",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_headed_swamphen_39565941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946119/bird-gallery/grey_headed_swamphen/macaulay/grey_headed_swamphen_39565941.jpg",
+      "public_id": "bird-gallery/grey_headed_swamphen/macaulay/grey_headed_swamphen_39565941",
+      "width": 1200,
+      "height": 802,
+      "format": "jpg",
+      "bytes": 72980,
+      "attribution": {
+        "photographer": "Albin Jacob",
+        "photographer_url": "https://macaulaylibrary.org/asset/39565941",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Albin Jacob; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "39565941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_headed_swamphen_417179071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946126/bird-gallery/grey_headed_swamphen/macaulay/grey_headed_swamphen_417179071.jpg",
+      "public_id": "bird-gallery/grey_headed_swamphen/macaulay/grey_headed_swamphen_417179071",
+      "width": 1200,
+      "height": 848,
+      "format": "jpg",
+      "bytes": 146635,
+      "attribution": {
+        "photographer": "Hemanya R",
+        "photographer_url": "https://macaulaylibrary.org/asset/417179071",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Hemanya R; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "417179071",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "grey_headed_swamphen_1.jpg",

@@ -5,7 +5,65 @@
     "english_name": "Southern Rock Bunting",
     "scientific_name": "Emberiza yunnanensis"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "southern_rock_bunting_270329451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946393/bird-gallery/southern_rock_bunting/macaulay/southern_rock_bunting_270329451.jpg",
+      "public_id": "bird-gallery/southern_rock_bunting/macaulay/southern_rock_bunting_270329451",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76535,
+      "attribution": {
+        "photographer": "David Irving",
+        "photographer_url": "https://macaulaylibrary.org/asset/270329451",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Irving; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "270329451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_rock_bunting_30420281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946401/bird-gallery/southern_rock_bunting/macaulay/southern_rock_bunting_30420281.jpg",
+      "public_id": "bird-gallery/southern_rock_bunting/macaulay/southern_rock_bunting_30420281",
+      "width": 1200,
+      "height": 855,
+      "format": "jpg",
+      "bytes": 65966,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/30420281",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "30420281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_rock_bunting_522861921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946409/bird-gallery/southern_rock_bunting/macaulay/southern_rock_bunting_522861921.jpg",
+      "public_id": "bird-gallery/southern_rock_bunting/macaulay/southern_rock_bunting_522861921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67735,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/522861921",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "522861921",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "southern_rock_bunting_1.jpg",

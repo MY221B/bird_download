@@ -5,7 +5,65 @@
     "english_name": "Masked Bunting",
     "scientific_name": "Emberiza personata"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "masked_bunting_536344551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946301/bird-gallery/masked_bunting/macaulay/masked_bunting_536344551.jpg",
+      "public_id": "bird-gallery/masked_bunting/macaulay/masked_bunting_536344551",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 89614,
+      "attribution": {
+        "photographer": "Hiroyuki Tamura",
+        "photographer_url": "https://macaulaylibrary.org/asset/536344551",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Hiroyuki Tamura; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "536344551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "masked_bunting_628847447.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946308/bird-gallery/masked_bunting/macaulay/masked_bunting_628847447.jpg",
+      "public_id": "bird-gallery/masked_bunting/macaulay/masked_bunting_628847447",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 62946,
+      "attribution": {
+        "photographer": "Kenta Togo",
+        "photographer_url": "https://macaulaylibrary.org/asset/628847447",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Kenta Togo; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "628847447",
+        "note": null
+      }
+    },
+    {
+      "original_file": "masked_bunting_65592811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946314/bird-gallery/masked_bunting/macaulay/masked_bunting_65592811.jpg",
+      "public_id": "bird-gallery/masked_bunting/macaulay/masked_bunting_65592811",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 109741,
+      "attribution": {
+        "photographer": "Christoph Moning",
+        "photographer_url": "https://macaulaylibrary.org/asset/65592811",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Christoph Moning; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "65592811",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "masked_bunting_2.jpg",

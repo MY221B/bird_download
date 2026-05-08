@@ -5,7 +5,65 @@
     "english_name": "Ruddy-breasted Crake",
     "scientific_name": "Zapornia fusca"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "ruddy_breasted_crake_326736621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946361/bird-gallery/ruddy_breasted_crake/macaulay/ruddy_breasted_crake_326736621.jpg",
+      "public_id": "bird-gallery/ruddy_breasted_crake/macaulay/ruddy_breasted_crake_326736621",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 79936,
+      "attribution": {
+        "photographer": "Himanshu Chaudhary",
+        "photographer_url": "https://macaulaylibrary.org/asset/326736621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Himanshu Chaudhary; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "326736621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruddy_breasted_crake_353245501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946368/bird-gallery/ruddy_breasted_crake/macaulay/ruddy_breasted_crake_353245501.jpg",
+      "public_id": "bird-gallery/ruddy_breasted_crake/macaulay/ruddy_breasted_crake_353245501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71369,
+      "attribution": {
+        "photographer": "Ayuwat Jearwattanakanok",
+        "photographer_url": "https://macaulaylibrary.org/asset/353245501",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ayuwat Jearwattanakanok; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "353245501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ruddy_breasted_crake_623746508.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946374/bird-gallery/ruddy_breasted_crake/macaulay/ruddy_breasted_crake_623746508.jpg",
+      "public_id": "bird-gallery/ruddy_breasted_crake/macaulay/ruddy_breasted_crake_623746508",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62163,
+      "attribution": {
+        "photographer": "Anonymous",
+        "photographer_url": "https://macaulaylibrary.org/asset/623746508",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Anonymous; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "623746508",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "ruddy_breasted_crake_2.jpg",
@@ -85,6 +143,28 @@
         "source": "avibase",
         "source_id": "12539255885",
         "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "ruddy_breasted_crake_446168041.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1778216364/bird-gallery/ruddy_breasted_crake/sounds/ruddy_breasted_crake_446168041.mp3",
+      "public_id": "bird-gallery/ruddy_breasted_crake/sounds/ruddy_breasted_crake_446168041",
+      "duration": 16.632,
+      "format": "mp3",
+      "bytes": 235628,
+      "bit_rate": 113337,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "446168041",
+        "asset_url": "https://macaulaylibrary.org/asset/446168041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
       }
     }
   ]

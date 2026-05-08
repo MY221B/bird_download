@@ -142,7 +142,9 @@
   ],
   "bird_info": {
     "slug": "little_egret",
-    "chinese_name": "小白鹭"
+    "chinese_name": "白鹭",
+    "english_name": "Little Egret",
+    "scientific_name": "Egretta garzetta"
   },
   "sounds": [
     {

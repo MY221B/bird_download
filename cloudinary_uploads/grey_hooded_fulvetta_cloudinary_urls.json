@@ -5,7 +5,65 @@
     "english_name": "Grey-hooded Fulvetta",
     "scientific_name": "Fulvetta cinereiceps"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "grey_hooded_fulvetta_239290761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946149/bird-gallery/grey_hooded_fulvetta/macaulay/grey_hooded_fulvetta_239290761.jpg",
+      "public_id": "bird-gallery/grey_hooded_fulvetta/macaulay/grey_hooded_fulvetta_239290761",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93018,
+      "attribution": {
+        "photographer": "Vincent Wang",
+        "photographer_url": "https://macaulaylibrary.org/asset/239290761",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Vincent Wang; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "239290761",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_hooded_fulvetta_30479681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946157/bird-gallery/grey_hooded_fulvetta/macaulay/grey_hooded_fulvetta_30479681.jpg",
+      "public_id": "bird-gallery/grey_hooded_fulvetta/macaulay/grey_hooded_fulvetta_30479681",
+      "width": 1200,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 45974,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/30479681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "30479681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_hooded_fulvetta_30479691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946163/bird-gallery/grey_hooded_fulvetta/macaulay/grey_hooded_fulvetta_30479691.jpg",
+      "public_id": "bird-gallery/grey_hooded_fulvetta/macaulay/grey_hooded_fulvetta_30479691",
+      "width": 1200,
+      "height": 669,
+      "format": "jpg",
+      "bytes": 53016,
+      "attribution": {
+        "photographer": "Ian Davies",
+        "photographer_url": "https://macaulaylibrary.org/asset/30479691",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Ian Davies; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "30479691",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "grey_hooded_fulvetta_3.jpg",

@@ -181,7 +181,9 @@
   ],
   "bird_info": {
     "slug": "black_kite",
-    "chinese_name": "黑鸢"
+    "chinese_name": "黑鸢",
+    "english_name": "Black Kite",
+    "scientific_name": "Milvus migrans"
   },
   "sounds": [
     {

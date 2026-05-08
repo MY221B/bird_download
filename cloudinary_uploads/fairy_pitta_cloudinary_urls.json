@@ -5,7 +5,65 @@
     "english_name": "Fairy Pitta",
     "scientific_name": "Pitta nympha"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "fairy_pitta_447002481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946021/bird-gallery/fairy_pitta/macaulay/fairy_pitta_447002481.jpg",
+      "public_id": "bird-gallery/fairy_pitta/macaulay/fairy_pitta_447002481",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 137957,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/447002481",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "447002481",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fairy_pitta_449887991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946028/bird-gallery/fairy_pitta/macaulay/fairy_pitta_449887991.jpg",
+      "public_id": "bird-gallery/fairy_pitta/macaulay/fairy_pitta_449887991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 139814,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/449887991",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "449887991",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fairy_pitta_633445062.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946035/bird-gallery/fairy_pitta/macaulay/fairy_pitta_633445062.jpg",
+      "public_id": "bird-gallery/fairy_pitta/macaulay/fairy_pitta_633445062",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 128339,
+      "attribution": {
+        "photographer": "Natthaphat Chotjuckdikul",
+        "photographer_url": "https://macaulaylibrary.org/asset/633445062",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Natthaphat Chotjuckdikul; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "633445062",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "fairy_pitta_1.jpg",

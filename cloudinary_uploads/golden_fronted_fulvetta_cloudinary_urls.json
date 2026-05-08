@@ -5,7 +5,65 @@
     "english_name": "Golden-fronted Fulvetta",
     "scientific_name": "Schoeniparus variegaticeps"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "golden_fronted_fulvetta_204108381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946086/bird-gallery/golden_fronted_fulvetta/macaulay/golden_fronted_fulvetta_204108381.jpg",
+      "public_id": "bird-gallery/golden_fronted_fulvetta/macaulay/golden_fronted_fulvetta_204108381",
+      "width": 1000,
+      "height": 668,
+      "format": "jpg",
+      "bytes": 58621,
+      "attribution": {
+        "photographer": "Janos  Olah",
+        "photographer_url": "https://macaulaylibrary.org/asset/204108381",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Janos  Olah; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204108381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_fronted_fulvetta_204108401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946093/bird-gallery/golden_fronted_fulvetta/macaulay/golden_fronted_fulvetta_204108401.jpg",
+      "public_id": "bird-gallery/golden_fronted_fulvetta/macaulay/golden_fronted_fulvetta_204108401",
+      "width": 1000,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 63236,
+      "attribution": {
+        "photographer": "Janos  Olah",
+        "photographer_url": "https://macaulaylibrary.org/asset/204108401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Janos  Olah; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "204108401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_fronted_fulvetta_627638516.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946100/bird-gallery/golden_fronted_fulvetta/macaulay/golden_fronted_fulvetta_627638516.jpg",
+      "public_id": "bird-gallery/golden_fronted_fulvetta/macaulay/golden_fronted_fulvetta_627638516",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 107988,
+      "attribution": {
+        "photographer": "James Eaton \\u002F Birdtour Asia",
+        "photographer_url": "https://macaulaylibrary.org/asset/627638516",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by James Eaton \\u002F Birdtour Asia; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "627638516",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "golden_fronted_fulvetta_1.jpg",

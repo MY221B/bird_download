@@ -124,27 +124,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "japanese_tit_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775136892/bird-gallery/japanese_tit/wikimedia/japanese_tit_1.jpg",
-      "public_id": "bird-gallery/japanese_tit/wikimedia/japanese_tit_1",
-      "width": 250,
-      "height": 187,
-      "format": "jpg",
-      "bytes": 18135,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [],
   "sounds": [
     {

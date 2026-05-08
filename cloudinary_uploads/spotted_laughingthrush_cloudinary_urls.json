@@ -5,7 +5,65 @@
     "english_name": "Spotted Laughingthrush",
     "scientific_name": "Ianthocincla ocellata"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "spotted_laughingthrush_334521931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946423/bird-gallery/spotted_laughingthrush/macaulay/spotted_laughingthrush_334521931.jpg",
+      "public_id": "bird-gallery/spotted_laughingthrush/macaulay/spotted_laughingthrush_334521931",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 195385,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/334521931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "334521931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_laughingthrush_530725481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946431/bird-gallery/spotted_laughingthrush/macaulay/spotted_laughingthrush_530725481.jpg",
+      "public_id": "bird-gallery/spotted_laughingthrush/macaulay/spotted_laughingthrush_530725481",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74647,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/530725481",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "530725481",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_laughingthrush_550102221.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946438/bird-gallery/spotted_laughingthrush/macaulay/spotted_laughingthrush_550102221.jpg",
+      "public_id": "bird-gallery/spotted_laughingthrush/macaulay/spotted_laughingthrush_550102221",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 109287,
+      "attribution": {
+        "photographer": "Rajkumar Das",
+        "photographer_url": "https://macaulaylibrary.org/asset/550102221",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Rajkumar Das; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "550102221",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "spotted_laughingthrush_1.jpg",

@@ -5,7 +5,65 @@
     "english_name": "Little Tern",
     "scientific_name": "Sternula albifrons"
   },
-  "macaulay": [],
+  "macaulay": [
+    {
+      "original_file": "little_tern_241113041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946243/bird-gallery/little_tern/macaulay/little_tern_241113041.jpg",
+      "public_id": "bird-gallery/little_tern/macaulay/little_tern_241113041",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 45684,
+      "attribution": {
+        "photographer": "Yann Muzika",
+        "photographer_url": "https://macaulaylibrary.org/asset/241113041",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by Yann Muzika; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "241113041",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_tern_272024751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946250/bird-gallery/little_tern/macaulay/little_tern_272024751.jpg",
+      "public_id": "bird-gallery/little_tern/macaulay/little_tern_272024751",
+      "width": 1200,
+      "height": 901,
+      "format": "jpg",
+      "bytes": 32774,
+      "attribution": {
+        "photographer": "David Sinnott",
+        "photographer_url": "https://macaulaylibrary.org/asset/272024751",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Sinnott; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "272024751",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_tern_513145421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1776946258/bird-gallery/little_tern/macaulay/little_tern_513145421.jpg",
+      "public_id": "bird-gallery/little_tern/macaulay/little_tern_513145421",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82175,
+      "attribution": {
+        "photographer": "David Irving",
+        "photographer_url": "https://macaulaylibrary.org/asset/513145421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "credit_format": "Bird by David Irving; Cornell Lab of Ornithology | Macaulay Library",
+        "source": "macaulay",
+        "source_id": "513145421",
+        "note": null
+      }
+    }
+  ],
   "inaturalist": [
     {
       "original_file": "little_tern_3.jpg",
@@ -66,6 +124,28 @@
         "source": "avibase",
         "source_id": "49207093641",
         "note": "署名信息需从Flickr获取"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "original_file": "little_tern_466250791.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1778216374/bird-gallery/little_tern/sounds/little_tern_466250791.mp3",
+      "public_id": "bird-gallery/little_tern/sounds/little_tern_466250791",
+      "duration": 37.944,
+      "format": "mp3",
+      "bytes": 578108,
+      "bit_rate": 121886,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "466250791",
+        "asset_url": "https://macaulaylibrary.org/asset/466250791",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
       }
     }
   ]

@@ -1,14 +1,29 @@
 {
-  "count": 3,
+  "count": 8,
   "items": [
     {
-      "public_id": "bird-gallery/brambling/inaturalist/brambling_1"
+      "public_id": "bird-gallery/brambling/inaturalist/brambling_3"
     },
     {
       "public_id": "bird-gallery/brambling/inaturalist/brambling_2"
     },
     {
-      "public_id": "bird-gallery/brambling/inaturalist/brambling_3"
+      "public_id": "bird-gallery/silver_throated_bushtit/wikimedia/silver_throated_bushtit_1"
+    },
+    {
+      "public_id": "bird-gallery/eurasian_tree_sparrow/inaturalist/eurasian_tree_sparrow_3"
+    },
+    {
+      "public_id": "bird-gallery/white_cheeked_starling/inaturalist/white_cheeked_starling_2"
+    },
+    {
+      "public_id": "bird-gallery/pallass_leaf_warbler/inaturalist/pallass_leaf_warbler_3"
+    },
+    {
+      "public_id": "bird-gallery/orange_flanked_bush_robin/inaturalist/orange_flanked_bush_robin_3"
+    },
+    {
+      "public_id": "bird-gallery/japanese_tit/wikimedia/japanese_tit_1"
     }
   ]
 }

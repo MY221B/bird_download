@@ -28,6 +28,9 @@ if [[ -f "${REPO_ROOT}/config/ebird_token.sh" ]]; then
   source "${REPO_ROOT}/config/ebird_token.sh"
 fi
 
+echo "📦 确保 Python 依赖已安装（tools/requirements.txt）..."
+python3 -m pip install -q -r "${REPO_ROOT}/tools/requirements.txt"
+
 echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 

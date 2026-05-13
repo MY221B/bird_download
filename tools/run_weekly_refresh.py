@@ -46,6 +46,7 @@ from auto_sounds_refresh import (  # type: ignore
     download_and_upload_sounds,
     print_sounds_summary,
 )
+from html_browser_open import try_open_local_html  # type: ignore
 BIRD_INFO_CACHE = load_all_birds_csv()
 
 
@@ -848,12 +849,7 @@ def main():
     # 自动打开 HTML 页面
     if successful and all_downloads:
         html_file = PROJECT_ROOT / "examples" / "gallery_all_cloudinary.html"
-        if html_file.exists():
-            print(f"\n🌐 正在打开 HTML 页面: {html_file}")
-            try:
-                subprocess.run(["open", str(html_file)], check=False)
-            except Exception as e:
-                print(f"⚠️  自动打开失败: {e}，请手动打开 {html_file}")
+        try_open_local_html(html_file)
 
     return 0 if successful else 1
 

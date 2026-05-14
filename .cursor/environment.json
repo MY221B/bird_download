@@ -1,0 +1,5 @@
+{
+  "name": "bird_download + feather-flash-quiz",
+  "install": "bash .cursor/cloud_agent_install.sh",
+  "repositoryDependencies": ["github.com/MY221B/feather-flash-quiz"]
+}

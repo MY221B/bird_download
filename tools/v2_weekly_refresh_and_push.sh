@@ -32,6 +32,13 @@ echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 
 cd "${QUIZ_DIR}"
+
+# 在 Cloud Agent 环境中注入 token 到子模块 remote（本地无此环境变量时跳过）
+if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
+  git remote set-url origin "https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
+  echo "✅ feather-flash-quiz remote URL 已注入 token"
+fi
+
 node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
 if [[ -z "$(git status --porcelain)" ]]; then
   echo "✅ feather-flash-quiz 无新改动，跳过提交"

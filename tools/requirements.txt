@@ -1,0 +1,2 @@
+# Python 依赖：周更脚本（run_weekly_refresh_v2.py）、叫声刷新与 Cloudinary 上传
+cloudinary>=1.41.0,<2

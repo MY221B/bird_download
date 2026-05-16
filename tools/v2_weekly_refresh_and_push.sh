@@ -55,7 +55,8 @@ fi
 cd "${QUIZ_DIR}"
 
 # 清理旧版本脚本可能写入的 token remote，避免凭据长期留在 .git/config。
-origin_url="$(git remote get-url origin 2>/dev/null || true)"
+# 读取存储值而不是 get-url，避免把 Cloud 环境的全局 URL 重写误判为本仓配置。
+origin_url="$(git config --get remote.origin.url 2>/dev/null || true)"
 if [[ "${origin_url}" == https://x-access-token:*@github.com/MY221B/feather-flash-quiz.git ]]; then
   git remote set-url origin "https://github.com/MY221B/feather-flash-quiz.git"
 fi

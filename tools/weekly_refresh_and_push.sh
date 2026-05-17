@@ -20,6 +20,11 @@ else
 fi
 echo ""
 
+cd "${QUIZ_DIR}"
+git checkout main 2>/dev/null || git checkout -b main origin/main
+git pull --rebase origin main
+cd "${REPO_ROOT}"
+
 # Load eBird API Token for bird sounds download
 if [[ -f "${REPO_ROOT}/config/ebird_token.sh" ]]; then
   source "${REPO_ROOT}/config/ebird_token.sh"
@@ -86,10 +91,8 @@ echo "📝 Committing with message: ${COMMIT_MSG}"
 git commit --quiet -m "${COMMIT_MSG}"
 echo "$(git diff HEAD~1 --shortstat)"
 
-current_branch="$(git rev-parse --abbrev-ref HEAD)"
-
-echo "🔄 Pulling latest changes from origin/${current_branch}..."
-if git pull --rebase origin "${current_branch}" 2>&1; then
+echo "🔄 Pulling latest changes from origin/main..."
+if git pull --rebase origin main 2>&1; then
   echo "✅ Successfully pulled and rebased"
 else
   echo "⚠️  Pull failed or has conflicts. Checking status..."
@@ -104,9 +107,9 @@ else
 fi
 
 echo "🚀 Pushing feather-flash-quiz to origin/main..."
-git push --quiet origin main
+git push --quiet origin HEAD:main
 echo "🚀 Pushing feather-flash-quiz to origin/develop_lovable..."
-git push --quiet origin main:develop_lovable
+git push --quiet origin HEAD:develop_lovable
 echo "✨ feather-flash-quiz pushed successfully (main + develop_lovable)."
 
 # 🔄 推送主仓库改动

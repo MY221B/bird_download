@@ -22,6 +22,12 @@ class V2WeeklyRefreshAuthTests(unittest.TestCase):
         cd_index = self.script.index('cd "${QUIZ_DIR}"')
         self.assertLess(guard_index, cd_index)
 
+    def test_no_quiz_changes_still_allows_main_repo_publish(self):
+        main_publish_index = self.script.index("# 🔄 推送主仓库改动")
+        no_change_index = self.script.index("feather-flash-quiz 无新改动，跳过提交")
+        self.assertLess(no_change_index, main_publish_index)
+        self.assertNotIn("exit 0", self.script[no_change_index:main_publish_index])
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -12,6 +12,60 @@ COMMIT_MSG="${COMMIT_MSG:-chore: weekly refresh $(date +%Y-%m-%d)}"
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"
 
+ensure_quiz_repo() {
+  local quiz_top
+
+  if ! quiz_top="$(git -C "${QUIZ_DIR}" rev-parse --show-toplevel 2>/dev/null)"; then
+    echo "❌ feather-flash-quiz 子模块未初始化，请先运行："
+    echo "  git submodule update --init feather-flash-quiz"
+    exit 1
+  fi
+
+  if [[ "${quiz_top}" != "${QUIZ_DIR}" ]]; then
+    echo "❌ feather-flash-quiz 不是独立 Git 仓库，停止以避免误操作主仓库"
+    echo "  请运行：git submodule update --init feather-flash-quiz"
+    exit 1
+  fi
+}
+
+install_python_requirements() {
+  local missing
+
+  missing="$(python3 - <<'PY'
+import importlib.util
+
+required = {
+    "requests": "requests",
+    "Crypto": "pycryptodome",
+    "cloudinary": "cloudinary",
+}
+
+print(
+    ", ".join(
+        package
+        for module, package in required.items()
+        if importlib.util.find_spec(module) is None
+    )
+)
+PY
+)"
+
+  if [[ -n "${missing}" ]]; then
+    echo "📦 安装缺失 Python 依赖：${missing}"
+    python3 -m pip install --user -q -r "${REPO_ROOT}/requirements.txt"
+  fi
+}
+
+git_push_quiz() {
+  if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
+    local auth_header
+    auth_header="$(printf 'x-access-token:%s' "${FEATHER_FLASH_QUIZ_TOKEN}" | base64 | tr -d '\n')"
+    git -c "http.https://github.com/MY221B/feather-flash-quiz.git.extraheader=AUTHORIZATION: Basic ${auth_header}" push --quiet "$@"
+  else
+    git push --quiet "$@"
+  fi
+}
+
 cd "${REPO_ROOT}"
 
 # 🔄 开始前：从 Lovable 同步最新改动
@@ -29,27 +83,26 @@ if [[ -f "${REPO_ROOT}/config/ebird_token.sh" ]]; then
 fi
 
 echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
+install_python_requirements
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 
+ensure_quiz_repo
 cd "${QUIZ_DIR}"
 
-# 在 Cloud Agent 环境中注入 token 到子模块 remote（本地无此环境变量时跳过）
+# 在 Cloud Agent 环境中使用临时 token 推送；不写入子模块 remote 配置。
 if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
-  git remote set-url origin "https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
-  echo "✅ feather-flash-quiz remote URL 已注入 token"
+  echo "✅ feather-flash-quiz 将使用临时 token 推送"
 fi
 
-node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
+echo "🔄 更新 location_birds 路径清单 (manifest)..."
+node scripts/generate-location-birds-manifest.js
 if [[ -z "$(git status --porcelain)" ]]; then
-  echo "✅ feather-flash-quiz 无新改动，跳过提交"
-  exit 0
-fi
-
+  echo "✅ feather-flash-quiz 无新改动，跳过子模块提交与推送"
+else
 git add -A
 if git diff --cached --quiet; then
-  echo "✅ feather-flash-quiz 无新改动"
-  exit 0
-fi
+  echo "✅ feather-flash-quiz 无新改动，跳过子模块提交与推送"
+else
 
 # 检查 git 用户配置
 if ! git config user.name > /dev/null 2>&1 || ! git config user.email > /dev/null 2>&1; then
@@ -98,9 +151,11 @@ if ! git pull --rebase origin "${current_branch}" 2>/dev/null; then
     exit 1
   fi
 fi
-git push --quiet origin main
-git push --quiet origin main:develop_lovable
+git_push_quiz origin main
+git_push_quiz origin main:develop_lovable
 echo "✅ feather-flash-quiz 已提交并推送"
+fi
+fi
 
 # 🔄 推送主仓库改动
 cd "${REPO_ROOT}"

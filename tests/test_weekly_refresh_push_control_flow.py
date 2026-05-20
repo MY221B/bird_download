@@ -102,7 +102,7 @@ def test_main_repo_push_continues_when_quiz_repo_is_clean(script_name: str) -> N
 
     log = run(["git", "log", "--oneline", "--max-count=2"], repo).stdout
     status = run(["git", "status", "--porcelain"], repo).stdout
-    quiz_remote = run(["git", "remote", "get-url", "origin"], repo / "feather-flash-quiz").stdout
+    quiz_remote = run(["git", "config", "--get", "remote.origin.url"], repo / "feather-flash-quiz").stdout
 
     assert "weekly refresh" in log
     assert marker.read_text(encoding="utf-8") == "synced\n"

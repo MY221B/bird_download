@@ -28,7 +28,7 @@ ensure_quiz_submodule() {
     exit 1
   fi
 
-  origin_url="$(git -C "${quiz_dir}" remote get-url origin 2>/dev/null || true)"
+  origin_url="$(git -C "${quiz_dir}" config --get remote.origin.url 2>/dev/null || true)"
   if [[ -z "${origin_url}" ]]; then
     git -C "${quiz_dir}" remote add origin "${QUIZ_REMOTE_URL}"
   elif [[ "${origin_url}" == *x-access-token:* ]]; then

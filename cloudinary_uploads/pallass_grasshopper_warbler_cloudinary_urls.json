@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "pallass_grasshopper_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445069/bird-gallery/pallass_grasshopper_warbler/inaturalist/pallass_grasshopper_warbler_1.jpg",
+      "public_id": "bird-gallery/pallass_grasshopper_warbler/inaturalist/pallass_grasshopper_warbler_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 62444,
+      "attribution": {
+        "photographer": "birds_in_nature",
+        "photographer_url": "https://www.inaturalist.org/observations/84657160",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© birds_in_nature (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 84657160,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pallass_grasshopper_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445071/bird-gallery/pallass_grasshopper_warbler/inaturalist/pallass_grasshopper_warbler_2.jpg",
+      "public_id": "bird-gallery/pallass_grasshopper_warbler/inaturalist/pallass_grasshopper_warbler_2",
+      "width": 1024,
+      "height": 780,
+      "format": "jpg",
+      "bytes": 77469,
+      "attribution": {
+        "photographer": "tc271",
+        "photographer_url": "https://www.inaturalist.org/observations/267122015",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tc271 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 267122015,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pallass_grasshopper_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445072/bird-gallery/pallass_grasshopper_warbler/inaturalist/pallass_grasshopper_warbler_3.jpg",
+      "public_id": "bird-gallery/pallass_grasshopper_warbler/inaturalist/pallass_grasshopper_warbler_3",
+      "width": 1024,
+      "height": 818,
+      "format": "jpg",
+      "bytes": 53143,
+      "attribution": {
+        "photographer": "that_bee_guy",
+        "photographer_url": "https://www.inaturalist.org/observations/138594482",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© that_bee_guy (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 138594482,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_4990351051_9722703705_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445073/bird-gallery/pallass_grasshopper_warbler/avibase/avibase_1_4990351051_9722703705_b.jpg",
+      "public_id": "bird-gallery/pallass_grasshopper_warbler/avibase/avibase_1_4990351051_9722703705_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 99054,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4990351051",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_28569276984_b8e2b9a32b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445075/bird-gallery/pallass_grasshopper_warbler/avibase/avibase_2_28569276984_b8e2b9a32b_b.jpg",
+      "public_id": "bird-gallery/pallass_grasshopper_warbler/avibase/avibase_2_28569276984_b8e2b9a32b_b",
+      "width": 1023,
+      "height": 714,
+      "format": "jpg",
+      "bytes": 105423,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "28569276984",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_2844345232_ddde3d09f6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445076/bird-gallery/pallass_grasshopper_warbler/avibase/avibase_3_2844345232_ddde3d09f6_b.jpg",
+      "public_id": "bird-gallery/pallass_grasshopper_warbler/avibase/avibase_3_2844345232_ddde3d09f6_b",
+      "width": 800,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 93173,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "2844345232",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

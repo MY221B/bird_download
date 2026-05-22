@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "elliots_pheasant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445001/bird-gallery/elliots_pheasant/inaturalist/elliots_pheasant_1.jpg",
+      "public_id": "bird-gallery/elliots_pheasant/inaturalist/elliots_pheasant_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 79646,
+      "attribution": {
+        "photographer": "phinehas",
+        "photographer_url": "https://www.inaturalist.org/observations/102943329",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© phinehas (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 102943329,
+        "note": null
+      }
+    },
+    {
+      "original_file": "elliots_pheasant_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445002/bird-gallery/elliots_pheasant/inaturalist/elliots_pheasant_2.jpg",
+      "public_id": "bird-gallery/elliots_pheasant/inaturalist/elliots_pheasant_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 186409,
+      "attribution": {
+        "photographer": "matthewkwan",
+        "photographer_url": "https://www.inaturalist.org/observations/234157444",
+        "license": "cc-by-nd",
+        "license_url": null,
+        "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-ND)",
+        "source": "inaturalist",
+        "source_id": 234157444,
+        "note": null
+      }
+    },
+    {
+      "original_file": "elliots_pheasant_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445004/bird-gallery/elliots_pheasant/inaturalist/elliots_pheasant_3.jpg",
+      "public_id": "bird-gallery/elliots_pheasant/inaturalist/elliots_pheasant_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 103583,
+      "attribution": {
+        "photographer": "redpandacat",
+        "photographer_url": "https://www.inaturalist.org/observations/342216025",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 342216025,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_4649896194_4fb36debb7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445005/bird-gallery/elliots_pheasant/avibase/avibase_1_4649896194_4fb36debb7_b.jpg",
+      "public_id": "bird-gallery/elliots_pheasant/avibase/avibase_1_4649896194_4fb36debb7_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 147810,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4649896194",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_3545085643_4019730847_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445006/bird-gallery/elliots_pheasant/avibase/avibase_2_3545085643_4019730847_b.jpg",
+      "public_id": "bird-gallery/elliots_pheasant/avibase/avibase_2_3545085643_4019730847_b",
+      "width": 640,
+      "height": 480,
+      "format": "jpg",
+      "bytes": 32249,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "3545085643",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_4069717309_d00db5b084_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445007/bird-gallery/elliots_pheasant/avibase/avibase_3_4069717309_d00db5b084_b.jpg",
+      "public_id": "bird-gallery/elliots_pheasant/avibase/avibase_3_4069717309_d00db5b084_b",
+      "width": 1024,
+      "height": 831,
+      "format": "jpg",
+      "bytes": 104749,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4069717309",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

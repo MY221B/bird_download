@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "middendorffs_grasshopper_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445061/bird-gallery/middendorffs_grasshopper_warbler/inaturalist/middendorffs_grasshopper_warbler_1.jpg",
+      "public_id": "bird-gallery/middendorffs_grasshopper_warbler/inaturalist/middendorffs_grasshopper_warbler_1",
+      "width": 823,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 92923,
+      "attribution": {
+        "photographer": "newmexicobirder",
+        "photographer_url": "https://www.inaturalist.org/observations/95008642",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© newmexicobirder (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 95008642,
+        "note": null
+      }
+    },
+    {
+      "original_file": "middendorffs_grasshopper_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445062/bird-gallery/middendorffs_grasshopper_warbler/inaturalist/middendorffs_grasshopper_warbler_2.jpg",
+      "public_id": "bird-gallery/middendorffs_grasshopper_warbler/inaturalist/middendorffs_grasshopper_warbler_2",
+      "width": 600,
+      "height": 400,
+      "format": "jpg",
+      "bytes": 22037,
+      "attribution": {
+        "photographer": "pintail",
+        "photographer_url": "https://www.inaturalist.org/observations/351305",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© pintail (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 351305,
+        "note": null
+      }
+    },
+    {
+      "original_file": "middendorffs_grasshopper_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445063/bird-gallery/middendorffs_grasshopper_warbler/inaturalist/middendorffs_grasshopper_warbler_3.jpg",
+      "public_id": "bird-gallery/middendorffs_grasshopper_warbler/inaturalist/middendorffs_grasshopper_warbler_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 36845,
+      "attribution": {
+        "photographer": "valerkov",
+        "photographer_url": "https://www.inaturalist.org/observations/124220386",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© valerkov (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 124220386,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52790048026_18330c28fd_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445065/bird-gallery/middendorffs_grasshopper_warbler/avibase/avibase_1_52790048026_18330c28fd_b.jpg",
+      "public_id": "bird-gallery/middendorffs_grasshopper_warbler/avibase/avibase_1_52790048026_18330c28fd_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78752,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52790048026",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_48457129836_9eca3a2f24_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445066/bird-gallery/middendorffs_grasshopper_warbler/avibase/avibase_2_48457129836_9eca3a2f24_b.jpg",
+      "public_id": "bird-gallery/middendorffs_grasshopper_warbler/avibase/avibase_2_48457129836_9eca3a2f24_b",
+      "width": 900,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 109649,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48457129836",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_443439162_7a1ad15a1c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445067/bird-gallery/middendorffs_grasshopper_warbler/avibase/avibase_3_443439162_7a1ad15a1c_b.jpg",
+      "public_id": "bird-gallery/middendorffs_grasshopper_warbler/avibase/avibase_3_443439162_7a1ad15a1c_b",
+      "width": 800,
+      "height": 534,
+      "format": "jpg",
+      "bytes": 24615,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "443439162",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

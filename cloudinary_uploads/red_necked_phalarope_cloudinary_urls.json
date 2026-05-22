@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "red_necked_phalarope_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445089/bird-gallery/red_necked_phalarope/inaturalist/red_necked_phalarope_1.jpg",
+      "public_id": "bird-gallery/red_necked_phalarope/inaturalist/red_necked_phalarope_1",
+      "width": 1024,
+      "height": 728,
+      "format": "jpg",
+      "bytes": 46673,
+      "attribution": {
+        "photographer": "fedyabarsik",
+        "photographer_url": "https://www.inaturalist.org/observations/312409046",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fedyabarsik (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 312409046,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_necked_phalarope_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445090/bird-gallery/red_necked_phalarope/inaturalist/red_necked_phalarope_2.jpg",
+      "public_id": "bird-gallery/red_necked_phalarope/inaturalist/red_necked_phalarope_2",
+      "width": 1024,
+      "height": 846,
+      "format": "jpg",
+      "bytes": 37610,
+      "attribution": {
+        "photographer": "gwark",
+        "photographer_url": "https://www.inaturalist.org/observations/148669585",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© gwark (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 148669585,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_necked_phalarope_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445091/bird-gallery/red_necked_phalarope/inaturalist/red_necked_phalarope_3.jpg",
+      "public_id": "bird-gallery/red_necked_phalarope/inaturalist/red_necked_phalarope_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66670,
+      "attribution": {
+        "photographer": "samzhang",
+        "photographer_url": "https://www.inaturalist.org/observations/171098019",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© samzhang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 171098019,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_1133457905_90321c49ef_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445092/bird-gallery/red_necked_phalarope/avibase/avibase_1_1133457905_90321c49ef_b.jpg",
+      "public_id": "bird-gallery/red_necked_phalarope/avibase/avibase_1_1133457905_90321c49ef_b",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 34213,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "1133457905",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_10316099404_3b1d4ce067_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445093/bird-gallery/red_necked_phalarope/avibase/avibase_2_10316099404_3b1d4ce067_b.jpg",
+      "public_id": "bird-gallery/red_necked_phalarope/avibase/avibase_2_10316099404_3b1d4ce067_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 109871,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "10316099404",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_50509190386_0cc19b8193_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445095/bird-gallery/red_necked_phalarope/avibase/avibase_3_50509190386_0cc19b8193_b.jpg",
+      "public_id": "bird-gallery/red_necked_phalarope/avibase/avibase_3_50509190386_0cc19b8193_b",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 49886,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50509190386",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

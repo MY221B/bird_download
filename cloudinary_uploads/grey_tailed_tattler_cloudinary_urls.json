@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "grey_tailed_tattler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679772/bird-gallery/grey_tailed_tattler/inaturalist/grey_tailed_tattler_1.jpg",
+      "public_id": "bird-gallery/grey_tailed_tattler/inaturalist/grey_tailed_tattler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63470,
+      "attribution": {
+        "photographer": "sylian",
+        "photographer_url": "https://www.inaturalist.org/observations/139511700",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sylian (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 139511700,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_tailed_tattler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679773/bird-gallery/grey_tailed_tattler/inaturalist/grey_tailed_tattler_2.jpg",
+      "public_id": "bird-gallery/grey_tailed_tattler/inaturalist/grey_tailed_tattler_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 93950,
+      "attribution": {
+        "photographer": "kyle_paul",
+        "photographer_url": "https://www.inaturalist.org/observations/100199779",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kyle_paul (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 100199779,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_tailed_tattler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679774/bird-gallery/grey_tailed_tattler/inaturalist/grey_tailed_tattler_3.jpg",
+      "public_id": "bird-gallery/grey_tailed_tattler/inaturalist/grey_tailed_tattler_3",
+      "width": 1024,
+      "height": 728,
+      "format": "jpg",
+      "bytes": 99628,
+      "attribution": {
+        "photographer": "grishahasanov",
+        "photographer_url": "https://www.inaturalist.org/observations/57112861",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© grishahasanov (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 57112861,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54782224514_d0e01708db_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445015/bird-gallery/grey_tailed_tattler/avibase/avibase_1_54782224514_d0e01708db_b.jpg",
+      "public_id": "bird-gallery/grey_tailed_tattler/avibase/avibase_1_54782224514_d0e01708db_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 144440,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54782224514",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_48825815111_79ec35893e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445016/bird-gallery/grey_tailed_tattler/avibase/avibase_2_48825815111_79ec35893e_b.jpg",
+      "public_id": "bird-gallery/grey_tailed_tattler/avibase/avibase_2_48825815111_79ec35893e_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 45311,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48825815111",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52273662947_0c470a5cb0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445017/bird-gallery/grey_tailed_tattler/avibase/avibase_3_52273662947_0c470a5cb0_b.jpg",
+      "public_id": "bird-gallery/grey_tailed_tattler/avibase/avibase_3_52273662947_0c470a5cb0_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51224,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52273662947",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

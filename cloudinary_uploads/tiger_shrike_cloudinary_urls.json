@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "tiger_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679719/bird-gallery/tiger_shrike/inaturalist/tiger_shrike_1.jpg",
+      "public_id": "bird-gallery/tiger_shrike/inaturalist/tiger_shrike_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 123584,
+      "attribution": {
+        "photographer": "vittiger",
+        "photographer_url": "https://www.inaturalist.org/observations/269302078",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© vittiger (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 269302078,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tiger_shrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679720/bird-gallery/tiger_shrike/inaturalist/tiger_shrike_2.jpg",
+      "public_id": "bird-gallery/tiger_shrike/inaturalist/tiger_shrike_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 65362,
+      "attribution": {
+        "photographer": "koizzz",
+        "photographer_url": "https://www.inaturalist.org/observations/185920390",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© koizzz (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 185920390,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tiger_shrike_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679721/bird-gallery/tiger_shrike/inaturalist/tiger_shrike_3.jpg",
+      "public_id": "bird-gallery/tiger_shrike/inaturalist/tiger_shrike_3",
+      "width": 609,
+      "height": 609,
+      "format": "jpg",
+      "bytes": 72870,
+      "attribution": {
+        "photographer": "skamtebord",
+        "photographer_url": "https://www.inaturalist.org/observations/105200828",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© skamtebord (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 105200828,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_20864055173_5db0ab739a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445129/bird-gallery/tiger_shrike/avibase/avibase_1_20864055173_5db0ab739a_b.jpg",
+      "public_id": "bird-gallery/tiger_shrike/avibase/avibase_1_20864055173_5db0ab739a_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 47415,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "20864055173",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_11027590894_2771426a2d_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445131/bird-gallery/tiger_shrike/avibase/avibase_2_11027590894_2771426a2d_b.jpg",
+      "public_id": "bird-gallery/tiger_shrike/avibase/avibase_2_11027590894_2771426a2d_b",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 74368,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "11027590894",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_22276034211_f70cdd7586_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445132/bird-gallery/tiger_shrike/avibase/avibase_3_22276034211_f70cdd7586_b.jpg",
+      "public_id": "bird-gallery/tiger_shrike/avibase/avibase_3_22276034211_f70cdd7586_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 72439,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "22276034211",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

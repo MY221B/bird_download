@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "scarlet_breasted_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445098/bird-gallery/scarlet_breasted_woodpecker/inaturalist/scarlet_breasted_woodpecker_1.jpg",
+      "public_id": "bird-gallery/scarlet_breasted_woodpecker/inaturalist/scarlet_breasted_woodpecker_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 33746,
+      "attribution": {
+        "photographer": "christopherrustay",
+        "photographer_url": "https://www.inaturalist.org/observations/271488487",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© christopherrustay (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 271488487,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scarlet_breasted_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445101/bird-gallery/scarlet_breasted_woodpecker/inaturalist/scarlet_breasted_woodpecker_2.jpg",
+      "public_id": "bird-gallery/scarlet_breasted_woodpecker/inaturalist/scarlet_breasted_woodpecker_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 40675,
+      "attribution": {
+        "photographer": "saniyachaplod",
+        "photographer_url": "https://www.inaturalist.org/observations/34056822",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© saniyachaplod (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34056822,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scarlet_breasted_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679849/bird-gallery/scarlet_breasted_woodpecker/inaturalist/scarlet_breasted_woodpecker_3.jpg",
+      "public_id": "bird-gallery/scarlet_breasted_woodpecker/inaturalist/scarlet_breasted_woodpecker_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 51755,
+      "attribution": {
+        "photographer": "randrudland",
+        "photographer_url": "https://www.inaturalist.org/observations/69037994",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© randrudland (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 69037994,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_52231376303_8b19d515ca_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445104/bird-gallery/scarlet_breasted_woodpecker/avibase/avibase_1_52231376303_8b19d515ca_b.jpg",
+      "public_id": "bird-gallery/scarlet_breasted_woodpecker/avibase/avibase_1_52231376303_8b19d515ca_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63583,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52231376303",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_47934289543_80b8bb709b_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445105/bird-gallery/scarlet_breasted_woodpecker/avibase/avibase_2_47934289543_80b8bb709b_b.jpg",
+      "public_id": "bird-gallery/scarlet_breasted_woodpecker/avibase/avibase_2_47934289543_80b8bb709b_b",
+      "width": 1024,
+      "height": 627,
+      "format": "jpg",
+      "bytes": 131134,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "47934289543",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54329626624_606f2af294_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445107/bird-gallery/scarlet_breasted_woodpecker/avibase/avibase_3_54329626624_606f2af294_b.jpg",
+      "public_id": "bird-gallery/scarlet_breasted_woodpecker/avibase/avibase_3_54329626624_606f2af294_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 97196,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54329626624",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

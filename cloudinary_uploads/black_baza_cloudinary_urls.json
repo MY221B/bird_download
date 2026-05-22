@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_baza_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679784/bird-gallery/black_baza/inaturalist/black_baza_1.jpg",
+      "public_id": "bird-gallery/black_baza/inaturalist/black_baza_1",
+      "width": 1024,
+      "height": 616,
+      "format": "jpg",
+      "bytes": 54883,
+      "attribution": {
+        "photographer": "kumaresan_chandrabose",
+        "photographer_url": "https://www.inaturalist.org/observations/105080928",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kumaresan_chandrabose (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 105080928,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_baza_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679785/bird-gallery/black_baza/inaturalist/black_baza_2.jpg",
+      "public_id": "bird-gallery/black_baza/inaturalist/black_baza_2",
+      "width": 684,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 116407,
+      "attribution": {
+        "photographer": "ivijayanand",
+        "photographer_url": "https://www.inaturalist.org/observations/4173763",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© ivijayanand (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 4173763,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_baza_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679787/bird-gallery/black_baza/inaturalist/black_baza_3.jpg",
+      "public_id": "bird-gallery/black_baza/inaturalist/black_baza_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 158816,
+      "attribution": {
+        "photographer": "catalinatong",
+        "photographer_url": "https://www.inaturalist.org/observations/66740058",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© catalinatong (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66740058,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_15464514714_3e0878d43a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444966/bird-gallery/black_baza/avibase/avibase_1_15464514714_3e0878d43a_b.jpg",
+      "public_id": "bird-gallery/black_baza/avibase/avibase_1_15464514714_3e0878d43a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 173229,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15464514714",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_16044349606_928dff4fd2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444968/bird-gallery/black_baza/avibase/avibase_2_16044349606_928dff4fd2_b.jpg",
+      "public_id": "bird-gallery/black_baza/avibase/avibase_2_16044349606_928dff4fd2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51725,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16044349606",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_15749188912_95969bfca7_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444969/bird-gallery/black_baza/avibase/avibase_3_15749188912_95969bfca7_b.jpg",
+      "public_id": "bird-gallery/black_baza/avibase/avibase_3_15749188912_95969bfca7_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 7087,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15749188912",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

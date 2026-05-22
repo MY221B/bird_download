@@ -1,0 +1,65 @@
+{
+  "macaulay": [],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_17549798481_3b63a0abe5_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445110/bird-gallery/schrencks_bittern/avibase/avibase_1_17549798481_3b63a0abe5_b.jpg",
+      "public_id": "bird-gallery/schrencks_bittern/avibase/avibase_1_17549798481_3b63a0abe5_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 135841,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "17549798481",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_17549807311_a2156cce3f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445111/bird-gallery/schrencks_bittern/avibase/avibase_2_17549807311_a2156cce3f_b.jpg",
+      "public_id": "bird-gallery/schrencks_bittern/avibase/avibase_2_17549807311_a2156cce3f_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67529,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "17549807311",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_16927361724_0bc77910bc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445113/bird-gallery/schrencks_bittern/avibase/avibase_3_16927361724_0bc77910bc_b.jpg",
+      "public_id": "bird-gallery/schrencks_bittern/avibase/avibase_3_16927361724_0bc77910bc_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 143579,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16927361724",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

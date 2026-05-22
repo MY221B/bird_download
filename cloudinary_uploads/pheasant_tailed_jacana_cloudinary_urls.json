@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "pheasant_tailed_jacana_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679872/bird-gallery/pheasant_tailed_jacana/inaturalist/pheasant_tailed_jacana_1.jpg",
+      "public_id": "bird-gallery/pheasant_tailed_jacana/inaturalist/pheasant_tailed_jacana_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 43362,
+      "attribution": {
+        "photographer": "sriram-birdwatcher",
+        "photographer_url": "https://www.inaturalist.org/observations/63701853",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© sriram-birdwatcher (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 63701853,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pheasant_tailed_jacana_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679873/bird-gallery/pheasant_tailed_jacana/inaturalist/pheasant_tailed_jacana_2.jpg",
+      "public_id": "bird-gallery/pheasant_tailed_jacana/inaturalist/pheasant_tailed_jacana_2",
+      "width": 1024,
+      "height": 601,
+      "format": "jpg",
+      "bytes": 17790,
+      "attribution": {
+        "photographer": "fachrynurmallojr",
+        "photographer_url": "https://www.inaturalist.org/observations/212089850",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fachrynurmallojr (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 212089850,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pheasant_tailed_jacana_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679874/bird-gallery/pheasant_tailed_jacana/inaturalist/pheasant_tailed_jacana_3.jpg",
+      "public_id": "bird-gallery/pheasant_tailed_jacana/inaturalist/pheasant_tailed_jacana_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 112527,
+      "attribution": {
+        "photographer": "skitar",
+        "photographer_url": "https://www.inaturalist.org/observations/289280418",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© skitar (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 289280418,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_32887094435_38f55f5cf0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778761811/bird-gallery/pheasant_tailed_jacana/avibase/avibase_1_32887094435_38f55f5cf0_b.jpg",
+      "public_id": "bird-gallery/pheasant_tailed_jacana/avibase/avibase_1_32887094435_38f55f5cf0_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 163766,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "32887094435",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_53519776733_e30ea060dc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445084/bird-gallery/pheasant_tailed_jacana/avibase/avibase_2_53519776733_e30ea060dc_b.jpg",
+      "public_id": "bird-gallery/pheasant_tailed_jacana/avibase/avibase_2_53519776733_e30ea060dc_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 137985,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53519776733",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_12269477433_89d4d9e9d2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445086/bird-gallery/pheasant_tailed_jacana/avibase/avibase_3_12269477433_89d4d9e9d2_b.jpg",
+      "public_id": "bird-gallery/pheasant_tailed_jacana/avibase/avibase_3_12269477433_89d4d9e9d2_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 114772,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "12269477433",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "band_bellied_crake_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444952/bird-gallery/band_bellied_crake/inaturalist/band_bellied_crake_1.jpg",
+      "public_id": "bird-gallery/band_bellied_crake/inaturalist/band_bellied_crake_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 157480,
+      "attribution": {
+        "photographer": "egorbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/87542715",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© egorbirder (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 87542715,
+        "note": null
+      }
+    },
+    {
+      "original_file": "band_bellied_crake_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444954/bird-gallery/band_bellied_crake/inaturalist/band_bellied_crake_2.jpg",
+      "public_id": "bird-gallery/band_bellied_crake/inaturalist/band_bellied_crake_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55529,
+      "attribution": {
+        "photographer": "andrewbazdyrev",
+        "photographer_url": "https://www.inaturalist.org/observations/173461940",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© andrewbazdyrev (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 173461940,
+        "note": null
+      }
+    },
+    {
+      "original_file": "band_bellied_crake_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444955/bird-gallery/band_bellied_crake/inaturalist/band_bellied_crake_3.jpg",
+      "public_id": "bird-gallery/band_bellied_crake/inaturalist/band_bellied_crake_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 83379,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/171182163",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 171182163,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_12851855985_63739abe30_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444956/bird-gallery/band_bellied_crake/avibase/avibase_1_12851855985_63739abe30_b.jpg",
+      "public_id": "bird-gallery/band_bellied_crake/avibase/avibase_1_12851855985_63739abe30_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 171396,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "12851855985",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54308311934_12d92a4734_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444957/bird-gallery/band_bellied_crake/avibase/avibase_2_54308311934_12d92a4734_b.jpg",
+      "public_id": "bird-gallery/band_bellied_crake/avibase/avibase_2_54308311934_12d92a4734_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115247,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54308311934",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54307203537_4ffa8fae94_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444958/bird-gallery/band_bellied_crake/avibase/avibase_3_54307203537_4ffa8fae94_b.jpg",
+      "public_id": "bird-gallery/band_bellied_crake/avibase/avibase_3_54307203537_4ffa8fae94_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 122242,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54307203537",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

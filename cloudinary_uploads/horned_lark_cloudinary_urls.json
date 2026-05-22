@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "horned_lark_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445032/bird-gallery/horned_lark/inaturalist/horned_lark_1.jpg",
+      "public_id": "bird-gallery/horned_lark/inaturalist/horned_lark_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 38529,
+      "attribution": {
+        "photographer": "treenupp",
+        "photographer_url": "https://www.inaturalist.org/observations/69763874",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© treenupp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69763874,
+        "note": null
+      }
+    },
+    {
+      "original_file": "horned_lark_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445033/bird-gallery/horned_lark/inaturalist/horned_lark_2.jpg",
+      "public_id": "bird-gallery/horned_lark/inaturalist/horned_lark_2",
+      "width": 830,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 49846,
+      "attribution": {
+        "photographer": "rebelgirl73",
+        "photographer_url": "https://www.inaturalist.org/observations/69264973",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© rebelgirl73 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 69264973,
+        "note": null
+      }
+    },
+    {
+      "original_file": "horned_lark_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445035/bird-gallery/horned_lark/inaturalist/horned_lark_3.jpg",
+      "public_id": "bird-gallery/horned_lark/inaturalist/horned_lark_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 77414,
+      "attribution": {
+        "photographer": "vidal_prado",
+        "photographer_url": "https://www.inaturalist.org/observations/127939444",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vidal_prado (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 127939444,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_40296904623_2bed4a637c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445036/bird-gallery/horned_lark/avibase/avibase_1_40296904623_2bed4a637c_b.jpg",
+      "public_id": "bird-gallery/horned_lark/avibase/avibase_1_40296904623_2bed4a637c_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 40340,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "40296904623",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54694658984_a7fed8eb34_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445037/bird-gallery/horned_lark/avibase/avibase_2_54694658984_a7fed8eb34_b.jpg",
+      "public_id": "bird-gallery/horned_lark/avibase/avibase_2_54694658984_a7fed8eb34_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 265138,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54694658984",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_53407638186_c3bd563f7c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445039/bird-gallery/horned_lark/avibase/avibase_3_53407638186_c3bd563f7c_b.jpg",
+      "public_id": "bird-gallery/horned_lark/avibase/avibase_3_53407638186_c3bd563f7c_b",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 126778,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "53407638186",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

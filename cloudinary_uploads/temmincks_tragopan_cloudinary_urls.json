@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "temmincks_tragopan_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445116/bird-gallery/temmincks_tragopan/inaturalist/temmincks_tragopan_1.jpg",
+      "public_id": "bird-gallery/temmincks_tragopan/inaturalist/temmincks_tragopan_1",
+      "width": 935,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 164282,
+      "attribution": {
+        "photographer": "carolynstewart",
+        "photographer_url": "https://www.inaturalist.org/observations/224833525",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© carolynstewart (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 224833525,
+        "note": null
+      }
+    },
+    {
+      "original_file": "temmincks_tragopan_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445118/bird-gallery/temmincks_tragopan/inaturalist/temmincks_tragopan_2.jpg",
+      "public_id": "bird-gallery/temmincks_tragopan/inaturalist/temmincks_tragopan_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 84966,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/103879428",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103879428,
+        "note": null
+      }
+    },
+    {
+      "original_file": "temmincks_tragopan_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445120/bird-gallery/temmincks_tragopan/inaturalist/temmincks_tragopan_3.jpg",
+      "public_id": "bird-gallery/temmincks_tragopan/inaturalist/temmincks_tragopan_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 142298,
+      "attribution": {
+        "photographer": "vincentwang",
+        "photographer_url": "https://www.inaturalist.org/observations/203318700",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© vincentwang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 203318700,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_36360553202_f050cbfc58_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445120/bird-gallery/temmincks_tragopan/avibase/avibase_1_36360553202_f050cbfc58_b.jpg",
+      "public_id": "bird-gallery/temmincks_tragopan/avibase/avibase_1_36360553202_f050cbfc58_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 214418,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "36360553202",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_3636828520_02bf34a323_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445122/bird-gallery/temmincks_tragopan/avibase/avibase_2_3636828520_02bf34a323_b.jpg",
+      "public_id": "bird-gallery/temmincks_tragopan/avibase/avibase_2_3636828520_02bf34a323_b",
+      "width": 969,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 150342,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "3636828520",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_3938390583_ae3cdd48b4_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445123/bird-gallery/temmincks_tragopan/avibase/avibase_3_3938390583_ae3cdd48b4_b.jpg",
+      "public_id": "bird-gallery/temmincks_tragopan/avibase/avibase_3_3938390583_ae3cdd48b4_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 163954,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "3938390583",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

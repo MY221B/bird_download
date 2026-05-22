@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "blunt_winged_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444972/bird-gallery/blunt_winged_warbler/inaturalist/blunt_winged_warbler_1.jpg",
+      "public_id": "bird-gallery/blunt_winged_warbler/inaturalist/blunt_winged_warbler_1",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 69449,
+      "attribution": {
+        "photographer": "smalltown_huang",
+        "photographer_url": "https://www.inaturalist.org/observations/295345401",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© smalltown_huang (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 295345401,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blunt_winged_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444973/bird-gallery/blunt_winged_warbler/inaturalist/blunt_winged_warbler_2.jpg",
+      "public_id": "bird-gallery/blunt_winged_warbler/inaturalist/blunt_winged_warbler_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 73685,
+      "attribution": {
+        "photographer": "ian_dugdale",
+        "photographer_url": "https://www.inaturalist.org/observations/303422975",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© ian_dugdale (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 303422975,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blunt_winged_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444974/bird-gallery/blunt_winged_warbler/inaturalist/blunt_winged_warbler_3.jpg",
+      "public_id": "bird-gallery/blunt_winged_warbler/inaturalist/blunt_winged_warbler_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72707,
+      "attribution": {
+        "photographer": "qiuhan109",
+        "photographer_url": "https://www.inaturalist.org/observations/121227271",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© qiuhan109 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 121227271,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_43624209545_098dee4c6f_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444975/bird-gallery/blunt_winged_warbler/avibase/avibase_1_43624209545_098dee4c6f_b.jpg",
+      "public_id": "bird-gallery/blunt_winged_warbler/avibase/avibase_1_43624209545_098dee4c6f_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 175538,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "43624209545",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_15399949664_3edcceb547_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444977/bird-gallery/blunt_winged_warbler/avibase/avibase_2_15399949664_3edcceb547_b.jpg",
+      "public_id": "bird-gallery/blunt_winged_warbler/avibase/avibase_2_15399949664_3edcceb547_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 81442,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15399949664",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_42724386050_dd384c45a0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444978/bird-gallery/blunt_winged_warbler/avibase/avibase_3_42724386050_dd384c45a0_b.jpg",
+      "public_id": "bird-gallery/blunt_winged_warbler/avibase/avibase_3_42724386050_dd384c45a0_b",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 56623,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "42724386050",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

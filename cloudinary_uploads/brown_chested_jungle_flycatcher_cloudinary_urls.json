@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "brown_chested_jungle_flycatcher_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679732/bird-gallery/brown_chested_jungle_flycatcher/inaturalist/brown_chested_jungle_flycatcher_1.jpg",
+      "public_id": "bird-gallery/brown_chested_jungle_flycatcher/inaturalist/brown_chested_jungle_flycatcher_1",
+      "width": 1024,
+      "height": 644,
+      "format": "jpg",
+      "bytes": 62158,
+      "attribution": {
+        "photographer": "flycatcherwarblerthrush",
+        "photographer_url": "https://www.inaturalist.org/observations/58320932",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© flycatcherwarblerthrush (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 58320932,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_chested_jungle_flycatcher_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679734/bird-gallery/brown_chested_jungle_flycatcher/inaturalist/brown_chested_jungle_flycatcher_2.jpg",
+      "public_id": "bird-gallery/brown_chested_jungle_flycatcher/inaturalist/brown_chested_jungle_flycatcher_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75966,
+      "attribution": {
+        "photographer": "briankwok",
+        "photographer_url": "https://www.inaturalist.org/observations/59035786",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© briankwok (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 59035786,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_chested_jungle_flycatcher_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679735/bird-gallery/brown_chested_jungle_flycatcher/inaturalist/brown_chested_jungle_flycatcher_3.jpg",
+      "public_id": "bird-gallery/brown_chested_jungle_flycatcher/inaturalist/brown_chested_jungle_flycatcher_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 161860,
+      "attribution": {
+        "photographer": "queenie1",
+        "photographer_url": "https://www.inaturalist.org/observations/78214049",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© queenie1 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 78214049,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_21875045980_1c76be4e7c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444986/bird-gallery/brown_chested_jungle_flycatcher/avibase/avibase_1_21875045980_1c76be4e7c_b.jpg",
+      "public_id": "bird-gallery/brown_chested_jungle_flycatcher/avibase/avibase_1_21875045980_1c76be4e7c_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 65426,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "21875045980",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_15345656806_617ce03dfa_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444987/bird-gallery/brown_chested_jungle_flycatcher/avibase/avibase_2_15345656806_617ce03dfa_b.jpg",
+      "public_id": "bird-gallery/brown_chested_jungle_flycatcher/avibase/avibase_2_15345656806_617ce03dfa_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 57704,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "15345656806",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_22081072611_dfa495b8ed_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444988/bird-gallery/brown_chested_jungle_flycatcher/avibase/avibase_3_22081072611_dfa495b8ed_b.jpg",
+      "public_id": "bird-gallery/brown_chested_jungle_flycatcher/avibase/avibase_3_22081072611_dfa495b8ed_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 47409,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "22081072611",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

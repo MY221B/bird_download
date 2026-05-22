@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eastern_grass_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444991/bird-gallery/eastern_grass_owl/inaturalist/eastern_grass_owl_1.jpg",
+      "public_id": "bird-gallery/eastern_grass_owl/inaturalist/eastern_grass_owl_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 40505,
+      "attribution": {
+        "photographer": "geoffreywalker69",
+        "photographer_url": "https://www.inaturalist.org/observations/66589624",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© geoffreywalker69 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 66589624,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_grass_owl_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444993/bird-gallery/eastern_grass_owl/inaturalist/eastern_grass_owl_2.jpg",
+      "public_id": "bird-gallery/eastern_grass_owl/inaturalist/eastern_grass_owl_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 54686,
+      "attribution": {
+        "photographer": "kelvinche",
+        "photographer_url": "https://www.inaturalist.org/observations/138500857",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kelvinche (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 138500857,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_grass_owl_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444995/bird-gallery/eastern_grass_owl/inaturalist/eastern_grass_owl_3.jpg",
+      "public_id": "bird-gallery/eastern_grass_owl/inaturalist/eastern_grass_owl_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 12768,
+      "attribution": {
+        "photographer": "pseudoshuigeeee",
+        "photographer_url": "https://www.inaturalist.org/observations/225650218",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© pseudoshuigeeee (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 225650218,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_4258509415_663ddcc4f5_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444996/bird-gallery/eastern_grass_owl/avibase/avibase_1_4258509415_663ddcc4f5_b.jpg",
+      "public_id": "bird-gallery/eastern_grass_owl/avibase/avibase_1_4258509415_663ddcc4f5_b",
+      "width": 600,
+      "height": 366,
+      "format": "jpg",
+      "bytes": 27415,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4258509415",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_4258509417_948fa47861_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444997/bird-gallery/eastern_grass_owl/avibase/avibase_2_4258509417_948fa47861_b.jpg",
+      "public_id": "bird-gallery/eastern_grass_owl/avibase/avibase_2_4258509417_948fa47861_b",
+      "width": 600,
+      "height": 399,
+      "format": "jpg",
+      "bytes": 13748,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "4258509417",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_50073587663_5734c20eb5_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779444998/bird-gallery/eastern_grass_owl/avibase/avibase_3_50073587663_5734c20eb5_b.jpg",
+      "public_id": "bird-gallery/eastern_grass_owl/avibase/avibase_3_50073587663_5734c20eb5_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 106052,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50073587663",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

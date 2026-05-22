@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "watercock_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445136/bird-gallery/watercock/inaturalist/watercock_1.jpg",
+      "public_id": "bird-gallery/watercock/inaturalist/watercock_1",
+      "width": 1024,
+      "height": 777,
+      "format": "jpg",
+      "bytes": 175874,
+      "attribution": {
+        "photographer": "christine956",
+        "photographer_url": "https://www.inaturalist.org/observations/68532163",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© christine956 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 68532163,
+        "note": null
+      }
+    },
+    {
+      "original_file": "watercock_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445137/bird-gallery/watercock/inaturalist/watercock_2.jpg",
+      "public_id": "bird-gallery/watercock/inaturalist/watercock_2",
+      "width": 600,
+      "height": 400,
+      "format": "jpg",
+      "bytes": 31176,
+      "attribution": {
+        "photographer": "pintail",
+        "photographer_url": "https://www.inaturalist.org/observations/1198499",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© pintail (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 1198499,
+        "note": null
+      }
+    },
+    {
+      "original_file": "watercock_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445138/bird-gallery/watercock/inaturalist/watercock_3.jpg",
+      "public_id": "bird-gallery/watercock/inaturalist/watercock_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 69268,
+      "attribution": {
+        "photographer": "g33k5p34k",
+        "photographer_url": "https://www.inaturalist.org/observations/9216855",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© g33k5p34k (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9216855,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51116727999_ca45130c0e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445139/bird-gallery/watercock/avibase/avibase_1_51116727999_ca45130c0e_b.jpg",
+      "public_id": "bird-gallery/watercock/avibase/avibase_1_51116727999_ca45130c0e_b",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 259462,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51116727999",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49533838497_5d527ea192_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445140/bird-gallery/watercock/avibase/avibase_2_49533838497_5d527ea192_b.jpg",
+      "public_id": "bird-gallery/watercock/avibase/avibase_2_49533838497_5d527ea192_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 202345,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49533838497",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_52721725923_ba7e63facb_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445142/bird-gallery/watercock/avibase/avibase_3_52721725923_ba7e63facb_b.jpg",
+      "public_id": "bird-gallery/watercock/avibase/avibase_3_52721725923_ba7e63facb_b",
+      "width": 1000,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 138113,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52721725923",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

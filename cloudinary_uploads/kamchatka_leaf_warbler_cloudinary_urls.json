@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "kamchatka_leaf_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445042/bird-gallery/kamchatka_leaf_warbler/inaturalist/kamchatka_leaf_warbler_1.jpg",
+      "public_id": "bird-gallery/kamchatka_leaf_warbler/inaturalist/kamchatka_leaf_warbler_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 44968,
+      "attribution": {
+        "photographer": "shukov",
+        "photographer_url": "https://www.inaturalist.org/observations/306554844",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 306554844,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kamchatka_leaf_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445043/bird-gallery/kamchatka_leaf_warbler/inaturalist/kamchatka_leaf_warbler_2.jpg",
+      "public_id": "bird-gallery/kamchatka_leaf_warbler/inaturalist/kamchatka_leaf_warbler_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55428,
+      "attribution": {
+        "photographer": "iburyl",
+        "photographer_url": "https://www.inaturalist.org/observations/129258315",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© iburyl (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 129258315,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kamchatka_leaf_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445044/bird-gallery/kamchatka_leaf_warbler/inaturalist/kamchatka_leaf_warbler_3.jpg",
+      "public_id": "bird-gallery/kamchatka_leaf_warbler/inaturalist/kamchatka_leaf_warbler_3",
+      "width": 216,
+      "height": 275,
+      "format": "jpg",
+      "bytes": 4732,
+      "attribution": {
+        "photographer": "thomasnevers",
+        "photographer_url": "https://www.inaturalist.org/observations/347738467",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thomasnevers (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 347738467,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54355390971_6b79f0a417_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445046/bird-gallery/kamchatka_leaf_warbler/avibase/avibase_1_54355390971_6b79f0a417_b.jpg",
+      "public_id": "bird-gallery/kamchatka_leaf_warbler/avibase/avibase_1_54355390971_6b79f0a417_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89483,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54355390971",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54674549983_6a84449a81_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445047/bird-gallery/kamchatka_leaf_warbler/avibase/avibase_2_54674549983_6a84449a81_b.jpg",
+      "public_id": "bird-gallery/kamchatka_leaf_warbler/avibase/avibase_2_54674549983_6a84449a81_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 45733,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54674549983",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54674556189_b6fd5dccd6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445049/bird-gallery/kamchatka_leaf_warbler/avibase/avibase_3_54674556189_b6fd5dccd6_b.jpg",
+      "public_id": "bird-gallery/kamchatka_leaf_warbler/avibase/avibase_3_54674556189_b6fd5dccd6_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 81241,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54674556189",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "himalayan_cuckoo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679833/bird-gallery/himalayan_cuckoo/inaturalist/himalayan_cuckoo_1.jpg",
+      "public_id": "bird-gallery/himalayan_cuckoo/inaturalist/himalayan_cuckoo_1",
+      "width": 1024,
+      "height": 577,
+      "format": "jpg",
+      "bytes": 103600,
+      "attribution": {
+        "photographer": "egor61440",
+        "photographer_url": "https://www.inaturalist.org/observations/346969527",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© egor61440 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 346969527,
+        "note": null
+      }
+    },
+    {
+      "original_file": "himalayan_cuckoo_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679836/bird-gallery/himalayan_cuckoo/inaturalist/himalayan_cuckoo_2.jpg",
+      "public_id": "bird-gallery/himalayan_cuckoo/inaturalist/himalayan_cuckoo_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 153509,
+      "attribution": {
+        "photographer": "gnshie",
+        "photographer_url": "https://www.inaturalist.org/observations/13361183",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© gnshie (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 13361183,
+        "note": null
+      }
+    },
+    {
+      "original_file": "himalayan_cuckoo_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445024/bird-gallery/himalayan_cuckoo/inaturalist/himalayan_cuckoo_3.jpg",
+      "public_id": "bird-gallery/himalayan_cuckoo/inaturalist/himalayan_cuckoo_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 174684,
+      "attribution": {
+        "photographer": "yung3q",
+        "photographer_url": "https://www.inaturalist.org/observations/32946612",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© yung3q (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 32946612,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54625935310_535c5377bf_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445026/bird-gallery/himalayan_cuckoo/avibase/avibase_1_54625935310_535c5377bf_b.jpg",
+      "public_id": "bird-gallery/himalayan_cuckoo/avibase/avibase_1_54625935310_535c5377bf_b",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 84815,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54625935310",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_54347455689_9cb32b50f8_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445027/bird-gallery/himalayan_cuckoo/avibase/avibase_2_54347455689_9cb32b50f8_b.jpg",
+      "public_id": "bird-gallery/himalayan_cuckoo/avibase/avibase_2_54347455689_9cb32b50f8_b",
+      "width": 1023,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 165949,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54347455689",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_8208493764_a3a9531528_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1779445028/bird-gallery/himalayan_cuckoo/avibase/avibase_3_8208493764_a3a9531528_b.jpg",
+      "public_id": "bird-gallery/himalayan_cuckoo/avibase/avibase_3_8208493764_a3a9531528_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 120983,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "8208493764",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

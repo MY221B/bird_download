@@ -10,6 +10,8 @@ Cloudinary 目标 cloud：环境变量 VITE_CLOUDINARY_CLOUD_NAME 优先，否�
 JSON 中若仍为旧 cloud dzor6lhz8，生成时会改写 URL 并写入 window.CLOUDINARY_CLOUD_NAME_OVERRIDE。
 """
 
+from __future__ import annotations
+
 from pathlib import Path
 import json
 import os

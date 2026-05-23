@@ -8,9 +8,19 @@ set -e  # 遇到错误就退出
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 SUBMODULE_PATH="$PROJECT_ROOT/feather-flash-quiz"
+PUSH_REMOTE="origin"
+if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
+    PUSH_REMOTE="https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
+    echo "✅ feather-flash-quiz push token 已可用于本次推送（不会写入 remote URL）"
+fi
 
 echo "🔄 开始将本地改动同步到 Lovable (develop_lovable)..."
 echo ""
+
+if [[ ! -e "$SUBMODULE_PATH/.git" ]]; then
+    cd "$PROJECT_ROOT"
+    git submodule update --init --recursive feather-flash-quiz
+fi
 
 cd "$SUBMODULE_PATH"
 
@@ -35,7 +45,7 @@ echo ""
 
 # 2. 推送 main 到远程
 echo "📤 推送 main 分支..."
-git push origin main
+git push "$PUSH_REMOTE" main
 echo ""
 
 # 3. 切换到 develop_lovable 并合并 main
@@ -52,16 +62,20 @@ else
     
     # 4. 推送到 develop_lovable
     echo "📤 推送到 develop_lovable 分支..."
-    git push origin develop_lovable
+    git push "$PUSH_REMOTE" develop_lovable
     echo ""
     echo "✅ 同步完成！本地改动已推送到 Lovable 的 develop_lovable 分支"
 fi
 
 # 恢复到之前的分支
-if [ "$CURRENT_BRANCH" != "develop_lovable" ]; then
+if [ -n "$CURRENT_BRANCH" ] && [ "$CURRENT_BRANCH" != "develop_lovable" ]; then
     echo ""
     echo "🔙 返回到之前的分支: $CURRENT_BRANCH"
     git checkout "$CURRENT_BRANCH"
+elif [ -z "$CURRENT_BRANCH" ]; then
+    echo ""
+    echo "🔙 初始状态为 detached HEAD，切换回 main 分支"
+    git checkout main
 fi
 
 echo ""

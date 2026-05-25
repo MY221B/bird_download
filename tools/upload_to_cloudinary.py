@@ -309,14 +309,20 @@ def save_results_to_file(bird_name, results):
         except:
             pass
     
-    # 确保 bird_info 在最前面（如果存在）
+    # 确保 bird_info 在最前面，并避免无 CSV 参数重传时丢失已有信息
     ordered_results = {}
     if 'bird_info' in results:
         ordered_results['bird_info'] = results['bird_info']
+    elif 'bird_info' in existing_data:
+        ordered_results['bird_info'] = existing_data['bird_info']
     
     for key in ['macaulay', 'inaturalist', 'birdphotos', 'wikimedia', 'avibase']:
         if key in results:
-            ordered_results[key] = results[key]
+            if results[key] or key not in existing_data:
+                ordered_results[key] = results[key]
+            else:
+                ordered_results[key] = existing_data[key]
+                print(f"   ℹ️  保留已有 {key} 数据（本次未上传新文件）")
     
     # 保留现有的额外字段（如sounds、其他未来可能添加的字段）
     for key in existing_data:

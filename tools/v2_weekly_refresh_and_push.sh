@@ -12,6 +12,38 @@ COMMIT_MSG="${COMMIT_MSG:-chore: weekly refresh $(date +%Y-%m-%d)}"
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"
 
+push_main_repo_changes() {
+  cd "${REPO_ROOT}"
+  echo ""
+  git add -A
+  if ! git diff --cached --quiet; then
+    CHANGED_FILES=$(git diff --cached --numstat | wc -l | tr -d ' ')
+    MAIN_COMMIT_MSG="chore: weekly refresh $(date +%Y-%m-%d) - 更新鸟类数据和子模块引用"
+    git commit --quiet -m "${MAIN_COMMIT_MSG}"
+    git pull --quiet origin main --no-rebase
+    git push --quiet origin main
+    echo "✅ 主仓库已提交并推送（${CHANGED_FILES} 个文件）"
+  else
+    echo "✅ 主仓库无新改动"
+  fi
+}
+
+sync_to_lovable() {
+  echo ""
+  echo "🔄 同步改动到 Lovable..."
+  if bash "${REPO_ROOT}/tools/sync_to_lovable.sh" > /dev/null 2>&1; then
+    echo "✅ 已同步到 Lovable"
+  else
+    echo "⚠️  同步到 Lovable 失败（可运行 tools/sync_to_lovable.sh 排查）"
+    exit 1
+  fi
+}
+
+finish_main_repo_and_lovable() {
+  push_main_repo_changes
+  sync_to_lovable
+}
+
 cd "${REPO_ROOT}"
 
 # 🔄 开始前：从 Lovable 同步最新改动
@@ -33,21 +65,36 @@ python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 
 cd "${QUIZ_DIR}"
 
-# 在 Cloud Agent 环境中注入 token 到子模块 remote（本地无此环境变量时跳过）
+quiz_git() {
+  if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
+    git -c credential.helper='!f() { echo username=x-access-token; echo password=$FEATHER_FLASH_QUIZ_TOKEN; }; f' "$@"
+  else
+    git "$@"
+  fi
+}
+
+origin_url="$(git remote get-url origin 2>/dev/null || true)"
+if [[ "${origin_url}" == *"x-access-token:"* ]]; then
+  git remote set-url origin "https://github.com/MY221B/feather-flash-quiz.git"
+  echo "✅ feather-flash-quiz remote URL 已清理为不含 token 的地址"
+fi
+
+# Cloud Agent token 只通过本次 git 命令的 credential helper 使用，不写入 remote 配置。
 if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
-  git remote set-url origin "https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
-  echo "✅ feather-flash-quiz remote URL 已注入 token"
+  echo "✅ feather-flash-quiz push 将使用临时 token 凭据"
 fi
 
 node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
 if [[ -z "$(git status --porcelain)" ]]; then
   echo "✅ feather-flash-quiz 无新改动，跳过提交"
+  finish_main_repo_and_lovable
   exit 0
 fi
 
 git add -A
 if git diff --cached --quiet; then
   echo "✅ feather-flash-quiz 无新改动"
+  finish_main_repo_and_lovable
   exit 0
 fi
 
@@ -92,37 +139,14 @@ fi
 
 git commit --quiet -m "${COMMIT_MSG}"
 current_branch="$(git rev-parse --abbrev-ref HEAD)"
-if ! git pull --rebase origin "${current_branch}" 2>/dev/null; then
+if ! quiz_git pull --rebase origin "${current_branch}" 2>/dev/null; then
   if git status | grep -q "rebase in progress"; then
     echo "❌ feather-flash-quiz rebase 冲突，请手动解决"
     exit 1
   fi
 fi
-git push --quiet origin main
-git push --quiet origin main:develop_lovable
+quiz_git push --quiet origin main
+quiz_git push --quiet origin main:develop_lovable
 echo "✅ feather-flash-quiz 已提交并推送"
 
-# 🔄 推送主仓库改动
-cd "${REPO_ROOT}"
-echo ""
-git add -A
-if ! git diff --cached --quiet; then
-  CHANGED_FILES=$(git diff --cached --numstat | wc -l | tr -d ' ')
-  MAIN_COMMIT_MSG="chore: weekly refresh $(date +%Y-%m-%d) - 更新鸟类数据和子模块引用"
-  git commit --quiet -m "${MAIN_COMMIT_MSG}"
-  git pull --quiet origin main --no-rebase
-  git push --quiet origin main
-  echo "✅ 主仓库已提交并推送（${CHANGED_FILES} 个文件）"
-else
-  echo "✅ 主仓库无新改动"
-fi
-
-# 🔄 结束后：同步改动到 Lovable
-echo ""
-echo "🔄 同步改动到 Lovable..."
-if bash "${REPO_ROOT}/tools/sync_to_lovable.sh" > /dev/null 2>&1; then
-  echo "✅ 已同步到 Lovable"
-else
-  echo "⚠️  同步到 Lovable 失败（可运行 tools/sync_to_lovable.sh 排查）"
-  exit 1
-fi
+finish_main_repo_and_lovable

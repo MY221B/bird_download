@@ -106,5 +106,27 @@
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "golden_fronted_fulvetta_614707959.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1780182501/bird-gallery/golden_fronted_fulvetta/sounds/golden_fronted_fulvetta_614707959.mp3",
+      "public_id": "bird-gallery/golden_fronted_fulvetta/sounds/golden_fronted_fulvetta_614707959",
+      "duration": 29.448,
+      "format": "mp3",
+      "bytes": 896012,
+      "bit_rate": 243415,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "614707959",
+        "asset_url": "https://macaulaylibrary.org/asset/614707959",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

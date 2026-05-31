@@ -1,0 +1,39 @@
+name: Deploy Shahe bird poster
+
+on:
+  push:
+    branches:
+      - main
+      - cursor/shahe-may-bird-page-f460
+    paths:
+      - examples/shahe_may_bird_race.html
+      - .github/workflows/deploy-shahe-poster.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deploy-shahe-poster
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build static site
+        run: |
+          mkdir -p _site
+          cp examples/shahe_may_bird_race.html _site/index.html
+          touch _site/.nojekyll
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: "Deploy Shahe May bird race poster"

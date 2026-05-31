@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>沙河五月鸟赛 悦然慕羽队 34种鸟</title>
+  <style>
+    :root {
+      --teal: #079b8b;
+      --green: #35aa4c;
+      --green-soft: #dff4df;
+      --ink: #18221f;
+      --muted: #77827c;
+      --paper: #fbfbf5;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #eef5ef;
+      color: var(--ink);
+      font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
+    }
+
+    .poster {
+      margin: 0 auto;
+      background: var(--paper);
+      max-width: 480px;
+      box-shadow: 0 16px 48px rgb(0 0 0 / 14%);
+    }
+
+    .content {
+      padding: 18px 12px 12px;
+    }
+
+    .summary {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .summary h1 {
+      margin: 0;
+      color: var(--teal);
+      font-size: 19px;
+      font-weight: 900;
+      letter-spacing: 0.02em;
+    }
+
+    .summary span {
+      color: var(--muted);
+      font-size: 11px;
+      white-space: nowrap;
+    }
+
+    .bird-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 9px 7px;
+    }
+
+    .bird-card {
+      position: relative;
+      min-width: 0;
+      overflow: hidden;
+      border: 1.5px solid #88ce8a;
+      border-radius: 10px;
+      background: linear-gradient(180deg, #eef8e9 0%, #f8fff6 100%);
+      padding: 5px 5px 7px;
+      box-shadow: inset 0 0 0 1px rgb(255 255 255 / 70%);
+    }
+
+    .bird-number {
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      z-index: 1;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 22px;
+      height: 17px;
+      border-radius: 999px;
+      background: var(--green);
+      color: #fff;
+      font-size: 10px;
+      font-weight: 800;
+      box-shadow: 0 1px 4px rgb(0 0 0 / 20%);
+    }
+
+    .bird-image {
+      display: block;
+      width: 100%;
+      aspect-ratio: 1 / 0.86;
+      border-radius: 8px;
+      object-fit: cover;
+      background: var(--green-soft);
+    }
+
+    .bird-name {
+      min-height: 34px;
+      margin-top: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-size: 13px;
+      font-weight: 850;
+      line-height: 1.15;
+      word-break: keep-all;
+    }
+
+    .source {
+      margin-top: 13px;
+      color: #8a928d;
+      font-size: 11px;
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    @media (min-width: 481px) {
+      .poster {
+        max-width: 760px;
+      }
+
+      .content {
+        padding: 26px 22px 18px;
+      }
+
+      .bird-grid {
+        gap: 13px 12px;
+      }
+
+      .bird-name {
+        font-size: 18px;
+      }
+
+      .bird-number {
+        width: 32px;
+        height: 24px;
+        font-size: 13px;
+      }
+
+      .summary h1 {
+        font-size: 26px;
+      }
+
+      .summary span,
+      .source {
+        font-size: 13px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="poster" aria-label="沙河五月鸟赛 悦然慕羽队 34种鸟海报">
+    <section class="content">
+      <header class="summary">
+        <h1>沙河五月鸟赛</h1>
+        <span>悦然慕羽队 · 34种鸟</span>
+      </header>
+
+      <div class="bird-grid" id="bird-grid"></div>
+
+      <footer class="source">图片来源：Macaulay Library</footer>
+    </section>
+  </main>
+
+  <script>
+    const birds = [
+      { name: "斑嘴鸭", slug: "chinese_spot_billed_duck", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171567/bird-gallery/chinese_spot_billed_duck/macaulay/chinese_spot_billed_duck_26854871.jpg" },
+      { name: "小䴙䴘", slug: "little_grebe", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171758/bird-gallery/little_grebe/macaulay/little_grebe_448235051.jpg" },
+      { name: "凤头䴙䴘", slug: "great_crested_grebe", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171667/bird-gallery/great_crested_grebe/macaulay/great_crested_grebe_144916411.jpg" },
+      { name: "山斑鸠", slug: "oriental_turtle_dove", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171816/bird-gallery/oriental_turtle_dove/macaulay/oriental_turtle_dove_234496911.jpg" },
+      { name: "珠颈斑鸠", slug: "spotted_dove", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171929/bird-gallery/spotted_dove/macaulay/spotted_dove_378209321.jpg" },
+      { name: "黄胸鹀", slug: "yellow_breasted_bunting", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774172006/bird-gallery/yellow_breasted_bunting/macaulay/yellow_breasted_bunting_313179501.jpg" },
+      { name: "普通雨燕", slug: "common_swift", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171599/bird-gallery/common_swift/macaulay/common_swift_108270431.jpg" },
+      { name: "大杜鹃", slug: "common_cuckoo", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171580/bird-gallery/common_cuckoo/macaulay/common_cuckoo_181662571.jpg" },
+      { name: "黑水鸡", slug: "common_moorhen", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171589/bird-gallery/common_moorhen/macaulay/common_moorhen_308540351.jpg" },
+      { name: "白骨顶", slug: "common_coot", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171579/bird-gallery/common_coot/macaulay/common_coot_303953581.jpg" },
+      { name: "夜鹭", slug: "black_crowned_night_heron", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171494/bird-gallery/black_crowned_night_heron/macaulay/black_crowned_night_heron_351707071.jpg" },
+      { name: "池鹭", slug: "chinese_pond_heron", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1775136712/bird-gallery/chinese_pond_heron/macaulay/chinese_pond_heron_198509171.jpg" },
+      { name: "苍鹭", slug: "grey_heron", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171699/bird-gallery/grey_heron/macaulay/grey_heron_204245961.jpg" },
+      { name: "大白鹭", slug: "great_egret", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171670/bird-gallery/great_egret/macaulay/great_egret_266810541.jpg" },
+      { name: "白鹭", slug: "little_egret", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171755/bird-gallery/little_egret/macaulay/little_egret_206390251.jpg" },
+      { name: "普通鸬鹚", slug: "great_cormorant", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171667/bird-gallery/great_cormorant/macaulay/great_cormorant_255272571.jpg" },
+      { name: "小鹀", slug: "little_bunting", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171754/bird-gallery/little_bunting/macaulay/little_bunting_241880231.jpg" },
+      { name: "普通燕鸥", slug: "common_tern", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171600/bird-gallery/common_tern/macaulay/common_tern_250208911.jpg" },
+      { name: "红隼", slug: "common_kestrel", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171588/bird-gallery/common_kestrel/macaulay/common_kestrel_186448311.jpg" },
+      { name: "灰喜鹊", slug: "azure_winged_magpie", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171471/bird-gallery/azure_winged_magpie/macaulay/azure_winged_magpie_205853451.jpg" },
+      { name: "喜鹊", slug: "oriental_magpie", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171805/bird-gallery/oriental_magpie/macaulay/oriental_magpie_180292011.jpg" },
+      { name: "小嘴乌鸦", slug: "carrion_crow", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171544/bird-gallery/carrion_crow/macaulay/carrion_crow_414257861.jpg" },
+      { name: "沼泽山雀", slug: "marsh_tit", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171775/bird-gallery/marsh_tit/macaulay/marsh_tit_314156801.jpg" },
+      { name: "东方大苇莺", slug: "oriental_reed_warbler", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171811/bird-gallery/oriental_reed_warbler/macaulay/oriental_reed_warbler_461022281.jpg" },
+      { name: "黑眉苇莺", slug: "black_browed_reed_warbler", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171489/bird-gallery/black_browed_reed_warbler/macaulay/black_browed_reed_warbler_194409711.jpg" },
+      { name: "家燕", slug: "barn_swallow", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171480/bird-gallery/barn_swallow/macaulay/barn_swallow_240408841.jpg" },
+      { name: "白头鹎", slug: "light_vented_bulbul", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171754/bird-gallery/light_vented_bulbul/macaulay/light_vented_bulbul_205901091.jpg" },
+      { name: "巨嘴柳莺", slug: "raddes_warbler", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774251147/bird-gallery/raddes_warbler/macaulay/raddes_warbler_116457991.jpg" },
+      { name: "银喉长尾山雀", slug: "silver_throated_bushtit", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171912/bird-gallery/silver_throated_bushtit/macaulay/silver_throated_bushtit_280053191.jpg" },
+      { name: "棕头鸦雀", slug: "vinous_throated_parrotbill", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171959/bird-gallery/vinous_throated_parrotbill/macaulay/vinous_throated_parrotbill_623743494.jpg" },
+      { name: "灰椋鸟", slug: "white_cheeked_starling", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171979/bird-gallery/white_cheeked_starling/macaulay/white_cheeked_starling_624462381.jpg" },
+      { name: "乌鸫", slug: "chinese_blackbird", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171558/bird-gallery/chinese_blackbird/macaulay/chinese_blackbird_530421891.jpg" },
+      { name: "麻雀", slug: "eurasian_tree_sparrow", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171635/bird-gallery/eurasian_tree_sparrow/macaulay/eurasian_tree_sparrow_219797601.jpg" },
+      { name: "金翅雀", slug: "oriental_greenfinch", imageUrl: "https://res.cloudinary.com/dunr50niz/image/upload/c_scale,w_480,q_auto,f_auto/v1774171804/bird-gallery/oriental_greenfinch/macaulay/oriental_greenfinch_133693291.jpg" }
+    ];
+
+    const grid = document.getElementById("bird-grid");
+
+    birds.forEach((bird, index) => {
+      const card = document.createElement("article");
+      card.className = "bird-card";
+      const number = String(index + 1).padStart(2, "0");
+      card.innerHTML = `
+        <span class="bird-number">${number}</span>
+        <img class="bird-image" src="${bird.imageUrl}" alt="${bird.name}" loading="lazy">
+        <div class="bird-name">${bird.name}</div>
+      `;
+      grid.appendChild(card);
+    });
+  </script>
+</body>
+</html>

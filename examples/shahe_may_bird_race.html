@@ -305,7 +305,10 @@
         try {
           const response = await fetch(path);
           if (response.ok) {
-            return await response.json();
+            const data = await response.json();
+            if (imageUrlFrom(data)) {
+              return data;
+            }
           }
         } catch (error) {
           // Try the next local JSON directory.

@@ -9,7 +9,6 @@
       --teal: #079b8b;
       --green: #35aa4c;
       --green-soft: #dff4df;
-      --cyan: #12b9cd;
       --ink: #18221f;
       --muted: #77827c;
       --paper: #fbfbf5;
@@ -27,57 +26,10 @@
     }
 
     .poster {
-      display: grid;
-      grid-template-columns: 96px minmax(0, 1fr);
       margin: 0 auto;
       background: var(--paper);
       max-width: 480px;
       box-shadow: 0 16px 48px rgb(0 0 0 / 14%);
-    }
-
-    .title-rail {
-      position: sticky;
-      top: 0;
-      align-self: start;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      background: var(--teal);
-      color: #fff;
-      padding: 18px 8px;
-      overflow: visible;
-    }
-
-    .vertical-title {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 10px;
-      font-weight: 900;
-      line-height: 1;
-      letter-spacing: 0.02em;
-      text-align: center;
-    }
-
-    .title-place,
-    .title-team {
-      writing-mode: vertical-rl;
-      text-orientation: upright;
-      font-size: clamp(26px, 8vw, 42px);
-    }
-
-    .title-count {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 3px;
-      font-size: clamp(28px, 9vw, 48px);
-    }
-
-    .title-count span {
-      display: block;
-      line-height: 1.05;
     }
 
     .content {
@@ -123,11 +75,6 @@
       box-shadow: inset 0 0 0 1px rgb(255 255 255 / 70%);
     }
 
-    .bird-card:nth-child(3n) {
-      border-color: #76d3dc;
-      background: linear-gradient(180deg, #e9f9fb 0%, #f8ffff 100%);
-    }
-
     .bird-number {
       position: absolute;
       top: 5px;
@@ -144,10 +91,6 @@
       font-size: 10px;
       font-weight: 800;
       box-shadow: 0 1px 4px rgb(0 0 0 / 20%);
-    }
-
-    .bird-card:nth-child(3n) .bird-number {
-      background: var(--cyan);
     }
 
     .bird-image {
@@ -182,7 +125,6 @@
 
     @media (min-width: 481px) {
       .poster {
-        grid-template-columns: 118px minmax(0, 1fr);
         max-width: 760px;
       }
 
@@ -217,16 +159,6 @@
 </head>
 <body>
   <main class="poster" aria-label="沙河五月鸟赛 悦然慕羽队 34种鸟海报">
-    <aside class="title-rail">
-      <div class="vertical-title">
-        <div class="title-place">沙河五月鸟赛</div>
-        <div class="title-team">悦然慕羽队</div>
-        <div class="title-count" aria-label="34种鸟">
-          <span>3</span><span>4</span><span>种</span><span>鸟</span>
-        </div>
-      </div>
-    </aside>
-
     <section class="content">
       <header class="summary">
         <h1>沙河五月鸟赛</h1>

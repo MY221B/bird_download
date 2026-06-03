@@ -28,6 +28,26 @@ if [[ -f "${REPO_ROOT}/config/ebird_token.sh" ]]; then
   source "${REPO_ROOT}/config/ebird_token.sh"
 fi
 
+# 启动前检查密钥（缺失时下载/上传新鸟会失败，避免跑完才发现）
+_config_ok=1
+if [[ -z "${EBIRD_TOKEN:-}" ]]; then
+  echo "⚠️  未配置 EBIRD_TOKEN：无法下载新鸟图片/部分鸟叫声（请复制 config/ebird_token.sh.example → config/ebird_token.sh）"
+  _config_ok=0
+fi
+if ! python3 -c "
+import sys
+sys.path.insert(0, '${REPO_ROOT}/tools')
+from cloudinary_credentials import resolve_cloudinary_credentials
+resolve_cloudinary_credentials()
+" >/dev/null 2>&1; then
+  echo "⚠️  未配置 Cloudinary 凭证：无法上传图片到 CDN（请复制 .cloudinary_secrets.example → .cloudinary_secrets）"
+  _config_ok=0
+fi
+if [[ "${_config_ok}" -eq 0 ]]; then
+  echo "   详见 运行说明.md「方案 B」与 docs/快速指南.md"
+  echo ""
+fi
+
 echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 

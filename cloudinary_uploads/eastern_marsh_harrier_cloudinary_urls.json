@@ -86,27 +86,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "eastern_marsh_harrier_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171621/bird-gallery/eastern_marsh_harrier/wikimedia/eastern_marsh_harrier_1.jpg",
-      "public_id": "bird-gallery/eastern_marsh_harrier/wikimedia/eastern_marsh_harrier_1",
-      "width": 1200,
-      "height": 1009,
-      "format": "jpg",
-      "bytes": 482062,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_1_54678442591_1823a5256d_b.jpg",

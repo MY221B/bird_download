@@ -548,7 +548,19 @@ def upload_to_cloudinary(missing_birds, csv_file):
     
     print(f"\n☁️  步骤5: 上传图片到Cloudinary...")
     print(f"需要上传 {len(missing_birds)} 种鸟类")
-    
+
+    try:
+        sys.path.insert(0, str(PROJECT_ROOT / "tools"))
+        from cloudinary_credentials import ensure_cloudinary_config
+        cloud_name = ensure_cloudinary_config()
+        print(f"✅ Cloudinary 凭证已加载（cloud: {cloud_name}）")
+    except SystemExit:
+        print(
+            "❌ 未找到 Cloudinary 凭证，无法上传。\n"
+            "   请复制 .cloudinary_secrets.example → .cloudinary_secrets 并填入 CLOUD_NAME / API_KEY / API_SECRET"
+        )
+        return False
+
     upload_script = PROJECT_ROOT / "tools" / "upload_to_cloudinary.py"
     if not upload_script.exists():
         print(f"❌ 找不到上传脚本: {upload_script}")

@@ -64,46 +64,7 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "swan_goose_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774252521/bird-gallery/swan_goose/inaturalist/swan_goose_2.jpg",
-      "public_id": "bird-gallery/swan_goose/inaturalist/swan_goose_2",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 327633,
-      "attribution": {
-        "photographer": "lonnyholmes",
-        "photographer_url": "https://www.inaturalist.org/observations/46113183",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© lonnyholmes (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": "46113183",
-        "note": null
-      }
-    },
-    {
-      "original_file": "swan_goose_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774252523/bird-gallery/swan_goose/inaturalist/swan_goose_3.jpg",
-      "public_id": "bird-gallery/swan_goose/inaturalist/swan_goose_3",
-      "width": 796,
-      "height": 578,
-      "format": "jpg",
-      "bytes": 189627,
-      "attribution": {
-        "photographer": "waldier",
-        "photographer_url": "https://www.inaturalist.org/observations/100228057",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© waldier (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": "100228057",
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [
     {

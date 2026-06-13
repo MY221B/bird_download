@@ -1,0 +1,149 @@
+{
+  "bird_info": {
+    "slug": "little_bittern",
+    "chinese_name": "小苇鳽",
+    "english_name": "Little Bittern",
+    "scientific_name": "Ixobrychus minutus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "little_bittern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340851/bird-gallery/little_bittern/inaturalist/little_bittern_1.jpg",
+      "public_id": "bird-gallery/little_bittern/inaturalist/little_bittern_1",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 70558,
+      "attribution": {
+        "photographer": "tatyanazarubo",
+        "photographer_url": "https://www.inaturalist.org/observations/39286322",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tatyanazarubo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39286322,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_bittern_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340852/bird-gallery/little_bittern/inaturalist/little_bittern_2.jpg",
+      "public_id": "bird-gallery/little_bittern/inaturalist/little_bittern_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 48721,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/246606116",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 246606116,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_bittern_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340854/bird-gallery/little_bittern/inaturalist/little_bittern_3.jpg",
+      "public_id": "bird-gallery/little_bittern/inaturalist/little_bittern_3",
+      "width": 1000,
+      "height": 671,
+      "format": "jpg",
+      "bytes": 119364,
+      "attribution": {
+        "photographer": "tatyanazarubo",
+        "photographer_url": "https://www.inaturalist.org/observations/37591923",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tatyanazarubo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 37591923,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "little_bittern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340855/bird-gallery/little_bittern/wikimedia/little_bittern_1.jpg",
+      "public_id": "bird-gallery/little_bittern/wikimedia/little_bittern_1",
+      "width": 960,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 131170,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_50299978623_beebba3d81_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340857/bird-gallery/little_bittern/avibase/avibase_1_50299978623_beebba3d81_b.jpg",
+      "public_id": "bird-gallery/little_bittern/avibase/avibase_1_50299978623_beebba3d81_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 45585,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "50299978623",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51339733279_13c8da13e0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340858/bird-gallery/little_bittern/avibase/avibase_2_51339733279_13c8da13e0_b.jpg",
+      "public_id": "bird-gallery/little_bittern/avibase/avibase_2_51339733279_13c8da13e0_b",
+      "width": 1023,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 174818,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51339733279",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_54525861201_ba810a1f0c_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340859/bird-gallery/little_bittern/avibase/avibase_3_54525861201_ba810a1f0c_b.jpg",
+      "public_id": "bird-gallery/little_bittern/avibase/avibase_3_54525861201_ba810a1f0c_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 9726,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54525861201",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

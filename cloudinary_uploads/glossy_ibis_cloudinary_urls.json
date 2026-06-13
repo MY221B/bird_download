@@ -1,0 +1,149 @@
+{
+  "bird_info": {
+    "slug": "glossy_ibis",
+    "chinese_name": "彩鹮",
+    "english_name": "Glossy Ibis",
+    "scientific_name": "Plegadis falcinellus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "glossy_ibis_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340798/bird-gallery/glossy_ibis/inaturalist/glossy_ibis_1.jpg",
+      "public_id": "bird-gallery/glossy_ibis/inaturalist/glossy_ibis_1",
+      "width": 779,
+      "height": 604,
+      "format": "jpg",
+      "bytes": 47798,
+      "attribution": {
+        "photographer": "vasilykalinichenko",
+        "photographer_url": "https://www.inaturalist.org/observations/325015374",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vasilykalinichenko (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 325015374,
+        "note": null
+      }
+    },
+    {
+      "original_file": "glossy_ibis_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340799/bird-gallery/glossy_ibis/inaturalist/glossy_ibis_2.jpg",
+      "public_id": "bird-gallery/glossy_ibis/inaturalist/glossy_ibis_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 78796,
+      "attribution": {
+        "photographer": "muratuyman",
+        "photographer_url": "https://www.inaturalist.org/observations/56051095",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© muratuyman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 56051095,
+        "note": null
+      }
+    },
+    {
+      "original_file": "glossy_ibis_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340801/bird-gallery/glossy_ibis/inaturalist/glossy_ibis_3.jpg",
+      "public_id": "bird-gallery/glossy_ibis/inaturalist/glossy_ibis_3",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 61148,
+      "attribution": {
+        "photographer": "marquimedes",
+        "photographer_url": "https://www.inaturalist.org/observations/209067092",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marquimedes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 209067092,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "glossy_ibis_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340802/bird-gallery/glossy_ibis/wikimedia/glossy_ibis_1.jpg",
+      "public_id": "bird-gallery/glossy_ibis/wikimedia/glossy_ibis_1",
+      "width": 250,
+      "height": 272,
+      "format": "jpg",
+      "bytes": 7572,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_54999584722_a96a0868f2_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340803/bird-gallery/glossy_ibis/avibase/avibase_1_54999584722_a96a0868f2_b.jpg",
+      "public_id": "bird-gallery/glossy_ibis/avibase/avibase_1_54999584722_a96a0868f2_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 182215,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "54999584722",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_52095750456_2eb27d4667_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340804/bird-gallery/glossy_ibis/avibase/avibase_2_52095750456_2eb27d4667_b.jpg",
+      "public_id": "bird-gallery/glossy_ibis/avibase/avibase_2_52095750456_2eb27d4667_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 15891,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "52095750456",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_27222383823_3d87a90ba0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340806/bird-gallery/glossy_ibis/avibase/avibase_3_27222383823_3d87a90ba0_b.jpg",
+      "public_id": "bird-gallery/glossy_ibis/avibase/avibase_3_27222383823_3d87a90ba0_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90274,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "27222383823",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

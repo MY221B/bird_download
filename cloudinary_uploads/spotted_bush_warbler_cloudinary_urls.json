@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "spotted_bush_warbler",
+    "chinese_name": "斑胸短翅蝗莺",
+    "english_name": "Spotted Bush Warbler",
+    "scientific_name": "Locustella thoracica"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "spotted_bush_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340809/bird-gallery/spotted_bush_warbler/inaturalist/spotted_bush_warbler_1.jpg",
+      "public_id": "bird-gallery/spotted_bush_warbler/inaturalist/spotted_bush_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67601,
+      "attribution": {
+        "photographer": "carlosbocos",
+        "photographer_url": "https://www.inaturalist.org/observations/41049385",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© carlosbocos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 41049385,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_bush_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340810/bird-gallery/spotted_bush_warbler/inaturalist/spotted_bush_warbler_2.jpg",
+      "public_id": "bird-gallery/spotted_bush_warbler/inaturalist/spotted_bush_warbler_2",
+      "width": 800,
+      "height": 628,
+      "format": "jpg",
+      "bytes": 49316,
+      "attribution": {
+        "photographer": "porag",
+        "photographer_url": "https://www.inaturalist.org/observations/1098133",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© porag (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1098133,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_bush_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340811/bird-gallery/spotted_bush_warbler/inaturalist/spotted_bush_warbler_3.jpg",
+      "public_id": "bird-gallery/spotted_bush_warbler/inaturalist/spotted_bush_warbler_3",
+      "width": 800,
+      "height": 635,
+      "format": "jpg",
+      "bytes": 45041,
+      "attribution": {
+        "photographer": "porag",
+        "photographer_url": "https://www.inaturalist.org/observations/1098131",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© porag (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1098131,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [
+    {
+      "original_file": "avibase_1_51065814593_df02114f8e_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340813/bird-gallery/spotted_bush_warbler/avibase/avibase_1_51065814593_df02114f8e_b.jpg",
+      "public_id": "bird-gallery/spotted_bush_warbler/avibase/avibase_1_51065814593_df02114f8e_b",
+      "width": 682,
+      "height": 1023,
+      "format": "jpg",
+      "bytes": 68211,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51065814593",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_51065815143_e1d92552fc_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340814/bird-gallery/spotted_bush_warbler/avibase/avibase_2_51065815143_e1d92552fc_b.jpg",
+      "public_id": "bird-gallery/spotted_bush_warbler/avibase/avibase_2_51065815143_e1d92552fc_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 76384,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "51065815143",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_5791763354_1a25af09fd_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340816/bird-gallery/spotted_bush_warbler/avibase/avibase_3_5791763354_1a25af09fd_b.jpg",
+      "public_id": "bird-gallery/spotted_bush_warbler/avibase/avibase_3_5791763354_1a25af09fd_b",
+      "width": 1024,
+      "height": 865,
+      "format": "jpg",
+      "bytes": 85296,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "5791763354",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

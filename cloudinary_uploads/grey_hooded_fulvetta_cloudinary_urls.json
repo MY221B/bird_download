@@ -126,5 +126,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "grey_hooded_fulvetta_639287207.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1780182497/bird-gallery/grey_hooded_fulvetta/sounds/grey_hooded_fulvetta_639287207.mp3",
+      "public_id": "bird-gallery/grey_hooded_fulvetta/sounds/grey_hooded_fulvetta_639287207",
+      "duration": 73.584,
+      "format": "mp3",
+      "bytes": 1783388,
+      "bit_rate": 193888,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "639287207",
+        "asset_url": "https://macaulaylibrary.org/asset/639287207",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

@@ -119,5 +119,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "tiger_shrike_73618.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1778679907/bird-gallery/tiger_shrike/sounds/tiger_shrike_73618.mp3",
+      "public_id": "bird-gallery/tiger_shrike/sounds/tiger_shrike_73618",
+      "duration": 98.976,
+      "format": "mp3",
+      "bytes": 1499468,
+      "bit_rate": 121198,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "73618",
+        "asset_url": "https://macaulaylibrary.org/asset/73618",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

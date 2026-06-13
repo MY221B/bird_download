@@ -1,0 +1,149 @@
+{
+  "bird_info": {
+    "slug": "western_hooded_pitta",
+    "chinese_name": "绿胸八色鸫",
+    "english_name": "Western Hooded Pitta",
+    "scientific_name": "Pitta sordida"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "western_hooded_pitta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679821/bird-gallery/western_hooded_pitta/inaturalist/western_hooded_pitta_1.jpg",
+      "public_id": "bird-gallery/western_hooded_pitta/inaturalist/western_hooded_pitta_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 60089,
+      "attribution": {
+        "photographer": "anton_zunio_subrata",
+        "photographer_url": "https://www.inaturalist.org/observations/340332810",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© anton_zunio_subrata (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 340332810,
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_hooded_pitta_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679822/bird-gallery/western_hooded_pitta/inaturalist/western_hooded_pitta_2.jpg",
+      "public_id": "bird-gallery/western_hooded_pitta/inaturalist/western_hooded_pitta_2",
+      "width": 680,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 117407,
+      "attribution": {
+        "photographer": "cclborneo",
+        "photographer_url": "https://www.inaturalist.org/observations/44992800",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cclborneo (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 44992800,
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_hooded_pitta_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679823/bird-gallery/western_hooded_pitta/inaturalist/western_hooded_pitta_3.jpg",
+      "public_id": "bird-gallery/western_hooded_pitta/inaturalist/western_hooded_pitta_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 77751,
+      "attribution": {
+        "photographer": "boasemmanuel",
+        "photographer_url": "https://www.inaturalist.org/observations/191660484",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© boasemmanuel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191660484,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "western_hooded_pitta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679824/bird-gallery/western_hooded_pitta/wikimedia/western_hooded_pitta_1.jpg",
+      "public_id": "bird-gallery/western_hooded_pitta/wikimedia/western_hooded_pitta_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 83738,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_5836168181_ac65c96b12_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340879/bird-gallery/western_hooded_pitta/avibase/avibase_1_5836168181_ac65c96b12_b.jpg",
+      "public_id": "bird-gallery/western_hooded_pitta/avibase/avibase_1_5836168181_ac65c96b12_b",
+      "width": 1024,
+      "height": 724,
+      "format": "jpg",
+      "bytes": 64136,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "5836168181",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_31019356704_ff48628c84_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340881/bird-gallery/western_hooded_pitta/avibase/avibase_2_31019356704_ff48628c84_b.jpg",
+      "public_id": "bird-gallery/western_hooded_pitta/avibase/avibase_2_31019356704_ff48628c84_b",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 76648,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "31019356704",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_48549313962_ffdb1022d6_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1781340882/bird-gallery/western_hooded_pitta/avibase/avibase_3_48549313962_ffdb1022d6_b.jpg",
+      "public_id": "bird-gallery/western_hooded_pitta/avibase/avibase_3_48549313962_ffdb1022d6_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50049,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "48549313962",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

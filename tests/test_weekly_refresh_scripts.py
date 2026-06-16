@@ -99,7 +99,7 @@ class WeeklyRefreshScriptTest(unittest.TestCase):
         self._write_executable(self.tools / "sync_from_lovable.sh", "exit 1\n")
         self._write_executable(
             self.tools / "sync_to_lovable.sh",
-            "echo synced > ../sync_to_lovable_ran\n",
+            "echo synced > sync_to_lovable_ran\n",
         )
         self._write_file(
             self.tools / "run_weekly_refresh.py",
@@ -193,7 +193,7 @@ class WeeklyRefreshScriptTest(unittest.TestCase):
 
     def _create_quiz_worktree(self):
         quiz_dir = self.repo / "feather-flash-quiz"
-        (quiz_dir / "scripts").mkdir(parents=True)
+        (quiz_dir / "scripts").mkdir(parents=True, exist_ok=True)
         self._write_file(quiz_dir / ".git", "gitdir: ../.git/modules/feather-flash-quiz\n")
         self._write_file(
             quiz_dir / "scripts" / "generate-location-birds-manifest.js",

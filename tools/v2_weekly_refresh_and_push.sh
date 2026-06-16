@@ -51,24 +51,31 @@ fi
 echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 
+commit_quiz_changes() {
+if [[ ! -d "${QUIZ_DIR}" || ( ! -f "${QUIZ_DIR}/.git" && ! -d "${QUIZ_DIR}/.git" ) ]]; then
+  echo "⚠️  feather-flash-quiz 未检出为独立 Git 工作树，跳过子模块提交"
+  return 0
+fi
+
 cd "${QUIZ_DIR}"
 
-# 在 Cloud Agent 环境中注入 token 到子模块 remote（本地无此环境变量时跳过）
+quiz_push_remote="origin"
+# 在 Cloud Agent 环境中用临时 push URL 注入 token，避免写入 remote.origin.url
 if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
-  git remote set-url origin "https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
-  echo "✅ feather-flash-quiz remote URL 已注入 token"
+  quiz_push_remote="https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
+  echo "✅ feather-flash-quiz 将使用临时 token URL 推送"
 fi
 
 node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
 if [[ -z "$(git status --porcelain)" ]]; then
   echo "✅ feather-flash-quiz 无新改动，跳过提交"
-  exit 0
+  return 0
 fi
 
 git add -A
 if git diff --cached --quiet; then
   echo "✅ feather-flash-quiz 无新改动"
-  exit 0
+  return 0
 fi
 
 # 检查 git 用户配置
@@ -118,9 +125,12 @@ if ! git pull --rebase origin "${current_branch}" 2>/dev/null; then
     exit 1
   fi
 fi
-git push --quiet origin main
-git push --quiet origin main:develop_lovable
+git push --quiet "${quiz_push_remote}" main
+git push --quiet "${quiz_push_remote}" main:develop_lovable
 echo "✅ feather-flash-quiz 已提交并推送"
+}
+
+commit_quiz_changes
 
 # 🔄 推送主仓库改动
 cd "${REPO_ROOT}"

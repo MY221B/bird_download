@@ -1,4 +1,10 @@
 {
+  "bird_info": {
+    "slug": "middendorffs_grasshopper_warbler",
+    "chinese_name": "北蝗莺",
+    "english_name": "Middendorff's Grasshopper Warbler",
+    "scientific_name": "Helopsaltes ochotensis"
+  },
   "macaulay": [],
   "inaturalist": [
     {
@@ -117,28 +123,6 @@
         "source": "avibase",
         "source_id": "443439162",
         "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
-  "sounds": [
-    {
-      "original_file": "middendorffs_grasshopper_warbler_601407641.mp3",
-      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1780182451/bird-gallery/middendorffs_grasshopper_warbler/sounds/middendorffs_grasshopper_warbler_601407641.mp3",
-      "public_id": "bird-gallery/middendorffs_grasshopper_warbler/sounds/middendorffs_grasshopper_warbler_601407641",
-      "duration": 317.832,
-      "format": "mp3",
-      "bytes": 4342964,
-      "bit_rate": 109314,
-      "audio_codec": "mp3",
-      "audio_frequency": 48000,
-      "attribution": {
-        "recordist": "Unknown",
-        "source": "macaulay",
-        "source_id": "601407641",
-        "asset_url": "https://macaulaylibrary.org/asset/601407641",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "note": null
       }
     }
   ]

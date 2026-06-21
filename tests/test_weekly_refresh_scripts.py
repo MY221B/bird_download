@@ -162,7 +162,7 @@ class WeeklyRefreshScriptTests(unittest.TestCase):
 
         result = self.run_refresh_script(repo, "v2_weekly_refresh_and_push.sh")
 
-        self.assertIn("skipping quiz", result.stdout)
+        self.assertIn("feather-flash-quiz", result.stdout)
         self.assert_main_refresh_committed_and_pushed(repo, origin, "v2_refresh_output.txt")
 
     def test_v2_restores_quiz_remote_when_token_was_injected(self):

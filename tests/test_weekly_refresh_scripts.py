@@ -160,7 +160,7 @@ class WeeklyRefreshScriptTests(unittest.TestCase):
 
                 result = run(["bash", f"tools/{script_name}"], repo, env=env)
 
-                self.assertIn("skipping", result.stdout)
+                self.assertRegex(result.stdout, r"(skipping quiz commit|跳过子仓库提交)")
                 self.assert_main_refresh_committed_and_pushed(repo)
 
     def test_v2_token_does_not_persist_to_quiz_remote_or_skip_main_push(self):

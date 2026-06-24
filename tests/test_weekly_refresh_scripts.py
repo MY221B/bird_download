@@ -161,7 +161,7 @@ class WeeklyRefreshScriptTests(unittest.TestCase):
         )
 
         remote = self.run_git(
-            ["remote", "get-url", "origin"],
+            ["config", "--get", "remote.origin.url"],
             workspace.quiz_dir,
         ).stdout.strip()
         self.assertEqual(remote, "https://github.com/MY221B/feather-flash-quiz.git")

@@ -65,7 +65,7 @@ cd "${QUIZ_DIR}"
 
 # Cloud Agent token 只用于本次 push URL，不能持久写入 remote.origin.url。
 if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
-  current_quiz_remote="$(git remote get-url origin 2>/dev/null || true)"
+  current_quiz_remote="$(git config --get remote.origin.url 2>/dev/null || true)"
   if [[ "${current_quiz_remote}" == https://x-access-token:*@github.com/MY221B/feather-flash-quiz.git ]]; then
     git remote set-url origin "${QUIZ_REMOTE_URL}"
   fi

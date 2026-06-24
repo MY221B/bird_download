@@ -110,7 +110,7 @@ else
         echo "  git config user.email \"your.email@example.com\""
         exit 1
       fi
-      
+
       # 如果全局有配置但本地没有，设置本地配置
       if [[ -n "$GIT_NAME" ]] && [[ -n "$GIT_EMAIL" ]]; then
         git config user.name "$GIT_NAME" 2>/dev/null || true

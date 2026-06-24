@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "rufous_vented_tit",
+    "chinese_name": "黑冠山雀",
+    "english_name": "Rufous-vented Tit",
+    "scientific_name": "Periparus rubidiventris"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "rufous_vented_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1782284900/bird-gallery/rufous_vented_tit/inaturalist/rufous_vented_tit_1.jpg",
+      "public_id": "bird-gallery/rufous_vented_tit/inaturalist/rufous_vented_tit_1",
+      "width": 1024,
+      "height": 687,
+      "format": "jpg",
+      "bytes": 183622,
+      "attribution": {
+        "photographer": "observe-syz",
+        "photographer_url": "https://www.inaturalist.org/observations/298679243",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© observe-syz (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 298679243,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_vented_tit_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1782284901/bird-gallery/rufous_vented_tit/inaturalist/rufous_vented_tit_2.jpg",
+      "public_id": "bird-gallery/rufous_vented_tit/inaturalist/rufous_vented_tit_2",
+      "width": 1024,
+      "height": 808,
+      "format": "jpg",
+      "bytes": 160324,
+      "attribution": {
+        "photographer": "fishingcatt",
+        "photographer_url": "https://www.inaturalist.org/observations/189560944",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© fishingcatt (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 189560944,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_vented_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1782284904/bird-gallery/rufous_vented_tit/inaturalist/rufous_vented_tit_3.jpg",
+      "public_id": "bird-gallery/rufous_vented_tit/inaturalist/rufous_vented_tit_3",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 99260,
+      "attribution": {
+        "photographer": "ed_shaw",
+        "photographer_url": "https://www.inaturalist.org/observations/69891376",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ed_shaw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69891376,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "rufous_vented_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1782284905/bird-gallery/rufous_vented_tit/wikimedia/rufous_vented_tit_1.jpg",
+      "public_id": "bird-gallery/rufous_vented_tit/wikimedia/rufous_vented_tit_1",
+      "width": 250,
+      "height": 167,
+      "format": "jpg",
+      "bytes": 6889,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

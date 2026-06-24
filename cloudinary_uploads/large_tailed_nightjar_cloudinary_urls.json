@@ -1,0 +1,149 @@
+{
+  "bird_info": {
+    "slug": "large_tailed_nightjar",
+    "chinese_name": "长尾夜鹰",
+    "english_name": "Large-tailed Nightjar",
+    "scientific_name": "Caprimulgus macrurus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "large_tailed_nightjar_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777509997/bird-gallery/large_tailed_nightjar/inaturalist/large_tailed_nightjar_1.jpg",
+      "public_id": "bird-gallery/large_tailed_nightjar/inaturalist/large_tailed_nightjar_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75099,
+      "attribution": {
+        "photographer": "thuzar",
+        "photographer_url": "https://www.inaturalist.org/observations/197301997",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© thuzar (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 197301997,
+        "note": null
+      }
+    },
+    {
+      "original_file": "large_tailed_nightjar_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777509998/bird-gallery/large_tailed_nightjar/inaturalist/large_tailed_nightjar_2.jpg",
+      "public_id": "bird-gallery/large_tailed_nightjar/inaturalist/large_tailed_nightjar_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90574,
+      "attribution": {
+        "photographer": "dhruvapunde",
+        "photographer_url": "https://www.inaturalist.org/observations/346556751",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 346556751,
+        "note": null
+      }
+    },
+    {
+      "original_file": "large_tailed_nightjar_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777509999/bird-gallery/large_tailed_nightjar/inaturalist/large_tailed_nightjar_3.jpg",
+      "public_id": "bird-gallery/large_tailed_nightjar/inaturalist/large_tailed_nightjar_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 352681,
+      "attribution": {
+        "photographer": "ramil4",
+        "photographer_url": "https://www.inaturalist.org/observations/110827707",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ramil4 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 110827707,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "large_tailed_nightjar_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777510000/bird-gallery/large_tailed_nightjar/wikimedia/large_tailed_nightjar_1.jpg",
+      "public_id": "bird-gallery/large_tailed_nightjar/wikimedia/large_tailed_nightjar_1",
+      "width": 250,
+      "height": 185,
+      "format": "jpg",
+      "bytes": 22717,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [
+    {
+      "original_file": "avibase_1_16705804807_c4fd0efc8a_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1782284892/bird-gallery/large_tailed_nightjar/avibase/avibase_1_16705804807_c4fd0efc8a_b.jpg",
+      "public_id": "bird-gallery/large_tailed_nightjar/avibase/avibase_1_16705804807_c4fd0efc8a_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 91163,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "16705804807",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_2_49115221206_45e30984ae_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1782284893/bird-gallery/large_tailed_nightjar/avibase/avibase_2_49115221206_45e30984ae_b.jpg",
+      "public_id": "bird-gallery/large_tailed_nightjar/avibase/avibase_2_49115221206_45e30984ae_b",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 150873,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "49115221206",
+        "note": "署名信息需从Flickr获取"
+      }
+    },
+    {
+      "original_file": "avibase_3_14941767463_76dd8855f0_b.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1782284896/bird-gallery/large_tailed_nightjar/avibase/avibase_3_14941767463_76dd8855f0_b.jpg",
+      "public_id": "bird-gallery/large_tailed_nightjar/avibase/avibase_3_14941767463_76dd8855f0_b",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 101757,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "avibase",
+        "source_id": "14941767463",
+        "note": "署名信息需从Flickr获取"
+      }
+    }
+  ]
+}

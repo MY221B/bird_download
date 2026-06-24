@@ -83,11 +83,11 @@ else
     # 检查 git 用户配置
     if ! git config user.name > /dev/null 2>&1 || ! git config user.email > /dev/null 2>&1; then
       echo "⚠️  Git 用户信息未配置，正在检查配置..."
-      
+
       # 尝试从全局配置读取
       GIT_NAME=$(git config --global user.name 2>/dev/null || echo "")
       GIT_EMAIL=$(git config --global user.email 2>/dev/null || echo "")
-      
+
       # 如果全局配置也没有，尝试从本地仓库配置读取
       if [[ -z "$GIT_NAME" ]]; then
         GIT_NAME=$(git config user.name 2>/dev/null || echo "")
@@ -95,7 +95,7 @@ else
       if [[ -z "$GIT_EMAIL" ]]; then
         GIT_EMAIL=$(git config user.email 2>/dev/null || echo "")
       fi
-      
+
       # 如果还是没有配置，给出提示
       if [[ -z "$GIT_NAME" ]] || [[ -z "$GIT_EMAIL" ]]; then
         echo "❌ Git 用户信息未配置，无法提交代码"

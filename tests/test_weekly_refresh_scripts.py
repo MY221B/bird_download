@@ -41,7 +41,7 @@ class WeeklyRefreshScriptTests(unittest.TestCase):
 
             self._write_fake_python(bin_dir / "python3")
             self._write_fake_node(bin_dir / "node")
-            self._write_fake_git(bin_dir / "git")
+            self._write_fake_git(bin_dir / "git", root, quiz_dir)
 
             command_log = root / "commands.log"
             env = os.environ.copy()
@@ -113,14 +113,20 @@ class WeeklyRefreshScriptTests(unittest.TestCase):
         path.chmod(0o755)
 
     @staticmethod
-    def _write_fake_git(path):
+    def _write_fake_git(path, root, quiz_dir):
         path.write_text(
             textwrap.dedent(
-                """\
+                f"""\
                 #!/usr/bin/env bash
                 printf '%s|%s\\n' "$PWD" "$*" >> "$COMMAND_LOG"
 
                 if [[ "$1" == "status" ]]; then
+                  if [[ "$2" == "--porcelain" && "$PWD" == "{root}" ]]; then
+                    printf 'M main_repo_generated.txt\\n'
+                  fi
+                  if [[ "$2" == "--porcelain" && "$PWD" == "{quiz_dir}" ]]; then
+                    exit 0
+                  fi
                   exit 0
                 fi
                 if [[ "$1" == "diff" && "$2" == "--cached" && "$3" == "--numstat" ]]; then

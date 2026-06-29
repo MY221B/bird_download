@@ -4,6 +4,7 @@ import io
 import json
 import sys
 import tempfile
+import types
 import unittest
 from pathlib import Path
 from types import SimpleNamespace
@@ -14,6 +15,12 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 TOOLS_DIR = PROJECT_ROOT / "tools"
 if str(TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(TOOLS_DIR))
+
+cloudinary_stub = types.ModuleType("cloudinary")
+cloudinary_uploader_stub = types.ModuleType("cloudinary.uploader")
+cloudinary_stub.uploader = cloudinary_uploader_stub
+sys.modules.setdefault("cloudinary", cloudinary_stub)
+sys.modules.setdefault("cloudinary.uploader", cloudinary_uploader_stub)
 
 import location_utils
 import run_weekly_refresh

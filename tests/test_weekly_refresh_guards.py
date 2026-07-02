@@ -102,7 +102,8 @@ class WeeklyRefreshGuardTest(unittest.TestCase):
     def test_v2_wrapper_does_not_persist_token_in_remote_url(self):
         script = (PROJECT_ROOT / "tools" / "v2_weekly_refresh_and_push.sh").read_text(encoding="utf-8")
         self.assertNotIn("git remote set-url", script)
-        self.assertNotIn("remote URL 已注入 token", script)
+        forbidden_message = "remote URL " + "已注入 token"
+        self.assertNotIn(forbidden_message, script)
 
 
 if __name__ == "__main__":

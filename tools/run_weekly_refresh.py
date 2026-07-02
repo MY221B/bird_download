@@ -419,11 +419,18 @@ def main():
         species_count = len(records)
         print(f"📊 {loc_name} 去重鸟种: {species_count}")
 
-        # 如果数量少于阈值，给出警告但继续处理
         if species_count < max(1, args.min_species):
             print(
-                f"⚠️  警告：少于 {args.min_species} 种（当前 {species_count} 种），但仍会继续处理"
+                f"⚠️  少于 {args.min_species} 种（当前 {species_count} 种），跳过该地点以保留上次报告"
             )
+            summary.append(
+                {
+                    "location": loc_name,
+                    "status": "已跳过",
+                    "details": f"{species_count} 种，少于 {args.min_species} 种阈值",
+                }
+            )
+            continue
 
         slug_info = write_csv_from_records(records, csv_file)
 
@@ -499,15 +506,10 @@ def main():
             if not has_images:
                 final_missing_local.append(slug)
         
-        # 确定状态：如果数量少于阈值，标记为"已更新（数量较少）"
-        status = "已更新"
-        if species_count < max(1, args.min_species):
-            status = f"已更新（{species_count}种，少于{args.min_species}种阈值）"
-        
         summary.append(
             {
                 "location": loc_name,
-                "status": status,
+                "status": "已更新",
                 "details": f"{species_count} 种 -> 复制 {copied} JSON 至 {dest_dir}",
                 "downloads": format_slug_list(downloads_for_log, slug_info),
                 "downloads_raw": downloads_for_log,  # 保存原始 slug 列表

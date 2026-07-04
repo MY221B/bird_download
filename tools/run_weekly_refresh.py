@@ -22,6 +22,7 @@ LOCATION_BIRDS_DIR = PROJECT_ROOT / "feather-flash-quiz" / "location_birds"
 TMP_BASE = PROJECT_ROOT / "tmp" / "weekly_refresh"
 MIN_SPECIES_DEFAULT = 10
 MAX_RETRIES = 2
+PHOTO_SOURCES = ["macaulay", "inaturalist", "wikimedia", "avibase"]
 
 sys.path.insert(0, str(PROJECT_ROOT / "tools"))
 from location_utils import get_location_birds_path
@@ -349,19 +350,39 @@ def read_slugs_from_csv(csv_file):
     return slugs
 
 
+def cloudinary_json_has_photos(slug):
+    json_file = PROJECT_ROOT / "cloudinary_uploads" / f"{slug}_cloudinary_urls.json"
+    if not json_file.exists():
+        return False
+    try:
+        with open(json_file, "r", encoding="utf-8") as fp:
+            data = json.load(fp)
+    except Exception:
+        return False
+    return any(
+        isinstance(data.get(source), list) and len(data.get(source, [])) > 0
+        for source in PHOTO_SOURCES
+    )
+
+
+def find_unpublishable_cloudinary_slugs(slugs):
+    return [slug for slug in slugs if not cloudinary_json_has_photos(slug)]
+
+
 def copy_json_to_location(slugs, location_name, report_code):
+    missing = find_unpublishable_cloudinary_slugs(slugs)
+    if missing:
+        raise RuntimeError(
+            "缺少可发布的 Cloudinary JSON: " + ", ".join(missing)
+        )
     # 使用新的文件夹结构：城市/地点/日期
     dest_dir = get_location_birds_path(location_name, report_code)
     dest_dir.mkdir(parents=True, exist_ok=True)
     copied = 0
-    missing = []
     for slug in slugs:
         src = PROJECT_ROOT / "cloudinary_uploads" / f"{slug}_cloudinary_urls.json"
-        if src.exists():
-            shutil.copy2(src, dest_dir / src.name)
-            copied += 1
-        else:
-            missing.append(slug)
+        shutil.copy2(src, dest_dir / src.name)
+        copied += 1
 
     # 清理旧日期文件夹，只保留当前 report_code（永不删除 000000 静态数据集）
     location_dir = dest_dir.parent
@@ -419,11 +440,20 @@ def main():
         species_count = len(records)
         print(f"📊 {loc_name} 去重鸟种: {species_count}")
 
-        # 如果数量少于阈值，给出警告但继续处理
-        if species_count < max(1, args.min_species):
+        min_species = max(1, args.min_species)
+        if species_count < min_species:
             print(
-                f"⚠️  警告：少于 {args.min_species} 种（当前 {species_count} 种），但仍会继续处理"
+                f"⚠️  跳过更新：少于 {min_species} 种（当前 {species_count} 种），"
+                "保留既有 location_birds 快照"
             )
+            summary.append(
+                {
+                    "location": loc_name,
+                    "status": "跳过更新（鸟种过少）",
+                    "details": f"{species_count} 种，低于 {min_species} 种阈值",
+                }
+            )
+            continue
 
         slug_info = write_csv_from_records(records, csv_file)
 
@@ -469,6 +499,28 @@ def main():
 
         slugs = read_slugs_from_csv(csv_file)
         report_code = end_date.strftime("%y%m%d")
+        unpublishable_slugs = find_unpublishable_cloudinary_slugs(slugs)
+        if unpublishable_slugs:
+            print(
+                "⚠️  跳过更新：以下鸟类缺少可发布的 Cloudinary 图片 JSON，"
+                "保留既有 location_birds 快照: "
+                + ", ".join(unpublishable_slugs)
+            )
+            summary.append(
+                {
+                    "location": loc_name,
+                    "status": "跳过更新（缺少 Cloudinary JSON）",
+                    "details": f"{species_count} 种",
+                    "downloads": format_slug_list(downloads_for_log, slug_info),
+                    "downloads_raw": downloads_for_log,
+                    "missing_local": [],
+                    "missing_json": format_slug_list(unpublishable_slugs, slug_info),
+                    "sounds_success": 0,
+                    "sounds_failed": 0,
+                    "sounds_failed_details": [],
+                }
+            )
+            continue
         
         # 下载和上传鸟叫声
         success_sounds, failed_sounds = download_and_upload_sounds(slugs, location_dir)
@@ -499,10 +551,7 @@ def main():
             if not has_images:
                 final_missing_local.append(slug)
         
-        # 确定状态：如果数量少于阈值，标记为"已更新（数量较少）"
         status = "已更新"
-        if species_count < max(1, args.min_species):
-            status = f"已更新（{species_count}种，少于{args.min_species}种阈值）"
         
         summary.append(
             {

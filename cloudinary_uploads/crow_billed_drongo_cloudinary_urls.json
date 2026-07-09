@@ -8,25 +8,6 @@
   "macaulay": [],
   "inaturalist": [
     {
-      "original_file": "crow_billed_drongo_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594522/bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_1.jpg",
-      "public_id": "bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_1",
-      "width": 576,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 80429,
-      "attribution": {
-        "photographer": "g33k5p34k",
-        "photographer_url": "https://www.inaturalist.org/observations/9274030",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© g33k5p34k (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 9274030,
-        "note": null
-      }
-    },
-    {
       "original_file": "crow_billed_drongo_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594524/bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_2.jpg",
       "public_id": "bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_2",
@@ -42,25 +23,6 @@
         "credit_format": "© mike_hooper (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
         "source_id": 141787585,
-        "note": null
-      }
-    },
-    {
-      "original_file": "crow_billed_drongo_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594526/bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_3.jpg",
-      "public_id": "bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_3",
-      "width": 1024,
-      "height": 684,
-      "format": "jpg",
-      "bytes": 75985,
-      "attribution": {
-        "photographer": "eugenol78",
-        "photographer_url": "https://www.inaturalist.org/observations/195469262",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© eugenol78 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 195469262,
         "note": null
       }
     }

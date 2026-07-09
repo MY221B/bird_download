@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "striated_prinia",
+    "chinese_name": "山鹪莺",
+    "english_name": "Striated Prinia",
+    "scientific_name": "Prinia striata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "striated_prinia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679812/bird-gallery/striated_prinia/inaturalist/striated_prinia_1.jpg",
+      "public_id": "bird-gallery/striated_prinia/inaturalist/striated_prinia_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57018,
+      "attribution": {
+        "photographer": "redpandacat",
+        "photographer_url": "https://www.inaturalist.org/observations/271145991",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© redpandacat (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 271145991,
+        "note": null
+      }
+    },
+    {
+      "original_file": "striated_prinia_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679812/bird-gallery/striated_prinia/inaturalist/striated_prinia_2.jpg",
+      "public_id": "bird-gallery/striated_prinia/inaturalist/striated_prinia_2",
+      "width": 1024,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 44269,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/34161661",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 34161661,
+        "note": null
+      }
+    },
+    {
+      "original_file": "striated_prinia_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679814/bird-gallery/striated_prinia/inaturalist/striated_prinia_3.jpg",
+      "public_id": "bird-gallery/striated_prinia/inaturalist/striated_prinia_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64650,
+      "attribution": {
+        "photographer": "ccliming",
+        "photographer_url": "https://www.inaturalist.org/observations/323654960",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© ccliming (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 323654960,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "striated_prinia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778679814/bird-gallery/striated_prinia/wikimedia/striated_prinia_1.jpg",
+      "public_id": "bird-gallery/striated_prinia/wikimedia/striated_prinia_1",
+      "width": 960,
+      "height": 1575,
+      "format": "jpg",
+      "bytes": 139271,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

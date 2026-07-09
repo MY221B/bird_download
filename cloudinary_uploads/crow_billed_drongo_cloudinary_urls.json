@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "crow_billed_drongo",
+    "chinese_name": "鸦嘴卷尾",
+    "english_name": "Crow-billed Drongo",
+    "scientific_name": "Dicrurus annectens"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "crow_billed_drongo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594522/bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_1.jpg",
+      "public_id": "bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_1",
+      "width": 576,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 80429,
+      "attribution": {
+        "photographer": "g33k5p34k",
+        "photographer_url": "https://www.inaturalist.org/observations/9274030",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© g33k5p34k (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9274030,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crow_billed_drongo_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594524/bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_2.jpg",
+      "public_id": "bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59881,
+      "attribution": {
+        "photographer": "mike_hooper",
+        "photographer_url": "https://www.inaturalist.org/observations/141787585",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mike_hooper (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 141787585,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crow_billed_drongo_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594526/bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_3.jpg",
+      "public_id": "bird-gallery/crow_billed_drongo/inaturalist/crow_billed_drongo_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 75985,
+      "attribution": {
+        "photographer": "eugenol78",
+        "photographer_url": "https://www.inaturalist.org/observations/195469262",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© eugenol78 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 195469262,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "crow_billed_drongo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594527/bird-gallery/crow_billed_drongo/wikimedia/crow_billed_drongo_1.jpg",
+      "public_id": "bird-gallery/crow_billed_drongo/wikimedia/crow_billed_drongo_1",
+      "width": 250,
+      "height": 313,
+      "format": "jpg",
+      "bytes": 12545,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

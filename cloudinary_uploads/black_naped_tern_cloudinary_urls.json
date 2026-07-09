@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "black_naped_tern",
+    "chinese_name": "黑枕燕鸥",
+    "english_name": "Black-naped Tern",
+    "scientific_name": "Sterna sumatrana"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_naped_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594504/bird-gallery/black_naped_tern/inaturalist/black_naped_tern_1.jpg",
+      "public_id": "bird-gallery/black_naped_tern/inaturalist/black_naped_tern_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 85492,
+      "attribution": {
+        "photographer": "haydenpye",
+        "photographer_url": "https://www.inaturalist.org/observations/106763463",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© haydenpye (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106763463,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_naped_tern_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594506/bird-gallery/black_naped_tern/inaturalist/black_naped_tern_2.jpg",
+      "public_id": "bird-gallery/black_naped_tern/inaturalist/black_naped_tern_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69536,
+      "attribution": {
+        "photographer": "fadzrun",
+        "photographer_url": "https://www.inaturalist.org/observations/223342327",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fadzrun (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 223342327,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_naped_tern_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594508/bird-gallery/black_naped_tern/inaturalist/black_naped_tern_3.jpg",
+      "public_id": "bird-gallery/black_naped_tern/inaturalist/black_naped_tern_3",
+      "width": 684,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 36049,
+      "attribution": {
+        "photographer": "melianie_max_and_asker",
+        "photographer_url": "https://www.inaturalist.org/observations/6615746",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© melianie_max_and_asker (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 6615746,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "black_naped_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1783594509/bird-gallery/black_naped_tern/wikimedia/black_naped_tern_1.jpg",
+      "public_id": "bird-gallery/black_naped_tern/wikimedia/black_naped_tern_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 68993,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

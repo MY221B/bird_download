@@ -1,0 +1,149 @@
+{
+  "bird_info": {
+    "slug": "roseate_tern",
+    "chinese_name": "粉红燕鸥",
+    "english_name": "Roseate Tern",
+    "scientific_name": "Sterna dougallii"
+  },
+  "macaulay": [
+    {
+      "original_file": "roseate_tern_162888331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193188/bird-gallery/roseate_tern/macaulay/roseate_tern_162888331.jpg",
+      "public_id": "bird-gallery/roseate_tern/macaulay/roseate_tern_162888331",
+      "width": 1200,
+      "height": 816,
+      "format": "jpg",
+      "bytes": 56494,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/162888331",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "162888331",
+        "note": null
+      }
+    },
+    {
+      "original_file": "roseate_tern_592227101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193192/bird-gallery/roseate_tern/macaulay/roseate_tern_592227101.jpg",
+      "public_id": "bird-gallery/roseate_tern/macaulay/roseate_tern_592227101",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 43847,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/592227101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "592227101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "roseate_tern_621935598.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193195/bird-gallery/roseate_tern/macaulay/roseate_tern_621935598.jpg",
+      "public_id": "bird-gallery/roseate_tern/macaulay/roseate_tern_621935598",
+      "width": 1200,
+      "height": 713,
+      "format": "jpg",
+      "bytes": 34982,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621935598",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621935598",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "roseate_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193199/bird-gallery/roseate_tern/inaturalist/roseate_tern_1.jpg",
+      "public_id": "bird-gallery/roseate_tern/inaturalist/roseate_tern_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 41650,
+      "attribution": {
+        "photographer": "samzhang",
+        "photographer_url": "https://www.inaturalist.org/observations/79719208",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© samzhang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 79719208,
+        "note": null
+      }
+    },
+    {
+      "original_file": "roseate_tern_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193201/bird-gallery/roseate_tern/inaturalist/roseate_tern_2.jpg",
+      "public_id": "bird-gallery/roseate_tern/inaturalist/roseate_tern_2",
+      "width": 897,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 60803,
+      "attribution": {
+        "photographer": "basquebird",
+        "photographer_url": "https://www.inaturalist.org/observations/8624283",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© basquebird (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 8624283,
+        "note": null
+      }
+    },
+    {
+      "original_file": "roseate_tern_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193203/bird-gallery/roseate_tern/inaturalist/roseate_tern_3.jpg",
+      "public_id": "bird-gallery/roseate_tern/inaturalist/roseate_tern_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 40204,
+      "attribution": {
+        "photographer": "mattyfelp",
+        "photographer_url": "https://www.inaturalist.org/observations/170198881",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© mattyfelp (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 170198881,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "roseate_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193205/bird-gallery/roseate_tern/wikimedia/roseate_tern_1.jpg",
+      "public_id": "bird-gallery/roseate_tern/wikimedia/roseate_tern_1",
+      "width": 1280,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 278376,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

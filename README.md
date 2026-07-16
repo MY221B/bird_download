@@ -73,10 +73,18 @@ open examples/gallery_all_cloudinary.html
 
 ```bash
 export EBIRD_TOKEN=your_token
+
+# 首次使用 Macaulay 时安装浏览器并建立持久会话
+python3 -m pip install -r requirements.txt
+python3 -m playwright install chromium
+python3 tools/macaulay_browser.py setup
+
 ./tools/fetch_four_sources.sh bluetail "Red-flanked Bluetail" "Tarsiger cyanurus"
 python3 tools/upload_to_cloudinary.py bluetail
 python3 tools/update_gallery_from_cloudinary.py
 ```
+
+Macaulay 搜索使用 `.browser_profiles/macaulay` 中的持久 Chromium 会话。该目录只存在本机且已被 Git 忽略。查询时会短暂打开一个可见浏览器窗口，让站点正常完成验证。如果日志提示会话失效，重新运行 `python3 tools/macaulay_browser.py setup`。批量下载时，Macaulay 查询会自动串行复用同一会话，其他来源仍可并行处理。会话或网络失败不会清空已有 Macaulay 元数据。
 
 ### 方式 4：批量/定时刷新（多地点）
 

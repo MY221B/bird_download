@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "bulwers_petrel",
+    "chinese_name": "褐燕鹱",
+    "english_name": "Bulwer's Petrel",
+    "scientific_name": "Bulweria bulwerii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "bulwers_petrel_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193156/bird-gallery/bulwers_petrel/inaturalist/bulwers_petrel_1.jpg",
+      "public_id": "bird-gallery/bulwers_petrel/inaturalist/bulwers_petrel_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 103445,
+      "attribution": {
+        "photographer": "david_barros_cardona",
+        "photographer_url": "https://www.inaturalist.org/observations/252032132",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© david_barros_cardona (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 252032132,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bulwers_petrel_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193158/bird-gallery/bulwers_petrel/inaturalist/bulwers_petrel_2.jpg",
+      "public_id": "bird-gallery/bulwers_petrel/inaturalist/bulwers_petrel_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 43948,
+      "attribution": {
+        "photographer": "mjsf",
+        "photographer_url": "https://www.inaturalist.org/observations/96405616",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mjsf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 96405616,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bulwers_petrel_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193159/bird-gallery/bulwers_petrel/inaturalist/bulwers_petrel_3.jpg",
+      "public_id": "bird-gallery/bulwers_petrel/inaturalist/bulwers_petrel_3",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 40704,
+      "attribution": {
+        "photographer": "paulbowyer",
+        "photographer_url": "https://www.inaturalist.org/observations/36220074",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paulbowyer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36220074,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "bulwers_petrel_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193161/bird-gallery/bulwers_petrel/wikimedia/bulwers_petrel_1.jpg",
+      "public_id": "bird-gallery/bulwers_petrel/wikimedia/bulwers_petrel_1",
+      "width": 1280,
+      "height": 1026,
+      "format": "jpg",
+      "bytes": 128292,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

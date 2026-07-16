@@ -1,6 +1,9 @@
 config/ebird_token.sh
 .cloudinary_secrets
 
+# Macaulay 持久浏览器会话（包含本机验证状态，禁止提交）
+.browser_profiles/
+
 # 图片文件不上传到 GitHub（太大了）
 images/
 

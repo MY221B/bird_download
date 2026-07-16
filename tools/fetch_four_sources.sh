@@ -198,9 +198,6 @@ download_macaulay() {
 if should_download "macaulay"; then
 echo "📥 [1/4] Macaulay Library"
 
-# Macaulay 搜索 API 对简陋 UA 常返回空或非 JSON；使用常见浏览器标识
-MACAULAY_UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-
 # 直接使用 eBird code 作为 Macaulay taxonCode（无需 API 搜索学名/英文名）
 ML_CODE=""
 if [ -n "$EBIRD_CODE" ]; then
@@ -208,50 +205,27 @@ if [ -n "$EBIRD_CODE" ]; then
   echo "  [日志] 使用 eBird speciesCode: $ML_CODE"
 fi
 
-# 如果未取到 eBird code，尝试从 Macaulay suggest API 获取
 if [ -z "$ML_CODE" ]; then
-  echo "  [日志] eBird 未返回 code，尝试从 Macaulay suggest API 获取…"
-  
-  # 先尝试学名
-  SUGGEST_RESP=$(curl -s -H "Accept: application/json" -H "User-Agent: $MACAULAY_UA" -H "Referer: https://search.macaulaylibrary.org/" \
-    "https://search.macaulaylibrary.org/api/v1/suggest?q=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$SCI_NAME" 2>/dev/null || echo "$SCI_NAME")" || echo "")
-  
-  if [ -n "$SUGGEST_RESP" ]; then
-    ML_CODE=$(echo "$SUGGEST_RESP" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d[0].get("code","") if isinstance(d,list) and d else "")' 2>/dev/null || echo "")
-  fi
-  
-  # 如果学名没找到，尝试英文名
-  if [ -z "$ML_CODE" ]; then
-    echo "  [日志] 学名未命中，改用英文名…"
-    SUGGEST_RESP=$(curl -s -H "Accept: application/json" -H "User-Agent: $MACAULAY_UA" -H "Referer: https://search.macaulaylibrary.org/" \
-      "https://search.macaulaylibrary.org/api/v1/suggest?q=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$EN_NAME" 2>/dev/null || echo "$EN_NAME")" || echo "")
-    
-    if [ -n "$SUGGEST_RESP" ]; then
-      ML_CODE=$(echo "$SUGGEST_RESP" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d[0].get("code","") if isinstance(d,list) and d else "")' 2>/dev/null || echo "")
-    fi
-  fi
-fi
-
-if [ -z "$ML_CODE" ]; then
-  echo "  ❌ 未通过 eBird/Macaulay API 获取到 speciesCode（学名：$SCI_NAME，英文名：$EN_NAME）"
-  echo "  提示：该物种可能不在 eBird/Macaulay 数据库中，跳过 Macaulay 下载"
+  echo "  ❌ 未通过 eBird taxonomy 获取到 speciesCode（学名：$SCI_NAME，英文名：$EN_NAME）"
+  echo "  提示：跳过 Macaulay，不会清空已有数据"
   ASSETS=""
+  MACAULAY_SEARCH_OK=0
 else
-  echo "  [日志] 使用 taxonCode=$ML_CODE 查询照片…"
-  RESPONSE=$(curl -s -H "Accept: application/json" -H "User-Agent: $MACAULAY_UA" -H "Referer: https://search.macaulaylibrary.org/" \
-    "https://search.macaulaylibrary.org/api/v1/search?taxonCode=${ML_CODE}&mediaType=p&sort=rating_rank_desc&count=20")
-  ASSETS=$(echo "$RESPONSE" | python3 -c 'import sys, json
-raw = sys.stdin.read()
-try:
-    d = json.loads(raw)
-except json.JSONDecodeError:
-    print("  [日志] Macaulay search 返回非 JSON（可能被拦截或网络异常），跳过 asset 列表解析", file=sys.stderr)
-    sys.exit(0)
-for a in (d.get("results",{}) or {}).get("content",[]) or []:
-    aid = a.get("assetId") or a.get("catalogId")
-    if aid:
-        print(aid)
-')
+  echo "  [日志] 使用持久浏览器会话查询 taxonCode=$ML_CODE …"
+  MACAULAY_BROWSER_HELPER="${MACAULAY_BROWSER_HELPER:-tools/macaulay_browser.py}"
+  ASSET_ERR=$(mktemp -t macaulay_browser.XXXXXX)
+  ASSETS=$(python3 "$MACAULAY_BROWSER_HELPER" search --taxon-code "$ML_CODE" --count 20 2>"$ASSET_ERR")
+  MACAULAY_BROWSER_STATUS=$?
+  if [ "$MACAULAY_BROWSER_STATUS" -ne 0 ]; then
+    sed 's/^/  /' "$ASSET_ERR" >&2
+    echo "  ⚠️  Macaulay 浏览器查询不可用，本轮保留已有图片和元数据"
+    echo "  提示：python3 tools/macaulay_browser.py setup"
+    ASSETS=""
+    MACAULAY_SEARCH_OK=0
+  else
+    MACAULAY_SEARCH_OK=1
+  fi
+  rm -f "$ASSET_ERR"
 fi
 COUNT=0
 MACAULAY_META="[]"
@@ -284,8 +258,13 @@ for ASSET_ID in $ASSETS; do
   fi
 done
 
-# 保存 Macaulay 元数据
-python3 -c "import sys,json; data=json.load(open('$METADATA_FILE')); data['macaulay']=json.loads('$MACAULAY_META'); json.dump(data, open('$METADATA_FILE','w'), indent=2)"
+# 只有搜索成功且至少得到一张有效图片时才替换元数据。
+# 会话失效、反爬验证或网络故障都不得清空旧数据。
+if [ "${MACAULAY_SEARCH_OK:-0}" -eq 1 ] && [ "$COUNT" -gt 0 ]; then
+  python3 -c "import sys,json; data=json.load(open('$METADATA_FILE')); data['macaulay']=json.loads('$MACAULAY_META'); json.dump(data, open('$METADATA_FILE','w'), indent=2)"
+elif [ "${MACAULAY_SEARCH_OK:-0}" -eq 1 ]; then
+  echo "  ⚠️  Macaulay 未下载到有效图片，保留已有元数据"
+fi
 
 echo "  [日志] Macaulay 最终下载数量: $COUNT"
 
@@ -507,5 +486,4 @@ download_avibase
 
 echo ""
 echo "完成: $SLUG"
-
 

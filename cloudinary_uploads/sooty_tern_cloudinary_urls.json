@@ -1,0 +1,149 @@
+{
+  "bird_info": {
+    "slug": "sooty_tern",
+    "chinese_name": "乌燕鸥",
+    "english_name": "Sooty Tern",
+    "scientific_name": "Onychoprion fuscatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "sooty_tern_329911131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193288/bird-gallery/sooty_tern/macaulay/sooty_tern_329911131.jpg",
+      "public_id": "bird-gallery/sooty_tern/macaulay/sooty_tern_329911131",
+      "width": 1200,
+      "height": 849,
+      "format": "jpg",
+      "bytes": 132889,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/329911131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "329911131",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_tern_365843241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193291/bird-gallery/sooty_tern/macaulay/sooty_tern_365843241.jpg",
+      "public_id": "bird-gallery/sooty_tern/macaulay/sooty_tern_365843241",
+      "width": 1200,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 57584,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/365843241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "365843241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_tern_475375101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193293/bird-gallery/sooty_tern/macaulay/sooty_tern_475375101.jpg",
+      "public_id": "bird-gallery/sooty_tern/macaulay/sooty_tern_475375101",
+      "width": 1200,
+      "height": 832,
+      "format": "jpg",
+      "bytes": 105683,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/475375101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "475375101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sooty_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193297/bird-gallery/sooty_tern/inaturalist/sooty_tern_1.jpg",
+      "public_id": "bird-gallery/sooty_tern/inaturalist/sooty_tern_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49614,
+      "attribution": {
+        "photographer": "titouan_roguet",
+        "photographer_url": "https://www.inaturalist.org/observations/177342025",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© titouan_roguet (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 177342025,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_tern_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193298/bird-gallery/sooty_tern/inaturalist/sooty_tern_2.jpg",
+      "public_id": "bird-gallery/sooty_tern/inaturalist/sooty_tern_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 101085,
+      "attribution": {
+        "photographer": "tluisaw",
+        "photographer_url": "https://www.inaturalist.org/observations/279880335",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tluisaw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 279880335,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_tern_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193301/bird-gallery/sooty_tern/inaturalist/sooty_tern_3.jpg",
+      "public_id": "bird-gallery/sooty_tern/inaturalist/sooty_tern_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 33346,
+      "attribution": {
+        "photographer": "liliumtbn",
+        "photographer_url": "https://www.inaturalist.org/observations/55542457",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© liliumtbn (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 55542457,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "sooty_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193302/bird-gallery/sooty_tern/wikimedia/sooty_tern_1.jpg",
+      "public_id": "bird-gallery/sooty_tern/wikimedia/sooty_tern_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 65998,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

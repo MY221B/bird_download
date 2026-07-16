@@ -1,0 +1,149 @@
+{
+  "bird_info": {
+    "slug": "bridled_tern",
+    "chinese_name": "褐翅燕鸥",
+    "english_name": "Bridled Tern",
+    "scientific_name": "Onychoprion anaethetus"
+  },
+  "macaulay": [
+    {
+      "original_file": "bridled_tern_163184791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193209/bird-gallery/bridled_tern/macaulay/bridled_tern_163184791.jpg",
+      "public_id": "bird-gallery/bridled_tern/macaulay/bridled_tern_163184791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88273,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/163184791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "163184791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bridled_tern_465298161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193215/bird-gallery/bridled_tern/macaulay/bridled_tern_465298161.jpg",
+      "public_id": "bird-gallery/bridled_tern/macaulay/bridled_tern_465298161",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65356,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/465298161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "465298161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bridled_tern_465332031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193217/bird-gallery/bridled_tern/macaulay/bridled_tern_465332031.jpg",
+      "public_id": "bird-gallery/bridled_tern/macaulay/bridled_tern_465332031",
+      "width": 1200,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 55781,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/465332031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "465332031",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bridled_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193221/bird-gallery/bridled_tern/inaturalist/bridled_tern_1.jpg",
+      "public_id": "bird-gallery/bridled_tern/inaturalist/bridled_tern_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 124006,
+      "attribution": {
+        "photographer": "caymanmatt",
+        "photographer_url": "https://www.inaturalist.org/observations/83651638",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© caymanmatt (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 83651638,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bridled_tern_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193223/bird-gallery/bridled_tern/inaturalist/bridled_tern_2.jpg",
+      "public_id": "bird-gallery/bridled_tern/inaturalist/bridled_tern_2",
+      "width": 1024,
+      "height": 846,
+      "format": "jpg",
+      "bytes": 39009,
+      "attribution": {
+        "photographer": "nicofury",
+        "photographer_url": "https://www.inaturalist.org/observations/187436695",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© nicofury (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 187436695,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bridled_tern_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193224/bird-gallery/bridled_tern/inaturalist/bridled_tern_3.jpg",
+      "public_id": "bird-gallery/bridled_tern/inaturalist/bridled_tern_3",
+      "width": 1024,
+      "height": 929,
+      "format": "jpg",
+      "bytes": 77276,
+      "attribution": {
+        "photographer": "skunkape",
+        "photographer_url": "https://www.inaturalist.org/observations/216696699",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© skunkape (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 216696699,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "bridled_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1784193226/bird-gallery/bridled_tern/wikimedia/bridled_tern_1.jpg",
+      "public_id": "bird-gallery/bridled_tern/wikimedia/bridled_tern_1",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 86982,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

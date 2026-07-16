@@ -126,5 +126,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "bridled_tern_294277031.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1784194577/bird-gallery/bridled_tern/sounds/bridled_tern_294277031.mp3",
+      "public_id": "bird-gallery/bridled_tern/sounds/bridled_tern_294277031",
+      "duration": 9.216,
+      "format": "mp3",
+      "bytes": 131084,
+      "bit_rate": 113788,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "294277031",
+        "asset_url": "https://macaulaylibrary.org/asset/294277031",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

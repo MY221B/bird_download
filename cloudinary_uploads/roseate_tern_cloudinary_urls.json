@@ -145,5 +145,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "roseate_tern_171679831.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1784194650/bird-gallery/roseate_tern/sounds/roseate_tern_171679831.mp3",
+      "public_id": "bird-gallery/roseate_tern/sounds/roseate_tern_171679831",
+      "duration": 91.032,
+      "format": "mp3",
+      "bytes": 2318156,
+      "bit_rate": 203722,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "171679831",
+        "asset_url": "https://macaulaylibrary.org/asset/171679831",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

@@ -5,7 +5,7 @@
     python3 tools/macaulay_browser.py setup
 
 后续脚本可以非交互查询：
-    python3 tools/macaulay_browser.py search --taxon-code azwmag2 --count 20
+    python3 tools/macaulay_browser.py search --taxon-code azwmag2 --media-type photo --count 20
 
 标准输出只包含 asset id，日志写入标准错误，便于 shell 调用。
 """
@@ -33,7 +33,7 @@ CHALLENGE_MARKERS = (
     "access denied",
     "anubis",
 )
-ASSET_URL_PATTERN = re.compile(r"/api/v2/asset/(\d+)(?:/|$)")
+ASSET_URL_PATTERN = re.compile(r"(?:/api/v2)?/asset/(\d+)(?:/|$)")
 
 
 class BrowserSetupRequired(RuntimeError):
@@ -88,10 +88,10 @@ def is_challenge(title: str, body: str) -> bool:
     return any(marker in text for marker in CHALLENGE_MARKERS)
 
 
-def catalog_url(taxon_code: str) -> str:
+def catalog_url(taxon_code: str, media_type: str) -> str:
     return (
         f"{CATALOG_URL}?taxonCode={taxon_code}"
-        "&mediaType=photo&sort=rating_rank_desc"
+        f"&mediaType={media_type}&sort=rating_rank_desc"
     )
 
 
@@ -109,8 +109,18 @@ def extract_asset_ids(urls: Iterable[str], count: int) -> list[str]:
     return asset_ids
 
 
-def catalog_asset_ids(page: Any, taxon_code: str, count: int, timeout_ms: int) -> list[str]:
-    page.goto(catalog_url(taxon_code), wait_until="domcontentloaded", timeout=timeout_ms)
+def catalog_asset_ids(
+    page: Any,
+    taxon_code: str,
+    media_type: str,
+    count: int,
+    timeout_ms: int,
+) -> list[str]:
+    page.goto(
+        catalog_url(taxon_code, media_type),
+        wait_until="domcontentloaded",
+        timeout=timeout_ms,
+    )
     try:
         page.wait_for_function(
             """() => {
@@ -132,17 +142,17 @@ def catalog_asset_ids(page: Any, taxon_code: str, count: int, timeout_ms: int) -
         )
 
     try:
-        page.locator('img[src*="cdn.download.ams.birds.cornell.edu/api/v2/asset/"]').first.wait_for(
+        page.locator('a[href*="macaulaylibrary.org/asset/"]').first.wait_for(
             state="attached", timeout=timeout_ms
         )
     except Exception as exc:
         raise RuntimeError(
-            f"Macaulay 搜索页未加载图片结果（title={title!r}）"
+            f"Macaulay 搜索页未加载媒体结果（title={title!r}）"
         ) from exc
 
-    urls = page.locator(
-        'img[src*="cdn.download.ams.birds.cornell.edu/api/v2/asset/"]'
-    ).evaluate_all("elements => elements.map(element => element.src)")
+    urls = page.locator('a[href*="macaulaylibrary.org/asset/"]').evaluate_all(
+        "elements => elements.map(element => element.href)"
+    )
     return extract_asset_ids(urls, count)
 
 
@@ -157,7 +167,7 @@ def setup_session(timeout_ms: int) -> int:
         try:
             page = context.pages[0] if context.pages else context.new_page()
             try:
-                asset_ids = catalog_asset_ids(page, "azwmag2", 1, timeout_ms)
+                asset_ids = catalog_asset_ids(page, "azwmag2", "photo", 1, timeout_ms)
             except (BrowserSetupRequired, RuntimeError) as exc:
                 log(f"❌ 会话校验失败: {exc}")
                 return 2
@@ -173,7 +183,13 @@ def setup_session(timeout_ms: int) -> int:
             context.close()
 
 
-def search_assets(taxon_code: str, count: int, timeout_ms: int, headless: bool) -> int:
+def search_assets(
+    taxon_code: str,
+    media_type: str,
+    count: int,
+    timeout_ms: int,
+    headless: bool,
+) -> int:
     sync_playwright, PlaywrightTimeoutError, PlaywrightError = import_playwright()
     directory = profile_dir()
 
@@ -181,7 +197,9 @@ def search_assets(taxon_code: str, count: int, timeout_ms: int, headless: bool) 
         context = launch_context(playwright, directory, headless=headless)
         try:
             page = context.pages[0] if context.pages else context.new_page()
-            for asset_id in catalog_asset_ids(page, taxon_code, count, timeout_ms):
+            for asset_id in catalog_asset_ids(
+                page, taxon_code, media_type, count, timeout_ms
+            ):
                 print(asset_id)
             return 0
         except BrowserSetupRequired as exc:
@@ -207,6 +225,11 @@ def build_parser() -> argparse.ArgumentParser:
 
     search = subparsers.add_parser("search", help="使用已保存会话查询 asset id")
     search.add_argument("--taxon-code", required=True)
+    search.add_argument(
+        "--media-type",
+        choices=("photo", "audio"),
+        default="photo",
+    )
     search.add_argument("--count", type=int, default=20)
     search.add_argument(
         "--headless",
@@ -222,7 +245,13 @@ def main() -> int:
     try:
         if args.command == "setup":
             return setup_session(timeout_ms)
-        return search_assets(args.taxon_code, max(1, args.count), timeout_ms, args.headless)
+        return search_assets(
+            args.taxon_code,
+            args.media_type,
+            max(1, args.count),
+            timeout_ms,
+            args.headless,
+        )
     except RuntimeError as exc:
         log(f"❌ {exc}")
         return 4

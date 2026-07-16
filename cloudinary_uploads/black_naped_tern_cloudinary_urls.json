@@ -87,5 +87,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "black_naped_tern_281654.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1784194769/bird-gallery/black_naped_tern/sounds/black_naped_tern_281654.mp3",
+      "public_id": "bird-gallery/black_naped_tern/sounds/black_naped_tern_281654",
+      "duration": 16.896,
+      "format": "mp3",
+      "bytes": 442028,
+      "bit_rate": 209293,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "281654",
+        "asset_url": "https://macaulaylibrary.org/asset/281654",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

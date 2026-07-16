@@ -11,6 +11,9 @@ import subprocess
 import urllib.parse
 from pathlib import Path
 
+
+PROJECT_ROOT = Path(__file__).parent.parent.resolve()
+
 def get_ebird_code(scientific_name, english_name, ebird_token=None):
     """
     获取 eBird species code
@@ -97,50 +100,59 @@ def get_ebird_code(scientific_name, english_name, ebird_token=None):
 
 def search_macaulay_sounds(taxon_code, count=5):
     """
-    在 Macaulay Library 搜索鸟类叫声
+    使用持久浏览器会话在 Macaulay Library 搜索鸟类叫声
     """
-    url = f"https://search.macaulaylibrary.org/api/v1/search?taxonCode={taxon_code}&mediaType=a&sort=rating_rank_desc&count={count}"
-    
+    helper = Path(
+        os.environ.get(
+            'MACAULAY_BROWSER_HELPER',
+            PROJECT_ROOT / 'tools' / 'macaulay_browser.py'
+        )
+    )
+
     try:
         result = subprocess.run(
-            ['curl', '-s', '-H', 'Accept: application/json', '-H', 'User-Agent: Mozilla/5.0', url],
+            [
+                sys.executable,
+                str(helper),
+                'search',
+                '--taxon-code',
+                taxon_code,
+                '--media-type',
+                'audio',
+                '--count',
+                str(count),
+            ],
             capture_output=True,
             text=True,
-            timeout=15
+            timeout=120,
+            cwd=PROJECT_ROOT,
         )
-        
-        if result.returncode == 0 and result.stdout:
-            data = json.loads(result.stdout)
-            results = data.get('results', {}).get('content', [])
-            
-            if not results:
-                return []
-            
-            audio_list = []
-            for item in results:
-                asset_id = item.get('assetId') or item.get('catalogId')
-                if asset_id:
-                    media_url = item.get('mediaUrl', '')
-                    if not media_url:
-                        media_url = f"https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{asset_id}/audio"
-                    
-                    audio_info = {
-                        'asset_id': asset_id,
-                        'rating': item.get('rating', 0),
-                        'duration': item.get('duration'),
-                        'recordist': item.get('userDisplayName', 'Unknown'),
-                        'location': item.get('locationLine2', ''),
-                        'date': item.get('obsDttm', ''),
-                        'behaviors': item.get('behaviors', ''),
-                        'url': f"https://macaulaylibrary.org/asset/{asset_id}",
-                        'media_url': media_url
-                    }
-                    audio_list.append(audio_info)
-            
-            return audio_list
-    
+        if result.returncode != 0:
+            detail = (result.stderr or result.stdout or '未知错误').strip()
+            print(f"❌ Macaulay 浏览器查询失败: {detail[-500:]}")
+            return []
+
+        asset_ids = [
+            line.strip()
+            for line in result.stdout.splitlines()
+            if line.strip().isdigit()
+        ]
+        return [
+            {
+                'asset_id': asset_id,
+                'rating': 0,
+                'duration': None,
+                'recordist': 'Unknown',
+                'location': '',
+                'date': '',
+                'behaviors': '',
+                'url': f"https://macaulaylibrary.org/asset/{asset_id}",
+                'media_url': f"https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{asset_id}/audio"
+            }
+            for asset_id in asset_ids
+        ]
     except Exception as e:
-        print(f"❌ Macaulay API 调用失败: {e}")
+        print(f"❌ Macaulay 浏览器查询失败: {e}")
         return []
 
 def download_audio(asset_id, output_path, media_url=None):
@@ -331,4 +343,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

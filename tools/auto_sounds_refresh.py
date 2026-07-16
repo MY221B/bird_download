@@ -8,6 +8,7 @@ import json
 import os
 import re
 import subprocess
+import sys
 import urllib.parse
 from pathlib import Path
 from typing import List, Dict, Tuple, Optional
@@ -18,6 +19,10 @@ import cloudinary.uploader
 from cloudinary_credentials import ensure_cloudinary_config
 
 PROJECT_ROOT = Path(__file__).parent.parent.resolve()
+
+
+class MacaulaySoundSearchError(RuntimeError):
+    """Macaulay 浏览器搜索未能完成。"""
 
 
 def load_ebird_mapping() -> Dict[str, str]:
@@ -160,38 +165,53 @@ def get_ebird_code(scientific_name: str, english_name: str, slug: str = "") -> O
 
 
 def search_macaulay_sounds(taxon_code: str) -> Optional[Dict]:
-    """搜索Macaulay音频"""
-    url = f"https://search.macaulaylibrary.org/api/v1/search?taxonCode={taxon_code}&mediaType=a&sort=rating_rank_desc&count=3"
-    
+    """使用持久浏览器会话搜索 Macaulay 音频。"""
+    helper = Path(
+        os.environ.get(
+            'MACAULAY_BROWSER_HELPER',
+            PROJECT_ROOT / 'tools' / 'macaulay_browser.py'
+        )
+    )
+
     try:
         result = subprocess.run(
-            ['curl', '-s', '-H', 'Accept: application/json', '-H', 'User-Agent: Mozilla/5.0', url],
+            [
+                sys.executable,
+                str(helper),
+                'search',
+                '--taxon-code',
+                taxon_code,
+                '--media-type',
+                'audio',
+                '--count',
+                '3',
+            ],
             capture_output=True,
             text=True,
-            timeout=15
+            timeout=120,
+            cwd=PROJECT_ROOT,
         )
-        
-        if result.returncode == 0 and result.stdout:
-            data = json.loads(result.stdout)
-            results = data.get('results', {}).get('content', [])
-            
-            if results:
-                item = results[0]  # 取评分最高的
-                asset_id = item.get('assetId') or item.get('catalogId')
-                if asset_id:
-                    media_url = item.get('mediaUrl', '')
-                    if not media_url:
-                        media_url = f"https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{asset_id}/audio"
-                    
-                    return {
-                        'asset_id': asset_id,
-                        'rating': item.get('rating', 0),
-                        'duration': item.get('duration'),
-                        'media_url': media_url
-                    }
-    except:
-        pass
-    
+
+        if result.returncode != 0:
+            detail = (result.stderr or result.stdout or '未知错误').strip()
+            raise MacaulaySoundSearchError(detail[-500:])
+
+        asset_ids = [
+            line.strip()
+            for line in result.stdout.splitlines()
+            if line.strip().isdigit()
+        ]
+        if asset_ids:
+            asset_id = asset_ids[0]
+            return {
+                'asset_id': asset_id,
+                'rating': '最佳质量排序',
+                'duration': None,
+                'media_url': f"https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{asset_id}/audio"
+            }
+    except subprocess.TimeoutExpired as exc:
+        raise MacaulaySoundSearchError('浏览器搜索超时') from exc
+
     return None
 
 
@@ -405,7 +425,17 @@ def download_and_upload_sounds(
         print(f"  ✓ eBird code: {ebird_code}")
         
         # 搜索音频
-        audio_info = search_macaulay_sounds(ebird_code)
+        try:
+            audio_info = search_macaulay_sounds(ebird_code)
+        except MacaulaySoundSearchError as exc:
+            reason = f'Macaulay浏览器查询失败: {exc}'
+            print(f"  ❌ {reason}")
+            failed_birds.append({
+                'slug': slug,
+                'reason': reason,
+                'chinese_name': chinese_name or english_name
+            })
+            continue
         if not audio_info:
             print(f"  ⚠️  Macaulay Library中找不到音频")
             failed_birds.append({
@@ -494,7 +524,6 @@ if __name__ == '__main__':
         temp_dir = PROJECT_ROOT / "tmp" / "test_sounds"
         success, failed = download_and_upload_sounds(test_slugs, temp_dir)
         print_sounds_summary(success, failed)
-
 
 
 

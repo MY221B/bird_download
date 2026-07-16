@@ -106,5 +106,27 @@
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "chinese_shortwing_618762973.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1784194781/bird-gallery/chinese_shortwing/sounds/chinese_shortwing_618762973.mp3",
+      "public_id": "bird-gallery/chinese_shortwing/sounds/chinese_shortwing_618762973",
+      "duration": 58.608,
+      "format": "mp3",
+      "bytes": 922412,
+      "bit_rate": 125909,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "618762973",
+        "asset_url": "https://macaulaylibrary.org/asset/618762973",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

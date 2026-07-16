@@ -145,5 +145,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "common_white_tern_31641521.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1784194603/bird-gallery/common_white_tern/sounds/common_white_tern_31641521.mp3",
+      "public_id": "bird-gallery/common_white_tern/sounds/common_white_tern_31641521",
+      "duration": 22.704,
+      "format": "mp3",
+      "bytes": 420908,
+      "bit_rate": 148311,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "31641521",
+        "asset_url": "https://macaulaylibrary.org/asset/31641521",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

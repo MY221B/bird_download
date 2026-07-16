@@ -214,7 +214,7 @@ else
   echo "  [日志] 使用持久浏览器会话查询 taxonCode=$ML_CODE …"
   MACAULAY_BROWSER_HELPER="${MACAULAY_BROWSER_HELPER:-tools/macaulay_browser.py}"
   ASSET_ERR=$(mktemp -t macaulay_browser.XXXXXX)
-  ASSETS=$(python3 "$MACAULAY_BROWSER_HELPER" search --taxon-code "$ML_CODE" --count 20 2>"$ASSET_ERR")
+  ASSETS=$(python3 "$MACAULAY_BROWSER_HELPER" search --taxon-code "$ML_CODE" --media-type photo --count 20 2>"$ASSET_ERR")
   MACAULAY_BROWSER_STATUS=$?
   if [ "$MACAULAY_BROWSER_STATUS" -ne 0 ]; then
     sed 's/^/  /' "$ASSET_ERR" >&2
@@ -486,4 +486,3 @@ download_avibase
 
 echo ""
 echo "完成: $SLUG"
-

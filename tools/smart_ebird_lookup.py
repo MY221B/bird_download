@@ -137,6 +137,9 @@ SLUG_TO_CODE_MAPPING = {
     'southern_rock_bunting': 'godbun1',
     # 学名已从 Charadrius 移至 Anarhynchus；英文名匹配即可，此处兜底
     'white_faced_plover': 'whfplo2',
+    # 部分旧 location JSON 缺少 bird_info，必须用 slug 精确映射，避免模糊匹配到近似物种
+    'red_necked_phalarope': 'renpha',
+    'temmincks_tragopan': 'temtra1',
 }
 
 

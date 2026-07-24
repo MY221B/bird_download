@@ -140,6 +140,16 @@ SLUG_TO_CODE_MAPPING = {
     # 部分旧 location JSON 缺少 bird_info，必须用 slug 精确映射，避免模糊匹配到近似物种
     'red_necked_phalarope': 'renpha',
     'temmincks_tragopan': 'temtra1',
+
+    # 多种 Grasshopper Warbler 词重叠很高，必须固定到对应 eBird code，避免模糊匹配串种
+    'middendorffs_grasshopper_warbler': 'migwar',
+    'pallass_grasshopper_warbler': 'pagwar1',
+
+    # slug 模糊匹配会命中近缘/同名异种；缺少 bird_info 时必须精确映射
+    'schrencks_bittern': 'schbit1',  # 勿落到 Eurasian Bittern (grebit1)
+    'yellow_browed_warbler': 'yebwar3',  # 勿落到 Northern Yellow Warbler (yelwar1)
+    'blunt_winged_warbler': 'blwwar1',  # 勿落到 Speckled Warbler (spewar3)
+    'eastern_grass_owl': 'ausgro1',  # Eastern/Australasian Grass-Owl；勿落到 Eastern Barn Owl
 }
 
 

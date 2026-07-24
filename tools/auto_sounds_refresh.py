@@ -17,6 +17,7 @@ import cloudinary
 import cloudinary.uploader
 
 from cloudinary_credentials import ensure_cloudinary_config
+from smart_ebird_lookup import SLUG_TO_CODE_MAPPING, smart_get_ebird_code
 
 PROJECT_ROOT = Path(__file__).parent.parent.resolve()
 
@@ -101,29 +102,27 @@ def get_ebird_code(scientific_name: str, english_name: str, slug: str = "") -> O
     智能获取eBird species code
     使用多重策略：直接映射 -> 学名 -> 英文名 -> 模糊搜索
     """
-    # 尝试导入智能查找模块
-    try:
-        from smart_ebird_lookup import smart_get_ebird_code, SLUG_TO_CODE_MAPPING
-        
-        # 1. 首先检查直接映射
-        if slug and slug in SLUG_TO_CODE_MAPPING:
-            code = SLUG_TO_CODE_MAPPING[slug]
-            print(f"  ✓ 直接映射: {code}")
-            return code
-        
-        # 2. 使用智能查找
-        code = smart_get_ebird_code(
-            slug=slug,
-            chinese_name="",
-            english_name=english_name,
-            scientific_name=scientific_name
-        )
-        if code:
-            print(f"  ✓ 智能查找: {code}")
-            return code
-            
-    except ImportError:
-        pass  # 如果导入失败，使用原来的方法
+    # 1. 明确维护的 slug 映射可以安全处理缺少 bird_info 的旧数据。
+    if slug and slug in SLUG_TO_CODE_MAPPING:
+        code = SLUG_TO_CODE_MAPPING[slug]
+        print(f"  ✓ 直接映射: {code}")
+        return code
+
+    # 模糊 slug 匹配会把名称相近的物种串种，缺少身份信息时必须失败关闭。
+    if not scientific_name and not english_name:
+        print("  ⚠️  缺少英文名和学名，拒绝仅凭 slug 模糊匹配")
+        return None
+
+    # 2. 使用智能查找
+    code = smart_get_ebird_code(
+        slug=slug,
+        chinese_name="",
+        english_name=english_name,
+        scientific_name=scientific_name
+    )
+    if code:
+        print(f"  ✓ 智能查找: {code}")
+        return code
     
     # 3. 从配置文件加载手动映射
     manual_mapping = load_ebird_mapping()

@@ -62,26 +62,10 @@
       }
     }
   ],
-  "sounds": [
-    {
-      "original_file": "schrencks_bittern_198496211.mp3",
-      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1780182423/bird-gallery/schrencks_bittern/sounds/schrencks_bittern_198496211.mp3",
-      "public_id": "bird-gallery/schrencks_bittern/sounds/schrencks_bittern_198496211",
-      "duration": 418.584,
-      "format": "mp3",
-      "bytes": 2121116,
-      "bit_rate": 40538,
-      "audio_codec": "mp3",
-      "audio_frequency": 48000,
-      "attribution": {
-        "recordist": "Unknown",
-        "source": "macaulay",
-        "source_id": "198496211",
-        "asset_url": "https://macaulaylibrary.org/asset/198496211",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "note": null
-      }
-    }
-  ]
+  "bird_info": {
+    "slug": "schrencks_bittern",
+    "chinese_name": "紫背苇鳽",
+    "english_name": "Schrenck's Bittern",
+    "scientific_name": "Botaurus eurhythmus"
+  }
 }

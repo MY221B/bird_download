@@ -37,20 +37,19 @@ def sync_sounds_to_location_json(location_json: Path, main_json: Path):
     with open(location_json, 'r', encoding='utf-8') as f:
         loc_data = json.load(f)
     
-    # 检查是否需要更新
+    # 检查是否需要更新：数量相同也可能内容已被纠正（错误鸟声替换）
     loc_sounds = loc_data.get('sounds', [])
-    
-    if loc_sounds and len(loc_sounds) == len(main_sounds):
-        # 已经有 sounds 且数量相同，可能已经是最新的
+
+    if loc_sounds == main_sounds:
         return False
-    
+
     # 更新 sounds 字段
     loc_data['sounds'] = main_sounds
-    
+
     # 保存
     with open(location_json, 'w', encoding='utf-8') as f:
         json.dump(loc_data, f, indent=2, ensure_ascii=False)
-    
+
     return True
 
 

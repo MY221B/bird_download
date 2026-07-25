@@ -715,60 +715,69 @@ def update_bird_info(csv_file):
                     'scientific_name': row.get('scientific_name', '').strip('"')
                 }
     
-    # 从新增鸟单.txt提取中文名（若文件不存在则跳过，自动化流程中不依赖此文件）
+    # 从新增鸟单.txt提取中文名；自动化流程没有此文件时仍使用 CSV 元数据。
     input_file = PROJECT_ROOT / "新增鸟单.txt"
     chinese_map = {}
 
-    if not input_file.exists():
-        print(f"ℹ️  新增鸟单.txt 不存在，跳过 bird_info 更新")
-        return True
+    if input_file.exists():
+        with open(input_file, 'r', encoding='utf-8') as f:
+            lines = [l.strip() for l in f.readlines()]
 
-    with open(input_file, 'r', encoding='utf-8') as f:
-        lines = [l.strip() for l in f.readlines()]
-    
-    i = 0
-    in_table = False
-    for i, line in enumerate(lines):
-        if line == '科':
-            in_table = True
-            i += 1
-            break
-    
-    while i < len(lines):
-        line = lines[i]
-        if line.isdigit() or not line:
-            i += 1
-            continue
-        if re.match(r'^[\u4e00-\u9fff䴙䴘]+$', line) and i + 2 < len(lines):
-            chinese = line
-            english = lines[i+1].strip()
-            scientific = lines[i+2].strip()
-            if (re.match(r'^[A-Z]', english) and 
-                re.match(r'^[A-Z][a-z]+ [a-z]+', scientific)):
-                # 通过英文名匹配slug
-                for slug, info in bird_map.items():
-                    if info['english_name'] == english:
-                        chinese_map[slug] = chinese
-                i += 3
+        i = 0
+        for i, line in enumerate(lines):
+            if line == '科':
+                i += 1
+                break
+
+        while i < len(lines):
+            line = lines[i]
+            if line.isdigit() or not line:
+                i += 1
                 continue
-        i += 1
-    
+            if re.match(r'^[\u4e00-\u9fff䴙䴘]+$', line) and i + 2 < len(lines):
+                chinese = line
+                english = lines[i+1].strip()
+                scientific = lines[i+2].strip()
+                if (re.match(r'^[A-Z]', english) and
+                    re.match(r'^[A-Z][a-z]+ [a-z]+', scientific)):
+                    for slug, info in bird_map.items():
+                        if info['english_name'] == english:
+                            chinese_map[slug] = chinese
+                    i += 3
+                    continue
+            i += 1
+    else:
+        print("ℹ️  新增鸟单.txt 不存在，使用 CSV 元数据更新 bird_info")
+
     # 更新JSON文件
     upload_dir = PROJECT_ROOT / "cloudinary_uploads"
     updated = 0
-    for slug, chinese in chinese_map.items():
+    for slug, csv_info in bird_map.items():
         json_file = upload_dir / f"{slug}_cloudinary_urls.json"
         if json_file.exists():
             data = json.loads(json_file.read_text(encoding='utf-8'))
-            if 'bird_info' not in data:
-                data['bird_info'] = {}
-            data['bird_info']['slug'] = slug
-            data['bird_info']['chinese_name'] = chinese
-            data['bird_info']['english_name'] = bird_map[slug]['english_name']
-            data['bird_info']['scientific_name'] = bird_map[slug]['scientific_name']
-            json_file.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-            updated += 1
-    
+            bird_info = data.setdefault('bird_info', {})
+            if not isinstance(bird_info, dict):
+                bird_info = {}
+                data['bird_info'] = bird_info
+            new_info = {
+                'slug': slug,
+                'chinese_name': chinese_map.get(slug) or csv_info['chinese_name'],
+                'english_name': csv_info['english_name'],
+                'scientific_name': csv_info['scientific_name'],
+            }
+            changed = False
+            for key, value in new_info.items():
+                if value and bird_info.get(key) != value:
+                    bird_info[key] = value
+                    changed = True
+            if changed:
+                json_file.write_text(
+                    json.dumps(data, ensure_ascii=False, indent=2),
+                    encoding='utf-8',
+                )
+                updated += 1
+
     print(f"✅ 已更新 {updated} 个JSON文件的bird_info字段")
     return True
 

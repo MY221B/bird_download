@@ -114,6 +114,7 @@ SLUG_TO_CODE_MAPPING = {
     'japanese_spotted_woodpecker': 'pygwoo1',  # 小星头啄木鸟 -> Japanese Pygmy Woodpecker
     'great_tit': 'gretit1',  # 大山雀
     'bluetail': 'refblu1',  # 红胁蓝尾鸲 -> Red-flanked Bluetail
+    'orange_flanked_bush_robin': 'refblu1',  # 同种旧名
     'eastern_buzzard': 'combuz6',  # 普通鵟 -> Eastern Buzzard
     
     # 常见水鸟
@@ -129,18 +130,54 @@ SLUG_TO_CODE_MAPPING = {
     'little_egret': 'litegr',  # 小白鹭
     'black_kite': 'blakit1',  # 黑鸢
     'upland_buzzard': 'uplbuz1',  # 大鵟
+    # IOC/旧名与 eBird 分裂/更名不一致；模糊匹配会落到 Crested Goshawk
+    'northern_goshawk': 'norgos1',  # Eurasian Goshawk (Astur gentilis)
+    'chinese_goshawk': 'grfhaw1',  # Chinese Sparrowhawk
     
     # 雀形目
     'dusky_warbler': 'duswar',  # 褐柳莺（注意：不是 duswar1）
+    # grey/gray 与属名变更会导致模糊匹配落到 Reed Parrotbill
+    'grey_headed_parrotbill': 'gyhpar3',
+    'gray_headed_parrotbill': 'gyhpar3',
+    # 中华长尾雀在 eBird 为长尾雀亚种组；勿落到 Chinese Beautiful Rosefinch
+    'chinese_long_tailed_rosefinch': 'lotros1',
 
-    # eBird 仍作 Godlewski's Bunting；IOC「西南灰眉岩鹀」学名 Emberiza yunnanensis 无独立种
+    # eBird 仍作 Godlewski's Bunting；IOC「西南灰眉岩鹀」学名 Emberiza yunnanensis 为独立种
     'southern_rock_bunting': 'godbun1',
     # 学名已从 Charadrius 移至 Anarhynchus；英文名匹配即可，此处兜底
     'white_faced_plover': 'whfplo2',
+    'greater_sand_plover': 'grsplo',
+    'lesser_sand_plover': 'lessap2',  # Siberian Sand-Plover (mongolus)
+    'tibetan_sand_plover': 'lessap1',
     # 部分旧 location JSON 缺少 bird_info，必须用 slug 精确映射，避免模糊匹配到近似物种
     'red_necked_phalarope': 'renpha',
     'temmincks_tragopan': 'temtra1',
+
+    # 多种 Grasshopper Warbler 词重叠很高，必须固定到对应 eBird code
+    'middendorffs_grasshopper_warbler': 'migwar',
+    'pallass_grasshopper_warbler': 'pagwar1',
+    'grays_grasshopper_warbler': 'grgwar1',
+    'greys_grasshopper_warbler': 'grgwar1',
+
+    # slug 模糊匹配会命中近缘/同名异种；缺少 bird_info 时必须精确映射
+    'schrencks_bittern': 'schbit1',
+    'yellow_browed_warbler': 'yebwar3',
+    'blunt_winged_warbler': 'blwwar1',
+    'eastern_grass_owl': 'ausgro1',
 }
+
+# 仅接受高置信匹配，避免 "parrotbill"/"plover"/"goshawk" 等词缀串种
+MIN_ACCEPT_SCORE = 900
+
+
+def normalize_bird_name(name: str) -> str:
+    """统一英文名比较：大小写、grey/gray、连字符与多余空白。"""
+    text = (name or '').lower().strip()
+    text = text.replace('grey', 'gray')
+    text = text.replace('-', ' ')
+    text = re.sub(r'[^\w\s]', ' ', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
 
 
 def slug_to_keywords(slug: str) -> List[str]:
@@ -215,72 +252,63 @@ def search_taxonomy(
                     'score': 900
                 }
     
-    # 3. 生成搜索关键词
-    search_terms = []
-    
-    # 从已知信息生成搜索词
-    if english_name:
-        search_terms.append(english_name.lower())
-    
-    if scientific_name:
-        search_terms.append(scientific_name.lower())
-    
-    # 从 slug 生成关键词
-    slug_keywords = slug_to_keywords(slug)
-    search_terms.extend([k.lower() for k in slug_keywords])
-    
-    # 去重
-    search_terms = list(dict.fromkeys(search_terms))
-    
+    # 3. 仅接受归一化后的精确英文名/学名/完整 slug 名匹配。
+    # 旧的包含/部分词计分会把 Grey-headed Parrotbill 派到 Reed Parrotbill，
+    # 把 Greater Sand Plover 派到 Magellanic Plover，把 Northern Goshawk 派到 Crested Goshawk。
+    normalized_english = normalize_bird_name(english_name)
+    normalized_scientific = normalize_bird_name(scientific_name)
+    normalized_slug_name = normalize_bird_name(slug.replace('_', ' ')) if slug else ''
+
     matches = []
-    
+
     for item in taxonomy:
-        com_name = item.get('comName', '').lower()
-        sci_name = item.get('sciName', '').lower()
+        com_name = item.get('comName', '')
+        sci_name = item.get('sciName', '')
         code = item.get('speciesCode', '')
-        
+        com_norm = normalize_bird_name(com_name)
+        sci_norm = normalize_bird_name(sci_name)
+
         # 跳过非物种级别的条目（杂交种、未确定等）
-        if code.startswith('y0') or 'hybrid' in com_name or ' sp.' in com_name:
+        if (
+            code.startswith('y0')
+            or 'hybrid' in com_norm
+            or com_norm.endswith(' sp')
+            or ' sp ' in f' {com_norm} '
+        ):
             continue
-        
+
         score = 0
-        
-        for term in search_terms:
-            # 精确匹配 - 高分
-            if term == com_name or term == sci_name:
-                score += 100
-            # 包含匹配 - 中分
-            elif term in com_name or term in sci_name:
-                score += 50
-            # 部分词匹配 - 低分
-            else:
-                term_words = set(term.split())
-                name_words = set(com_name.split())
-                common_words = term_words & name_words
-                if common_words:
-                    score += len(common_words) * 20
-        
-        if score > 0:
+        if normalized_english and com_norm == normalized_english:
+            score = max(score, 1000)
+        if normalized_scientific and sci_norm == normalized_scientific:
+            score = max(score, 1000)
+        if normalized_slug_name and com_norm == normalized_slug_name:
+            score = max(score, 900)
+
+        if score >= MIN_ACCEPT_SCORE:
             matches.append({
                 'code': code,
-                'comName': item.get('comName', ''),
-                'sciName': item.get('sciName', ''),
-                'score': score
+                'comName': com_name,
+                'sciName': sci_name,
+                'score': score,
             })
-    
+
     if not matches:
         return None
-    
+
     # 按分数排序，取最高分
     matches.sort(key=lambda x: -x['score'])
-    
-    # 如果有多个匹配，优先选择不带括号的（主物种而非亚种）
+
+    # 同分时优先选择不带括号的（主物种而非亚种）
     top_matches = [m for m in matches if m['score'] == matches[0]['score']]
-    for m in top_matches:
-        if '(' not in m['comName']:
-            return m
-    
-    return matches[0]
+    if len(top_matches) > 1:
+        for m in top_matches:
+            if '(' not in m['comName']:
+                return m
+        # 多个主物种同分说明仍有歧义，失败关闭以免串种
+        return None
+
+    return top_matches[0]
 
 
 def smart_get_ebird_code(

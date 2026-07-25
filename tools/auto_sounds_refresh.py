@@ -99,19 +99,23 @@ def get_bird_info_from_json(slug: str) -> Optional[Dict[str, str]]:
 def get_ebird_code(scientific_name: str, english_name: str, slug: str = "") -> Optional[str]:
     """
     智能获取eBird species code
-    使用多重策略：直接映射 -> 学名 -> 英文名 -> 模糊搜索
+    使用多重策略：直接映射 -> 高置信名称匹配 -> 手动映射 -> 学名 API
     """
-    # 尝试导入智能查找模块
     try:
         from smart_ebird_lookup import smart_get_ebird_code, SLUG_TO_CODE_MAPPING
-        
-        # 1. 首先检查直接映射
+
+        # 1. 明确维护的 slug 映射可安全处理更名/缺元数据物种
         if slug and slug in SLUG_TO_CODE_MAPPING:
             code = SLUG_TO_CODE_MAPPING[slug]
             print(f"  ✓ 直接映射: {code}")
             return code
-        
-        # 2. 使用智能查找
+
+        # 低置信模糊匹配会串种；缺少身份信息时必须失败关闭
+        if not scientific_name and not english_name:
+            print("  ⚠️  缺少英文名和学名，拒绝仅凭 slug 模糊匹配")
+            return None
+
+        # 2. 使用智能查找（仅接受归一化精确匹配）
         code = smart_get_ebird_code(
             slug=slug,
             chinese_name="",
@@ -121,46 +125,46 @@ def get_ebird_code(scientific_name: str, english_name: str, slug: str = "") -> O
         if code:
             print(f"  ✓ 智能查找: {code}")
             return code
-            
+
     except ImportError:
-        pass  # 如果导入失败，使用原来的方法
-    
+        pass
+
     # 3. 从配置文件加载手动映射
     manual_mapping = load_ebird_mapping()
-    
+
     if english_name in manual_mapping:
         code = manual_mapping[english_name]
         print(f"  ✓ 使用手动映射: {code}")
         return code
-    
+
     # 4. 传统方法：直接 API 查询
     ebird_token = os.environ.get('EBIRD_TOKEN')
-    
+
     if not ebird_token:
         return None
-    
+
     # 用学名查找
     if scientific_name:
         try:
             enc_sci_name = urllib.parse.quote(scientific_name)
             url = f"https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=en&species={enc_sci_name}"
-            
+
             result = subprocess.run(
                 ['curl', '-s', '-H', f'X-eBirdApiToken: {ebird_token}', url],
                 capture_output=True,
                 text=True,
                 timeout=10
             )
-            
+
             if result.returncode == 0 and result.stdout:
                 data = json.loads(result.stdout)
                 if data and len(data) > 0:
                     code = data[0].get('speciesCode')
                     print(f"  ✓ 学名查找: {code}")
                     return code
-        except:
+        except Exception:
             pass
-    
+
     return None
 
 

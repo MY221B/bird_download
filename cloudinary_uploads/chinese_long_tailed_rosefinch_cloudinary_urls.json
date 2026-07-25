@@ -88,26 +88,5 @@
     }
   ],
   "avibase": [],
-  "sounds": [
-    {
-      "original_file": "chinese_long_tailed_rosefinch_251379261.mp3",
-      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1775928214/bird-gallery/chinese_long_tailed_rosefinch/sounds/chinese_long_tailed_rosefinch_251379261.mp3",
-      "public_id": "bird-gallery/chinese_long_tailed_rosefinch/sounds/chinese_long_tailed_rosefinch_251379261",
-      "duration": 19.344,
-      "format": "mp3",
-      "bytes": 288740,
-      "bit_rate": 119412,
-      "audio_codec": "mp3",
-      "audio_frequency": 48000,
-      "attribution": {
-        "recordist": "Unknown",
-        "source": "macaulay",
-        "source_id": "251379261",
-        "asset_url": "https://macaulaylibrary.org/asset/251379261",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "note": null
-      }
-    }
-  ]
+  "sounds": []
 }

@@ -146,26 +146,5 @@
     }
   ],
   "avibase": [],
-  "sounds": [
-    {
-      "original_file": "grey_headed_parrotbill_203692931.mp3",
-      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1778223045/bird-gallery/grey_headed_parrotbill/sounds/grey_headed_parrotbill_203692931.mp3",
-      "public_id": "bird-gallery/grey_headed_parrotbill/sounds/grey_headed_parrotbill_203692931",
-      "duration": 67.44,
-      "format": "mp3",
-      "bytes": 1411052,
-      "bit_rate": 167384,
-      "audio_codec": "mp3",
-      "audio_frequency": 48000,
-      "attribution": {
-        "recordist": "Unknown",
-        "source": "macaulay",
-        "source_id": "203692931",
-        "asset_url": "https://macaulaylibrary.org/asset/203692931",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "note": null
-      }
-    }
-  ]
+  "sounds": []
 }

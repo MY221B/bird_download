@@ -127,26 +127,5 @@
     }
   ],
   "avibase": [],
-  "sounds": [
-    {
-      "original_file": "lesser_sand_plover_42753541.mp3",
-      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1778223369/bird-gallery/lesser_sand_plover/sounds/lesser_sand_plover_42753541.mp3",
-      "public_id": "bird-gallery/lesser_sand_plover/sounds/lesser_sand_plover_42753541",
-      "duration": 28.176,
-      "format": "mp3",
-      "bytes": 391148,
-      "bit_rate": 111058,
-      "audio_codec": "mp3",
-      "audio_frequency": 48000,
-      "attribution": {
-        "recordist": "Unknown",
-        "source": "macaulay",
-        "source_id": "42753541",
-        "asset_url": "https://macaulaylibrary.org/asset/42753541",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "note": null
-      }
-    }
-  ]
+  "sounds": []
 }

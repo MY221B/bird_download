@@ -1,4 +1,10 @@
 {
+  "bird_info": {
+    "slug": "eastern_grass_owl",
+    "chinese_name": "草鸮",
+    "english_name": "Eastern Grass Owl",
+    "scientific_name": "Tyto longimembris"
+  },
   "macaulay": [],
   "inaturalist": [
     {
@@ -120,26 +126,5 @@
       }
     }
   ],
-  "sounds": [
-    {
-      "original_file": "eastern_grass_owl_271631421.mp3",
-      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1780182471/bird-gallery/eastern_grass_owl/sounds/eastern_grass_owl_271631421.mp3",
-      "public_id": "bird-gallery/eastern_grass_owl/sounds/eastern_grass_owl_271631421",
-      "duration": 75.672,
-      "format": "mp3",
-      "bytes": 1069820,
-      "bit_rate": 113100,
-      "audio_codec": "mp3",
-      "audio_frequency": 48000,
-      "attribution": {
-        "recordist": "Unknown",
-        "source": "macaulay",
-        "source_id": "271631421",
-        "asset_url": "https://macaulaylibrary.org/asset/271631421",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "note": null
-      }
-    }
-  ]
+  "sounds": []
 }

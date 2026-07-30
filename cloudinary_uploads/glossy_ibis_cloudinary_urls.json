@@ -126,5 +126,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "glossy_ibis_483529141.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1785411640/bird-gallery/glossy_ibis/sounds/glossy_ibis_483529141.mp3",
+      "public_id": "bird-gallery/glossy_ibis/sounds/glossy_ibis_483529141",
+      "duration": 48.672,
+      "format": "mp3",
+      "bytes": 1116716,
+      "bit_rate": 183549,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "483529141",
+        "asset_url": "https://macaulaylibrary.org/asset/483529141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

@@ -1,0 +1,132 @@
+{
+  "bird_info": {
+    "slug": "common_rock_thrush",
+    "chinese_name": "白背矶鸫",
+    "english_name": "Common Rock Thrush",
+    "scientific_name": "Monticola saxatilis"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_rock_thrush_242100631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1785411604/bird-gallery/common_rock_thrush/macaulay/common_rock_thrush_242100631.jpg",
+      "public_id": "bird-gallery/common_rock_thrush/macaulay/common_rock_thrush_242100631",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67680,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/242100631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "242100631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_rock_thrush_442455031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1785411607/bird-gallery/common_rock_thrush/macaulay/common_rock_thrush_442455031.jpg",
+      "public_id": "bird-gallery/common_rock_thrush/macaulay/common_rock_thrush_442455031",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 141205,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/442455031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "442455031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_rock_thrush_484628961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1785411609/bird-gallery/common_rock_thrush/macaulay/common_rock_thrush_484628961.jpg",
+      "public_id": "bird-gallery/common_rock_thrush/macaulay/common_rock_thrush_484628961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 106633,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/484628961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "484628961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_rock_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1785411612/bird-gallery/common_rock_thrush/inaturalist/common_rock_thrush_1.jpg",
+      "public_id": "bird-gallery/common_rock_thrush/inaturalist/common_rock_thrush_1",
+      "width": 1024,
+      "height": 641,
+      "format": "jpg",
+      "bytes": 48099,
+      "attribution": {
+        "photographer": "elkvorr",
+        "photographer_url": "https://www.inaturalist.org/observations/122435598",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© elkvorr (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 122435598,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_rock_thrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1785411613/bird-gallery/common_rock_thrush/inaturalist/common_rock_thrush_2.jpg",
+      "public_id": "bird-gallery/common_rock_thrush/inaturalist/common_rock_thrush_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 48269,
+      "attribution": {
+        "photographer": "christoph_moning",
+        "photographer_url": "https://www.inaturalist.org/observations/57734428",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christoph_moning (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 57734428,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "common_rock_thrush_463207801.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1785411686/bird-gallery/common_rock_thrush/sounds/common_rock_thrush_463207801.mp3",
+      "public_id": "bird-gallery/common_rock_thrush/sounds/common_rock_thrush_463207801",
+      "duration": 118.32,
+      "format": "mp3",
+      "bytes": 1707164,
+      "bit_rate": 115426,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "463207801",
+        "asset_url": "https://macaulaylibrary.org/asset/463207801",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

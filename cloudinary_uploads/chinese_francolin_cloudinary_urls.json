@@ -145,5 +145,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "chinese_francolin_203912731.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1785411651/bird-gallery/chinese_francolin/sounds/chinese_francolin_203912731.mp3",
+      "public_id": "bird-gallery/chinese_francolin/sounds/chinese_francolin_203912731",
+      "duration": 76.44,
+      "format": "mp3",
+      "bytes": 1768028,
+      "bit_rate": 185036,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203912731",
+        "asset_url": "https://macaulaylibrary.org/asset/203912731",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

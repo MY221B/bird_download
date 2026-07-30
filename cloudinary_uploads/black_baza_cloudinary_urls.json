@@ -119,5 +119,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "black_baza_633664127.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1778679917/bird-gallery/black_baza/sounds/black_baza_633664127.mp3",
+      "public_id": "bird-gallery/black_baza/sounds/black_baza_633664127",
+      "duration": 6.744,
+      "format": "mp3",
+      "bytes": 94220,
+      "bit_rate": 111767,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "633664127",
+        "asset_url": "https://macaulaylibrary.org/asset/633664127",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

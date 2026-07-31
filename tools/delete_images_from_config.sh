@@ -112,9 +112,12 @@ echo -e "${GREEN}开始删除流程...${NC}"
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 
-# 步骤 1: 从 Cloudinary 删除
+# 步骤 1: 从 Cloudinary 删除（必须全部确认成功，否则中止，避免远端失败后抹掉本地引用）
 echo -e "${BLUE}[1/5]${NC} 从 Cloudinary 删除图片..."
-python3 tools/delete_cloudinary_by_list.py --file "${CONFIG_FILE}"
+if ! python3 tools/delete_cloudinary_by_list.py --file "${CONFIG_FILE}"; then
+    echo -e "${RED}❌ Cloudinary 删除未全部确认，已中止。不会清理 JSON/本地文件，也不会提交推送。${NC}"
+    exit 1
+fi
 echo -e "${GREEN}✅ Cloudinary 删除完成${NC}"
 echo ""
 

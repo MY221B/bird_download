@@ -39,7 +39,7 @@ class SyncSoundsClearTests(unittest.TestCase):
             self.assertTrue(sync_sounds_to_location_json(loc, main))
             self.assertEqual(json.loads(loc.read_text(encoding="utf-8"))["sounds"], [])
 
-    def test_missing_sounds_key_on_main_clears_location(self):
+    def test_missing_sounds_key_on_main_does_not_wipe_location(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             main = root / "main.json"
@@ -50,8 +50,11 @@ class SyncSoundsClearTests(unittest.TestCase):
                 encoding="utf-8",
             )
 
-            self.assertTrue(sync_sounds_to_location_json(loc, main))
-            self.assertEqual(json.loads(loc.read_text(encoding="utf-8"))["sounds"], [])
+            self.assertFalse(sync_sounds_to_location_json(loc, main))
+            self.assertEqual(
+                json.loads(loc.read_text(encoding="utf-8"))["sounds"][0]["url"],
+                "stale",
+            )
 
     def test_noop_when_both_already_empty(self):
         with tempfile.TemporaryDirectory() as tmp:

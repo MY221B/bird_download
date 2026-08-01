@@ -24,8 +24,12 @@ def sync_sounds_to_location_json(location_json: Path, main_json: Path):
     with open(main_json, 'r', encoding='utf-8') as f:
         main_data = json.load(f)
     
-    # Normalize to a list so intentional clearing (`"sounds": []`) propagates.
-    main_sounds = main_data.get('sounds') or []
+    # Only sync when main explicitly manages sounds. Missing key means "no
+    # opinion" (many species never got audio); do not wipe location entries.
+    # Explicit `"sounds": []` is the remediation signal and must propagate.
+    if 'sounds' not in main_data:
+        return False
+    main_sounds = main_data['sounds']
     if not isinstance(main_sounds, list):
         return False
 

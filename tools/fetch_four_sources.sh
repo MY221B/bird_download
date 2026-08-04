@@ -71,6 +71,10 @@ should_download() {
   echo "$SOURCES" | grep -q "$source"
 }
 
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+cd "$PROJECT_ROOT"
+
 ENC_EN_NAME=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$EN_NAME" 2>/dev/null || echo "$EN_NAME")
 WIKI_PAGE_NAME=${WIKI_PAGE_NAME:-$(echo "$EN_NAME" | tr ' ' '_' )}
 
@@ -292,65 +296,68 @@ INAT_DATA=$(curl -s "$INAT_URL" 2>/dev/null) || {
 ICOUNT=0
 INAT_META="[]"
 if [ -n "$INAT_DATA" ]; then
-  # 使用Python处理JSON并下载
+  # 使用Python处理JSON并下载（经 safe_image_download：失败不得覆盖已有有效图）
   echo "$INAT_DATA" | python3 -c "
-import sys, json, subprocess
+import sys, json
+from pathlib import Path
+
+sys.path.insert(0, str(Path(r'$PROJECT_ROOT') / 'tools'))
+from safe_image_download import download_image_safely
+
 try:
     data = json.load(sys.stdin)
     results = data.get('results', [])
     count = 0
     metadata = []
-    
-    for obs in results[:3]:
+
+    for obs in results:
+        if count >= 3:
+            break
         photos = obs.get('photos', [])
         if not photos:
             continue
-        
+
         photo = photos[0]
         user = obs.get('user', {})
         obs_id = obs.get('id')
         photo_id = photo.get('id')
         url = photo.get('url', '').replace('square', 'large')
         license_code = photo.get('license_code', '')
-        
+
         filename = '${SLUG}_' + str(count+1) + '.jpg'
-        out_path = '$BASE_DIR/inaturalist/' + filename
-        
-        # 下载图片
-        result = subprocess.run(['curl', '-s', '-o', out_path, url], capture_output=True)
-        
-        if result.returncode == 0:
-            # 验证文件
-            verify = subprocess.run(['file', out_path], capture_output=True, text=True)
-            if 'JPEG' in verify.stdout or 'PNG' in verify.stdout:
-                count += 1
-                print(f'  ✅ iNat: {filename}')
-                
-                # 生成引用格式
-                if license_code:
-                    credit = f'© {user.get(\"login\", \"Unknown\")} (via iNaturalist), some rights reserved ({license_code.upper()})'
-                else:
-                    credit = f'© {user.get(\"login\", \"Unknown\")} (via iNaturalist), All Rights Reserved'
-                
-                # 保存元数据
-                metadata.append({
-                    'filename': filename,
-                    'observation_id': obs_id,
-                    'photo_id': photo_id,
-                    'observation_url': f'https://www.inaturalist.org/observations/{obs_id}',
-                    'photographer': user.get('login'),
-                    'license': license_code or 'all-rights-reserved',
-                    'credit_format': credit
-                })
-                
-                if count >= 3:
-                    break
-    
-    # 输出元数据JSON
+        out_path = Path('$BASE_DIR/inaturalist') / filename
+
+        status = download_image_safely(url, out_path)
+        if status == 'failed':
+            print(f'  ⚠️  iNat 下载失败，保留已有文件: {filename}')
+            continue
+
+        if status == 'skipped':
+            print(f'  ⏭️  已存在: {out_path}')
+        else:
+            print(f'  ✅ iNat: {filename}')
+
+        count += 1
+
+        if license_code:
+            credit = f'© {user.get(\"login\", \"Unknown\")} (via iNaturalist), some rights reserved ({license_code.upper()})'
+        else:
+            credit = f'© {user.get(\"login\", \"Unknown\")} (via iNaturalist), All Rights Reserved'
+
+        metadata.append({
+            'filename': filename,
+            'observation_id': obs_id,
+            'photo_id': photo_id,
+            'observation_url': f'https://www.inaturalist.org/observations/{obs_id}',
+            'photographer': user.get('login'),
+            'license': license_code or 'all-rights-reserved',
+            'credit_format': credit
+        })
+
     print('__METADATA_START__')
     print(json.dumps(metadata))
     print('__METADATA_END__')
-    
+
 except Exception as e:
     print(f'  ⚠️  处理失败: {e}', file=sys.stderr)
 " | tee /tmp/inat_output.txt
@@ -384,9 +391,9 @@ WIKI_HTML=$(curl -s "https://en.wikipedia.org/wiki/$WIKI_PAGE_NAME" 2>/dev/null)
 WCOUNT=0
 WIKI_META="[]"
 if [ -n "$WIKI_HTML" ]; then
-  # 提取图片文件名并获取元数据
-  echo "$WIKI_HTML" | grep -o 'upload\.wikimedia\.org/wikipedia/commons/thumb/[^/]*/[^/]*/\([^/]*\.jpg\)/[0-9]*px-[^\"]*\.jpg' | head -5 | while read U; do
-    [ $WCOUNT -ge 1 ] && break
+  # 提取图片文件名并获取元数据（用进程替换，避免管道子 shell 丢掉 WCOUNT/WIKI_META）
+  while read -r U; do
+    [ "$WCOUNT" -ge 1 ] && break
     
     # 提取原始文件名
     ORIG_FILENAME=$(echo "$U" | sed -n 's|.*/\([^/]*\.jpg\)/.*|\1|p')
@@ -396,17 +403,28 @@ if [ -n "$WIKI_HTML" ]; then
       continue
     fi
     
-    OUT="$BASE_DIR/wikimedia/${SLUG}_$((WCOUNT+1)).jpg"
-    
-    # 下载文件
-    curl -s -o "$OUT" "https://$U" || {
+    OUT="$BASE_DIR/wikimedia/${SLUG}_1.jpg"
+
+    DL_STATUS=$(python3 -c "
+import sys
+from pathlib import Path
+sys.path.insert(0, r'$PROJECT_ROOT/tools')
+from safe_image_download import download_image_safely
+print(download_image_safely('https://$U', Path(r'$OUT')))
+" 2>/dev/null || echo failed)
+
+    if [ "$DL_STATUS" = "failed" ]; then
       echo "  ⚠️  下载失败: $U"
       continue
-    }
-    
-    if file "$OUT" 2>/dev/null | grep -q "JPEG\|PNG"; then
-      WCOUNT=$((WCOUNT+1))
+    fi
+
+    if [ "$DL_STATUS" = "skipped" ]; then
+      echo "  ⏭️  已存在: $OUT"
+    else
       echo "  ✅ Wikimedia: $OUT (原文件: $ORIG_FILENAME)"
+    fi
+
+    WCOUNT=$((WCOUNT+1))
       
       # 获取 Wikimedia Commons 元数据
       WIKI_API_URL="https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&titles=File:${ORIG_FILENAME}&iiprop=extmetadata"
@@ -432,7 +450,7 @@ try:
                 attribution_clean = f'{artist_clean}, {license_short}, via Wikimedia Commons'
             
             result = {
-                'filename': '${SLUG}_$((WCOUNT)).jpg',
+                'filename': '${SLUG}_1.jpg',
                 'original_filename': '${ORIG_FILENAME}',
                 'commons_url': 'https://commons.wikimedia.org/wiki/File:${ORIG_FILENAME}',
                 'photographer': artist_clean,
@@ -450,10 +468,7 @@ except Exception as e:
       if [ -n "$WIKI_METADATA" ] && [ "$WIKI_METADATA" != "{}" ]; then
         WIKI_META=$(echo "$WIKI_META" | python3 -c "import sys,json; d=json.load(sys.stdin); d.append($WIKI_METADATA); print(json.dumps(d))")
       fi
-    else
-      rm -f "$OUT"
-    fi
-  done
+  done < <(echo "$WIKI_HTML" | grep -o 'upload\.wikimedia\.org/wikipedia/commons/thumb/[^/]*/[^/]*/\([^/]*\.jpg\)/[0-9]*px-[^\"]*\.jpg' | head -5)
   
   # 保存 Wikimedia 元数据
   if [ -n "$WIKI_META" ] && [ "$WIKI_META" != "[]" ]; then

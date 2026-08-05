@@ -17,7 +17,7 @@ usage() {
                    1. slug,english_name,scientific_name[,wikipedia_page]
                    2. slug,chinese_name,english_name,scientific_name,wikipedia_page
   --parallel N     并行下载数量（默认：3，推荐：3-5）
-  --skip-existing  跳过已存在的目录（默认：否）
+  --skip-existing  跳过已有合格本地图片的物种（空目录/仅占位图仍会重下）
 
 CSV 格式示例:
   # 格式1（不含中文名）:
@@ -104,6 +104,22 @@ SKIPPED=0
 SUCCESS=0
 FAILED=0
 
+# --skip-existing 必须用「有合格本地图」判定，不能仅看目录是否存在：
+# fetch_four_sources.sh 一开始就会 mkdir，失败/剪枝后空目录若被当成已完成，
+# weekly refresh 的 MAX_RETRIES 永远无法重下，新鸟会永久缺图。
+bird_has_acceptable_local_images() {
+  local slug="$1"
+  python3 -c "
+import sys
+from pathlib import Path
+
+sys.path.insert(0, 'tools')
+from bird_image_policy import bird_dir_has_acceptable_local_images
+
+sys.exit(0 if bird_dir_has_acceptable_local_images(Path('images') / sys.argv[1]) else 1)
+" "$slug"
+}
+
 echo "总共 $TOTAL_BIRDS 种鸟类"
 echo "=========================================="
 echo ""
@@ -119,8 +135,8 @@ while IFS='|' read -r slug en_name chinese_name sci_name wiki_page; do
   
   PROCESSED=$((PROCESSED + 1))
   
-  # 检查是否跳过已存在
-  if [ $SKIP_EXISTING -eq 1 ] && [ -d "images/$slug" ]; then
+  # 检查是否跳过已存在（仅当已有合格本地图片时）
+  if [ $SKIP_EXISTING -eq 1 ] && [ -d "images/$slug" ] && bird_has_acceptable_local_images "$slug"; then
     if [ -n "$chinese_name" ]; then
       echo "[$PROCESSED/$TOTAL_BIRDS] ⏭️  跳过已存在: $slug ($en_name（$chinese_name）)"
     else

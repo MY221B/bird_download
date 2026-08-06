@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "northern_wheatear_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1785411598/bird-gallery/northern_wheatear/inaturalist/northern_wheatear_1.jpg",
-      "public_id": "bird-gallery/northern_wheatear/inaturalist/northern_wheatear_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 58546,
-      "attribution": {
-        "photographer": "scottysmith",
-        "photographer_url": "https://www.inaturalist.org/observations/141885050",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© scottysmith (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 141885050,
-        "note": null
-      }
-    },
-    {
       "original_file": "northern_wheatear_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1785411599/bird-gallery/northern_wheatear/inaturalist/northern_wheatear_2.jpg",
       "public_id": "bird-gallery/northern_wheatear/inaturalist/northern_wheatear_2",
@@ -100,25 +81,6 @@
         "credit_format": "© scottysmith (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
         "source_id": 198085505,
-        "note": null
-      }
-    },
-    {
-      "original_file": "northern_wheatear_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1785411601/bird-gallery/northern_wheatear/inaturalist/northern_wheatear_3.jpg",
-      "public_id": "bird-gallery/northern_wheatear/inaturalist/northern_wheatear_3",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 50646,
-      "attribution": {
-        "photographer": "legally_blob",
-        "photographer_url": "https://www.inaturalist.org/observations/166223119",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© legally_blob (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 166223119,
         "note": null
       }
     }

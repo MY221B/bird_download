@@ -102,49 +102,10 @@
         "source_id": 198044315,
         "note": null
       }
-    },
-    {
-      "original_file": "ashy_throated_parrotbill_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786530858/bird-gallery/ashy_throated_parrotbill/inaturalist/ashy_throated_parrotbill_3.jpg",
-      "public_id": "bird-gallery/ashy_throated_parrotbill/inaturalist/ashy_throated_parrotbill_3",
-      "width": 846,
-      "height": 537,
-      "format": "jpg",
-      "bytes": 26755,
-      "attribution": {
-        "photographer": "benanna",
-        "photographer_url": "https://www.inaturalist.org/observations/74919569",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© benanna (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 74919569,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "ashy_throated_parrotbill_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786530859/bird-gallery/ashy_throated_parrotbill/wikimedia/ashy_throated_parrotbill_1.jpg",
-      "public_id": "bird-gallery/ashy_throated_parrotbill/wikimedia/ashy_throated_parrotbill_1",
-      "width": 250,
-      "height": 167,
-      "format": "jpg",
-      "bytes": 14079,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [],
   "sounds": [
     {

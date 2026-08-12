@@ -316,17 +316,24 @@ def read_slugs_from_csv(csv_file):
 
 
 def copy_json_to_location(slugs, location_name, report_code):
-    dest_dir = get_location_birds_path(location_name, report_code)
-    dest_dir.mkdir(parents=True, exist_ok=True)
-    copied = 0
+    sources = []
     missing = []
     for slug in slugs:
         src = PROJECT_ROOT / "cloudinary_uploads" / f"{slug}_cloudinary_urls.json"
         if src.exists():
-            shutil.copy2(src, dest_dir / src.name)
-            copied += 1
+            sources.append(src)
         else:
             missing.append(slug)
+    if missing:
+        print(f"⚠️  缺少 {len(missing)} 个 Cloudinary JSON，跳过复制并保留上次报告")
+        return None, 0, missing
+
+    dest_dir = get_location_birds_path(location_name, report_code)
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    copied = 0
+    for src in sources:
+        shutil.copy2(src, dest_dir / src.name)
+        copied += 1
     location_dir = dest_dir.parent
     for old_folder in location_dir.iterdir():
         if old_folder.is_dir() and old_folder.name != report_code and old_folder.name != "000000":
@@ -420,8 +427,12 @@ def main():
         species_count = len(records)
         print(f"📊 {loc_name} 去重鸟种: {species_count}")
 
-        if species_count < max(1, args.min_species):
-            print(f"⚠️  警告：少于 {args.min_species} 种（当前 {species_count} 种），但仍会继续处理")
+        min_species = max(1, args.min_species)
+        if species_count < min_species:
+            details = f"{species_count} 种，少于 {min_species} 种阈值，保留上次报告"
+            print(f"⚠️  {details}，跳过更新")
+            summary.append({"location": loc_name, "status": "跳过", "details": details})
+            continue
 
         slug_info = write_csv_from_records(records, csv_file)
         merge_with_all_birds_csv(csv_file)
@@ -561,9 +572,22 @@ def main():
             if not bird_dir_has_acceptable_local_images(bird_path):
                 final_missing_local.append(slug)
 
+        if missing_copy:
+            summary.append({
+                "location": loc_name,
+                "status": "跳过",
+                "details": f"缺少 {len(missing_copy)} 个 Cloudinary JSON，保留上次报告",
+                "downloads": format_slug_list(downloads_for_log, slug_info),
+                "downloads_raw": downloads_for_log,
+                "missing_local": format_slug_list(final_missing_local, slug_info),
+                "missing_json": format_slug_list(missing_copy, slug_info),
+                "sounds_success": len(success_sounds),
+                "sounds_failed": len(failed_sounds),
+                "sounds_failed_details": failed_sounds,
+            })
+            continue
+
         status = "已更新"
-        if species_count < max(1, args.min_species):
-            status = f"已更新（{species_count}种，少于{args.min_species}种阈值）"
 
         summary.append({
             "location": loc_name,

@@ -493,6 +493,50 @@ def try_play_alert_sound(log_fp: TextIO) -> None:
             log(f"Sound alert failed on {sound_path}: {exc}", log_fp)
 
 
+def wait_for_captcha_signal_file(
+    signal_path: Path,
+    *,
+    log_fp: TextIO,
+    reminder_seconds: float,
+    alert_sound: bool,
+    poll_seconds: float = 2.0,
+) -> bool:
+    """Wait until signal_path exists, then consume it. Used for non-TTY sessions."""
+    signal_path = signal_path.resolve()
+    signal_path.parent.mkdir(parents=True, exist_ok=True)
+    if signal_path.exists():
+        signal_path.unlink()
+    log(
+        "Non-interactive session: waiting for captcha signal file. "
+        f"After browser captcha, create: {signal_path}",
+        log_fp,
+    )
+    print(
+        f"完成浏览器验证码后执行: touch {signal_path}",
+        flush=True,
+    )
+    reminder_sent = False
+    waited = 0.0
+    while True:
+        if signal_path.exists():
+            try:
+                signal_path.unlink()
+            except FileNotFoundError:
+                pass
+            log(f"Captcha signal file detected and consumed: {signal_path}", log_fp)
+            return True
+        time.sleep(poll_seconds)
+        waited += poll_seconds
+        if reminder_seconds > 0 and not reminder_sent and waited >= reminder_seconds:
+            log(
+                f"No captcha signal after {reminder_seconds:.1f}s, sending reminder alert.",
+                log_fp,
+            )
+            if alert_sound:
+                try_play_alert_sound(log_fp)
+            reminder_sent = True
+
+
 def prompt_manual_captcha(
     *,
     query: Dict[str, str],
@@ -502,20 +546,65 @@ def prompt_manual_captcha(
     auto_open_browser: bool,
     alert_sound: bool,
     reminder_seconds: float,
+    signal_path: Optional[Path] = None,
+    auto_solve: bool = True,
+    auto_solve_attempts: int = 8,
+    captcha_reader: str = "ocr_then_agent",
+    captcha_agent_wait: float = 180.0,
+    captcha_pending_dir: Optional[Path] = None,
 ) -> bool:
     url = build_report_search_url(query)
     log(
         f"Manual captcha required ({reason}). Pause before page {page}.",
         log_fp,
     )
+
+    if auto_solve:
+        try:
+            from auto_captcha import solve_visited_captcha
+        except Exception as exc:
+            log(f"Auto captcha import failed: {exc}", log_fp)
+        else:
+            log(
+                f"Trying auto captcha solve "
+                f"(reader={captcha_reader}, max_attempts={auto_solve_attempts})...",
+                log_fp,
+            )
+            result = solve_visited_captcha(
+                max_attempts=auto_solve_attempts,
+                log_fp=log_fp,
+                reader=captcha_reader,
+                pending_dir=captcha_pending_dir,
+                agent_wait_seconds=captcha_agent_wait,
+            )
+            if result.ok:
+                log(
+                    f"Auto captcha solved in {result.attempts} attempt(s). "
+                    f"method={result.method} code={result.code}",
+                    log_fp,
+                )
+                return True
+            log(
+                f"Auto captcha failed after {result.attempts} attempt(s): "
+                f"{result.message}. Falling back to manual.",
+                log_fp,
+            )
+
     log(f"Open this URL in browser and complete captcha:\n{url}", log_fp)
     if auto_open_browser:
         try_auto_open_browser(url, log_fp)
     if alert_sound:
         try_play_alert_sound(log_fp)
     if not sys.stdin or not sys.stdin.isatty():
-        log("Non-interactive session; cannot wait for captcha input.", log_fp)
-        return False
+        if signal_path is None:
+            log("Non-interactive session; cannot wait for captcha input.", log_fp)
+            return False
+        return wait_for_captcha_signal_file(
+            signal_path,
+            log_fp=log_fp,
+            reminder_seconds=reminder_seconds,
+            alert_sound=alert_sound,
+        )
     try:
         print("完成验证码后输入 y 并回车继续（Ctrl+C 退出）: ", end="", flush=True)
         reminder_sent = False
@@ -695,6 +784,30 @@ def parse_args() -> argparse.Namespace:
         help="Send one extra sound reminder if captcha confirmation is not received in N seconds. 0 disables.",
     )
     parser.add_argument(
+        "--auto-captcha",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Auto OCR+submit BirdReport visited captcha before falling back to manual.",
+    )
+    parser.add_argument(
+        "--auto-captcha-attempts",
+        type=int,
+        default=8,
+        help="Max OCR/verify attempts per blocked event.",
+    )
+    parser.add_argument(
+        "--captcha-reader",
+        choices=("ocr", "agent", "ocr_then_agent"),
+        default="ocr_then_agent",
+        help="How to read captcha digits. ocr_then_agent falls back to agent vision files.",
+    )
+    parser.add_argument(
+        "--captcha-agent-wait",
+        type=float,
+        default=180.0,
+        help="Seconds to wait for captcha_answer.txt when using agent vision.",
+    )
+    parser.add_argument(
         "--post-process",
         action=argparse.BooleanOptionalAction,
         default=True,
@@ -795,6 +908,10 @@ def main() -> int:
         raise SystemExit("max-captcha-prompts must be >= 1")
     if args.captcha_reminder_seconds < 0:
         raise SystemExit("captcha-reminder-seconds must be >= 0")
+    if args.auto_captcha_attempts < 1:
+        raise SystemExit("auto-captcha-attempts must be >= 1")
+    if args.captcha_agent_wait < 0:
+        raise SystemExit("captcha-agent-wait must be >= 0")
 
     base_dir = Path(args.output_dir).resolve()
     script_dir = Path(__file__).resolve().parent
@@ -831,6 +948,7 @@ def main() -> int:
     csv_path = data_dir / f"{file_prefix}_报告索引.csv"
     jsonl_path = data_dir / f"{file_prefix}_报告原始.jsonl"
     processed_path = data_dir / f"{file_prefix}_分时段鸟点排名.csv"
+    captcha_signal_path = base_dir / f"{file_prefix}_captcha_continue"
     log_path = new_log_file(logs_dir, prefix=file_prefix)
 
     write_csv_header_if_needed(csv_path)
@@ -968,6 +1086,12 @@ def main() -> int:
                         auto_open_browser=args.auto_open_browser,
                         alert_sound=args.alert_sound,
                         reminder_seconds=args.captcha_reminder_seconds,
+                        signal_path=captcha_signal_path,
+                        auto_solve=args.auto_captcha,
+                        auto_solve_attempts=args.auto_captcha_attempts,
+                        captcha_reader=args.captcha_reader,
+                        captcha_agent_wait=args.captcha_agent_wait,
+                        captcha_pending_dir=base_dir,
                     )
                     if not ok:
                         return 2
@@ -1038,6 +1162,12 @@ def main() -> int:
                         auto_open_browser=args.auto_open_browser,
                         alert_sound=args.alert_sound,
                         reminder_seconds=args.captcha_reminder_seconds,
+                        signal_path=captcha_signal_path,
+                        auto_solve=args.auto_captcha,
+                        auto_solve_attempts=args.auto_captcha_attempts,
+                        captcha_reader=args.captcha_reader,
+                        captcha_agent_wait=args.captcha_agent_wait,
+                        captcha_pending_dir=base_dir,
                     )
                     if not ok:
                         checkpoint["next_page"] = page
@@ -1121,6 +1251,12 @@ def main() -> int:
                             auto_open_browser=args.auto_open_browser,
                             alert_sound=args.alert_sound,
                             reminder_seconds=args.captcha_reminder_seconds,
+                            signal_path=captcha_signal_path,
+                            auto_solve=args.auto_captcha,
+                            auto_solve_attempts=args.auto_captcha_attempts,
+                            captcha_reader=args.captcha_reader,
+                            captcha_agent_wait=args.captcha_agent_wait,
+                            captcha_pending_dir=base_dir,
                         )
                         if not ok:
                             checkpoint["next_page"] = page

@@ -106,5 +106,27 @@
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "southern_rock_bunting_203942271.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1786528899/bird-gallery/southern_rock_bunting/sounds/southern_rock_bunting_203942271.mp3",
+      "public_id": "bird-gallery/southern_rock_bunting/sounds/southern_rock_bunting_203942271",
+      "duration": 19.008,
+      "format": "mp3",
+      "bytes": 404876,
+      "bit_rate": 170402,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203942271",
+        "asset_url": "https://macaulaylibrary.org/asset/203942271",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

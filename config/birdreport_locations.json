@@ -1057,18 +1057,6 @@
       ]
     },
     {
-      "id": "guilin_shi",
-      "name": "桂林市",
-      "province": "广西壮族自治区",
-      "city": "桂林市",
-      "district": "",
-      "mode": 0,
-      "outside_type": 0,
-      "default_days": 7,
-      "query_level": "city",
-      "point_aliases": []
-    },
-    {
       "id": "guilin_hexin_chengqu",
       "name": "核心城区",
       "province": "广西壮族自治区",
@@ -1099,18 +1087,6 @@
       ]
     },
     {
-      "id": "wuhu_shi",
-      "name": "芜湖市",
-      "province": "安徽省",
-      "city": "芜湖市",
-      "district": "",
-      "mode": 0,
-      "outside_type": 0,
-      "default_days": 30,
-      "query_level": "city",
-      "point_aliases": []
-    },
-    {
       "id": "changsha_yuelushan",
       "name": "岳麓山",
       "province": "湖南省",
@@ -1125,16 +1101,1271 @@
       ]
     },
     {
-      "id": "lanzhou_shi",
-      "name": "兰州市",
+      "id": "shanghai_bi_yun_lv_di_yun_tian_hu_gong_yuan",
+      "name": "碧云绿地·云天湖公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "碧云绿地·云天湖公园"
+      ],
+      "note": "shanghai_augdec_rank_1"
+    },
+    {
+      "id": "shanghai_da_ning_gong_yuan",
+      "name": "大宁公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "大宁公园"
+      ],
+      "note": "shanghai_augdec_rank_2"
+    },
+    {
+      "id": "shanghai_bi_hai_jin_sha",
+      "name": "碧海金沙",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "碧海金沙"
+      ],
+      "note": "shanghai_augdec_rank_3"
+    },
+    {
+      "id": "shanghai_xu_jia_hui_gong_yuan",
+      "name": "徐家汇公园",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "徐家汇公园"
+      ],
+      "note": "shanghai_augdec_rank_4"
+    },
+    {
+      "id": "shanghai_zi_zhu_huang_di",
+      "name": "紫竹荒地",
+      "province": "上海市",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "紫竹荒地"
+      ],
+      "note": "shanghai_augdec_rank_5"
+    },
+    {
+      "id": "shenzhen_yuan_shan_feng_jing_qu",
+      "name": "园山风景区",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "园山风景区"
+      ],
+      "note": "shenzhen_augdec_rank_1"
+    },
+    {
+      "id": "shenzhen_long_qi_wan",
+      "name": "龙岐湾",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "龙岐湾"
+      ],
+      "note": "shenzhen_augdec_rank_2"
+    },
+    {
+      "id": "shenzhen_hua_da_wan_wu_nong_ye_ji_di",
+      "name": "华大万物农业基地",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "华大万物农业基地"
+      ],
+      "note": "shenzhen_augdec_rank_3"
+    },
+    {
+      "id": "guangzhou_xun_feng_shan_sheng_tai_gong_yuan",
+      "name": "浔峰山生态公园",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "浔峰山生态公园"
+      ],
+      "note": "guangzhou_augdec_rank_1"
+    },
+    {
+      "id": "guangzhou_hua_nan_shi_fan_da_xue_shi_pai_xiao_qu",
+      "name": "华南师范大学(石牌校区)",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "华南师范大学(石牌校区)"
+      ],
+      "note": "guangzhou_augdec_rank_2"
+    },
+    {
+      "id": "guangzhou_zhu_cun",
+      "name": "朱村",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "朱村"
+      ],
+      "note": "guangzhou_augdec_rank_3"
+    },
+    {
+      "id": "guangzhou_nan_sha_shi_jiu_yong",
+      "name": "南沙十九涌",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "南沙十九涌"
+      ],
+      "note": "guangzhou_augdec_rank_4"
+    },
+    {
+      "id": "guangzhou_bai_yun_shan_feng_jing_ming_sheng_qu",
+      "name": "白云山风景名胜区",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "白云山风景名胜区"
+      ],
+      "note": "guangzhou_augdec_rank_5"
+    },
+    {
+      "id": "guangzhou_zhong_shan_da_xue_guang_zhou_xiao_qu_nan_xiao_yuan",
+      "name": "中山大学(广州校区南校园)",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "中山大学(广州校区南校园)"
+      ],
+      "note": "guangzhou_augdec_rank_6"
+    },
+    {
+      "id": "changsha_yang_hu_shi_di_gong_yuan",
+      "name": "洋湖湿地公园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "洋湖湿地公园"
+      ],
+      "note": "changsha_augdec_rank_1"
+    },
+    {
+      "id": "changsha_xi_hu_gong_yuan",
+      "name": "西湖公园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "西湖公园"
+      ],
+      "note": "changsha_augdec_rank_2"
+    },
+    {
+      "id": "changsha_hu_nan_song_ya_hu_shi_di_gong_yuan",
+      "name": "湖南松雅湖湿地公园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "湖南松雅湖湿地公园",
+        "湖南松雅湖国家湿地公园"
+      ],
+      "note": "changsha_augdec_rank_5"
+    },
+    {
+      "id": "changsha_sha_he_da_qiao",
+      "name": "沙河大桥",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "沙河大桥"
+      ],
+      "note": "changsha_augdec_rank_6"
+    },
+    {
+      "id": "changsha_yue_liang_dao",
+      "name": "月亮岛",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "月亮岛"
+      ],
+      "note": "changsha_augdec_rank_7"
+    },
+    {
+      "id": "changsha_lie_shi_gong_yuan",
+      "name": "烈士公园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "烈士公园"
+      ],
+      "note": "changsha_augdec_rank_8"
+    },
+    {
+      "id": "changsha_da_shan_chong_sen_lin_gong_yuan",
+      "name": "大山冲森林公园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "大山冲森林公园"
+      ],
+      "note": "changsha_augdec_rank_9"
+    },
+    {
+      "id": "changsha_liu_yang_shi_da_wei_shan_sen_lin_gong_yuan",
+      "name": "浏阳市大围山森林公园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "浏阳市大围山森林公园",
+        "浏阳市大围山国家森林公园"
+      ],
+      "note": "changsha_augdec_rank_10"
+    },
+    {
+      "id": "changsha_wo_zhi_yuan_sheng_tai_yuan",
+      "name": "沃之园生态园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "沃之园生态园"
+      ],
+      "note": "changsha_augdec_rank_12"
+    },
+    {
+      "id": "changsha_wang_cheng_qu_ding_zi_wan_jie_dao_zhao_jia_wan",
+      "name": "望城区丁字湾街道赵家弯",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "望城区丁字湾街道赵家弯"
+      ],
+      "note": "changsha_augdec_rank_13"
+    },
+    {
+      "id": "changsha_neng_liang_gu",
+      "name": "能量谷",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "能量谷"
+      ],
+      "note": "changsha_augdec_rank_14"
+    },
+    {
+      "id": "guilin_gui_lin_sen_lin_gong_yuan",
+      "name": "桂林森林公园",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "桂林森林公园"
+      ],
+      "note": "guilin_augdec_rank_1"
+    },
+    {
+      "id": "guilin_mao_er_shan_zi_ran_bao_hu_qu",
+      "name": "猫儿山自然保护区",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "猫儿山自然保护区",
+        "猫儿山国家级自然保护区"
+      ],
+      "note": "guilin_augdec_rank_2"
+    },
+    {
+      "id": "guilin_che_tou_cun",
+      "name": "车头村",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "车头村"
+      ],
+      "note": "guilin_augdec_rank_3"
+    },
+    {
+      "id": "guilin_ling_chuan_xian_ling_tian_zhen_hua_jiang",
+      "name": "灵川县灵田镇花江",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "灵川县灵田镇花江"
+      ],
+      "note": "guilin_augdec_rank_4"
+    },
+    {
+      "id": "guilin_xiang_bi_shan_jing_qu",
+      "name": "象鼻山景区",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "象鼻山景区"
+      ],
+      "note": "guilin_augdec_rank_8"
+    },
+    {
+      "id": "guilin_yao_shan",
+      "name": "尧山",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "尧山"
+      ],
+      "note": "guilin_augdec_rank_10"
+    },
+    {
+      "id": "guilin_yan_shan_qu_zhe_mu_zhen_wei_jia_du_cun",
+      "name": "雁山区柘木镇卫家渡村",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "雁山区柘木镇卫家渡村"
+      ],
+      "note": "guilin_augdec_rank_11"
+    },
+    {
+      "id": "guilin_feng_xue_cun",
+      "name": "凤穴村",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "凤穴村"
+      ],
+      "note": "guilin_augdec_rank_12"
+    },
+    {
+      "id": "guilin_yang_shuo_li_jiang_jing_qu",
+      "name": "阳朔漓江景区",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "阳朔漓江景区"
+      ],
+      "note": "guilin_augdec_rank_13"
+    },
+    {
+      "id": "lanzhou_lan_zhou_qin_wang_chuan_shi_di_gong_yuan",
+      "name": "兰州秦王川湿地公园",
       "province": "甘肃省",
       "city": "兰州市",
       "district": "",
       "mode": 0,
       "outside_type": 0,
-      "default_days": 30,
-      "query_level": "city",
-      "point_aliases": []
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州秦王川湿地公园",
+        "兰州秦王川国家湿地公园"
+      ],
+      "note": "lanzhou_augdec_rank_1"
+    },
+    {
+      "id": "lanzhou_chen_jia_he",
+      "name": "陈家河",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "陈家河"
+      ],
+      "note": "lanzhou_augdec_rank_2"
+    },
+    {
+      "id": "lanzhou_ma_po_xiang",
+      "name": "马坡乡",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "马坡乡"
+      ],
+      "note": "lanzhou_augdec_rank_3"
+    },
+    {
+      "id": "lanzhou_lan_zhou_da_xue_yu_zhong_xiao_qu_cui_ying_shan",
+      "name": "兰州大学榆中校区萃英山",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州大学榆中校区萃英山"
+      ],
+      "note": "lanzhou_augdec_rank_4"
+    },
+    {
+      "id": "lanzhou_lan_zhou_huang_he_yin_tan_shi_di_gong_yuan",
+      "name": "兰州黄河银滩湿地公园",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州黄河银滩湿地公园"
+      ],
+      "note": "lanzhou_augdec_rank_5"
+    },
+    {
+      "id": "lanzhou_tan_jian_zi_shi_di_gong_yuan_lan_zhou_shi_cheng_guan_qu",
+      "name": "滩尖子湿地公园(兰州市城关区)",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "滩尖子湿地公园(兰州市城关区)"
+      ],
+      "note": "lanzhou_augdec_rank_6"
+    },
+    {
+      "id": "lanzhou_lan_zhou_shui_che_yuan",
+      "name": "兰州水车园",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州水车园"
+      ],
+      "note": "lanzhou_augdec_rank_7"
+    },
+    {
+      "id": "lanzhou_lan_da_yu_zhong_xiao_qu_cui_ying_shan",
+      "name": "兰大榆中校区萃英山",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰大榆中校区萃英山"
+      ],
+      "note": "lanzhou_augdec_rank_8"
+    },
+    {
+      "id": "lanzhou_lan_zhou_da_xue_cheng_guan_xiao_qu",
+      "name": "兰州大学(城关校区)",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州大学(城关校区)"
+      ],
+      "note": "lanzhou_augdec_rank_9"
+    },
+    {
+      "id": "lanzhou_lan_zhou_shui_che_bo_lan_yuan",
+      "name": "兰州水车博览园",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州水车博览园"
+      ],
+      "note": "lanzhou_augdec_rank_10"
+    },
+    {
+      "id": "lanzhou_lan_zhou_da_xue_yu_zhong_xiao_qu_nan_qu",
+      "name": "兰州大学(榆中校区)南区",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州大学(榆中校区)南区"
+      ],
+      "note": "lanzhou_augdec_rank_11"
+    },
+    {
+      "id": "lanzhou_lan_zhou_shui_mo_dan_xia_lv_you_jing_qu",
+      "name": "兰州水墨丹霞旅游景区",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州水墨丹霞旅游景区"
+      ],
+      "note": "lanzhou_augdec_rank_12"
+    },
+    {
+      "id": "lanzhou_yin_tan_shi_di_gong_yuan_lan_zhou_yin_tan_gong_yuan",
+      "name": "银滩湿地公园-兰州银滩公园",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "银滩湿地公园-兰州银滩公园"
+      ],
+      "note": "lanzhou_augdec_rank_13"
+    },
+    {
+      "id": "wuhu_zhe_shan_gong_yuan",
+      "name": "赭山公园",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "赭山公园"
+      ],
+      "note": "wuhu_augdec_rank_1"
+    },
+    {
+      "id": "wuhu_shen_shan_gong_yuan",
+      "name": "神山公园",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "神山公园"
+      ],
+      "note": "wuhu_augdec_rank_2"
+    },
+    {
+      "id": "wuhu_shi_li_jiang_wan_gong_yuan",
+      "name": "十里江湾公园",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "十里江湾公园"
+      ],
+      "note": "wuhu_augdec_rank_3"
+    },
+    {
+      "id": "wuhu_an_hui_shi_fan_da_xue_hua_jin_xiao_qu",
+      "name": "安徽师范大学(花津校区)",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "安徽师范大学(花津校区)"
+      ],
+      "note": "wuhu_augdec_rank_4"
+    },
+    {
+      "id": "wuhu_wai_long_wo_hu_shi_di",
+      "name": "外龙窝湖湿地",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "外龙窝湖湿地"
+      ],
+      "note": "wuhu_augdec_rank_5"
+    },
+    {
+      "id": "wuhu_tian_men_shan_jing_qu",
+      "name": "天门山景区",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "天门山景区"
+      ],
+      "note": "wuhu_augdec_rank_10"
+    },
+    {
+      "id": "wuhu_zhu_jia_qiao_wei_shui_jing_hua_sheng_tai_gong_yuan",
+      "name": "朱家桥尾水净化生态公园",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "朱家桥尾水净化生态公园"
+      ],
+      "note": "wuhu_augdec_rank_11"
+    },
+    {
+      "id": "yunnan_zhong_guo_ke_xue_yuan_xi_shuang_ban_na_re_dai_zhi_wu_yuan",
+      "name": "中国科学院西双版纳热带植物园",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "中国科学院西双版纳热带植物园"
+      ],
+      "note": "yunnan_augdec_rank_1"
+    },
+    {
+      "id": "yunnan_kun_ming_zhi_wu_yuan",
+      "name": "昆明植物园",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "昆明植物园"
+      ],
+      "note": "yunnan_augdec_rank_2"
+    },
+    {
+      "id": "yunnan_ye_xiang_gu_re_dai_yu_lin_jing_qu",
+      "name": "野象谷热带雨林景区",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "野象谷热带雨林景区"
+      ],
+      "note": "yunnan_augdec_rank_3"
+    },
+    {
+      "id": "yunnan_hei_long_tan_gong_yuan",
+      "name": "黑龙潭公园",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "黑龙潭公园"
+      ],
+      "note": "yunnan_augdec_rank_4"
+    },
+    {
+      "id": "yunnan_zhong_ke_yuan_ban_na_zhi_wu_yuan",
+      "name": "中科院版纳植物园",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "中科院版纳植物园"
+      ],
+      "note": "yunnan_augdec_rank_5"
+    },
+    {
+      "id": "yunnan_jiang_wei_cun",
+      "name": "江尾村",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "江尾村"
+      ],
+      "note": "yunnan_augdec_rank_6"
+    },
+    {
+      "id": "yunnan_liang_wang_shan",
+      "name": "梁王山",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "梁王山"
+      ],
+      "note": "yunnan_augdec_rank_8"
+    },
+    {
+      "id": "yunnan_pu_da_cuo_guo_jia_gong_yuan",
+      "name": "普达措国家公园",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "普达措国家公园"
+      ],
+      "note": "yunnan_augdec_rank_9"
+    },
+    {
+      "id": "yunnan_lv_shi_lin_jing_qu",
+      "name": "绿石林景区",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "绿石林景区"
+      ],
+      "note": "yunnan_augdec_rank_10"
+    },
+    {
+      "id": "yunnan_ban_na_zhong_ke_yuan_re_dai_zhi_wu_yuan",
+      "name": "版纳中科院热带植物园",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "版纳中科院热带植物园",
+        "云南省版纳中科院热带植物园"
+      ],
+      "note": "yunnan_augdec_rank_11"
+    },
+    {
+      "id": "yunnan_shi_bo_sheng_tai_cheng",
+      "name": "世博生态城",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "世博生态城"
+      ],
+      "note": "yunnan_augdec_rank_12"
+    },
+    {
+      "id": "yunnan_jin_dian_gong_yuan",
+      "name": "金殿公园",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "金殿公园"
+      ],
+      "note": "yunnan_augdec_rank_13"
+    },
+    {
+      "id": "yunnan_yun_nan_teng_chong_lai_feng_shan",
+      "name": "云南腾冲来凤山",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "云南腾冲来凤山"
+      ],
+      "note": "yunnan_augdec_rank_14"
+    },
+    {
+      "id": "guilin_lin_gui_zhen",
+      "name": "临桂镇",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "临桂镇"
+      ],
+      "note": "guilin_augdec_rank_repl_4"
+    },
+    {
+      "id": "yunnan_dian_chi",
+      "name": "滇池",
+      "province": "云南省",
+      "city": "",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "滇池"
+      ],
+      "note": "yunnan_augdec_rank_repl_1"
+    },
+    {
+      "id": "changsha_ju_zi_zhou_jing_qu",
+      "name": "橘子洲景区",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "橘子洲景区"
+      ],
+      "note": "changsha_augdec_rank_repl2_2"
+    },
+    {
+      "id": "changsha_hu_nan_sheng_zhi_wu_yuan",
+      "name": "湖南省植物园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "湖南省植物园"
+      ],
+      "note": "changsha_augdec_rank_repl2_3"
+    },
+    {
+      "id": "guilin_guang_xi_shi_fan_da_xue_yan_shan_xiao_qu",
+      "name": "广西师范大学雁山校区",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "广西师范大学雁山校区"
+      ],
+      "note": "guilin_augdec_rank_repl2_1"
+    },
+    {
+      "id": "guilin_xing_ping_gu_zhen",
+      "name": "兴坪古镇",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兴坪古镇"
+      ],
+      "note": "guilin_augdec_rank_repl2_3"
+    },
+    {
+      "id": "wuhu_da_long_wo",
+      "name": "大龙窝",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "大龙窝"
+      ],
+      "note": "wuhu_augdec_rank_repl2_1"
+    },
+    {
+      "id": "wuhu_xi_tan_cun",
+      "name": "奚滩村",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "奚滩村"
+      ],
+      "note": "wuhu_augdec_rank_repl2_2"
+    },
+    {
+      "id": "wuhu_an_hui_shi_fan_da_xue_fu_shu_cui_wen_zhong_xue_zhong_yang_cheng_xiao_qu",
+      "name": "安徽师范大学附属萃文中学(中央城校区)",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "安徽师范大学附属萃文中学(中央城校区)"
+      ],
+      "note": "wuhu_augdec_rank_repl2_4"
+    },
+    {
+      "id": "changsha_ning_xiang_xiang_shan_sen_lin_gong_yuan",
+      "name": "宁乡香山森林公园",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "宁乡香山森林公园",
+        "宁乡香山国家森林公园"
+      ],
+      "note": "changsha_augdec_rank_repl3_1"
+    },
+    {
+      "id": "guilin_nan_xi_shan_gong_yuan",
+      "name": "南溪山公园",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "南溪山公园"
+      ],
+      "note": "guilin_augdec_rank_repl3_1"
+    },
+    {
+      "id": "guilin_wei_jia_du_cun_gui_lin_shi_yan_shan_qu",
+      "name": "卫家渡村(桂林市雁山区)",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "卫家渡村(桂林市雁山区)"
+      ],
+      "note": "guilin_augdec_rank_repl3_2"
+    },
+    {
+      "id": "lanzhou_lan_zhou_zhi_wu_yuan",
+      "name": "兰州植物园",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "兰州植物园"
+      ],
+      "note": "lanzhou_augdec_rank_repl3_1"
+    },
+    {
+      "id": "lanzhou_bai_ta_shan_gong_yuan",
+      "name": "白塔山公园",
+      "province": "甘肃省",
+      "city": "兰州市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "白塔山公园"
+      ],
+      "note": "lanzhou_augdec_rank_repl4_1"
+    },
+    {
+      "id": "wuhu_wu_hu_hua_qiao_e_yu_hu_shi_di",
+      "name": "芜湖花桥鳄鱼湖湿地",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "芜湖花桥鳄鱼湖湿地"
+      ],
+      "note": "wuhu_augdec_rank_prefer_1"
+    },
+    {
+      "id": "wuhu_san_li_zhen",
+      "name": "三里镇",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "三里镇"
+      ],
+      "note": "wuhu_augdec_rank_prefer_5"
+    },
+    {
+      "id": "wuhu_jing_hu_qu_wu_hu_hui_cui_zhong_xue_zhang_jia_shan_zhi_lu_xi",
+      "name": "镜湖区芜湖荟萃中学(张家山支路西)",
+      "province": "安徽省",
+      "city": "芜湖市",
+      "district": "",
+      "mode": 0,
+      "outside_type": 0,
+      "default_days": 7,
+      "query_level": "point",
+      "point_aliases": [
+        "镜湖区芜湖荟萃中学(张家山支路西)",
+        "镜湖区芜湖荟萃中学(张家山支路西)"
+      ],
+      "note": "wuhu_augdec_rank_prefer3_1"
     }
   ]
 }

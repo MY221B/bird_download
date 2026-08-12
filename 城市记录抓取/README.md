@@ -37,9 +37,14 @@ python3 fetch_city_reports.py \
 
 触发验证码时会：
 
-- 自动打开验证码页面（默认开启）
-- 播放提示音并在设定秒数后进行二次提醒（默认 15 秒）
-- 停止等待你输入 `y` 后继续重试当前页
+- **默认自动识别**：拉取 4 位图形验证码 → OCR（ddddocr，红色数字预处理）→ 提交  
+  OCR 失败时回退到 **Agent 看图**：写出 `captcha_pending.jpg`，等待 `captcha_answer.txt`
+- 仍失败后再回退人工浏览器验证
+
+相关参数：
+
+- `--auto-captcha / --no-auto-captcha`（默认开启）
+- `--auto-captcha-attempts`（默认 `8`）
 
 ## 4. 输出文件命名
 

@@ -145,5 +145,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "cooks_swift_51752141.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1786528781/bird-gallery/cooks_swift/sounds/cooks_swift_51752141.mp3",
+      "public_id": "bird-gallery/cooks_swift/sounds/cooks_swift_51752141",
+      "duration": 2.376,
+      "format": "mp3",
+      "bytes": 34556,
+      "bit_rate": 116350,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "51752141",
+        "asset_url": "https://macaulaylibrary.org/asset/51752141",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

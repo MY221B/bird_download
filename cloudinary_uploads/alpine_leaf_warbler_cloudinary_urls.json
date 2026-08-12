@@ -87,5 +87,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "alpine_leaf_warbler_587758531.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1778679926/bird-gallery/alpine_leaf_warbler/sounds/alpine_leaf_warbler_587758531.mp3",
+      "public_id": "bird-gallery/alpine_leaf_warbler/sounds/alpine_leaf_warbler_587758531",
+      "duration": 380.832,
+      "format": "mp3",
+      "bytes": 5564420,
+      "bit_rate": 116889,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "587758531",
+        "asset_url": "https://macaulaylibrary.org/asset/587758531",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

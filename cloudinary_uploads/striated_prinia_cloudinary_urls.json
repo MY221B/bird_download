@@ -87,5 +87,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "striated_prinia_203919311.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1778679918/bird-gallery/striated_prinia/sounds/striated_prinia_203919311.mp3",
+      "public_id": "bird-gallery/striated_prinia/sounds/striated_prinia_203919311",
+      "duration": 32.592,
+      "format": "mp3",
+      "bytes": 662252,
+      "bit_rate": 162555,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203919311",
+        "asset_url": "https://macaulaylibrary.org/asset/203919311",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

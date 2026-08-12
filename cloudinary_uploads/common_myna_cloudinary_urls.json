@@ -164,5 +164,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "common_myna_228583561.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1786528696/bird-gallery/common_myna/sounds/common_myna_228583561.mp3",
+      "public_id": "bird-gallery/common_myna/sounds/common_myna_228583561",
+      "duration": 185.184,
+      "format": "mp3",
+      "bytes": 2616908,
+      "bit_rate": 113051,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "228583561",
+        "asset_url": "https://macaulaylibrary.org/asset/228583561",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

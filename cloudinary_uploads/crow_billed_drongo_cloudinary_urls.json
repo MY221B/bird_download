@@ -49,5 +49,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "crow_billed_drongo_601449901.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1786528680/bird-gallery/crow_billed_drongo/sounds/crow_billed_drongo_601449901.mp3",
+      "public_id": "bird-gallery/crow_billed_drongo/sounds/crow_billed_drongo_601449901",
+      "duration": 12.36,
+      "format": "mp3",
+      "bytes": 255860,
+      "bit_rate": 165605,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "601449901",
+        "asset_url": "https://macaulaylibrary.org/asset/601449901",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

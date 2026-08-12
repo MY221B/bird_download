@@ -28,19 +28,25 @@ fi
 echo "▶️  Running weekly refresh for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh.py --days "${REFRESH_DAYS}"
 
+commit_quiz_changes() {
+if [[ ! -d "${QUIZ_DIR}" || ( ! -f "${QUIZ_DIR}/.git" && ! -d "${QUIZ_DIR}/.git" ) ]]; then
+  echo "⚠️  feather-flash-quiz 未检出为独立 Git 工作树，跳过子模块提交"
+  return 0
+fi
+
 echo "🔄 更新 location_birds 路径清单 (manifest)..."
 cd "${QUIZ_DIR}"
 node scripts/generate-location-birds-manifest.js
 if [[ -z "$(git status --porcelain)" ]]; then
   echo "✅ feather-flash-quiz has no changes; skipping commit."
-  exit 0
+  return 0
 fi
 
 echo "🗂️  Staging changes under feather-flash-quiz..."
 git add -A
 if git diff --cached --quiet; then
   echo "⚠️  Nothing new to commit after staging."
-  exit 0
+  return 0
 fi
 
 # 检查 git 用户配置
@@ -108,6 +114,9 @@ git push --quiet origin main
 echo "🚀 Pushing feather-flash-quiz to origin/develop_lovable..."
 git push --quiet origin main:develop_lovable
 echo "✨ feather-flash-quiz pushed successfully (main + develop_lovable)."
+}
+
+commit_quiz_changes
 
 # 🔄 推送主仓库改动
 cd "${REPO_ROOT}"

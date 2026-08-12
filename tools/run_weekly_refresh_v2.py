@@ -29,6 +29,7 @@ TMP_BASE = PROJECT_ROOT / "tmp" / "weekly_refresh"
 MIN_SPECIES_DEFAULT = 10
 MAX_RETRIES = 2
 MAX_FETCH_RETRIES = 2  # 抓取失败最多重试 2 次，共 3 次尝试
+PHOTO_SOURCES = ["macaulay", "inaturalist", "wikimedia", "avibase"]
 
 sys.path.insert(0, str(PROJECT_ROOT / "tools"))
 from location_utils import get_location_birds_path
@@ -315,18 +316,38 @@ def read_slugs_from_csv(csv_file):
     return slugs
 
 
+def cloudinary_json_has_photos(slug):
+    json_file = PROJECT_ROOT / "cloudinary_uploads" / f"{slug}_cloudinary_urls.json"
+    if not json_file.exists():
+        return False
+    try:
+        with open(json_file, "r", encoding="utf-8") as fp:
+            data = json.load(fp)
+    except Exception:
+        return False
+    return any(
+        isinstance(data.get(source), list) and len(data.get(source, [])) > 0
+        for source in PHOTO_SOURCES
+    )
+
+
+def find_unpublishable_cloudinary_slugs(slugs):
+    return [slug for slug in slugs if not cloudinary_json_has_photos(slug)]
+
+
 def copy_json_to_location(slugs, location_name, report_code):
+    missing = find_unpublishable_cloudinary_slugs(slugs)
+    if missing:
+        raise RuntimeError(
+            "缺少可发布的 Cloudinary JSON: " + ", ".join(missing)
+        )
     dest_dir = get_location_birds_path(location_name, report_code)
     dest_dir.mkdir(parents=True, exist_ok=True)
     copied = 0
-    missing = []
     for slug in slugs:
         src = PROJECT_ROOT / "cloudinary_uploads" / f"{slug}_cloudinary_urls.json"
-        if src.exists():
-            shutil.copy2(src, dest_dir / src.name)
-            copied += 1
-        else:
-            missing.append(slug)
+        shutil.copy2(src, dest_dir / src.name)
+        copied += 1
     location_dir = dest_dir.parent
     for old_folder in location_dir.iterdir():
         if old_folder.is_dir() and old_folder.name != report_code and old_folder.name != "000000":
@@ -420,8 +441,15 @@ def main():
         species_count = len(records)
         print(f"📊 {loc_name} 去重鸟种: {species_count}")
 
-        if species_count < max(1, args.min_species):
-            print(f"⚠️  警告：少于 {args.min_species} 种（当前 {species_count} 种），但仍会继续处理")
+        min_species = max(1, args.min_species)
+        if species_count < min_species:
+            print(f"⚠️  跳过更新：少于 {min_species} 种（当前 {species_count} 种），保留既有 location_birds 快照")
+            summary.append({
+                "location": loc_name,
+                "status": "跳过更新（鸟种过少）",
+                "details": f"{species_count} 种，低于 {min_species} 种阈值",
+            })
+            continue
 
         slug_info = write_csv_from_records(records, csv_file)
         merge_with_all_birds_csv(csv_file)
@@ -551,6 +579,26 @@ def main():
 
         update_bird_info(csv_file)
         slugs = read_slugs_from_csv(csv_file)
+        unpublishable_slugs = find_unpublishable_cloudinary_slugs(slugs)
+        if unpublishable_slugs:
+            print(
+                "⚠️  跳过更新：以下鸟类缺少可发布的 Cloudinary 图片 JSON，"
+                "保留既有 location_birds 快照: "
+                + ", ".join(unpublishable_slugs)
+            )
+            summary.append({
+                "location": loc_name,
+                "status": "跳过更新（缺少 Cloudinary JSON）",
+                "details": f"{species_count} 种",
+                "downloads": format_slug_list(downloads_for_log, slug_info),
+                "downloads_raw": downloads_for_log,
+                "missing_local": [],
+                "missing_json": format_slug_list(unpublishable_slugs, slug_info),
+                "sounds_success": 0,
+                "sounds_failed": 0,
+                "sounds_failed_details": [],
+            })
+            continue
         success_sounds, failed_sounds = download_and_upload_sounds(slugs, location_dir)
         dest_dir, copied, missing_copy = copy_json_to_location(slugs, loc_name, report_code)
 
@@ -562,8 +610,6 @@ def main():
                 final_missing_local.append(slug)
 
         status = "已更新"
-        if species_count < max(1, args.min_species):
-            status = f"已更新（{species_count}种，少于{args.min_species}种阈值）"
 
         summary.append({
             "location": loc_name,

@@ -363,6 +363,16 @@ def copy_json_to_location(slugs, location_name, report_code):
         else:
             missing.append(slug)
 
+    if not slugs:
+        print(f"⚠️  {location_name}: 未解析到鸟种，保留旧日期目录")
+        return dest_dir, copied, missing
+    if missing or copied != len(slugs):
+        print(
+            f"⚠️  {location_name}: Cloudinary JSON 复制不完整 "
+            f"({copied}/{len(slugs)})，保留旧日期目录"
+        )
+        return dest_dir, copied, missing
+
     # 清理旧日期文件夹，只保留当前 report_code（永不删除 000000 静态数据集）
     location_dir = dest_dir.parent
     for old_folder in location_dir.iterdir():

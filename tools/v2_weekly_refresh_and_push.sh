@@ -14,6 +14,14 @@ QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"
 
 cd "${REPO_ROOT}"
 
+# Cloud Agent：若配置了 FEATHER_FLASH_QUIZ_TOKEN，把子模块 origin 改为 x-access-token URL。
+# 须对该仓库有写入权限（Fine-grained: Contents Read and write；classic: repo）。仅 read-only 时无法 push。
+# 放在 Lovable 同步之前，以便 sync_from_lovable.sh 内的 pull 也能走同一凭据。
+if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]] && [[ -e "${QUIZ_DIR}/.git" ]]; then
+  git -C "${QUIZ_DIR}" remote set-url origin "https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
+  echo "✅ feather-flash-quiz origin 已注入 token（Cloud Agent）"
+fi
+
 # 🔄 开始前：从 Lovable 同步最新改动
 echo "🔄 从 Lovable 同步最新改动..."
 if bash "${REPO_ROOT}/tools/sync_from_lovable.sh"; then

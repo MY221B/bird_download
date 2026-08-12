@@ -133,6 +133,10 @@ SLUG_TO_CODE_MAPPING = {
     # 雀形目
     'dusky_warbler': 'duswar',  # 褐柳莺（注意：不是 duswar1）
 
+    # 多种 Grasshopper Warbler 词重叠很高，必须固定到对应 eBird code，避免模糊匹配串种
+    'middendorffs_grasshopper_warbler': 'migwar',
+    'pallass_grasshopper_warbler': 'pagwar1',
+
     # eBird 仍作 Godlewski's Bunting；IOC「西南灰眉岩鹀」学名 Emberiza yunnanensis 无独立种
     'southern_rock_bunting': 'godbun1',
     # 学名已从 Charadrius 移至 Anarhynchus；英文名匹配即可，此处兜底

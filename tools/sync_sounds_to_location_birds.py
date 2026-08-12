@@ -24,12 +24,15 @@ def sync_sounds_to_location_json(location_json: Path, main_json: Path):
     with open(main_json, 'r', encoding='utf-8') as f:
         main_data = json.load(f)
     
-    main_sounds = main_data.get('sounds', [])
-    
-    if not main_sounds:
-        # 主目录也没有 sounds，跳过
+    # Only sync when main explicitly manages sounds. Missing key means "no
+    # opinion" (many species never got audio); do not wipe location entries.
+    # Explicit `"sounds": []` is the remediation signal and must propagate.
+    if 'sounds' not in main_data:
         return False
-    
+    main_sounds = main_data['sounds']
+    if not isinstance(main_sounds, list):
+        return False
+
     # 读取 location 的 JSON
     if not location_json.exists():
         return False
@@ -37,14 +40,16 @@ def sync_sounds_to_location_json(location_json: Path, main_json: Path):
     with open(location_json, 'r', encoding='utf-8') as f:
         loc_data = json.load(f)
     
-    # 检查是否需要更新
-    loc_sounds = loc_data.get('sounds', [])
-    
-    if loc_sounds and len(loc_sounds) == len(main_sounds):
-        # 已经有 sounds 且数量相同，可能已经是最新的
+    # Sync when content differs — including main cleared to [] so bad location
+    # audio is removed after remediation. Same-count wrong→right also updates.
+    loc_sounds = loc_data.get('sounds') or []
+    if not isinstance(loc_sounds, list):
+        loc_sounds = []
+
+    if loc_sounds == main_sounds:
         return False
     
-    # 更新 sounds 字段
+    # 更新 sounds 字段（允许写空列表以清除错误鸟声）
     loc_data['sounds'] = main_sounds
     
     # 保存

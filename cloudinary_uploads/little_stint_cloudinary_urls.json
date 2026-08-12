@@ -126,5 +126,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "little_stint_533917821.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1786497522/bird-gallery/little_stint/sounds/little_stint_533917821.mp3",
+      "public_id": "bird-gallery/little_stint/sounds/little_stint_533917821",
+      "duration": 16.872,
+      "format": "mp3",
+      "bytes": 436796,
+      "bit_rate": 207110,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "533917821",
+        "asset_url": "https://macaulaylibrary.org/asset/533917821",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

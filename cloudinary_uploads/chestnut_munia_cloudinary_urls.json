@@ -1,0 +1,171 @@
+{
+  "bird_info": {
+    "slug": "chestnut_munia",
+    "chinese_name": "栗腹文鸟",
+    "english_name": "Chestnut Munia",
+    "scientific_name": "Lonchura atricapilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_munia_175565271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786497505/bird-gallery/chestnut_munia/macaulay/chestnut_munia_175565271.jpg",
+      "public_id": "bird-gallery/chestnut_munia/macaulay/chestnut_munia_175565271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86876,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/175565271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "175565271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_munia_246493201.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786497506/bird-gallery/chestnut_munia/macaulay/chestnut_munia_246493201.jpg",
+      "public_id": "bird-gallery/chestnut_munia/macaulay/chestnut_munia_246493201",
+      "width": 1200,
+      "height": 738,
+      "format": "jpg",
+      "bytes": 47475,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/246493201",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "246493201",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_munia_66387361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786497507/bird-gallery/chestnut_munia/macaulay/chestnut_munia_66387361.jpg",
+      "public_id": "bird-gallery/chestnut_munia/macaulay/chestnut_munia_66387361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84142,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/66387361",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "66387361",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_munia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786497508/bird-gallery/chestnut_munia/inaturalist/chestnut_munia_1.jpg",
+      "public_id": "bird-gallery/chestnut_munia/inaturalist/chestnut_munia_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 86016,
+      "attribution": {
+        "photographer": "aparajita_datta",
+        "photographer_url": "https://www.inaturalist.org/observations/291803848",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© aparajita_datta (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 291803848,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_munia_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786497509/bird-gallery/chestnut_munia/inaturalist/chestnut_munia_2.jpg",
+      "public_id": "bird-gallery/chestnut_munia/inaturalist/chestnut_munia_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 94404,
+      "attribution": {
+        "photographer": "nopenot",
+        "photographer_url": "https://www.inaturalist.org/observations/281640433",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© nopenot (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 281640433,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_munia_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786497510/bird-gallery/chestnut_munia/inaturalist/chestnut_munia_3.jpg",
+      "public_id": "bird-gallery/chestnut_munia/inaturalist/chestnut_munia_3",
+      "width": 912,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 92206,
+      "attribution": {
+        "photographer": "larsmannzen",
+        "photographer_url": "https://www.inaturalist.org/observations/155486053",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© larsmannzen (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 155486053,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "chestnut_munia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1786497511/bird-gallery/chestnut_munia/wikimedia/chestnut_munia_1.jpg",
+      "public_id": "bird-gallery/chestnut_munia/wikimedia/chestnut_munia_1",
+      "width": 1280,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 105196,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "chestnut_munia_352328691.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1786497530/bird-gallery/chestnut_munia/sounds/chestnut_munia_352328691.mp3",
+      "public_id": "bird-gallery/chestnut_munia/sounds/chestnut_munia_352328691",
+      "duration": 18.768,
+      "format": "mp3",
+      "bytes": 265580,
+      "bit_rate": 113205,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "352328691",
+        "asset_url": "https://macaulaylibrary.org/asset/352328691",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

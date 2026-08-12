@@ -8,10 +8,12 @@ set -e  # 遇到错误就退出
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 SUBMODULE_PATH="$PROJECT_ROOT/feather-flash-quiz"
+source "$SCRIPT_DIR/git_submodule_utils.sh"
 
 echo "🔄 开始将本地改动同步到 Lovable (develop_lovable)..."
 echo ""
 
+require_independent_git_checkout "$SUBMODULE_PATH" "feather-flash-quiz" || exit 1
 cd "$SUBMODULE_PATH"
 
 # 保存当前分支

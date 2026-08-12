@@ -25,7 +25,17 @@ NC='\033[0m' # No Color
 
 # 获取项目根目录
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
+source "${REPO_ROOT}/tools/git_submodule_utils.sh"
 cd "${REPO_ROOT}"
+
+CURRENT_MAIN_BRANCH="$(git branch --show-current)"
+if [[ "${CURRENT_MAIN_BRANCH}" != "main" ]]; then
+    echo -e "${RED}❌ 当前主仓库分支为 ${CURRENT_MAIN_BRANCH}，删除脚本必须在 main 分支运行。${NC}"
+    exit 1
+fi
+echo -e "${BLUE}🔄 拉取主仓库 main 最新改动...${NC}"
+git pull origin main --no-rebase
+echo ""
 
 # Cloudinary：与周更上传、delete_cloudinary_by_list.py 相同凭证源
 check_cloudinary_credentials() {
@@ -59,8 +69,13 @@ echo -e "${BLUE}🔄 从 Lovable 同步最新改动...${NC}"
 if bash "${REPO_ROOT}/tools/sync_from_lovable.sh"; then
   echo -e "${GREEN}✅ Lovable 同步完成${NC}"
 else
-  echo -e "${YELLOW}⚠️  Lovable 同步失败，继续执行...${NC}"
+  echo -e "${RED}❌ Lovable 同步失败，停止执行，避免删除 CDN 后无法提交引用清理。${NC}"
+  exit 1
 fi
+echo ""
+
+require_independent_git_checkout "${REPO_ROOT}/feather-flash-quiz" "feather-flash-quiz" || exit 1
+git -C "${REPO_ROOT}/feather-flash-quiz" checkout main
 echo ""
 
 echo -e "${BLUE}☁️  检查 Cloudinary 凭证（.cloudinary_secrets 或 CLOUDINARY_* 环境变量）...${NC}"
@@ -162,9 +177,8 @@ else
 
     # 推送到 main 分支
     echo -e "🚀 推送子模块到 origin/main..."
-    git checkout main 2>/dev/null || git checkout -b main
     echo -e "🔄 拉取远程 main 最新改动..."
-    git pull origin main --no-rebase
+    git pull --rebase origin main
     git push origin main
 
     # 同时推送到 develop_lovable 分支
@@ -203,9 +217,8 @@ if [[ -n "$(git status --porcelain)" ]]; then
     
     # 推送到 main 分支（主仓库只推送到 main）
     echo -e "🚀 推送主仓库到 origin/main..."
-    git checkout main 2>/dev/null || git checkout -b main
     echo -e "🔄 拉取远程 main 最新改动..."
-    git pull origin main --no-rebase
+    git pull --rebase origin main
     git push origin main
     
     echo -e "${GREEN}✅ 主仓库已推送到 main 分支${NC}"

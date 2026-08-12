@@ -11,6 +11,26 @@ COMMIT_MSG="${COMMIT_MSG:-chore: weekly refresh $(date +%Y-%m-%d)}"
 
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"
+FEATHER_REMOTE_URL="https://github.com/MY221B/feather-flash-quiz.git"
+
+git_feather() {
+  if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
+    git \
+      -c credential.helper= \
+      -c 'credential.helper=!f() { echo username=x-access-token; echo "password=${FEATHER_FLASH_QUIZ_TOKEN}"; }; f' \
+      "$@"
+  else
+    git "$@"
+  fi
+}
+
+ensure_clean_feather_remote() {
+  local current_url
+  current_url="$(git remote get-url origin 2>/dev/null || true)"
+  if [[ "${current_url}" == https://x-access-token:*@github.com/MY221B/feather-flash-quiz.git ]]; then
+    git remote set-url origin "${FEATHER_REMOTE_URL}"
+  fi
+}
 
 cd "${REPO_ROOT}"
 
@@ -22,6 +42,15 @@ else
   echo "⚠️  Lovable 同步失败，继续执行..."
 fi
 echo ""
+
+cd "${QUIZ_DIR}"
+ensure_clean_feather_remote
+git checkout main 2>/dev/null || git checkout -b main origin/main
+git_feather pull --rebase origin main
+if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
+  echo "✅ feather-flash-quiz 将通过临时凭据推送（不会写入 remote URL）"
+fi
+cd "${REPO_ROOT}"
 
 # Load eBird API Token for bird sounds download
 if [[ -f "${REPO_ROOT}/config/ebird_token.sh" ]]; then
@@ -52,12 +81,7 @@ echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 
 cd "${QUIZ_DIR}"
-
-# 在 Cloud Agent 环境中注入 token 到子模块 remote（本地无此环境变量时跳过）
-if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
-  git remote set-url origin "https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
-  echo "✅ feather-flash-quiz remote URL 已注入 token"
-fi
+ensure_clean_feather_remote
 
 node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
 if [[ -z "$(git status --porcelain)" ]]; then
@@ -111,15 +135,14 @@ if ! git config user.name > /dev/null 2>&1 || ! git config user.email > /dev/nul
 fi
 
 git commit --quiet -m "${COMMIT_MSG}"
-current_branch="$(git rev-parse --abbrev-ref HEAD)"
-if ! git pull --rebase origin "${current_branch}" 2>/dev/null; then
+if ! git_feather pull --rebase origin main 2>/dev/null; then
   if git status | grep -q "rebase in progress"; then
     echo "❌ feather-flash-quiz rebase 冲突，请手动解决"
     exit 1
   fi
 fi
-git push --quiet origin main
-git push --quiet origin main:develop_lovable
+git_feather push --quiet origin HEAD:main
+git_feather push --quiet origin HEAD:develop_lovable
 echo "✅ feather-flash-quiz 已提交并推送"
 
 # 🔄 推送主仓库改动

@@ -364,10 +364,16 @@ def copy_json_to_location(slugs, location_name, report_code):
             missing.append(slug)
 
     # 清理旧日期文件夹，只保留当前 report_code（永不删除 000000 静态数据集）
-    location_dir = dest_dir.parent
-    for old_folder in location_dir.iterdir():
-        if old_folder.is_dir() and old_folder.name != report_code and old_folder.name != "000000":
-            shutil.rmtree(old_folder)
+    if missing:
+        print(
+            f"⚠️  {location_name} 本次复制缺少 {len(missing)} 个 JSON，"
+            "保留旧日期文件夹以便回退"
+        )
+    else:
+        location_dir = dest_dir.parent
+        for old_folder in location_dir.iterdir():
+            if old_folder.is_dir() and old_folder.name != report_code and old_folder.name != "000000":
+                shutil.rmtree(old_folder)
 
     return dest_dir, copied, missing
 

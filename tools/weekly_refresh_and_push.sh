@@ -9,6 +9,50 @@ COMMIT_MSG="${COMMIT_MSG:-chore: weekly refresh $(date +%Y-%m-%d)}"
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"
 
+ensure_quiz_repo() {
+  local quiz_top
+
+  if ! quiz_top="$(git -C "${QUIZ_DIR}" rev-parse --show-toplevel 2>/dev/null)"; then
+    echo "❌ feather-flash-quiz 子模块未初始化，请先运行："
+    echo "  git submodule update --init feather-flash-quiz"
+    exit 1
+  fi
+
+  if [[ "${quiz_top}" != "${QUIZ_DIR}" ]]; then
+    echo "❌ feather-flash-quiz 不是独立 Git 仓库，停止以避免误操作主仓库"
+    echo "  请运行：git submodule update --init feather-flash-quiz"
+    exit 1
+  fi
+}
+
+install_python_requirements() {
+  local missing
+
+  missing="$(python3 - <<'PY'
+import importlib.util
+
+required = {
+    "requests": "requests",
+    "Crypto": "pycryptodome",
+    "cloudinary": "cloudinary",
+}
+
+print(
+    ", ".join(
+        package
+        for module, package in required.items()
+        if importlib.util.find_spec(module) is None
+    )
+)
+PY
+)"
+
+  if [[ -n "${missing}" ]]; then
+    echo "📦 安装缺失 Python 依赖：${missing}"
+    python3 -m pip install --user -q -r "${REPO_ROOT}/requirements.txt"
+  fi
+}
+
 cd "${REPO_ROOT}"
 
 # 🔄 开始前：从 Lovable 同步最新改动
@@ -26,22 +70,21 @@ if [[ -f "${REPO_ROOT}/config/ebird_token.sh" ]]; then
 fi
 
 echo "▶️  Running weekly refresh for the past ${REFRESH_DAYS} days..."
+install_python_requirements
 python3 tools/run_weekly_refresh.py --days "${REFRESH_DAYS}"
 
 echo "🔄 更新 location_birds 路径清单 (manifest)..."
+ensure_quiz_repo
 cd "${QUIZ_DIR}"
 node scripts/generate-location-birds-manifest.js
 if [[ -z "$(git status --porcelain)" ]]; then
-  echo "✅ feather-flash-quiz has no changes; skipping commit."
-  exit 0
-fi
-
+  echo "✅ feather-flash-quiz has no changes; skipping submodule commit and push."
+else
 echo "🗂️  Staging changes under feather-flash-quiz..."
 git add -A
 if git diff --cached --quiet; then
-  echo "⚠️  Nothing new to commit after staging."
-  exit 0
-fi
+  echo "⚠️  Nothing new to commit after staging; skipping submodule push."
+else
 
 # 检查 git 用户配置
 if ! git config user.name > /dev/null 2>&1 || ! git config user.email > /dev/null 2>&1; then
@@ -108,6 +151,8 @@ git push --quiet origin main
 echo "🚀 Pushing feather-flash-quiz to origin/develop_lovable..."
 git push --quiet origin main:develop_lovable
 echo "✨ feather-flash-quiz pushed successfully (main + develop_lovable)."
+fi
+fi
 
 # 🔄 推送主仓库改动
 cd "${REPO_ROOT}"

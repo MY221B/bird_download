@@ -14,50 +14,49 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).parent.parent
 
 # 导入工具函数
-import sys
 sys.path.insert(0, str(PROJECT_ROOT / "tools"))
 from location_utils import get_location_birds_path
+from process_new_birds import _pick_canonical_slug
 
 def load_all_birds_csv():
-    """从 all_birds.csv 加载所有鸟类信息，返回中文名到slug的映射"""
+    """从 all_birds.csv 加载中文名→slug 候选；重复名在查找时按媒体完整度挑选。"""
     csv_file = PROJECT_ROOT / 'all_birds.csv'
     slug_by_chinese = {}
-    
+
     if not csv_file.exists():
         return slug_by_chinese
-    
+
     try:
         with open(csv_file, 'r', encoding='utf-8') as f:
             lines = f.readlines()
             data_lines = [line for line in lines if line.strip() and not line.strip().startswith('#')]
-            
-            # 检查是否有chinese_name字段
+
             header_line = None
             for i, line in enumerate(lines):
                 if line.strip().startswith('#'):
                     header_line = i
                     break
-            
+
             has_chinese = False
             if header_line is not None:
                 header = lines[header_line].strip()
                 has_chinese = 'chinese_name' in header.lower()
-            
+
             if data_lines:
                 if has_chinese:
                     reader = csv.DictReader(data_lines, fieldnames=['slug', 'chinese_name', 'english_name', 'scientific_name', 'wikipedia_page'])
                 else:
                     reader = csv.DictReader(data_lines, fieldnames=['slug', 'english_name', 'scientific_name', 'wikipedia_page'])
-                
+
                 for row in reader:
                     slug = row.get('slug', '').strip()
-                    if slug and slug != 'slug':  # 跳过可能的表头
+                    if slug and slug != 'slug':
                         chinese = row.get('chinese_name', '').strip('"') if has_chinese else ''
                         if chinese:
-                            slug_by_chinese[chinese] = slug
+                            slug_by_chinese.setdefault(chinese, []).append(slug)
     except Exception as e:
         print(f"⚠️  读取 all_birds.csv 失败: {e}")
-    
+
     return slug_by_chinese
 
 
@@ -118,9 +117,9 @@ def main():
     print(f"📁 目标目录: {target_dir}\n")
     
     for chinese_name in bird_names:
-        # 查找slug
-        slug = slug_by_chinese.get(chinese_name)
-        
+        candidates = slug_by_chinese.get(chinese_name) or []
+        slug = _pick_canonical_slug(candidates) if candidates else None
+
         if not slug:
             print(f"⚠️  {chinese_name} - 未找到对应的slug")
             not_found_count += 1

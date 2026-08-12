@@ -20,6 +20,7 @@ os.chdir(PROJECT_ROOT)
 sys.path.insert(0, str(PROJECT_ROOT / "tools"))
 from parse_birdreport_table import parse_birdreport_table
 from location_utils import get_location_birds_path
+from process_new_birds import _pick_canonical_slug
 
 def parse_birdreport_table_improved(lines):
     """
@@ -86,75 +87,71 @@ def parse_birdreport_table_improved(lines):
 
 
 def load_all_birds_csv():
-    """从 all_birds.csv 加载所有鸟类信息，返回多个映射"""
+    """从 all_birds.csv 加载映射；重复中文名/学名保留候选列表，稍后按媒体完整度挑选。"""
     csv_file = PROJECT_ROOT / 'all_birds.csv'
     slug_by_chinese = {}
     slug_by_english = {}
     slug_by_scientific = {}
-    
+
     if not csv_file.exists():
         return slug_by_chinese, slug_by_english, slug_by_scientific
-    
+
     try:
         with open(csv_file, 'r', encoding='utf-8') as f:
             lines = f.readlines()
             data_lines = [line for line in lines if line.strip() and not line.strip().startswith('#')]
-            
-            # 检查是否有chinese_name字段
+
             header_line = None
             for i, line in enumerate(lines):
                 if line.strip().startswith('#'):
                     header_line = i
                     break
-            
+
             has_chinese = False
             if header_line is not None:
                 header = lines[header_line].strip()
                 has_chinese = 'chinese_name' in header.lower()
-            
+
             if data_lines:
                 if has_chinese:
                     reader = csv.DictReader(data_lines, fieldnames=['slug', 'chinese_name', 'english_name', 'scientific_name', 'wikipedia_page'])
                 else:
                     reader = csv.DictReader(data_lines, fieldnames=['slug', 'english_name', 'scientific_name', 'wikipedia_page'])
-                
+
                 for row in reader:
                     slug = row.get('slug', '').strip()
-                    if slug and slug != 'slug':  # 跳过可能的表头
+                    if slug and slug != 'slug':
                         chinese = row.get('chinese_name', '').strip('"') if has_chinese else ''
                         english = row.get('english_name', '').strip('"')
                         scientific = row.get('scientific_name', '').strip('"')
-                        
+
                         if chinese:
-                            slug_by_chinese[chinese] = slug
+                            slug_by_chinese.setdefault(chinese, []).append(slug)
                         if english:
-                            slug_by_english[english] = slug
+                            slug_by_english.setdefault(english, []).append(slug)
                         if scientific:
-                            slug_by_scientific[scientific] = slug
+                            slug_by_scientific.setdefault(scientific, []).append(slug)
     except Exception as e:
         print(f"⚠️  读取 all_birds.csv 失败: {e}")
-    
+
     return slug_by_chinese, slug_by_english, slug_by_scientific
 
 
 def find_slug_for_bird(bird, slug_by_chinese, slug_by_english, slug_by_scientific):
-    """根据鸟类信息找到对应的slug"""
+    """根据鸟类信息找到对应的slug（重复名时选媒体更完整的规范条目）"""
     chinese = bird.get('chinese', '')
     english = bird.get('english', '')
     scientific = bird.get('scientific', '')
-    
-    # 优先使用中文名匹配
+
     if chinese and chinese in slug_by_chinese:
-        return slug_by_chinese[chinese]
-    
-    # 其次使用英文名匹配
+        return _pick_canonical_slug(slug_by_chinese[chinese])
+
     if english and english in slug_by_english:
-        return slug_by_english[english]
-    
-    # 最后使用学名匹配
+        return _pick_canonical_slug(slug_by_english[english])
+
     if scientific and scientific in slug_by_scientific:
-        return slug_by_scientific[scientific]
-    
+        return _pick_canonical_slug(slug_by_scientific[scientific])
+
     return None
 
 
@@ -191,7 +188,7 @@ def main():
     # 加载slug映射
     print("📖 加载鸟类slug映射...")
     slug_by_chinese, slug_by_english, slug_by_scientific = load_all_birds_csv()
-    print(f"✅ 加载了 {len(slug_by_chinese)} 个中文名映射\n")
+    print(f"✅ 加载了 {len(slug_by_chinese)} 个中文名（含重复候选）\n")
     
     # 目标目录（使用新的文件夹结构：城市/地点/日期）
     target_dir = get_location_birds_path(location, date)

@@ -11,6 +11,15 @@ COMMIT_MSG="${COMMIT_MSG:-chore: weekly refresh $(date +%Y-%m-%d)}"
 
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"
+GIT_ASKPASS_SCRIPT=""
+
+cleanup_git_askpass() {
+  if [[ -n "${GIT_ASKPASS_SCRIPT}" && -f "${GIT_ASKPASS_SCRIPT}" ]]; then
+    rm -f "${GIT_ASKPASS_SCRIPT}"
+  fi
+}
+
+trap cleanup_git_askpass EXIT
 
 cd "${REPO_ROOT}"
 
@@ -51,12 +60,42 @@ fi
 echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 
+if [[ ! -d "${QUIZ_DIR}" ]]; then
+  echo "❌ feather-flash-quiz 子模块目录不存在，请先运行 git submodule update --init feather-flash-quiz"
+  exit 1
+fi
+
+QUIZ_GIT_ROOT="$(git -C "${QUIZ_DIR}" rev-parse --show-toplevel 2>/dev/null || true)"
+if [[ "${QUIZ_GIT_ROOT}" != "${QUIZ_DIR}" ]]; then
+  echo "❌ feather-flash-quiz 不是独立 Git 工作区，拒绝继续以避免误操作主仓库"
+  echo "请先运行：git submodule update --init feather-flash-quiz"
+  exit 1
+fi
+
 cd "${QUIZ_DIR}"
 
-# 在 Cloud Agent 环境中注入 token 到子模块 remote（本地无此环境变量时跳过）
+# 清理旧版本脚本可能写入的 token remote，避免凭据长期留在 .git/config。
+# 读取存储值而不是 get-url，避免把 Cloud 环境的全局 URL 重写误判为本仓配置。
+origin_url="$(git config --get remote.origin.url 2>/dev/null || true)"
+if [[ "${origin_url}" == https://x-access-token:*@github.com/MY221B/feather-flash-quiz.git ]]; then
+  git remote set-url origin "https://github.com/MY221B/feather-flash-quiz.git"
+fi
+
+# 在 Cloud Agent 环境中用临时 askpass 提供 token，避免写入 remote URL。
 if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
-  git remote set-url origin "https://x-access-token:${FEATHER_FLASH_QUIZ_TOKEN}@github.com/MY221B/feather-flash-quiz.git"
-  echo "✅ feather-flash-quiz remote URL 已注入 token"
+  GIT_ASKPASS_SCRIPT="$(mktemp)"
+  cat > "${GIT_ASKPASS_SCRIPT}" <<'EOF'
+#!/usr/bin/env bash
+case "$1" in
+  *Username*) printf '%s\n' 'x-access-token' ;;
+  *Password*) printf '%s\n' "${FEATHER_FLASH_QUIZ_TOKEN}" ;;
+  *) printf '\n' ;;
+esac
+EOF
+  chmod 700 "${GIT_ASKPASS_SCRIPT}"
+  export GIT_ASKPASS="${GIT_ASKPASS_SCRIPT}"
+  export GIT_TERMINAL_PROMPT=0
+  echo "✅ feather-flash-quiz 将使用临时 token 认证"
 fi
 
 node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
@@ -112,14 +151,14 @@ fi
 
 git commit --quiet -m "${COMMIT_MSG}"
 current_branch="$(git rev-parse --abbrev-ref HEAD)"
-if ! git pull --rebase origin "${current_branch}" 2>/dev/null; then
+if ! git -c credential.helper= pull --rebase origin "${current_branch}" 2>/dev/null; then
   if git status | grep -q "rebase in progress"; then
     echo "❌ feather-flash-quiz rebase 冲突，请手动解决"
     exit 1
   fi
 fi
-git push --quiet origin main
-git push --quiet origin main:develop_lovable
+git -c credential.helper= push --quiet origin main
+git -c credential.helper= push --quiet origin main:develop_lovable
 echo "✅ feather-flash-quiz 已提交并推送"
 
 # 🔄 推送主仓库改动

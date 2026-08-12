@@ -9,8 +9,15 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 SUBMODULE_PATH="$PROJECT_ROOT/feather-flash-quiz"
 
+source "$PROJECT_ROOT/tools/quiz_git_utils.sh"
+
 echo "🔄 开始将本地改动同步到 Lovable (develop_lovable)..."
 echo ""
+
+if ! quiz_git_is_independent_repo "$SUBMODULE_PATH"; then
+    quiz_git_print_skip "$SUBMODULE_PATH"
+    exit 0
+fi
 
 cd "$SUBMODULE_PATH"
 

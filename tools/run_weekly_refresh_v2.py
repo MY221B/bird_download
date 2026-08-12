@@ -421,7 +421,13 @@ def main():
         print(f"📊 {loc_name} 去重鸟种: {species_count}")
 
         if species_count < max(1, args.min_species):
-            print(f"⚠️  警告：少于 {args.min_species} 种（当前 {species_count} 种），但仍会继续处理")
+            print(f"⚠️  少于 {args.min_species} 种（当前 {species_count} 种），跳过该地点以保留上次报告")
+            summary.append({
+                "location": loc_name,
+                "status": "已跳过",
+                "details": f"{species_count} 种，少于 {args.min_species} 种阈值",
+            })
+            continue
 
         slug_info = write_csv_from_records(records, csv_file)
         merge_with_all_birds_csv(csv_file)
@@ -562,8 +568,6 @@ def main():
                 final_missing_local.append(slug)
 
         status = "已更新"
-        if species_count < max(1, args.min_species):
-            status = f"已更新（{species_count}种，少于{args.min_species}种阈值）"
 
         summary.append({
             "location": loc_name,

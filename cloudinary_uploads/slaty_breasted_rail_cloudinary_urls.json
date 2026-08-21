@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "slaty_breasted_rail",
+    "chinese_name": "灰胸秧鸡",
+    "english_name": "Slaty-breasted Rail",
+    "scientific_name": "Lewinia striata"
+  },
+  "macaulay": [
+    {
+      "original_file": "slaty_breasted_rail_124248011.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323613/bird-gallery/slaty_breasted_rail/macaulay/slaty_breasted_rail_124248011.jpg",
+      "public_id": "bird-gallery/slaty_breasted_rail/macaulay/slaty_breasted_rail_124248011",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 114953,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/124248011",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "124248011",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slaty_breasted_rail_156093341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323616/bird-gallery/slaty_breasted_rail/macaulay/slaty_breasted_rail_156093341.jpg",
+      "public_id": "bird-gallery/slaty_breasted_rail/macaulay/slaty_breasted_rail_156093341",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 145498,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/156093341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "156093341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slaty_breasted_rail_649954594.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323618/bird-gallery/slaty_breasted_rail/macaulay/slaty_breasted_rail_649954594.jpg",
+      "public_id": "bird-gallery/slaty_breasted_rail/macaulay/slaty_breasted_rail_649954594",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 69231,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/649954594",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "649954594",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slaty_breasted_rail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323622/bird-gallery/slaty_breasted_rail/inaturalist/slaty_breasted_rail_1.jpg",
+      "public_id": "bird-gallery/slaty_breasted_rail/inaturalist/slaty_breasted_rail_1",
+      "width": 1024,
+      "height": 575,
+      "format": "jpg",
+      "bytes": 101432,
+      "attribution": {
+        "photographer": "wingsacrossworlds",
+        "photographer_url": "https://www.inaturalist.org/observations/341070329",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wingsacrossworlds (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 341070329,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slaty_breasted_rail_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323624/bird-gallery/slaty_breasted_rail/inaturalist/slaty_breasted_rail_2.jpg",
+      "public_id": "bird-gallery/slaty_breasted_rail/inaturalist/slaty_breasted_rail_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 131212,
+      "attribution": {
+        "photographer": "dhruvapunde",
+        "photographer_url": "https://www.inaturalist.org/observations/340138239",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 340138239,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slaty_breasted_rail_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323626/bird-gallery/slaty_breasted_rail/inaturalist/slaty_breasted_rail_3.jpg",
+      "public_id": "bird-gallery/slaty_breasted_rail/inaturalist/slaty_breasted_rail_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78971,
+      "attribution": {
+        "photographer": "simon_tang",
+        "photographer_url": "https://www.inaturalist.org/observations/72605904",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© simon_tang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 72605904,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "slaty_breasted_rail_375152391.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1787323816/bird-gallery/slaty_breasted_rail/sounds/slaty_breasted_rail_375152391.mp3",
+      "public_id": "bird-gallery/slaty_breasted_rail/sounds/slaty_breasted_rail_375152391",
+      "duration": 41.928,
+      "format": "mp3",
+      "bytes": 1024748,
+      "bit_rate": 195525,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "375152391",
+        "asset_url": "https://macaulaylibrary.org/asset/375152391",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

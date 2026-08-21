@@ -87,5 +87,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "rufous_vented_tit_172621711.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1787324328/bird-gallery/rufous_vented_tit/sounds/rufous_vented_tit_172621711.mp3",
+      "public_id": "bird-gallery/rufous_vented_tit/sounds/rufous_vented_tit_172621711",
+      "duration": 21.672,
+      "format": "mp3",
+      "bytes": 308684,
+      "bit_rate": 113947,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "172621711",
+        "asset_url": "https://macaulaylibrary.org/asset/172621711",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "aleutian_tern",
+    "chinese_name": "白腰燕鸥",
+    "english_name": "Aleutian Tern",
+    "scientific_name": "Onychoprion aleuticus"
+  },
+  "macaulay": [
+    {
+      "original_file": "aleutian_tern_191226851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323549/bird-gallery/aleutian_tern/macaulay/aleutian_tern_191226851.jpg",
+      "public_id": "bird-gallery/aleutian_tern/macaulay/aleutian_tern_191226851",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 13036,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/191226851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "191226851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "aleutian_tern_87927341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323553/bird-gallery/aleutian_tern/macaulay/aleutian_tern_87927341.jpg",
+      "public_id": "bird-gallery/aleutian_tern/macaulay/aleutian_tern_87927341",
+      "width": 1200,
+      "height": 847,
+      "format": "jpg",
+      "bytes": 55602,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/87927341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "87927341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "aleutian_tern_87927371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323556/bird-gallery/aleutian_tern/macaulay/aleutian_tern_87927371.jpg",
+      "public_id": "bird-gallery/aleutian_tern/macaulay/aleutian_tern_87927371",
+      "width": 1200,
+      "height": 657,
+      "format": "jpg",
+      "bytes": 42087,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/87927371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "87927371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "aleutian_tern_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323558/bird-gallery/aleutian_tern/inaturalist/aleutian_tern_1.jpg",
+      "public_id": "bird-gallery/aleutian_tern/inaturalist/aleutian_tern_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 86494,
+      "attribution": {
+        "photographer": "exoticdvm4",
+        "photographer_url": "https://www.inaturalist.org/observations/122415535",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© exoticdvm4 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 122415535,
+        "note": null
+      }
+    },
+    {
+      "original_file": "aleutian_tern_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323559/bird-gallery/aleutian_tern/inaturalist/aleutian_tern_2.jpg",
+      "public_id": "bird-gallery/aleutian_tern/inaturalist/aleutian_tern_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 54644,
+      "attribution": {
+        "photographer": "muir",
+        "photographer_url": "https://www.inaturalist.org/observations/376026205",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© muir (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 376026205,
+        "note": null
+      }
+    },
+    {
+      "original_file": "aleutian_tern_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323562/bird-gallery/aleutian_tern/inaturalist/aleutian_tern_3.jpg",
+      "public_id": "bird-gallery/aleutian_tern/inaturalist/aleutian_tern_3",
+      "width": 551,
+      "height": 432,
+      "format": "jpg",
+      "bytes": 6059,
+      "attribution": {
+        "photographer": "jugbayjs",
+        "photographer_url": "https://www.inaturalist.org/observations/228488651",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jugbayjs (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 228488651,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "aleutian_tern_79092981.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1787323886/bird-gallery/aleutian_tern/sounds/aleutian_tern_79092981.mp3",
+      "public_id": "bird-gallery/aleutian_tern/sounds/aleutian_tern_79092981",
+      "duration": 2.544,
+      "format": "mp3",
+      "bytes": 51020,
+      "bit_rate": 160440,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "79092981",
+        "asset_url": "https://macaulaylibrary.org/asset/79092981",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

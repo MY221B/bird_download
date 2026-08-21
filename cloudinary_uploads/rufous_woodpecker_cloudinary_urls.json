@@ -125,5 +125,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "rufous_woodpecker_266469331.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1787323953/bird-gallery/rufous_woodpecker/sounds/rufous_woodpecker_266469331.mp3",
+      "public_id": "bird-gallery/rufous_woodpecker/sounds/rufous_woodpecker_266469331",
+      "duration": 2.928,
+      "format": "mp3",
+      "bytes": 50684,
+      "bit_rate": 138480,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "266469331",
+        "asset_url": "https://macaulaylibrary.org/asset/266469331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

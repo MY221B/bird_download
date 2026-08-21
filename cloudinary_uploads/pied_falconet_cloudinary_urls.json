@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "pied_falconet",
+    "chinese_name": "白腿小隼",
+    "english_name": "Pied Falconet",
+    "scientific_name": "Microhierax melanoleucos"
+  },
+  "macaulay": [
+    {
+      "original_file": "pied_falconet_375179251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323647/bird-gallery/pied_falconet/macaulay/pied_falconet_375179251.jpg",
+      "public_id": "bird-gallery/pied_falconet/macaulay/pied_falconet_375179251",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 68435,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/375179251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "375179251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pied_falconet_375179271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323650/bird-gallery/pied_falconet/macaulay/pied_falconet_375179271.jpg",
+      "public_id": "bird-gallery/pied_falconet/macaulay/pied_falconet_375179271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68133,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/375179271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "375179271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pied_falconet_572384991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323652/bird-gallery/pied_falconet/macaulay/pied_falconet_572384991.jpg",
+      "public_id": "bird-gallery/pied_falconet/macaulay/pied_falconet_572384991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 110407,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/572384991",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "572384991",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pied_falconet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323656/bird-gallery/pied_falconet/inaturalist/pied_falconet_1.jpg",
+      "public_id": "bird-gallery/pied_falconet/inaturalist/pied_falconet_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67075,
+      "attribution": {
+        "photographer": "u3nomi",
+        "photographer_url": "https://www.inaturalist.org/observations/231228644",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© u3nomi (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 231228644,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pied_falconet_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323658/bird-gallery/pied_falconet/inaturalist/pied_falconet_2.jpg",
+      "public_id": "bird-gallery/pied_falconet/inaturalist/pied_falconet_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 60624,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/34112474",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 34112474,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pied_falconet_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787323659/bird-gallery/pied_falconet/inaturalist/pied_falconet_3.jpg",
+      "public_id": "bird-gallery/pied_falconet/inaturalist/pied_falconet_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 119206,
+      "attribution": {
+        "photographer": "p_concolor",
+        "photographer_url": "https://www.inaturalist.org/observations/225085652",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© p_concolor (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 225085652,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "pied_falconet_189842.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1787324165/bird-gallery/pied_falconet/sounds/pied_falconet_189842.mp3",
+      "public_id": "bird-gallery/pied_falconet/sounds/pied_falconet_189842",
+      "duration": 289.152,
+      "format": "mp3",
+      "bytes": 3925412,
+      "bit_rate": 108604,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "189842",
+        "asset_url": "https://macaulaylibrary.org/asset/189842",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "chinese_egret_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171559/bird-gallery/chinese_egret/inaturalist/chinese_egret_1.jpg",
-      "public_id": "bird-gallery/chinese_egret/inaturalist/chinese_egret_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 239986,
-      "attribution": {
-        "photographer": "flycatcherwarblerthrush",
-        "photographer_url": "https://www.inaturalist.org/observations/43519668",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© flycatcherwarblerthrush (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 43519668,
-        "note": null
-      }
-    },
-    {
       "original_file": "chinese_egret_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774247152/bird-gallery/chinese_egret/inaturalist/chinese_egret_2.jpg",
       "public_id": "bird-gallery/chinese_egret/inaturalist/chinese_egret_2",

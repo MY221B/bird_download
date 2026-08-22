@@ -124,27 +124,7 @@
     }
   ],
   "birdphotos": [],
-  "wikimedia": [
-    {
-      "original_file": "przevalskis_partridge_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927661/bird-gallery/przevalskis_partridge/wikimedia/przevalskis_partridge_1.jpg",
-      "public_id": "bird-gallery/przevalskis_partridge/wikimedia/przevalskis_partridge_1",
-      "width": 1280,
-      "height": 960,
-      "format": "jpg",
-      "bytes": 516964,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "wikimedia",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    }
-  ],
+  "wikimedia": [],
   "avibase": [
     {
       "original_file": "avibase_2_14979235861_b717baf630_b.jpg",

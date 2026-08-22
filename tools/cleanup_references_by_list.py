@@ -3,6 +3,7 @@
 按 public_id 清单，从以下目录的记录文件中移除对应项：
 1) cloudinary_uploads/*_cloudinary_urls.json
 2) feather-flash-quiz/location_birds/**/**/*_cloudinary_urls.json
+3) feather-flash-quiz/src/data/birds/*_cloudinary_urls.json
 
 用法：
   python tools/cleanup_references_by_list.py --file delete_list.json
@@ -63,6 +64,7 @@ def main():
     roots = [
         Path("cloudinary_uploads"),
         Path("feather-flash-quiz/location_birds"),
+        Path("feather-flash-quiz/src/data/birds"),
     ]
 
     total = 0

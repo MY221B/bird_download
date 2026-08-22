@@ -102,25 +102,6 @@
         "source_id": 329821789,
         "note": null
       }
-    },
-    {
-      "original_file": "japanese_scops_owl_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778216070/bird-gallery/japanese_scops_owl/inaturalist/japanese_scops_owl_3.jpg",
-      "public_id": "bird-gallery/japanese_scops_owl/inaturalist/japanese_scops_owl_3",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 127146,
-      "attribution": {
-        "photographer": "almansa",
-        "photographer_url": "https://www.inaturalist.org/observations/263156895",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© almansa (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 263156895,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -162,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "5899797101",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_21312004644_723fb865b9_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1778216074/bird-gallery/japanese_scops_owl/avibase/avibase_2_21312004644_723fb865b9_b.jpg",
-      "public_id": "bird-gallery/japanese_scops_owl/avibase/avibase_2_21312004644_723fb865b9_b",
-      "width": 1023,
-      "height": 684,
-      "format": "jpg",
-      "bytes": 126342,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "21312004644",
         "note": "署名信息需从Flickr获取"
       }
     },

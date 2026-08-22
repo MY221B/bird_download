@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 用法: ./fetch_four_sources.sh <slug> <English Name> <Scientific Name> [Wikipedia_Page_Name] [--sources <source1,source2,...>]
+# 用法: ./fetch_four_sources.sh <slug> <English Name> <Scientific Name> [Wikipedia_Page_Name] [--sources <source1,source2,...>] [--count N]
 # 
 # 优化说明：
 # - 容错模式：单个源失败不影响其他源
@@ -8,6 +8,8 @@
 # - 优化性能：移除重复 API 调用
 # - 支持选择下载指定来源：--sources macaulay,inaturalist,wikimedia,avibase
 #   默认下载所有4个来源
+# - --count N：每个来源尝试凑满 N 张（含已有文件，默认 3）
+# - PHOTO_QA_REJECTED：拒绝清单文件，每行 slug/source/filename，跳过已质检删除的图
 
 # 注释掉严格模式，改为容错模式
 # set -e
@@ -19,13 +21,19 @@ EN_NAME=""
 SCI_NAME=""
 WIKI_PAGE_NAME=""
 SOURCES=""  # 要下载的来源，逗号分隔，如 "macaulay,inaturalist"
+PER_SOURCE_COUNT=3
+REJECTED_FILE="${PHOTO_QA_REJECTED:-}"
 
-# 解析参数：先提取 --sources，再处理位置参数
+# 解析参数：先提取 --sources / --count，再处理位置参数
 ARGS=()
 while [[ $# -gt 0 ]]; do
   case $1 in
     --sources)
       SOURCES="$2"
+      shift 2
+      ;;
+    --count)
+      PER_SOURCE_COUNT="$2"
       shift 2
       ;;
     *)
@@ -50,13 +58,14 @@ if [ ${#ARGS[@]} -ge 4 ]; then
 fi
 
 if [ -z "$SLUG" ] || [ -z "$EN_NAME" ] || [ -z "$SCI_NAME" ]; then
-  echo "用法: $0 <slug> <English Name> <Scientific Name> [Wikipedia_Page_Name] [--sources <source1,source2,...>]"
+  echo "用法: $0 <slug> <English Name> <Scientific Name> [Wikipedia_Page_Name] [--sources <source1,source2,...>] [--count N]"
   echo "示例: $0 bluetail 'Red-flanked Bluetail' 'Tarsiger cyanurus' Red-flanked_Bluetail"
   echo "      $0 bluetail 'Red-flanked Bluetail' 'Tarsiger cyanurus' Red-flanked_Bluetail --sources macaulay"
   echo "      $0 bluetail 'Red-flanked Bluetail' 'Tarsiger cyanurus' --sources macaulay,inaturalist"
+  echo "      $0 bluetail 'Red-flanked Bluetail' 'Tarsiger cyanurus' --count 10"
   echo ""
   echo "可用来源: macaulay, inaturalist, wikimedia, avibase"
-  echo "默认: 下载所有4个来源"
+  echo "默认: 下载所有4个来源，每个来源尝试 3 张"
   exit 1
 fi
 
@@ -69,6 +78,13 @@ fi
 should_download() {
   local source="$1"
   echo "$SOURCES" | grep -q "$source"
+}
+
+is_rejected() {
+  local rel="$1"
+  [ -z "$REJECTED_FILE" ] && return 1
+  [ -f "$REJECTED_FILE" ] || return 1
+  grep -Fxq "$rel" "$REJECTED_FILE" 2>/dev/null
 }
 
 ENC_EN_NAME=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$EN_NAME" 2>/dev/null || echo "$EN_NAME")
@@ -214,7 +230,9 @@ else
   echo "  [日志] 使用持久浏览器会话查询 taxonCode=$ML_CODE …"
   MACAULAY_BROWSER_HELPER="${MACAULAY_BROWSER_HELPER:-tools/macaulay_browser.py}"
   ASSET_ERR=$(mktemp -t macaulay_browser.XXXXXX)
-  ASSETS=$(python3 "$MACAULAY_BROWSER_HELPER" search --taxon-code "$ML_CODE" --media-type photo --count 20 2>"$ASSET_ERR")
+  MACAULAY_SEARCH_COUNT=$((PER_SOURCE_COUNT * 2))
+  if [ "$MACAULAY_SEARCH_COUNT" -lt 20 ]; then MACAULAY_SEARCH_COUNT=20; fi
+  ASSETS=$(python3 "$MACAULAY_BROWSER_HELPER" search --taxon-code "$ML_CODE" --media-type photo --count "$MACAULAY_SEARCH_COUNT" 2>"$ASSET_ERR")
   MACAULAY_BROWSER_STATUS=$?
   if [ "$MACAULAY_BROWSER_STATUS" -ne 0 ]; then
     sed 's/^/  /' "$ASSET_ERR" >&2
@@ -230,8 +248,13 @@ fi
 COUNT=0
 MACAULAY_META="[]"
 for ASSET_ID in $ASSETS; do
-  [ $COUNT -ge 3 ] && break
+  [ $COUNT -ge "$PER_SOURCE_COUNT" ] && break
   OUT="$BASE_DIR/macaulay/${SLUG}_$ASSET_ID.jpg"
+  REL="${SLUG}/macaulay/${SLUG}_${ASSET_ID}.jpg"
+  if is_rejected "$REL"; then
+    echo "  ⏭️  已拒绝，跳过: $REL"
+    continue
+  fi
   
   # 优化：检测文件是否已存在且有效
   if [ -f "$OUT" ] && file "$OUT" 2>/dev/null | grep -q "JPEG\|PNG\|image"; then
@@ -280,7 +303,10 @@ download_inaturalist() {
 if should_download "inaturalist"; then
 echo ""
 echo "📥 [2/4] iNaturalist"
-INAT_URL="https://api.inaturalist.org/v1/observations?taxon_name=$(echo "$SCI_NAME" | sed 's/ /%20/g')&quality_grade=research&photos=true&per_page=10&order_by=votes"
+INAT_PER_PAGE=$PER_SOURCE_COUNT
+if [ "$INAT_PER_PAGE" -lt 10 ]; then INAT_PER_PAGE=10; fi
+if [ "$INAT_PER_PAGE" -gt 200 ]; then INAT_PER_PAGE=200; fi
+INAT_URL="https://api.inaturalist.org/v1/observations?taxon_name=$(echo "$SCI_NAME" | sed 's/ /%20/g')&quality_grade=research&photos=true&per_page=${INAT_PER_PAGE}&order_by=votes"
 echo "  [日志] iNat API: $INAT_URL"
 
 # 获取完整的观察数据（包含元数据）
@@ -292,67 +318,110 @@ INAT_DATA=$(curl -s "$INAT_URL" 2>/dev/null) || {
 ICOUNT=0
 INAT_META="[]"
 if [ -n "$INAT_DATA" ]; then
-  # 使用Python处理JSON并下载
   echo "$INAT_DATA" | python3 -c "
-import sys, json, subprocess
+import json, os, re, subprocess, sys
+from pathlib import Path
+
+target = int('${PER_SOURCE_COUNT}')
+slug = '''${SLUG}'''
+out_dir = Path('''$BASE_DIR/inaturalist''')
+out_dir.mkdir(parents=True, exist_ok=True)
+reject_file = '''${REJECTED_FILE}'''
+rejected = set()
+if reject_file and Path(reject_file).is_file():
+    rejected = {line.strip() for line in Path(reject_file).read_text(encoding='utf-8').splitlines() if line.strip()}
+
+meta_path = Path('''$METADATA_FILE''')
+existing_meta = []
+try:
+    existing_meta = list((json.loads(meta_path.read_text(encoding='utf-8')) or {}).get('inaturalist') or [])
+except Exception:
+    existing_meta = []
+
+existing_files = {p.name for p in out_dir.glob('*') if p.suffix.lower() in {'.jpg', '.jpeg', '.png'} and p.stat().st_size > 1024}
+used_obs = {m.get('observation_id') for m in existing_meta if m.get('observation_id')}
+indices = []
+for name in existing_files:
+    m = re.search(r'_(\d+)\.(?:jpg|jpeg|png)$', name, re.I)
+    if m:
+        indices.append(int(m.group(1)))
+next_idx = max(indices) + 1 if indices else 1
+have = len(existing_files)
+metadata = [m for m in existing_meta if m.get('filename') in existing_files]
+print(f'  [日志] iNat 已有 {have} 张，目标 {target}')
+
+if have >= target:
+    print('__METADATA_START__')
+    print(json.dumps(metadata, ensure_ascii=False))
+    print('__METADATA_END__')
+    sys.exit(0)
+
 try:
     data = json.load(sys.stdin)
-    results = data.get('results', [])
-    count = 0
-    metadata = []
-    
-    for obs in results[:3]:
-        photos = obs.get('photos', [])
-        if not photos:
-            continue
-        
-        photo = photos[0]
-        user = obs.get('user', {})
-        obs_id = obs.get('id')
-        photo_id = photo.get('id')
-        url = photo.get('url', '').replace('square', 'large')
-        license_code = photo.get('license_code', '')
-        
-        filename = '${SLUG}_' + str(count+1) + '.jpg'
-        out_path = '$BASE_DIR/inaturalist/' + filename
-        
-        # 下载图片
-        result = subprocess.run(['curl', '-s', '-o', out_path, url], capture_output=True)
-        
-        if result.returncode == 0:
-            # 验证文件
-            verify = subprocess.run(['file', out_path], capture_output=True, text=True)
-            if 'JPEG' in verify.stdout or 'PNG' in verify.stdout:
-                count += 1
-                print(f'  ✅ iNat: {filename}')
-                
-                # 生成引用格式
-                if license_code:
-                    credit = f'© {user.get(\"login\", \"Unknown\")} (via iNaturalist), some rights reserved ({license_code.upper()})'
-                else:
-                    credit = f'© {user.get(\"login\", \"Unknown\")} (via iNaturalist), All Rights Reserved'
-                
-                # 保存元数据
-                metadata.append({
-                    'filename': filename,
-                    'observation_id': obs_id,
-                    'photo_id': photo_id,
-                    'observation_url': f'https://www.inaturalist.org/observations/{obs_id}',
-                    'photographer': user.get('login'),
-                    'license': license_code or 'all-rights-reserved',
-                    'credit_format': credit
-                })
-                
-                if count >= 3:
-                    break
-    
-    # 输出元数据JSON
-    print('__METADATA_START__')
-    print(json.dumps(metadata))
-    print('__METADATA_END__')
-    
 except Exception as e:
     print(f'  ⚠️  处理失败: {e}', file=sys.stderr)
+    print('__METADATA_START__')
+    print(json.dumps(metadata, ensure_ascii=False))
+    print('__METADATA_END__')
+    sys.exit(0)
+
+for obs in data.get('results', []):
+    if have >= target:
+        break
+    photos = obs.get('photos') or []
+    if not photos:
+        continue
+    obs_id = obs.get('id')
+    if obs_id in used_obs:
+        continue
+    photo = photos[0]
+    photo_id = photo.get('id')
+    url = (photo.get('url') or '').replace('square', 'large')
+    if not url:
+        continue
+    filename = f'{slug}_{next_idx}.jpg'
+    rel = f'{slug}/inaturalist/{filename}'
+    if rel in rejected:
+        next_idx += 1
+        continue
+    out_path = out_dir / filename
+    if out_path.exists():
+        next_idx += 1
+        continue
+    result = subprocess.run(['curl', '-s', '-o', str(out_path), url], capture_output=True)
+    if result.returncode != 0:
+        continue
+    verify = subprocess.run(['file', str(out_path)], capture_output=True, text=True)
+    if 'JPEG' not in verify.stdout and 'PNG' not in verify.stdout:
+        try:
+            out_path.unlink()
+        except OSError:
+            pass
+        continue
+    user = obs.get('user') or {}
+    license_code = photo.get('license_code') or ''
+    login = user.get('login') or 'Unknown'
+    if license_code:
+        credit = f'© {login} (via iNaturalist), some rights reserved ({license_code.upper()})'
+    else:
+        credit = f'© {login} (via iNaturalist), All Rights Reserved'
+    metadata.append({
+        'filename': filename,
+        'observation_id': obs_id,
+        'photo_id': photo_id,
+        'observation_url': f'https://www.inaturalist.org/observations/{obs_id}',
+        'photographer': login,
+        'license': license_code or 'all-rights-reserved',
+        'credit_format': credit,
+    })
+    used_obs.add(obs_id)
+    have += 1
+    next_idx += 1
+    print(f'  ✅ iNat: {filename}')
+
+print('__METADATA_START__')
+print(json.dumps(metadata, ensure_ascii=False))
+print('__METADATA_END__')
 " | tee /tmp/inat_output.txt
   
   # 提取元数据
@@ -361,7 +430,16 @@ except Exception as e:
   
   # 保存元数据
   if [ -n "$INAT_META" ] && [ "$INAT_META" != "[]" ]; then
-    python3 -c "import sys,json; data=json.load(open('$METADATA_FILE')); data['inaturalist']=$INAT_META; json.dump(data, open('$METADATA_FILE','w'), indent=2)" 2>/dev/null || true
+    python3 -c "
+import json
+from pathlib import Path
+meta_path = Path('$METADATA_FILE')
+raw = Path('/tmp/inat_output.txt').read_text(encoding='utf-8')
+payload = raw.split('__METADATA_START__')[1].split('__METADATA_END__')[0].strip()
+data = json.loads(meta_path.read_text(encoding='utf-8'))
+data['inaturalist'] = json.loads(payload)
+meta_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
+" 2>/dev/null || true
   fi
 fi
 
@@ -385,8 +463,8 @@ WCOUNT=0
 WIKI_META="[]"
 if [ -n "$WIKI_HTML" ]; then
   # 提取图片文件名并获取元数据
-  echo "$WIKI_HTML" | grep -o 'upload\.wikimedia\.org/wikipedia/commons/thumb/[^/]*/[^/]*/\([^/]*\.jpg\)/[0-9]*px-[^\"]*\.jpg' | head -5 | while read U; do
-    [ $WCOUNT -ge 1 ] && break
+  echo "$WIKI_HTML" | grep -o 'upload\.wikimedia\.org/wikipedia/commons/thumb/[^/]*/[^/]*/\([^/]*\.jpg\)/[0-9]*px-[^\"]*\.jpg' | head -30 | while read U; do
+    [ $WCOUNT -ge "$PER_SOURCE_COUNT" ] && break
     
     # 提取原始文件名
     ORIG_FILENAME=$(echo "$U" | sed -n 's|.*/\([^/]*\.jpg\)/.*|\1|p')
@@ -397,6 +475,15 @@ if [ -n "$WIKI_HTML" ]; then
     fi
     
     OUT="$BASE_DIR/wikimedia/${SLUG}_$((WCOUNT+1)).jpg"
+    REL="${SLUG}/wikimedia/${SLUG}_$((WCOUNT+1)).jpg"
+    if is_rejected "$REL"; then
+      continue
+    fi
+    if [ -f "$OUT" ] && file "$OUT" 2>/dev/null | grep -q "JPEG\|PNG"; then
+      echo "  ⏭️  已存在: $OUT"
+      WCOUNT=$((WCOUNT+1))
+      continue
+    fi
     
     # 下载文件
     curl -s -o "$OUT" "https://$U" || {
@@ -472,7 +559,7 @@ download_avibase() {
 if should_download "avibase"; then
 echo ""
 echo "📥 [4/4] Avibase (Flickr via CN 清单 + sec=flickr)"
-python3 tools/download_from_avibase.py "$EN_NAME" "$SCI_NAME" "$BASE_DIR/avibase" 3 || true
+python3 tools/download_from_avibase.py "$EN_NAME" "$SCI_NAME" "$BASE_DIR/avibase" "$PER_SOURCE_COUNT" || true
 else
   echo "⏭️  跳过 Avibase（未在 --sources 中指定）"
 fi

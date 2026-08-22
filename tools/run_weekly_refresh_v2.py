@@ -341,6 +341,49 @@ def ensure_tmp_dir():
     return batch_dir
 
 
+def write_latest_summary(
+    *,
+    days,
+    summary,
+    successful,
+    all_downloads,
+    all_missing_local_set,
+    all_missing_json_set,
+    extended_range_locs,
+):
+    """写出稳定路径的摘要，供更新脚本结束后 WxPusher 推送。"""
+    downloaded_count = len(all_downloads) - len(all_missing_local_set)
+    uploaded_count = len(all_downloads) - len(all_missing_json_set)
+    payload = {
+        "date": date.today().isoformat(),
+        "days": days,
+        "locations": [
+            {
+                "location": item["location"],
+                "status": item["status"],
+                "details": item.get("details", ""),
+            }
+            for item in summary
+        ],
+        "updated_count": len(successful),
+        "total_locations": len(summary),
+        "ok": bool(successful),
+        "new_birds": sorted(all_downloads),
+        "new_birds_count": len(all_downloads),
+        "downloaded_count": max(downloaded_count, 0),
+        "uploaded_count": max(uploaded_count, 0),
+        "missing_local": sorted(all_missing_local_set),
+        "missing_json": sorted(all_missing_json_set),
+        "sounds_success": sum(item.get("sounds_success", 0) for item in successful),
+        "sounds_failed": sum(item.get("sounds_failed", 0) for item in successful),
+        "extended_range": list(extended_range_locs),
+    }
+    TMP_BASE.mkdir(parents=True, exist_ok=True)
+    path = TMP_BASE / "latest_summary.json"
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    return path
+
+
 def main():
     args = parse_args()
     locations = maybe_filter_locations(load_locations(), args.locations)
@@ -777,9 +820,8 @@ def main():
             print(f"  - {_loc}")
 
     print("\n🧾 手动步骤提醒：")
-    print("1. 检查 images/<slug>/ 中新下载的照片，将不合适的图片 public_id 写入 config/需要删除图片名单，")
-    print("   然后运行: bash tools/delete_images_from_config.sh -y")
-    print("2. 检查 Cloudinary 中新上传的鸟叫声，确认音频质量（如需删除，同上）。")
+    print("1. 周更新脚本会自动质检并删除未通过的图；若仍有不足 3 张的鸟种，见摘要。")
+    print("2. 检查 Cloudinary 中新上传的鸟叫声，确认音频质量。")
 
     all_priority_slugs = set()
     for item in summary:
@@ -799,6 +841,16 @@ def main():
                 subprocess.run(["open", str(html_file)], check=False)
             except Exception as e:
                 print(f"⚠️  自动打开失败: {e}，请手动打开 {html_file}")
+
+    write_latest_summary(
+        days=args.days,
+        summary=summary,
+        successful=successful,
+        all_downloads=all_downloads,
+        all_missing_local_set=all_missing_local_set,
+        all_missing_json_set=all_missing_json_set,
+        extended_range_locs=extended_range_locs,
+    )
 
     return 0 if successful else 1
 

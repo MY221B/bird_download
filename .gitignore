@@ -1,4 +1,5 @@
 config/ebird_token.sh
+config/wxpusher.json
 .cloudinary_secrets
 
 # Macaulay 持久浏览器会话（包含本机验证状态，禁止提交）

@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "green_legged_partridge",
+    "chinese_name": "绿脚树鹧鸪",
+    "english_name": "Green-legged Partridge",
+    "scientific_name": "Tropicoperdix chloropus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "green_legged_partridge_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1788018384/bird-gallery/green_legged_partridge/inaturalist/green_legged_partridge_1.jpg",
+      "public_id": "bird-gallery/green_legged_partridge/inaturalist/green_legged_partridge_1",
+      "width": 1024,
+      "height": 752,
+      "format": "jpg",
+      "bytes": 63737,
+      "attribution": {
+        "photographer": "josh_vandermeulen",
+        "photographer_url": "https://www.inaturalist.org/observations/142682863",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© josh_vandermeulen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 142682863,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_legged_partridge_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1788018385/bird-gallery/green_legged_partridge/inaturalist/green_legged_partridge_2.jpg",
+      "public_id": "bird-gallery/green_legged_partridge/inaturalist/green_legged_partridge_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75502,
+      "attribution": {
+        "photographer": "jonodashper",
+        "photographer_url": "https://www.inaturalist.org/observations/153776833",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jonodashper (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 153776833,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_legged_partridge_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1788018386/bird-gallery/green_legged_partridge/inaturalist/green_legged_partridge_3.jpg",
+      "public_id": "bird-gallery/green_legged_partridge/inaturalist/green_legged_partridge_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55136,
+      "attribution": {
+        "photographer": "anttanager",
+        "photographer_url": "https://www.inaturalist.org/observations/95448668",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© anttanager (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 95448668,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "green_legged_partridge_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1788018387/bird-gallery/green_legged_partridge/wikimedia/green_legged_partridge_1.jpg",
+      "public_id": "bird-gallery/green_legged_partridge/wikimedia/green_legged_partridge_1",
+      "width": 960,
+      "height": 1365,
+      "format": "jpg",
+      "bytes": 158202,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

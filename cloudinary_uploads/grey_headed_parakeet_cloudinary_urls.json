@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "grey_headed_parakeet",
+    "chinese_name": "灰头鹦鹉",
+    "english_name": "Grey-headed Parakeet",
+    "scientific_name": "Psittacula finschii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "grey_headed_parakeet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1788018379/bird-gallery/grey_headed_parakeet/inaturalist/grey_headed_parakeet_1.jpg",
+      "public_id": "bird-gallery/grey_headed_parakeet/inaturalist/grey_headed_parakeet_1",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 57554,
+      "attribution": {
+        "photographer": "thetzawnaing",
+        "photographer_url": "https://www.inaturalist.org/observations/379007773",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thetzawnaing (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 379007773,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_headed_parakeet_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1788018380/bird-gallery/grey_headed_parakeet/inaturalist/grey_headed_parakeet_2.jpg",
+      "public_id": "bird-gallery/grey_headed_parakeet/inaturalist/grey_headed_parakeet_2",
+      "width": 640,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 141109,
+      "attribution": {
+        "photographer": "kittipongchaisiri",
+        "photographer_url": "https://www.inaturalist.org/observations/104957526",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kittipongchaisiri (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 104957526,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grey_headed_parakeet_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1788018381/bird-gallery/grey_headed_parakeet/inaturalist/grey_headed_parakeet_3.jpg",
+      "public_id": "bird-gallery/grey_headed_parakeet/inaturalist/grey_headed_parakeet_3",
+      "width": 1024,
+      "height": 974,
+      "format": "jpg",
+      "bytes": 28377,
+      "attribution": {
+        "photographer": "cgbc",
+        "photographer_url": "https://www.inaturalist.org/observations/94342576",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cgbc (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 94342576,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [
+    {
+      "original_file": "grey_headed_parakeet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1788018382/bird-gallery/grey_headed_parakeet/wikimedia/grey_headed_parakeet_1.jpg",
+      "public_id": "bird-gallery/grey_headed_parakeet/wikimedia/grey_headed_parakeet_1",
+      "width": 250,
+      "height": 375,
+      "format": "jpg",
+      "bytes": 14247,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "wikimedia",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "avibase": []
+}

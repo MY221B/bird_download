@@ -87,5 +87,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "green_legged_partridge_516064661.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1788360988/bird-gallery/green_legged_partridge/sounds/green_legged_partridge_516064661.mp3",
+      "public_id": "bird-gallery/green_legged_partridge/sounds/green_legged_partridge_516064661",
+      "duration": 12.144,
+      "format": "mp3",
+      "bytes": 291500,
+      "bit_rate": 192028,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "516064661",
+        "asset_url": "https://macaulaylibrary.org/asset/516064661",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

@@ -87,5 +87,27 @@
       }
     }
   ],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "grey_headed_parakeet_203903401.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1788360984/bird-gallery/grey_headed_parakeet/sounds/grey_headed_parakeet_203903401.mp3",
+      "public_id": "bird-gallery/grey_headed_parakeet/sounds/grey_headed_parakeet_203903401",
+      "duration": 27.792,
+      "format": "mp3",
+      "bytes": 389852,
+      "bit_rate": 112219,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203903401",
+        "asset_url": "https://macaulaylibrary.org/asset/203903401",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

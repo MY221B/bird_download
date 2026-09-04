@@ -85,25 +85,6 @@
       }
     },
     {
-      "original_file": "ferruginous_duck_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248348/bird-gallery/ferruginous_duck/inaturalist/ferruginous_duck_2.jpg",
-      "public_id": "bird-gallery/ferruginous_duck/inaturalist/ferruginous_duck_2",
-      "width": 1024,
-      "height": 765,
-      "format": "jpg",
-      "bytes": 80356,
-      "attribution": {
-        "photographer": "raracar11",
-        "photographer_url": "https://www.inaturalist.org/observations/256490437",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© raracar11 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 256490437,
-        "note": null
-      }
-    },
-    {
       "original_file": "ferruginous_duck_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248349/bird-gallery/ferruginous_duck/inaturalist/ferruginous_duck_3.jpg",
       "public_id": "bird-gallery/ferruginous_duck/inaturalist/ferruginous_duck_3",
@@ -146,25 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_52663892743_1af6976f8f_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171646/bird-gallery/ferruginous_duck/avibase/avibase_1_52663892743_1af6976f8f_b.jpg",
-      "public_id": "bird-gallery/ferruginous_duck/avibase/avibase_1_52663892743_1af6976f8f_b",
-      "width": 1023,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 254372,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52663892743",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_51978265807_f5c18fbb02_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248356/bird-gallery/ferruginous_duck/avibase/avibase_2_51978265807_f5c18fbb02_b.jpg",

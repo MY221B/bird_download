@@ -325,23 +325,56 @@ def download_avibase_photos(bird_name, scientific_name, output_dir, avibaseid_ov
     
     # 3. 下载照片（获取前3张）
     print(f"\n📥 开始下载照片到: {output_dir}")
-    print(f"   共找到 {len(photo_urls)} 张，将尝试下载 {target_count} 张")
+    print(f"   共找到 {len(photo_urls)} 张，将尝试凑满 {target_count} 张（含已有）")
 
-    success_count = 0
+    reject_file = os.environ.get("PHOTO_QA_REJECTED", "").strip()
+    rejected = set()
+    if reject_file and os.path.isfile(reject_file):
+        with open(reject_file, "r", encoding="utf-8") as fh:
+            rejected = {line.strip() for line in fh if line.strip()}
+
+    slug = os.path.basename(os.path.dirname(output_dir))
+    existing_files = [
+        name for name in os.listdir(output_dir)
+        if name.lower().endswith((".jpg", ".jpeg", ".png"))
+        and os.path.getsize(os.path.join(output_dir, name)) > 1024
+    ]
+    existing_ids = set()
+    seqs = []
+    for name in existing_files:
+        flickr_id_match = re.search(r"(\d+)_[a-z0-9]+_[a-z]", name)
+        if flickr_id_match:
+            existing_ids.add(flickr_id_match.group(1))
+        seq_match = re.match(r"avibase_(\d+)_", name)
+        if seq_match:
+            seqs.append(int(seq_match.group(1)))
+    success_count = len(existing_files)
     tried = 0
-    seq = 1
+    seq = max(seqs) + 1 if seqs else 1
+    if success_count >= target_count:
+        print(f"   ⏭️  已有 {success_count} 张，跳过 Avibase")
+        return success_count
+
     for url in photo_urls:
         if success_count >= target_count:
             break
         tried += 1
         filename = url.split('/')[-1]
-        output_filename = f"avibase_{seq}_{filename}"
-        output_path = os.path.join(output_dir, output_filename)
-        
-        # 提取 Flickr photo ID（从文件名）
-        # 格式: PHOTOID_SECRET_SIZE.jpg
         flickr_id_match = re.match(r'(\d+)_[a-z0-9]+_[a-z]\.jpg', filename)
         flickr_id = flickr_id_match.group(1) if flickr_id_match else None
+        if flickr_id and flickr_id in existing_ids:
+            continue
+        output_filename = f"avibase_{seq}_{filename}"
+        rel = f"{slug}/avibase/{output_filename}"
+        if rel in rejected:
+            seq += 1
+            continue
+        output_path = os.path.join(output_dir, output_filename)
+        if os.path.exists(output_path):
+            existing_ids.add(flickr_id or "")
+            success_count += 1
+            seq += 1
+            continue
         
         if download_image(url, output_path):
             success_count += 1
@@ -355,7 +388,8 @@ def download_avibase_photos(bird_name, scientific_name, output_dir, avibaseid_ov
                 'note': '署名信息需从Flickr获取'
             }
             metadata_list.append(photo_metadata)
-            
+            if flickr_id:
+                existing_ids.add(flickr_id)
             seq += 1
 
     # 保存元数据到JSON文件
@@ -371,8 +405,12 @@ def download_avibase_photos(bird_name, scientific_name, output_dir, avibaseid_ov
         else:
             all_metadata = {'macaulay': [], 'inaturalist': [], 'wikimedia': [], 'avibase': []}
         
-        # 更新 avibase 部分
-        all_metadata['avibase'] = metadata_list
+        # 更新 avibase 部分（合并新增，不覆盖已有）
+        existing_avibase = list(all_metadata.get('avibase') or [])
+        by_name = {item.get('filename'): item for item in existing_avibase if item.get('filename')}
+        for item in metadata_list:
+            by_name[item['filename']] = item
+        all_metadata['avibase'] = list(by_name.values())
         
         # 保存
         with open(metadata_file, 'w', encoding='utf-8') as f:

@@ -64,27 +64,7 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "common_iora_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171586/bird-gallery/common_iora/inaturalist/common_iora_2.jpg",
-      "public_id": "bird-gallery/common_iora/inaturalist/common_iora_2",
-      "width": 1024,
-      "height": 859,
-      "format": "jpg",
-      "bytes": 399936,
-      "attribution": {
-        "photographer": "rejoicegassah",
-        "photographer_url": "https://www.inaturalist.org/observations/301158319",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© rejoicegassah (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 301158319,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [
     {

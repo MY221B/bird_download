@@ -7,25 +7,6 @@
   },
   "macaulay": [
     {
-      "original_file": "american_white_pelican_559588161.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261829/bird-gallery/american_white_pelican/macaulay/american_white_pelican_559588161.jpg",
-      "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_559588161",
-      "width": 1200,
-      "height": 800,
-      "format": "jpg",
-      "bytes": 69185,
-      "attribution": {
-        "photographer": "Dorian Anderson",
-        "photographer_url": "https://macaulaylibrary.org/asset/559588161",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "American White Pelican by Dorian Anderson; Cornell Lab of Ornithology | Macaulay Library",
-        "source": "macaulay",
-        "source_id": "559588161",
-        "note": null
-      }
-    },
-    {
       "original_file": "american_white_pelican_192450401.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267102/bird-gallery/american_white_pelican/macaulay/american_white_pelican_192450401.jpg",
       "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_192450401",
@@ -34,37 +15,247 @@
       "format": "jpg",
       "bytes": 56988,
       "attribution": {
-        "photographer": "Gerrit Vyn",
+        "photographer": null,
         "photographer_url": "https://macaulaylibrary.org/asset/192450401",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "American White Pelican by Gerrit Vyn; Cornell Lab of Ornithology | Macaulay Library",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
         "source": "macaulay",
         "source_id": "192450401",
         "note": null
       }
     },
     {
-      "original_file": "american_white_pelican_630514549.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777267104/bird-gallery/american_white_pelican/macaulay/american_white_pelican_630514549.jpg",
-      "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_630514549",
+      "original_file": "american_white_pelican_399093381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401581/bird-gallery/american_white_pelican/macaulay/american_white_pelican_399093381.jpg",
+      "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_399093381",
       "width": 1200,
       "height": 800,
       "format": "jpg",
-      "bytes": 78971,
+      "bytes": 73309,
       "attribution": {
-        "photographer": "Ryan Sanderson",
-        "photographer_url": "https://macaulaylibrary.org/asset/630514549",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "American White Pelican by Ryan Sanderson; Cornell Lab of Ornithology | Macaulay Library",
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/399093381",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
         "source": "macaulay",
-        "source_id": "630514549",
+        "source_id": "399093381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_411365441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401584/bird-gallery/american_white_pelican/macaulay/american_white_pelican_411365441.jpg",
+      "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_411365441",
+      "width": 1200,
+      "height": 726,
+      "format": "jpg",
+      "bytes": 89499,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/411365441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "411365441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_559588161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777261829/bird-gallery/american_white_pelican/macaulay/american_white_pelican_559588161.jpg",
+      "public_id": "bird-gallery/american_white_pelican/macaulay/american_white_pelican_559588161",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69185,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/559588161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "559588161",
         "note": null
       }
     }
   ],
-  "inaturalist": [],
+  "inaturalist": [
+    {
+      "original_file": "american_white_pelican_10.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401590/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_10.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_10",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 30852,
+      "attribution": {
+        "photographer": "whistlingduck",
+        "photographer_url": "https://www.inaturalist.org/observations/216838409",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© whistlingduck (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 216838409,
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401591/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_2.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_2",
+      "width": 1009,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 185581,
+      "attribution": {
+        "photographer": "kalamurphyking",
+        "photographer_url": "https://www.inaturalist.org/observations/7439686",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© kalamurphyking (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7439686,
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401592/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_3.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 46430,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/20739351",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20739351,
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_4.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401593/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_4.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_4",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72427,
+      "attribution": {
+        "photographer": "nancylightfoot",
+        "photographer_url": "https://www.inaturalist.org/observations/340814511",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nancylightfoot (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 340814511,
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_5.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401595/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_5.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_5",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69023,
+      "attribution": {
+        "photographer": "kiwikiu",
+        "photographer_url": "https://www.inaturalist.org/observations/42923980",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kiwikiu (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 42923980,
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_6.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401597/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_6.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_6",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 63075,
+      "attribution": {
+        "photographer": "vlmanning",
+        "photographer_url": "https://www.inaturalist.org/observations/126433971",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vlmanning (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 126433971,
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_7.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401598/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_7.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_7",
+      "width": 918,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 113229,
+      "attribution": {
+        "photographer": "mlodinow",
+        "photographer_url": "https://www.inaturalist.org/observations/10627678",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mlodinow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10627678,
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_8.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401599/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_8.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_8",
+      "width": 1024,
+      "height": 627,
+      "format": "jpg",
+      "bytes": 94622,
+      "attribution": {
+        "photographer": "karen_straus",
+        "photographer_url": "https://www.inaturalist.org/observations/141721364",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© karen_straus (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 141721364,
+        "note": null
+      }
+    },
+    {
+      "original_file": "american_white_pelican_9.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401600/bird-gallery/american_white_pelican/inaturalist/american_white_pelican_9.jpg",
+      "public_id": "bird-gallery/american_white_pelican/inaturalist/american_white_pelican_9",
+      "width": 676,
+      "height": 659,
+      "format": "jpg",
+      "bytes": 65457,
+      "attribution": {
+        "photographer": "aparrot1",
+        "photographer_url": "https://www.inaturalist.org/observations/336732944",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© aparrot1 (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 336732944,
+        "note": null
+      }
+    }
+  ],
   "birdphotos": [],
   "wikimedia": [],
   "avibase": []

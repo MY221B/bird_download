@@ -64,27 +64,7 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "black_collared_starling_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171493/bird-gallery/black_collared_starling/inaturalist/black_collared_starling_1.jpg",
-      "public_id": "bird-gallery/black_collared_starling/inaturalist/black_collared_starling_1",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 505145,
-      "attribution": {
-        "photographer": "wl2017",
-        "photographer_url": "https://www.inaturalist.org/observations/11613135",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© wl2017 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 11613135,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [
     {

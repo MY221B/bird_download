@@ -7,40 +7,59 @@
   },
   "macaulay": [
     {
-      "original_file": "naung_mung_scimitar_babbler_625391357.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171790/bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_625391357.jpg",
-      "public_id": "bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_625391357",
-      "width": 1200,
-      "height": 800,
-      "format": "jpg",
-      "bytes": 117458,
-      "attribution": {
-        "photographer": "越 黎",
-        "photographer_url": "https://macaulaylibrary.org/asset/625391357",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "Bird by 越 黎; Cornell Lab of Ornithology | Macaulay Library",
-        "source": "macaulay",
-        "source_id": "625391357",
-        "note": null
-      }
-    },
-    {
       "original_file": "naung_mung_scimitar_babbler_630577141.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774250490/bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_630577141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401631/bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_630577141.jpg",
       "public_id": "bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_630577141",
       "width": 1200,
       "height": 900,
       "format": "jpg",
-      "bytes": 145266,
+      "bytes": 60957,
       "attribution": {
-        "photographer": "Fishing Cat",
+        "photographer": null,
         "photographer_url": "https://macaulaylibrary.org/asset/630577141",
-        "license": "© Cornell Lab of Ornithology (non-commercial use)",
-        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
-        "credit_format": "Bird by Fishing Cat; Cornell Lab of Ornithology | Macaulay Library",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
         "source": "macaulay",
         "source_id": "630577141",
+        "note": null
+      }
+    },
+    {
+      "original_file": "naung_mung_scimitar_babbler_630707267.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401634/bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_630707267.jpg",
+      "public_id": "bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_630707267",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55911,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/630707267",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "630707267",
+        "note": null
+      }
+    },
+    {
+      "original_file": "naung_mung_scimitar_babbler_656784785.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1787401639/bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_656784785.jpg",
+      "public_id": "bird-gallery/naung_mung_scimitar_babbler/macaulay/naung_mung_scimitar_babbler_656784785",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 158167,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/656784785",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "656784785",
         "note": null
       }
     }

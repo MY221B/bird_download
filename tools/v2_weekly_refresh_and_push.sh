@@ -11,6 +11,21 @@ COMMIT_MSG="${COMMIT_MSG:-chore: weekly refresh $(date +%Y-%m-%d)}"
 
 REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"
+QUIZ_PUSH="未执行"
+MAIN_PUSH="未执行"
+LOVABLE="未执行"
+
+_wxpusher_notify() {
+  local code="$1"
+  python3 "${REPO_ROOT}/tools/wxpusher_notify.py" \
+    --from-json "${REPO_ROOT}/tmp/weekly_refresh/latest_summary.json" \
+    --pipeline-exit "${code}" \
+    --quiz-push "${QUIZ_PUSH}" \
+    --main-push "${MAIN_PUSH}" \
+    --lovable "${LOVABLE}" \
+    || echo "⚠️  WxPusher 推送失败（不影响更新结果）"
+}
+trap '_wxpusher_notify $?' EXIT
 
 cd "${REPO_ROOT}"
 
@@ -51,6 +66,13 @@ fi
 echo "▶️  Running weekly refresh V2 for the past ${REFRESH_DAYS} days..."
 python3 tools/run_weekly_refresh_v2.py --days "${REFRESH_DAYS}"
 
+echo ""
+echo "🔎 对新下载的图片做质检、删除未通过，并补足不足 3 张的鸟种..."
+PYTHONUNBUFFERED=1 python3 tools/photo_qa_pipeline.py \
+  --from-weekly-summary "${REPO_ROOT}/tmp/weekly_refresh/latest_summary.json" \
+  --delete --supplement --no-git --no-sync \
+  || echo "⚠️  图片质检/补图失败，继续提交已有结果"
+
 cd "${QUIZ_DIR}"
 
 # 在 Cloud Agent 环境中注入 token 到子模块 remote（本地无此环境变量时跳过）
@@ -62,12 +84,18 @@ fi
 node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
 if [[ -z "$(git status --porcelain)" ]]; then
   echo "✅ feather-flash-quiz 无新改动，跳过提交"
+  QUIZ_PUSH="无改动跳过"
+  MAIN_PUSH="未检查"
+  LOVABLE="未执行"
   exit 0
 fi
 
 git add -A
 if git diff --cached --quiet; then
   echo "✅ feather-flash-quiz 无新改动"
+  QUIZ_PUSH="无改动跳过"
+  MAIN_PUSH="未检查"
+  LOVABLE="未执行"
   exit 0
 fi
 
@@ -115,11 +143,13 @@ current_branch="$(git rev-parse --abbrev-ref HEAD)"
 if ! git pull --rebase origin "${current_branch}" 2>/dev/null; then
   if git status | grep -q "rebase in progress"; then
     echo "❌ feather-flash-quiz rebase 冲突，请手动解决"
+    QUIZ_PUSH="rebase 冲突"
     exit 1
   fi
 fi
 git push --quiet origin main
 git push --quiet origin main:develop_lovable
+QUIZ_PUSH="已推送"
 echo "✅ feather-flash-quiz 已提交并推送"
 
 # 🔄 推送主仓库改动
@@ -132,8 +162,10 @@ if ! git diff --cached --quiet; then
   git commit --quiet -m "${MAIN_COMMIT_MSG}"
   git pull --quiet origin main --no-rebase
   git push --quiet origin main
+  MAIN_PUSH="已推送（${CHANGED_FILES} 个文件）"
   echo "✅ 主仓库已提交并推送（${CHANGED_FILES} 个文件）"
 else
+  MAIN_PUSH="无新改动"
   echo "✅ 主仓库无新改动"
 fi
 
@@ -141,8 +173,10 @@ fi
 echo ""
 echo "🔄 同步改动到 Lovable..."
 if bash "${REPO_ROOT}/tools/sync_to_lovable.sh" > /dev/null 2>&1; then
+  LOVABLE="已同步"
   echo "✅ 已同步到 Lovable"
 else
+  LOVABLE="失败"
   echo "⚠️  同步到 Lovable 失败（可运行 tools/sync_to_lovable.sh 排查）"
   exit 1
 fi

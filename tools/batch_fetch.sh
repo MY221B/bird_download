@@ -10,7 +10,7 @@ export PYTHONIOENCODING=utf-8
 
 usage() {
   cat << 'EOF'
-用法: ./batch_fetch.sh <birds_file> [--parallel N] [--skip-existing]
+用法: ./batch_fetch.sh <birds_file> [--parallel N] [--skip-existing] [--count N]
 
 参数:
   birds_file       CSV 文件路径，支持两种格式：
@@ -18,6 +18,7 @@ usage() {
                    2. slug,chinese_name,english_name,scientific_name,wikipedia_page
   --parallel N     并行下载数量（默认：3，推荐：3-5）
   --skip-existing  跳过已存在的目录（默认：否）
+  --count N        每个来源尝试下载张数（默认：3）
 
 CSV 格式示例:
   # 格式1（不含中文名）:
@@ -43,6 +44,7 @@ EOF
 BIRDS_FILE="$1"
 PARALLEL=3
 SKIP_EXISTING=0
+PER_SOURCE_COUNT=""
 
 if [ -z "$BIRDS_FILE" ]; then
   usage
@@ -63,6 +65,10 @@ while [ $# -gt 0 ]; do
     --skip-existing)
       SKIP_EXISTING=1
       shift
+      ;;
+    --count)
+      PER_SOURCE_COUNT="$2"
+      shift 2
       ;;
     *)
       echo "❌ 未知参数: $1"
@@ -95,6 +101,7 @@ echo "配置:"
 echo "  - 输入文件: $BIRDS_FILE"
 echo "  - 并行数量: $PARALLEL"
 echo "  - 跳过已存在: $([ $SKIP_EXISTING -eq 1 ] && echo '是' || echo '否')"
+echo "  - 每源张数: ${PER_SOURCE_COUNT:-3}"
 echo ""
 
 # 统计信息
@@ -139,7 +146,7 @@ while IFS='|' read -r slug en_name chinese_name sci_name wiki_page; do
   
   # 后台执行下载
   (
-    if ./tools/fetch_four_sources.sh "$slug" "$en_name" "$sci_name" "$wiki_page" > "/tmp/${slug}_download.log" 2>&1; then
+    if ./tools/fetch_four_sources.sh "$slug" "$en_name" "$sci_name" "$wiki_page" ${PER_SOURCE_COUNT:+--count "$PER_SOURCE_COUNT"} > "/tmp/${slug}_download.log" 2>&1; then
       echo "[$PROCESSED/$TOTAL_BIRDS] ✅ 完成: $slug"
       echo "1" > "/tmp/${slug}_status.txt"
     else

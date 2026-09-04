@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "forest_wagtail_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133654/bird-gallery/forest_wagtail/inaturalist/forest_wagtail_1.jpg",
-      "public_id": "bird-gallery/forest_wagtail/inaturalist/forest_wagtail_1",
-      "width": 343,
-      "height": 343,
-      "format": "jpg",
-      "bytes": 17710,
-      "attribution": {
-        "photographer": "amuro33",
-        "photographer_url": "https://www.inaturalist.org/observations/283845500",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© amuro33 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 283845500,
-        "note": null
-      }
-    },
-    {
       "original_file": "forest_wagtail_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133656/bird-gallery/forest_wagtail/inaturalist/forest_wagtail_2.jpg",
       "public_id": "bird-gallery/forest_wagtail/inaturalist/forest_wagtail_2",

@@ -102,25 +102,6 @@
         "source_id": 43569513,
         "note": null
       }
-    },
-    {
-      "original_file": "eurasian_nuthatch_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248177/bird-gallery/eurasian_nuthatch/inaturalist/eurasian_nuthatch_3.jpg",
-      "public_id": "bird-gallery/eurasian_nuthatch/inaturalist/eurasian_nuthatch_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 408775,
-      "attribution": {
-        "photographer": "diegodgd",
-        "photographer_url": "https://www.inaturalist.org/observations/252956131",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© diegodgd (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 252956131,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -162,25 +143,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "53375158761",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_52346172958_d7ab78d721_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774248182/bird-gallery/eurasian_nuthatch/avibase/avibase_2_52346172958_d7ab78d721_b.jpg",
-      "public_id": "bird-gallery/eurasian_nuthatch/avibase/avibase_2_52346172958_d7ab78d721_b",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 214850,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "52346172958",
         "note": "署名信息需从Flickr获取"
       }
     },

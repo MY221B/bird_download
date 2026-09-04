@@ -60,25 +60,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "common_kingfisher_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171589/bird-gallery/common_kingfisher/inaturalist/common_kingfisher_1.jpg",
-      "public_id": "bird-gallery/common_kingfisher/inaturalist/common_kingfisher_1",
-      "width": 1024,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 431925,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "inaturalist",
-        "source_id": null,
-        "note": "署名信息待补充"
-      }
-    },
-    {
       "original_file": "common_kingfisher_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774247541/bird-gallery/common_kingfisher/inaturalist/common_kingfisher_2.jpg",
       "public_id": "bird-gallery/common_kingfisher/inaturalist/common_kingfisher_2",

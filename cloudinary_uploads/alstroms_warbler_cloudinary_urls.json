@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "alstroms_warbler_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927949/bird-gallery/alstroms_warbler/inaturalist/alstroms_warbler_1.jpg",
-      "public_id": "bird-gallery/alstroms_warbler/inaturalist/alstroms_warbler_1",
-      "width": 1024,
-      "height": 732,
-      "format": "jpg",
-      "bytes": 90035,
-      "attribution": {
-        "photographer": "ssansuk",
-        "photographer_url": "https://www.inaturalist.org/observations/250769486",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© ssansuk (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 250769486,
-        "note": null
-      }
-    },
-    {
       "original_file": "alstroms_warbler_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927951/bird-gallery/alstroms_warbler/inaturalist/alstroms_warbler_2.jpg",
       "public_id": "bird-gallery/alstroms_warbler/inaturalist/alstroms_warbler_2",
@@ -143,25 +124,6 @@
         "credit_format": null,
         "source": "avibase",
         "source_id": "53870809291",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
-    {
-      "original_file": "avibase_2_17644822982_05b3db5cd9_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775927956/bird-gallery/alstroms_warbler/avibase/avibase_2_17644822982_05b3db5cd9_b.jpg",
-      "public_id": "bird-gallery/alstroms_warbler/avibase/avibase_2_17644822982_05b3db5cd9_b",
-      "width": 1024,
-      "height": 564,
-      "format": "jpg",
-      "bytes": 31672,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "17644822982",
         "note": "署名信息需从Flickr获取"
       }
     },

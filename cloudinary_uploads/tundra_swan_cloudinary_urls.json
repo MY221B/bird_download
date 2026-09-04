@@ -102,25 +102,6 @@
         "source_id": 4707390,
         "note": null
       }
-    },
-    {
-      "original_file": "tundra_swan_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774243859/bird-gallery/tundra_swan/inaturalist/tundra_swan_3.jpg",
-      "public_id": "bird-gallery/tundra_swan/inaturalist/tundra_swan_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 186743,
-      "attribution": {
-        "photographer": "tashamel",
-        "photographer_url": "https://www.inaturalist.org/observations/267761973",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© tashamel (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 267761973,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],
@@ -146,25 +127,6 @@
     }
   ],
   "avibase": [
-    {
-      "original_file": "avibase_1_50946323726_2eab81be55_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774171955/bird-gallery/tundra_swan/avibase/avibase_1_50946323726_2eab81be55_b.jpg",
-      "public_id": "bird-gallery/tundra_swan/avibase/avibase_1_50946323726_2eab81be55_b",
-      "width": 1024,
-      "height": 576,
-      "format": "jpg",
-      "bytes": 105323,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "50946323726",
-        "note": "署名信息需从Flickr获取"
-      }
-    },
     {
       "original_file": "avibase_2_52793539070_86e5497685_b.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1774243867/bird-gallery/tundra_swan/avibase/avibase_2_52793539070_86e5497685_b.jpg",

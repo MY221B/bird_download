@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 自动化图片删除脚本
-# 用法: ./delete_images_from_config.sh [配置文件路径] [--yes|-y]
+# 用法: ./delete_images_from_config.sh [配置文件路径] [--yes|-y] [--no-git] [--no-sync]
 #
 # 功能：从 Cloudinary、本地文件、JSON 引用和 HTML 画廊中删除配置文件中列出的所有图片
 # 并自动提交到 Git
@@ -13,6 +13,8 @@
 # 默认配置文件: config/需要删除图片名单
 # 参数:
 #   --yes, -y: 自动确认，跳过交互式确认
+#   --no-git: 不提交、不推送（周更新管线内部使用）
+#   --no-sync: 开始前不从 Lovable 同步
 
 set -e  # 遇到错误立即退出
 
@@ -40,28 +42,36 @@ print(ensure_cloudinary_config())
 # 解析参数
 CONFIG_FILE="config/需要删除图片名单"
 AUTO_YES=0
+SKIP_GIT=0
+SKIP_SYNC=0
 
 for arg in "$@"; do
     case $arg in
         --yes|-y)
             AUTO_YES=1
-            shift
+            ;;
+        --no-git)
+            SKIP_GIT=1
+            ;;
+        --no-sync)
+            SKIP_SYNC=1
             ;;
         *)
             CONFIG_FILE="$arg"
-            shift
             ;;
     esac
 done
 
 # 🔄 开始前：从 Lovable 同步最新改动
-echo -e "${BLUE}🔄 从 Lovable 同步最新改动...${NC}"
-if bash "${REPO_ROOT}/tools/sync_from_lovable.sh"; then
-  echo -e "${GREEN}✅ Lovable 同步完成${NC}"
-else
-  echo -e "${YELLOW}⚠️  Lovable 同步失败，继续执行...${NC}"
+if [[ "${SKIP_SYNC}" -eq 0 ]]; then
+  echo -e "${BLUE}🔄 从 Lovable 同步最新改动...${NC}"
+  if bash "${REPO_ROOT}/tools/sync_from_lovable.sh"; then
+    echo -e "${GREEN}✅ Lovable 同步完成${NC}"
+  else
+    echo -e "${YELLOW}⚠️  Lovable 同步失败，继续执行...${NC}"
+  fi
+  echo ""
 fi
-echo ""
 
 echo -e "${BLUE}☁️  检查 Cloudinary 凭证（.cloudinary_secrets 或 CLOUDINARY_* 环境变量）...${NC}"
 if ! GALLERY_CLOUD="$(check_cloudinary_credentials)"; then
@@ -92,7 +102,11 @@ echo "  1. 从 Cloudinary 删除 ${IMAGE_COUNT} 张图片"
 echo "  2. 从 JSON 文件清理引用"
 echo "  3. 删除本地图片文件"
 echo "  4. 重新生成 HTML 画廊"
-echo "  5. 提交并推送到 GitHub"
+if [[ "${SKIP_GIT}" -eq 0 ]]; then
+    echo "  5. 提交并推送到 GitHub"
+else
+    echo "  5. 跳过 Git 提交（--no-git）"
+fi
 echo ""
 
 if [[ $AUTO_YES -eq 0 ]]; then
@@ -137,6 +151,17 @@ echo -e "${GREEN}✅ HTML 画廊重新生成完成${NC}"
 echo ""
 
 # 步骤 5: Git 提交并推送
+if [[ "${SKIP_GIT}" -eq 1 ]]; then
+    echo -e "${BLUE}[5/5]${NC} 跳过 Git 提交（--no-git）"
+    echo ""
+    echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo -e "${GREEN}✨ 删除完成（未提交 Git）${NC}"
+    echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo ""
+    echo -e "${GREEN}✅ 已删除 ${IMAGE_COUNT} 张图片${NC}"
+    exit 0
+fi
+
 echo -e "${BLUE}[5/5]${NC} 提交并推送到 GitHub..."
 
 QUIZ_DIR="${REPO_ROOT}/feather-flash-quiz"

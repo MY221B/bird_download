@@ -82,6 +82,12 @@ if [[ -n "${FEATHER_FLASH_QUIZ_TOKEN:-}" ]]; then
 fi
 
 node scripts/generate-location-birds-manifest.js > /dev/null 2>&1
+echo "🔗 刷新懂鸟物种编号对照表..."
+if node scripts/generate-dongniao-ids.js; then
+  echo "✅ 懂鸟编号对照表已检查"
+else
+  echo "⚠️  懂鸟编号刷新失败，继续使用现有对照表"
+fi
 if [[ -z "$(git status --porcelain)" ]]; then
   echo "✅ feather-flash-quiz 无新改动，跳过提交"
   QUIZ_PUSH="无改动跳过"

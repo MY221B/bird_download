@@ -42,7 +42,7 @@ from process_new_birds import (  # type: ignore
     update_bird_info,
     update_all_birds_csv,
     generate_html,
-    reorder_new_birds,
+    collect_gallery_review_slugs,
 )
 from bird_image_policy import (  # type: ignore
     bird_dir_has_acceptable_local_images,
@@ -389,8 +389,6 @@ def main():
     locations = maybe_filter_locations(load_locations(), args.locations)
     run_dir = ensure_tmp_dir()
     summary = []
-    combined_slugs = []
-    combined_seen = set()
 
     # ========== 阶段1: 检查所有地点，收集缺失鸟类 ==========
     print("\n" + "=" * 80)
@@ -481,11 +479,6 @@ def main():
                 all_missing_info[slug] = info
 
         report_code = end_date.strftime("%y%m%d")
-        slugs = read_slugs_from_csv(csv_file)
-        for slug in slugs:
-            if slug not in combined_seen:
-                combined_slugs.append(slug)
-                combined_seen.add(slug)
 
         location_data_list.append({
             "entry": entry,
@@ -617,6 +610,7 @@ def main():
             "missing_local": format_slug_list(final_missing_local, slug_info),
             "missing_json": format_slug_list(missing_copy, slug_info),
             "sounds_success": len(success_sounds),
+            "sounds_success_raw": list(success_sounds),
             "sounds_failed": len(failed_sounds),
             "sounds_failed_details": failed_sounds,
         })
@@ -626,24 +620,6 @@ def main():
     if successful:
         print("\n🔁 全局更新 all_birds.csv / HTML ...")
         update_all_birds_csv()
-        highlight_slugs = []
-        for item in summary:
-            highlight_slugs.extend(item.get("downloads_raw") or [])
-        highlight_slugs = list(set(highlight_slugs))
-        import io as _io, contextlib as _cl
-        with _cl.redirect_stdout(_io.StringIO()):
-            generate_html(highlight_slugs, priority_slugs=highlight_slugs)
-        print("✅ HTML 页面已更新")
-        if combined_slugs:
-            combined_csv = run_dir / "combined_reorder.csv"
-            with open(combined_csv, "w", encoding="utf-8", newline="") as f:
-                writer = csv.writer(f)
-                writer.writerow(["slug", "english_name", "scientific_name", "wikipedia_page"])
-                for slug in combined_slugs:
-                    writer.writerow([slug, "", "", ""])
-            with _cl.redirect_stdout(_io.StringIO()):
-                reorder_new_birds(combined_csv)
-            print(f"✅ {len(combined_slugs)} 种新鸟类已移至列表顶部")
 
     # 检查 all_birds.csv 中所有缺少 cloudinary JSON 的鸟类（与原逻辑相同）
     print("\n" + "=" * 80)
@@ -823,17 +799,13 @@ def main():
     print("1. 周更新脚本会自动质检并删除未通过的图；若仍有不足 3 张的鸟种，见摘要。")
     print("2. 检查 Cloudinary 中新上传的鸟叫声，确认音频质量。")
 
-    all_priority_slugs = set()
-    for item in summary:
-        all_priority_slugs.update(item.get("downloads_raw") or [])
-    if remaining_all_missing:
-        all_priority_slugs.update(remaining_all_missing)
-    if all_priority_slugs:
-        with _cl.redirect_stdout(_io.StringIO()):
-            generate_html(highlight_slugs=list(all_priority_slugs), priority_slugs=list(all_priority_slugs))
-        print(f"✅ HTML 已更新（{len(all_priority_slugs)} 种待检查鸟类排在最前）")
-
-    if successful and all_downloads:
+    review_slugs = collect_gallery_review_slugs(summary, remaining_all_missing)
+    if successful:
+        generate_html(highlight_slugs=review_slugs, priority_slugs=review_slugs)
+        if review_slugs:
+            print(f"✅ HTML 已更新（{len(review_slugs)} 种本次更新/待检查鸟类排在最前并标红）")
+        else:
+            print("✅ HTML 已更新")
         html_file = PROJECT_ROOT / "examples" / "gallery_all_cloudinary.html"
         if html_file.exists():
             print(f"\n🌐 正在打开 HTML 页面: {html_file}")

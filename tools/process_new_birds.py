@@ -809,8 +809,27 @@ def generate_html(highlight_slugs=None, priority_slugs=None):
         return False
 
 
-def reorder_new_birds(csv_file):
-    """确保新上传的鸟类在列表顶部"""
+def collect_gallery_review_slugs(summary, extra_slugs=None):
+    """本次应标红置顶的鸟：新下载图片、新上传叫声，以及仍缺图待检查的。"""
+    ordered = []
+    seen = set()
+
+    def add(slugs):
+        for slug in slugs or []:
+            if slug and slug not in seen:
+                seen.add(slug)
+                ordered.append(slug)
+
+    for item in summary or []:
+        add(item.get("downloads_raw"))
+    for item in summary or []:
+        add(item.get("sounds_success_raw"))
+    add(extra_slugs)
+    return ordered
+
+
+def reorder_new_birds(csv_file, highlight_slugs=None):
+    """确保新上传的鸟类在列表顶部；默认把这些鸟标红。"""
     print("\n📋 步骤9: 调整新上传鸟类到列表顶部...")
     
     # 获取CSV中的所有鸟类
@@ -868,7 +887,11 @@ def reorder_new_birds(csv_file):
     if missing_in_order:
         final_order.extend(sorted(missing_in_order))
     
-    html = build_html(all_data, final_order)
+    html = build_html(
+        all_data,
+        final_order,
+        highlight_slugs=highlight_slugs if highlight_slugs is not None else new_birds_existing,
+    )
     html_file.write_text(html, encoding='utf-8')
     
     print(f"✅ 已调整顺序，{len(new_birds_existing)} 种本次处理的鸟类在列表顶部（共 {len(new_birds)} 种，{len(new_birds) - len(new_birds_existing)} 种尚未上传到 Cloudinary）")

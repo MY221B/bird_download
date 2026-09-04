@@ -64,50 +64,10 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "edible_nest_swiftlet_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133625/bird-gallery/edible_nest_swiftlet/inaturalist/edible_nest_swiftlet_1.jpg",
-      "public_id": "bird-gallery/edible_nest_swiftlet/inaturalist/edible_nest_swiftlet_1",
-      "width": 1024,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 71692,
-      "attribution": {
-        "photographer": "gin_glam88",
-        "photographer_url": "https://www.inaturalist.org/observations/205341874",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© gin_glam88 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 205341874,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": [
-    {
-      "original_file": "avibase_3_54786087343_d6f2edd658_b.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1775133631/bird-gallery/edible_nest_swiftlet/avibase/avibase_3_54786087343_d6f2edd658_b.jpg",
-      "public_id": "bird-gallery/edible_nest_swiftlet/avibase/avibase_3_54786087343_d6f2edd658_b",
-      "width": 1023,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 10633,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": null,
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "avibase",
-        "source_id": "54786087343",
-        "note": "署名信息需从Flickr获取"
-      }
-    }
-  ],
+  "avibase": [],
   "sounds": [
     {
       "original_file": "edible_nest_swiftlet_612513984.mp3",

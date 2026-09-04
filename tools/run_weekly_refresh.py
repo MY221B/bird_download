@@ -35,7 +35,7 @@ from process_new_birds import (  # type: ignore
     update_bird_info,
     update_all_birds_csv,
     generate_html,
-    reorder_new_birds,
+    collect_gallery_review_slugs,
 )
 from bird_image_policy import (  # type: ignore
     bird_dir_has_acceptable_local_images,
@@ -384,8 +384,6 @@ def main():
     locations = maybe_filter_locations(load_locations(), args.locations)
     run_dir = ensure_tmp_dir()
     summary = []
-    combined_slugs = []
-    combined_seen = set()
 
     for entry in locations:
         loc_id = entry.get("id") or entry.get("name")
@@ -478,11 +476,6 @@ def main():
             slugs, loc_name, report_code
         )
 
-        for slug in slugs:
-            if slug not in combined_seen:
-                combined_slugs.append(slug)
-                combined_seen.add(slug)
-
         # 在上传完成后，重新检查本地图片和 Cloudinary JSON 状态
         # 逻辑：
         # 1. 如果 Cloudinary JSON 存在且有照片 → 上传成功，本地图片肯定存在 → 不应该显示在"仍缺本地图片"中
@@ -514,6 +507,7 @@ def main():
                 "missing_local": format_slug_list(final_missing_local, slug_info),
                 "missing_json": format_slug_list(missing_copy, slug_info),
                 "sounds_success": len(success_sounds),
+                "sounds_success_raw": list(success_sounds),
                 "sounds_failed": len(failed_sounds),
                 "sounds_failed_details": failed_sounds,
             }
@@ -525,27 +519,6 @@ def main():
     if successful:
         print("\n🔁 全局更新 all_birds.csv / HTML ...")
         update_all_birds_csv()
-        
-        # 收集所有需要高亮的鸟类（即所有下载的鸟类）
-        highlight_slugs = []
-        for item in summary:
-            downloads_raw = item.get("downloads_raw") or []
-            highlight_slugs.extend(downloads_raw)
-        
-        # 去重
-        highlight_slugs = list(set(highlight_slugs))
-        
-        # 暂时生成HTML（此时还没有收集到所有需要下载/检查的鸟类）
-        generate_html(highlight_slugs, priority_slugs=highlight_slugs)
-
-        if combined_slugs:
-            combined_csv = run_dir / "combined_reorder.csv"
-            with open(combined_csv, "w", encoding="utf-8", newline="") as f:
-                writer = csv.writer(f)
-                writer.writerow(["slug", "english_name", "scientific_name", "wikipedia_page"])
-                for slug in combined_slugs:
-                    writer.writerow([slug, "", "", ""])
-            reorder_new_birds(combined_csv)
 
     # 检查 all_birds.csv 中所有缺少 cloudinary JSON 的鸟类
     # 注意：在 update_all_birds_csv() 之后执行，确保使用最新的 all_birds.csv
@@ -825,28 +798,10 @@ def main():
     print("   · 网络问题导致下载失败")
     print("   可以手动使用 `python3 tools/batch_download_sounds.py` 重试")
 
-    # 收集所有需要下载/检查的鸟类（slug格式）
-    all_priority_slugs = set()
-    all_highlight_slugs = set()
-    
-    # 从 summary 中收集 downloads_raw
-    for item in summary:
-        downloads_raw = item.get("downloads_raw") or []
-        all_priority_slugs.update(downloads_raw)
-        all_highlight_slugs.update(downloads_raw)
-    
-    # 收集 remaining_all_missing（如果存在）
-    if remaining_all_missing:
-        all_priority_slugs.update(remaining_all_missing)
-        all_highlight_slugs.update(remaining_all_missing)
-    
-    # 如果有需要下载/检查的鸟类，重新生成HTML，让它们排在最前面并标红
-    if all_priority_slugs:
-        print(f"\n🔄 重新生成HTML，将 {len(all_priority_slugs)} 个需要下载/检查的鸟类排在最前面并标红...")
-        generate_html(highlight_slugs=list(all_highlight_slugs), priority_slugs=list(all_priority_slugs))
-    
-    # 自动打开 HTML 页面
-    if successful and all_downloads:
+    review_slugs = collect_gallery_review_slugs(summary, remaining_all_missing)
+    if successful:
+        print(f"\n🔄 重新生成HTML，将 {len(review_slugs)} 个本次更新/待检查的鸟类排在最前面并标红...")
+        generate_html(highlight_slugs=review_slugs, priority_slugs=review_slugs)
         html_file = PROJECT_ROOT / "examples" / "gallery_all_cloudinary.html"
         if html_file.exists():
             print(f"\n🌐 正在打开 HTML 页面: {html_file}")

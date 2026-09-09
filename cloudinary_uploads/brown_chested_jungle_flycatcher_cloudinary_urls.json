@@ -119,5 +119,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "brown_chested_jungle_flycatcher_273396421.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1788965234/bird-gallery/brown_chested_jungle_flycatcher/sounds/brown_chested_jungle_flycatcher_273396421.mp3",
+      "public_id": "bird-gallery/brown_chested_jungle_flycatcher/sounds/brown_chested_jungle_flycatcher_273396421",
+      "duration": 21.6,
+      "format": "mp3",
+      "bytes": 257228,
+      "bit_rate": 95269,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "273396421",
+        "asset_url": "https://macaulaylibrary.org/asset/273396421",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

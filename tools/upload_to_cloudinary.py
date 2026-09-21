@@ -19,6 +19,58 @@ try:
 except ImportError:
     requests = None  # 如果未安装 requests，Macaulay 署名获取功能将不可用
 
+IMAGE_SOURCE_KEYS = (
+    'macaulay',
+    'inaturalist',
+    'birdphotos',
+    'wikimedia',
+    'avibase',
+)
+
+
+def merge_upload_results(existing_data, results):
+    """合并本次上传结果与已有 Cloudinary JSON，避免空列表覆盖已有图片。
+
+    触发场景：本地缺少某个来源目录（或该来源上传失败）时，results 里对应
+    来源是 []，若直接写回会抹掉 JSON 中已有的 macaulay/inaturalist 等 URL。
+    """
+    existing_data = existing_data if isinstance(existing_data, dict) else {}
+    results = results if isinstance(results, dict) else {}
+
+    ordered_results = {}
+
+    new_bird_info = results.get('bird_info')
+    if isinstance(new_bird_info, dict) and new_bird_info:
+        ordered_results['bird_info'] = new_bird_info
+    elif isinstance(existing_data.get('bird_info'), dict) and existing_data['bird_info']:
+        ordered_results['bird_info'] = existing_data['bird_info']
+        print("   ℹ️  保留已有 bird_info（本次上传未提供）")
+
+    for key in IMAGE_SOURCE_KEYS:
+        new_list = results.get(key)
+        old_list = existing_data.get(key)
+        new_photos = new_list if isinstance(new_list, list) else None
+        old_photos = old_list if isinstance(old_list, list) else None
+
+        if new_photos:
+            ordered_results[key] = new_photos
+        elif old_photos:
+            ordered_results[key] = old_photos
+            print(f"   ℹ️  保留已有 {key} 图片记录（{len(old_photos)} 张；本次未上传该来源）")
+        elif new_photos is not None:
+            ordered_results[key] = new_photos
+        elif old_photos is not None:
+            ordered_results[key] = old_photos
+
+    for key, value in existing_data.items():
+        if key in ordered_results or key == 'bird_info' or key in IMAGE_SOURCE_KEYS:
+            continue
+        ordered_results[key] = value
+        print(f"   ℹ️  保留额外字段: {key}")
+
+    return ordered_results
+
+
 def upload_bird_images(bird_name, base_path, bird_info=None):
     """
     上传指定鸟类的所有图片
@@ -292,43 +344,28 @@ def generate_summary(bird_name, results):
     return total
 
 def save_results_to_file(bird_name, results):
-    """保存结果到JSON文件"""
-    import json
-    
+    """保存结果到JSON文件（与已有记录合并，空来源不会抹掉旧图片）。"""
     output_dir = Path("cloudinary_uploads")
     output_dir.mkdir(exist_ok=True)
-    
+
     output_file = output_dir / f"{bird_name}_cloudinary_urls.json"
-    
-    # 如果文件已存在，读取现有数据以保留额外字段（如sounds）
+
     existing_data = {}
     if output_file.exists():
         try:
             with open(output_file, 'r', encoding='utf-8') as f:
                 existing_data = json.load(f)
-        except:
-            pass
-    
-    # 确保 bird_info 在最前面（如果存在）
-    ordered_results = {}
-    if 'bird_info' in results:
-        ordered_results['bird_info'] = results['bird_info']
-    
-    for key in ['macaulay', 'inaturalist', 'birdphotos', 'wikimedia', 'avibase']:
-        if key in results:
-            ordered_results[key] = results[key]
-    
-    # 保留现有的额外字段（如sounds、其他未来可能添加的字段）
-    for key in existing_data:
-        if key not in ordered_results and key not in ['macaulay', 'inaturalist', 'birdphotos', 'wikimedia', 'avibase', 'bird_info']:
-            ordered_results[key] = existing_data[key]
-            print(f"   ℹ️  保留额外字段: {key}")
-    
+        except Exception as exc:
+            print(f"⚠️  读取已有 Cloudinary JSON 失败，将仅写入本次结果: {exc}")
+            existing_data = {}
+
+    ordered_results = merge_upload_results(existing_data, results)
+
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(ordered_results, f, indent=2, ensure_ascii=False)
-    
+
     print(f"📄 URL信息已保存到: {output_file}")
-    
+
     return output_file
 
 def load_bird_info_from_csv(bird_name):
@@ -414,16 +451,21 @@ def main():
             bird_info = load_bird_info_from_csv(bird)
             results = upload_bird_images(bird, base_path, bird_info)
             all_results[bird] = results
-            generate_summary(bird, results)
-            save_results_to_file(bird, results)
-        
+            total = generate_summary(bird, results)
+            # 即使本次某来源为空，合并写入也会保留 JSON 中已有图片；
+            # 仅在完全没有任何可上传图片时跳过，避免新建全空 JSON。
+            if total > 0:
+                save_results_to_file(bird, results)
+            else:
+                print(f"⚠️  {bird}: 没有上传任何图片，跳过写回 JSON")
+
         print(f"\n🎉 所有鸟类上传完成！")
-        
+
     else:
         # 上传单个鸟类
         results = upload_bird_images(bird_name, base_path, bird_info)
         total = generate_summary(bird_name, results)
-        
+
         if total > 0:
             save_results_to_file(bird_name, results)
             if bird_info:
@@ -431,7 +473,7 @@ def main():
                 print(f"📝 鸟类信息: {bird_info['chinese_name']} / {bird_info['english_name']}")
             else:
                 print(f"\n🎉 上传完成！{total} 张图片已上传到Cloudinary")
-                print(f"⚠️  提示: 未提供鸟类信息，JSON文件中可能缺少bird_info字段")
+                print(f"⚠️  提示: 未提供鸟类信息；若 JSON 已有 bird_info 将被保留")
         else:
             print(f"\n⚠️  没有上传任何图片")
 

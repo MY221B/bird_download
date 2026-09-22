@@ -24,6 +24,15 @@ UPLOAD_DIR = Path('cloudinary_uploads')
 OUT_FILE = Path('examples/gallery_all_cloudinary.html')
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
+# 画廊仅展示图片来源；绝不把 sounds 等非图片键渲染成可多选删除的 image-card
+IMAGE_SOURCE_KEYS = (
+    'macaulay',
+    'inaturalist',
+    'birdphotos',
+    'wikimedia',
+    'avibase',
+)
+
 # 与 feather-flash-quiz/src/lib/cloudinaryUrl.ts 一致
 _VERSION_RE = re.compile(r"/v\d+/")
 
@@ -130,7 +139,7 @@ def build_html(
     gallery_cloud_override: str | None = None,
 ) -> str:
     def total_images(d: dict) -> int:
-        return sum(len(v or []) for k, v in d.items() if k != 'bird_info')
+        return sum(len(d.get(k) or []) for k in IMAGE_SOURCE_KEYS)
 
     cloud_name = (
         gallery_cloud_override
@@ -176,8 +185,9 @@ def build_html(
             'avibase': 'Avibase（世界鸟类数据库 - Flickr社区）',
         }
 
-        for source, images in urls.items():
-            if source == 'bird_info' or not images:
+        for source in IMAGE_SOURCE_KEYS:
+            images = urls.get(source) or []
+            if not images:
                 continue
             parts.append(f'''
                 <section class="source-section">
@@ -211,12 +221,15 @@ def build_html(
             ''')
 
         total = total_images(urls)
+        image_source_count = sum(
+            1 for k in IMAGE_SOURCE_KEYS if isinstance(urls.get(k), list) and urls.get(k)
+        )
         parts.append(f'''
             <section class="stats">
                 <h2>📊 统计信息</h2>
                 <div class="stats-grid">
                     <div class="stat-card"><div class="stat-number">{total}</div><div class="stat-label">总图片数</div></div>
-                    <div class="stat-card"><div class="stat-number">{len([s for s in urls.values() if isinstance(s, list) and s])}</div><div class="stat-label">数据来源</div></div>
+                    <div class="stat-card"><div class="stat-number">{image_source_count}</div><div class="stat-label">数据来源</div></div>
                     <div class="stat-card"><div class="stat-number">100%</div><div class="stat-label">CDN托管</div></div>
                 </div>
             </section>

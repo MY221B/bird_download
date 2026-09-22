@@ -95,22 +95,25 @@ def update_json_file(json_file, bird_info_map):
             existing_info['slug'] = slug
             updated = True
         
-        # 如果有更新，保存文件
+        # 如果有更新，保存文件（必须保留 sounds 等非图片字段，禁止重建白名单丢数据）
         if updated:
-            # 重新组织数据，确保bird_info在最前面
             ordered_data = {}
             if 'bird_info' in data:
                 ordered_data['bird_info'] = data['bird_info']
-            
+
             for key in ['macaulay', 'inaturalist', 'birdphotos', 'wikimedia', 'avibase']:
                 if key in data:
                     ordered_data[key] = data[key]
-            
+
+            for key, value in data.items():
+                if key not in ordered_data:
+                    ordered_data[key] = value
+
             with open(json_file, 'w', encoding='utf-8') as f:
                 json.dump(ordered_data, f, indent=2, ensure_ascii=False)
-            
+
             return True
-        
+
         return False
         
     except Exception as e:

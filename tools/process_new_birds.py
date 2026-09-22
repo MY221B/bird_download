@@ -70,6 +70,87 @@ def parse_birds_to_csv(input_file, output_csv):
         return False
 
 
+def _cloudinary_media_score(slug: str) -> tuple:
+    """用于在重复中文名/学名候选中挑选已有媒体最完整的 slug。"""
+    json_file = PROJECT_ROOT / "cloudinary_uploads" / f"{slug}_cloudinary_urls.json"
+    if not json_file.exists():
+        return (0, 0, 0)
+    try:
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        photos = 0
+        for source in ('macaulay', 'inaturalist', 'birdphotos', 'wikimedia', 'avibase'):
+            items = data.get(source)
+            if isinstance(items, list):
+                photos += len(items)
+        sounds = data.get('sounds') if isinstance(data.get('sounds'), list) else []
+        return (1 if photos > 0 else 0, 1 if sounds else 0, photos + len(sounds))
+    except Exception:
+        return (0, 0, 0)
+
+
+def _pick_canonical_slug(candidates, preferred_slug: str = "") -> str:
+    """从候选 slug 中挑选规范条目：优先 preferred，其次媒体最完整，再次字典序稳定。"""
+    uniq = []
+    seen = set()
+    for slug in candidates:
+        if slug and slug not in seen:
+            seen.add(slug)
+            uniq.append(slug)
+    if not uniq:
+        return preferred_slug or ""
+    if preferred_slug and preferred_slug in seen:
+        return preferred_slug
+    scored = [(s, _cloudinary_media_score(s)) for s in uniq]
+    scored.sort(key=lambda item: (-item[1][0], -item[1][1], -item[1][2], item[0]))
+    return scored[0][0]
+
+
+def _build_identity_indexes(all_birds_map: dict):
+    by_chinese = {}
+    by_scientific = {}
+    by_english = {}
+    for slug, info in all_birds_map.items():
+        chinese = (info.get('chinese_name') or '').strip()
+        scientific = (info.get('scientific_name') or '').strip()
+        english = (info.get('english_name') or '').strip()
+        if chinese:
+            by_chinese.setdefault(chinese, []).append(slug)
+        if scientific:
+            by_scientific.setdefault(scientific, []).append(slug)
+        if english:
+            by_english.setdefault(english.lower(), []).append(slug)
+    return by_chinese, by_scientific, by_english
+
+
+def resolve_canonical_slug(bird: dict, all_birds_map: dict, indexes=None) -> str:
+    """
+    将 generate_slug(英文名) 得到的临时 slug 解析为 all_birds.csv 中的规范 slug。
+    避免 Lincoln's / Sparrowhawk 等拼写差异产生幽灵物种并弄丢已有图片/叫声。
+    """
+    slug = (bird.get('slug') or '').strip()
+    if slug and slug in all_birds_map:
+        return slug
+
+    if indexes is None:
+        indexes = _build_identity_indexes(all_birds_map)
+    by_chinese, by_scientific, by_english = indexes
+
+    chinese = (bird.get('chinese_name') or '').strip()
+    scientific = (bird.get('scientific_name') or '').strip()
+    english = (bird.get('english_name') or '').strip()
+
+    for candidates in (
+        by_chinese.get(chinese, []) if chinese else [],
+        by_scientific.get(scientific, []) if scientific else [],
+        by_english.get(english.lower(), []) if english else [],
+    ):
+        if candidates:
+            return _pick_canonical_slug(candidates, preferred_slug=slug)
+
+    return slug
+
+
 def merge_with_all_birds_csv(csv_file):
     """合并新增鸟类CSV与all_birds.csv，优先使用all_birds.csv的信息"""
     print("\n📋 步骤1.5: 合并 all_birds.csv 信息...")
@@ -77,6 +158,7 @@ def merge_with_all_birds_csv(csv_file):
     # 加载all_birds.csv
     all_birds_map = load_all_birds_csv()
     print(f"📋 从 all_birds.csv 加载了 {len(all_birds_map)} 条记录")
+    indexes = _build_identity_indexes(all_birds_map)
     
     if not csv_file.exists():
         return csv_file
@@ -116,13 +198,21 @@ def merge_with_all_birds_csv(csv_file):
                         'wikipedia_page': row.get('wikipedia_page', '').strip()
                     })
     
-    # 合并：优先使用all_birds.csv的信息
+    # 合并：优先使用all_birds.csv的信息；slug 不一致时按中文名/学名/英文名回挂规范 slug
     merged_birds = []
     new_birds_count = 0
     existing_birds_count = 0
+    remapped_count = 0
     
     for bird in temp_birds:
-        slug = bird['slug']
+        original_slug = bird['slug']
+        slug = resolve_canonical_slug(bird, all_birds_map, indexes=indexes)
+        if slug != original_slug and slug in all_birds_map:
+            print(f"  🔗 slug 归一: {original_slug} → {slug}")
+            remapped_count += 1
+            bird = bird.copy()
+            bird['slug'] = slug
+
         if slug in all_birds_map:
             # 使用all_birds.csv中的信息（更完整和准确）
             merged_bird = all_birds_map[slug].copy()
@@ -154,7 +244,10 @@ def merge_with_all_birds_csv(csv_file):
                 wiki = english.replace(' ', '_')
             f.write(f'{bird["slug"]},"{chinese}","{english}","{scientific}",{wiki}\n')
     
-    print(f"\n✅ 合并完成: {existing_birds_count} 个使用 all_birds.csv，{new_birds_count} 个新鸟类")
+    print(
+        f"\n✅ 合并完成: {existing_birds_count} 个使用 all_birds.csv，"
+        f"{new_birds_count} 个新鸟类，{remapped_count} 个 slug 已归一"
+    )
     return csv_file
 
 

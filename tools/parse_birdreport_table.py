@@ -11,7 +11,7 @@ Spilopelia chinensis
 鸽形目
 鸠鸽科
 
-输出：中文名 学名
+输出：中文名 英文名 学名
 """
 
 import sys
@@ -22,7 +22,7 @@ def parse_birdreport_table(lines):
     解析观鸟记录中心的表格格式
     
     格式说明（每个鸟类占7行）：
-    1       - 序号（1-56）
+    1       - 序号（可为任意正整数，不设上限）
     4148    - 鸟种编号
     珠颈斑鸠 - 中文名
     Spotted Dove - 英文名
@@ -61,30 +61,27 @@ def parse_birdreport_table(lines):
             i += 1
             continue
         
-        # 检查是否是序号行（1-56的纯数字）
-        if re.match(r'^\d+$', line):
-            seq_num = int(line)
-            if 1 <= seq_num <= 56 and i + 6 < len(lines):
-                # 读取接下来的6行
-                bird_id = lines[i + 1].strip() if i + 1 < len(lines) else ''
-                chinese = lines[i + 2].strip() if i + 2 < len(lines) else ''
-                english = lines[i + 3].strip() if i + 3 < len(lines) else ''
-                scientific = lines[i + 4].strip() if i + 4 < len(lines) else ''
-                order = lines[i + 5].strip() if i + 5 < len(lines) else ''
-                family = lines[i + 6].strip() if i + 6 < len(lines) else ''
-                
-                # 验证学名格式（支持多词学名）
-                if re.match(r'^[A-Z][a-z]+ [a-z]+(?:\s+[a-z]+)*', scientific):
-                    # 验证中文名（支持特殊字符如䴙䴘）
-                    if re.search(r'[\u4e00-\u9fff䴙䴘]', chinese):
-                        birds.append({
-                            'chinese': chinese,
-                            'english': english,
-                            'scientific': scientific
-                        })
-                        i += 7  # 跳过这7行
-                        continue
-        
+        # 序号行：纯数字即可（不再限制 <=56，否则长鸟单会静默截断）
+        if re.match(r'^\d+$', line) and i + 6 < len(lines):
+            bird_id = lines[i + 1].strip() if i + 1 < len(lines) else ''
+            chinese = lines[i + 2].strip() if i + 2 < len(lines) else ''
+            english = lines[i + 3].strip() if i + 3 < len(lines) else ''
+            scientific = lines[i + 4].strip() if i + 4 < len(lines) else ''
+            order = lines[i + 5].strip() if i + 5 < len(lines) else ''
+            family = lines[i + 6].strip() if i + 6 < len(lines) else ''
+
+            # 验证学名格式（支持多词学名）
+            if re.match(r'^[A-Z][a-z]+ [a-z]+(?:\s+[a-z]+)*', scientific):
+                # 验证中文名（支持特殊字符如䴙䴘）
+                if re.search(r'[\u4e00-\u9fff䴙䴘]', chinese):
+                    birds.append({
+                        'chinese': chinese,
+                        'english': english,
+                        'scientific': scientific
+                    })
+                    i += 7  # 跳过这7行
+                    continue
+
         i += 1
     
     return birds

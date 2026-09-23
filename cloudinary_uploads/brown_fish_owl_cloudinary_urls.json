@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "brown_fish_owl",
+    "chinese_name": "褐渔鸮",
+    "english_name": "Brown Fish Owl",
+    "scientific_name": "Ketupa zeylonensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_fish_owl_258870041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790174554/bird-gallery/brown_fish_owl/macaulay/brown_fish_owl_258870041.jpg",
+      "public_id": "bird-gallery/brown_fish_owl/macaulay/brown_fish_owl_258870041",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 176083,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/258870041",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "258870041",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_fish_owl_626377121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790174555/bird-gallery/brown_fish_owl/macaulay/brown_fish_owl_626377121.jpg",
+      "public_id": "bird-gallery/brown_fish_owl/macaulay/brown_fish_owl_626377121",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 79269,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/626377121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "626377121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_fish_owl_80486891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790174556/bird-gallery/brown_fish_owl/macaulay/brown_fish_owl_80486891.jpg",
+      "public_id": "bird-gallery/brown_fish_owl/macaulay/brown_fish_owl_80486891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 123427,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/80486891",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "80486891",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_fish_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790174557/bird-gallery/brown_fish_owl/inaturalist/brown_fish_owl_1.jpg",
+      "public_id": "bird-gallery/brown_fish_owl/inaturalist/brown_fish_owl_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57677,
+      "attribution": {
+        "photographer": "sibam",
+        "photographer_url": "https://www.inaturalist.org/observations/14238308",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© sibam (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 14238308,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_fish_owl_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790174558/bird-gallery/brown_fish_owl/inaturalist/brown_fish_owl_2.jpg",
+      "public_id": "bird-gallery/brown_fish_owl/inaturalist/brown_fish_owl_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 46981,
+      "attribution": {
+        "photographer": "thewildlifemonk",
+        "photographer_url": "https://www.inaturalist.org/observations/299751640",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thewildlifemonk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 299751640,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_fish_owl_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790174559/bird-gallery/brown_fish_owl/inaturalist/brown_fish_owl_3.jpg",
+      "public_id": "bird-gallery/brown_fish_owl/inaturalist/brown_fish_owl_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 95330,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/94044386",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 94044386,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "brown_fish_owl_357928591.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1790174567/bird-gallery/brown_fish_owl/sounds/brown_fish_owl_357928591.mp3",
+      "public_id": "bird-gallery/brown_fish_owl/sounds/brown_fish_owl_357928591",
+      "duration": 20.88,
+      "format": "mp3",
+      "bytes": 287516,
+      "bit_rate": 110159,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "357928591",
+        "asset_url": "https://macaulaylibrary.org/asset/357928591",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

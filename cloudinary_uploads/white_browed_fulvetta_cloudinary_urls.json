@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_browed_fulvetta",
+    "chinese_name": "白眉雀鹛",
+    "english_name": "White-browed Fulvetta",
+    "scientific_name": "Fulvetta vinipectus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_browed_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779223/bird-gallery/white_browed_fulvetta/inaturalist/white_browed_fulvetta_1.jpg",
+      "public_id": "bird-gallery/white_browed_fulvetta/inaturalist/white_browed_fulvetta_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75094,
+      "attribution": {
+        "photographer": "connk",
+        "photographer_url": "https://www.inaturalist.org/observations/56604468",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© connk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 56604468,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_fulvetta_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779224/bird-gallery/white_browed_fulvetta/inaturalist/white_browed_fulvetta_2.jpg",
+      "public_id": "bird-gallery/white_browed_fulvetta/inaturalist/white_browed_fulvetta_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 40433,
+      "attribution": {
+        "photographer": "kerry-mate",
+        "photographer_url": "https://www.inaturalist.org/observations/395219164",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kerry-mate (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 395219164,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_fulvetta_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779225/bird-gallery/white_browed_fulvetta/inaturalist/white_browed_fulvetta_3.jpg",
+      "public_id": "bird-gallery/white_browed_fulvetta/inaturalist/white_browed_fulvetta_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 81315,
+      "attribution": {
+        "photographer": "markusm85",
+        "photographer_url": "https://www.inaturalist.org/observations/252408298",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© markusm85 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 252408298,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "rufous_winged_fulvetta",
+    "chinese_name": "栗头雀鹛",
+    "english_name": "Rufous-winged Fulvetta",
+    "scientific_name": "Schoeniparus castaneceps"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "rufous_winged_fulvetta_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779221/bird-gallery/rufous_winged_fulvetta/inaturalist/rufous_winged_fulvetta_1.jpg",
+      "public_id": "bird-gallery/rufous_winged_fulvetta/inaturalist/rufous_winged_fulvetta_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75524,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/10125688",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 10125688,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_winged_fulvetta_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779222/bird-gallery/rufous_winged_fulvetta/inaturalist/rufous_winged_fulvetta_2.jpg",
+      "public_id": "bird-gallery/rufous_winged_fulvetta/inaturalist/rufous_winged_fulvetta_2",
+      "width": 1024,
+      "height": 841,
+      "format": "jpg",
+      "bytes": 62795,
+      "attribution": {
+        "photographer": "shivaprakash",
+        "photographer_url": "https://www.inaturalist.org/observations/111284086",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shivaprakash (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 111284086,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_winged_fulvetta_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779223/bird-gallery/rufous_winged_fulvetta/inaturalist/rufous_winged_fulvetta_3.jpg",
+      "public_id": "bird-gallery/rufous_winged_fulvetta/inaturalist/rufous_winged_fulvetta_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 41681,
+      "attribution": {
+        "photographer": "connk",
+        "photographer_url": "https://www.inaturalist.org/observations/58810047",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© connk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 58810047,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

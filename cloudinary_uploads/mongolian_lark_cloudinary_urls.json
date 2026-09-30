@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "mongolian_lark",
+    "chinese_name": "蒙古百灵",
+    "english_name": "Mongolian Lark",
+    "scientific_name": "Melanocorypha mongolica"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "mongolian_lark_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779226/bird-gallery/mongolian_lark/inaturalist/mongolian_lark_1.jpg",
+      "public_id": "bird-gallery/mongolian_lark/inaturalist/mongolian_lark_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 43184,
+      "attribution": {
+        "photographer": "deniszhbir",
+        "photographer_url": "https://www.inaturalist.org/observations/240273142",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© deniszhbir (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 240273142,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mongolian_lark_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779226/bird-gallery/mongolian_lark/inaturalist/mongolian_lark_2.jpg",
+      "public_id": "bird-gallery/mongolian_lark/inaturalist/mongolian_lark_2",
+      "width": 720,
+      "height": 540,
+      "format": "jpg",
+      "bytes": 58203,
+      "attribution": {
+        "photographer": "cho_hs",
+        "photographer_url": "https://www.inaturalist.org/observations/59529965",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cho_hs (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 59529965,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mongolian_lark_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1790779227/bird-gallery/mongolian_lark/inaturalist/mongolian_lark_3.jpg",
+      "public_id": "bird-gallery/mongolian_lark/inaturalist/mongolian_lark_3",
+      "width": 1024,
+      "height": 718,
+      "format": "jpg",
+      "bytes": 64886,
+      "attribution": {
+        "photographer": "grishahasanov",
+        "photographer_url": "https://www.inaturalist.org/observations/49344038",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© grishahasanov (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 49344038,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

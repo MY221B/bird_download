@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "western_marsh_harrier",
+    "chinese_name": "白头鹞",
+    "english_name": "Western Marsh Harrier",
+    "scientific_name": "Circus aeruginosus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "western_marsh_harrier_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384069/bird-gallery/western_marsh_harrier/inaturalist/western_marsh_harrier_1.jpg",
+      "public_id": "bird-gallery/western_marsh_harrier/inaturalist/western_marsh_harrier_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 83611,
+      "attribution": {
+        "photographer": "draposo79",
+        "photographer_url": "https://www.inaturalist.org/observations/9338340",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© draposo79 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9338340,
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_marsh_harrier_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384070/bird-gallery/western_marsh_harrier/inaturalist/western_marsh_harrier_2.jpg",
+      "public_id": "bird-gallery/western_marsh_harrier/inaturalist/western_marsh_harrier_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 74462,
+      "attribution": {
+        "photographer": "marcinswiostek",
+        "photographer_url": "https://www.inaturalist.org/observations/94308967",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marcinswiostek (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 94308967,
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_marsh_harrier_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384071/bird-gallery/western_marsh_harrier/inaturalist/western_marsh_harrier_3.jpg",
+      "public_id": "bird-gallery/western_marsh_harrier/inaturalist/western_marsh_harrier_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 56529,
+      "attribution": {
+        "photographer": "vipulramanuj",
+        "photographer_url": "https://www.inaturalist.org/observations/21868777",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© vipulramanuj (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 21868777,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

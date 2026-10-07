@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "chestnut_cheeked_starling",
+    "chinese_name": "紫背椋鸟",
+    "english_name": "Chestnut-cheeked Starling",
+    "scientific_name": "Agropsar philippensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_cheeked_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384073/bird-gallery/chestnut_cheeked_starling/inaturalist/chestnut_cheeked_starling_1.jpg",
+      "public_id": "bird-gallery/chestnut_cheeked_starling/inaturalist/chestnut_cheeked_starling_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75155,
+      "attribution": {
+        "photographer": "mikhailezdakov",
+        "photographer_url": "https://www.inaturalist.org/observations/365143626",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mikhailezdakov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 365143626,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_cheeked_starling_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384073/bird-gallery/chestnut_cheeked_starling/inaturalist/chestnut_cheeked_starling_2.jpg",
+      "public_id": "bird-gallery/chestnut_cheeked_starling/inaturalist/chestnut_cheeked_starling_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 15935,
+      "attribution": {
+        "photographer": "andrewbazdyrev",
+        "photographer_url": "https://www.inaturalist.org/observations/173461937",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© andrewbazdyrev (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 173461937,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_cheeked_starling_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384074/bird-gallery/chestnut_cheeked_starling/inaturalist/chestnut_cheeked_starling_3.jpg",
+      "public_id": "bird-gallery/chestnut_cheeked_starling/inaturalist/chestnut_cheeked_starling_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 61163,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/173732640",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 173732640,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

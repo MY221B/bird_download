@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "dusky_crag_martin",
+    "chinese_name": "纯色岩燕",
+    "english_name": "Dusky Crag Martin",
+    "scientific_name": "Ptyonoprogne concolor"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "dusky_crag_martin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384081/bird-gallery/dusky_crag_martin/inaturalist/dusky_crag_martin_1.jpg",
+      "public_id": "bird-gallery/dusky_crag_martin/inaturalist/dusky_crag_martin_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50681,
+      "attribution": {
+        "photographer": "dhruvapunde",
+        "photographer_url": "https://www.inaturalist.org/observations/382244141",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 382244141,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_crag_martin_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384082/bird-gallery/dusky_crag_martin/inaturalist/dusky_crag_martin_2.jpg",
+      "public_id": "bird-gallery/dusky_crag_martin/inaturalist/dusky_crag_martin_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 44105,
+      "attribution": {
+        "photographer": "dhruvapunde",
+        "photographer_url": "https://www.inaturalist.org/observations/291428100",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 291428100,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_crag_martin_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384083/bird-gallery/dusky_crag_martin/inaturalist/dusky_crag_martin_3.jpg",
+      "public_id": "bird-gallery/dusky_crag_martin/inaturalist/dusky_crag_martin_3",
+      "width": 1015,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 8913,
+      "attribution": {
+        "photographer": "kapishgarg",
+        "photographer_url": "https://www.inaturalist.org/observations/367987197",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kapishgarg (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 367987197,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

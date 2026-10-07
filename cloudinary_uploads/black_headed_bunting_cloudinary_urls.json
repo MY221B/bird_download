@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_headed_bunting",
+    "chinese_name": "黑头鹀",
+    "english_name": "Black-headed Bunting",
+    "scientific_name": "Emberiza melanocephala"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_headed_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384078/bird-gallery/black_headed_bunting/inaturalist/black_headed_bunting_1.jpg",
+      "public_id": "bird-gallery/black_headed_bunting/inaturalist/black_headed_bunting_1",
+      "width": 562,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 55668,
+      "attribution": {
+        "photographer": "stevem4560",
+        "photographer_url": "https://www.inaturalist.org/observations/366285178",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© stevem4560 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 366285178,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384079/bird-gallery/black_headed_bunting/inaturalist/black_headed_bunting_2.jpg",
+      "public_id": "bird-gallery/black_headed_bunting/inaturalist/black_headed_bunting_2",
+      "width": 1024,
+      "height": 712,
+      "format": "jpg",
+      "bytes": 64783,
+      "attribution": {
+        "photographer": "micah_bianchi",
+        "photographer_url": "https://www.inaturalist.org/observations/260580681",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© micah_bianchi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 260580681,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_bunting_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384080/bird-gallery/black_headed_bunting/inaturalist/black_headed_bunting_3.jpg",
+      "public_id": "bird-gallery/black_headed_bunting/inaturalist/black_headed_bunting_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 49600,
+      "attribution": {
+        "photographer": "stevem4560",
+        "photographer_url": "https://www.inaturalist.org/observations/215453489",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© stevem4560 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 215453489,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

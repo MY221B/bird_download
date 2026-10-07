@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "japanese_robin",
+    "chinese_name": "日本歌鸲",
+    "english_name": "Japanese Robin",
+    "scientific_name": "Larvivora akahige"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "japanese_robin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384075/bird-gallery/japanese_robin/inaturalist/japanese_robin_1.jpg",
+      "public_id": "bird-gallery/japanese_robin/inaturalist/japanese_robin_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 92921,
+      "attribution": {
+        "photographer": "eeveefang",
+        "photographer_url": "https://www.inaturalist.org/observations/260152654",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© eeveefang (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 260152654,
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_robin_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384076/bird-gallery/japanese_robin/inaturalist/japanese_robin_2.jpg",
+      "public_id": "bird-gallery/japanese_robin/inaturalist/japanese_robin_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 109501,
+      "attribution": {
+        "photographer": "samzhang",
+        "photographer_url": "https://www.inaturalist.org/observations/382445297",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© samzhang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 382445297,
+        "note": null
+      }
+    },
+    {
+      "original_file": "japanese_robin_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791384077/bird-gallery/japanese_robin/inaturalist/japanese_robin_3.jpg",
+      "public_id": "bird-gallery/japanese_robin/inaturalist/japanese_robin_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 107543,
+      "attribution": {
+        "photographer": "oscarho",
+        "photographer_url": "https://www.inaturalist.org/observations/143489998",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oscarho (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 143489998,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

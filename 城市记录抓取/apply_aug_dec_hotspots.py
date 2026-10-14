@@ -7,6 +7,7 @@ import argparse
 import csv
 import json
 import re
+import sys
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
@@ -15,6 +16,8 @@ from typing import Dict, List, Sequence, Set, Tuple
 
 AUG_DEC = {f"{m}月" for m in range(8, 13)}
 REPO = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO / 'tools'))
+from birdreport_location_mapping import parse_ranking_location
 
 
 def parse_args() -> argparse.Namespace:
@@ -27,6 +30,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def normalize_name(name: str) -> str:
+    name = parse_ranking_location(name)['point_name']
     text = unicodedata.normalize("NFKC", (name or "").strip())
     text = text.replace("（", "(").replace("）", ")")
     text = re.sub(r"\s+", "", text)
@@ -191,6 +195,7 @@ def existing_names(locs: Sequence[dict]) -> Set[str]:
 
 
 def choose_display_name(raw: str) -> str:
+    raw = parse_ranking_location(raw)['point_name']
     name = (raw or "").strip()
     for token in (
         "上海市",
@@ -256,6 +261,8 @@ def main() -> int:
             print("no new candidates")
             continue
         for i, (point, score, months) in enumerate(picks, 1):
+            mapped = parse_ranking_location(point)
+            search_point = mapped['point_name']
             display = choose_display_name(point)
             loc_id = slugify_ascii(display, job["id_prefix"])
             base_id = loc_id
@@ -267,17 +274,17 @@ def main() -> int:
             entry = {
                 "id": loc_id,
                 "name": display,
-                "province": job["province"],
-                "city": job["city"],
-                "district": "",
+                "province": mapped.get('province_name', job["province"]),
+                "city": mapped.get('city_name', job["city"]),
+                "district": mapped.get('district_name', ''),
                 "mode": 0,
                 "outside_type": 0,
                 "default_days": 7,
                 "query_level": "point",
                 "point_aliases": list(
                     dict.fromkeys(
-                        [display, point]
-                        + ([normalize_name(point)] if normalize_name(point) not in {display, point} else [])
+                        [display, search_point]
+                        + ([normalize_name(search_point)] if normalize_name(search_point) not in {display, search_point} else [])
                     )
                 ),
                 "note": f"{job['note_prefix']}{i}",

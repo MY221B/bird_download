@@ -82,3 +82,30 @@ python3 fetch_city_reports.py \
 - `--captcha-reminder-seconds`：二次提醒等待秒数（默认 `15`）
 - `--post-process / --no-post-process`：抓取后是否自动生成分时段鸟点排名（默认开启）
 - `--cleanup-runtime-artifacts / --no-cleanup-runtime-artifacts`：成功后是否自动清理运行时文件（默认开启）
+
+## 7. 当前地址字段兼容
+
+2026-10-14 实测，`front/record/activity/search` 返回的公开报告使用 `address` 全地址，例如 `北京市北京市朝阳区奥森北园河东`，不再分别返回 `province_name`、`city_name`、`district_name`、`point_name`。官网也直接将公开报告的 `address` 映射为显示用的 `point_name`。
+
+抓取与排名脚本共用 `config/birdreport_location_map.json`：从已有 10 份报告索引中提取 9,285 个地点和 217 组省、市、区县组合，保留来源文件名和 SHA-256，方便核对与重建。映射只包含地点，不包含用户或报告标识。
+
+解析规则：
+
+1. 原有短地点名及行政区字段优先保留。
+2. 新完整地址先精确匹配历史地点，恢复省、市、区县和短地点名。
+3. 尚未出现过的鸟点，只拆分已确认的完整行政区前缀，优先使用最长前缀；不进行模糊匹配，不合并“北园”“北园河东”等不同地点。
+4. 未知或冲突地址保留完整原文，不用查询条件代替实际位置。未知行政区需补充完整历史记录后重建映射，或在映射文件中添加核实过的完整地点四元组。
+
+CSV 表头保持一致，支持原有断点续传；原始 JSONL 仍保存接口原文。排名生成器也可处理之前将完整地址写入 `point_name` 的 CSV，新旧同一地点统一计算访问人数、访问次数和最高鸟种数。排名按省、市、区县、地点四项分组；同名异地以 `地点名【省/市/区县】` 区分，避免错误合并。鸟点建议脚本识别此标注，生成搜索词时仅使用实际地点名，并将行政区写入对应查询字段。此次已重建现有 10 份排名，报告索引 CSV 和原始 JSONL 未改写。
+
+重建映射与排名：
+
+```bash
+python3 tools/generate_birdreport_location_map.py
+python3 城市记录抓取/build_point_period_stats.py \
+  --input-csv 城市记录抓取/data/北京市_20250301-20260301_报告索引.csv \
+  --output-csv 城市记录抓取/data/北京市_20250301-20260301_分时段鸟点排名.csv \
+  --place-name 北京市
+```
+
+也可向映射生成器传入核实过的历史 CSV 列表，或用排名生成器的 `--location-map` 指定另一份映射。若曾抓取新格式并把地点写成空值，可从原始 JSONL 恢复，或重新抓取后重建排名。

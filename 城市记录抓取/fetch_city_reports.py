@@ -34,6 +34,8 @@ TOOLS_PATH = PROJECT_ROOT / "tools"
 if str(TOOLS_PATH) not in sys.path:
     sys.path.insert(0, str(TOOLS_PATH))
 
+from birdreport_location_mapping import load_location_mapper
+
 try:
     from fetch_from_birdreport import (
         decrypt_response_data,
@@ -418,7 +420,8 @@ def normalize_row(
     page: int,
     fetched_at: str,
 ) -> Dict[str, Any]:
-    item = {key: row.get(key, "") for key in CSV_HEADERS}
+    location_row = load_location_mapper().normalize(row)
+    item = {key: location_row.get(key, "") for key in CSV_HEADERS}
     item["query_province"] = query["province"]
     item["query_city"] = query["city"]
     item["query_district"] = query["district"]

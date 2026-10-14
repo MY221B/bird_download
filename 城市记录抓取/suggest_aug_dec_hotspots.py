@@ -7,6 +7,7 @@ import argparse
 import csv
 import json
 import re
+import sys
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
@@ -14,6 +15,8 @@ from typing import Dict, Iterable, List, Optional, Sequence, Set, Tuple
 
 
 AUG_DEC = {f"{m}月" for m in range(8, 13)}
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools'))
+from birdreport_location_mapping import parse_ranking_location
 
 
 def parse_args() -> argparse.Namespace:
@@ -37,6 +40,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def normalize_name(name: str) -> str:
+    name = parse_ranking_location(name)['point_name']
     text = unicodedata.normalize("NFKC", (name or "").strip())
     text = text.replace("（", "(").replace("）", ")")
     text = re.sub(r"\s+", "", text)

@@ -2,7 +2,9 @@
 """
 解析中国观鸟记录中心的表格格式
 
-特殊格式（每个鸟类占7行）：
+支持旧版7列表格与当前8列表格（包含记录次数），以及制表符分隔的行。
+当前列顺序：序号、鸟种编号、中文名、拉丁学名、英文名称、目、科、记录次数。
+旧版示例：
 1
 4148
 珠颈斑鸠
@@ -18,75 +20,70 @@ import sys
 import re
 
 def parse_birdreport_table(lines):
-    """
-    解析观鸟记录中心的表格格式
-    
-    格式说明（每个鸟类占7行）：
-    1       - 序号（1-56）
-    4148    - 鸟种编号
-    珠颈斑鸠 - 中文名
-    Spotted Dove - 英文名
-    Spilopelia chinensis - 学名
-    鸽形目  - 目
-    鸠鸽科  - 科
-    """
+    """按表头识别列；无表头时兼容新旧名称顺序，不限制鸟种数量。"""
+    header_names = {
+        '#': 'sequence', '序号': 'sequence',
+        '鸟种编号': 'id', '编号': 'id',
+        '中文名': 'chinese',
+        '英文名称': 'english', '英文名': 'english',
+        '拉丁学名': 'scientific', '学名': 'scientific',
+        '目': 'order', '科': 'family', '记录次数': 'count',
+    }
+    cells = []
+    for line in lines:
+        text = line.strip('\r\n').lstrip('\ufeff')
+        if '\t' in text:
+            cells.extend(cell.strip() for cell in text.split('\t'))
+        elif text.strip():
+            cells.append(text.strip())
+
+    def valid_names(chinese, scientific):
+        return (
+            re.search(r'[\u3400-\u9fff]', chinese)
+            and re.fullmatch(r'[A-Z][a-z]+\s+[a-z]+(?:\s+[a-z]+)*', scientific)
+        )
+
     birds = []
-    skip_until_first_bird = True
+    columns = None
+    width = 0
     i = 0
-    
-    while i < len(lines):
-        line = lines[i].strip()
-        
-        # 跳过空行
-        if not line:
-            i += 1
+    while i < len(cells):
+        if cells[i] in header_names:
+            end = i
+            headers = {}
+            while end < len(cells) and cells[end] in header_names:
+                headers[header_names[cells[end]]] = end - i
+                end += 1
+            if {'chinese', 'english', 'scientific', 'id'} <= headers.keys():
+                columns, width = headers, end - i
+            i = end
             continue
-        
-        # 跳过明显的页面元素
-        if any(keyword in line for keyword in [
-            'logo', '网站', '查询', '鸟种分布', '活动', '专栏', '文件', '图库',
-            '用户', '登录', '注册', '帮助', '首页', '所在位置', '鸟种名称',
-            '基础统计', '编号', '拼音', 'Copyright', '版权', '地址', 'ICP'
-        ]):
-            i += 1
-            continue
-        
-        # 跳过表头
-        if line in ['#', '中文名', '英文名称', '拉丁学名', '目', '科']:
-            skip_until_first_bird = False
-            i += 1
-            continue
-        
-        if skip_until_first_bird:
-            i += 1
-            continue
-        
-        # 检查是否是序号行（1-56的纯数字）
-        if re.match(r'^\d+$', line):
-            seq_num = int(line)
-            if 1 <= seq_num <= 56 and i + 6 < len(lines):
-                # 读取接下来的6行
-                bird_id = lines[i + 1].strip() if i + 1 < len(lines) else ''
-                chinese = lines[i + 2].strip() if i + 2 < len(lines) else ''
-                english = lines[i + 3].strip() if i + 3 < len(lines) else ''
-                scientific = lines[i + 4].strip() if i + 4 < len(lines) else ''
-                order = lines[i + 5].strip() if i + 5 < len(lines) else ''
-                family = lines[i + 6].strip() if i + 6 < len(lines) else ''
-                
-                # 验证学名格式（支持多词学名）
-                if re.match(r'^[A-Z][a-z]+ [a-z]+(?:\s+[a-z]+)*', scientific):
-                    # 验证中文名（支持特殊字符如䴙䴘）
-                    if re.search(r'[\u4e00-\u9fff䴙䴘]', chinese):
-                        birds.append({
-                            'chinese': chinese,
-                            'english': english,
-                            'scientific': scientific
-                        })
-                        i += 7  # 跳过这7行
-                        continue
-        
+
+        if columns and i + width <= len(cells):
+            row = cells[i:i + width]
+            chinese = row[columns['chinese']]
+            scientific = row[columns['scientific']]
+            sequence = row[columns.get('sequence', columns['id'])]
+            if sequence.isdigit() and row[columns['id']].isdigit() and valid_names(chinese, scientific):
+                birds.append({
+                    'chinese': chinese,
+                    'english': row[columns['english']],
+                    'scientific': scientific,
+                })
+                i += width
+                continue
+
+        # Some clipboard selections omit the header: identify a complete row
+        # by its sequence, taxon ID and names, allowing either name order.
+        if i + 6 < len(cells) and cells[i].isdigit() and cells[i + 1].isdigit():
+            chinese = cells[i + 2]
+            first, second = cells[i + 3:i + 5]
+            for scientific, english in ((second, first), (first, second)):
+                if valid_names(chinese, scientific):
+                    birds.append({'chinese': chinese, 'english': english, 'scientific': scientific})
+                    i += 6
+                    break
         i += 1
-    
     return birds
 
 def main():

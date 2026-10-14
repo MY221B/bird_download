@@ -8,9 +8,15 @@ from __future__ import annotations
 import argparse
 import csv
 import datetime as dt
+import sys
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, Optional, Set, Tuple
+from typing import Dict, Optional
+
+TOOLS_PATH = Path(__file__).resolve().parents[1] / 'tools'
+if str(TOOLS_PATH) not in sys.path:
+    sys.path.insert(0, str(TOOLS_PATH))
+from birdreport_location_mapping import DEFAULT_MAP_PATH, LOCATION_FIELDS, load_location_mapper
 
 
 TIME_PERIOD_ALL = "所有时段"
@@ -65,6 +71,8 @@ def parse_args() -> argparse.Namespace:
         default="",
         help="Override place name in output. If empty, infer from query_province/province_name.",
     )
+    parser.add_argument('--location-map', type=Path, default=DEFAULT_MAP_PATH,
+                        help='Historical location map used to unify old names and current addresses')
     return parser.parse_args()
 
 
@@ -140,15 +148,21 @@ def main() -> int:
     if not place_name:
         place_name = "未知地点"
 
-    # key: (period, point) -> users / visits / max_taxoncount
-    stats: Dict[Tuple[str, str], Dict[str, object]] = defaultdict(
+    mapper = load_location_mapper(args.location_map)
+    # Geographic scope prevents identically named points in different districts
+    # from being merged. Display short names unless that name is ambiguous.
+    stats = defaultdict(
         lambda: {"users": set(), "visits": 0, "max_taxon": 0}
     )
+    name_scopes = defaultdict(set)
 
     with input_csv.open("r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
         for row in reader:
+            row = mapper.normalize(row)
             point_name = (row.get("point_name") or "").strip() or "未填写观鸟点"
+            region = tuple((row.get(field) or '').strip() for field in LOCATION_FIELDS[:3])
+            name_scopes[point_name].add(region)
             user_id = (row.get("userid") or "").strip()
             user_name = (row.get("username") or "").strip()
             if user_id:
@@ -170,7 +184,7 @@ def main() -> int:
                 periods.append(f"{month}月")
 
             for period in periods:
-                bucket = stats[(period, point_name)]
+                bucket = stats[(period, region, point_name)]
                 users = bucket["users"]
                 if isinstance(users, set):
                     users.add(user_key)
@@ -178,7 +192,7 @@ def main() -> int:
                 bucket["max_taxon"] = max(int(bucket["max_taxon"]), taxon_count)
 
     rows = []
-    for (period, point_name), bucket in stats.items():
+    for (period, region, point_name), bucket in stats.items():
         users = bucket["users"]
         user_count = len(users) if isinstance(users, set) else 0
         visit_count = int(bucket["visits"])
@@ -188,7 +202,8 @@ def main() -> int:
             {
                 "地点名称": place_name,
                 "时间段": period,
-                "观鸟点名称": point_name,
+                "观鸟点名称": point_name if len(name_scopes[point_name]) == 1 else
+                    f"{point_name}【{'/'.join(x for x in region if x) or '行政区未知'}】",
                 "访问人数": user_count,
                 "访问次数": visit_count,
                 "大概鸟种数": max_taxon,

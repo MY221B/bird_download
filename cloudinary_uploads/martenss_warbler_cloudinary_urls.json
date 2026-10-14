@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "martenss_warbler",
+    "chinese_name": "峨眉鹟莺",
+    "english_name": "Martens's Warbler",
+    "scientific_name": "Phylloscopus omeiensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "martenss_warbler_205153441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988841/bird-gallery/martenss_warbler/macaulay/martenss_warbler_205153441.jpg",
+      "public_id": "bird-gallery/martenss_warbler/macaulay/martenss_warbler_205153441",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 52426,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205153441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205153441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "martenss_warbler_413069841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988842/bird-gallery/martenss_warbler/macaulay/martenss_warbler_413069841.jpg",
+      "public_id": "bird-gallery/martenss_warbler/macaulay/martenss_warbler_413069841",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 102181,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/413069841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "413069841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "martenss_warbler_52632141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988843/bird-gallery/martenss_warbler/macaulay/martenss_warbler_52632141.jpg",
+      "public_id": "bird-gallery/martenss_warbler/macaulay/martenss_warbler_52632141",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 96366,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/52632141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "52632141",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "martenss_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988844/bird-gallery/martenss_warbler/inaturalist/martenss_warbler_1.jpg",
+      "public_id": "bird-gallery/martenss_warbler/inaturalist/martenss_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59706,
+      "attribution": {
+        "photographer": "hamsambly",
+        "photographer_url": "https://www.inaturalist.org/observations/197389109",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hamsambly (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197389109,
+        "note": null
+      }
+    },
+    {
+      "original_file": "martenss_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988845/bird-gallery/martenss_warbler/inaturalist/martenss_warbler_2.jpg",
+      "public_id": "bird-gallery/martenss_warbler/inaturalist/martenss_warbler_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 102401,
+      "attribution": {
+        "photographer": "kittipongchaisiri",
+        "photographer_url": "https://www.inaturalist.org/observations/37517151",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kittipongchaisiri (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 37517151,
+        "note": null
+      }
+    },
+    {
+      "original_file": "martenss_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988846/bird-gallery/martenss_warbler/inaturalist/martenss_warbler_3.jpg",
+      "public_id": "bird-gallery/martenss_warbler/inaturalist/martenss_warbler_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 56260,
+      "attribution": {
+        "photographer": "benjamynweil",
+        "photographer_url": "https://www.inaturalist.org/observations/257451128",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© benjamynweil (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 257451128,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "martenss_warbler_518491761.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1791988973/bird-gallery/martenss_warbler/sounds/martenss_warbler_518491761.mp3",
+      "public_id": "bird-gallery/martenss_warbler/sounds/martenss_warbler_518491761",
+      "duration": 16.488,
+      "format": "mp3",
+      "bytes": 226460,
+      "bit_rate": 109878,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "518491761",
+        "asset_url": "https://macaulaylibrary.org/asset/518491761",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

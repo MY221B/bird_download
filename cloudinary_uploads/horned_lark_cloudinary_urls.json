@@ -119,5 +119,27 @@
         "note": "署名信息需从Flickr获取"
       }
     }
+  ],
+  "sounds": [
+    {
+      "original_file": "horned_lark_73842.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1791988855/bird-gallery/horned_lark/sounds/horned_lark_73842.mp3",
+      "public_id": "bird-gallery/horned_lark/sounds/horned_lark_73842",
+      "duration": 200.664,
+      "format": "mp3",
+      "bytes": 3000428,
+      "bit_rate": 119619,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "73842",
+        "asset_url": "https://macaulaylibrary.org/asset/73842",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
   ]
 }

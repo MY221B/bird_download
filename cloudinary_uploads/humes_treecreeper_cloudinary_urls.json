@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "humes_treecreeper",
+    "chinese_name": "休氏旋木雀",
+    "english_name": "Hume's Treecreeper",
+    "scientific_name": "Certhia manipurensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "humes_treecreeper_614286641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988834/bird-gallery/humes_treecreeper/macaulay/humes_treecreeper_614286641.jpg",
+      "public_id": "bird-gallery/humes_treecreeper/macaulay/humes_treecreeper_614286641",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 172606,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614286641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614286641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "humes_treecreeper_614286642.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988835/bird-gallery/humes_treecreeper/macaulay/humes_treecreeper_614286642.jpg",
+      "public_id": "bird-gallery/humes_treecreeper/macaulay/humes_treecreeper_614286642",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 127240,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614286642",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614286642",
+        "note": null
+      }
+    },
+    {
+      "original_file": "humes_treecreeper_626069715.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988837/bird-gallery/humes_treecreeper/macaulay/humes_treecreeper_626069715.jpg",
+      "public_id": "bird-gallery/humes_treecreeper/macaulay/humes_treecreeper_626069715",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 87273,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/626069715",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "626069715",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "humes_treecreeper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988838/bird-gallery/humes_treecreeper/inaturalist/humes_treecreeper_1.jpg",
+      "public_id": "bird-gallery/humes_treecreeper/inaturalist/humes_treecreeper_1",
+      "width": 817,
+      "height": 613,
+      "format": "jpg",
+      "bytes": 41751,
+      "attribution": {
+        "photographer": "utain",
+        "photographer_url": "https://www.inaturalist.org/observations/329036046",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© utain (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 329036046,
+        "note": null
+      }
+    },
+    {
+      "original_file": "humes_treecreeper_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988839/bird-gallery/humes_treecreeper/inaturalist/humes_treecreeper_2.jpg",
+      "public_id": "bird-gallery/humes_treecreeper/inaturalist/humes_treecreeper_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 108062,
+      "attribution": {
+        "photographer": "asimhakeem",
+        "photographer_url": "https://www.inaturalist.org/observations/230749025",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© asimhakeem (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 230749025,
+        "note": null
+      }
+    },
+    {
+      "original_file": "humes_treecreeper_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1791988840/bird-gallery/humes_treecreeper/inaturalist/humes_treecreeper_3.jpg",
+      "public_id": "bird-gallery/humes_treecreeper/inaturalist/humes_treecreeper_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 140531,
+      "attribution": {
+        "photographer": "ou_wildlife",
+        "photographer_url": "https://www.inaturalist.org/observations/144135956",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ou_wildlife (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 144135956,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "humes_treecreeper_53421671.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1791988977/bird-gallery/humes_treecreeper/sounds/humes_treecreeper_53421671.mp3",
+      "public_id": "bird-gallery/humes_treecreeper/sounds/humes_treecreeper_53421671",
+      "duration": 4.632,
+      "format": "mp3",
+      "bytes": 73436,
+      "bit_rate": 126832,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "53421671",
+        "asset_url": "https://macaulaylibrary.org/asset/53421671",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

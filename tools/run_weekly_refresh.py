@@ -349,10 +349,14 @@ def read_slugs_from_csv(csv_file):
     return slugs
 
 
-def copy_json_to_location(slugs, location_name, report_code):
+def copy_json_to_location(slugs, location_name, report_code, start_date, end_date):
     # 使用新的文件夹结构：城市/地点/日期
     dest_dir = get_location_birds_path(location_name, report_code)
     dest_dir.mkdir(parents=True, exist_ok=True)
+    (dest_dir / "record_range.json").write_text(
+        json.dumps({"start": start_date.isoformat(), "end": end_date.isoformat()}, indent=2) + "\n",
+        encoding="utf-8",
+    )
     copied = 0
     missing = []
     for slug in slugs:
@@ -473,7 +477,7 @@ def main():
         
         # 复制 JSON 到 location_birds（包含新下载的 sounds）
         dest_dir, copied, missing_copy = copy_json_to_location(
-            slugs, loc_name, report_code
+            slugs, loc_name, report_code, start_date, end_date
         )
 
         # 在上传完成后，重新检查本地图片和 Cloudinary JSON 状态

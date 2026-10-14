@@ -315,9 +315,13 @@ def read_slugs_from_csv(csv_file):
     return slugs
 
 
-def copy_json_to_location(slugs, location_name, report_code):
+def copy_json_to_location(slugs, location_name, report_code, start_date, end_date):
     dest_dir = get_location_birds_path(location_name, report_code)
     dest_dir.mkdir(parents=True, exist_ok=True)
+    (dest_dir / "record_range.json").write_text(
+        json.dumps({"start": start_date.isoformat(), "end": end_date.isoformat()}, indent=2) + "\n",
+        encoding="utf-8",
+    )
     copied = 0
     missing = []
     for slug in slugs:
@@ -588,7 +592,9 @@ def main():
         update_bird_info(csv_file)
         slugs = read_slugs_from_csv(csv_file)
         success_sounds, failed_sounds = download_and_upload_sounds(slugs, location_dir)
-        dest_dir, copied, missing_copy = copy_json_to_location(slugs, loc_name, report_code)
+        dest_dir, copied, missing_copy = copy_json_to_location(
+            slugs, loc_name, report_code, loc_data["start_date"], loc_data["end_date"]
+        )
 
         # 计算 final_missing_local
         final_missing_local = []

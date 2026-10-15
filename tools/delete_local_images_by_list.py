@@ -62,17 +62,8 @@ def delete_local_images(public_ids: list, images_dir: Path = Path("images")):
                     print(f"⚠️  删除失败 {local_file}: {e}")
         
         if not found:
+            # 禁止 *filename_base* 模糊删除：basename 为 _1 时会误删 _10/_11 等同前缀文件
             not_found_count += 1
-            # 尝试查找所有可能的文件（可能有不同的命名）
-            all_files = list(local_dir.glob(f"*{filename_base}*"))
-            if all_files:
-                for f in all_files:
-                    try:
-                        f.unlink()
-                        print(f"🗑️  删除本地文件（模糊匹配）: {f}")
-                        deleted_count += 1
-                    except Exception as e:
-                        print(f"⚠️  删除失败 {f}: {e}")
     
     print(f"\n✅ 本地文件删除完成：删除 {deleted_count} 个文件，未找到 {not_found_count} 个")
 

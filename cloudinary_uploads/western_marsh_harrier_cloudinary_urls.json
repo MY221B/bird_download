@@ -67,5 +67,27 @@
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "western_marsh_harrier_613407946.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1792593593/bird-gallery/western_marsh_harrier/sounds/western_marsh_harrier_613407946.mp3",
+      "public_id": "bird-gallery/western_marsh_harrier/sounds/western_marsh_harrier_613407946",
+      "duration": 11.16,
+      "format": "mp3",
+      "bytes": 143564,
+      "bit_rate": 102913,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "613407946",
+        "asset_url": "https://macaulaylibrary.org/asset/613407946",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

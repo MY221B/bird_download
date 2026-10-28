@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "great_bustard",
+    "chinese_name": "大鸨",
+    "english_name": "Great Bustard",
+    "scientific_name": "Otis tarda"
+  },
+  "macaulay": [
+    {
+      "original_file": "great_bustard_204572701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199442/bird-gallery/great_bustard/macaulay/great_bustard_204572701.jpg",
+      "public_id": "bird-gallery/great_bustard/macaulay/great_bustard_204572701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 94933,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204572701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204572701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_bustard_286309351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199443/bird-gallery/great_bustard/macaulay/great_bustard_286309351.jpg",
+      "public_id": "bird-gallery/great_bustard/macaulay/great_bustard_286309351",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 134621,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/286309351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "286309351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_bustard_286309361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199444/bird-gallery/great_bustard/macaulay/great_bustard_286309361.jpg",
+      "public_id": "bird-gallery/great_bustard/macaulay/great_bustard_286309361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90381,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/286309361",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "286309361",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "great_bustard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199445/bird-gallery/great_bustard/inaturalist/great_bustard_1.jpg",
+      "public_id": "bird-gallery/great_bustard/inaturalist/great_bustard_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 123179,
+      "attribution": {
+        "photographer": "trevorhance",
+        "photographer_url": "https://www.inaturalist.org/observations/27712407",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© trevorhance (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 27712407,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_bustard_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199446/bird-gallery/great_bustard/inaturalist/great_bustard_2.jpg",
+      "public_id": "bird-gallery/great_bustard/inaturalist/great_bustard_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59775,
+      "attribution": {
+        "photographer": "carlosbocos",
+        "photographer_url": "https://www.inaturalist.org/observations/41329174",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© carlosbocos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 41329174,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_bustard_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199447/bird-gallery/great_bustard/inaturalist/great_bustard_3.jpg",
+      "public_id": "bird-gallery/great_bustard/inaturalist/great_bustard_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 185318,
+      "attribution": {
+        "photographer": "felicey123",
+        "photographer_url": "https://www.inaturalist.org/observations/164808631",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© felicey123 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 164808631,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "great_bustard_203909681.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793199589/bird-gallery/great_bustard/sounds/great_bustard_203909681.mp3",
+      "public_id": "bird-gallery/great_bustard/sounds/great_bustard_203909681",
+      "duration": 4.824,
+      "format": "mp3",
+      "bytes": 114188,
+      "bit_rate": 189366,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203909681",
+        "asset_url": "https://macaulaylibrary.org/asset/203909681",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

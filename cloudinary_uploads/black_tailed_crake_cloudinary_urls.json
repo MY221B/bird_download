@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "black_tailed_crake",
+    "chinese_name": "棕背田鸡",
+    "english_name": "Black-tailed Crake",
+    "scientific_name": "Zapornia bicolor"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_tailed_crake_614456506.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199460/bird-gallery/black_tailed_crake/macaulay/black_tailed_crake_614456506.jpg",
+      "public_id": "bird-gallery/black_tailed_crake/macaulay/black_tailed_crake_614456506",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82870,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614456506",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614456506",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_tailed_crake_640906404.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199461/bird-gallery/black_tailed_crake/macaulay/black_tailed_crake_640906404.jpg",
+      "public_id": "bird-gallery/black_tailed_crake/macaulay/black_tailed_crake_640906404",
+      "width": 1200,
+      "height": 860,
+      "format": "jpg",
+      "bytes": 85579,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/640906404",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "640906404",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_tailed_crake_85103121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199462/bird-gallery/black_tailed_crake/macaulay/black_tailed_crake_85103121.jpg",
+      "public_id": "bird-gallery/black_tailed_crake/macaulay/black_tailed_crake_85103121",
+      "width": 1200,
+      "height": 809,
+      "format": "jpg",
+      "bytes": 118208,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/85103121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "85103121",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_tailed_crake_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199463/bird-gallery/black_tailed_crake/inaturalist/black_tailed_crake_1.jpg",
+      "public_id": "bird-gallery/black_tailed_crake/inaturalist/black_tailed_crake_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 192393,
+      "attribution": {
+        "photographer": "chiang_mai",
+        "photographer_url": "https://www.inaturalist.org/observations/247573320",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© chiang_mai (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 247573320,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_tailed_crake_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199464/bird-gallery/black_tailed_crake/inaturalist/black_tailed_crake_2.jpg",
+      "public_id": "bird-gallery/black_tailed_crake/inaturalist/black_tailed_crake_2",
+      "width": 800,
+      "height": 540,
+      "format": "jpg",
+      "bytes": 72937,
+      "attribution": {
+        "photographer": "petereric",
+        "photographer_url": "https://www.inaturalist.org/observations/379020665",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© petereric (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 379020665,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_tailed_crake_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199465/bird-gallery/black_tailed_crake/inaturalist/black_tailed_crake_3.jpg",
+      "public_id": "bird-gallery/black_tailed_crake/inaturalist/black_tailed_crake_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 87585,
+      "attribution": {
+        "photographer": "morten",
+        "photographer_url": "https://www.inaturalist.org/observations/68271685",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© morten (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 68271685,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "black_tailed_crake_203925461.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793199808/bird-gallery/black_tailed_crake/sounds/black_tailed_crake_203925461.mp3",
+      "public_id": "bird-gallery/black_tailed_crake/sounds/black_tailed_crake_203925461",
+      "duration": 9.024,
+      "format": "mp3",
+      "bytes": 187580,
+      "bit_rate": 166294,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203925461",
+        "asset_url": "https://macaulaylibrary.org/asset/203925461",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

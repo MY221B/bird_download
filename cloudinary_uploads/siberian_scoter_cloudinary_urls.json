@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "siberian_scoter",
+    "chinese_name": "斑脸海番鸭",
+    "english_name": "Siberian Scoter",
+    "scientific_name": "Melanitta stejnegeri"
+  },
+  "macaulay": [
+    {
+      "original_file": "siberian_scoter_580498651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199454/bird-gallery/siberian_scoter/macaulay/siberian_scoter_580498651.jpg",
+      "public_id": "bird-gallery/siberian_scoter/macaulay/siberian_scoter_580498651",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 41006,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/580498651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "580498651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_scoter_580498761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199455/bird-gallery/siberian_scoter/macaulay/siberian_scoter_580498761.jpg",
+      "public_id": "bird-gallery/siberian_scoter/macaulay/siberian_scoter_580498761",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 39649,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/580498761",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "580498761",
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_scoter_580581231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199456/bird-gallery/siberian_scoter/macaulay/siberian_scoter_580581231.jpg",
+      "public_id": "bird-gallery/siberian_scoter/macaulay/siberian_scoter_580581231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65285,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/580581231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "580581231",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "siberian_scoter_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199457/bird-gallery/siberian_scoter/inaturalist/siberian_scoter_1.jpg",
+      "public_id": "bird-gallery/siberian_scoter/inaturalist/siberian_scoter_1",
+      "width": 672,
+      "height": 396,
+      "format": "jpg",
+      "bytes": 9869,
+      "attribution": {
+        "photographer": "szymon_bzoma",
+        "photographer_url": "https://www.inaturalist.org/observations/144381159",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© szymon_bzoma (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 144381159,
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_scoter_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199458/bird-gallery/siberian_scoter/inaturalist/siberian_scoter_2.jpg",
+      "public_id": "bird-gallery/siberian_scoter/inaturalist/siberian_scoter_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 25480,
+      "attribution": {
+        "photographer": "deniszhbir",
+        "photographer_url": "https://www.inaturalist.org/observations/117438986",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© deniszhbir (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 117438986,
+        "note": null
+      }
+    },
+    {
+      "original_file": "siberian_scoter_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793199458/bird-gallery/siberian_scoter/inaturalist/siberian_scoter_3.jpg",
+      "public_id": "bird-gallery/siberian_scoter/inaturalist/siberian_scoter_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 119519,
+      "attribution": {
+        "photographer": "daihwan-seonmi",
+        "photographer_url": "https://www.inaturalist.org/observations/217693622",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© daihwan-seonmi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 217693622,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "siberian_scoter_647992665.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793199479/bird-gallery/siberian_scoter/sounds/siberian_scoter_647992665.mp3",
+      "public_id": "bird-gallery/siberian_scoter/sounds/siberian_scoter_647992665",
+      "duration": 8.352,
+      "format": "mp3",
+      "bytes": 122684,
+      "bit_rate": 117513,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "647992665",
+        "asset_url": "https://macaulaylibrary.org/asset/647992665",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

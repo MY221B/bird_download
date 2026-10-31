@@ -190,7 +190,7 @@ def build_weekly_message(
             lines.append(f"近7天/近一月不足，已用过去3年同月：{_fmt_list(historical)}")
         skipped = summary.get("skipped_low_species") or []
         if skipped:
-            lines.append(f"仍不足未更新：{_fmt_list(skipped)}")
+            lines.append(f"未改写前端（种数不足或接口失败）：{_fmt_list(skipped)}")
     elif pipeline_exit != 0:
         lines.append(f"数据刷新异常退出（exit {pipeline_exit}），未生成摘要。请查看终端日志。")
     else:

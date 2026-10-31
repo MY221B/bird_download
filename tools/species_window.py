@@ -25,6 +25,10 @@ EMPTY_RESULT_MARKERS = ("未返回结果", "都未返回")
 HISTORICAL_YEARS_DEFAULT = 3
 RECENT_MONTH_DAYS = 30
 
+FETCH_OK = "ok"
+FETCH_EMPTY = "empty"
+FETCH_ERROR = "error"
+
 
 @dataclass
 class SpeciesWindow:
@@ -53,6 +57,21 @@ class SpeciesWindow:
         if self.source == SOURCE_HISTORICAL_MONTH and self.months:
             payload["months"] = list(self.months)
         return payload
+
+
+@dataclass
+class FetchOutcome:
+    status: str
+    records: list | None = None
+    error: BaseException | None = None
+
+    def __post_init__(self) -> None:
+        if self.records is None:
+            self.records = []
+
+    @property
+    def known(self) -> bool:
+        return self.status != FETCH_ERROR
 
 
 def is_sufficient(count: int, min_species: int) -> bool:
@@ -91,6 +110,19 @@ def is_empty_result_error(exc: BaseException) -> bool:
     return any(marker in message for marker in EMPTY_RESULT_MARKERS)
 
 
+def raise_if_empty_fetch(combined, last_error: BaseException | None, empty_message: str) -> None:
+    """Re-raise a real API error instead of disguising it as an empty window."""
+    if combined:
+        return
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError(empty_message)
+
+
+def is_known_insufficient(outcome: FetchOutcome, min_species: int) -> bool:
+    return outcome.known and not is_sufficient(len(outcome.records), min_species)
+
+
 def union_records(groups: Iterable[Iterable]) -> list:
     combined: OrderedDict[tuple, object] = OrderedDict()
     for records in groups:
@@ -122,26 +154,24 @@ def fetch_records_allow_empty(
     *,
     retries: int = 2,
     sleep_fn=time.sleep,
-) -> list:
-    """Return records, or [] when the window is empty / all retries fail."""
+) -> FetchOutcome:
+    """Fetch one window. Empty results stay empty; API errors stay errors."""
     attempts = max(1, retries + 1)
     last_exc: BaseException | None = None
     for attempt in range(1, attempts + 1):
         try:
             records = fetch_fn(entry, start, end, text_file)
-            return list(records or [])
+            return FetchOutcome(status=FETCH_OK, records=list(records or []))
         except Exception as exc:
             if is_empty_result_error(exc):
-                return []
+                return FetchOutcome(status=FETCH_EMPTY, records=[])
             last_exc = exc
             if attempt < attempts:
                 print(f"🔁 抓取失败，第 {attempt}/{attempts} 次尝试，将重试: {exc}")
                 sleep_fn(4)
             else:
                 print(f"⚠️  时间范围（{start} ~ {end}）{attempts} 次均失败: {exc}")
-    if last_exc is not None:
-        return []
-    return []
+    return FetchOutcome(status=FETCH_ERROR, records=[], error=last_exc)
 
 
 def fetch_with_species_fallback(
@@ -157,6 +187,7 @@ def fetch_with_species_fallback(
     retries: int = 2,
     sleep_fn=time.sleep,
     explicit_range: bool = False,
+    skip_info: dict | None = None,
 ) -> SpeciesWindow | None:
     """
     Pick a publishable window.
@@ -166,9 +197,10 @@ def fetch_with_species_fallback(
     2. Else do not publish the recent list; fetch last 30 days.
        Publish 30 days when species > min_species.
     3. Else union the same calendar month across the past `historical_years` years.
-       Publish that list even if it is still small, as "近期可能鸟种".
-    4. If the historical union is empty, skip (return None) so the frontend keeps
-       the previous folder.
+       Publish as "近期可能鸟种" only when that union also has more than min_species.
+    4. If a recent window failed with an API error (not a real empty result), skip
+       so the frontend keeps the previous folder. Same if historical is empty or
+       still ≤ min_species.
 
     `--start/--end` sets explicit_range=True and skips the cascade.
     """
@@ -182,14 +214,23 @@ def fetch_with_species_fallback(
         "sleep_fn": sleep_fn,
     }
 
+    def skip(reason: str) -> None:
+        if skip_info is not None:
+            skip_info["reason"] = reason
+
     if explicit_range:
-        records = fetch_records_allow_empty(start=recent_start, end=recent_end, **fetch_kwargs)
-        if not records:
-            print(f"❌ {loc_name}: 指定区间（{recent_start} ~ {recent_end}）无记录")
+        outcome = fetch_records_allow_empty(start=recent_start, end=recent_end, **fetch_kwargs)
+        if not outcome.known:
+            print(f"❌ {loc_name}: 指定区间（{recent_start} ~ {recent_end}）接口失败，不写入")
+            skip(f"指定区间（{recent_start} ~ {recent_end}）接口失败")
             return None
-        write_bird_text(records, text_file)
+        if not outcome.records:
+            print(f"❌ {loc_name}: 指定区间（{recent_start} ~ {recent_end}）无记录")
+            skip(f"指定区间（{recent_start} ~ {recent_end}）无记录")
+            return None
+        write_bird_text(outcome.records, text_file)
         return SpeciesWindow(
-            records=records,
+            records=outcome.records,
             start=recent_start,
             end=recent_end,
             source=recent_source_for_span(recent_start, recent_end),
@@ -197,38 +238,61 @@ def fetch_with_species_fallback(
 
     recent_days = (recent_end - recent_start).days + 1
     print(f"🔎 {loc_name}: 先查近 {recent_days} 天（{recent_start} ~ {recent_end}）")
-    records_recent = fetch_records_allow_empty(start=recent_start, end=recent_end, **fetch_kwargs)
-    count_recent = len(records_recent)
-    print(f"📊 {loc_name} 近窗口去重鸟种: {count_recent}")
-    if is_sufficient(count_recent, min_species):
-        write_bird_text(records_recent, text_file)
+    recent_outcome = fetch_records_allow_empty(start=recent_start, end=recent_end, **fetch_kwargs)
+    count_recent = len(recent_outcome.records)
+    if recent_outcome.known:
+        print(f"📊 {loc_name} 近窗口去重鸟种: {count_recent}")
+    else:
+        print(f"⚠️  {loc_name} 近窗口接口失败，不当成 0 种: {recent_outcome.error}")
+    if recent_outcome.known and is_sufficient(count_recent, min_species):
+        write_bird_text(recent_outcome.records, text_file)
         return SpeciesWindow(
-            records=records_recent,
+            records=recent_outcome.records,
             start=recent_start,
             end=recent_end,
             source=recent_source_for_span(recent_start, recent_end),
         )
 
-    print(
-        f"⚠️  {loc_name}: 近窗口 {count_recent} 种 ≤ {min_species}，不写入前端，改查近 {RECENT_MONTH_DAYS} 天"
-    )
+    if recent_outcome.known:
+        print(
+            f"⚠️  {loc_name}: 近窗口 {count_recent} 种 ≤ {min_species}，不写入前端，改查近 {RECENT_MONTH_DAYS} 天"
+        )
+    else:
+        print(f"⚠️  {loc_name}: 近窗口失败，改查近 {RECENT_MONTH_DAYS} 天")
     if recent_days >= RECENT_MONTH_DAYS:
-        records_month = records_recent
+        month_outcome = recent_outcome
         month_start, month_end = recent_start, recent_end
     else:
         month_start, month_end = last_n_days_range(today, RECENT_MONTH_DAYS)
-        records_month = fetch_records_allow_empty(start=month_start, end=month_end, **fetch_kwargs)
-    count_month = len(records_month)
-    print(f"📊 {loc_name} 近{RECENT_MONTH_DAYS}天去重鸟种: {count_month}（{month_start} ~ {month_end}）")
-    if is_sufficient(count_month, min_species):
-        write_bird_text(records_month, text_file)
+        month_outcome = fetch_records_allow_empty(start=month_start, end=month_end, **fetch_kwargs)
+    count_month = len(month_outcome.records)
+    if month_outcome.known:
+        print(
+            f"📊 {loc_name} 近{RECENT_MONTH_DAYS}天去重鸟种: {count_month}（{month_start} ~ {month_end}）"
+        )
+    else:
+        print(
+            f"⚠️  {loc_name} 近{RECENT_MONTH_DAYS}天接口失败，不当成 0 种"
+            f"（{month_start} ~ {month_end}）: {month_outcome.error}"
+        )
+    if month_outcome.known and is_sufficient(count_month, min_species):
+        write_bird_text(month_outcome.records, text_file)
         return SpeciesWindow(
-            records=records_month,
+            records=month_outcome.records,
             start=month_start,
             end=month_end,
             source=SOURCE_RECENT_30D,
             skipped_recent=True,
         )
+
+    if not (
+        is_known_insufficient(recent_outcome, min_species)
+        and is_known_insufficient(month_outcome, min_species)
+    ):
+        reason = "近7天或近一月接口失败，未改写前端"
+        print(f"❌ {loc_name}: {reason}")
+        skip(reason)
+        return None
 
     print(
         f"⚠️  {loc_name}: 近{RECENT_MONTH_DAYS}天 {count_month} 种 ≤ {min_species}，"
@@ -239,7 +303,11 @@ def fetch_with_species_fallback(
     successful_ranges: list[tuple[date, date]] = []
     for hist_start, hist_end in historical_same_month_ranges(today, historical_years):
         month_key = f"{hist_start.year:04d}-{hist_start.month:02d}"
-        recs = fetch_records_allow_empty(start=hist_start, end=hist_end, **fetch_kwargs)
+        hist_outcome = fetch_records_allow_empty(start=hist_start, end=hist_end, **fetch_kwargs)
+        if not hist_outcome.known:
+            print(f"  📅 {month_key}: 接口失败，跳过该年（{hist_outcome.error}）")
+            continue
+        recs = hist_outcome.records
         print(f"  📅 {month_key}: {len(recs)} 种")
         if recs:
             month_groups.append(recs)
@@ -249,7 +317,16 @@ def fetch_with_species_fallback(
     records_hist = union_records(month_groups)
     print(f"📊 {loc_name} {historical_years}年同月并集: {len(records_hist)} 种")
     if not records_hist:
+        reason = "近7天与近一月均不足，且历史同月无记录"
         print(f"❌ {loc_name}: 历史同月无记录，跳过写入以保留上次前端数据")
+        skip(reason)
+        return None
+    if not is_sufficient(len(records_hist), min_species):
+        reason = (
+            f"近7天与近一月均不足，历史同月仍 {len(records_hist)} 种 ≤ {min_species}，未改写前端"
+        )
+        print(f"❌ {loc_name}: {reason}")
+        skip(reason)
         return None
 
     write_bird_text(records_hist, text_file)

@@ -56,6 +56,7 @@ from species_window import (  # type: ignore
     SOURCE_HISTORICAL_MONTH,
     SOURCE_RECENT_30D,
     fetch_with_species_fallback,
+    raise_if_empty_fetch,
 )
 BIRD_INFO_CACHE = load_all_birds_csv()
 
@@ -87,7 +88,7 @@ def parse_args():
         "--min-species",
         type=int,
         default=MIN_SPECIES_DEFAULT,
-        help="种数小于等于该值视为不足：近7天不足则不写入、改查近30天；近30天仍不足则用过去3年同月并集（默认 10）",
+        help="种数小于等于该值视为不足：近7天不足则不写入、改查近30天；近30天仍不足则用过去3年同月并集；接口失败或历史同月仍不足则保留上次前端数据（默认 10）",
     )
     return parser.parse_args()
 
@@ -171,6 +172,7 @@ def fetch_species_for_location(entry, start, end, output_file):
     query_level = entry.get("query_level", "point")
     location_name = entry.get("name", "未知地点")
     combined = OrderedDict()
+    last_error: BaseException | None = None
 
     if query_level == "district":
         districts = entry.get("districts", [])
@@ -190,9 +192,9 @@ def fetch_species_for_location(entry, start, end, output_file):
                             combined[key] = record
                 except Exception as exc:
                     print(f"  ⚠️  {district} 查询失败: {exc}")
+                    last_error = exc
                     continue
-            if not combined:
-                raise RuntimeError("所有区县查询都未返回结果")
+            raise_if_empty_fetch(combined, last_error, "所有区县查询都未返回结果")
         else:
             print(f"🔐 {location_name} - 区县级别查询: 调用 API ...")
             payload = build_payload(entry, start, end, None, query_level="district")
@@ -228,6 +230,7 @@ def fetch_species_for_location(entry, start, end, output_file):
                 records = fetch_birds_for_payload(payload)
             except Exception as exc:
                 print(f"⚠️  {alias} 抓取失败: {exc}")
+                last_error = exc
                 continue
             print(f"✅ {alias}: 返回 {len(records)} 条记录")
             for record in records:
@@ -235,8 +238,7 @@ def fetch_species_for_location(entry, start, end, output_file):
                 if key not in combined:
                     combined[key] = record
 
-    if not combined:
-        raise RuntimeError("所有搜索词都未返回结果")
+    raise_if_empty_fetch(combined, last_error, "所有搜索词都未返回结果")
 
     with open(output_file, "w", encoding="utf-8") as f:
         for record in combined.values():
@@ -413,7 +415,7 @@ def main():
     location_data_list = []  # 成功抓取的地点数据
     extended_range_locs = []  # 近7天不足、改用近一月的地点
     historical_month_locs = []  # 近7天和近一月都不足、改用过去3年同月的地点
-    skipped_low_species = []  # 三个窗口都不够、未写入前端的地点
+    skipped_low_species = []  # 未写入前端的地点（种数不足或接口失败）
 
     for entry in locations:
         loc_id = entry.get("id") or entry.get("name")
@@ -435,6 +437,7 @@ def main():
         refresh_end = end_date
         explicit_range = bool(args.start and args.end)
 
+        skip_info: dict = {}
         window = fetch_with_species_fallback(
             fetch_fn=fetch_species_for_location,
             entry=entry,
@@ -445,11 +448,10 @@ def main():
             today=refresh_end,
             retries=MAX_FETCH_RETRIES,
             explicit_range=explicit_range,
+            skip_info=skip_info,
         )
         if window is None:
-            details = "近7天与近一月均不足，且历史同月无记录"
-            if explicit_range:
-                details = f"指定区间（{start_date} ~ {end_date}）无记录"
+            details = skip_info.get("reason") or "未达到写入条件，已保留上次前端数据"
             print(f"❌ {loc_name}: {details}，不写入前端")
             skipped_low_species.append(loc_name)
             summary.append({"location": loc_name, "status": "未更新", "details": details})
@@ -801,7 +803,7 @@ def main():
         for _loc in historical_month_locs:
             print(f"  - {_loc}")
     if skipped_low_species:
-        print(f"\n⏭️  以下 {len(skipped_low_species)} 个地点三个窗口都不足，未写入前端：")
+        print(f"\n⏭️  以下 {len(skipped_low_species)} 个地点未写入前端（种数不足或接口失败）：")
         for _loc in skipped_low_species:
             print(f"  - {_loc}")
 

@@ -184,7 +184,13 @@ def build_weekly_message(
             lines.append(f"鸟叫声：成功 {sounds_success} / 失败 {sounds_failed}")
         extended = summary.get("extended_range") or []
         if extended:
-            lines.append(f"扩展 30 天才抓到：{_fmt_list(extended)}")
+            lines.append(f"近7天不足，已用近一月：{_fmt_list(extended)}")
+        historical = summary.get("historical_month") or []
+        if historical:
+            lines.append(f"近7天/近一月不足，已用过去3年同月：{_fmt_list(historical)}")
+        skipped = summary.get("skipped_low_species") or []
+        if skipped:
+            lines.append(f"仍不足未更新：{_fmt_list(skipped)}")
     elif pipeline_exit != 0:
         lines.append(f"数据刷新异常退出（exit {pipeline_exit}），未生成摘要。请查看终端日志。")
     else:

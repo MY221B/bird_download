@@ -46,6 +46,7 @@ from auto_sounds_refresh import (  # type: ignore
     download_and_upload_sounds,
     print_sounds_summary,
 )
+from species_window import fetch_with_species_fallback  # type: ignore
 BIRD_INFO_CACHE = load_all_birds_csv()
 
 
@@ -76,7 +77,7 @@ def parse_args():
         "--min-species",
         type=int,
         default=MIN_SPECIES_DEFAULT,
-        help="若去重鸟种少于该值则跳过更新（默认 10）",
+        help="种数小于等于该值视为不足：近7天不足则不写入、改查近30天；近30天仍不足则用过去3年同月并集（默认 10）",
     )
     return parser.parse_args()
 
@@ -349,12 +350,12 @@ def read_slugs_from_csv(csv_file):
     return slugs
 
 
-def copy_json_to_location(slugs, location_name, report_code, start_date, end_date):
+def copy_json_to_location(slugs, location_name, report_code, record_range):
     # 使用新的文件夹结构：城市/地点/日期
     dest_dir = get_location_birds_path(location_name, report_code)
     dest_dir.mkdir(parents=True, exist_ok=True)
     (dest_dir / "record_range.json").write_text(
-        json.dumps({"start": start_date.isoformat(), "end": end_date.isoformat()}, indent=2) + "\n",
+        json.dumps(record_range, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
     copied = 0
@@ -408,24 +409,34 @@ def main():
         location_dir.mkdir(parents=True, exist_ok=True)
         text_file = location_dir / "birds.txt"
         csv_file = location_dir / "birds.csv"
+        refresh_end = end_date
+        explicit_range = bool(args.start and args.end)
 
-        try:
-            records = fetch_species_for_location(entry, start_date, end_date, text_file)
-        except Exception as exc:
-            print(f"❌ 抓取失败: {exc}")
+        window = fetch_with_species_fallback(
+            fetch_fn=fetch_species_for_location,
+            entry=entry,
+            recent_start=start_date,
+            recent_end=end_date,
+            min_species=args.min_species,
+            text_file=text_file,
+            today=refresh_end,
+            explicit_range=explicit_range,
+        )
+        if window is None:
+            details = "近7天与近一月均不足，且历史同月无记录"
+            if explicit_range:
+                details = f"指定区间（{start_date} ~ {end_date}）无记录"
+            print(f"❌ {loc_name}: {details}，不写入前端")
             summary.append(
-                {"location": loc_name, "status": "抓取失败", "details": str(exc)}
+                {"location": loc_name, "status": "未更新", "details": details}
             )
             continue
 
-        species_count = len(records)
-        print(f"📊 {loc_name} 去重鸟种: {species_count}")
-
-        # 如果数量少于阈值，给出警告但继续处理
-        if species_count < max(1, args.min_species):
-            print(
-                f"⚠️  警告：少于 {args.min_species} 种（当前 {species_count} 种），但仍会继续处理"
-            )
+        records = window.records
+        species_count = window.species_count
+        start_date = window.start
+        end_date = window.end
+        print(f"✅ {loc_name}: {window.label} {species_count} 种（{start_date} ~ {end_date}）")
 
         slug_info = write_csv_from_records(records, csv_file)
 
@@ -470,14 +481,14 @@ def main():
         update_bird_info(csv_file)
 
         slugs = read_slugs_from_csv(csv_file)
-        report_code = end_date.strftime("%y%m%d")
+        report_code = refresh_end.strftime("%y%m%d")
         
         # 下载和上传鸟叫声
         success_sounds, failed_sounds = download_and_upload_sounds(slugs, location_dir)
         
         # 复制 JSON 到 location_birds（包含新下载的 sounds）
         dest_dir, copied, missing_copy = copy_json_to_location(
-            slugs, loc_name, report_code, start_date, end_date
+            slugs, loc_name, report_code, window.record_range_payload()
         )
 
         # 在上传完成后，重新检查本地图片和 Cloudinary JSON 状态
@@ -496,10 +507,7 @@ def main():
             if not has_images:
                 final_missing_local.append(slug)
         
-        # 确定状态：如果数量少于阈值，标记为"已更新（数量较少）"
-        status = "已更新"
-        if species_count < max(1, args.min_species):
-            status = f"已更新（{species_count}种，少于{args.min_species}种阈值）"
+        status = f"已更新（{window.label}）"
         
         summary.append(
             {

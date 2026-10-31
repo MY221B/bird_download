@@ -93,7 +93,7 @@ python3 tools/run_weekly_refresh.py --days 7 --min-species 10
 # 可用 --locations 仅跑部分地点
 ```
 
-脚本会遍历 `config/birdreport_locations.json`，自动抓取最近一周的鸟单、下载缺失图片、上传至 Cloudinary，并把最新 JSON 拷贝到 `feather-flash-quiz/location_birds/<城市>/<地点>/<日期>` 目录，供前端使用。
+脚本会遍历 `config/birdreport_locations.json`，自动抓取最近一周的鸟单、下载缺失图片、上传至 Cloudinary，并把最新 JSON 拷贝到 `feather-flash-quiz/location_birds/<城市>/<地点>/<日期>` 目录，供前端使用。近 7 天种数 ≤ 10 时不写入该窗口，改查近 30 天；近 30 天仍 ≤ 10 则用过去 3 年同月并集，前端展示为「近期可能鸟种」。
 
 ### 方式 5：美国公园近期鸟种（eBird）
 

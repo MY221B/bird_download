@@ -16,7 +16,6 @@ import re
 import shutil
 import subprocess
 import sys
-import time
 import unicodedata
 from collections import OrderedDict
 from datetime import datetime, date, timedelta
@@ -53,6 +52,11 @@ from auto_sounds_refresh import (  # type: ignore
     download_and_upload_sounds,
     print_sounds_summary,
 )
+from species_window import (  # type: ignore
+    SOURCE_HISTORICAL_MONTH,
+    SOURCE_RECENT_30D,
+    fetch_with_species_fallback,
+)
 BIRD_INFO_CACHE = load_all_birds_csv()
 
 
@@ -83,7 +87,7 @@ def parse_args():
         "--min-species",
         type=int,
         default=MIN_SPECIES_DEFAULT,
-        help="若去重鸟种少于该值则跳过更新（默认 10）",
+        help="种数小于等于该值视为不足：近7天不足则不写入、改查近30天；近30天仍不足则用过去3年同月并集（默认 10）",
     )
     return parser.parse_args()
 
@@ -315,11 +319,11 @@ def read_slugs_from_csv(csv_file):
     return slugs
 
 
-def copy_json_to_location(slugs, location_name, report_code, start_date, end_date):
+def copy_json_to_location(slugs, location_name, report_code, record_range):
     dest_dir = get_location_birds_path(location_name, report_code)
     dest_dir.mkdir(parents=True, exist_ok=True)
     (dest_dir / "record_range.json").write_text(
-        json.dumps({"start": start_date.isoformat(), "end": end_date.isoformat()}, indent=2) + "\n",
+        json.dumps(record_range, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
     copied = 0
@@ -354,6 +358,8 @@ def write_latest_summary(
     all_missing_local_set,
     all_missing_json_set,
     extended_range_locs,
+    historical_month_locs,
+    skipped_low_species,
 ):
     """写出稳定路径的摘要，供更新脚本结束后 WxPusher 推送。"""
     downloaded_count = len(all_downloads) - len(all_missing_local_set)
@@ -381,6 +387,8 @@ def write_latest_summary(
         "sounds_success": sum(item.get("sounds_success", 0) for item in successful),
         "sounds_failed": sum(item.get("sounds_failed", 0) for item in successful),
         "extended_range": list(extended_range_locs),
+        "historical_month": list(historical_month_locs),
+        "skipped_low_species": list(skipped_low_species),
     }
     TMP_BASE.mkdir(parents=True, exist_ok=True)
     path = TMP_BASE / "latest_summary.json"
@@ -403,7 +411,9 @@ def main():
     all_missing_cloud = set()
     all_missing_info = {}   # slug -> {chinese_name, english_name, scientific_name, wikipedia_page}
     location_data_list = []  # 成功抓取的地点数据
-    extended_range_locs = []  # 使用30天扩展范围才成功抓取的地点
+    extended_range_locs = []  # 近7天不足、改用近一月的地点
+    historical_month_locs = []  # 近7天和近一月都不足、改用过去3年同月的地点
+    skipped_low_species = []  # 三个窗口都不够、未写入前端的地点
 
     for entry in locations:
         loc_id = entry.get("id") or entry.get("name")
@@ -422,51 +432,38 @@ def main():
         location_dir.mkdir(parents=True, exist_ok=True)
         text_file = location_dir / "birds.txt"
         csv_file = location_dir / "birds.csv"
+        refresh_end = end_date
+        explicit_range = bool(args.start and args.end)
 
-        # 抓取（带重试，失败后自动扩展到30天再试）
-        records = None
-        last_exc = None
-        for attempt in range(1, MAX_FETCH_RETRIES + 2):
-            try:
-                records = fetch_species_for_location(entry, start_date, end_date, text_file)
-                break
-            except Exception as exc:
-                last_exc = exc
-                if attempt < 3:
-                    print(f"🔁 抓取失败，第 {attempt}/3 次尝试，将重试: {exc}")
-                    time.sleep(4)
-                else:
-                    print(f"⚠️  常规时间范围（{start_date} ~ {end_date}）3次均失败，尝试扩展至30天...")
-
-        if records is None:
-            # 用30天范围重试
-            ext_end = date.today()
-            ext_start = ext_end - timedelta(days=29)
-            for attempt in range(1, MAX_FETCH_RETRIES + 2):
-                try:
-                    records = fetch_species_for_location(entry, ext_start, ext_end, text_file)
-                    print(f"✅ 30天扩展范围（{ext_start} ~ {ext_end}）抓取成功: {len(records)} 种")
-                    start_date = ext_start
-                    end_date = ext_end
-                    extended_range_locs.append(loc_name)
-                    break
-                except Exception as exc:
-                    last_exc = exc
-                    if attempt < 3:
-                        print(f"🔁 30天范围失败，第 {attempt}/3 次尝试，将重试: {exc}")
-                        time.sleep(4)
-                    else:
-                        print(f"❌ 30天范围也失败（已重试 2 次）: {exc}")
-                        summary.append({"location": loc_name, "status": "抓取失败", "details": str(last_exc)})
-
-        if records is None:
+        window = fetch_with_species_fallback(
+            fetch_fn=fetch_species_for_location,
+            entry=entry,
+            recent_start=start_date,
+            recent_end=end_date,
+            min_species=args.min_species,
+            text_file=text_file,
+            today=refresh_end,
+            retries=MAX_FETCH_RETRIES,
+            explicit_range=explicit_range,
+        )
+        if window is None:
+            details = "近7天与近一月均不足，且历史同月无记录"
+            if explicit_range:
+                details = f"指定区间（{start_date} ~ {end_date}）无记录"
+            print(f"❌ {loc_name}: {details}，不写入前端")
+            skipped_low_species.append(loc_name)
+            summary.append({"location": loc_name, "status": "未更新", "details": details})
             continue
 
-        species_count = len(records)
-        print(f"📊 {loc_name} 去重鸟种: {species_count}")
-
-        if species_count < max(1, args.min_species):
-            print(f"⚠️  警告：少于 {args.min_species} 种（当前 {species_count} 种），但仍会继续处理")
+        records = window.records
+        species_count = window.species_count
+        start_date = window.start
+        end_date = window.end
+        if window.source == SOURCE_RECENT_30D:
+            extended_range_locs.append(loc_name)
+        elif window.source == SOURCE_HISTORICAL_MONTH:
+            historical_month_locs.append(loc_name)
+        print(f"✅ {loc_name}: {window.label} {species_count} 种（{start_date} ~ {end_date}）")
 
         slug_info = write_csv_from_records(records, csv_file)
         merge_with_all_birds_csv(csv_file)
@@ -482,14 +479,14 @@ def main():
                 info = BIRD_INFO_CACHE.get(slug) or slug_info.get(slug) or {}
                 all_missing_info[slug] = info
 
-        report_code = end_date.strftime("%y%m%d")
-
         location_data_list.append({
             "entry": entry,
             "loc_id": loc_id,
             "loc_name": loc_name,
             "start_date": start_date,
             "end_date": end_date,
+            "record_range": window.record_range_payload(),
+            "window_label": window.label,
             "location_dir": location_dir,
             "csv_file": csv_file,
             "slug_info": slug_info,
@@ -497,7 +494,7 @@ def main():
             "missing_local": list(missing_local),
             "missing_cloud": list(missing_cloud),
             "downloads_for_log": sorted(set(missing_local)),
-            "report_code": report_code,
+            "report_code": refresh_end.strftime("%y%m%d"),
         })
 
     # ========== 阶段2: 统一下载和上传 ==========
@@ -593,7 +590,7 @@ def main():
         slugs = read_slugs_from_csv(csv_file)
         success_sounds, failed_sounds = download_and_upload_sounds(slugs, location_dir)
         dest_dir, copied, missing_copy = copy_json_to_location(
-            slugs, loc_name, report_code, loc_data["start_date"], loc_data["end_date"]
+            slugs, loc_name, report_code, loc_data["record_range"]
         )
 
         # 计算 final_missing_local
@@ -603,9 +600,8 @@ def main():
             if not bird_dir_has_acceptable_local_images(bird_path):
                 final_missing_local.append(slug)
 
-        status = "已更新"
-        if species_count < max(1, args.min_species):
-            status = f"已更新（{species_count}种，少于{args.min_species}种阈值）"
+        window_label = loc_data.get("window_label") or "已更新"
+        status = f"已更新（{window_label}）"
 
         summary.append({
             "location": loc_name,
@@ -797,8 +793,16 @@ def main():
                 print(f"  · 鸟叫声下载失败: {total_sounds_failed} 种")
 
     if extended_range_locs:
-        print(f"\n⚠️  以下 {len(extended_range_locs)} 个地点使用30天扩展范围才抓取到数据（可能近期观测较少）：")
+        print(f"\n⚠️  以下 {len(extended_range_locs)} 个地点近7天不足，已改用近一月：")
         for _loc in extended_range_locs:
+            print(f"  - {_loc}")
+    if historical_month_locs:
+        print(f"\n📅 以下 {len(historical_month_locs)} 个地点近7天和近一月都不足，已用过去3年同月并集（近期可能鸟种）：")
+        for _loc in historical_month_locs:
+            print(f"  - {_loc}")
+    if skipped_low_species:
+        print(f"\n⏭️  以下 {len(skipped_low_species)} 个地点三个窗口都不足，未写入前端：")
+        for _loc in skipped_low_species:
             print(f"  - {_loc}")
 
     print("\n🧾 手动步骤提醒：")
@@ -828,6 +832,8 @@ def main():
         all_missing_local_set=all_missing_local_set,
         all_missing_json_set=all_missing_json_set,
         extended_range_locs=extended_range_locs,
+        historical_month_locs=historical_month_locs,
+        skipped_low_species=skipped_low_species,
     )
 
     return 0 if successful else 1

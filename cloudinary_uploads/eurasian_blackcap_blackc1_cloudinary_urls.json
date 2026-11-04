@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eurasian_blackcap_blackc1",
+    "chinese_name": "黑顶林莺",
+    "english_name": "Eurasian Blackcap",
+    "scientific_name": "Sylvia atricapilla"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_blackcap_blackc1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809146/bird-gallery/eurasian_blackcap_blackc1/inaturalist/eurasian_blackcap_blackc1_1.jpg",
+      "public_id": "bird-gallery/eurasian_blackcap_blackc1/inaturalist/eurasian_blackcap_blackc1_1",
+      "width": 339,
+      "height": 208,
+      "format": "jpg",
+      "bytes": 6915,
+      "attribution": {
+        "photographer": "nickleggatt",
+        "photographer_url": "https://www.inaturalist.org/observations/47975010",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nickleggatt (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 47975010,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_blackcap_blackc1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809146/bird-gallery/eurasian_blackcap_blackc1/inaturalist/eurasian_blackcap_blackc1_2.jpg",
+      "public_id": "bird-gallery/eurasian_blackcap_blackc1/inaturalist/eurasian_blackcap_blackc1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 83424,
+      "attribution": {
+        "photographer": "aegithalos",
+        "photographer_url": "https://www.inaturalist.org/observations/111147657",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© aegithalos (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 111147657,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_blackcap_blackc1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809147/bird-gallery/eurasian_blackcap_blackc1/inaturalist/eurasian_blackcap_blackc1_3.jpg",
+      "public_id": "bird-gallery/eurasian_blackcap_blackc1/inaturalist/eurasian_blackcap_blackc1_3",
+      "width": 846,
+      "height": 846,
+      "format": "jpg",
+      "bytes": 106210,
+      "attribution": {
+        "photographer": "ambady_sasi",
+        "photographer_url": "https://www.inaturalist.org/observations/100917706",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ambady_sasi (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 100917706,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

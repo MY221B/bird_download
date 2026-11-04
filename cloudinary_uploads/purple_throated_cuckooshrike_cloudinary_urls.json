@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "purple_throated_cuckooshrike",
+    "chinese_name": "紫喉鹃鵙",
+    "english_name": "Purple-throated Cuckooshrike",
+    "scientific_name": "Campephaga quiscalina"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "purple_throated_cuckooshrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809875/bird-gallery/purple_throated_cuckooshrike/inaturalist/purple_throated_cuckooshrike_1.jpg",
+      "public_id": "bird-gallery/purple_throated_cuckooshrike/inaturalist/purple_throated_cuckooshrike_1",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 106509,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "purple_throated_cuckooshrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809876/bird-gallery/purple_throated_cuckooshrike/inaturalist/purple_throated_cuckooshrike_2.jpg",
+      "public_id": "bird-gallery/purple_throated_cuckooshrike/inaturalist/purple_throated_cuckooshrike_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96505,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "purple_throated_cuckooshrike_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809876/bird-gallery/purple_throated_cuckooshrike/inaturalist/purple_throated_cuckooshrike_3.jpg",
+      "public_id": "bird-gallery/purple_throated_cuckooshrike/inaturalist/purple_throated_cuckooshrike_3",
+      "width": 626,
+      "height": 558,
+      "format": "jpg",
+      "bytes": 25643,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

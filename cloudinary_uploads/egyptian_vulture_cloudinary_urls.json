@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "egyptian_vulture",
+    "chinese_name": "白兀鹫",
+    "english_name": "Egyptian Vulture",
+    "scientific_name": "Neophron percnopterus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "egyptian_vulture_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809804/bird-gallery/egyptian_vulture/inaturalist/egyptian_vulture_1.jpg",
+      "public_id": "bird-gallery/egyptian_vulture/inaturalist/egyptian_vulture_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 47891,
+      "attribution": {
+        "photographer": "wleurs",
+        "photographer_url": "https://www.inaturalist.org/observations/122438100",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wleurs (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 122438100,
+        "note": null
+      }
+    },
+    {
+      "original_file": "egyptian_vulture_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809805/bird-gallery/egyptian_vulture/inaturalist/egyptian_vulture_2.jpg",
+      "public_id": "bird-gallery/egyptian_vulture/inaturalist/egyptian_vulture_2",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 25431,
+      "attribution": {
+        "photographer": "svstrizh",
+        "photographer_url": "https://www.inaturalist.org/observations/282927094",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© svstrizh (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 282927094,
+        "note": null
+      }
+    },
+    {
+      "original_file": "egyptian_vulture_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809805/bird-gallery/egyptian_vulture/inaturalist/egyptian_vulture_3.jpg",
+      "public_id": "bird-gallery/egyptian_vulture/inaturalist/egyptian_vulture_3",
+      "width": 826,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 58521,
+      "attribution": {
+        "photographer": "jsterling60",
+        "photographer_url": "https://www.inaturalist.org/observations/258387964",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jsterling60 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 258387964,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

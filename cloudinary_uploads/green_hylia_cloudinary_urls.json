@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "green_hylia",
+    "chinese_name": "绿莺",
+    "english_name": "Green Hylia",
+    "scientific_name": "Hylia prasina"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "green_hylia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809850/bird-gallery/green_hylia/inaturalist/green_hylia_1.jpg",
+      "public_id": "bird-gallery/green_hylia/inaturalist/green_hylia_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 53814,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/97786632",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 97786632,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_hylia_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809851/bird-gallery/green_hylia/inaturalist/green_hylia_2.jpg",
+      "public_id": "bird-gallery/green_hylia/inaturalist/green_hylia_2",
+      "width": 1024,
+      "height": 888,
+      "format": "jpg",
+      "bytes": 118648,
+      "attribution": {
+        "photographer": "photokeen",
+        "photographer_url": "https://www.inaturalist.org/observations/321076374",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© photokeen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 321076374,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_hylia_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809852/bird-gallery/green_hylia/inaturalist/green_hylia_3.jpg",
+      "public_id": "bird-gallery/green_hylia/inaturalist/green_hylia_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 43156,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/34295573",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34295573,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

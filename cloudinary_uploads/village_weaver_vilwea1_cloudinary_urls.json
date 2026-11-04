@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "village_weaver_vilwea1",
+    "chinese_name": "黑头织雀",
+    "english_name": "Village Weaver",
+    "scientific_name": "Ploceus cucullatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "village_weaver_vilwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809427/bird-gallery/village_weaver_vilwea1/inaturalist/village_weaver_vilwea1_1.jpg",
+      "public_id": "bird-gallery/village_weaver_vilwea1/inaturalist/village_weaver_vilwea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 54215,
+      "attribution": {
+        "photographer": "gediminas",
+        "photographer_url": "https://www.inaturalist.org/observations/6666019",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gediminas (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 6666019,
+        "note": null
+      }
+    },
+    {
+      "original_file": "village_weaver_vilwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809428/bird-gallery/village_weaver_vilwea1/inaturalist/village_weaver_vilwea1_2.jpg",
+      "public_id": "bird-gallery/village_weaver_vilwea1/inaturalist/village_weaver_vilwea1_2",
+      "width": 564,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 74029,
+      "attribution": {
+        "photographer": "paulcools",
+        "photographer_url": "https://www.inaturalist.org/observations/1501970",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paulcools (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1501970,
+        "note": null
+      }
+    },
+    {
+      "original_file": "village_weaver_vilwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809429/bird-gallery/village_weaver_vilwea1/inaturalist/village_weaver_vilwea1_3.jpg",
+      "public_id": "bird-gallery/village_weaver_vilwea1/inaturalist/village_weaver_vilwea1_3",
+      "width": 1024,
+      "height": 791,
+      "format": "jpg",
+      "bytes": 44391,
+      "attribution": {
+        "photographer": "maritzasouthafrica",
+        "photographer_url": "https://www.inaturalist.org/observations/9679960",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maritzasouthafrica (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9679960,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

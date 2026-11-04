@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "chestnut_sparrow_chespa1",
+    "chinese_name": "栗麻雀",
+    "english_name": "Chestnut Sparrow",
+    "scientific_name": "Passer eminibey"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_sparrow_chespa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809165/bird-gallery/chestnut_sparrow_chespa1/inaturalist/chestnut_sparrow_chespa1_1.jpg",
+      "public_id": "bird-gallery/chestnut_sparrow_chespa1/inaturalist/chestnut_sparrow_chespa1_1",
+      "width": 1024,
+      "height": 757,
+      "format": "jpg",
+      "bytes": 134631,
+      "attribution": {
+        "photographer": "fydnar",
+        "photographer_url": "https://www.inaturalist.org/observations/33284176",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fydnar (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 33284176,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_sparrow_chespa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809166/bird-gallery/chestnut_sparrow_chespa1/inaturalist/chestnut_sparrow_chespa1_2.jpg",
+      "public_id": "bird-gallery/chestnut_sparrow_chespa1/inaturalist/chestnut_sparrow_chespa1_2",
+      "width": 1024,
+      "height": 711,
+      "format": "jpg",
+      "bytes": 101874,
+      "attribution": {
+        "photographer": "malacochersus",
+        "photographer_url": "https://www.inaturalist.org/observations/380305430",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© malacochersus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 380305430,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_sparrow_chespa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809168/bird-gallery/chestnut_sparrow_chespa1/inaturalist/chestnut_sparrow_chespa1_3.jpg",
+      "public_id": "bird-gallery/chestnut_sparrow_chespa1/inaturalist/chestnut_sparrow_chespa1_3",
+      "width": 1024,
+      "height": 703,
+      "format": "jpg",
+      "bytes": 146600,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192521635",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192521635,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

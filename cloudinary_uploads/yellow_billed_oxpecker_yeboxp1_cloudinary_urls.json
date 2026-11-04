@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_billed_oxpecker_yeboxp1",
+    "chinese_name": "黄嘴牛椋鸟",
+    "english_name": "Yellow-billed Oxpecker",
+    "scientific_name": "Buphagus africanus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "yellow_billed_oxpecker_yeboxp1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809465/bird-gallery/yellow_billed_oxpecker_yeboxp1/inaturalist/yellow_billed_oxpecker_yeboxp1_1.jpg",
+      "public_id": "bird-gallery/yellow_billed_oxpecker_yeboxp1/inaturalist/yellow_billed_oxpecker_yeboxp1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63737,
+      "attribution": {
+        "photographer": "andygpos",
+        "photographer_url": "https://www.inaturalist.org/observations/262926910",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© andygpos (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 262926910,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_oxpecker_yeboxp1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809466/bird-gallery/yellow_billed_oxpecker_yeboxp1/inaturalist/yellow_billed_oxpecker_yeboxp1_2.jpg",
+      "public_id": "bird-gallery/yellow_billed_oxpecker_yeboxp1/inaturalist/yellow_billed_oxpecker_yeboxp1_2",
+      "width": 1024,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 47409,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/355263816",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 355263816,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_oxpecker_yeboxp1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809467/bird-gallery/yellow_billed_oxpecker_yeboxp1/inaturalist/yellow_billed_oxpecker_yeboxp1_3.jpg",
+      "public_id": "bird-gallery/yellow_billed_oxpecker_yeboxp1/inaturalist/yellow_billed_oxpecker_yeboxp1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 154290,
+      "attribution": {
+        "photographer": "kdbishop69",
+        "photographer_url": "https://www.inaturalist.org/observations/186372517",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kdbishop69 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 186372517,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

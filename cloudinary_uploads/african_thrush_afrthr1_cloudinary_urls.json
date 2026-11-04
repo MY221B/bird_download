@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_thrush_afrthr1",
+    "chinese_name": "非洲鸫",
+    "english_name": "African Thrush",
+    "scientific_name": "Turdus pelios"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_thrush_afrthr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809561/bird-gallery/african_thrush_afrthr1/inaturalist/african_thrush_afrthr1_1.jpg",
+      "public_id": "bird-gallery/african_thrush_afrthr1/inaturalist/african_thrush_afrthr1_1",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 116834,
+      "attribution": {
+        "photographer": "nadyky",
+        "photographer_url": "https://www.inaturalist.org/observations/23601917",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nadyky (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 23601917,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_thrush_afrthr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809562/bird-gallery/african_thrush_afrthr1/inaturalist/african_thrush_afrthr1_2.jpg",
+      "public_id": "bird-gallery/african_thrush_afrthr1/inaturalist/african_thrush_afrthr1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50535,
+      "attribution": {
+        "photographer": "michael_mulligan",
+        "photographer_url": "https://www.inaturalist.org/observations/37986846",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© michael_mulligan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 37986846,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_thrush_afrthr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809563/bird-gallery/african_thrush_afrthr1/inaturalist/african_thrush_afrthr1_3.jpg",
+      "public_id": "bird-gallery/african_thrush_afrthr1/inaturalist/african_thrush_afrthr1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 121876,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/18881609",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18881609,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

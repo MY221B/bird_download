@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_billed_shrike",
+    "chinese_name": "黄嘴鹊鵙",
+    "english_name": "Yellow-billed Shrike",
+    "scientific_name": "Corvinella corvina"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "yellow_billed_shrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809921/bird-gallery/yellow_billed_shrike/inaturalist/yellow_billed_shrike_1.jpg",
+      "public_id": "bird-gallery/yellow_billed_shrike/inaturalist/yellow_billed_shrike_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 81876,
+      "attribution": {
+        "photographer": "andygpos",
+        "photographer_url": "https://www.inaturalist.org/observations/262926916",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© andygpos (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 262926916,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_shrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809922/bird-gallery/yellow_billed_shrike/inaturalist/yellow_billed_shrike_2.jpg",
+      "public_id": "bird-gallery/yellow_billed_shrike/inaturalist/yellow_billed_shrike_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 75428,
+      "attribution": {
+        "photographer": "mcgowenm",
+        "photographer_url": "https://www.inaturalist.org/observations/284338187",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mcgowenm (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 284338187,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_shrike_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809923/bird-gallery/yellow_billed_shrike/inaturalist/yellow_billed_shrike_3.jpg",
+      "public_id": "bird-gallery/yellow_billed_shrike/inaturalist/yellow_billed_shrike_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 99224,
+      "attribution": {
+        "photographer": "jmgc",
+        "photographer_url": "https://www.inaturalist.org/observations/99997034",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jmgc (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 99997034,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

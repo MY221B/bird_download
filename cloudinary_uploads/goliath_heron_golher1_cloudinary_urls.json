@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "goliath_heron_golher1",
+    "chinese_name": "巨鹭",
+    "english_name": "Goliath Heron",
+    "scientific_name": "Ardea goliath"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "goliath_heron_golher1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809237/bird-gallery/goliath_heron_golher1/inaturalist/goliath_heron_golher1_1.jpg",
+      "public_id": "bird-gallery/goliath_heron_golher1/inaturalist/goliath_heron_golher1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 137308,
+      "attribution": {
+        "photographer": "liesbeth",
+        "photographer_url": "https://www.inaturalist.org/observations/137941840",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© liesbeth (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 137941840,
+        "note": null
+      }
+    },
+    {
+      "original_file": "goliath_heron_golher1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809238/bird-gallery/goliath_heron_golher1/inaturalist/goliath_heron_golher1_2.jpg",
+      "public_id": "bird-gallery/goliath_heron_golher1/inaturalist/goliath_heron_golher1_2",
+      "width": 865,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 88996,
+      "attribution": {
+        "photographer": "parham_beyhaghi",
+        "photographer_url": "https://www.inaturalist.org/observations/34622300",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© parham_beyhaghi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34622300,
+        "note": null
+      }
+    },
+    {
+      "original_file": "goliath_heron_golher1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809239/bird-gallery/goliath_heron_golher1/inaturalist/goliath_heron_golher1_3.jpg",
+      "public_id": "bird-gallery/goliath_heron_golher1/inaturalist/goliath_heron_golher1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 166586,
+      "attribution": {
+        "photographer": "jeanlouiscarlo",
+        "photographer_url": "https://www.inaturalist.org/observations/149844917",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanlouiscarlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 149844917,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

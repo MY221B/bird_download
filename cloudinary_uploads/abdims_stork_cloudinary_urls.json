@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "abdims_stork",
+    "chinese_name": "白腹鹳",
+    "english_name": "Abdim's Stork",
+    "scientific_name": "Ciconia abdimii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "abdims_stork_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809102/bird-gallery/abdims_stork/inaturalist/abdims_stork_1.jpg",
+      "public_id": "bird-gallery/abdims_stork/inaturalist/abdims_stork_1",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 59668,
+      "attribution": {
+        "photographer": "natalieraeber",
+        "photographer_url": "https://www.inaturalist.org/observations/5041853",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© natalieraeber (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 5041853,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abdims_stork_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809103/bird-gallery/abdims_stork/inaturalist/abdims_stork_2.jpg",
+      "public_id": "bird-gallery/abdims_stork/inaturalist/abdims_stork_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69848,
+      "attribution": {
+        "photographer": "titouan_roguet",
+        "photographer_url": "https://www.inaturalist.org/observations/321734623",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© titouan_roguet (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 321734623,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abdims_stork_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809104/bird-gallery/abdims_stork/inaturalist/abdims_stork_3.jpg",
+      "public_id": "bird-gallery/abdims_stork/inaturalist/abdims_stork_3",
+      "width": 1024,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 119122,
+      "attribution": {
+        "photographer": "akdhampton",
+        "photographer_url": "https://www.inaturalist.org/observations/64893593",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© akdhampton (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 64893593,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "tawny_flanked_prinia_tafpri1",
+    "chinese_name": "褐头鹪莺",
+    "english_name": "Tawny-flanked Prinia",
+    "scientific_name": "Prinia subflava"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "tawny_flanked_prinia_tafpri1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809415/bird-gallery/tawny_flanked_prinia_tafpri1/inaturalist/tawny_flanked_prinia_tafpri1_1.jpg",
+      "public_id": "bird-gallery/tawny_flanked_prinia_tafpri1/inaturalist/tawny_flanked_prinia_tafpri1_1",
+      "width": 1024,
+      "height": 772,
+      "format": "jpg",
+      "bytes": 106985,
+      "attribution": {
+        "photographer": "suncana",
+        "photographer_url": "https://www.inaturalist.org/observations/205269177",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© suncana (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 205269177,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tawny_flanked_prinia_tafpri1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809416/bird-gallery/tawny_flanked_prinia_tafpri1/inaturalist/tawny_flanked_prinia_tafpri1_2.jpg",
+      "public_id": "bird-gallery/tawny_flanked_prinia_tafpri1/inaturalist/tawny_flanked_prinia_tafpri1_2",
+      "width": 600,
+      "height": 450,
+      "format": "jpg",
+      "bytes": 21330,
+      "attribution": {
+        "photographer": "grant_reed_botswana",
+        "photographer_url": "https://www.inaturalist.org/observations/69402543",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© grant_reed_botswana (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69402543,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tawny_flanked_prinia_tafpri1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809417/bird-gallery/tawny_flanked_prinia_tafpri1/inaturalist/tawny_flanked_prinia_tafpri1_3.jpg",
+      "public_id": "bird-gallery/tawny_flanked_prinia_tafpri1/inaturalist/tawny_flanked_prinia_tafpri1_3",
+      "width": 823,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 66135,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18677225",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18677225,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

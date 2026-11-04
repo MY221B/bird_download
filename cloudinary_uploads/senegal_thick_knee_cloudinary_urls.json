@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "senegal_thick_knee",
+    "chinese_name": "小石鸻",
+    "english_name": "Senegal Thick-knee",
+    "scientific_name": "Burhinus senegalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "senegal_thick_knee_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809684/bird-gallery/senegal_thick_knee/inaturalist/senegal_thick_knee_1.jpg",
+      "public_id": "bird-gallery/senegal_thick_knee/inaturalist/senegal_thick_knee_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 88229,
+      "attribution": {
+        "photographer": "matthieu_gauvain",
+        "photographer_url": "https://www.inaturalist.org/observations/109629944",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© matthieu_gauvain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 109629944,
+        "note": null
+      }
+    },
+    {
+      "original_file": "senegal_thick_knee_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809685/bird-gallery/senegal_thick_knee/inaturalist/senegal_thick_knee_2.jpg",
+      "public_id": "bird-gallery/senegal_thick_knee/inaturalist/senegal_thick_knee_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 103181,
+      "attribution": {
+        "photographer": "attila21",
+        "photographer_url": "https://www.inaturalist.org/observations/68956368",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© attila21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 68956368,
+        "note": null
+      }
+    },
+    {
+      "original_file": "senegal_thick_knee_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809685/bird-gallery/senegal_thick_knee/inaturalist/senegal_thick_knee_3.jpg",
+      "public_id": "bird-gallery/senegal_thick_knee/inaturalist/senegal_thick_knee_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57289,
+      "attribution": {
+        "photographer": "awaheed",
+        "photographer_url": "https://www.inaturalist.org/observations/2778618",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© awaheed (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 2778618,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

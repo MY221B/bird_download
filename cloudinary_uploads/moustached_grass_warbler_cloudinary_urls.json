@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "moustached_grass_warbler",
+    "chinese_name": "须薮莺",
+    "english_name": "Moustached Grass-Warbler",
+    "scientific_name": "Melocichla mentalis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "moustached_grass_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809316/bird-gallery/moustached_grass_warbler/inaturalist/moustached_grass_warbler_1.jpg",
+      "public_id": "bird-gallery/moustached_grass_warbler/inaturalist/moustached_grass_warbler_1",
+      "width": 1024,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 49428,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/256882337",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 256882337,
+        "note": null
+      }
+    },
+    {
+      "original_file": "moustached_grass_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809317/bird-gallery/moustached_grass_warbler/inaturalist/moustached_grass_warbler_2.jpg",
+      "public_id": "bird-gallery/moustached_grass_warbler/inaturalist/moustached_grass_warbler_2",
+      "width": 1024,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 86884,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/269611527",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 269611527,
+        "note": null
+      }
+    },
+    {
+      "original_file": "moustached_grass_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809318/bird-gallery/moustached_grass_warbler/inaturalist/moustached_grass_warbler_3.jpg",
+      "public_id": "bird-gallery/moustached_grass_warbler/inaturalist/moustached_grass_warbler_3",
+      "width": 1024,
+      "height": 705,
+      "format": "jpg",
+      "bytes": 75233,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/191815250",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191815250,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

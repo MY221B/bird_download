@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "montagus_harrier_monhar1",
+    "chinese_name": "乌灰鹞",
+    "english_name": "Montagu's Harrier",
+    "scientific_name": "Circus pygargus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "montagus_harrier_monhar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809319/bird-gallery/montagus_harrier_monhar1/inaturalist/montagus_harrier_monhar1_1.jpg",
+      "public_id": "bird-gallery/montagus_harrier_monhar1/inaturalist/montagus_harrier_monhar1_1",
+      "width": 777,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 81109,
+      "attribution": {
+        "photographer": "vyatka",
+        "photographer_url": "https://www.inaturalist.org/observations/165475457",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vyatka (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 165475457,
+        "note": null
+      }
+    },
+    {
+      "original_file": "montagus_harrier_monhar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809320/bird-gallery/montagus_harrier_monhar1/inaturalist/montagus_harrier_monhar1_2.jpg",
+      "public_id": "bird-gallery/montagus_harrier_monhar1/inaturalist/montagus_harrier_monhar1_2",
+      "width": 1024,
+      "height": 717,
+      "format": "jpg",
+      "bytes": 67833,
+      "attribution": {
+        "photographer": "robertopegolo",
+        "photographer_url": "https://www.inaturalist.org/observations/137970995",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robertopegolo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 137970995,
+        "note": null
+      }
+    },
+    {
+      "original_file": "montagus_harrier_monhar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809321/bird-gallery/montagus_harrier_monhar1/inaturalist/montagus_harrier_monhar1_3.jpg",
+      "public_id": "bird-gallery/montagus_harrier_monhar1/inaturalist/montagus_harrier_monhar1_3",
+      "width": 1000,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 68842,
+      "attribution": {
+        "photographer": "photokeen",
+        "photographer_url": "https://www.inaturalist.org/observations/143961919",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© photokeen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 143961919,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

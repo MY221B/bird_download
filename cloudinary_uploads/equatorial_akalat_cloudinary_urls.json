@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "equatorial_akalat",
+    "chinese_name": "杰氏阿卡拉鸲",
+    "english_name": "Equatorial Akalat",
+    "scientific_name": "Sheppardia aequatorialis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "equatorial_akalat_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809845/bird-gallery/equatorial_akalat/inaturalist/equatorial_akalat_1.jpg",
+      "public_id": "bird-gallery/equatorial_akalat/inaturalist/equatorial_akalat_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 48888,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/44477950",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 44477950,
+        "note": null
+      }
+    },
+    {
+      "original_file": "equatorial_akalat_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809846/bird-gallery/equatorial_akalat/inaturalist/equatorial_akalat_2.jpg",
+      "public_id": "bird-gallery/equatorial_akalat/inaturalist/equatorial_akalat_2",
+      "width": 1022,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 97647,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/19081777",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 19081777,
+        "note": null
+      }
+    },
+    {
+      "original_file": "equatorial_akalat_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809847/bird-gallery/equatorial_akalat/inaturalist/equatorial_akalat_3.jpg",
+      "public_id": "bird-gallery/equatorial_akalat/inaturalist/equatorial_akalat_3",
+      "width": 1024,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 66970,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/38569526",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 38569526,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

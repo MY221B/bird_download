@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lesser_kestrel_leskes1",
+    "chinese_name": "黄爪隼",
+    "english_name": "Lesser Kestrel",
+    "scientific_name": "Falco naumanni"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lesser_kestrel_leskes1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809615/bird-gallery/lesser_kestrel_leskes1/inaturalist/lesser_kestrel_leskes1_1.jpg",
+      "public_id": "bird-gallery/lesser_kestrel_leskes1/inaturalist/lesser_kestrel_leskes1_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 65476,
+      "attribution": {
+        "photographer": "egorbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/121567264",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© egorbirder (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 121567264,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_kestrel_leskes1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809616/bird-gallery/lesser_kestrel_leskes1/inaturalist/lesser_kestrel_leskes1_2.jpg",
+      "public_id": "bird-gallery/lesser_kestrel_leskes1/inaturalist/lesser_kestrel_leskes1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 45359,
+      "attribution": {
+        "photographer": "udayakumar_mdu",
+        "photographer_url": "https://www.inaturalist.org/observations/71805635",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© udayakumar_mdu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 71805635,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_kestrel_leskes1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809617/bird-gallery/lesser_kestrel_leskes1/inaturalist/lesser_kestrel_leskes1_3.jpg",
+      "public_id": "bird-gallery/lesser_kestrel_leskes1/inaturalist/lesser_kestrel_leskes1_3",
+      "width": 461,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 34734,
+      "attribution": {
+        "photographer": "koldun",
+        "photographer_url": "https://www.inaturalist.org/observations/232771163",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© koldun (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 232771163,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "golden_pipit_golpip1",
+    "chinese_name": "金鹨属",
+    "english_name": "Golden Pipit",
+    "scientific_name": "Tmetothylacus tenellus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "golden_pipit_golpip1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809770/bird-gallery/golden_pipit_golpip1/inaturalist/golden_pipit_golpip1_1.jpg",
+      "public_id": "bird-gallery/golden_pipit_golpip1/inaturalist/golden_pipit_golpip1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 130679,
+      "attribution": {
+        "photographer": "ramonamom",
+        "photographer_url": "https://www.inaturalist.org/observations/80015722",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ramonamom (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 80015722,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_pipit_golpip1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809771/bird-gallery/golden_pipit_golpip1/inaturalist/golden_pipit_golpip1_2.jpg",
+      "public_id": "bird-gallery/golden_pipit_golpip1/inaturalist/golden_pipit_golpip1_2",
+      "width": 1024,
+      "height": 992,
+      "format": "jpg",
+      "bytes": 82337,
+      "attribution": {
+        "photographer": "cutts65",
+        "photographer_url": "https://www.inaturalist.org/observations/253968596",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cutts65 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 253968596,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_pipit_golpip1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809772/bird-gallery/golden_pipit_golpip1/inaturalist/golden_pipit_golpip1_3.jpg",
+      "public_id": "bird-gallery/golden_pipit_golpip1/inaturalist/golden_pipit_golpip1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 92222,
+      "attribution": {
+        "photographer": "jeanlouiscarlo",
+        "photographer_url": "https://www.inaturalist.org/observations/393859897",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanlouiscarlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 393859897,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

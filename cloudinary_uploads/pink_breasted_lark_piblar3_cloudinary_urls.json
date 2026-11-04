@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pink_breasted_lark_piblar3",
+    "chinese_name": "粉胸歌百灵",
+    "english_name": "Pink-breasted Lark",
+    "scientific_name": "Calendulauda poecilosterna"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "pink_breasted_lark_piblar3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809750/bird-gallery/pink_breasted_lark_piblar3/inaturalist/pink_breasted_lark_piblar3_1.jpg",
+      "public_id": "bird-gallery/pink_breasted_lark_piblar3/inaturalist/pink_breasted_lark_piblar3_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 60698,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/173964965",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 173964965,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pink_breasted_lark_piblar3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809751/bird-gallery/pink_breasted_lark_piblar3/inaturalist/pink_breasted_lark_piblar3_2.jpg",
+      "public_id": "bird-gallery/pink_breasted_lark_piblar3/inaturalist/pink_breasted_lark_piblar3_2",
+      "width": 900,
+      "height": 603,
+      "format": "jpg",
+      "bytes": 44453,
+      "attribution": {
+        "photographer": "daveh68",
+        "photographer_url": "https://www.inaturalist.org/observations/349324019",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© daveh68 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 349324019,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pink_breasted_lark_piblar3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809751/bird-gallery/pink_breasted_lark_piblar3/inaturalist/pink_breasted_lark_piblar3_3.jpg",
+      "public_id": "bird-gallery/pink_breasted_lark_piblar3/inaturalist/pink_breasted_lark_piblar3_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67782,
+      "attribution": {
+        "photographer": "calum_mclennan",
+        "photographer_url": "https://www.inaturalist.org/observations/186550360",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© calum_mclennan (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 186550360,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

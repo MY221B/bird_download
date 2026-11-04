@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "quailfinch_quailf1",
+    "chinese_name": "黑领鹑雀",
+    "english_name": "Quailfinch",
+    "scientific_name": "Ortygospiza atricollis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "quailfinch_quailf1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809360/bird-gallery/quailfinch_quailf1/inaturalist/quailfinch_quailf1_1.jpg",
+      "public_id": "bird-gallery/quailfinch_quailf1/inaturalist/quailfinch_quailf1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90818,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/6484912",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 6484912,
+        "note": null
+      }
+    },
+    {
+      "original_file": "quailfinch_quailf1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809361/bird-gallery/quailfinch_quailf1/inaturalist/quailfinch_quailf1_2.jpg",
+      "public_id": "bird-gallery/quailfinch_quailf1/inaturalist/quailfinch_quailf1_2",
+      "width": 1024,
+      "height": 741,
+      "format": "jpg",
+      "bytes": 142201,
+      "attribution": {
+        "photographer": "amos18",
+        "photographer_url": "https://www.inaturalist.org/observations/273266866",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© amos18 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 273266866,
+        "note": null
+      }
+    },
+    {
+      "original_file": "quailfinch_quailf1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809361/bird-gallery/quailfinch_quailf1/inaturalist/quailfinch_quailf1_3.jpg",
+      "public_id": "bird-gallery/quailfinch_quailf1/inaturalist/quailfinch_quailf1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 158878,
+      "attribution": {
+        "photographer": "daniel_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/400017465",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© daniel_viljoen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 400017465,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

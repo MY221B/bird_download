@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "greater_flamingo_grefla3",
+    "chinese_name": "大红鹳",
+    "english_name": "Greater Flamingo",
+    "scientific_name": "Phoenicopterus roseus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "greater_flamingo_grefla3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809607/bird-gallery/greater_flamingo_grefla3/inaturalist/greater_flamingo_grefla3_1.jpg",
+      "public_id": "bird-gallery/greater_flamingo_grefla3/inaturalist/greater_flamingo_grefla3_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 34061,
+      "attribution": {
+        "photographer": "cog2022",
+        "photographer_url": "https://www.inaturalist.org/observations/110948821",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cog2022 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 110948821,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_flamingo_grefla3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809608/bird-gallery/greater_flamingo_grefla3/inaturalist/greater_flamingo_grefla3_2.jpg",
+      "public_id": "bird-gallery/greater_flamingo_grefla3/inaturalist/greater_flamingo_grefla3_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 81110,
+      "attribution": {
+        "photographer": "carmelkid",
+        "photographer_url": "https://www.inaturalist.org/observations/553971",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© carmelkid (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 553971,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_flamingo_grefla3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809609/bird-gallery/greater_flamingo_grefla3/inaturalist/greater_flamingo_grefla3_3.jpg",
+      "public_id": "bird-gallery/greater_flamingo_grefla3/inaturalist/greater_flamingo_grefla3_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55381,
+      "attribution": {
+        "photographer": "vyacheslavluzanov",
+        "photographer_url": "https://www.inaturalist.org/observations/66260680",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vyacheslavluzanov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66260680,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

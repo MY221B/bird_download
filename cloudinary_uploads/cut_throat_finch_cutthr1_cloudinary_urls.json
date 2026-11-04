@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "cut_throat_finch_cutthr1",
+    "chinese_name": "环喉雀",
+    "english_name": "Cut-throat Finch",
+    "scientific_name": "Amadina fasciata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "cut_throat_finch_cutthr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809603/bird-gallery/cut_throat_finch_cutthr1/inaturalist/cut_throat_finch_cutthr1_1.jpg",
+      "public_id": "bird-gallery/cut_throat_finch_cutthr1/inaturalist/cut_throat_finch_cutthr1_1",
+      "width": 1024,
+      "height": 590,
+      "format": "jpg",
+      "bytes": 54145,
+      "attribution": {
+        "photographer": "sjtheron",
+        "photographer_url": "https://www.inaturalist.org/observations/157757409",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sjtheron (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 157757409,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cut_throat_finch_cutthr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809604/bird-gallery/cut_throat_finch_cutthr1/inaturalist/cut_throat_finch_cutthr1_2.jpg",
+      "public_id": "bird-gallery/cut_throat_finch_cutthr1/inaturalist/cut_throat_finch_cutthr1_2",
+      "width": 1024,
+      "height": 847,
+      "format": "jpg",
+      "bytes": 80240,
+      "attribution": {
+        "photographer": "sohaildatadump",
+        "photographer_url": "https://www.inaturalist.org/observations/295293679",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sohaildatadump (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 295293679,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cut_throat_finch_cutthr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809605/bird-gallery/cut_throat_finch_cutthr1/inaturalist/cut_throat_finch_cutthr1_3.jpg",
+      "public_id": "bird-gallery/cut_throat_finch_cutthr1/inaturalist/cut_throat_finch_cutthr1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 58268,
+      "attribution": {
+        "photographer": "matthieu_gauvain",
+        "photographer_url": "https://www.inaturalist.org/observations/110016043",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© matthieu_gauvain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 110016043,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

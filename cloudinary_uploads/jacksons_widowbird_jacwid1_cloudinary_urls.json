@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "jacksons_widowbird_jacwid1",
+    "chinese_name": "杰氏巧织雀",
+    "english_name": "Jackson's Widowbird",
+    "scientific_name": "Euplectes jacksoni"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "jacksons_widowbird_jacwid1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809278/bird-gallery/jacksons_widowbird_jacwid1/inaturalist/jacksons_widowbird_jacwid1_1.jpg",
+      "public_id": "bird-gallery/jacksons_widowbird_jacwid1/inaturalist/jacksons_widowbird_jacwid1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 82270,
+      "attribution": {
+        "photographer": "rjq",
+        "photographer_url": "https://www.inaturalist.org/observations/13585950",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rjq (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 13585950,
+        "note": null
+      }
+    },
+    {
+      "original_file": "jacksons_widowbird_jacwid1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809279/bird-gallery/jacksons_widowbird_jacwid1/inaturalist/jacksons_widowbird_jacwid1_2.jpg",
+      "public_id": "bird-gallery/jacksons_widowbird_jacwid1/inaturalist/jacksons_widowbird_jacwid1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 182558,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/114805624",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 114805624,
+        "note": null
+      }
+    },
+    {
+      "original_file": "jacksons_widowbird_jacwid1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809280/bird-gallery/jacksons_widowbird_jacwid1/inaturalist/jacksons_widowbird_jacwid1_3.jpg",
+      "public_id": "bird-gallery/jacksons_widowbird_jacwid1/inaturalist/jacksons_widowbird_jacwid1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 92888,
+      "attribution": {
+        "photographer": "pmarinaraya",
+        "photographer_url": "https://www.inaturalist.org/observations/301681049",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pmarinaraya (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 301681049,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

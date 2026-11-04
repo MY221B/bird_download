@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_skimmer",
+    "chinese_name": "非洲剪嘴鸥",
+    "english_name": "African Skimmer",
+    "scientific_name": "Rynchops flavirostris"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_skimmer_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809559/bird-gallery/african_skimmer/inaturalist/african_skimmer_1.jpg",
+      "public_id": "bird-gallery/african_skimmer/inaturalist/african_skimmer_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 76930,
+      "attribution": {
+        "photographer": "wynand_uys",
+        "photographer_url": "https://www.inaturalist.org/observations/14133152",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© wynand_uys (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 14133152,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_skimmer_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809559/bird-gallery/african_skimmer/inaturalist/african_skimmer_2.jpg",
+      "public_id": "bird-gallery/african_skimmer/inaturalist/african_skimmer_2",
+      "width": 1024,
+      "height": 687,
+      "format": "jpg",
+      "bytes": 95038,
+      "attribution": {
+        "photographer": "b_kski",
+        "photographer_url": "https://www.inaturalist.org/observations/175174787",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© b_kski (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 175174787,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_skimmer_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809560/bird-gallery/african_skimmer/inaturalist/african_skimmer_3.jpg",
+      "public_id": "bird-gallery/african_skimmer/inaturalist/african_skimmer_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 71153,
+      "attribution": {
+        "photographer": "stefaneakame",
+        "photographer_url": "https://www.inaturalist.org/observations/287504205",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stefaneakame (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 287504205,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

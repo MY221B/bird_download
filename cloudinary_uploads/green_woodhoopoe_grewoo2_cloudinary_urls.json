@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "green_woodhoopoe_grewoo2",
+    "chinese_name": "绿林戴胜",
+    "english_name": "Green Woodhoopoe",
+    "scientific_name": "Phoeniculus purpureus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "green_woodhoopoe_grewoo2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809580/bird-gallery/green_woodhoopoe_grewoo2/inaturalist/green_woodhoopoe_grewoo2_1.jpg",
+      "public_id": "bird-gallery/green_woodhoopoe_grewoo2/inaturalist/green_woodhoopoe_grewoo2_1",
+      "width": 1000,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 81545,
+      "attribution": {
+        "photographer": "adamwelz",
+        "photographer_url": "https://www.inaturalist.org/observations/94433465",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© adamwelz (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 94433465,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_woodhoopoe_grewoo2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809581/bird-gallery/green_woodhoopoe_grewoo2/inaturalist/green_woodhoopoe_grewoo2_2.jpg",
+      "public_id": "bird-gallery/green_woodhoopoe_grewoo2/inaturalist/green_woodhoopoe_grewoo2_2",
+      "width": 1024,
+      "height": 739,
+      "format": "jpg",
+      "bytes": 125206,
+      "attribution": {
+        "photographer": "g_kolotin",
+        "photographer_url": "https://www.inaturalist.org/observations/261236705",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© g_kolotin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 261236705,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_woodhoopoe_grewoo2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809582/bird-gallery/green_woodhoopoe_grewoo2/inaturalist/green_woodhoopoe_grewoo2_3.jpg",
+      "public_id": "bird-gallery/green_woodhoopoe_grewoo2/inaturalist/green_woodhoopoe_grewoo2_3",
+      "width": 886,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 156145,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/157503295",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 157503295,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

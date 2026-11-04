@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "martial_eagle_mareag1",
+    "chinese_name": "猛雕",
+    "english_name": "Martial Eagle",
+    "scientific_name": "Polemaetus bellicosus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "martial_eagle_mareag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809311/bird-gallery/martial_eagle_mareag1/inaturalist/martial_eagle_mareag1_1.jpg",
+      "public_id": "bird-gallery/martial_eagle_mareag1/inaturalist/martial_eagle_mareag1_1",
+      "width": 739,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 117526,
+      "attribution": {
+        "photographer": "maritzasouthafrica",
+        "photographer_url": "https://www.inaturalist.org/observations/9678873",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maritzasouthafrica (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9678873,
+        "note": null
+      }
+    },
+    {
+      "original_file": "martial_eagle_mareag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809312/bird-gallery/martial_eagle_mareag1/inaturalist/martial_eagle_mareag1_2.jpg",
+      "public_id": "bird-gallery/martial_eagle_mareag1/inaturalist/martial_eagle_mareag1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 80197,
+      "attribution": {
+        "photographer": "jeslefcourt",
+        "photographer_url": "https://www.inaturalist.org/observations/42319266",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jeslefcourt (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 42319266,
+        "note": null
+      }
+    },
+    {
+      "original_file": "martial_eagle_mareag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809312/bird-gallery/martial_eagle_mareag1/inaturalist/martial_eagle_mareag1_3.jpg",
+      "public_id": "bird-gallery/martial_eagle_mareag1/inaturalist/martial_eagle_mareag1_3",
+      "width": 1024,
+      "height": 710,
+      "format": "jpg",
+      "bytes": 119674,
+      "attribution": {
+        "photographer": "amos18",
+        "photographer_url": "https://www.inaturalist.org/observations/178841161",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© amos18 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 178841161,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

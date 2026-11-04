@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_backed_vulture_whbvul1",
+    "chinese_name": "非洲白背兀鹫",
+    "english_name": "White-backed Vulture",
+    "scientific_name": "Gyps africanus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_backed_vulture_whbvul1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809440/bird-gallery/white_backed_vulture_whbvul1/inaturalist/white_backed_vulture_whbvul1_1.jpg",
+      "public_id": "bird-gallery/white_backed_vulture_whbvul1/inaturalist/white_backed_vulture_whbvul1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 118621,
+      "attribution": {
+        "photographer": "vinayak",
+        "photographer_url": "https://www.inaturalist.org/observations/106216399",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© vinayak (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 106216399,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_backed_vulture_whbvul1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809441/bird-gallery/white_backed_vulture_whbvul1/inaturalist/white_backed_vulture_whbvul1_2.jpg",
+      "public_id": "bird-gallery/white_backed_vulture_whbvul1/inaturalist/white_backed_vulture_whbvul1_2",
+      "width": 960,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 101516,
+      "attribution": {
+        "photographer": "kkluge",
+        "photographer_url": "https://www.inaturalist.org/observations/385560",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kkluge (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 385560,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_backed_vulture_whbvul1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809442/bird-gallery/white_backed_vulture_whbvul1/inaturalist/white_backed_vulture_whbvul1_3.jpg",
+      "public_id": "bird-gallery/white_backed_vulture_whbvul1/inaturalist/white_backed_vulture_whbvul1_3",
+      "width": 1024,
+      "height": 723,
+      "format": "jpg",
+      "bytes": 25144,
+      "attribution": {
+        "photographer": "theohurtrel",
+        "photographer_url": "https://www.inaturalist.org/observations/158708581",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© theohurtrel (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 158708581,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

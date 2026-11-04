@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eurasian_golden_oriole_eugori2",
+    "chinese_name": "金黄鹂",
+    "english_name": "Eurasian Golden Oriole",
+    "scientific_name": "Oriolus oriolus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eurasian_golden_oriole_eugori2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809209/bird-gallery/eurasian_golden_oriole_eugori2/inaturalist/eurasian_golden_oriole_eugori2_1.jpg",
+      "public_id": "bird-gallery/eurasian_golden_oriole_eugori2/inaturalist/eurasian_golden_oriole_eugori2_1",
+      "width": 1024,
+      "height": 712,
+      "format": "jpg",
+      "bytes": 95151,
+      "attribution": {
+        "photographer": "karakaxa",
+        "photographer_url": "https://www.inaturalist.org/observations/158587307",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© karakaxa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 158587307,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_golden_oriole_eugori2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809210/bird-gallery/eurasian_golden_oriole_eugori2/inaturalist/eurasian_golden_oriole_eugori2_2.jpg",
+      "public_id": "bird-gallery/eurasian_golden_oriole_eugori2/inaturalist/eurasian_golden_oriole_eugori2_2",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 58477,
+      "attribution": {
+        "photographer": "dhruvapunde",
+        "photographer_url": "https://www.inaturalist.org/observations/331790947",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 331790947,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eurasian_golden_oriole_eugori2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809211/bird-gallery/eurasian_golden_oriole_eugori2/inaturalist/eurasian_golden_oriole_eugori2_3.jpg",
+      "public_id": "bird-gallery/eurasian_golden_oriole_eugori2/inaturalist/eurasian_golden_oriole_eugori2_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 102396,
+      "attribution": {
+        "photographer": "mayvirt",
+        "photographer_url": "https://www.inaturalist.org/observations/284231111",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mayvirt (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 284231111,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

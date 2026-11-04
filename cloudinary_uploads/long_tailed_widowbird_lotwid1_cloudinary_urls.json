@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "long_tailed_widowbird_lotwid1",
+    "chinese_name": "长尾巧织雀",
+    "english_name": "Long-tailed Widowbird",
+    "scientific_name": "Euplectes progne"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "long_tailed_widowbird_lotwid1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809544/bird-gallery/long_tailed_widowbird_lotwid1/inaturalist/long_tailed_widowbird_lotwid1_1.jpg",
+      "public_id": "bird-gallery/long_tailed_widowbird_lotwid1/inaturalist/long_tailed_widowbird_lotwid1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 43219,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/177989788",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 177989788,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_tailed_widowbird_lotwid1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809545/bird-gallery/long_tailed_widowbird_lotwid1/inaturalist/long_tailed_widowbird_lotwid1_2.jpg",
+      "public_id": "bird-gallery/long_tailed_widowbird_lotwid1/inaturalist/long_tailed_widowbird_lotwid1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66623,
+      "attribution": {
+        "photographer": "jandutoit",
+        "photographer_url": "https://www.inaturalist.org/observations/228224421",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jandutoit (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 228224421,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_tailed_widowbird_lotwid1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809546/bird-gallery/long_tailed_widowbird_lotwid1/inaturalist/long_tailed_widowbird_lotwid1_3.jpg",
+      "public_id": "bird-gallery/long_tailed_widowbird_lotwid1/inaturalist/long_tailed_widowbird_lotwid1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 145997,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/20505993",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20505993,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

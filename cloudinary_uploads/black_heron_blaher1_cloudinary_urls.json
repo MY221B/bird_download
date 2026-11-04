@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_heron_blaher1",
+    "chinese_name": "黑鹭",
+    "english_name": "Black Heron",
+    "scientific_name": "Egretta ardesiaca"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_heron_blaher1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809569/bird-gallery/black_heron_blaher1/inaturalist/black_heron_blaher1_1.jpg",
+      "public_id": "bird-gallery/black_heron_blaher1/inaturalist/black_heron_blaher1_1",
+      "width": 1024,
+      "height": 690,
+      "format": "jpg",
+      "bytes": 75070,
+      "attribution": {
+        "photographer": "dbd2025",
+        "photographer_url": "https://www.inaturalist.org/observations/262475645",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dbd2025 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 262475645,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_heron_blaher1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809570/bird-gallery/black_heron_blaher1/inaturalist/black_heron_blaher1_2.jpg",
+      "public_id": "bird-gallery/black_heron_blaher1/inaturalist/black_heron_blaher1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 115385,
+      "attribution": {
+        "photographer": "felix_riegel",
+        "photographer_url": "https://www.inaturalist.org/observations/139532699",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© felix_riegel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 139532699,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_heron_blaher1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809571/bird-gallery/black_heron_blaher1/inaturalist/black_heron_blaher1_3.jpg",
+      "public_id": "bird-gallery/black_heron_blaher1/inaturalist/black_heron_blaher1_3",
+      "width": 1024,
+      "height": 766,
+      "format": "jpg",
+      "bytes": 90380,
+      "attribution": {
+        "photographer": "afsarnayakkan",
+        "photographer_url": "https://www.inaturalist.org/observations/318556759",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© afsarnayakkan (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 318556759,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lichtensteins_sandgrouse_licsan1",
+    "chinese_name": "里氏沙鸡",
+    "english_name": "Lichtenstein's Sandgrouse",
+    "scientific_name": "Pterocles lichtensteinii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lichtensteins_sandgrouse_licsan1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809811/bird-gallery/lichtensteins_sandgrouse_licsan1/inaturalist/lichtensteins_sandgrouse_licsan1_1.jpg",
+      "public_id": "bird-gallery/lichtensteins_sandgrouse_licsan1/inaturalist/lichtensteins_sandgrouse_licsan1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 163179,
+      "attribution": {
+        "photographer": "ssarrocco",
+        "photographer_url": "https://www.inaturalist.org/observations/10496328",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ssarrocco (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10496328,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lichtensteins_sandgrouse_licsan1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809812/bird-gallery/lichtensteins_sandgrouse_licsan1/inaturalist/lichtensteins_sandgrouse_licsan1_2.jpg",
+      "public_id": "bird-gallery/lichtensteins_sandgrouse_licsan1/inaturalist/lichtensteins_sandgrouse_licsan1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 111353,
+      "attribution": {
+        "photographer": "mathieu_mahamoud-issa",
+        "photographer_url": "https://www.inaturalist.org/observations/237080401",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mathieu_mahamoud-issa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 237080401,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lichtensteins_sandgrouse_licsan1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809812/bird-gallery/lichtensteins_sandgrouse_licsan1/inaturalist/lichtensteins_sandgrouse_licsan1_3.jpg",
+      "public_id": "bird-gallery/lichtensteins_sandgrouse_licsan1/inaturalist/lichtensteins_sandgrouse_licsan1_3",
+      "width": 1024,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 105363,
+      "attribution": {
+        "photographer": "capracornelius",
+        "photographer_url": "https://www.inaturalist.org/observations/385010706",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© capracornelius (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 385010706,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "northern_yellow_white_eye_afywhe2",
+    "chinese_name": "塞内加尔绣眼鸟",
+    "english_name": "Northern Yellow White-eye",
+    "scientific_name": "Zosterops senegalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "northern_yellow_white_eye_afywhe2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809129/bird-gallery/northern_yellow_white_eye_afywhe2/inaturalist/northern_yellow_white_eye_afywhe2_1.jpg",
+      "public_id": "bird-gallery/northern_yellow_white_eye_afywhe2/inaturalist/northern_yellow_white_eye_afywhe2_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 79270,
+      "attribution": {
+        "photographer": "joni_overbosch",
+        "photographer_url": "https://www.inaturalist.org/observations/259666906",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joni_overbosch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 259666906,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_yellow_white_eye_afywhe2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809129/bird-gallery/northern_yellow_white_eye_afywhe2/inaturalist/northern_yellow_white_eye_afywhe2_2.jpg",
+      "public_id": "bird-gallery/northern_yellow_white_eye_afywhe2/inaturalist/northern_yellow_white_eye_afywhe2_2",
+      "width": 869,
+      "height": 579,
+      "format": "jpg",
+      "bytes": 62393,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/144677731",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 144677731,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_yellow_white_eye_afywhe2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809130/bird-gallery/northern_yellow_white_eye_afywhe2/inaturalist/northern_yellow_white_eye_afywhe2_3.jpg",
+      "public_id": "bird-gallery/northern_yellow_white_eye_afywhe2/inaturalist/northern_yellow_white_eye_afywhe2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67520,
+      "attribution": {
+        "photographer": "tdesloges",
+        "photographer_url": "https://www.inaturalist.org/observations/165032144",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tdesloges (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 165032144,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

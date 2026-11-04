@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_silverbill",
+    "chinese_name": "银嘴文鸟",
+    "english_name": "African Silverbill",
+    "scientific_name": "Euodice cantans"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_silverbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809800/bird-gallery/african_silverbill/inaturalist/african_silverbill_1.jpg",
+      "public_id": "bird-gallery/african_silverbill/inaturalist/african_silverbill_1",
+      "width": 1024,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 39296,
+      "attribution": {
+        "photographer": "haroon-fx",
+        "photographer_url": "https://www.inaturalist.org/observations/137724198",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© haroon-fx (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 137724198,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_silverbill_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809801/bird-gallery/african_silverbill/inaturalist/african_silverbill_2.jpg",
+      "public_id": "bird-gallery/african_silverbill/inaturalist/african_silverbill_2",
+      "width": 1024,
+      "height": 779,
+      "format": "jpg",
+      "bytes": 45732,
+      "attribution": {
+        "photographer": "koriba_rachid",
+        "photographer_url": "https://www.inaturalist.org/observations/332567179",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© koriba_rachid (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 332567179,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_silverbill_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809802/bird-gallery/african_silverbill/inaturalist/african_silverbill_3.jpg",
+      "public_id": "bird-gallery/african_silverbill/inaturalist/african_silverbill_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115083,
+      "attribution": {
+        "photographer": "hericko",
+        "photographer_url": "https://www.inaturalist.org/observations/67715763",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hericko (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 67715763,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

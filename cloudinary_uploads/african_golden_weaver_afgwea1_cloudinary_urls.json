@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_golden_weaver_afgwea1",
+    "chinese_name": "非洲金织雀",
+    "english_name": "African Golden-Weaver",
+    "scientific_name": "Ploceus subaureus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_golden_weaver_afgwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809785/bird-gallery/african_golden_weaver_afgwea1/inaturalist/african_golden_weaver_afgwea1_1.jpg",
+      "public_id": "bird-gallery/african_golden_weaver_afgwea1/inaturalist/african_golden_weaver_afgwea1_1",
+      "width": 808,
+      "height": 607,
+      "format": "jpg",
+      "bytes": 89079,
+      "attribution": {
+        "photographer": "gigilaidler",
+        "photographer_url": "https://www.inaturalist.org/observations/117477112",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gigilaidler (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 117477112,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_golden_weaver_afgwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809786/bird-gallery/african_golden_weaver_afgwea1/inaturalist/african_golden_weaver_afgwea1_2.jpg",
+      "public_id": "bird-gallery/african_golden_weaver_afgwea1/inaturalist/african_golden_weaver_afgwea1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 52757,
+      "attribution": {
+        "photographer": "frozeninmn",
+        "photographer_url": "https://www.inaturalist.org/observations/120418707",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© frozeninmn (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 120418707,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_golden_weaver_afgwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809786/bird-gallery/african_golden_weaver_afgwea1/inaturalist/african_golden_weaver_afgwea1_3.jpg",
+      "public_id": "bird-gallery/african_golden_weaver_afgwea1/inaturalist/african_golden_weaver_afgwea1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96746,
+      "attribution": {
+        "photographer": "wdowney",
+        "photographer_url": "https://www.inaturalist.org/observations/237759762",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wdowney (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 237759762,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

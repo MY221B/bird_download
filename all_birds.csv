@@ -873,7 +873,6 @@ white_winged_redstart,"红腹红尾鸲","White-winged Redstart","Phoenicurus ery
 buffy_laughingthrush,"棕噪鹛","Buffy Laughingthrush","Pterorhinus berthemyi",Buffy_Laughingthrush
 isabelline_wheatear,"沙䳭","Isabelline Wheatear","Oenanthe isabellina",Isabelline_Wheatear
 przevalskis_redstart,"贺兰山红尾鸲","Przevalski's Redstart","Phoenicurus alaschanicus",Przevalski's_Redstart
-<<<<<<< HEAD
 aberrant_bush_warbler,"异色树莺","Aberrant Bush Warbler","Horornis flavolivaceus",Aberrant_Bush_Warbler
 annam_limestone_babbler,"灰岩鹪鹛","Annam Limestone Babbler","Gypsophila annamensis",Annam_Limestone_Babbler
 ashy_headed_green_pigeon,"灰头绿鸠","Ashy-headed Green-pigeon","Treron phayrei",Ashy-headed_Green-pigeon
@@ -908,11 +907,8 @@ yellow_vented_bulbul,"白眉黄臀鹎","Yellow-vented Bulbul","Pycnonotus goiavi
 clamorous_reed_warbler,"噪苇莺","Clamorous Reed Warbler","Acrocephalus stentoreus",Clamorous_Reed_Warbler
 ashy_throated_parrotbill,"灰喉鸦雀","Ashy-throated Parrotbill","Sinosuthora alphonsiana",Ashy-throated_Parrotbill
 chinese_rubythroat,"白须黑胸歌鸲","Chinese Rubythroat","Calliope tschebaiewi",Chinese_Rubythroat
-=======
-brown_bush_warbler,"棕褐短翅蝗莺","Brown Bush Warbler","Locustella luteoventris",Brown_Bush_Warbler
 chestnut_munia,"栗腹文鸟","Chestnut Munia","Lonchura atricapilla",Chestnut_Munia
 pin_tailed_parrotfinch,"长尾鹦雀","Pin-tailed Parrotfinch","Erythrura prasina",Pin-tailed_Parrotfinch
->>>>>>> a599cd848f3e67cc67d985ac1dcafd3e5e211dd1
 aleutian_tern,"白腰燕鸥","Aleutian Tern","Onychoprion aleuticus",Aleutian_Tern
 chestnut_bellied_nuthatch,"栗腹䴓","Chestnut-bellied Nuthatch","Sitta cinnamoventris",Chestnut-bellied_Nuthatch
 lesser_frigatebird,"白斑军舰鸟","Lesser Frigatebird","Fregata ariel",Lesser_Frigatebird
@@ -959,3 +955,298 @@ tibetan_serin,"藏黄雀","Tibetan Serin","Spinus thibetanus",Tibetan_Serin
 white_necked_laughingthrush,"白颈噪鹛","White-necked Laughingthrush","Garrulax strepitans",White-necked_Laughingthrush
 yellow_bunting,"硫黄鹀","Yellow Bunting","Emberiza sulphurata",Yellow_Bunting
 zebra_dove,"斑姬地鸠","Zebra Dove","Geopelia striata",Zebra_Dove
+abdims_stork,白腹鹳,Abdim's Stork,Ciconia abdimii,Abdim's_Stork
+african_black_duck_afbduc1,非洲黑鸭,African Black Duck,Anas sparsa,African_Black_Duck
+african_palm_swift_afpswi1,棕雨燕,African Palm Swift,Cypsiurus parvus,African_Palm_Swift
+african_pied_wagtail_afpwag1,非洲斑鹡鸰,African Pied Wagtail,Motacilla aguimp,African_Pied_Wagtail
+african_green_pigeon_afrgrp1,非洲绿鸠,African Green-Pigeon,Treron calvus,African_Green-Pigeon
+african_hawk_eagle_afrhae1,非洲隼雕,African Hawk-Eagle,Aquila spilogaster,African_Hawk-Eagle
+african_openbill_afrope1,非洲钳嘴鹳,African Openbill,Anastomus lamelligerus,African_Openbill
+african_pipit_afrpip1,非洲鹨,African Pipit,Anthus cinnamomeus,African_Pipit
+african_spoonbill_afrspo1,非洲琵鹭,African Spoonbill,Platalea alba,African_Spoonbill
+african_yellow_warbler_afywar1,黄捕蝇莺,African Yellow-Warbler,Iduna natalensis,African_Yellow-Warbler
+northern_yellow_white_eye_afywhe2,塞内加尔绣眼鸟,Northern Yellow White-eye,Zosterops senegalensis,Northern_Yellow_White-eye
+ayress_hawk_eagle_ayheag1,艾氏雕,Ayres's Hawk-Eagle,Hieraaetus ayresii,Ayres's_Hawk-Eagle
+banded_parisoma_banwar2,斑林莺,Banded Parisoma,Curruca boehmi,Banded_Parisoma
+bateleur_batele1,短尾雕,Bateleur,Terathopius ecaudatus,Bateleur
+black_and_white_mannikin_bawman1,黑白文鸟,Black-and-white Mannikin,Spermestes bicolor,Black-and-white_Mannikin
+black_bellied_bustard_bkbbus1,黑腹鸨,Black-bellied Bustard,Lissotis melanogaster,Black-bellied_Bustard
+eurasian_blackcap_blackc1,黑顶林莺,Eurasian Blackcap,Sylvia atricapilla,Eurasian_Blackcap
+blacksmith_lapwing_blaplo1,黑背麦鸡,Blacksmith Lapwing,Vanellus armatus,Blacksmith_Lapwing
+black_faced_waxbill_blcwax1,黑颊梅花雀,Black-faced Waxbill,Brunhilda erythronotos,Black-faced_Waxbill
+black_cuckooshrike_blkcus1,黑鹃鵙,Black Cuckooshrike,Campephaga flava,Black_Cuckooshrike
+brown_parisoma_brnwar1,褐林莺,Brown Parisoma,Curruca lugens,Brown_Parisoma
+bronze_mannikin_broman1,铜色文鸟,Bronze Mannikin,Spermestes cucullata,Bronze_Mannikin
+brown_snake_eagle_brseag1,棕短趾雕,Brown Snake-Eagle,Circaetus cinereus,Brown_Snake-Eagle
+western_cattle_egret_categr1,西牛背鹭,Western Cattle-Egret,Ardea ibis,Western_Cattle-Egret
+chestnut_sparrow_chespa1,栗麻雀,Chestnut Sparrow,Passer eminibey,Chestnut_Sparrow
+common_bulbul_combul2,非洲羽须鹎,Common Bulbul,Pycnonotus barbatus,Common_Bulbul
+common_buzzard_combuz1,普通𫛭,Common Buzzard,Buteo buteo,Common_Buzzard
+common_nightingale_comnig1,新疆歌鸲,Common Nightingale,Luscinia megarhynchos,Common_Nightingale
+common_waxbill_comwax,横斑梅花雀,Common Waxbill,Estrilda astrild,Common_Waxbill
+crowned_eagle_crheag1,非洲冠雕,Crowned Eagle,Stephanoaetus coronatus,Crowned_Eagle
+crowned_lapwing_crolap1,冕麦鸡,Crowned Lapwing,Vanellus coronatus,Crowned_Lapwing
+crimson_rumped_waxbill_crrwax1,赤腰梅花雀,Crimson-rumped Waxbill,Estrilda rhodopyga,Crimson-rumped_Waxbill
+african_darter_darter3,非洲蛇鹈,African Darter,Anhinga rufa,African_Darter
+western_yellow_wagtail_eaywag1,黄鹡鸰,Western Yellow Wagtail,Motacilla flava,Western_Yellow_Wagtail
+egyptian_goose_egygoo,埃及雁,Egyptian Goose,Alopochen aegyptiaca,Egyptian_Goose
+emerald_spotted_wood_dove_eswdov1,绿点森鸠,Emerald-spotted Wood-Dove,Turtur chalcospilos,Emerald-spotted_Wood-Dove
+european_bee_eater_eubeat1,黄喉蜂虎,European Bee-eater,Merops apiaster,European_Bee-eater
+eurasian_golden_oriole_eugori2,金黄鹂,Eurasian Golden Oriole,Oriolus oriolus,Eurasian_Golden_Oriole
+european_roller_eurrol1,蓝胸佛法僧,European Roller,Coracias garrulus,European_Roller
+common_reed_warbler_eurwar1,芦苇莺,Common Reed Warbler,Acrocephalus scirpaceus,Common_Reed_Warbler
+fawn_colored_lark_faclar8,黄褐歌百灵,Fawn-colored Lark,Calendulauda africanoides,Fawn-colored_Lark
+fischers_sparrow_lark_fislar1,白颊雀百灵,Fischer's Sparrow-Lark,Eremopterix leucopareia,Fischer's_Sparrow-Lark
+fork_tailed_drongo_fotdro5,叉尾卷尾,Fork-tailed Drongo,Dicrurus adsimilis,Fork-tailed_Drongo
+gabar_goshawk_gabgos2,小歌鹰,Gabar Goshawk,Micronisus gabar,Gabar_Goshawk
+garden_warbler_garwar1,园林莺,Garden Warbler,Sylvia borin,Garden_Warbler
+greater_blue_eared_starling_gbesta1,蓝耳丽椋鸟,Greater Blue-eared Starling,Lamprotornis chalybaeus,Greater_Blue-eared_Starling
+giant_kingfisher_giakin3,大鱼狗,Giant Kingfisher,Megaceryle maxima,Giant_Kingfisher
+goliath_heron_golher1,巨鹭,Goliath Heron,Ardea goliath,Goliath_Heron
+gray_crowned_crane_grccra1,灰冠鹤,Gray Crowned-Crane,Balearica regulorum,Gray_Crowned-Crane
+grosbeak_weaver_growea1,厚嘴织雀,Grosbeak Weaver,Amblyospiza albifrons,Grosbeak_Weaver
+great_white_pelican_grwpel1,白鹈鹕,Great White Pelican,Pelecanus onocrotalus,Great_White_Pelican
+gray_capped_warbler_gycwar3,灰顶莺,Gray-capped Warbler,Eminia lepida,Gray-capped_Warbler
+gray_headed_kingfisher_gyhkin1,灰头翡翠,Gray-headed Kingfisher,Halcyon leucocephala,Gray-headed_Kingfisher
+gray_capped_social_weaver_gyhsow1,灰头群织雀,Gray-capped Social-Weaver,Pseudonigrita arnaudi,Gray-capped_Social-Weaver
+hadada_ibis_hadibi1,凤头鹮,Hadada Ibis,Bostrychia hagedash,Hadada_Ibis
+hamerkop_hamerk1,锤头鹳,Hamerkop,Scopus umbretta,Hamerkop
+helmeted_guineafowl_helgui,珠鸡,Helmeted Guineafowl,Numida meleagris,Helmeted_Guineafowl
+hildebrandts_starling_hilsta1,希氏丽椋鸟,Hildebrandt's Starling,Lamprotornis hildebrandti,Hildebrandt's_Starling
+holubs_golden_weaver_hogwea1,非洲金织雀,Holub's Golden-Weaver,Ploceus xanthops,Holub's_Golden-Weaver
+blue_billed_teal_hottea1,南非鸭,Blue-billed Teal,Spatula hottentota,Blue-billed_Teal
+isabelline_shrike_isashr1,荒漠伯劳,Isabelline Shrike,Lanius isabellinus,Isabelline_Shrike
+jacksons_widowbird_jacwid1,杰氏巧织雀,Jackson's Widowbird,Euplectes jacksoni,Jackson's_Widowbird
+kenya_rufous_sparrow_kerspa2,肯亚麻雀,Kenya Rufous Sparrow,Passer rufocinctus,Kenya_Rufous_Sparrow
+klaass_cuckoo_klacuc1,白腹金鹃,Klaas's Cuckoo,Chrysococcyx klaas,Klaas's_Cuckoo
+lanner_falcon_lanfal1,地中海隼,Lanner Falcon,Falco biarmicus,Lanner_Falcon
+lesser_swamp_warbler_leswar1,细嘴苇莺,Lesser Swamp Warbler,Acrocephalus gracilirostris,Lesser_Swamp_Warbler
+little_bee_eater_libeat1,小蜂虎,Little Bee-eater,Merops pusillus,Little_Bee-eater
+lilac_breasted_roller_librol2,紫胸佛法僧,Lilac-breasted Roller,Coracias caudatus,Lilac-breasted_Roller
+little_bittern_litbit1,小苇𫛚,Little Bittern,Botaurus minutus,Little_Bittern
+long_crested_eagle_loceag1,高冠鹰雕,Long-crested Eagle,Lophaetus occipitalis,Long-crested_Eagle
+reed_cormorant_lotcor1,长尾鸬鹚,Reed Cormorant,Microcarbo africanus,Reed_Cormorant
+long_tailed_fiscal_lotfis1,东非长尾伯劳,Long-tailed Fiscal,Lanius cabanisi,Long-tailed_Fiscal
+long_toed_lapwing_lotlap1,长趾麦鸡,Long-toed Lapwing,Vanellus crassirostris,Long-toed_Lapwing
+martial_eagle_mareag1,猛雕,Martial Eagle,Polemaetus bellicosus,Martial_Eagle
+marabou_stork_marsto1,秃鹳,Marabou Stork,Leptoptilos crumenifer,Marabou_Stork
+moustached_grass_warbler,须薮莺,Moustached Grass-Warbler,Melocichla mentalis,Moustached_Grass-Warbler
+montagus_harrier_monhar1,乌灰鹞,Montagu's Harrier,Circus pygargus,Montagu's_Harrier
+montane_nightjar_monnig1,灰头夜鹰,Montane Nightjar,Caprimulgus poliocephalus,Montane_Nightjar
+namaqua_dove_namdov1,小长尾鸠,Namaqua Dove,Oena capensis,Namaqua_Dove
+northern_pied_babbler,北斑鸫鹛,Northern Pied Babbler,Turdoides hypoleuca,Northern_Pied_Babbler
+nubian_woodpecker_nubwoo1,东非啄木鸟,Nubian Woodpecker,Campethera nubica,Nubian_Woodpecker
+common_ostrich_ostric2,鸵鸟,Common Ostrich,Struthio camelus,Common_Ostrich
+pallid_harrier_palhar1,草原鹞,Pallid Harrier,Circus macrourus,Pallid_Harrier
+cuckoo_finch,寄生维达雀,Cuckoo-Finch,Anomalospiza imberbis,Cuckoo-Finch
+pied_crow_piecro1,非洲白颈鸦,Pied Crow,Corvus albus,Pied_Crow
+pin_tailed_whydah_pitwhy,针尾维达雀,Pin-tailed Whydah,Vidua macroura,Pin-tailed_Whydah
+plain_martin_plamar1,褐喉沙燕,Plain Martin,Riparia paludicola,Plain_Martin
+purple_grenadier_purgre2,紫蓝饰雀,Purple Grenadier,Granatina ianthinogaster,Purple_Grenadier
+african_swamphen_purswa2,非洲紫水鸡,African Swamphen,Porphyrio madagascariensis,African_Swamphen
+quailfinch_quailf1,黑领鹑雀,Quailfinch,Ortygospiza atricollis,Quailfinch
+red_billed_teal_rebduc1,赤嘴鸭,Red-billed Teal,Anas erythrorhyncha,Red-billed_Teal
+red_billed_firefinch_rebfir2,红嘴火雀,Red-billed Firefinch,Lagonosticta senegala,Red-billed_Firefinch
+red_billed_quelea_rebque1,红嘴奎利亚雀,Red-billed Quelea,Quelea quelea,Red-billed_Quelea
+red_backed_shrike_rebshr1,红背伯劳,Red-backed Shrike,Lanius collurio,Red-backed_Shrike
+red_cheeked_cordonbleu_reccor,红颊蓝饰雀,Red-cheeked Cordonbleu,Uraeginthus bengalus,Red-cheeked_Cordonbleu
+red_capped_lark_reclar1,红顶短趾百灵,Red-capped Lark,Calandrella cinerea,Red-capped_Lark
+red_faced_crombec_refcro1,红脸森莺,Red-faced Crombec,Sylvietta whytii,Red-faced_Crombec
+r_ppells_griffon_ruegri1,黑白兀鹫,Rüppell's Griffon,Gyps rueppelli,Rüppell's_Griffon
+red_tailed_shrike,棕尾伯劳,Red-tailed Shrike,Lanius phoenicuroides,Red-tailed_Shrike
+saddle_billed_stork_sabsto1,凹嘴鹳,Saddle-billed Stork,Ephippiorhynchus senegalensis,Saddle-billed_Stork
+african_sacred_ibis_sacibi2,埃及圣鹮,African Sacred Ibis,Threskiornis aethiopicus,African_Sacred_Ibis
+secretarybird_secret2,鹭鹰,Secretarybird,Sagittarius serpentarius,Secretarybird
+shelleys_francolin_shefra1,谢氏鹧鸪,Shelley's Francolin,Scleroptila shelleyi,Shelley's_Francolin
+speckled_pigeon_spepig1,点斑鸽,Speckled Pigeon,Columba guinea,Speckled_Pigeon
+spotted_flycatcher_spofly2,斑鹟,Spotted Flycatcher,Muscicapa striata,Spotted_Flycatcher
+spotted_thick_knee_sptkne1,斑石鸻,Spotted Thick-knee,Burhinus capensis,Spotted_Thick-knee
+spur_winged_goose_spwgoo1,距翅雁,Spur-winged Goose,Plectropterus gambensis,Spur-winged_Goose
+spur_winged_lapwing_spwlap1,黑胸距翅麦鸡,Spur-winged Lapwing,Vanellus spinosus,Spur-winged_Lapwing
+striped_kingfisher_strkin1,斑翡翠,Striped Kingfisher,Halcyon chelicuti,Striped_Kingfisher
+superb_starling_supsta1,栗头丽椋鸟,Superb Starling,Lamprotornis superbus,Superb_Starling
+tawny_flanked_prinia_tafpri1,褐头鹪莺,Tawny-flanked Prinia,Prinia subflava,Tawny-flanked_Prinia
+taita_fiscal_taifis1,肯尼亚伯劳,Taita Fiscal,Lanius dorsalis,Taita_Fiscal
+tawny_eagle_taweag1,茶色雕,Tawny Eagle,Aquila rapax,Tawny_Eagle
+violet_backed_starling_vibsta2,白腹紫椋鸟,Violet-backed Starling,Cinnyricinclus leucogaster,Violet-backed_Starling
+village_weaver_vilwea1,黑头织雀,Village Weaver,Ploceus cucullatus,Village_Weaver
+water_thick_knee_watkne1,水石鸻,Water Thick-knee,Burhinus vermiculatus,Water_Thick-knee
+wattled_lapwing_watlap1,黑喉肉垂麦鸡,Wattled Lapwing,Vanellus senegallus,Wattled_Lapwing
+white_faced_whistling_duck_wfwduc1,白脸树鸭,White-faced Whistling-Duck,Dendrocygna viduata,White-faced_Whistling-Duck
+white_backed_duck_whbduc1,白背鸭,White-backed Duck,Thalassornis leuconotus,White-backed_Duck
+white_backed_vulture_whbvul1,非洲白背兀鹫,White-backed Vulture,Gyps africanus,White-backed_Vulture
+pale_white_eye_whbwhe3,灰白绣眼鸟,Pale White-eye,Zosterops flavilateralis,Pale_White-eye
+whinchat_whinch1,草原石䳭,Whinchat,Saxicola rubetra,Whinchat
+white_rumped_swift_whrswi1,非洲白腰雨燕,White-rumped Swift,Apus caffer,White-rumped_Swift
+wire_tailed_swallow_witswa1,线尾燕,Wire-tailed Swallow,Hirundo smithii,Wire-tailed_Swallow
+willow_warbler_wlwwar,欧柳莺,Willow Warbler,Phylloscopus trochilus,Willow_Warbler
+little_swift_y00960,小雨燕,Little Swift,Apus affinis,Little_Swift
+yellow_billed_duck_yebduc1,非洲黄嘴鸭,Yellow-billed Duck,Anas undulata,Yellow-billed_Duck
+yellow_billed_oxpecker_yeboxp1,黄嘴牛椋鸟,Yellow-billed Oxpecker,Buphagus africanus,Yellow-billed_Oxpecker
+yellow_billed_stork_yebsto1,黄嘴鹮鹳,Yellow-billed Stork,Mycteria ibis,Yellow-billed_Stork
+yellow_throated_longclaw_yetlon1,黄喉长爪鹡鸰,Yellow-throated Longclaw,Macronyx croceus,Yellow-throated_Longclaw
+african_firefinch_afffin,灰顶火雀,African Firefinch,Lagonosticta rubricata,African_Firefinch
+african_harrier_hawk_afhhaw1,非洲猎鹰,African Harrier-Hawk,Polyboroides typus,African_Harrier-Hawk
+broad_billed_roller_brbrol1,佛法僧,Broad-billed Roller,Eurystomus glaucurus,Broad-billed_Roller
+green_twinspot_grbtwi1,绿背斑雀,Green Twinspot,Mandingoa nitidula,Green_Twinspot
+squacco_heron_squher1,白翅黄池鹭,Squacco Heron,Ardeola ralloides,Squacco_Heron
+thrush_nightingale,欧歌鸲,Thrush Nightingale,Luscinia luscinia,Thrush_Nightingale
+tree_pipit_trepip,林鹨,Tree Pipit,Anthus trivialis,Tree_Pipit
+golden_winged_sunbird_gowsun2,金翅花蜜鸟,Golden-winged Sunbird,Drepanorhynchus reichenowi,Golden-winged_Sunbird
+jacksons_spurfowl_jacfra2,肯尼亚鹧鸪,Jackson's Spurfowl,Pternistis jacksoni,Jackson's_Spurfowl
+malachite_sunbird_malsun1,孔雀石色花蜜鸟,Malachite Sunbird,Nectarinia famosa,Malachite_Sunbird
+yellow_bellied_waxbill_yebwax2,黄腹梅花雀,Yellow-bellied Waxbill,Coccopygia quartinia,Yellow-bellied_Waxbill
+abyssinian_crimsonwing_abcwin1,绿背朱翅雀,Abyssinian Crimsonwing,Cryptospiza salvadorii,Abyssinian_Crimsonwing
+african_emerald_cuckoo,黄腹金鹃,African Emerald Cuckoo,Chrysococcyx cupreus,African_Emerald_Cuckoo
+african_hill_babbler,非洲雅鹛,African Hill Babbler,Sylvia abyssinica,African_Hill_Babbler
+african_stonechat_afrsto1,黑喉鸲,African Stonechat,Saxicola torquatus,African_Stonechat
+bar_tailed_trogon_battro1,斑尾咬鹃,Bar-tailed Trogon,Apaloderma vittatum,Bar-tailed_Trogon
+cape_crow_capcro2,海角鸦,Cape Crow,Corvus capensis,Cape_Crow
+cinnamon_bracken_warbler_cibwar1,桂红短翅莺,Cinnamon Bracken-Warbler,Bradypterus cinnamomeus,Cinnamon_Bracken-Warbler
+eastern_bronze_naped_pigeon,德氏鸽,Eastern Bronze-naped Pigeon,Columba delegorguei,Eastern_Bronze-naped_Pigeon
+gray_headed_nigrita_gyhneg1,灰冠黑雀,Gray-headed Nigrita,Nigrita canicapillus,Gray-headed_Nigrita
+mosque_swallow_mosswa2,塞内加尔金腰燕,Mosque Swallow,Cecropis senegalensis,Mosque_Swallow
+mountain_yellow_warbler_moywar1,山捕蝇莺,Mountain Yellow-Warbler,Iduna similis,Mountain_Yellow-Warbler
+red_knobbed_coot_rekcoo1,红瘤白骨顶,Red-knobbed Coot,Fulica cristata,Red-knobbed_Coot
+scarce_swift_scaswi1,珍雨燕,Scarce Swift,Schoutedenapus myoptilus,Scarce_Swift
+angola_swallow_angswa1,安哥拉岩燕,Angola Swallow,Hirundo angolensis,Angola_Swallow
+long_tailed_widowbird_lotwid1,长尾巧织雀,Long-tailed Widowbird,Euplectes progne,Long-tailed_Widowbird
+pink_backed_pelican_pibpel1,粉背鹈鹕,Pink-backed Pelican,Pelecanus rufescens,Pink-backed_Pelican
+rock_pigeon_rocpig,原鸽,Rock Pigeon,Columba livia,Rock_Pigeon
+african_cuckoo_hawk,非洲鹃隼,African Cuckoo-Hawk,Aviceda cuculoides,African_Cuckoo-Hawk
+african_jacana_afrjac1,长脚雉鸻,African Jacana,Actophilornis africanus,African_Jacana
+african_skimmer,非洲剪嘴鸥,African Skimmer,Rynchops flavirostris,African_Skimmer
+african_thrush_afrthr1,非洲鸫,African Thrush,Turdus pelios,African_Thrush
+arrow_marked_babbler_armbab1,箭纹鸫鹛,Arrow-marked Babbler,Turdoides jardineii,Arrow-marked_Babbler
+black_lored_babbler_bklbab1,黑眼先鸫鹛,Black-lored Babbler,Turdoides sharpei,Black-lored_Babbler
+black_heron_blaher1,黑鹭,Black Heron,Egretta ardesiaca,Black_Heron
+knob_billed_duck_comduc2,瘤鸭,Knob-billed Duck,Sarkidiornis melanotos,Knob-billed_Duck
+fulvous_whistling_duck_fuwduc,茶色树鸭,Fulvous Whistling-Duck,Dendrocygna bicolor,Fulvous_Whistling-Duck
+greater_honeyguide_grehon2,黑喉响蜜䴕,Greater Honeyguide,Indicator indicator,Greater_Honeyguide
+green_woodhoopoe_grewoo2,绿林戴胜,Green Woodhoopoe,Phoeniculus purpureus,Green_Woodhoopoe
+gray_backed_fiscal_gybfis1,灰背长尾伯劳,Gray-backed Fiscal,Lanius excubitoroides,Gray-backed_Fiscal
+northern_gray_headed_sparrow_gyhspa1,灰头麻雀,Northern Gray-headed Sparrow,Passer griseus,Northern_Gray-headed_Sparrow
+laughing_dove_laudov1,棕斑鸠,Laughing Dove,Spilopelia senegalensis,Laughing_Dove
+red_chested_cuckoo_reccuc1,赤胸杜鹃,Red-chested Cuckoo,Cuculus solitarius,Red-chested_Cuckoo
+white_fronted_bee_eater_wfbeat1,白额蜂虎,White-fronted Bee-eater,Merops bullockoides,White-fronted_Bee-eater
+african_cuckoo_afrcuc1,非洲杜鹃,African Cuckoo,Cuculus gularis,African_Cuckoo
+black_winged_lapwing_blwlap1,黑翅麦鸡,Black-winged Lapwing,Vanellus melanopterus,Black-winged_Lapwing
+cape_teal_captea1,绿翅灰斑鸭,Cape Teal,Anas capensis,Cape_Teal
+cut_throat_finch_cutthr1,环喉雀,Cut-throat Finch,Amadina fasciata,Cut-throat_Finch
+greater_flamingo_grefla3,大红鹳,Greater Flamingo,Phoenicopterus roseus,Greater_Flamingo
+great_spotted_cuckoo_grscuc1,大斑凤头鹃,Great Spotted Cuckoo,Clamator glandarius,Great_Spotted_Cuckoo
+lesser_flamingo_lesfla1,小红鹳,Lesser Flamingo,Phoeniconaias minor,Lesser_Flamingo
+lesser_kestrel_leskes1,黄爪隼,Lesser Kestrel,Falco naumanni,Lesser_Kestrel
+parrot_billed_sparrow_pabspa1,鹦嘴麻雀,Parrot-billed Sparrow,Passer gongonensis,Parrot-billed_Sparrow
+southern_ground_hornbill_soghor1,红脸地犀鸟,Southern Ground-Hornbill,Bucorvus leadbeateri,Southern_Ground-Hornbill
+southern_pochard,灰嘴潜鸭,Southern Pochard,Netta erythrophthalma,Southern_Pochard
+temmincks_courser_temcou1,黑腹走鸻,Temminck's Courser,Cursorius temminckii,Temminck's_Courser
+verreauxs_eagle_vereag1,黑雕,Verreaux's Eagle,Aquila verreauxii,Verreaux's_Eagle
+village_indigobird_vilind,靛蓝维达雀,Village Indigobird,Vidua chalybeata,Village_Indigobird
+northern_white_crowned_shrike_whrshr1,白腰林鵙,Northern White-crowned Shrike,Eurocephalus ruppelli,Northern_White-crowned_Shrike
+african_woolly_necked_stork_wonsto2,非洲白颈鹳,African Woolly-necked Stork,Ciconia microscelis,African_Woolly-necked_Stork
+jacksons_hornbill_jachor1,杰氏弯嘴犀鸟,Jackson's Hornbill,Tockus jacksoni,Jackson's_Hornbill
+blue_cheeked_bee_eater_bcbeat1,蓝颊蜂虎,Blue-cheeked Bee-eater,Merops persicus,Blue-cheeked_Bee-eater
+brown_babbler_brobab1,非洲褐鸫鹛,Brown Babbler,Turdoides plebejus,Brown_Babbler
+fan_tailed_raven_fatrav1,扇尾渡鸦,Fan-tailed Raven,Corvus rhipidurus,Fan-tailed_Raven
+green_winged_pytilia_grwpyt1,绿翅斑腹雀,Green-winged Pytilia,Pytilia melba,Green-winged_Pytilia
+gray_wren_warbler_grywrw1,灰拱翅莺,Gray Wren-Warbler,Calamonastes simplex,Gray_Wren-Warbler
+gray_headed_silverbill_gyhsil1,灰头银嘴文鸟,Gray-headed Silverbill,Spermestes griseicapilla,Gray-headed_Silverbill
+eastern_violet_backed_sunbird_kvbsun1,东方食蜜鸟,Eastern Violet-backed Sunbird,Anthreptes orientalis,Eastern_Violet-backed_Sunbird
+mouse_colored_penduline_tit_mcptit1,灰攀雀,Mouse-colored Penduline-Tit,Anthoscopus musculus,Mouse-colored_Penduline-Tit
+northern_carmine_bee_eater_ncbeat1,北方洋红蜂虎,Northern Carmine Bee-eater,Merops nubicus,Northern_Carmine_Bee-eater
+northern_masked_weaver,北非黑脸织布鸟,Northern Masked-Weaver,Ploceus taeniopterus,Northern_Masked-Weaver
+northern_white_faced_owl_nwfowl1,白脸角鸮,Northern White-faced Owl,Ptilopsis leucotis,Northern_White-faced_Owl
+pygmy_falcon_pygfal1,非洲侏隼,Pygmy Falcon,Polihierax semitorquatus,Pygmy_Falcon
+red_and_yellow_barbet_raybar1,红黄拟啄木鸟,Red-and-yellow Barbet,Trachyphonus erythrocephalus,Red-and-yellow_Barbet
+black_cheeked_waxbill_rerwax1,红腰梅花雀,Black-cheeked Waxbill,Brunhilda charmosyna,Black-cheeked_Waxbill
+rufous_chatterer_rufcha2,棕红鸫鹛,Rufous Chatterer,Argya rubiginosa,Rufous_Chatterer
+senegal_thick_knee,小石鸻,Senegal Thick-knee,Burhinus senegalensis,Senegal_Thick-knee
+slender_tailed_nightjar_sltnig1,细尾夜鹰,Slender-tailed Nightjar,Caprimulgus clarus,Slender-tailed_Nightjar
+ashy_flycatcher_ashfly1,灰鹟,Ashy Flycatcher,Fraseria caerulescens,Ashy_Flycatcher
+black_necked_weaver_bknwea2,黑颈织雀,Black-necked Weaver,Ploceus nigricollis,Black-necked_Weaver
+kori_bustard_korbus1,灰颈鹭鸨,Kori Bustard,Ardeotis kori,Kori_Bustard
+lappet_faced_vulture_lafvul1,绉脸兀鹫,Lappet-faced Vulture,Torgos tracheliotos,Lappet-faced_Vulture
+magpie_shrike,白肩鹊鵙,Magpie Shrike,Urolestes melanoleucus,Magpie_Shrike
+red_capped_robin_chat_rcrcha1,红顶歌鵖,Red-capped Robin-Chat,Cossypha natalensis,Red-capped_Robin-Chat
+senegal_lapwing_senlap1,塞内加尔麦鸡,Senegal Lapwing,Vanellus lugubris,Senegal_Lapwing
+sombre_nightjar_somnig1,乌夜鹰,Sombre Nightjar,Caprimulgus fraenatus,Sombre_Nightjar
+square_tailed_nightjar,方尾夜鹰,Square-tailed Nightjar,Caprimulgus fossii,Square-tailed_Nightjar
+swamp_nightjar_swanig1,纳塔尔夜鹰,Swamp Nightjar,Caprimulgus natalensis,Swamp_Nightjar
+swahili_sparrow,东非麻雀,Swahili Sparrow,Passer suahelicus,Swahili_Sparrow
+von_der_deckens_hornbill_vddhor1,德氏弯嘴犀鸟,Von der Decken's Hornbill,Tockus deckeni,Von_der_Decken's_Hornbill
+wahlbergs_eagle_waheag3,细嘴雕,Wahlberg's Eagle,Hieraaetus wahlbergi,Wahlberg's_Eagle
+white_headed_vulture_whhvul1,白头秃鹫,White-headed Vulture,Trigonoceps occipitalis,White-headed_Vulture
+white_stork_whisto1,白鹳,White Stork,Ciconia ciconia,White_Stork
+yellow_fronted_canary_yefcan,黄额丝雀,Yellow-fronted Canary,Crithagra mozambica,Yellow-fronted_Canary
+blue_capped_cordonbleu_blccor1,蓝顶蓝饰雀,Blue-capped Cordonbleu,Uraeginthus cyanocephalus,Blue-capped_Cordonbleu
+caspian_plover_casplo1,红胸鸻,Caspian Plover,Anarhynchus asiaticus,Caspian_Plover
+chestnut_bellied_sandgrouse_chbsan,栗腹沙鸡,Chestnut-bellied Sandgrouse,Pterocles exustus,Chestnut-bellied_Sandgrouse
+collared_pratincole_colpra,领燕鸻,Collared Pratincole,Glareola pratincola,Collared_Pratincole
+donaldson_smiths_nightjar_dosnig1,德氏夜鹰,Donaldson Smith's Nightjar,Caprimulgus donaldsoni,Donaldson_Smith's_Nightjar
+eastern_chanting_goshawk_eacgos1,灰歌鹰,Eastern Chanting-Goshawk,Melierax poliopterus,Eastern_Chanting-Goshawk
+eastern_olivaceous_warbler_eaowar1,草绿篱莺,Eastern Olivaceous Warbler,Iduna pallida,Eastern_Olivaceous_Warbler
+lesser_jacana,小雉鸻属,Lesser Jacana,Microparra capensis,Lesser_Jacana
+pink_breasted_lark_piblar3,粉胸歌百灵,Pink-breasted Lark,Calendulauda poecilosterna,Pink-breasted_Lark
+tiny_cisticola_tincis3,小扇尾莺,Tiny Cisticola,Cisticola nana,Tiny_Cisticola
+white_headed_mousebird_whhmou1,白头鼠鸟,White-headed Mousebird,Colius leucocephalus,White-headed_Mousebird
+african_scops_owl_afsowl1,非洲角鸮,African Scops-Owl,Otus senegalensis,African_Scops-Owl
+black_headed_lapwing_blhlap1,非洲麦鸡,Black-headed Lapwing,Vanellus tectus,Black-headed_Lapwing
+chestnut_headed_sparrow_lark_chhspl1,栗头雀百灵,Chestnut-headed Sparrow-Lark,Eremopterix signatus,Chestnut-headed_Sparrow-Lark
+eastern_paradise_whydah,乐园维达雀,Eastern Paradise-Whydah,Vidua paradisaea,Eastern_Paradise-Whydah
+golden_pipit_golpip1,金鹨属,Golden Pipit,Tmetothylacus tenellus,Golden_Pipit
+jamesons_firefinch,红腹火雀,Jameson's Firefinch,Lagonosticta rhodopareia,Jameson's_Firefinch
+somali_ostrich_ostric3,驼鸡,Somali Ostrich,Struthio molybdophanes,Somali_Ostrich
+scaly_chatterer_scacha1,鳞斑鸫鹛,Scaly Chatterer,Argya aylmeri,Scaly_Chatterer
+straw_tailed_whydah_sttwhy1,草尾维达雀,Straw-tailed Whydah,Vidua fischeri,Straw-tailed_Whydah
+vulturine_guineafowl_vulgui1,鹫珠鸡,Vulturine Guineafowl,Acryllium vulturinum,Vulturine_Guineafowl
+african_golden_weaver_afgwea1,非洲金织雀,African Golden-Weaver,Ploceus subaureus,African_Golden-Weaver
+lizard_buzzard_lizbuz1,食蜥𫛭,Lizard Buzzard,Kaupifalco monogrammicus,Lizard_Buzzard
+white_necked_raven,非洲渡鸦,White-necked Raven,Corvus albicollis,White-necked_Raven
+evergreen_forest_warbler,喀麦隆短翅莺,Evergreen-forest Warbler,Bradypterus lopezi,Evergreen-forest_Warbler
+taita_thrush,泰塔鸫,Taita Thrush,Turdus helleri,Taita_Thrush
+african_silverbill,银嘴文鸟,African Silverbill,Euodice cantans,African_Silverbill
+egyptian_vulture,白兀鹫,Egyptian Vulture,Neophron percnopterus,Egyptian_Vulture
+lesser_gray_shrike_legshr2,黑额伯劳,Lesser Gray Shrike,Lanius minor,Lesser_Gray_Shrike
+lesser_spotted_eagle,小乌雕,Lesser Spotted Eagle,Clanga pomarina,Lesser_Spotted_Eagle
+lichtensteins_sandgrouse_licsan1,里氏沙鸡,Lichtenstein's Sandgrouse,Pterocles lichtensteinii,Lichtenstein's_Sandgrouse
+olive_tree_warbler,橄榄篱莺,Olive-tree Warbler,Hippolais olivetorum,Olive-tree_Warbler
+rufous_tailed_scrub_robin_rutscr1,棕薮鸲,Rufous-tailed Scrub-Robin,Cercotrichas galactotes,Rufous-tailed_Scrub-Robin
+common_quail,西鹌鹑,Common Quail,Coturnix coturnix,Common_Quail
+european_honey_buzzard,鹃头蜂鹰,European Honey-buzzard,Pernis apivorus,European_Honey-buzzard
+eurasian_nightjar,欧夜鹰,Eurasian Nightjar,Caprimulgus europaeus,Eurasian_Nightjar
+freckled_nightjar,雀斑夜鹰,Freckled Nightjar,Caprimulgus tristigma,Freckled_Nightjar
+plain_nightjar,纯色夜鹰,Plain Nightjar,Caprimulgus inornatus,Plain_Nightjar
+rameron_pigeon,黄眼鸽,Rameron Pigeon,Columba arquatrix,Rameron_Pigeon
+white_tailed_lark,白尾歌百灵,White-tailed Lark,Mirafra albicauda,White-tailed_Lark
+african_broadbill,非洲阔嘴鸟,African Broadbill,Smithornis capensis,African_Broadbill
+black_faced_rufous_warbler,黑脸棕莺,Black-faced Rufous-Warbler,Bathmocercus rufus,Black-faced_Rufous-Warbler
+equatorial_akalat,杰氏阿卡拉鸲,Equatorial Akalat,Sheppardia aequatorialis,Equatorial_Akalat
+great_blue_turaco,蓝蕉鹃,Great Blue Turaco,Corythaeola cristata,Great_Blue_Turaco
+green_hylia,绿莺,Green Hylia,Hylia prasina,Green_Hylia
+gray_winged_robin_chat,灰翅歌䳭,Gray-winged Robin-Chat,Sheppardia polioptera,Gray-winged_Robin-Chat
+jamesons_wattle_eye,杰氏饰眼鹟,Jameson's Wattle-eye,Platysteira jamesoni,Jameson's_Wattle-eye
+joyful_greenbul,娇绿鸫鹎,Joyful Greenbul,Chlorocichla laetissima,Joyful_Greenbul
+mackinnons_shrike,麦氏伯劳,Mackinnon's Shrike,Lanius mackinnoni,Mackinnon's_Shrike
+mountain_illadopsis,山非洲雅鹛,Mountain Illadopsis,Illadopsis pyrrhoptera,Mountain_Illadopsis
+olive_bellied_sunbird,绿腹花蜜鸟,Olive-bellied Sunbird,Cinnyris chloropygius,Olive-bellied_Sunbird
+petits_cuckooshrike,红腹鹃鵙,Petit's Cuckooshrike,Campephaga petiti,Petit's_Cuckooshrike
+pink_footed_puffback,红腿蓬背鵙,Pink-footed Puffback,Dryoscopus angolensis,Pink-footed_Puffback
+purple_throated_cuckooshrike,紫喉鹃鵙,Purple-throated Cuckooshrike,Campephaga quiscalina,Purple-throated_Cuckooshrike
+red_headed_bluebill,红头蓝嘴雀,Red-headed Bluebill,Spermophaga ruficapilla,Red-headed_Bluebill
+scaly_breasted_illadopsis,白胸非洲雅鹛,Scaly-breasted Illadopsis,Illadopsis albipectus,Scaly-breasted_Illadopsis
+white_breasted_nigrita,白胸黑雀,White-breasted Nigrita,Nigrita fusconotus,White-breasted_Nigrita
+greater_swamp_warbler_grswar2,沼泽苇莺,Greater Swamp Warbler,Acrocephalus rufescens,Greater_Swamp_Warbler
+southern_red_bishop,红寡妇鸟,Southern Red Bishop,Euplectes orix,Southern_Red_Bishop
+white_winged_swamp_warbler_wwswar1,白翅短翅莺,White-winged Swamp Warbler,Bradypterus carpalis,White-winged_Swamp_Warbler
+sedge_warbler,蒲苇莺,Sedge Warbler,Acrocephalus schoenobaenus,Sedge_Warbler
+african_pygmy_goose,厚嘴棉凫,African Pygmy-Goose,Nettapus auritus,African_Pygmy-Goose
+green_tinkerbird_gretin2,绿钟声拟䴕,Green Tinkerbird,Pogoniulus simplex,Green_Tinkerbird
+lesser_crested_tern_lecter2,小凤头燕鸥,Lesser Crested Tern,Thalasseus bengalensis,Lesser_Crested_Tern
+red_throated_twinspot,朱胸斑雀,Red-throated Twinspot,Hypargos niveoguttatus,Red-throated_Twinspot
+scaly_babbler,鳞羽鸫鹛,Scaly Babbler,Turdoides squamulata,Scaly_Babbler
+collared_palm_thrush,晨莺,Collared Palm-Thrush,Cichladusa arquata,Collared_Palm-Thrush
+crab_plover,蟹鸻,Crab-Plover,Dromas ardeola,Crab-Plover
+tibetan_sand_plover_lessap1,青藏沙鸻,Tibetan Sand-Plover,Anarhynchus atrifrons,Tibetan_Sand-Plover
+sooty_gull,白领鸥,Sooty Gull,Ichthyaetus hemprichii,Sooty_Gull
+yellow_billed_shrike,黄嘴鹊鵙,Yellow-billed Shrike,Corvinella corvina,Yellow-billed_Shrike

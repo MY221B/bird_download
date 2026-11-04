@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lesser_swamp_warbler_leswar1",
+    "chinese_name": "细嘴苇莺",
+    "english_name": "Lesser Swamp Warbler",
+    "scientific_name": "Acrocephalus gracilirostris"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lesser_swamp_warbler_leswar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809288/bird-gallery/lesser_swamp_warbler_leswar1/inaturalist/lesser_swamp_warbler_leswar1_1.jpg",
+      "public_id": "bird-gallery/lesser_swamp_warbler_leswar1/inaturalist/lesser_swamp_warbler_leswar1_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 96791,
+      "attribution": {
+        "photographer": "marie_liotard",
+        "photographer_url": "https://www.inaturalist.org/observations/331401930",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marie_liotard (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 331401930,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_swamp_warbler_leswar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809289/bird-gallery/lesser_swamp_warbler_leswar1/inaturalist/lesser_swamp_warbler_leswar1_2.jpg",
+      "public_id": "bird-gallery/lesser_swamp_warbler_leswar1/inaturalist/lesser_swamp_warbler_leswar1_2",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 42387,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/10779629",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10779629,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_swamp_warbler_leswar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809290/bird-gallery/lesser_swamp_warbler_leswar1/inaturalist/lesser_swamp_warbler_leswar1_3.jpg",
+      "public_id": "bird-gallery/lesser_swamp_warbler_leswar1/inaturalist/lesser_swamp_warbler_leswar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72636,
+      "attribution": {
+        "photographer": "jandutoit",
+        "photographer_url": "https://www.inaturalist.org/observations/154673628",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jandutoit (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 154673628,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

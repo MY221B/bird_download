@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "slender_tailed_nightjar_sltnig1",
+    "chinese_name": "细尾夜鹰",
+    "english_name": "Slender-tailed Nightjar",
+    "scientific_name": "Caprimulgus clarus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "slender_tailed_nightjar_sltnig1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809686/bird-gallery/slender_tailed_nightjar_sltnig1/inaturalist/slender_tailed_nightjar_sltnig1_1.jpg",
+      "public_id": "bird-gallery/slender_tailed_nightjar_sltnig1/inaturalist/slender_tailed_nightjar_sltnig1_1",
+      "width": 1024,
+      "height": 557,
+      "format": "jpg",
+      "bytes": 101019,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18675047",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18675047,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_tailed_nightjar_sltnig1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809687/bird-gallery/slender_tailed_nightjar_sltnig1/inaturalist/slender_tailed_nightjar_sltnig1_2.jpg",
+      "public_id": "bird-gallery/slender_tailed_nightjar_sltnig1/inaturalist/slender_tailed_nightjar_sltnig1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90361,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/93079065",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 93079065,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_tailed_nightjar_sltnig1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809688/bird-gallery/slender_tailed_nightjar_sltnig1/inaturalist/slender_tailed_nightjar_sltnig1_3.jpg",
+      "public_id": "bird-gallery/slender_tailed_nightjar_sltnig1/inaturalist/slender_tailed_nightjar_sltnig1_3",
+      "width": 1024,
+      "height": 486,
+      "format": "jpg",
+      "bytes": 75958,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/105226851",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105226851,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

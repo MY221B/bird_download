@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "wire_tailed_swallow_witswa1",
+    "chinese_name": "线尾燕",
+    "english_name": "Wire-tailed Swallow",
+    "scientific_name": "Hirundo smithii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "wire_tailed_swallow_witswa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809454/bird-gallery/wire_tailed_swallow_witswa1/inaturalist/wire_tailed_swallow_witswa1_1.jpg",
+      "public_id": "bird-gallery/wire_tailed_swallow_witswa1/inaturalist/wire_tailed_swallow_witswa1_1",
+      "width": 1024,
+      "height": 578,
+      "format": "jpg",
+      "bytes": 22965,
+      "attribution": {
+        "photographer": "ashokdewangan",
+        "photographer_url": "https://www.inaturalist.org/observations/1504644",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ashokdewangan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 1504644,
+        "note": null
+      }
+    },
+    {
+      "original_file": "wire_tailed_swallow_witswa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809454/bird-gallery/wire_tailed_swallow_witswa1/inaturalist/wire_tailed_swallow_witswa1_2.jpg",
+      "public_id": "bird-gallery/wire_tailed_swallow_witswa1/inaturalist/wire_tailed_swallow_witswa1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50843,
+      "attribution": {
+        "photographer": "dhruvapunde",
+        "photographer_url": "https://www.inaturalist.org/observations/341347176",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dhruvapunde (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 341347176,
+        "note": null
+      }
+    },
+    {
+      "original_file": "wire_tailed_swallow_witswa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809455/bird-gallery/wire_tailed_swallow_witswa1/inaturalist/wire_tailed_swallow_witswa1_3.jpg",
+      "public_id": "bird-gallery/wire_tailed_swallow_witswa1/inaturalist/wire_tailed_swallow_witswa1_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 56645,
+      "attribution": {
+        "photographer": "mikeloomis",
+        "photographer_url": "https://www.inaturalist.org/observations/19356087",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mikeloomis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19356087,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

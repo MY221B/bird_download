@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_and_white_mannikin_bawman1",
+    "chinese_name": "黑白文鸟",
+    "english_name": "Black-and-white Mannikin",
+    "scientific_name": "Spermestes bicolor"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_and_white_mannikin_bawman1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809137/bird-gallery/black_and_white_mannikin_bawman1/inaturalist/black_and_white_mannikin_bawman1_1.jpg",
+      "public_id": "bird-gallery/black_and_white_mannikin_bawman1/inaturalist/black_and_white_mannikin_bawman1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 129021,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/18489945",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18489945,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_and_white_mannikin_bawman1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809138/bird-gallery/black_and_white_mannikin_bawman1/inaturalist/black_and_white_mannikin_bawman1_2.jpg",
+      "public_id": "bird-gallery/black_and_white_mannikin_bawman1/inaturalist/black_and_white_mannikin_bawman1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 113184,
+      "attribution": {
+        "photographer": "charris032",
+        "photographer_url": "https://www.inaturalist.org/observations/44234974",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© charris032 (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 44234974,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_and_white_mannikin_bawman1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809138/bird-gallery/black_and_white_mannikin_bawman1/inaturalist/black_and_white_mannikin_bawman1_3.jpg",
+      "public_id": "bird-gallery/black_and_white_mannikin_bawman1/inaturalist/black_and_white_mannikin_bawman1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 113830,
+      "attribution": {
+        "photographer": "richardadcock",
+        "photographer_url": "https://www.inaturalist.org/observations/11172187",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richardadcock (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11172187,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

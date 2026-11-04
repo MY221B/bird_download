@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "bateleur_batele1",
+    "chinese_name": "短尾雕",
+    "english_name": "Bateleur",
+    "scientific_name": "Terathopius ecaudatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "bateleur_batele1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809140/bird-gallery/bateleur_batele1/inaturalist/bateleur_batele1_1.jpg",
+      "public_id": "bird-gallery/bateleur_batele1/inaturalist/bateleur_batele1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75512,
+      "attribution": {
+        "photographer": "nigelforshaw",
+        "photographer_url": "https://www.inaturalist.org/observations/91415850",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nigelforshaw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 91415850,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bateleur_batele1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809140/bird-gallery/bateleur_batele1/inaturalist/bateleur_batele1_2.jpg",
+      "public_id": "bird-gallery/bateleur_batele1/inaturalist/bateleur_batele1_2",
+      "width": 1024,
+      "height": 547,
+      "format": "jpg",
+      "bytes": 54900,
+      "attribution": {
+        "photographer": "david_barros_cardona",
+        "photographer_url": "https://www.inaturalist.org/observations/146410468",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© david_barros_cardona (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 146410468,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bateleur_batele1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809141/bird-gallery/bateleur_batele1/inaturalist/bateleur_batele1_3.jpg",
+      "public_id": "bird-gallery/bateleur_batele1/inaturalist/bateleur_batele1_3",
+      "width": 870,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68852,
+      "attribution": {
+        "photographer": "jtajax",
+        "photographer_url": "https://www.inaturalist.org/observations/170490933",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jtajax (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 170490933,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

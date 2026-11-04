@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "gray_headed_kingfisher_gyhkin1",
+    "chinese_name": "灰头翡翠",
+    "english_name": "Gray-headed Kingfisher",
+    "scientific_name": "Halcyon leucocephala"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "gray_headed_kingfisher_gyhkin1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809252/bird-gallery/gray_headed_kingfisher_gyhkin1/inaturalist/gray_headed_kingfisher_gyhkin1_1.jpg",
+      "public_id": "bird-gallery/gray_headed_kingfisher_gyhkin1/inaturalist/gray_headed_kingfisher_gyhkin1_1",
+      "width": 831,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 62748,
+      "attribution": {
+        "photographer": "earthknight",
+        "photographer_url": "https://www.inaturalist.org/observations/16623415",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© earthknight (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 16623415,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_headed_kingfisher_gyhkin1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809253/bird-gallery/gray_headed_kingfisher_gyhkin1/inaturalist/gray_headed_kingfisher_gyhkin1_2.jpg",
+      "public_id": "bird-gallery/gray_headed_kingfisher_gyhkin1/inaturalist/gray_headed_kingfisher_gyhkin1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 47430,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7146325",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7146325,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_headed_kingfisher_gyhkin1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809254/bird-gallery/gray_headed_kingfisher_gyhkin1/inaturalist/gray_headed_kingfisher_gyhkin1_3.jpg",
+      "public_id": "bird-gallery/gray_headed_kingfisher_gyhkin1/inaturalist/gray_headed_kingfisher_gyhkin1_3",
+      "width": 1024,
+      "height": 621,
+      "format": "jpg",
+      "bytes": 76847,
+      "attribution": {
+        "photographer": "wimvz",
+        "photographer_url": "https://www.inaturalist.org/observations/66819737",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wimvz (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66819737,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

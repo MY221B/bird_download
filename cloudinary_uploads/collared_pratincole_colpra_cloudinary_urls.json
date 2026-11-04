@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "collared_pratincole_colpra",
+    "chinese_name": "领燕鸻",
+    "english_name": "Collared Pratincole",
+    "scientific_name": "Glareola pratincola"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "collared_pratincole_colpra_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809738/bird-gallery/collared_pratincole_colpra/inaturalist/collared_pratincole_colpra_1.jpg",
+      "public_id": "bird-gallery/collared_pratincole_colpra/inaturalist/collared_pratincole_colpra_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 45451,
+      "attribution": {
+        "photographer": "anna-solisia",
+        "photographer_url": "https://www.inaturalist.org/observations/158190520",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© anna-solisia (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 158190520,
+        "note": null
+      }
+    },
+    {
+      "original_file": "collared_pratincole_colpra_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809739/bird-gallery/collared_pratincole_colpra/inaturalist/collared_pratincole_colpra_2.jpg",
+      "public_id": "bird-gallery/collared_pratincole_colpra/inaturalist/collared_pratincole_colpra_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 103390,
+      "attribution": {
+        "photographer": "jderasmus",
+        "photographer_url": "https://www.inaturalist.org/observations/183858411",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jderasmus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 183858411,
+        "note": null
+      }
+    },
+    {
+      "original_file": "collared_pratincole_colpra_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809739/bird-gallery/collared_pratincole_colpra/inaturalist/collared_pratincole_colpra_3.jpg",
+      "public_id": "bird-gallery/collared_pratincole_colpra/inaturalist/collared_pratincole_colpra_3",
+      "width": 1024,
+      "height": 873,
+      "format": "jpg",
+      "bytes": 91636,
+      "attribution": {
+        "photographer": "joy_tansey",
+        "photographer_url": "https://www.inaturalist.org/observations/108766702",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joy_tansey (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 108766702,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

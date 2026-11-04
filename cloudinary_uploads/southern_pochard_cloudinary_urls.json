@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "southern_pochard",
+    "chinese_name": "灰嘴潜鸭",
+    "english_name": "Southern Pochard",
+    "scientific_name": "Netta erythrophthalma"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "southern_pochard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809623/bird-gallery/southern_pochard/inaturalist/southern_pochard_1.jpg",
+      "public_id": "bird-gallery/southern_pochard/inaturalist/southern_pochard_1",
+      "width": 1024,
+      "height": 729,
+      "format": "jpg",
+      "bytes": 107305,
+      "attribution": {
+        "photographer": "wildlander",
+        "photographer_url": "https://www.inaturalist.org/observations/161811750",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wildlander (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 161811750,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_pochard_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809624/bird-gallery/southern_pochard/inaturalist/southern_pochard_2.jpg",
+      "public_id": "bird-gallery/southern_pochard/inaturalist/southern_pochard_2",
+      "width": 799,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 93172,
+      "attribution": {
+        "photographer": "cliffdorse",
+        "photographer_url": "https://www.inaturalist.org/observations/61069912",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cliffdorse (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 61069912,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_pochard_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809625/bird-gallery/southern_pochard/inaturalist/southern_pochard_3.jpg",
+      "public_id": "bird-gallery/southern_pochard/inaturalist/southern_pochard_3",
+      "width": 1024,
+      "height": 695,
+      "format": "jpg",
+      "bytes": 122574,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/191870812",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191870812,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

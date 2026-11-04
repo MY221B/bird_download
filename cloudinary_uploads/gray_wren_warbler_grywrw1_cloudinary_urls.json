@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "gray_wren_warbler_grywrw1",
+    "chinese_name": "灰拱翅莺",
+    "english_name": "Gray Wren-Warbler",
+    "scientific_name": "Calamonastes simplex"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "gray_wren_warbler_grywrw1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809655/bird-gallery/gray_wren_warbler_grywrw1/inaturalist/gray_wren_warbler_grywrw1_1.jpg",
+      "public_id": "bird-gallery/gray_wren_warbler_grywrw1/inaturalist/gray_wren_warbler_grywrw1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 114062,
+      "attribution": {
+        "photographer": "emeadows",
+        "photographer_url": "https://www.inaturalist.org/observations/350226784",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© emeadows (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 350226784,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_wren_warbler_grywrw1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809656/bird-gallery/gray_wren_warbler_grywrw1/inaturalist/gray_wren_warbler_grywrw1_2.jpg",
+      "public_id": "bird-gallery/gray_wren_warbler_grywrw1/inaturalist/gray_wren_warbler_grywrw1_2",
+      "width": 1024,
+      "height": 749,
+      "format": "jpg",
+      "bytes": 120295,
+      "attribution": {
+        "photographer": "naturalist23338",
+        "photographer_url": "https://www.inaturalist.org/observations/335187643",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 335187643,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_wren_warbler_grywrw1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809657/bird-gallery/gray_wren_warbler_grywrw1/inaturalist/gray_wren_warbler_grywrw1_3.jpg",
+      "public_id": "bird-gallery/gray_wren_warbler_grywrw1/inaturalist/gray_wren_warbler_grywrw1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 54066,
+      "attribution": {
+        "photographer": "tomfeild",
+        "photographer_url": "https://www.inaturalist.org/observations/266181190",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tomfeild (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 266181190,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

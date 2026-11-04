@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "angola_swallow_angswa1",
+    "chinese_name": "安哥拉岩燕",
+    "english_name": "Angola Swallow",
+    "scientific_name": "Hirundo angolensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "angola_swallow_angswa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809542/bird-gallery/angola_swallow_angswa1/inaturalist/angola_swallow_angswa1_1.jpg",
+      "public_id": "bird-gallery/angola_swallow_angswa1/inaturalist/angola_swallow_angswa1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 43700,
+      "attribution": {
+        "photographer": "avid607",
+        "photographer_url": "https://www.inaturalist.org/observations/33645530",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© avid607 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 33645530,
+        "note": null
+      }
+    },
+    {
+      "original_file": "angola_swallow_angswa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809543/bird-gallery/angola_swallow_angswa1/inaturalist/angola_swallow_angswa1_2.jpg",
+      "public_id": "bird-gallery/angola_swallow_angswa1/inaturalist/angola_swallow_angswa1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 54639,
+      "attribution": {
+        "photographer": "william_stephens",
+        "photographer_url": "https://www.inaturalist.org/observations/39839930",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© william_stephens (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 39839930,
+        "note": null
+      }
+    },
+    {
+      "original_file": "angola_swallow_angswa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809543/bird-gallery/angola_swallow_angswa1/inaturalist/angola_swallow_angswa1_3.jpg",
+      "public_id": "bird-gallery/angola_swallow_angswa1/inaturalist/angola_swallow_angswa1_3",
+      "width": 1024,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 57531,
+      "attribution": {
+        "photographer": "naturalist23338",
+        "photographer_url": "https://www.inaturalist.org/observations/336367997",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 336367997,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

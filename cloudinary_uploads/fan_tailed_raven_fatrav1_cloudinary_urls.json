@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "fan_tailed_raven_fatrav1",
+    "chinese_name": "扇尾渡鸦",
+    "english_name": "Fan-tailed Raven",
+    "scientific_name": "Corvus rhipidurus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "fan_tailed_raven_fatrav1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809650/bird-gallery/fan_tailed_raven_fatrav1/inaturalist/fan_tailed_raven_fatrav1_1.jpg",
+      "public_id": "bird-gallery/fan_tailed_raven_fatrav1/inaturalist/fan_tailed_raven_fatrav1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 117758,
+      "attribution": {
+        "photographer": "claudekolwelter",
+        "photographer_url": "https://www.inaturalist.org/observations/94054417",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© claudekolwelter (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 94054417,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fan_tailed_raven_fatrav1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809651/bird-gallery/fan_tailed_raven_fatrav1/inaturalist/fan_tailed_raven_fatrav1_2.jpg",
+      "public_id": "bird-gallery/fan_tailed_raven_fatrav1/inaturalist/fan_tailed_raven_fatrav1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57085,
+      "attribution": {
+        "photographer": "giuseppe_citino",
+        "photographer_url": "https://www.inaturalist.org/observations/396060328",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© giuseppe_citino (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 396060328,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fan_tailed_raven_fatrav1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809652/bird-gallery/fan_tailed_raven_fatrav1/inaturalist/fan_tailed_raven_fatrav1_3.jpg",
+      "public_id": "bird-gallery/fan_tailed_raven_fatrav1/inaturalist/fan_tailed_raven_fatrav1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 39489,
+      "attribution": {
+        "photographer": "jannisg",
+        "photographer_url": "https://www.inaturalist.org/observations/389127847",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jannisg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 389127847,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

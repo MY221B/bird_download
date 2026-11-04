@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_winged_lapwing_blwlap1",
+    "chinese_name": "黑翅麦鸡",
+    "english_name": "Black-winged Lapwing",
+    "scientific_name": "Vanellus melanopterus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_winged_lapwing_blwlap1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809597/bird-gallery/black_winged_lapwing_blwlap1/inaturalist/black_winged_lapwing_blwlap1_1.jpg",
+      "public_id": "bird-gallery/black_winged_lapwing_blwlap1/inaturalist/black_winged_lapwing_blwlap1_1",
+      "width": 1024,
+      "height": 912,
+      "format": "jpg",
+      "bytes": 153227,
+      "attribution": {
+        "photographer": "rob_palmer",
+        "photographer_url": "https://www.inaturalist.org/observations/117955802",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© rob_palmer (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 117955802,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_winged_lapwing_blwlap1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809599/bird-gallery/black_winged_lapwing_blwlap1/inaturalist/black_winged_lapwing_blwlap1_2.jpg",
+      "public_id": "bird-gallery/black_winged_lapwing_blwlap1/inaturalist/black_winged_lapwing_blwlap1_2",
+      "width": 1024,
+      "height": 764,
+      "format": "jpg",
+      "bytes": 121416,
+      "attribution": {
+        "photographer": "blkvulture",
+        "photographer_url": "https://www.inaturalist.org/observations/53535040",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© blkvulture (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 53535040,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_winged_lapwing_blwlap1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809599/bird-gallery/black_winged_lapwing_blwlap1/inaturalist/black_winged_lapwing_blwlap1_3.jpg",
+      "public_id": "bird-gallery/black_winged_lapwing_blwlap1/inaturalist/black_winged_lapwing_blwlap1_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 123887,
+      "attribution": {
+        "photographer": "mikeloomis",
+        "photographer_url": "https://www.inaturalist.org/observations/19225529",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mikeloomis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19225529,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

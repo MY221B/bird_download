@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lesser_jacana",
+    "chinese_name": "小雉鸻属",
+    "english_name": "Lesser Jacana",
+    "scientific_name": "Microparra capensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lesser_jacana_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809752/bird-gallery/lesser_jacana/inaturalist/lesser_jacana_1.jpg",
+      "public_id": "bird-gallery/lesser_jacana/inaturalist/lesser_jacana_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51654,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/197142704",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197142704,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_jacana_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809753/bird-gallery/lesser_jacana/inaturalist/lesser_jacana_2.jpg",
+      "public_id": "bird-gallery/lesser_jacana/inaturalist/lesser_jacana_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 118077,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/224935418",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 224935418,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_jacana_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809754/bird-gallery/lesser_jacana/inaturalist/lesser_jacana_3.jpg",
+      "public_id": "bird-gallery/lesser_jacana/inaturalist/lesser_jacana_3",
+      "width": 1024,
+      "height": 756,
+      "format": "jpg",
+      "bytes": 109959,
+      "attribution": {
+        "photographer": "naturalistcat",
+        "photographer_url": "https://www.inaturalist.org/observations/69311450",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© naturalistcat (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69311450,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

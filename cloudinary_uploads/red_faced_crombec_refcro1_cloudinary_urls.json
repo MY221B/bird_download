@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "red_faced_crombec_refcro1",
+    "chinese_name": "红脸森莺",
+    "english_name": "Red-faced Crombec",
+    "scientific_name": "Sylvietta whytii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "red_faced_crombec_refcro1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809377/bird-gallery/red_faced_crombec_refcro1/inaturalist/red_faced_crombec_refcro1_1.jpg",
+      "public_id": "bird-gallery/red_faced_crombec_refcro1/inaturalist/red_faced_crombec_refcro1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96941,
+      "attribution": {
+        "photographer": "paultavares",
+        "photographer_url": "https://www.inaturalist.org/observations/154808000",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paultavares (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 154808000,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_faced_crombec_refcro1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809379/bird-gallery/red_faced_crombec_refcro1/inaturalist/red_faced_crombec_refcro1_2.jpg",
+      "public_id": "bird-gallery/red_faced_crombec_refcro1/inaturalist/red_faced_crombec_refcro1_2",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 108686,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192002866",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192002866,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_faced_crombec_refcro1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809380/bird-gallery/red_faced_crombec_refcro1/inaturalist/red_faced_crombec_refcro1_3.jpg",
+      "public_id": "bird-gallery/red_faced_crombec_refcro1/inaturalist/red_faced_crombec_refcro1_3",
+      "width": 950,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 119669,
+      "attribution": {
+        "photographer": "jkn",
+        "photographer_url": "https://www.inaturalist.org/observations/46890003",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jkn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 46890003,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

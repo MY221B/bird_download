@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "emerald_spotted_wood_dove_eswdov1",
+    "chinese_name": "绿点森鸠",
+    "english_name": "Emerald-spotted Wood-Dove",
+    "scientific_name": "Turtur chalcospilos"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "emerald_spotted_wood_dove_eswdov1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809200/bird-gallery/emerald_spotted_wood_dove_eswdov1/inaturalist/emerald_spotted_wood_dove_eswdov1_1.jpg",
+      "public_id": "bird-gallery/emerald_spotted_wood_dove_eswdov1/inaturalist/emerald_spotted_wood_dove_eswdov1_1",
+      "width": 1024,
+      "height": 752,
+      "format": "jpg",
+      "bytes": 135110,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/10553438",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10553438,
+        "note": null
+      }
+    },
+    {
+      "original_file": "emerald_spotted_wood_dove_eswdov1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809201/bird-gallery/emerald_spotted_wood_dove_eswdov1/inaturalist/emerald_spotted_wood_dove_eswdov1_2.jpg",
+      "public_id": "bird-gallery/emerald_spotted_wood_dove_eswdov1/inaturalist/emerald_spotted_wood_dove_eswdov1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 88921,
+      "attribution": {
+        "photographer": "ewan15",
+        "photographer_url": "https://www.inaturalist.org/observations/86126881",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ewan15 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 86126881,
+        "note": null
+      }
+    },
+    {
+      "original_file": "emerald_spotted_wood_dove_eswdov1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809202/bird-gallery/emerald_spotted_wood_dove_eswdov1/inaturalist/emerald_spotted_wood_dove_eswdov1_3.jpg",
+      "public_id": "bird-gallery/emerald_spotted_wood_dove_eswdov1/inaturalist/emerald_spotted_wood_dove_eswdov1_3",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 86069,
+      "attribution": {
+        "photographer": "reubenjonker",
+        "photographer_url": "https://www.inaturalist.org/observations/122675010",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© reubenjonker (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 122675010,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

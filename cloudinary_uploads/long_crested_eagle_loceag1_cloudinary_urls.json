@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "long_crested_eagle_loceag1",
+    "chinese_name": "高冠鹰雕",
+    "english_name": "Long-crested Eagle",
+    "scientific_name": "Lophaetus occipitalis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "long_crested_eagle_loceag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809299/bird-gallery/long_crested_eagle_loceag1/inaturalist/long_crested_eagle_loceag1_1.jpg",
+      "public_id": "bird-gallery/long_crested_eagle_loceag1/inaturalist/long_crested_eagle_loceag1_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 35378,
+      "attribution": {
+        "photographer": "sergeyyeliseev",
+        "photographer_url": "https://www.inaturalist.org/observations/106462658",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sergeyyeliseev (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106462658,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_crested_eagle_loceag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809300/bird-gallery/long_crested_eagle_loceag1/inaturalist/long_crested_eagle_loceag1_2.jpg",
+      "public_id": "bird-gallery/long_crested_eagle_loceag1/inaturalist/long_crested_eagle_loceag1_2",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 34740,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/9909939",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9909939,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_crested_eagle_loceag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809301/bird-gallery/long_crested_eagle_loceag1/inaturalist/long_crested_eagle_loceag1_3.jpg",
+      "public_id": "bird-gallery/long_crested_eagle_loceag1/inaturalist/long_crested_eagle_loceag1_3",
+      "width": 1024,
+      "height": 893,
+      "format": "jpg",
+      "bytes": 41927,
+      "attribution": {
+        "photographer": "dejong",
+        "photographer_url": "https://www.inaturalist.org/observations/21484176",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dejong (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 21484176,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

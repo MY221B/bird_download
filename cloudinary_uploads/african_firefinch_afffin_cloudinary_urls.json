@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_firefinch_afffin",
+    "chinese_name": "灰顶火雀",
+    "english_name": "African Firefinch",
+    "scientific_name": "Lagonosticta rubricata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_firefinch_afffin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809474/bird-gallery/african_firefinch_afffin/inaturalist/african_firefinch_afffin_1.jpg",
+      "public_id": "bird-gallery/african_firefinch_afffin/inaturalist/african_firefinch_afffin_1",
+      "width": 881,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 101753,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/11254844",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11254844,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_firefinch_afffin_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809475/bird-gallery/african_firefinch_afffin/inaturalist/african_firefinch_afffin_2.jpg",
+      "public_id": "bird-gallery/african_firefinch_afffin/inaturalist/african_firefinch_afffin_2",
+      "width": 838,
+      "height": 837,
+      "format": "jpg",
+      "bytes": 193993,
+      "attribution": {
+        "photographer": "judyharrison",
+        "photographer_url": "https://www.inaturalist.org/observations/37892231",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© judyharrison (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 37892231,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_firefinch_afffin_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809476/bird-gallery/african_firefinch_afffin/inaturalist/african_firefinch_afffin_3.jpg",
+      "public_id": "bird-gallery/african_firefinch_afffin/inaturalist/african_firefinch_afffin_3",
+      "width": 1024,
+      "height": 723,
+      "format": "jpg",
+      "bytes": 152279,
+      "attribution": {
+        "photographer": "baldcoot",
+        "photographer_url": "https://www.inaturalist.org/observations/345553245",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© baldcoot (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 345553245,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "plain_martin_plamar1",
+    "chinese_name": "褐喉沙燕",
+    "english_name": "Plain Martin",
+    "scientific_name": "Riparia paludicola"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "plain_martin_plamar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809350/bird-gallery/plain_martin_plamar1/inaturalist/plain_martin_plamar1_1.jpg",
+      "public_id": "bird-gallery/plain_martin_plamar1/inaturalist/plain_martin_plamar1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 146893,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/164691730",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 164691730,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_martin_plamar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809351/bird-gallery/plain_martin_plamar1/inaturalist/plain_martin_plamar1_2.jpg",
+      "public_id": "bird-gallery/plain_martin_plamar1/inaturalist/plain_martin_plamar1_2",
+      "width": 1024,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 68315,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/321496327",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 321496327,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_martin_plamar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809352/bird-gallery/plain_martin_plamar1/inaturalist/plain_martin_plamar1_3.jpg",
+      "public_id": "bird-gallery/plain_martin_plamar1/inaturalist/plain_martin_plamar1_3",
+      "width": 1024,
+      "height": 674,
+      "format": "jpg",
+      "bytes": 85339,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/321494269",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 321494269,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

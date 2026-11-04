@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "thrush_nightingale",
+    "chinese_name": "欧歌鸲",
+    "english_name": "Thrush Nightingale",
+    "scientific_name": "Luscinia luscinia"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "thrush_nightingale_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809489/bird-gallery/thrush_nightingale/inaturalist/thrush_nightingale_1.jpg",
+      "public_id": "bird-gallery/thrush_nightingale/inaturalist/thrush_nightingale_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 196176,
+      "attribution": {
+        "photographer": "castillovardarolab",
+        "photographer_url": "https://www.inaturalist.org/observations/150869136",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© castillovardarolab (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 150869136,
+        "note": null
+      }
+    },
+    {
+      "original_file": "thrush_nightingale_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809489/bird-gallery/thrush_nightingale/inaturalist/thrush_nightingale_2.jpg",
+      "public_id": "bird-gallery/thrush_nightingale/inaturalist/thrush_nightingale_2",
+      "width": 1024,
+      "height": 758,
+      "format": "jpg",
+      "bytes": 78630,
+      "attribution": {
+        "photographer": "zveroboy57",
+        "photographer_url": "https://www.inaturalist.org/observations/18534154",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© zveroboy57 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 18534154,
+        "note": null
+      }
+    },
+    {
+      "original_file": "thrush_nightingale_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809490/bird-gallery/thrush_nightingale/inaturalist/thrush_nightingale_3.jpg",
+      "public_id": "bird-gallery/thrush_nightingale/inaturalist/thrush_nightingale_3",
+      "width": 1024,
+      "height": 648,
+      "format": "jpg",
+      "bytes": 57278,
+      "attribution": {
+        "photographer": "gonkem1986",
+        "photographer_url": "https://www.inaturalist.org/observations/169982469",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gonkem1986 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 169982469,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

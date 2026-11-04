@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "northern_white_faced_owl_nwfowl1",
+    "chinese_name": "白脸角鸮",
+    "english_name": "Northern White-faced Owl",
+    "scientific_name": "Ptilopsis leucotis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "northern_white_faced_owl_nwfowl1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809671/bird-gallery/northern_white_faced_owl_nwfowl1/inaturalist/northern_white_faced_owl_nwfowl1_1.jpg",
+      "public_id": "bird-gallery/northern_white_faced_owl_nwfowl1/inaturalist/northern_white_faced_owl_nwfowl1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49858,
+      "attribution": {
+        "photographer": "mourad-harzallah",
+        "photographer_url": "https://www.inaturalist.org/observations/323823429",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© mourad-harzallah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 323823429,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_white_faced_owl_nwfowl1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809672/bird-gallery/northern_white_faced_owl_nwfowl1/inaturalist/northern_white_faced_owl_nwfowl1_2.jpg",
+      "public_id": "bird-gallery/northern_white_faced_owl_nwfowl1/inaturalist/northern_white_faced_owl_nwfowl1_2",
+      "width": 955,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 82228,
+      "attribution": {
+        "photographer": "dylanfain",
+        "photographer_url": "https://www.inaturalist.org/observations/49815601",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dylanfain (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 49815601,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_white_faced_owl_nwfowl1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809673/bird-gallery/northern_white_faced_owl_nwfowl1/inaturalist/northern_white_faced_owl_nwfowl1_3.jpg",
+      "public_id": "bird-gallery/northern_white_faced_owl_nwfowl1/inaturalist/northern_white_faced_owl_nwfowl1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58352,
+      "attribution": {
+        "photographer": "mourad-harzallah",
+        "photographer_url": "https://www.inaturalist.org/observations/323823433",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© mourad-harzallah (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 323823433,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

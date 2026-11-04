@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pink_footed_puffback",
+    "chinese_name": "红腿蓬背鵙",
+    "english_name": "Pink-footed Puffback",
+    "scientific_name": "Dryoscopus angolensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "pink_footed_puffback_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809873/bird-gallery/pink_footed_puffback/inaturalist/pink_footed_puffback_1.jpg",
+      "public_id": "bird-gallery/pink_footed_puffback/inaturalist/pink_footed_puffback_1",
+      "width": 1024,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 160580,
+      "attribution": {
+        "photographer": "naturalist23338",
+        "photographer_url": "https://www.inaturalist.org/observations/336456475",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 336456475,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pink_footed_puffback_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809874/bird-gallery/pink_footed_puffback/inaturalist/pink_footed_puffback_2.jpg",
+      "public_id": "bird-gallery/pink_footed_puffback/inaturalist/pink_footed_puffback_2",
+      "width": 1024,
+      "height": 713,
+      "format": "jpg",
+      "bytes": 107966,
+      "attribution": {
+        "photographer": "dmkidwell",
+        "photographer_url": "https://www.inaturalist.org/observations/91759381",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© dmkidwell (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 91759381,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pink_footed_puffback_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809874/bird-gallery/pink_footed_puffback/inaturalist/pink_footed_puffback_3.jpg",
+      "public_id": "bird-gallery/pink_footed_puffback/inaturalist/pink_footed_puffback_3",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 65521,
+      "attribution": {
+        "photographer": "johnnybirder",
+        "photographer_url": "https://www.inaturalist.org/observations/183992717",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© johnnybirder (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 183992717,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

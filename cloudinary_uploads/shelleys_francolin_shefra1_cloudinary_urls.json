@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "shelleys_francolin_shefra1",
+    "chinese_name": "谢氏鹧鸪",
+    "english_name": "Shelley's Francolin",
+    "scientific_name": "Scleroptila shelleyi"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "shelleys_francolin_shefra1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809395/bird-gallery/shelleys_francolin_shefra1/inaturalist/shelleys_francolin_shefra1_1.jpg",
+      "public_id": "bird-gallery/shelleys_francolin_shefra1/inaturalist/shelleys_francolin_shefra1_1",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 48488,
+      "attribution": {
+        "photographer": "danielcorreia",
+        "photographer_url": "https://www.inaturalist.org/observations/395494173",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© danielcorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 395494173,
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_francolin_shefra1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809396/bird-gallery/shelleys_francolin_shefra1/inaturalist/shelleys_francolin_shefra1_2.jpg",
+      "public_id": "bird-gallery/shelleys_francolin_shefra1/inaturalist/shelleys_francolin_shefra1_2",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 131507,
+      "attribution": {
+        "photographer": "alexsoethoudt",
+        "photographer_url": "https://www.inaturalist.org/observations/149541965",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexsoethoudt (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 149541965,
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_francolin_shefra1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809397/bird-gallery/shelleys_francolin_shefra1/inaturalist/shelleys_francolin_shefra1_3.jpg",
+      "public_id": "bird-gallery/shelleys_francolin_shefra1/inaturalist/shelleys_francolin_shefra1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 163910,
+      "attribution": {
+        "photographer": "lesmor702",
+        "photographer_url": "https://www.inaturalist.org/observations/278097008",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lesmor702 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 278097008,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

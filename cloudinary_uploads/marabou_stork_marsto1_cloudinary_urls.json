@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "marabou_stork_marsto1",
+    "chinese_name": "秃鹳",
+    "english_name": "Marabou Stork",
+    "scientific_name": "Leptoptilos crumenifer"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "marabou_stork_marsto1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809313/bird-gallery/marabou_stork_marsto1/inaturalist/marabou_stork_marsto1_1.jpg",
+      "public_id": "bird-gallery/marabou_stork_marsto1/inaturalist/marabou_stork_marsto1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 126882,
+      "attribution": {
+        "photographer": "rwmeyer",
+        "photographer_url": "https://www.inaturalist.org/observations/360438869",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rwmeyer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 360438869,
+        "note": null
+      }
+    },
+    {
+      "original_file": "marabou_stork_marsto1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809314/bird-gallery/marabou_stork_marsto1/inaturalist/marabou_stork_marsto1_2.jpg",
+      "public_id": "bird-gallery/marabou_stork_marsto1/inaturalist/marabou_stork_marsto1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 37846,
+      "attribution": {
+        "photographer": "joanventura",
+        "photographer_url": "https://www.inaturalist.org/observations/103014449",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joanventura (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103014449,
+        "note": null
+      }
+    },
+    {
+      "original_file": "marabou_stork_marsto1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809315/bird-gallery/marabou_stork_marsto1/inaturalist/marabou_stork_marsto1_3.jpg",
+      "public_id": "bird-gallery/marabou_stork_marsto1/inaturalist/marabou_stork_marsto1_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 56723,
+      "attribution": {
+        "photographer": "antonino1",
+        "photographer_url": "https://www.inaturalist.org/observations/266778054",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© antonino1 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 266778054,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

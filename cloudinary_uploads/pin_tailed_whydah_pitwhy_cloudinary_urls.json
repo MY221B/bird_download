@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pin_tailed_whydah_pitwhy",
+    "chinese_name": "针尾维达雀",
+    "english_name": "Pin-tailed Whydah",
+    "scientific_name": "Vidua macroura"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "pin_tailed_whydah_pitwhy_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809348/bird-gallery/pin_tailed_whydah_pitwhy/inaturalist/pin_tailed_whydah_pitwhy_1.jpg",
+      "public_id": "bird-gallery/pin_tailed_whydah_pitwhy/inaturalist/pin_tailed_whydah_pitwhy_1",
+      "width": 1024,
+      "height": 595,
+      "format": "jpg",
+      "bytes": 34240,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/18958137",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18958137,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pin_tailed_whydah_pitwhy_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809349/bird-gallery/pin_tailed_whydah_pitwhy/inaturalist/pin_tailed_whydah_pitwhy_2.jpg",
+      "public_id": "bird-gallery/pin_tailed_whydah_pitwhy/inaturalist/pin_tailed_whydah_pitwhy_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 41635,
+      "attribution": {
+        "photographer": "steven2802",
+        "photographer_url": "https://www.inaturalist.org/observations/34209096",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© steven2802 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34209096,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pin_tailed_whydah_pitwhy_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809349/bird-gallery/pin_tailed_whydah_pitwhy/inaturalist/pin_tailed_whydah_pitwhy_3.jpg",
+      "public_id": "bird-gallery/pin_tailed_whydah_pitwhy/inaturalist/pin_tailed_whydah_pitwhy_3",
+      "width": 1024,
+      "height": 692,
+      "format": "jpg",
+      "bytes": 40454,
+      "attribution": {
+        "photographer": "uzun",
+        "photographer_url": "https://www.inaturalist.org/observations/241054370",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© uzun (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 241054370,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "rufous_tailed_scrub_robin_rutscr1",
+    "chinese_name": "棕薮鸲",
+    "english_name": "Rufous-tailed Scrub-Robin",
+    "scientific_name": "Cercotrichas galactotes"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "rufous_tailed_scrub_robin_rutscr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809816/bird-gallery/rufous_tailed_scrub_robin_rutscr1/inaturalist/rufous_tailed_scrub_robin_rutscr1_1.jpg",
+      "public_id": "bird-gallery/rufous_tailed_scrub_robin_rutscr1/inaturalist/rufous_tailed_scrub_robin_rutscr1_1",
+      "width": 1024,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 98208,
+      "attribution": {
+        "photographer": "g_kolotin",
+        "photographer_url": "https://www.inaturalist.org/observations/178956129",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© g_kolotin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 178956129,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_tailed_scrub_robin_rutscr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809817/bird-gallery/rufous_tailed_scrub_robin_rutscr1/inaturalist/rufous_tailed_scrub_robin_rutscr1_2.jpg",
+      "public_id": "bird-gallery/rufous_tailed_scrub_robin_rutscr1/inaturalist/rufous_tailed_scrub_robin_rutscr1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 54183,
+      "attribution": {
+        "photographer": "carlosbocos",
+        "photographer_url": "https://www.inaturalist.org/observations/41753331",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© carlosbocos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 41753331,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_tailed_scrub_robin_rutscr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809818/bird-gallery/rufous_tailed_scrub_robin_rutscr1/inaturalist/rufous_tailed_scrub_robin_rutscr1_3.jpg",
+      "public_id": "bird-gallery/rufous_tailed_scrub_robin_rutscr1/inaturalist/rufous_tailed_scrub_robin_rutscr1_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 57846,
+      "attribution": {
+        "photographer": "vvaladares",
+        "photographer_url": "https://www.inaturalist.org/observations/258731856",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vvaladares (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 258731856,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "european_roller_eurrol1",
+    "chinese_name": "蓝胸佛法僧",
+    "english_name": "European Roller",
+    "scientific_name": "Coracias garrulus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "european_roller_eurrol1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809211/bird-gallery/european_roller_eurrol1/inaturalist/european_roller_eurrol1_1.jpg",
+      "public_id": "bird-gallery/european_roller_eurrol1/inaturalist/european_roller_eurrol1_1",
+      "width": 542,
+      "height": 363,
+      "format": "jpg",
+      "bytes": 9263,
+      "attribution": {
+        "photographer": "olicannes",
+        "photographer_url": "https://www.inaturalist.org/observations/22618498",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© olicannes (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 22618498,
+        "note": null
+      }
+    },
+    {
+      "original_file": "european_roller_eurrol1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809212/bird-gallery/european_roller_eurrol1/inaturalist/european_roller_eurrol1_2.jpg",
+      "public_id": "bird-gallery/european_roller_eurrol1/inaturalist/european_roller_eurrol1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72442,
+      "attribution": {
+        "photographer": "petermcintyre",
+        "photographer_url": "https://www.inaturalist.org/observations/158283853",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© petermcintyre (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 158283853,
+        "note": null
+      }
+    },
+    {
+      "original_file": "european_roller_eurrol1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809213/bird-gallery/european_roller_eurrol1/inaturalist/european_roller_eurrol1_3.jpg",
+      "public_id": "bird-gallery/european_roller_eurrol1/inaturalist/european_roller_eurrol1_3",
+      "width": 1024,
+      "height": 658,
+      "format": "jpg",
+      "bytes": 52360,
+      "attribution": {
+        "photographer": "marcosygema",
+        "photographer_url": "https://www.inaturalist.org/observations/269639276",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marcosygema (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 269639276,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

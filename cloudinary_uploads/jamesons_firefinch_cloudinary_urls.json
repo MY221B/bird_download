@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "jamesons_firefinch",
+    "chinese_name": "红腹火雀",
+    "english_name": "Jameson's Firefinch",
+    "scientific_name": "Lagonosticta rhodopareia"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "jamesons_firefinch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809773/bird-gallery/jamesons_firefinch/inaturalist/jamesons_firefinch_1.jpg",
+      "public_id": "bird-gallery/jamesons_firefinch/inaturalist/jamesons_firefinch_1",
+      "width": 700,
+      "height": 571,
+      "format": "jpg",
+      "bytes": 58966,
+      "attribution": {
+        "photographer": "ernestporter",
+        "photographer_url": "https://www.inaturalist.org/observations/10970409",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ernestporter (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10970409,
+        "note": null
+      }
+    },
+    {
+      "original_file": "jamesons_firefinch_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809774/bird-gallery/jamesons_firefinch/inaturalist/jamesons_firefinch_2.jpg",
+      "public_id": "bird-gallery/jamesons_firefinch/inaturalist/jamesons_firefinch_2",
+      "width": 1024,
+      "height": 724,
+      "format": "jpg",
+      "bytes": 84785,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/254534840",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 254534840,
+        "note": null
+      }
+    },
+    {
+      "original_file": "jamesons_firefinch_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809775/bird-gallery/jamesons_firefinch/inaturalist/jamesons_firefinch_3.jpg",
+      "public_id": "bird-gallery/jamesons_firefinch/inaturalist/jamesons_firefinch_3",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 136714,
+      "attribution": {
+        "photographer": "theoutdoorman102",
+        "photographer_url": "https://www.inaturalist.org/observations/291204170",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© theoutdoorman102 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 291204170,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

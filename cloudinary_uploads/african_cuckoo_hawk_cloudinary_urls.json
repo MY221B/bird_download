@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_cuckoo_hawk",
+    "chinese_name": "非洲鹃隼",
+    "english_name": "African Cuckoo-Hawk",
+    "scientific_name": "Aviceda cuculoides"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_cuckoo_hawk_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809553/bird-gallery/african_cuckoo_hawk/inaturalist/african_cuckoo_hawk_1.jpg",
+      "public_id": "bird-gallery/african_cuckoo_hawk/inaturalist/african_cuckoo_hawk_1",
+      "width": 1024,
+      "height": 820,
+      "format": "jpg",
+      "bytes": 102224,
+      "attribution": {
+        "photographer": "heinrichhuman",
+        "photographer_url": "https://www.inaturalist.org/observations/192954393",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© heinrichhuman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192954393,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_cuckoo_hawk_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809554/bird-gallery/african_cuckoo_hawk/inaturalist/african_cuckoo_hawk_2.jpg",
+      "public_id": "bird-gallery/african_cuckoo_hawk/inaturalist/african_cuckoo_hawk_2",
+      "width": 519,
+      "height": 959,
+      "format": "jpg",
+      "bytes": 52835,
+      "attribution": {
+        "photographer": "baldcoot",
+        "photographer_url": "https://www.inaturalist.org/observations/66386011",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© baldcoot (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 66386011,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_cuckoo_hawk_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809555/bird-gallery/african_cuckoo_hawk/inaturalist/african_cuckoo_hawk_3.jpg",
+      "public_id": "bird-gallery/african_cuckoo_hawk/inaturalist/african_cuckoo_hawk_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 127544,
+      "attribution": {
+        "photographer": "deonbirds",
+        "photographer_url": "https://www.inaturalist.org/observations/255900733",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© deonbirds (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255900733,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

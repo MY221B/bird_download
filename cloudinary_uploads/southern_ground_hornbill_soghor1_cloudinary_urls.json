@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "southern_ground_hornbill_soghor1",
+    "chinese_name": "红脸地犀鸟",
+    "english_name": "Southern Ground-Hornbill",
+    "scientific_name": "Bucorvus leadbeateri"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "southern_ground_hornbill_soghor1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809621/bird-gallery/southern_ground_hornbill_soghor1/inaturalist/southern_ground_hornbill_soghor1_1.jpg",
+      "public_id": "bird-gallery/southern_ground_hornbill_soghor1/inaturalist/southern_ground_hornbill_soghor1_1",
+      "width": 1024,
+      "height": 739,
+      "format": "jpg",
+      "bytes": 115623,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/9953257",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9953257,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_ground_hornbill_soghor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809621/bird-gallery/southern_ground_hornbill_soghor1/inaturalist/southern_ground_hornbill_soghor1_2.jpg",
+      "public_id": "bird-gallery/southern_ground_hornbill_soghor1/inaturalist/southern_ground_hornbill_soghor1_2",
+      "width": 966,
+      "height": 718,
+      "format": "jpg",
+      "bytes": 97946,
+      "attribution": {
+        "photographer": "maritzasouthafrica",
+        "photographer_url": "https://www.inaturalist.org/observations/9678911",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maritzasouthafrica (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9678911,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_ground_hornbill_soghor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809622/bird-gallery/southern_ground_hornbill_soghor1/inaturalist/southern_ground_hornbill_soghor1_3.jpg",
+      "public_id": "bird-gallery/southern_ground_hornbill_soghor1/inaturalist/southern_ground_hornbill_soghor1_3",
+      "width": 1024,
+      "height": 644,
+      "format": "jpg",
+      "bytes": 62396,
+      "attribution": {
+        "photographer": "wayneosborn",
+        "photographer_url": "https://www.inaturalist.org/observations/151453765",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wayneosborn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 151453765,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "mouse_colored_penduline_tit_mcptit1",
+    "chinese_name": "灰攀雀",
+    "english_name": "Mouse-colored Penduline-Tit",
+    "scientific_name": "Anthoscopus musculus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "mouse_colored_penduline_tit_mcptit1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809663/bird-gallery/mouse_colored_penduline_tit_mcptit1/inaturalist/mouse_colored_penduline_tit_mcptit1_1.jpg",
+      "public_id": "bird-gallery/mouse_colored_penduline_tit_mcptit1/inaturalist/mouse_colored_penduline_tit_mcptit1_1",
+      "width": 949,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 71870,
+      "attribution": {
+        "photographer": "kenny_well",
+        "photographer_url": "https://www.inaturalist.org/observations/260870203",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kenny_well (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 260870203,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mouse_colored_penduline_tit_mcptit1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809664/bird-gallery/mouse_colored_penduline_tit_mcptit1/inaturalist/mouse_colored_penduline_tit_mcptit1_2.jpg",
+      "public_id": "bird-gallery/mouse_colored_penduline_tit_mcptit1/inaturalist/mouse_colored_penduline_tit_mcptit1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63355,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/256789527",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 256789527,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mouse_colored_penduline_tit_mcptit1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809665/bird-gallery/mouse_colored_penduline_tit_mcptit1/inaturalist/mouse_colored_penduline_tit_mcptit1_3.jpg",
+      "public_id": "bird-gallery/mouse_colored_penduline_tit_mcptit1/inaturalist/mouse_colored_penduline_tit_mcptit1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51126,
+      "attribution": {
+        "photographer": "adrien_jailloux",
+        "photographer_url": "https://www.inaturalist.org/observations/335126012",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© adrien_jailloux (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 335126012,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

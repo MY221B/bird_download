@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "willow_warbler_wlwwar",
+    "chinese_name": "欧柳莺",
+    "english_name": "Willow Warbler",
+    "scientific_name": "Phylloscopus trochilus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "willow_warbler_wlwwar_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809456/bird-gallery/willow_warbler_wlwwar/inaturalist/willow_warbler_wlwwar_1.jpg",
+      "public_id": "bird-gallery/willow_warbler_wlwwar/inaturalist/willow_warbler_wlwwar_1",
+      "width": 1019,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 83793,
+      "attribution": {
+        "photographer": "weecorbie",
+        "photographer_url": "https://www.inaturalist.org/observations/336158060",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© weecorbie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 336158060,
+        "note": null
+      }
+    },
+    {
+      "original_file": "willow_warbler_wlwwar_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809458/bird-gallery/willow_warbler_wlwwar/inaturalist/willow_warbler_wlwwar_2.jpg",
+      "public_id": "bird-gallery/willow_warbler_wlwwar/inaturalist/willow_warbler_wlwwar_2",
+      "width": 943,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 82966,
+      "attribution": {
+        "photographer": "avaitere",
+        "photographer_url": "https://www.inaturalist.org/observations/93349886",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© avaitere (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 93349886,
+        "note": null
+      }
+    },
+    {
+      "original_file": "willow_warbler_wlwwar_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809459/bird-gallery/willow_warbler_wlwwar/inaturalist/willow_warbler_wlwwar_3.jpg",
+      "public_id": "bird-gallery/willow_warbler_wlwwar/inaturalist/willow_warbler_wlwwar_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 52130,
+      "attribution": {
+        "photographer": "ricardo-anapri",
+        "photographer_url": "https://www.inaturalist.org/observations/137732271",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ricardo-anapri (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 137732271,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

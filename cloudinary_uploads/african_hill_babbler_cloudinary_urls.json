@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_hill_babbler",
+    "chinese_name": "非洲雅鹛",
+    "english_name": "African Hill Babbler",
+    "scientific_name": "Sylvia abyssinica"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_hill_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809511/bird-gallery/african_hill_babbler/inaturalist/african_hill_babbler_1.jpg",
+      "public_id": "bird-gallery/african_hill_babbler/inaturalist/african_hill_babbler_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 92032,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/409745793",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 409745793,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_hill_babbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809512/bird-gallery/african_hill_babbler/inaturalist/african_hill_babbler_2.jpg",
+      "public_id": "bird-gallery/african_hill_babbler/inaturalist/african_hill_babbler_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67178,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/250440660",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 250440660,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_hill_babbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809513/bird-gallery/african_hill_babbler/inaturalist/african_hill_babbler_3.jpg",
+      "public_id": "bird-gallery/african_hill_babbler/inaturalist/african_hill_babbler_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 101162,
+      "attribution": {
+        "photographer": "jsterling60",
+        "photographer_url": "https://www.inaturalist.org/observations/339121651",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jsterling60 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 339121651,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "somali_ostrich_ostric3",
+    "chinese_name": "驼鸡",
+    "english_name": "Somali Ostrich",
+    "scientific_name": "Struthio molybdophanes"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "somali_ostrich_ostric3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809789/bird-gallery/somali_ostrich_ostric3/inaturalist/somali_ostrich_ostric3_1.jpg",
+      "public_id": "bird-gallery/somali_ostrich_ostric3/inaturalist/somali_ostrich_ostric3_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96508,
+      "attribution": {
+        "photographer": "minivet",
+        "photographer_url": "https://www.inaturalist.org/observations/68061453",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© minivet (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 68061453,
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_ostrich_ostric3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809790/bird-gallery/somali_ostrich_ostric3/inaturalist/somali_ostrich_ostric3_2.jpg",
+      "public_id": "bird-gallery/somali_ostrich_ostric3/inaturalist/somali_ostrich_ostric3_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 94514,
+      "attribution": {
+        "photographer": "pchunchiu",
+        "photographer_url": "https://www.inaturalist.org/observations/117840731",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© pchunchiu (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 117840731,
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_ostrich_ostric3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809791/bird-gallery/somali_ostrich_ostric3/inaturalist/somali_ostrich_ostric3_3.jpg",
+      "public_id": "bird-gallery/somali_ostrich_ostric3/inaturalist/somali_ostrich_ostric3_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 93948,
+      "attribution": {
+        "photographer": "mathieu_mahamoud-issa",
+        "photographer_url": "https://www.inaturalist.org/observations/197146033",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mathieu_mahamoud-issa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197146033,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

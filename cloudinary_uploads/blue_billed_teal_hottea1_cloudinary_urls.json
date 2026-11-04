@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_billed_teal_hottea1",
+    "chinese_name": "南非鸭",
+    "english_name": "Blue-billed Teal",
+    "scientific_name": "Spatula hottentota"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "blue_billed_teal_hottea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809272/bird-gallery/blue_billed_teal_hottea1/inaturalist/blue_billed_teal_hottea1_1.jpg",
+      "public_id": "bird-gallery/blue_billed_teal_hottea1/inaturalist/blue_billed_teal_hottea1_1",
+      "width": 373,
+      "height": 355,
+      "format": "jpg",
+      "bytes": 7850,
+      "attribution": {
+        "photographer": "szymon_bzoma",
+        "photographer_url": "https://www.inaturalist.org/observations/154665417",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© szymon_bzoma (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 154665417,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_billed_teal_hottea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809272/bird-gallery/blue_billed_teal_hottea1/inaturalist/blue_billed_teal_hottea1_2.jpg",
+      "public_id": "bird-gallery/blue_billed_teal_hottea1/inaturalist/blue_billed_teal_hottea1_2",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 62965,
+      "attribution": {
+        "photographer": "justin_p",
+        "photographer_url": "https://www.inaturalist.org/observations/74832515",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© justin_p (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 74832515,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_billed_teal_hottea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809274/bird-gallery/blue_billed_teal_hottea1/inaturalist/blue_billed_teal_hottea1_3.jpg",
+      "public_id": "bird-gallery/blue_billed_teal_hottea1/inaturalist/blue_billed_teal_hottea1_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 34592,
+      "attribution": {
+        "photographer": "christopherrustay",
+        "photographer_url": "https://www.inaturalist.org/observations/105867395",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© christopherrustay (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105867395,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

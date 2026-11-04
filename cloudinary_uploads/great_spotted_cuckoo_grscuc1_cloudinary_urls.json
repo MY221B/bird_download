@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "great_spotted_cuckoo_grscuc1",
+    "chinese_name": "大斑凤头鹃",
+    "english_name": "Great Spotted Cuckoo",
+    "scientific_name": "Clamator glandarius"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "great_spotted_cuckoo_grscuc1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809609/bird-gallery/great_spotted_cuckoo_grscuc1/inaturalist/great_spotted_cuckoo_grscuc1_1.jpg",
+      "public_id": "bird-gallery/great_spotted_cuckoo_grscuc1/inaturalist/great_spotted_cuckoo_grscuc1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 141271,
+      "attribution": {
+        "photographer": "mmuling",
+        "photographer_url": "https://www.inaturalist.org/observations/344257482",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mmuling (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 344257482,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_spotted_cuckoo_grscuc1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809610/bird-gallery/great_spotted_cuckoo_grscuc1/inaturalist/great_spotted_cuckoo_grscuc1_2.jpg",
+      "public_id": "bird-gallery/great_spotted_cuckoo_grscuc1/inaturalist/great_spotted_cuckoo_grscuc1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 189104,
+      "attribution": {
+        "photographer": "bas2006",
+        "photographer_url": "https://www.inaturalist.org/observations/259787611",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bas2006 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 259787611,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_spotted_cuckoo_grscuc1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809612/bird-gallery/great_spotted_cuckoo_grscuc1/inaturalist/great_spotted_cuckoo_grscuc1_3.jpg",
+      "public_id": "bird-gallery/great_spotted_cuckoo_grscuc1/inaturalist/great_spotted_cuckoo_grscuc1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 56152,
+      "attribution": {
+        "photographer": "johan529",
+        "photographer_url": "https://www.inaturalist.org/observations/269142973",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© johan529 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 269142973,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

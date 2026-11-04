@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "hamerkop_hamerk1",
+    "chinese_name": "锤头鹳",
+    "english_name": "Hamerkop",
+    "scientific_name": "Scopus umbretta"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "hamerkop_hamerk1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809261/bird-gallery/hamerkop_hamerk1/inaturalist/hamerkop_hamerk1_1.jpg",
+      "public_id": "bird-gallery/hamerkop_hamerk1/inaturalist/hamerkop_hamerk1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 56422,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7472103",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7472103,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hamerkop_hamerk1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809262/bird-gallery/hamerkop_hamerk1/inaturalist/hamerkop_hamerk1_2.jpg",
+      "public_id": "bird-gallery/hamerkop_hamerk1/inaturalist/hamerkop_hamerk1_2",
+      "width": 1024,
+      "height": 654,
+      "format": "jpg",
+      "bytes": 115657,
+      "attribution": {
+        "photographer": "vdbergca",
+        "photographer_url": "https://www.inaturalist.org/observations/130496063",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vdbergca (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 130496063,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hamerkop_hamerk1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809263/bird-gallery/hamerkop_hamerk1/inaturalist/hamerkop_hamerk1_3.jpg",
+      "public_id": "bird-gallery/hamerkop_hamerk1/inaturalist/hamerkop_hamerk1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 68064,
+      "attribution": {
+        "photographer": "christiankropf",
+        "photographer_url": "https://www.inaturalist.org/observations/69453860",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© christiankropf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69453860,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

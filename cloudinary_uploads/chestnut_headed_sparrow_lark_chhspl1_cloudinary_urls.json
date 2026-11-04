@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "chestnut_headed_sparrow_lark_chhspl1",
+    "chinese_name": "栗头雀百灵",
+    "english_name": "Chestnut-headed Sparrow-Lark",
+    "scientific_name": "Eremopterix signatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_headed_sparrow_lark_chhspl1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809766/bird-gallery/chestnut_headed_sparrow_lark_chhspl1/inaturalist/chestnut_headed_sparrow_lark_chhspl1_1.jpg",
+      "public_id": "bird-gallery/chestnut_headed_sparrow_lark_chhspl1/inaturalist/chestnut_headed_sparrow_lark_chhspl1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 105242,
+      "attribution": {
+        "photographer": "claudekolwelter",
+        "photographer_url": "https://www.inaturalist.org/observations/97273730",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© claudekolwelter (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 97273730,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_headed_sparrow_lark_chhspl1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809766/bird-gallery/chestnut_headed_sparrow_lark_chhspl1/inaturalist/chestnut_headed_sparrow_lark_chhspl1_2.jpg",
+      "public_id": "bird-gallery/chestnut_headed_sparrow_lark_chhspl1/inaturalist/chestnut_headed_sparrow_lark_chhspl1_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 74796,
+      "attribution": {
+        "photographer": "jafrade",
+        "photographer_url": "https://www.inaturalist.org/observations/324133676",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jafrade (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 324133676,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_headed_sparrow_lark_chhspl1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809767/bird-gallery/chestnut_headed_sparrow_lark_chhspl1/inaturalist/chestnut_headed_sparrow_lark_chhspl1_3.jpg",
+      "public_id": "bird-gallery/chestnut_headed_sparrow_lark_chhspl1/inaturalist/chestnut_headed_sparrow_lark_chhspl1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 71409,
+      "attribution": {
+        "photographer": "birdexplorers",
+        "photographer_url": "https://www.inaturalist.org/observations/146963743",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© birdexplorers (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 146963743,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

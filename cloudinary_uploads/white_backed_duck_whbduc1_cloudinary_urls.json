@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_backed_duck_whbduc1",
+    "chinese_name": "白背鸭",
+    "english_name": "White-backed Duck",
+    "scientific_name": "Thalassornis leuconotus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_backed_duck_whbduc1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809438/bird-gallery/white_backed_duck_whbduc1/inaturalist/white_backed_duck_whbduc1_1.jpg",
+      "public_id": "bird-gallery/white_backed_duck_whbduc1/inaturalist/white_backed_duck_whbduc1_1",
+      "width": 1024,
+      "height": 844,
+      "format": "jpg",
+      "bytes": 85329,
+      "attribution": {
+        "photographer": "drmckenzie",
+        "photographer_url": "https://www.inaturalist.org/observations/196221800",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© drmckenzie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 196221800,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_backed_duck_whbduc1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809439/bird-gallery/white_backed_duck_whbduc1/inaturalist/white_backed_duck_whbduc1_2.jpg",
+      "public_id": "bird-gallery/white_backed_duck_whbduc1/inaturalist/white_backed_duck_whbduc1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96836,
+      "attribution": {
+        "photographer": "bradgray",
+        "photographer_url": "https://www.inaturalist.org/observations/281823554",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bradgray (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 281823554,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_backed_duck_whbduc1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809440/bird-gallery/white_backed_duck_whbduc1/inaturalist/white_backed_duck_whbduc1_3.jpg",
+      "public_id": "bird-gallery/white_backed_duck_whbduc1/inaturalist/white_backed_duck_whbduc1_3",
+      "width": 1024,
+      "height": 759,
+      "format": "jpg",
+      "bytes": 111614,
+      "attribution": {
+        "photographer": "andrewdeacon",
+        "photographer_url": "https://www.inaturalist.org/observations/198979723",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© andrewdeacon (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 198979723,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

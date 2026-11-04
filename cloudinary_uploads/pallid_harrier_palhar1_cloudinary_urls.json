@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pallid_harrier_palhar1",
+    "chinese_name": "草原鹞",
+    "english_name": "Pallid Harrier",
+    "scientific_name": "Circus macrourus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "pallid_harrier_palhar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809339/bird-gallery/pallid_harrier_palhar1/inaturalist/pallid_harrier_palhar1_1.jpg",
+      "public_id": "bird-gallery/pallid_harrier_palhar1/inaturalist/pallid_harrier_palhar1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 18071,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "pallid_harrier_palhar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809341/bird-gallery/pallid_harrier_palhar1/inaturalist/pallid_harrier_palhar1_2.jpg",
+      "public_id": "bird-gallery/pallid_harrier_palhar1/inaturalist/pallid_harrier_palhar1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 55879,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "pallid_harrier_palhar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809341/bird-gallery/pallid_harrier_palhar1/inaturalist/pallid_harrier_palhar1_3.jpg",
+      "public_id": "bird-gallery/pallid_harrier_palhar1/inaturalist/pallid_harrier_palhar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 38577,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

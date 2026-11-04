@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "violet_backed_starling_vibsta2",
+    "chinese_name": "白腹紫椋鸟",
+    "english_name": "Violet-backed Starling",
+    "scientific_name": "Cinnyricinclus leucogaster"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "violet_backed_starling_vibsta2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809424/bird-gallery/violet_backed_starling_vibsta2/inaturalist/violet_backed_starling_vibsta2_1.jpg",
+      "public_id": "bird-gallery/violet_backed_starling_vibsta2/inaturalist/violet_backed_starling_vibsta2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 78208,
+      "attribution": {
+        "photographer": "jaheymans",
+        "photographer_url": "https://www.inaturalist.org/observations/8691149",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jaheymans (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8691149,
+        "note": null
+      }
+    },
+    {
+      "original_file": "violet_backed_starling_vibsta2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809425/bird-gallery/violet_backed_starling_vibsta2/inaturalist/violet_backed_starling_vibsta2_2.jpg",
+      "public_id": "bird-gallery/violet_backed_starling_vibsta2/inaturalist/violet_backed_starling_vibsta2_2",
+      "width": 679,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 108358,
+      "attribution": {
+        "photographer": "jaunnemarelize",
+        "photographer_url": "https://www.inaturalist.org/observations/67715648",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jaunnemarelize (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 67715648,
+        "note": null
+      }
+    },
+    {
+      "original_file": "violet_backed_starling_vibsta2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809426/bird-gallery/violet_backed_starling_vibsta2/inaturalist/violet_backed_starling_vibsta2_3.jpg",
+      "public_id": "bird-gallery/violet_backed_starling_vibsta2/inaturalist/violet_backed_starling_vibsta2_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 103822,
+      "attribution": {
+        "photographer": "franciscorivas",
+        "photographer_url": "https://www.inaturalist.org/observations/220827414",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© franciscorivas (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 220827414,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

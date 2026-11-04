@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "vulturine_guineafowl_vulgui1",
+    "chinese_name": "鹫珠鸡",
+    "english_name": "Vulturine Guineafowl",
+    "scientific_name": "Acryllium vulturinum"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "vulturine_guineafowl_vulgui1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809781/bird-gallery/vulturine_guineafowl_vulgui1/inaturalist/vulturine_guineafowl_vulgui1_1.jpg",
+      "public_id": "bird-gallery/vulturine_guineafowl_vulgui1/inaturalist/vulturine_guineafowl_vulgui1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 125459,
+      "attribution": {
+        "photographer": "joni_overbosch",
+        "photographer_url": "https://www.inaturalist.org/observations/47107112",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joni_overbosch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 47107112,
+        "note": null
+      }
+    },
+    {
+      "original_file": "vulturine_guineafowl_vulgui1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809782/bird-gallery/vulturine_guineafowl_vulgui1/inaturalist/vulturine_guineafowl_vulgui1_2.jpg",
+      "public_id": "bird-gallery/vulturine_guineafowl_vulgui1/inaturalist/vulturine_guineafowl_vulgui1_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 188500,
+      "attribution": {
+        "photographer": "ygurjar",
+        "photographer_url": "https://www.inaturalist.org/observations/53916588",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ygurjar (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 53916588,
+        "note": null
+      }
+    },
+    {
+      "original_file": "vulturine_guineafowl_vulgui1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809784/bird-gallery/vulturine_guineafowl_vulgui1/inaturalist/vulturine_guineafowl_vulgui1_3.jpg",
+      "public_id": "bird-gallery/vulturine_guineafowl_vulgui1/inaturalist/vulturine_guineafowl_vulgui1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 181878,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/145053715",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 145053715,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

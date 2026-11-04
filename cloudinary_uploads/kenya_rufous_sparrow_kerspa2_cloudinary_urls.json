@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "kenya_rufous_sparrow_kerspa2",
+    "chinese_name": "肯亚麻雀",
+    "english_name": "Kenya Rufous Sparrow",
+    "scientific_name": "Passer rufocinctus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "kenya_rufous_sparrow_kerspa2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809281/bird-gallery/kenya_rufous_sparrow_kerspa2/inaturalist/kenya_rufous_sparrow_kerspa2_1.jpg",
+      "public_id": "bird-gallery/kenya_rufous_sparrow_kerspa2/inaturalist/kenya_rufous_sparrow_kerspa2_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 105042,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192520880",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192520880,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kenya_rufous_sparrow_kerspa2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809282/bird-gallery/kenya_rufous_sparrow_kerspa2/inaturalist/kenya_rufous_sparrow_kerspa2_2.jpg",
+      "public_id": "bird-gallery/kenya_rufous_sparrow_kerspa2/inaturalist/kenya_rufous_sparrow_kerspa2_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 70920,
+      "attribution": {
+        "photographer": "thehousebunting",
+        "photographer_url": "https://www.inaturalist.org/observations/205142995",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thehousebunting (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 205142995,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kenya_rufous_sparrow_kerspa2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809283/bird-gallery/kenya_rufous_sparrow_kerspa2/inaturalist/kenya_rufous_sparrow_kerspa2_3.jpg",
+      "public_id": "bird-gallery/kenya_rufous_sparrow_kerspa2/inaturalist/kenya_rufous_sparrow_kerspa2_3",
+      "width": 997,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 138819,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/348070780",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 348070780,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

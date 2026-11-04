@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "bronze_mannikin_broman1",
+    "chinese_name": "铜色文鸟",
+    "english_name": "Bronze Mannikin",
+    "scientific_name": "Spermestes cucullata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "bronze_mannikin_broman1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809158/bird-gallery/bronze_mannikin_broman1/inaturalist/bronze_mannikin_broman1_1.jpg",
+      "public_id": "bird-gallery/bronze_mannikin_broman1/inaturalist/bronze_mannikin_broman1_1",
+      "width": 925,
+      "height": 754,
+      "format": "jpg",
+      "bytes": 150896,
+      "attribution": {
+        "photographer": "sallyslak",
+        "photographer_url": "https://www.inaturalist.org/observations/12574947",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sallyslak (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 12574947,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bronze_mannikin_broman1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809160/bird-gallery/bronze_mannikin_broman1/inaturalist/bronze_mannikin_broman1_2.jpg",
+      "public_id": "bird-gallery/bronze_mannikin_broman1/inaturalist/bronze_mannikin_broman1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50217,
+      "attribution": {
+        "photographer": "jrgale",
+        "photographer_url": "https://www.inaturalist.org/observations/238260680",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jrgale (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 238260680,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bronze_mannikin_broman1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809160/bird-gallery/bronze_mannikin_broman1/inaturalist/bronze_mannikin_broman1_3.jpg",
+      "public_id": "bird-gallery/bronze_mannikin_broman1/inaturalist/bronze_mannikin_broman1_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 95773,
+      "attribution": {
+        "photographer": "moni_r",
+        "photographer_url": "https://www.inaturalist.org/observations/13944288",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© moni_r (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 13944288,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

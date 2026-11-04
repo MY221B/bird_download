@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "montane_nightjar_monnig1",
+    "chinese_name": "灰头夜鹰",
+    "english_name": "Montane Nightjar",
+    "scientific_name": "Caprimulgus poliocephalus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "montane_nightjar_monnig1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809322/bird-gallery/montane_nightjar_monnig1/inaturalist/montane_nightjar_monnig1_1.jpg",
+      "public_id": "bird-gallery/montane_nightjar_monnig1/inaturalist/montane_nightjar_monnig1_1",
+      "width": 533,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72567,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/4493019",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 4493019,
+        "note": null
+      }
+    },
+    {
+      "original_file": "montane_nightjar_monnig1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809323/bird-gallery/montane_nightjar_monnig1/inaturalist/montane_nightjar_monnig1_2.jpg",
+      "public_id": "bird-gallery/montane_nightjar_monnig1/inaturalist/montane_nightjar_monnig1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 81578,
+      "attribution": {
+        "photographer": "ryanvanhuyssteen",
+        "photographer_url": "https://www.inaturalist.org/observations/214947141",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© ryanvanhuyssteen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 214947141,
+        "note": null
+      }
+    },
+    {
+      "original_file": "montane_nightjar_monnig1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809324/bird-gallery/montane_nightjar_monnig1/inaturalist/montane_nightjar_monnig1_3.jpg",
+      "public_id": "bird-gallery/montane_nightjar_monnig1/inaturalist/montane_nightjar_monnig1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 125306,
+      "attribution": {
+        "photographer": "owlice",
+        "photographer_url": "https://www.inaturalist.org/observations/135332374",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© owlice (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 135332374,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

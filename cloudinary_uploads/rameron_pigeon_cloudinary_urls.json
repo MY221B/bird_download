@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "rameron_pigeon",
+    "chinese_name": "黄眼鸽",
+    "english_name": "Rameron Pigeon",
+    "scientific_name": "Columba arquatrix"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "rameron_pigeon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809833/bird-gallery/rameron_pigeon/inaturalist/rameron_pigeon_1.jpg",
+      "public_id": "bird-gallery/rameron_pigeon/inaturalist/rameron_pigeon_1",
+      "width": 893,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 129014,
+      "attribution": {
+        "photographer": "wynand_uys",
+        "photographer_url": "https://www.inaturalist.org/observations/37221879",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© wynand_uys (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 37221879,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rameron_pigeon_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809834/bird-gallery/rameron_pigeon/inaturalist/rameron_pigeon_2.jpg",
+      "public_id": "bird-gallery/rameron_pigeon/inaturalist/rameron_pigeon_2",
+      "width": 1024,
+      "height": 663,
+      "format": "jpg",
+      "bytes": 66422,
+      "attribution": {
+        "photographer": "carmelo_lopez",
+        "photographer_url": "https://www.inaturalist.org/observations/260726",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© carmelo_lopez (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 260726,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rameron_pigeon_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809835/bird-gallery/rameron_pigeon/inaturalist/rameron_pigeon_3.jpg",
+      "public_id": "bird-gallery/rameron_pigeon/inaturalist/rameron_pigeon_3",
+      "width": 607,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 93402,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/143009102",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143009102,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

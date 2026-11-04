@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_lored_babbler_bklbab1",
+    "chinese_name": "黑眼先鸫鹛",
+    "english_name": "Black-lored Babbler",
+    "scientific_name": "Turdoides sharpei"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_lored_babbler_bklbab1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809567/bird-gallery/black_lored_babbler_bklbab1/inaturalist/black_lored_babbler_bklbab1_1.jpg",
+      "public_id": "bird-gallery/black_lored_babbler_bklbab1/inaturalist/black_lored_babbler_bklbab1_1",
+      "width": 663,
+      "height": 1012,
+      "format": "jpg",
+      "bytes": 47505,
+      "attribution": {
+        "photographer": "t0nb0",
+        "photographer_url": "https://www.inaturalist.org/observations/309714604",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© t0nb0 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 309714604,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_lored_babbler_bklbab1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809567/bird-gallery/black_lored_babbler_bklbab1/inaturalist/black_lored_babbler_bklbab1_2.jpg",
+      "public_id": "bird-gallery/black_lored_babbler_bklbab1/inaturalist/black_lored_babbler_bklbab1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 197479,
+      "attribution": {
+        "photographer": "bartwursten",
+        "photographer_url": "https://www.inaturalist.org/observations/40071702",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bartwursten (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 40071702,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_lored_babbler_bklbab1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809568/bird-gallery/black_lored_babbler_bklbab1/inaturalist/black_lored_babbler_bklbab1_3.jpg",
+      "public_id": "bird-gallery/black_lored_babbler_bklbab1/inaturalist/black_lored_babbler_bklbab1_3",
+      "width": 473,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 37672,
+      "attribution": {
+        "photographer": "shivanjay",
+        "photographer_url": "https://www.inaturalist.org/observations/115047183",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shivanjay (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 115047183,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

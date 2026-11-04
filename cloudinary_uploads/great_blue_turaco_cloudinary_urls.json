@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "great_blue_turaco",
+    "chinese_name": "蓝蕉鹃",
+    "english_name": "Great Blue Turaco",
+    "scientific_name": "Corythaeola cristata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "great_blue_turaco_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809848/bird-gallery/great_blue_turaco/inaturalist/great_blue_turaco_1.jpg",
+      "public_id": "bird-gallery/great_blue_turaco/inaturalist/great_blue_turaco_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 129418,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/110160704",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 110160704,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_blue_turaco_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809848/bird-gallery/great_blue_turaco/inaturalist/great_blue_turaco_2.jpg",
+      "public_id": "bird-gallery/great_blue_turaco/inaturalist/great_blue_turaco_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57106,
+      "attribution": {
+        "photographer": "roylesafaris",
+        "photographer_url": "https://www.inaturalist.org/observations/148969181",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© roylesafaris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 148969181,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_blue_turaco_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809849/bird-gallery/great_blue_turaco/inaturalist/great_blue_turaco_3.jpg",
+      "public_id": "bird-gallery/great_blue_turaco/inaturalist/great_blue_turaco_3",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 78026,
+      "attribution": {
+        "photographer": "evanprice",
+        "photographer_url": "https://www.inaturalist.org/observations/20396334",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© evanprice (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 20396334,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_pygmy_goose",
+    "chinese_name": "厚嘴棉凫",
+    "english_name": "African Pygmy-Goose",
+    "scientific_name": "Nettapus auritus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_pygmy_goose_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809896/bird-gallery/african_pygmy_goose/inaturalist/african_pygmy_goose_1.jpg",
+      "public_id": "bird-gallery/african_pygmy_goose/inaturalist/african_pygmy_goose_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76622,
+      "attribution": {
+        "photographer": "gego",
+        "photographer_url": "https://www.inaturalist.org/observations/71289337",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gego (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 71289337,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_pygmy_goose_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809897/bird-gallery/african_pygmy_goose/inaturalist/african_pygmy_goose_2.jpg",
+      "public_id": "bird-gallery/african_pygmy_goose/inaturalist/african_pygmy_goose_2",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 88639,
+      "attribution": {
+        "photographer": "kdbishop69",
+        "photographer_url": "https://www.inaturalist.org/observations/85876007",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kdbishop69 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 85876007,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_pygmy_goose_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809897/bird-gallery/african_pygmy_goose/inaturalist/african_pygmy_goose_3.jpg",
+      "public_id": "bird-gallery/african_pygmy_goose/inaturalist/african_pygmy_goose_3",
+      "width": 1024,
+      "height": 728,
+      "format": "jpg",
+      "bytes": 65142,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/25930826",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 25930826,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

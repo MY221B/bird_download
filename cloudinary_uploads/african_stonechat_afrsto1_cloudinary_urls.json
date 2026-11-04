@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_stonechat_afrsto1",
+    "chinese_name": "黑喉鸲",
+    "english_name": "African Stonechat",
+    "scientific_name": "Saxicola torquatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_stonechat_afrsto1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809514/bird-gallery/african_stonechat_afrsto1/inaturalist/african_stonechat_afrsto1_1.jpg",
+      "public_id": "bird-gallery/african_stonechat_afrsto1/inaturalist/african_stonechat_afrsto1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49916,
+      "attribution": {
+        "photographer": "williamdomenge9",
+        "photographer_url": "https://www.inaturalist.org/observations/253445987",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© williamdomenge9 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 253445987,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_stonechat_afrsto1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809515/bird-gallery/african_stonechat_afrsto1/inaturalist/african_stonechat_afrsto1_2.jpg",
+      "public_id": "bird-gallery/african_stonechat_afrsto1/inaturalist/african_stonechat_afrsto1_2",
+      "width": 1024,
+      "height": 722,
+      "format": "jpg",
+      "bytes": 73173,
+      "attribution": {
+        "photographer": "natakite",
+        "photographer_url": "https://www.inaturalist.org/observations/262392717",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© natakite (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 262392717,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_stonechat_afrsto1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809516/bird-gallery/african_stonechat_afrsto1/inaturalist/african_stonechat_afrsto1_3.jpg",
+      "public_id": "bird-gallery/african_stonechat_afrsto1/inaturalist/african_stonechat_afrsto1_3",
+      "width": 1024,
+      "height": 649,
+      "format": "jpg",
+      "bytes": 57905,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/157536929",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 157536929,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

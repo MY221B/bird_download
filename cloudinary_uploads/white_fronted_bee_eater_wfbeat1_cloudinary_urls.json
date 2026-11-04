@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_fronted_bee_eater_wfbeat1",
+    "chinese_name": "白额蜂虎",
+    "english_name": "White-fronted Bee-eater",
+    "scientific_name": "Merops bullockoides"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_fronted_bee_eater_wfbeat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809593/bird-gallery/white_fronted_bee_eater_wfbeat1/inaturalist/white_fronted_bee_eater_wfbeat1_1.jpg",
+      "public_id": "bird-gallery/white_fronted_bee_eater_wfbeat1/inaturalist/white_fronted_bee_eater_wfbeat1_1",
+      "width": 1024,
+      "height": 724,
+      "format": "jpg",
+      "bytes": 69050,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/20483887",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20483887,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_bee_eater_wfbeat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809593/bird-gallery/white_fronted_bee_eater_wfbeat1/inaturalist/white_fronted_bee_eater_wfbeat1_2.jpg",
+      "public_id": "bird-gallery/white_fronted_bee_eater_wfbeat1/inaturalist/white_fronted_bee_eater_wfbeat1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67071,
+      "attribution": {
+        "photographer": "martingrimm",
+        "photographer_url": "https://www.inaturalist.org/observations/8640572",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© martingrimm (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8640572,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_bee_eater_wfbeat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809594/bird-gallery/white_fronted_bee_eater_wfbeat1/inaturalist/white_fronted_bee_eater_wfbeat1_3.jpg",
+      "public_id": "bird-gallery/white_fronted_bee_eater_wfbeat1/inaturalist/white_fronted_bee_eater_wfbeat1_3",
+      "width": 1024,
+      "height": 580,
+      "format": "jpg",
+      "bytes": 69981,
+      "attribution": {
+        "photographer": "brewmaster",
+        "photographer_url": "https://www.inaturalist.org/observations/259914502",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© brewmaster (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 259914502,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_faced_whistling_duck_wfwduc1",
+    "chinese_name": "白脸树鸭",
+    "english_name": "White-faced Whistling-Duck",
+    "scientific_name": "Dendrocygna viduata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_faced_whistling_duck_wfwduc1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809435/bird-gallery/white_faced_whistling_duck_wfwduc1/inaturalist/white_faced_whistling_duck_wfwduc1_1.jpg",
+      "public_id": "bird-gallery/white_faced_whistling_duck_wfwduc1/inaturalist/white_faced_whistling_duck_wfwduc1_1",
+      "width": 1024,
+      "height": 670,
+      "format": "jpg",
+      "bytes": 117959,
+      "attribution": {
+        "photographer": "terrapinjoe",
+        "photographer_url": "https://www.inaturalist.org/observations/3988031",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© terrapinjoe (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 3988031,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_faced_whistling_duck_wfwduc1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809436/bird-gallery/white_faced_whistling_duck_wfwduc1/inaturalist/white_faced_whistling_duck_wfwduc1_2.jpg",
+      "public_id": "bird-gallery/white_faced_whistling_duck_wfwduc1/inaturalist/white_faced_whistling_duck_wfwduc1_2",
+      "width": 1024,
+      "height": 540,
+      "format": "jpg",
+      "bytes": 105375,
+      "attribution": {
+        "photographer": "dotun55",
+        "photographer_url": "https://www.inaturalist.org/observations/37066461",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dotun55 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 37066461,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_faced_whistling_duck_wfwduc1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809437/bird-gallery/white_faced_whistling_duck_wfwduc1/inaturalist/white_faced_whistling_duck_wfwduc1_3.jpg",
+      "public_id": "bird-gallery/white_faced_whistling_duck_wfwduc1/inaturalist/white_faced_whistling_duck_wfwduc1_3",
+      "width": 900,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 75969,
+      "attribution": {
+        "photographer": "lilatomazelli",
+        "photographer_url": "https://www.inaturalist.org/observations/139421149",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lilatomazelli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 139421149,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

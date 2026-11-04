@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lesser_spotted_eagle",
+    "chinese_name": "小乌雕",
+    "english_name": "Lesser Spotted Eagle",
+    "scientific_name": "Clanga pomarina"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lesser_spotted_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809809/bird-gallery/lesser_spotted_eagle/inaturalist/lesser_spotted_eagle_1.jpg",
+      "public_id": "bird-gallery/lesser_spotted_eagle/inaturalist/lesser_spotted_eagle_1",
+      "width": 878,
+      "height": 494,
+      "format": "jpg",
+      "bytes": 7029,
+      "attribution": {
+        "photographer": "qwenteen",
+        "photographer_url": "https://www.inaturalist.org/observations/267077706",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© qwenteen (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 267077706,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_spotted_eagle_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809810/bird-gallery/lesser_spotted_eagle/inaturalist/lesser_spotted_eagle_2.jpg",
+      "public_id": "bird-gallery/lesser_spotted_eagle/inaturalist/lesser_spotted_eagle_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 54424,
+      "attribution": {
+        "photographer": "kurilinms",
+        "photographer_url": "https://www.inaturalist.org/observations/111541388",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kurilinms (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 111541388,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_spotted_eagle_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809810/bird-gallery/lesser_spotted_eagle/inaturalist/lesser_spotted_eagle_3.jpg",
+      "public_id": "bird-gallery/lesser_spotted_eagle/inaturalist/lesser_spotted_eagle_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 109122,
+      "attribution": {
+        "photographer": "zametnya",
+        "photographer_url": "https://www.inaturalist.org/observations/172988389",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© zametnya (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 172988389,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

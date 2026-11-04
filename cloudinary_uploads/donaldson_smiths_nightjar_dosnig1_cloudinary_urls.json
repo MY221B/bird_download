@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "donaldson_smiths_nightjar_dosnig1",
+    "chinese_name": "德氏夜鹰",
+    "english_name": "Donaldson Smith's Nightjar",
+    "scientific_name": "Caprimulgus donaldsoni"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "donaldson_smiths_nightjar_dosnig1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809740/bird-gallery/donaldson_smiths_nightjar_dosnig1/inaturalist/donaldson_smiths_nightjar_dosnig1_1.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_nightjar_dosnig1/inaturalist/donaldson_smiths_nightjar_dosnig1_1",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 91618,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/39284610",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39284610,
+        "note": null
+      }
+    },
+    {
+      "original_file": "donaldson_smiths_nightjar_dosnig1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809741/bird-gallery/donaldson_smiths_nightjar_dosnig1/inaturalist/donaldson_smiths_nightjar_dosnig1_2.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_nightjar_dosnig1/inaturalist/donaldson_smiths_nightjar_dosnig1_2",
+      "width": 640,
+      "height": 360,
+      "format": "jpg",
+      "bytes": 23387,
+      "attribution": {
+        "photographer": "christopherrustay",
+        "photographer_url": "https://www.inaturalist.org/observations/105595409",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© christopherrustay (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105595409,
+        "note": null
+      }
+    },
+    {
+      "original_file": "donaldson_smiths_nightjar_dosnig1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809742/bird-gallery/donaldson_smiths_nightjar_dosnig1/inaturalist/donaldson_smiths_nightjar_dosnig1_3.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_nightjar_dosnig1/inaturalist/donaldson_smiths_nightjar_dosnig1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 85210,
+      "attribution": {
+        "photographer": "joni_overbosch",
+        "photographer_url": "https://www.inaturalist.org/observations/56747184",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joni_overbosch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 56747184,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

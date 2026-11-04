@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "helmeted_guineafowl_helgui",
+    "chinese_name": "珠鸡",
+    "english_name": "Helmeted Guineafowl",
+    "scientific_name": "Numida meleagris"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "helmeted_guineafowl_helgui_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809264/bird-gallery/helmeted_guineafowl_helgui/inaturalist/helmeted_guineafowl_helgui_1.jpg",
+      "public_id": "bird-gallery/helmeted_guineafowl_helgui/inaturalist/helmeted_guineafowl_helgui_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 198328,
+      "attribution": {
+        "photographer": "colleensilvermine",
+        "photographer_url": "https://www.inaturalist.org/observations/103972001",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colleensilvermine (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103972001,
+        "note": null
+      }
+    },
+    {
+      "original_file": "helmeted_guineafowl_helgui_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809265/bird-gallery/helmeted_guineafowl_helgui/inaturalist/helmeted_guineafowl_helgui_2.jpg",
+      "public_id": "bird-gallery/helmeted_guineafowl_helgui/inaturalist/helmeted_guineafowl_helgui_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 145363,
+      "attribution": {
+        "photographer": "bastiaan",
+        "photographer_url": "https://www.inaturalist.org/observations/18808216",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bastiaan (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18808216,
+        "note": null
+      }
+    },
+    {
+      "original_file": "helmeted_guineafowl_helgui_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809265/bird-gallery/helmeted_guineafowl_helgui/inaturalist/helmeted_guineafowl_helgui_3.jpg",
+      "public_id": "bird-gallery/helmeted_guineafowl_helgui/inaturalist/helmeted_guineafowl_helgui_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 142520,
+      "attribution": {
+        "photographer": "stuartshearer",
+        "photographer_url": "https://www.inaturalist.org/observations/9170531",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stuartshearer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9170531,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

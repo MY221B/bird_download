@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "jacksons_hornbill_jachor1",
+    "chinese_name": "杰氏弯嘴犀鸟",
+    "english_name": "Jackson's Hornbill",
+    "scientific_name": "Tockus jacksoni"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "jacksons_hornbill_jachor1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809641/bird-gallery/jacksons_hornbill_jachor1/inaturalist/jacksons_hornbill_jachor1_1.jpg",
+      "public_id": "bird-gallery/jacksons_hornbill_jachor1/inaturalist/jacksons_hornbill_jachor1_1",
+      "width": 1024,
+      "height": 622,
+      "format": "jpg",
+      "bytes": 59864,
+      "attribution": {
+        "photographer": "premchand",
+        "photographer_url": "https://www.inaturalist.org/observations/82957259",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© premchand (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 82957259,
+        "note": null
+      }
+    },
+    {
+      "original_file": "jacksons_hornbill_jachor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809642/bird-gallery/jacksons_hornbill_jachor1/inaturalist/jacksons_hornbill_jachor1_2.jpg",
+      "public_id": "bird-gallery/jacksons_hornbill_jachor1/inaturalist/jacksons_hornbill_jachor1_2",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 103045,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/50807800",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 50807800,
+        "note": null
+      }
+    },
+    {
+      "original_file": "jacksons_hornbill_jachor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809643/bird-gallery/jacksons_hornbill_jachor1/inaturalist/jacksons_hornbill_jachor1_3.jpg",
+      "public_id": "bird-gallery/jacksons_hornbill_jachor1/inaturalist/jacksons_hornbill_jachor1_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 84587,
+      "attribution": {
+        "photographer": "josvrolijk",
+        "photographer_url": "https://www.inaturalist.org/observations/69454134",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© josvrolijk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69454134,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

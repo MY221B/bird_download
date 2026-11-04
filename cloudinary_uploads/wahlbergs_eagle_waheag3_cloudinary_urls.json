@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "wahlbergs_eagle_waheag3",
+    "chinese_name": "细嘴雕",
+    "english_name": "Wahlberg's Eagle",
+    "scientific_name": "Hieraaetus wahlbergi"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "wahlbergs_eagle_waheag3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809719/bird-gallery/wahlbergs_eagle_waheag3/inaturalist/wahlbergs_eagle_waheag3_1.jpg",
+      "public_id": "bird-gallery/wahlbergs_eagle_waheag3/inaturalist/wahlbergs_eagle_waheag3_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 38749,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/9560862",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9560862,
+        "note": null
+      }
+    },
+    {
+      "original_file": "wahlbergs_eagle_waheag3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809720/bird-gallery/wahlbergs_eagle_waheag3/inaturalist/wahlbergs_eagle_waheag3_2.jpg",
+      "public_id": "bird-gallery/wahlbergs_eagle_waheag3/inaturalist/wahlbergs_eagle_waheag3_2",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 41493,
+      "attribution": {
+        "photographer": "beavisnail",
+        "photographer_url": "https://www.inaturalist.org/observations/45930865",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© beavisnail (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 45930865,
+        "note": null
+      }
+    },
+    {
+      "original_file": "wahlbergs_eagle_waheag3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809721/bird-gallery/wahlbergs_eagle_waheag3/inaturalist/wahlbergs_eagle_waheag3_3.jpg",
+      "public_id": "bird-gallery/wahlbergs_eagle_waheag3/inaturalist/wahlbergs_eagle_waheag3_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 47367,
+      "attribution": {
+        "photographer": "twillrichardson",
+        "photographer_url": "https://www.inaturalist.org/observations/337309383",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© twillrichardson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337309383,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

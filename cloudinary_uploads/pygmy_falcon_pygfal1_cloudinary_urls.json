@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pygmy_falcon_pygfal1",
+    "chinese_name": "非洲侏隼",
+    "english_name": "Pygmy Falcon",
+    "scientific_name": "Polihierax semitorquatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "pygmy_falcon_pygfal1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809674/bird-gallery/pygmy_falcon_pygfal1/inaturalist/pygmy_falcon_pygfal1_1.jpg",
+      "public_id": "bird-gallery/pygmy_falcon_pygfal1/inaturalist/pygmy_falcon_pygfal1_1",
+      "width": 1024,
+      "height": 771,
+      "format": "jpg",
+      "bytes": 60897,
+      "attribution": {
+        "photographer": "gigilaidler",
+        "photographer_url": "https://www.inaturalist.org/observations/142228605",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gigilaidler (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 142228605,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pygmy_falcon_pygfal1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809675/bird-gallery/pygmy_falcon_pygfal1/inaturalist/pygmy_falcon_pygfal1_2.jpg",
+      "public_id": "bird-gallery/pygmy_falcon_pygfal1/inaturalist/pygmy_falcon_pygfal1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 98168,
+      "attribution": {
+        "photographer": "janaohrner",
+        "photographer_url": "https://www.inaturalist.org/observations/13549611",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© janaohrner (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 13549611,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pygmy_falcon_pygfal1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809675/bird-gallery/pygmy_falcon_pygfal1/inaturalist/pygmy_falcon_pygfal1_3.jpg",
+      "public_id": "bird-gallery/pygmy_falcon_pygfal1/inaturalist/pygmy_falcon_pygfal1_3",
+      "width": 1002,
+      "height": 752,
+      "format": "jpg",
+      "bytes": 29846,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/253927900",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 253927900,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_yellow_warbler_afywar1",
+    "chinese_name": "黄捕蝇莺",
+    "english_name": "African Yellow-Warbler",
+    "scientific_name": "Iduna natalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_yellow_warbler_afywar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809126/bird-gallery/african_yellow_warbler_afywar1/inaturalist/african_yellow_warbler_afywar1_1.jpg",
+      "public_id": "bird-gallery/african_yellow_warbler_afywar1/inaturalist/african_yellow_warbler_afywar1_1",
+      "width": 925,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 127159,
+      "attribution": {
+        "photographer": "mattf1996",
+        "photographer_url": "https://www.inaturalist.org/observations/67352538",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© mattf1996 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 67352538,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_yellow_warbler_afywar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809127/bird-gallery/african_yellow_warbler_afywar1/inaturalist/african_yellow_warbler_afywar1_2.jpg",
+      "public_id": "bird-gallery/african_yellow_warbler_afywar1/inaturalist/african_yellow_warbler_afywar1_2",
+      "width": 1024,
+      "height": 743,
+      "format": "jpg",
+      "bytes": 104024,
+      "attribution": {
+        "photographer": "jandutoit",
+        "photographer_url": "https://www.inaturalist.org/observations/120495810",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jandutoit (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 120495810,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_yellow_warbler_afywar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809128/bird-gallery/african_yellow_warbler_afywar1/inaturalist/african_yellow_warbler_afywar1_3.jpg",
+      "public_id": "bird-gallery/african_yellow_warbler_afywar1/inaturalist/african_yellow_warbler_afywar1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 31598,
+      "attribution": {
+        "photographer": "hhodgson",
+        "photographer_url": "https://www.inaturalist.org/observations/299008304",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hhodgson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 299008304,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

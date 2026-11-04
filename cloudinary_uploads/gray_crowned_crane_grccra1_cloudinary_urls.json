@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "gray_crowned_crane_grccra1",
+    "chinese_name": "灰冠鹤",
+    "english_name": "Gray Crowned-Crane",
+    "scientific_name": "Balearica regulorum"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "gray_crowned_crane_grccra1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809240/bird-gallery/gray_crowned_crane_grccra1/inaturalist/gray_crowned_crane_grccra1_1.jpg",
+      "public_id": "bird-gallery/gray_crowned_crane_grccra1/inaturalist/gray_crowned_crane_grccra1_1",
+      "width": 792,
+      "height": 613,
+      "format": "jpg",
+      "bytes": 132949,
+      "attribution": {
+        "photographer": "billpranty",
+        "photographer_url": "https://www.inaturalist.org/observations/79646738",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© billpranty (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 79646738,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_crowned_crane_grccra1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809241/bird-gallery/gray_crowned_crane_grccra1/inaturalist/gray_crowned_crane_grccra1_2.jpg",
+      "public_id": "bird-gallery/gray_crowned_crane_grccra1/inaturalist/gray_crowned_crane_grccra1_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 149423,
+      "attribution": {
+        "photographer": "riviwick",
+        "photographer_url": "https://www.inaturalist.org/observations/97749306",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© riviwick (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 97749306,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_crowned_crane_grccra1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809241/bird-gallery/gray_crowned_crane_grccra1/inaturalist/gray_crowned_crane_grccra1_3.jpg",
+      "public_id": "bird-gallery/gray_crowned_crane_grccra1/inaturalist/gray_crowned_crane_grccra1_3",
+      "width": 1024,
+      "height": 787,
+      "format": "jpg",
+      "bytes": 88555,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/16749217",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 16749217,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

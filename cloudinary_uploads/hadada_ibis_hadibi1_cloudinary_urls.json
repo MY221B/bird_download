@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "hadada_ibis_hadibi1",
+    "chinese_name": "凤头鹮",
+    "english_name": "Hadada Ibis",
+    "scientific_name": "Bostrychia hagedash"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "hadada_ibis_hadibi1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809258/bird-gallery/hadada_ibis_hadibi1/inaturalist/hadada_ibis_hadibi1_1.jpg",
+      "public_id": "bird-gallery/hadada_ibis_hadibi1/inaturalist/hadada_ibis_hadibi1_1",
+      "width": 854,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 23530,
+      "attribution": {
+        "photographer": "markheystek",
+        "photographer_url": "https://www.inaturalist.org/observations/61706520",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© markheystek (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 61706520,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hadada_ibis_hadibi1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809259/bird-gallery/hadada_ibis_hadibi1/inaturalist/hadada_ibis_hadibi1_2.jpg",
+      "public_id": "bird-gallery/hadada_ibis_hadibi1/inaturalist/hadada_ibis_hadibi1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69368,
+      "attribution": {
+        "photographer": "eugene_hahndiek",
+        "photographer_url": "https://www.inaturalist.org/observations/196746410",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© eugene_hahndiek (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 196746410,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hadada_ibis_hadibi1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809260/bird-gallery/hadada_ibis_hadibi1/inaturalist/hadada_ibis_hadibi1_3.jpg",
+      "public_id": "bird-gallery/hadada_ibis_hadibi1/inaturalist/hadada_ibis_hadibi1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 169350,
+      "attribution": {
+        "photographer": "nomfu",
+        "photographer_url": "https://www.inaturalist.org/observations/80285895",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nomfu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 80285895,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

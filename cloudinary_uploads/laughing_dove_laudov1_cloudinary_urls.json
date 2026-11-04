@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "laughing_dove_laudov1",
+    "chinese_name": "棕斑鸠",
+    "english_name": "Laughing Dove",
+    "scientific_name": "Spilopelia senegalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "laughing_dove_laudov1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809588/bird-gallery/laughing_dove_laudov1/inaturalist/laughing_dove_laudov1_1.jpg",
+      "public_id": "bird-gallery/laughing_dove_laudov1/inaturalist/laughing_dove_laudov1_1",
+      "width": 1024,
+      "height": 896,
+      "format": "jpg",
+      "bytes": 85233,
+      "attribution": {
+        "photographer": "stevem4560",
+        "photographer_url": "https://www.inaturalist.org/observations/348930723",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© stevem4560 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 348930723,
+        "note": null
+      }
+    },
+    {
+      "original_file": "laughing_dove_laudov1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809589/bird-gallery/laughing_dove_laudov1/inaturalist/laughing_dove_laudov1_2.jpg",
+      "public_id": "bird-gallery/laughing_dove_laudov1/inaturalist/laughing_dove_laudov1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 72689,
+      "attribution": {
+        "photographer": "sambiology",
+        "photographer_url": "https://www.inaturalist.org/observations/202446413",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© sambiology (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 202446413,
+        "note": null
+      }
+    },
+    {
+      "original_file": "laughing_dove_laudov1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809590/bird-gallery/laughing_dove_laudov1/inaturalist/laughing_dove_laudov1_3.jpg",
+      "public_id": "bird-gallery/laughing_dove_laudov1/inaturalist/laughing_dove_laudov1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 94837,
+      "attribution": {
+        "photographer": "dulmaa",
+        "photographer_url": "https://www.inaturalist.org/observations/140124105",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dulmaa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 140124105,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

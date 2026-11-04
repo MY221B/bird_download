@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blacksmith_lapwing_blaplo1",
+    "chinese_name": "黑背麦鸡",
+    "english_name": "Blacksmith Lapwing",
+    "scientific_name": "Vanellus armatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "blacksmith_lapwing_blaplo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809148/bird-gallery/blacksmith_lapwing_blaplo1/inaturalist/blacksmith_lapwing_blaplo1_1.jpg",
+      "public_id": "bird-gallery/blacksmith_lapwing_blaplo1/inaturalist/blacksmith_lapwing_blaplo1_1",
+      "width": 911,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 149680,
+      "attribution": {
+        "photographer": "linkie",
+        "photographer_url": "https://www.inaturalist.org/observations/77593344",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© linkie (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 77593344,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blacksmith_lapwing_blaplo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809149/bird-gallery/blacksmith_lapwing_blaplo1/inaturalist/blacksmith_lapwing_blaplo1_2.jpg",
+      "public_id": "bird-gallery/blacksmith_lapwing_blaplo1/inaturalist/blacksmith_lapwing_blaplo1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 80077,
+      "attribution": {
+        "photographer": "joanz7",
+        "photographer_url": "https://www.inaturalist.org/observations/309471701",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joanz7 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 309471701,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blacksmith_lapwing_blaplo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809150/bird-gallery/blacksmith_lapwing_blaplo1/inaturalist/blacksmith_lapwing_blaplo1_3.jpg",
+      "public_id": "bird-gallery/blacksmith_lapwing_blaplo1/inaturalist/blacksmith_lapwing_blaplo1_3",
+      "width": 1024,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 91293,
+      "attribution": {
+        "photographer": "liezelg",
+        "photographer_url": "https://www.inaturalist.org/observations/154679664",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© liezelg (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 154679664,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

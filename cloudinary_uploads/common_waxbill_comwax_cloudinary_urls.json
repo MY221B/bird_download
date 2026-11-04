@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_waxbill_comwax",
+    "chinese_name": "横斑梅花雀",
+    "english_name": "Common Waxbill",
+    "scientific_name": "Estrilda astrild"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_waxbill_comwax_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809182/bird-gallery/common_waxbill_comwax/inaturalist/common_waxbill_comwax_1.jpg",
+      "public_id": "bird-gallery/common_waxbill_comwax/inaturalist/common_waxbill_comwax_1",
+      "width": 703,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 86383,
+      "attribution": {
+        "photographer": "jballam",
+        "photographer_url": "https://www.inaturalist.org/observations/292841566",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© jballam (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 292841566,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_waxbill_comwax_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809183/bird-gallery/common_waxbill_comwax/inaturalist/common_waxbill_comwax_2.jpg",
+      "public_id": "bird-gallery/common_waxbill_comwax/inaturalist/common_waxbill_comwax_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 118869,
+      "attribution": {
+        "photographer": "eduardovieira17",
+        "photographer_url": "https://www.inaturalist.org/observations/351717178",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© eduardovieira17 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 351717178,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_waxbill_comwax_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809185/bird-gallery/common_waxbill_comwax/inaturalist/common_waxbill_comwax_3.jpg",
+      "public_id": "bird-gallery/common_waxbill_comwax/inaturalist/common_waxbill_comwax_3",
+      "width": 817,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 77002,
+      "attribution": {
+        "photographer": "rafael_trindade",
+        "photographer_url": "https://www.inaturalist.org/observations/398577604",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rafael_trindade (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 398577604,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

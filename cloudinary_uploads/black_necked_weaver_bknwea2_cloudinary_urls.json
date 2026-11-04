@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_necked_weaver_bknwea2",
+    "chinese_name": "黑颈织雀",
+    "english_name": "Black-necked Weaver",
+    "scientific_name": "Ploceus nigricollis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_necked_weaver_bknwea2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809691/bird-gallery/black_necked_weaver_bknwea2/inaturalist/black_necked_weaver_bknwea2_1.jpg",
+      "public_id": "bird-gallery/black_necked_weaver_bknwea2/inaturalist/black_necked_weaver_bknwea2_1",
+      "width": 1024,
+      "height": 627,
+      "format": "jpg",
+      "bytes": 109930,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/100021759",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100021759,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_necked_weaver_bknwea2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809692/bird-gallery/black_necked_weaver_bknwea2/inaturalist/black_necked_weaver_bknwea2_2.jpg",
+      "public_id": "bird-gallery/black_necked_weaver_bknwea2/inaturalist/black_necked_weaver_bknwea2_2",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85469,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/5964649",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 5964649,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_necked_weaver_bknwea2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809693/bird-gallery/black_necked_weaver_bknwea2/inaturalist/black_necked_weaver_bknwea2_3.jpg",
+      "public_id": "bird-gallery/black_necked_weaver_bknwea2/inaturalist/black_necked_weaver_bknwea2_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 58355,
+      "attribution": {
+        "photographer": "augustinagabrilaviit",
+        "photographer_url": "https://www.inaturalist.org/observations/9965650",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© augustinagabrilaviit (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 9965650,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

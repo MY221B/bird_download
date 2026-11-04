@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_sacred_ibis_sacibi2",
+    "chinese_name": "埃及圣鹮",
+    "english_name": "African Sacred Ibis",
+    "scientific_name": "Threskiornis aethiopicus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_sacred_ibis_sacibi2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809390/bird-gallery/african_sacred_ibis_sacibi2/inaturalist/african_sacred_ibis_sacibi2_1.jpg",
+      "public_id": "bird-gallery/african_sacred_ibis_sacibi2/inaturalist/african_sacred_ibis_sacibi2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 62164,
+      "attribution": {
+        "photographer": "jandutoit",
+        "photographer_url": "https://www.inaturalist.org/observations/153552567",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jandutoit (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 153552567,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_sacred_ibis_sacibi2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809391/bird-gallery/african_sacred_ibis_sacibi2/inaturalist/african_sacred_ibis_sacibi2_2.jpg",
+      "public_id": "bird-gallery/african_sacred_ibis_sacibi2/inaturalist/african_sacred_ibis_sacibi2_2",
+      "width": 1024,
+      "height": 655,
+      "format": "jpg",
+      "bytes": 42210,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/11114788",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11114788,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_sacred_ibis_sacibi2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809391/bird-gallery/african_sacred_ibis_sacibi2/inaturalist/african_sacred_ibis_sacibi2_3.jpg",
+      "public_id": "bird-gallery/african_sacred_ibis_sacibi2/inaturalist/african_sacred_ibis_sacibi2_3",
+      "width": 1024,
+      "height": 724,
+      "format": "jpg",
+      "bytes": 133816,
+      "attribution": {
+        "photographer": "patrick-monney",
+        "photographer_url": "https://www.inaturalist.org/observations/231248372",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© patrick-monney (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 231248372,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

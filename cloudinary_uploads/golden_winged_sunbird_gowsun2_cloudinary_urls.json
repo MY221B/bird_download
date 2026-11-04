@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "golden_winged_sunbird_gowsun2",
+    "chinese_name": "金翅花蜜鸟",
+    "english_name": "Golden-winged Sunbird",
+    "scientific_name": "Drepanorhynchus reichenowi"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "golden_winged_sunbird_gowsun2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809494/bird-gallery/golden_winged_sunbird_gowsun2/inaturalist/golden_winged_sunbird_gowsun2_1.jpg",
+      "public_id": "bird-gallery/golden_winged_sunbird_gowsun2/inaturalist/golden_winged_sunbird_gowsun2_1",
+      "width": 671,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 96150,
+      "attribution": {
+        "photographer": "kurthennige",
+        "photographer_url": "https://www.inaturalist.org/observations/107694261",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kurthennige (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 107694261,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_winged_sunbird_gowsun2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809495/bird-gallery/golden_winged_sunbird_gowsun2/inaturalist/golden_winged_sunbird_gowsun2_2.jpg",
+      "public_id": "bird-gallery/golden_winged_sunbird_gowsun2/inaturalist/golden_winged_sunbird_gowsun2_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 105336,
+      "attribution": {
+        "photographer": "lynnecorreia",
+        "photographer_url": "https://www.inaturalist.org/observations/163668936",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lynnecorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 163668936,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_winged_sunbird_gowsun2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809496/bird-gallery/golden_winged_sunbird_gowsun2/inaturalist/golden_winged_sunbird_gowsun2_3.jpg",
+      "public_id": "bird-gallery/golden_winged_sunbird_gowsun2/inaturalist/golden_winged_sunbird_gowsun2_3",
+      "width": 1024,
+      "height": 708,
+      "format": "jpg",
+      "bytes": 227388,
+      "attribution": {
+        "photographer": "thierrycordenos",
+        "photographer_url": "https://www.inaturalist.org/observations/186035309",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thierrycordenos (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 186035309,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "square_tailed_nightjar",
+    "chinese_name": "方尾夜鹰",
+    "english_name": "Square-tailed Nightjar",
+    "scientific_name": "Caprimulgus fossii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "square_tailed_nightjar_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809705/bird-gallery/square_tailed_nightjar/inaturalist/square_tailed_nightjar_1.jpg",
+      "public_id": "bird-gallery/square_tailed_nightjar/inaturalist/square_tailed_nightjar_1",
+      "width": 1024,
+      "height": 627,
+      "format": "jpg",
+      "bytes": 145696,
+      "attribution": {
+        "photographer": "alexanderr",
+        "photographer_url": "https://www.inaturalist.org/observations/147111870",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexanderr (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147111870,
+        "note": null
+      }
+    },
+    {
+      "original_file": "square_tailed_nightjar_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809706/bird-gallery/square_tailed_nightjar/inaturalist/square_tailed_nightjar_2.jpg",
+      "public_id": "bird-gallery/square_tailed_nightjar/inaturalist/square_tailed_nightjar_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 73737,
+      "attribution": {
+        "photographer": "richard_johnstone",
+        "photographer_url": "https://www.inaturalist.org/observations/186091496",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richard_johnstone (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 186091496,
+        "note": null
+      }
+    },
+    {
+      "original_file": "square_tailed_nightjar_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809707/bird-gallery/square_tailed_nightjar/inaturalist/square_tailed_nightjar_3.jpg",
+      "public_id": "bird-gallery/square_tailed_nightjar/inaturalist/square_tailed_nightjar_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 111634,
+      "attribution": {
+        "photographer": "heinrichhuman",
+        "photographer_url": "https://www.inaturalist.org/observations/254361343",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© heinrichhuman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 254361343,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

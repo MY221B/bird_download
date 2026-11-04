@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_nightingale_comnig1",
+    "chinese_name": "新疆歌鸲",
+    "english_name": "Common Nightingale",
+    "scientific_name": "Luscinia megarhynchos"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_nightingale_comnig1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809179/bird-gallery/common_nightingale_comnig1/inaturalist/common_nightingale_comnig1_1.jpg",
+      "public_id": "bird-gallery/common_nightingale_comnig1/inaturalist/common_nightingale_comnig1_1",
+      "width": 1024,
+      "height": 387,
+      "format": "jpg",
+      "bytes": 59836,
+      "attribution": {
+        "photographer": "mobbini",
+        "photographer_url": "https://www.inaturalist.org/observations/25799058",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mobbini (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 25799058,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_nightingale_comnig1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809180/bird-gallery/common_nightingale_comnig1/inaturalist/common_nightingale_comnig1_2.jpg",
+      "public_id": "bird-gallery/common_nightingale_comnig1/inaturalist/common_nightingale_comnig1_2",
+      "width": 759,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 83627,
+      "attribution": {
+        "photographer": "little-grey-bird",
+        "photographer_url": "https://www.inaturalist.org/observations/368473438",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© little-grey-bird (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 368473438,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_nightingale_comnig1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809181/bird-gallery/common_nightingale_comnig1/inaturalist/common_nightingale_comnig1_3.jpg",
+      "public_id": "bird-gallery/common_nightingale_comnig1/inaturalist/common_nightingale_comnig1_3",
+      "width": 1024,
+      "height": 761,
+      "format": "jpg",
+      "bytes": 71156,
+      "attribution": {
+        "photographer": "f_clamote",
+        "photographer_url": "https://www.inaturalist.org/observations/338440630",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© f_clamote (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 338440630,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

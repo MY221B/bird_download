@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "collared_palm_thrush",
+    "chinese_name": "晨莺",
+    "english_name": "Collared Palm-Thrush",
+    "scientific_name": "Cichladusa arquata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "collared_palm_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809910/bird-gallery/collared_palm_thrush/inaturalist/collared_palm_thrush_1.jpg",
+      "public_id": "bird-gallery/collared_palm_thrush/inaturalist/collared_palm_thrush_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59042,
+      "attribution": {
+        "photographer": "kristaoswald",
+        "photographer_url": "https://www.inaturalist.org/observations/65579993",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kristaoswald (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 65579993,
+        "note": null
+      }
+    },
+    {
+      "original_file": "collared_palm_thrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809911/bird-gallery/collared_palm_thrush/inaturalist/collared_palm_thrush_2.jpg",
+      "public_id": "bird-gallery/collared_palm_thrush/inaturalist/collared_palm_thrush_2",
+      "width": 1024,
+      "height": 753,
+      "format": "jpg",
+      "bytes": 69608,
+      "attribution": {
+        "photographer": "markusgmeiner",
+        "photographer_url": "https://www.inaturalist.org/observations/12444499",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© markusgmeiner (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 12444499,
+        "note": null
+      }
+    },
+    {
+      "original_file": "collared_palm_thrush_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809912/bird-gallery/collared_palm_thrush/inaturalist/collared_palm_thrush_3.jpg",
+      "public_id": "bird-gallery/collared_palm_thrush/inaturalist/collared_palm_thrush_3",
+      "width": 1024,
+      "height": 765,
+      "format": "jpg",
+      "bytes": 131965,
+      "attribution": {
+        "photographer": "rguinness",
+        "photographer_url": "https://www.inaturalist.org/observations/22950080",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rguinness (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 22950080,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

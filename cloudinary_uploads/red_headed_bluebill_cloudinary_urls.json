@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "red_headed_bluebill",
+    "chinese_name": "红头蓝嘴雀",
+    "english_name": "Red-headed Bluebill",
+    "scientific_name": "Spermophaga ruficapilla"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "red_headed_bluebill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809877/bird-gallery/red_headed_bluebill/inaturalist/red_headed_bluebill_1.jpg",
+      "public_id": "bird-gallery/red_headed_bluebill/inaturalist/red_headed_bluebill_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58491,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/19934197",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 19934197,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_bluebill_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809878/bird-gallery/red_headed_bluebill/inaturalist/red_headed_bluebill_2.jpg",
+      "public_id": "bird-gallery/red_headed_bluebill/inaturalist/red_headed_bluebill_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 39449,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/250492133",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 250492133,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_bluebill_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809879/bird-gallery/red_headed_bluebill/inaturalist/red_headed_bluebill_3.jpg",
+      "public_id": "bird-gallery/red_headed_bluebill/inaturalist/red_headed_bluebill_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 92220,
+      "attribution": {
+        "photographer": "sitszasadam",
+        "photographer_url": "https://www.inaturalist.org/observations/108300813",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sitszasadam (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 108300813,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

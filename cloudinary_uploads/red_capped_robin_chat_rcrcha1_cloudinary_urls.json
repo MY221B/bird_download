@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "red_capped_robin_chat_rcrcha1",
+    "chinese_name": "红顶歌鵖",
+    "english_name": "Red-capped Robin-Chat",
+    "scientific_name": "Cossypha natalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "red_capped_robin_chat_rcrcha1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809701/bird-gallery/red_capped_robin_chat_rcrcha1/inaturalist/red_capped_robin_chat_rcrcha1_1.jpg",
+      "public_id": "bird-gallery/red_capped_robin_chat_rcrcha1/inaturalist/red_capped_robin_chat_rcrcha1_1",
+      "width": 640,
+      "height": 480,
+      "format": "jpg",
+      "bytes": 51365,
+      "attribution": {
+        "photographer": "cati",
+        "photographer_url": "https://www.inaturalist.org/observations/15883509",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cati (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 15883509,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_capped_robin_chat_rcrcha1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809701/bird-gallery/red_capped_robin_chat_rcrcha1/inaturalist/red_capped_robin_chat_rcrcha1_2.jpg",
+      "public_id": "bird-gallery/red_capped_robin_chat_rcrcha1/inaturalist/red_capped_robin_chat_rcrcha1_2",
+      "width": 1024,
+      "height": 596,
+      "format": "jpg",
+      "bytes": 124896,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/19457644",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19457644,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_capped_robin_chat_rcrcha1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809702/bird-gallery/red_capped_robin_chat_rcrcha1/inaturalist/red_capped_robin_chat_rcrcha1_3.jpg",
+      "public_id": "bird-gallery/red_capped_robin_chat_rcrcha1/inaturalist/red_capped_robin_chat_rcrcha1_3",
+      "width": 1006,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 77386,
+      "attribution": {
+        "photographer": "dylanleonard",
+        "photographer_url": "https://www.inaturalist.org/observations/331573968",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© dylanleonard (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 331573968,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

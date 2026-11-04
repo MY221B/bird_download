@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "holubs_golden_weaver_hogwea1",
+    "chinese_name": "非洲金织雀",
+    "english_name": "Holub's Golden-Weaver",
+    "scientific_name": "Ploceus xanthops"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "holubs_golden_weaver_hogwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809269/bird-gallery/holubs_golden_weaver_hogwea1/inaturalist/holubs_golden_weaver_hogwea1_1.jpg",
+      "public_id": "bird-gallery/holubs_golden_weaver_hogwea1/inaturalist/holubs_golden_weaver_hogwea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 34131,
+      "attribution": {
+        "photographer": "gregoiredubois",
+        "photographer_url": "https://www.inaturalist.org/observations/59425662",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gregoiredubois (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 59425662,
+        "note": null
+      }
+    },
+    {
+      "original_file": "holubs_golden_weaver_hogwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809270/bird-gallery/holubs_golden_weaver_hogwea1/inaturalist/holubs_golden_weaver_hogwea1_2.jpg",
+      "public_id": "bird-gallery/holubs_golden_weaver_hogwea1/inaturalist/holubs_golden_weaver_hogwea1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 93514,
+      "attribution": {
+        "photographer": "benzerante",
+        "photographer_url": "https://www.inaturalist.org/observations/125503349",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© benzerante (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 125503349,
+        "note": null
+      }
+    },
+    {
+      "original_file": "holubs_golden_weaver_hogwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809271/bird-gallery/holubs_golden_weaver_hogwea1/inaturalist/holubs_golden_weaver_hogwea1_3.jpg",
+      "public_id": "bird-gallery/holubs_golden_weaver_hogwea1/inaturalist/holubs_golden_weaver_hogwea1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 65911,
+      "attribution": {
+        "photographer": "danielvanderpost",
+        "photographer_url": "https://www.inaturalist.org/observations/32613060",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© danielvanderpost (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 32613060,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

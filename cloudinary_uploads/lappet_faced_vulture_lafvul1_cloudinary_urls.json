@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lappet_faced_vulture_lafvul1",
+    "chinese_name": "绉脸兀鹫",
+    "english_name": "Lappet-faced Vulture",
+    "scientific_name": "Torgos tracheliotos"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lappet_faced_vulture_lafvul1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809696/bird-gallery/lappet_faced_vulture_lafvul1/inaturalist/lappet_faced_vulture_lafvul1_1.jpg",
+      "public_id": "bird-gallery/lappet_faced_vulture_lafvul1/inaturalist/lappet_faced_vulture_lafvul1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 81780,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/18056231",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18056231,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lappet_faced_vulture_lafvul1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809696/bird-gallery/lappet_faced_vulture_lafvul1/inaturalist/lappet_faced_vulture_lafvul1_2.jpg",
+      "public_id": "bird-gallery/lappet_faced_vulture_lafvul1/inaturalist/lappet_faced_vulture_lafvul1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 93032,
+      "attribution": {
+        "photographer": "autumnkramer",
+        "photographer_url": "https://www.inaturalist.org/observations/102201269",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© autumnkramer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 102201269,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lappet_faced_vulture_lafvul1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809697/bird-gallery/lappet_faced_vulture_lafvul1/inaturalist/lappet_faced_vulture_lafvul1_3.jpg",
+      "public_id": "bird-gallery/lappet_faced_vulture_lafvul1/inaturalist/lappet_faced_vulture_lafvul1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 60301,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7146610",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7146610,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

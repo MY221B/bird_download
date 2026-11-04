@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "northern_white_crowned_shrike_whrshr1",
+    "chinese_name": "白腰林鵙",
+    "english_name": "Northern White-crowned Shrike",
+    "scientific_name": "Eurocephalus ruppelli"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "northern_white_crowned_shrike_whrshr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809635/bird-gallery/northern_white_crowned_shrike_whrshr1/inaturalist/northern_white_crowned_shrike_whrshr1_1.jpg",
+      "public_id": "bird-gallery/northern_white_crowned_shrike_whrshr1/inaturalist/northern_white_crowned_shrike_whrshr1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 121876,
+      "attribution": {
+        "photographer": "paultavares",
+        "photographer_url": "https://www.inaturalist.org/observations/156566831",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paultavares (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 156566831,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_white_crowned_shrike_whrshr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809636/bird-gallery/northern_white_crowned_shrike_whrshr1/inaturalist/northern_white_crowned_shrike_whrshr1_2.jpg",
+      "public_id": "bird-gallery/northern_white_crowned_shrike_whrshr1/inaturalist/northern_white_crowned_shrike_whrshr1_2",
+      "width": 1024,
+      "height": 730,
+      "format": "jpg",
+      "bytes": 49978,
+      "attribution": {
+        "photographer": "dehunton",
+        "photographer_url": "https://www.inaturalist.org/observations/28952261",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dehunton (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 28952261,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_white_crowned_shrike_whrshr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809637/bird-gallery/northern_white_crowned_shrike_whrshr1/inaturalist/northern_white_crowned_shrike_whrshr1_3.jpg",
+      "public_id": "bird-gallery/northern_white_crowned_shrike_whrshr1/inaturalist/northern_white_crowned_shrike_whrshr1_3",
+      "width": 922,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 65125,
+      "attribution": {
+        "photographer": "giffbeaton",
+        "photographer_url": "https://www.inaturalist.org/observations/335387644",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© giffbeaton (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 335387644,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_cuckoo_afrcuc1",
+    "chinese_name": "非洲杜鹃",
+    "english_name": "African Cuckoo",
+    "scientific_name": "Cuculus gularis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_cuckoo_afrcuc1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809595/bird-gallery/african_cuckoo_afrcuc1/inaturalist/african_cuckoo_afrcuc1_1.jpg",
+      "public_id": "bird-gallery/african_cuckoo_afrcuc1/inaturalist/african_cuckoo_afrcuc1_1",
+      "width": 769,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 100062,
+      "attribution": {
+        "photographer": "lc_three",
+        "photographer_url": "https://www.inaturalist.org/observations/101584047",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lc_three (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 101584047,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_cuckoo_afrcuc1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809596/bird-gallery/african_cuckoo_afrcuc1/inaturalist/african_cuckoo_afrcuc1_2.jpg",
+      "public_id": "bird-gallery/african_cuckoo_afrcuc1/inaturalist/african_cuckoo_afrcuc1_2",
+      "width": 800,
+      "height": 500,
+      "format": "jpg",
+      "bytes": 55469,
+      "attribution": {
+        "photographer": "gawie",
+        "photographer_url": "https://www.inaturalist.org/observations/34901261",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gawie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34901261,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_cuckoo_afrcuc1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809597/bird-gallery/african_cuckoo_afrcuc1/inaturalist/african_cuckoo_afrcuc1_3.jpg",
+      "public_id": "bird-gallery/african_cuckoo_afrcuc1/inaturalist/african_cuckoo_afrcuc1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 19542,
+      "attribution": {
+        "photographer": "stephen220",
+        "photographer_url": "https://www.inaturalist.org/observations/256000948",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stephen220 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 256000948,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

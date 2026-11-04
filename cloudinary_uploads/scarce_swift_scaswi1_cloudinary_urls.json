@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "scarce_swift_scaswi1",
+    "chinese_name": "珍雨燕",
+    "english_name": "Scarce Swift",
+    "scientific_name": "Schoutedenapus myoptilus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "scarce_swift_scaswi1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809539/bird-gallery/scarce_swift_scaswi1/inaturalist/scarce_swift_scaswi1_1.jpg",
+      "public_id": "bird-gallery/scarce_swift_scaswi1/inaturalist/scarce_swift_scaswi1_1",
+      "width": 1024,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 6236,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/38710526",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 38710526,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scarce_swift_scaswi1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809540/bird-gallery/scarce_swift_scaswi1/inaturalist/scarce_swift_scaswi1_2.jpg",
+      "public_id": "bird-gallery/scarce_swift_scaswi1/inaturalist/scarce_swift_scaswi1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 36096,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7130574",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7130574,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scarce_swift_scaswi1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809540/bird-gallery/scarce_swift_scaswi1/inaturalist/scarce_swift_scaswi1_3.jpg",
+      "public_id": "bird-gallery/scarce_swift_scaswi1/inaturalist/scarce_swift_scaswi1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 6093,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/331795335",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 331795335,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "mosque_swallow_mosswa2",
+    "chinese_name": "塞内加尔金腰燕",
+    "english_name": "Mosque Swallow",
+    "scientific_name": "Cecropis senegalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "mosque_swallow_mosswa2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809531/bird-gallery/mosque_swallow_mosswa2/inaturalist/mosque_swallow_mosswa2_1.jpg",
+      "public_id": "bird-gallery/mosque_swallow_mosswa2/inaturalist/mosque_swallow_mosswa2_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 82811,
+      "attribution": {
+        "photographer": "michalsloviak",
+        "photographer_url": "https://www.inaturalist.org/observations/69849329",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© michalsloviak (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 69849329,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mosque_swallow_mosswa2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809532/bird-gallery/mosque_swallow_mosswa2/inaturalist/mosque_swallow_mosswa2_2.jpg",
+      "public_id": "bird-gallery/mosque_swallow_mosswa2/inaturalist/mosque_swallow_mosswa2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 20817,
+      "attribution": {
+        "photographer": "tarmand",
+        "photographer_url": "https://www.inaturalist.org/observations/149816459",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tarmand (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 149816459,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mosque_swallow_mosswa2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809532/bird-gallery/mosque_swallow_mosswa2/inaturalist/mosque_swallow_mosswa2_3.jpg",
+      "public_id": "bird-gallery/mosque_swallow_mosswa2/inaturalist/mosque_swallow_mosswa2_3",
+      "width": 884,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 43002,
+      "attribution": {
+        "photographer": "vinsur",
+        "photographer_url": "https://www.inaturalist.org/observations/368574324",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vinsur (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 368574324,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

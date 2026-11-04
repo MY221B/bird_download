@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "temmincks_courser_temcou1",
+    "chinese_name": "黑腹走鸻",
+    "english_name": "Temminck's Courser",
+    "scientific_name": "Cursorius temminckii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "temmincks_courser_temcou1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809626/bird-gallery/temmincks_courser_temcou1/inaturalist/temmincks_courser_temcou1_1.jpg",
+      "public_id": "bird-gallery/temmincks_courser_temcou1/inaturalist/temmincks_courser_temcou1_1",
+      "width": 1024,
+      "height": 723,
+      "format": "jpg",
+      "bytes": 189556,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192522207",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192522207,
+        "note": null
+      }
+    },
+    {
+      "original_file": "temmincks_courser_temcou1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809627/bird-gallery/temmincks_courser_temcou1/inaturalist/temmincks_courser_temcou1_2.jpg",
+      "public_id": "bird-gallery/temmincks_courser_temcou1/inaturalist/temmincks_courser_temcou1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 103881,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/148946005",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 148946005,
+        "note": null
+      }
+    },
+    {
+      "original_file": "temmincks_courser_temcou1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809628/bird-gallery/temmincks_courser_temcou1/inaturalist/temmincks_courser_temcou1_3.jpg",
+      "public_id": "bird-gallery/temmincks_courser_temcou1/inaturalist/temmincks_courser_temcou1_3",
+      "width": 1024,
+      "height": 892,
+      "format": "jpg",
+      "bytes": 160575,
+      "attribution": {
+        "photographer": "leuli",
+        "photographer_url": "https://www.inaturalist.org/observations/130007261",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© leuli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 130007261,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

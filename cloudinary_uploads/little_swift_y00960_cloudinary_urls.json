@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "little_swift_y00960",
+    "chinese_name": "小雨燕",
+    "english_name": "Little Swift",
+    "scientific_name": "Apus affinis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "little_swift_y00960_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809460/bird-gallery/little_swift_y00960/inaturalist/little_swift_y00960_1.jpg",
+      "public_id": "bird-gallery/little_swift_y00960/inaturalist/little_swift_y00960_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 13011,
+      "attribution": {
+        "photographer": "hamsambly",
+        "photographer_url": "https://www.inaturalist.org/observations/196990190",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hamsambly (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 196990190,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_swift_y00960_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809461/bird-gallery/little_swift_y00960/inaturalist/little_swift_y00960_2.jpg",
+      "public_id": "bird-gallery/little_swift_y00960/inaturalist/little_swift_y00960_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 238415,
+      "attribution": {
+        "photographer": "maxhsieh",
+        "photographer_url": "https://www.inaturalist.org/observations/94083206",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maxhsieh (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 94083206,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_swift_y00960_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809462/bird-gallery/little_swift_y00960/inaturalist/little_swift_y00960_3.jpg",
+      "public_id": "bird-gallery/little_swift_y00960/inaturalist/little_swift_y00960_3",
+      "width": 700,
+      "height": 413,
+      "format": "jpg",
+      "bytes": 26125,
+      "attribution": {
+        "photographer": "ernestporter",
+        "photographer_url": "https://www.inaturalist.org/observations/11126805",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ernestporter (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11126805,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

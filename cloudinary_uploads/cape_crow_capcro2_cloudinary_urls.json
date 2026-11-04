@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "cape_crow_capcro2",
+    "chinese_name": "海角鸦",
+    "english_name": "Cape Crow",
+    "scientific_name": "Corvus capensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "cape_crow_capcro2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809524/bird-gallery/cape_crow_capcro2/inaturalist/cape_crow_capcro2_1.jpg",
+      "public_id": "bird-gallery/cape_crow_capcro2/inaturalist/cape_crow_capcro2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 86002,
+      "attribution": {
+        "photographer": "axp4654",
+        "photographer_url": "https://www.inaturalist.org/observations/128848485",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© axp4654 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 128848485,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_crow_capcro2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809524/bird-gallery/cape_crow_capcro2/inaturalist/cape_crow_capcro2_2.jpg",
+      "public_id": "bird-gallery/cape_crow_capcro2/inaturalist/cape_crow_capcro2_2",
+      "width": 1024,
+      "height": 646,
+      "format": "jpg",
+      "bytes": 56421,
+      "attribution": {
+        "photographer": "simple-earth",
+        "photographer_url": "https://www.inaturalist.org/observations/34350953",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© simple-earth (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 34350953,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_crow_capcro2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809525/bird-gallery/cape_crow_capcro2/inaturalist/cape_crow_capcro2_3.jpg",
+      "public_id": "bird-gallery/cape_crow_capcro2/inaturalist/cape_crow_capcro2_3",
+      "width": 1024,
+      "height": 713,
+      "format": "jpg",
+      "bytes": 62673,
+      "attribution": {
+        "photographer": "gawie",
+        "photographer_url": "https://www.inaturalist.org/observations/7602849",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gawie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 7602849,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

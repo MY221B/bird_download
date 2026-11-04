@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "isabelline_shrike_isashr1",
+    "chinese_name": "荒漠伯劳",
+    "english_name": "Isabelline Shrike",
+    "scientific_name": "Lanius isabellinus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "isabelline_shrike_isashr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809275/bird-gallery/isabelline_shrike_isashr1/inaturalist/isabelline_shrike_isashr1_1.jpg",
+      "public_id": "bird-gallery/isabelline_shrike_isashr1/inaturalist/isabelline_shrike_isashr1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64777,
+      "attribution": {
+        "photographer": "pmali",
+        "photographer_url": "https://www.inaturalist.org/observations/68480719",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© pmali (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 68480719,
+        "note": null
+      }
+    },
+    {
+      "original_file": "isabelline_shrike_isashr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809276/bird-gallery/isabelline_shrike_isashr1/inaturalist/isabelline_shrike_isashr1_2.jpg",
+      "public_id": "bird-gallery/isabelline_shrike_isashr1/inaturalist/isabelline_shrike_isashr1_2",
+      "width": 768,
+      "height": 613,
+      "format": "jpg",
+      "bytes": 93872,
+      "attribution": {
+        "photographer": "codenamestation",
+        "photographer_url": "https://www.inaturalist.org/observations/325326094",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© codenamestation (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 325326094,
+        "note": null
+      }
+    },
+    {
+      "original_file": "isabelline_shrike_isashr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809277/bird-gallery/isabelline_shrike_isashr1/inaturalist/isabelline_shrike_isashr1_3.jpg",
+      "public_id": "bird-gallery/isabelline_shrike_isashr1/inaturalist/isabelline_shrike_isashr1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55337,
+      "attribution": {
+        "photographer": "jujurenoult",
+        "photographer_url": "https://www.inaturalist.org/observations/141358839",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© jujurenoult (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 141358839,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

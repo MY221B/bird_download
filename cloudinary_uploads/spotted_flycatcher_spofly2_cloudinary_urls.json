@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "spotted_flycatcher_spofly2",
+    "chinese_name": "斑鹟",
+    "english_name": "Spotted Flycatcher",
+    "scientific_name": "Muscicapa striata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "spotted_flycatcher_spofly2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809400/bird-gallery/spotted_flycatcher_spofly2/inaturalist/spotted_flycatcher_spofly2_1.jpg",
+      "public_id": "bird-gallery/spotted_flycatcher_spofly2/inaturalist/spotted_flycatcher_spofly2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67809,
+      "attribution": {
+        "photographer": "mani_raab",
+        "photographer_url": "https://www.inaturalist.org/observations/175274890",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mani_raab (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 175274890,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_flycatcher_spofly2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809401/bird-gallery/spotted_flycatcher_spofly2/inaturalist/spotted_flycatcher_spofly2_2.jpg",
+      "public_id": "bird-gallery/spotted_flycatcher_spofly2/inaturalist/spotted_flycatcher_spofly2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 81591,
+      "attribution": {
+        "photographer": "jonathanvoo",
+        "photographer_url": "https://www.inaturalist.org/observations/358402175",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jonathanvoo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 358402175,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_flycatcher_spofly2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809402/bird-gallery/spotted_flycatcher_spofly2/inaturalist/spotted_flycatcher_spofly2_3.jpg",
+      "public_id": "bird-gallery/spotted_flycatcher_spofly2/inaturalist/spotted_flycatcher_spofly2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 23692,
+      "attribution": {
+        "photographer": "mandapanda",
+        "photographer_url": "https://www.inaturalist.org/observations/163785266",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mandapanda (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 163785266,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

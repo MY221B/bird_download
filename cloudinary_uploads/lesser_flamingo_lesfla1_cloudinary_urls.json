@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lesser_flamingo_lesfla1",
+    "chinese_name": "小红鹳",
+    "english_name": "Lesser Flamingo",
+    "scientific_name": "Phoeniconaias minor"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lesser_flamingo_lesfla1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809613/bird-gallery/lesser_flamingo_lesfla1/inaturalist/lesser_flamingo_lesfla1_1.jpg",
+      "public_id": "bird-gallery/lesser_flamingo_lesfla1/inaturalist/lesser_flamingo_lesfla1_1",
+      "width": 1023,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 77131,
+      "attribution": {
+        "photographer": "ygurjar",
+        "photographer_url": "https://www.inaturalist.org/observations/66569547",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ygurjar (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66569547,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_flamingo_lesfla1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809614/bird-gallery/lesser_flamingo_lesfla1/inaturalist/lesser_flamingo_lesfla1_2.jpg",
+      "public_id": "bird-gallery/lesser_flamingo_lesfla1/inaturalist/lesser_flamingo_lesfla1_2",
+      "width": 1024,
+      "height": 644,
+      "format": "jpg",
+      "bytes": 36293,
+      "attribution": {
+        "photographer": "kocoleoptera",
+        "photographer_url": "https://www.inaturalist.org/observations/379109464",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kocoleoptera (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 379109464,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_flamingo_lesfla1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809615/bird-gallery/lesser_flamingo_lesfla1/inaturalist/lesser_flamingo_lesfla1_3.jpg",
+      "public_id": "bird-gallery/lesser_flamingo_lesfla1/inaturalist/lesser_flamingo_lesfla1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 77082,
+      "attribution": {
+        "photographer": "thevt",
+        "photographer_url": "https://www.inaturalist.org/observations/340812502",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© thevt (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 340812502,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

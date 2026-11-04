@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "mountain_illadopsis",
+    "chinese_name": "山非洲雅鹛",
+    "english_name": "Mountain Illadopsis",
+    "scientific_name": "Illadopsis pyrrhoptera"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "mountain_illadopsis_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809862/bird-gallery/mountain_illadopsis/inaturalist/mountain_illadopsis_1.jpg",
+      "public_id": "bird-gallery/mountain_illadopsis/inaturalist/mountain_illadopsis_1",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 41518,
+      "attribution": {
+        "photographer": "auk1967",
+        "photographer_url": "https://www.inaturalist.org/observations/331664055",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© auk1967 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 331664055,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_illadopsis_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809862/bird-gallery/mountain_illadopsis/inaturalist/mountain_illadopsis_2.jpg",
+      "public_id": "bird-gallery/mountain_illadopsis/inaturalist/mountain_illadopsis_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 53534,
+      "attribution": {
+        "photographer": "tomaz_melo",
+        "photographer_url": "https://www.inaturalist.org/observations/183583327",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© tomaz_melo (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 183583327,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_illadopsis_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809863/bird-gallery/mountain_illadopsis/inaturalist/mountain_illadopsis_3.jpg",
+      "public_id": "bird-gallery/mountain_illadopsis/inaturalist/mountain_illadopsis_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 40819,
+      "attribution": {
+        "photographer": "shukov",
+        "photographer_url": "https://www.inaturalist.org/observations/352677569",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 352677569,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

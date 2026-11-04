@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_capped_cordonbleu_blccor1",
+    "chinese_name": "蓝顶蓝饰雀",
+    "english_name": "Blue-capped Cordonbleu",
+    "scientific_name": "Uraeginthus cyanocephalus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "blue_capped_cordonbleu_blccor1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809729/bird-gallery/blue_capped_cordonbleu_blccor1/inaturalist/blue_capped_cordonbleu_blccor1_1.jpg",
+      "public_id": "bird-gallery/blue_capped_cordonbleu_blccor1/inaturalist/blue_capped_cordonbleu_blccor1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 104751,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/103048946",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 103048946,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_capped_cordonbleu_blccor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809730/bird-gallery/blue_capped_cordonbleu_blccor1/inaturalist/blue_capped_cordonbleu_blccor1_2.jpg",
+      "public_id": "bird-gallery/blue_capped_cordonbleu_blccor1/inaturalist/blue_capped_cordonbleu_blccor1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69821,
+      "attribution": {
+        "photographer": "world_lineage",
+        "photographer_url": "https://www.inaturalist.org/observations/19520575",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© world_lineage (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19520575,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_capped_cordonbleu_blccor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809731/bird-gallery/blue_capped_cordonbleu_blccor1/inaturalist/blue_capped_cordonbleu_blccor1_3.jpg",
+      "public_id": "bird-gallery/blue_capped_cordonbleu_blccor1/inaturalist/blue_capped_cordonbleu_blccor1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 99176,
+      "attribution": {
+        "photographer": "bridgetspencer",
+        "photographer_url": "https://www.inaturalist.org/observations/287733528",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bridgetspencer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 287733528,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

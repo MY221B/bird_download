@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_cuckooshrike_blkcus1",
+    "chinese_name": "黑鹃鵙",
+    "english_name": "Black Cuckooshrike",
+    "scientific_name": "Campephaga flava"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_cuckooshrike_blkcus1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809154/bird-gallery/black_cuckooshrike_blkcus1/inaturalist/black_cuckooshrike_blkcus1_1.jpg",
+      "public_id": "bird-gallery/black_cuckooshrike_blkcus1/inaturalist/black_cuckooshrike_blkcus1_1",
+      "width": 893,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 88580,
+      "attribution": {
+        "photographer": "larantoniades",
+        "photographer_url": "https://www.inaturalist.org/observations/411203616",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© larantoniades (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 411203616,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_cuckooshrike_blkcus1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809155/bird-gallery/black_cuckooshrike_blkcus1/inaturalist/black_cuckooshrike_blkcus1_2.jpg",
+      "public_id": "bird-gallery/black_cuckooshrike_blkcus1/inaturalist/black_cuckooshrike_blkcus1_2",
+      "width": 754,
+      "height": 754,
+      "format": "jpg",
+      "bytes": 89550,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/195554475",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 195554475,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_cuckooshrike_blkcus1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809156/bird-gallery/black_cuckooshrike_blkcus1/inaturalist/black_cuckooshrike_blkcus1_3.jpg",
+      "public_id": "bird-gallery/black_cuckooshrike_blkcus1/inaturalist/black_cuckooshrike_blkcus1_3",
+      "width": 1024,
+      "height": 662,
+      "format": "jpg",
+      "bytes": 126926,
+      "attribution": {
+        "photographer": "jonata_caminho",
+        "photographer_url": "https://www.inaturalist.org/observations/187917097",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jonata_caminho (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 187917097,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

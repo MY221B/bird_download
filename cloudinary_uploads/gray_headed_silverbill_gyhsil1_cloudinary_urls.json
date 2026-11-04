@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "gray_headed_silverbill_gyhsil1",
+    "chinese_name": "灰头银嘴文鸟",
+    "english_name": "Gray-headed Silverbill",
+    "scientific_name": "Spermestes griseicapilla"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "gray_headed_silverbill_gyhsil1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809658/bird-gallery/gray_headed_silverbill_gyhsil1/inaturalist/gray_headed_silverbill_gyhsil1_1.jpg",
+      "public_id": "bird-gallery/gray_headed_silverbill_gyhsil1/inaturalist/gray_headed_silverbill_gyhsil1_1",
+      "width": 1024,
+      "height": 635,
+      "format": "jpg",
+      "bytes": 93497,
+      "attribution": {
+        "photographer": "chriko",
+        "photographer_url": "https://www.inaturalist.org/observations/204135737",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© chriko (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 204135737,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_headed_silverbill_gyhsil1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809658/bird-gallery/gray_headed_silverbill_gyhsil1/inaturalist/gray_headed_silverbill_gyhsil1_2.jpg",
+      "public_id": "bird-gallery/gray_headed_silverbill_gyhsil1/inaturalist/gray_headed_silverbill_gyhsil1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59876,
+      "attribution": {
+        "photographer": "titi-uu",
+        "photographer_url": "https://www.inaturalist.org/observations/90766216",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© titi-uu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 90766216,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_headed_silverbill_gyhsil1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809659/bird-gallery/gray_headed_silverbill_gyhsil1/inaturalist/gray_headed_silverbill_gyhsil1_3.jpg",
+      "public_id": "bird-gallery/gray_headed_silverbill_gyhsil1/inaturalist/gray_headed_silverbill_gyhsil1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 60427,
+      "attribution": {
+        "photographer": "maiyo",
+        "photographer_url": "https://www.inaturalist.org/observations/192045957",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© maiyo (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 192045957,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

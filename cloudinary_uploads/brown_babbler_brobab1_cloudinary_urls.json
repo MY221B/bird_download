@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "brown_babbler_brobab1",
+    "chinese_name": "非洲褐鸫鹛",
+    "english_name": "Brown Babbler",
+    "scientific_name": "Turdoides plebejus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "brown_babbler_brobab1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809647/bird-gallery/brown_babbler_brobab1/inaturalist/brown_babbler_brobab1_1.jpg",
+      "public_id": "bird-gallery/brown_babbler_brobab1/inaturalist/brown_babbler_brobab1_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 60574,
+      "attribution": {
+        "photographer": "florin_feneru",
+        "photographer_url": "https://www.inaturalist.org/observations/31256704",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© florin_feneru (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 31256704,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_babbler_brobab1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809648/bird-gallery/brown_babbler_brobab1/inaturalist/brown_babbler_brobab1_2.jpg",
+      "public_id": "bird-gallery/brown_babbler_brobab1/inaturalist/brown_babbler_brobab1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115197,
+      "attribution": {
+        "photographer": "bencostamagna",
+        "photographer_url": "https://www.inaturalist.org/observations/200268205",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© bencostamagna (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 200268205,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_babbler_brobab1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809649/bird-gallery/brown_babbler_brobab1/inaturalist/brown_babbler_brobab1_3.jpg",
+      "public_id": "bird-gallery/brown_babbler_brobab1/inaturalist/brown_babbler_brobab1_3",
+      "width": 992,
+      "height": 854,
+      "format": "jpg",
+      "bytes": 97085,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/20346154",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 20346154,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

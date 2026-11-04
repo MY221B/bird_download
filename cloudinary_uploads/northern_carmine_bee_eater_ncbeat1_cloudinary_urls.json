@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "northern_carmine_bee_eater_ncbeat1",
+    "chinese_name": "北方洋红蜂虎",
+    "english_name": "Northern Carmine Bee-eater",
+    "scientific_name": "Merops nubicus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "northern_carmine_bee_eater_ncbeat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809665/bird-gallery/northern_carmine_bee_eater_ncbeat1/inaturalist/northern_carmine_bee_eater_ncbeat1_1.jpg",
+      "public_id": "bird-gallery/northern_carmine_bee_eater_ncbeat1/inaturalist/northern_carmine_bee_eater_ncbeat1_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 93597,
+      "attribution": {
+        "photographer": "robert_thibault",
+        "photographer_url": "https://www.inaturalist.org/observations/194071876",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robert_thibault (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 194071876,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_carmine_bee_eater_ncbeat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809666/bird-gallery/northern_carmine_bee_eater_ncbeat1/inaturalist/northern_carmine_bee_eater_ncbeat1_2.jpg",
+      "public_id": "bird-gallery/northern_carmine_bee_eater_ncbeat1/inaturalist/northern_carmine_bee_eater_ncbeat1_2",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 83344,
+      "attribution": {
+        "photographer": "wildnothos",
+        "photographer_url": "https://www.inaturalist.org/observations/7583706",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildnothos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 7583706,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_carmine_bee_eater_ncbeat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809667/bird-gallery/northern_carmine_bee_eater_ncbeat1/inaturalist/northern_carmine_bee_eater_ncbeat1_3.jpg",
+      "public_id": "bird-gallery/northern_carmine_bee_eater_ncbeat1/inaturalist/northern_carmine_bee_eater_ncbeat1_3",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 113345,
+      "attribution": {
+        "photographer": "michalsloviak",
+        "photographer_url": "https://www.inaturalist.org/observations/100153598",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© michalsloviak (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 100153598,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

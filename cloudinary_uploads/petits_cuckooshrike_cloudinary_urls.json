@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "petits_cuckooshrike",
+    "chinese_name": "红腹鹃鵙",
+    "english_name": "Petit's Cuckooshrike",
+    "scientific_name": "Campephaga petiti"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "petits_cuckooshrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809870/bird-gallery/petits_cuckooshrike/inaturalist/petits_cuckooshrike_1.jpg",
+      "public_id": "bird-gallery/petits_cuckooshrike/inaturalist/petits_cuckooshrike_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 95441,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7022622",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7022622,
+        "note": null
+      }
+    },
+    {
+      "original_file": "petits_cuckooshrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809871/bird-gallery/petits_cuckooshrike/inaturalist/petits_cuckooshrike_2.jpg",
+      "public_id": "bird-gallery/petits_cuckooshrike/inaturalist/petits_cuckooshrike_2",
+      "width": 1024,
+      "height": 699,
+      "format": "jpg",
+      "bytes": 57968,
+      "attribution": {
+        "photographer": "usavalli",
+        "photographer_url": "https://www.inaturalist.org/observations/126744693",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© usavalli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 126744693,
+        "note": null
+      }
+    },
+    {
+      "original_file": "petits_cuckooshrike_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809872/bird-gallery/petits_cuckooshrike/inaturalist/petits_cuckooshrike_3.jpg",
+      "public_id": "bird-gallery/petits_cuckooshrike/inaturalist/petits_cuckooshrike_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 104485,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/30028987",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 30028987,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

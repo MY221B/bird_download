@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "gray_capped_social_weaver_gyhsow1",
+    "chinese_name": "灰头群织雀",
+    "english_name": "Gray-capped Social-Weaver",
+    "scientific_name": "Pseudonigrita arnaudi"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "gray_capped_social_weaver_gyhsow1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809255/bird-gallery/gray_capped_social_weaver_gyhsow1/inaturalist/gray_capped_social_weaver_gyhsow1_1.jpg",
+      "public_id": "bird-gallery/gray_capped_social_weaver_gyhsow1/inaturalist/gray_capped_social_weaver_gyhsow1_1",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 74085,
+      "attribution": {
+        "photographer": "robshep",
+        "photographer_url": "https://www.inaturalist.org/observations/248385858",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robshep (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 248385858,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_capped_social_weaver_gyhsow1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809256/bird-gallery/gray_capped_social_weaver_gyhsow1/inaturalist/gray_capped_social_weaver_gyhsow1_2.jpg",
+      "public_id": "bird-gallery/gray_capped_social_weaver_gyhsow1/inaturalist/gray_capped_social_weaver_gyhsow1_2",
+      "width": 1024,
+      "height": 704,
+      "format": "jpg",
+      "bytes": 161813,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192229797",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192229797,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_capped_social_weaver_gyhsow1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809258/bird-gallery/gray_capped_social_weaver_gyhsow1/inaturalist/gray_capped_social_weaver_gyhsow1_3.jpg",
+      "public_id": "bird-gallery/gray_capped_social_weaver_gyhsow1/inaturalist/gray_capped_social_weaver_gyhsow1_3",
+      "width": 1024,
+      "height": 648,
+      "format": "jpg",
+      "bytes": 107602,
+      "attribution": {
+        "photographer": "thierrycordenos",
+        "photographer_url": "https://www.inaturalist.org/observations/169156759",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thierrycordenos (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 169156759,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

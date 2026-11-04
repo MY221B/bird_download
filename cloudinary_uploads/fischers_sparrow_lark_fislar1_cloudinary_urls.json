@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "fischers_sparrow_lark_fislar1",
+    "chinese_name": "白颊雀百灵",
+    "english_name": "Fischer's Sparrow-Lark",
+    "scientific_name": "Eremopterix leucopareia"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "fischers_sparrow_lark_fislar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809220/bird-gallery/fischers_sparrow_lark_fislar1/inaturalist/fischers_sparrow_lark_fislar1_1.jpg",
+      "public_id": "bird-gallery/fischers_sparrow_lark_fislar1/inaturalist/fischers_sparrow_lark_fislar1_1",
+      "width": 1024,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 149235,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192743058",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192743058,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_sparrow_lark_fislar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809221/bird-gallery/fischers_sparrow_lark_fislar1/inaturalist/fischers_sparrow_lark_fislar1_2.jpg",
+      "public_id": "bird-gallery/fischers_sparrow_lark_fislar1/inaturalist/fischers_sparrow_lark_fislar1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 197888,
+      "attribution": {
+        "photographer": "bethredmondjones",
+        "photographer_url": "https://www.inaturalist.org/observations/196497240",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© bethredmondjones (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 196497240,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_sparrow_lark_fislar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809222/bird-gallery/fischers_sparrow_lark_fislar1/inaturalist/fischers_sparrow_lark_fislar1_3.jpg",
+      "public_id": "bird-gallery/fischers_sparrow_lark_fislar1/inaturalist/fischers_sparrow_lark_fislar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73846,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/115396255",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 115396255,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

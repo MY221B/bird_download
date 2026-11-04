@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "greater_blue_eared_starling_gbesta1",
+    "chinese_name": "蓝耳丽椋鸟",
+    "english_name": "Greater Blue-eared Starling",
+    "scientific_name": "Lamprotornis chalybaeus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "greater_blue_eared_starling_gbesta1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809232/bird-gallery/greater_blue_eared_starling_gbesta1/inaturalist/greater_blue_eared_starling_gbesta1_1.jpg",
+      "public_id": "bird-gallery/greater_blue_eared_starling_gbesta1/inaturalist/greater_blue_eared_starling_gbesta1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 98098,
+      "attribution": {
+        "photographer": "joergfreyhof",
+        "photographer_url": "https://www.inaturalist.org/observations/131174244",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joergfreyhof (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 131174244,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_blue_eared_starling_gbesta1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809233/bird-gallery/greater_blue_eared_starling_gbesta1/inaturalist/greater_blue_eared_starling_gbesta1_2.jpg",
+      "public_id": "bird-gallery/greater_blue_eared_starling_gbesta1/inaturalist/greater_blue_eared_starling_gbesta1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 68523,
+      "attribution": {
+        "photographer": "jayflex",
+        "photographer_url": "https://www.inaturalist.org/observations/7876215",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jayflex (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 7876215,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_blue_eared_starling_gbesta1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809233/bird-gallery/greater_blue_eared_starling_gbesta1/inaturalist/greater_blue_eared_starling_gbesta1_3.jpg",
+      "public_id": "bird-gallery/greater_blue_eared_starling_gbesta1/inaturalist/greater_blue_eared_starling_gbesta1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 92180,
+      "attribution": {
+        "photographer": "matthewkwan",
+        "photographer_url": "https://www.inaturalist.org/observations/85917115",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 85917115,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

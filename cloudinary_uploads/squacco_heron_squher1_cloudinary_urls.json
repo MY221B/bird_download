@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "squacco_heron_squher1",
+    "chinese_name": "白翅黄池鹭",
+    "english_name": "Squacco Heron",
+    "scientific_name": "Ardeola ralloides"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "squacco_heron_squher1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809485/bird-gallery/squacco_heron_squher1/inaturalist/squacco_heron_squher1_1.jpg",
+      "public_id": "bird-gallery/squacco_heron_squher1/inaturalist/squacco_heron_squher1_1",
+      "width": 1024,
+      "height": 839,
+      "format": "jpg",
+      "bytes": 57810,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "squacco_heron_squher1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809486/bird-gallery/squacco_heron_squher1/inaturalist/squacco_heron_squher1_2.jpg",
+      "public_id": "bird-gallery/squacco_heron_squher1/inaturalist/squacco_heron_squher1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 110041,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "squacco_heron_squher1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809488/bird-gallery/squacco_heron_squher1/inaturalist/squacco_heron_squher1_3.jpg",
+      "public_id": "bird-gallery/squacco_heron_squher1/inaturalist/squacco_heron_squher1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58147,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

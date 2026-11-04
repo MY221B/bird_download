@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "red_chested_cuckoo_reccuc1",
+    "chinese_name": "赤胸杜鹃",
+    "english_name": "Red-chested Cuckoo",
+    "scientific_name": "Cuculus solitarius"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "red_chested_cuckoo_reccuc1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809591/bird-gallery/red_chested_cuckoo_reccuc1/inaturalist/red_chested_cuckoo_reccuc1_1.jpg",
+      "public_id": "bird-gallery/red_chested_cuckoo_reccuc1/inaturalist/red_chested_cuckoo_reccuc1_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 96065,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/131335174",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 131335174,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_chested_cuckoo_reccuc1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809591/bird-gallery/red_chested_cuckoo_reccuc1/inaturalist/red_chested_cuckoo_reccuc1_2.jpg",
+      "public_id": "bird-gallery/red_chested_cuckoo_reccuc1/inaturalist/red_chested_cuckoo_reccuc1_2",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 84595,
+      "attribution": {
+        "photographer": "ianrijsdijk",
+        "photographer_url": "https://www.inaturalist.org/observations/54635879",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ianrijsdijk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 54635879,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_chested_cuckoo_reccuc1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809592/bird-gallery/red_chested_cuckoo_reccuc1/inaturalist/red_chested_cuckoo_reccuc1_3.jpg",
+      "public_id": "bird-gallery/red_chested_cuckoo_reccuc1/inaturalist/red_chested_cuckoo_reccuc1_3",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 89167,
+      "attribution": {
+        "photographer": "ernestporter",
+        "photographer_url": "https://www.inaturalist.org/observations/10845802",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ernestporter (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10845802,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

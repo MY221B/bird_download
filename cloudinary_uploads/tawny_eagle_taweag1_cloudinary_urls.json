@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "tawny_eagle_taweag1",
+    "chinese_name": "茶色雕",
+    "english_name": "Tawny Eagle",
+    "scientific_name": "Aquila rapax"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "tawny_eagle_taweag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809421/bird-gallery/tawny_eagle_taweag1/inaturalist/tawny_eagle_taweag1_1.jpg",
+      "public_id": "bird-gallery/tawny_eagle_taweag1/inaturalist/tawny_eagle_taweag1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 57829,
+      "attribution": {
+        "photographer": "sitszasadam",
+        "photographer_url": "https://www.inaturalist.org/observations/51684264",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sitszasadam (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 51684264,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tawny_eagle_taweag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809422/bird-gallery/tawny_eagle_taweag1/inaturalist/tawny_eagle_taweag1_2.jpg",
+      "public_id": "bird-gallery/tawny_eagle_taweag1/inaturalist/tawny_eagle_taweag1_2",
+      "width": 782,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 83642,
+      "attribution": {
+        "photographer": "alandmanson",
+        "photographer_url": "https://www.inaturalist.org/observations/34407660",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© alandmanson (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 34407660,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tawny_eagle_taweag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809423/bird-gallery/tawny_eagle_taweag1/inaturalist/tawny_eagle_taweag1_3.jpg",
+      "public_id": "bird-gallery/tawny_eagle_taweag1/inaturalist/tawny_eagle_taweag1_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 168136,
+      "attribution": {
+        "photographer": "bertharris",
+        "photographer_url": "https://www.inaturalist.org/observations/92891249",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bertharris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 92891249,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

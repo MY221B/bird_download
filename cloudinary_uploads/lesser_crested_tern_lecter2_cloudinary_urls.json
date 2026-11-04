@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lesser_crested_tern_lecter2",
+    "chinese_name": "小凤头燕鸥",
+    "english_name": "Lesser Crested Tern",
+    "scientific_name": "Thalasseus bengalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lesser_crested_tern_lecter2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809901/bird-gallery/lesser_crested_tern_lecter2/inaturalist/lesser_crested_tern_lecter2_1.jpg",
+      "public_id": "bird-gallery/lesser_crested_tern_lecter2/inaturalist/lesser_crested_tern_lecter2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 44269,
+      "attribution": {
+        "photographer": "wildnothos",
+        "photographer_url": "https://www.inaturalist.org/observations/200378634",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildnothos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 200378634,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_crested_tern_lecter2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809902/bird-gallery/lesser_crested_tern_lecter2/inaturalist/lesser_crested_tern_lecter2_2.jpg",
+      "public_id": "bird-gallery/lesser_crested_tern_lecter2/inaturalist/lesser_crested_tern_lecter2_2",
+      "width": 499,
+      "height": 581,
+      "format": "jpg",
+      "bytes": 21793,
+      "attribution": {
+        "photographer": "boogan_boy",
+        "photographer_url": "https://www.inaturalist.org/observations/187815240",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© boogan_boy (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 187815240,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_crested_tern_lecter2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809903/bird-gallery/lesser_crested_tern_lecter2/inaturalist/lesser_crested_tern_lecter2_3.jpg",
+      "public_id": "bird-gallery/lesser_crested_tern_lecter2/inaturalist/lesser_crested_tern_lecter2_3",
+      "width": 617,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 22293,
+      "attribution": {
+        "photographer": "ravinaidu",
+        "photographer_url": "https://www.inaturalist.org/observations/125580162",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ravinaidu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 125580162,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

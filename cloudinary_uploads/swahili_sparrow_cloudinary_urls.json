@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "swahili_sparrow",
+    "chinese_name": "东非麻雀",
+    "english_name": "Swahili Sparrow",
+    "scientific_name": "Passer suahelicus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "swahili_sparrow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809714/bird-gallery/swahili_sparrow/inaturalist/swahili_sparrow_1.jpg",
+      "public_id": "bird-gallery/swahili_sparrow/inaturalist/swahili_sparrow_1",
+      "width": 1024,
+      "height": 601,
+      "format": "jpg",
+      "bytes": 81803,
+      "attribution": {
+        "photographer": "hfabian",
+        "photographer_url": "https://www.inaturalist.org/observations/8038628",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© hfabian (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 8038628,
+        "note": null
+      }
+    },
+    {
+      "original_file": "swahili_sparrow_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809715/bird-gallery/swahili_sparrow/inaturalist/swahili_sparrow_2.jpg",
+      "public_id": "bird-gallery/swahili_sparrow/inaturalist/swahili_sparrow_2",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 100992,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192548855",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192548855,
+        "note": null
+      }
+    },
+    {
+      "original_file": "swahili_sparrow_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809716/bird-gallery/swahili_sparrow/inaturalist/swahili_sparrow_3.jpg",
+      "public_id": "bird-gallery/swahili_sparrow/inaturalist/swahili_sparrow_3",
+      "width": 897,
+      "height": 673,
+      "format": "jpg",
+      "bytes": 97446,
+      "attribution": {
+        "photographer": "glosterbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/319310842",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© glosterbirder (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 319310842,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

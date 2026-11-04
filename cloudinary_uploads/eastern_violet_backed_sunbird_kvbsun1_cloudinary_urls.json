@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eastern_violet_backed_sunbird_kvbsun1",
+    "chinese_name": "东方食蜜鸟",
+    "english_name": "Eastern Violet-backed Sunbird",
+    "scientific_name": "Anthreptes orientalis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eastern_violet_backed_sunbird_kvbsun1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809660/bird-gallery/eastern_violet_backed_sunbird_kvbsun1/inaturalist/eastern_violet_backed_sunbird_kvbsun1_1.jpg",
+      "public_id": "bird-gallery/eastern_violet_backed_sunbird_kvbsun1/inaturalist/eastern_violet_backed_sunbird_kvbsun1_1",
+      "width": 1024,
+      "height": 903,
+      "format": "jpg",
+      "bytes": 152938,
+      "attribution": {
+        "photographer": "avocat",
+        "photographer_url": "https://www.inaturalist.org/observations/325605819",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© avocat (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 325605819,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_violet_backed_sunbird_kvbsun1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809661/bird-gallery/eastern_violet_backed_sunbird_kvbsun1/inaturalist/eastern_violet_backed_sunbird_kvbsun1_2.jpg",
+      "public_id": "bird-gallery/eastern_violet_backed_sunbird_kvbsun1/inaturalist/eastern_violet_backed_sunbird_kvbsun1_2",
+      "width": 1024,
+      "height": 901,
+      "format": "jpg",
+      "bytes": 54725,
+      "attribution": {
+        "photographer": "avocat",
+        "photographer_url": "https://www.inaturalist.org/observations/325447014",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© avocat (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 325447014,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_violet_backed_sunbird_kvbsun1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809662/bird-gallery/eastern_violet_backed_sunbird_kvbsun1/inaturalist/eastern_violet_backed_sunbird_kvbsun1_3.jpg",
+      "public_id": "bird-gallery/eastern_violet_backed_sunbird_kvbsun1/inaturalist/eastern_violet_backed_sunbird_kvbsun1_3",
+      "width": 1024,
+      "height": 644,
+      "format": "jpg",
+      "bytes": 86625,
+      "attribution": {
+        "photographer": "guru19",
+        "photographer_url": "https://www.inaturalist.org/observations/409655766",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© guru19 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 409655766,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

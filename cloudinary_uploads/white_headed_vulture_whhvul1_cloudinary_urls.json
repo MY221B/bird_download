@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_headed_vulture_whhvul1",
+    "chinese_name": "白头秃鹫",
+    "english_name": "White-headed Vulture",
+    "scientific_name": "Trigonoceps occipitalis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_headed_vulture_whhvul1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809722/bird-gallery/white_headed_vulture_whhvul1/inaturalist/white_headed_vulture_whhvul1_1.jpg",
+      "public_id": "bird-gallery/white_headed_vulture_whhvul1/inaturalist/white_headed_vulture_whhvul1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 46149,
+      "attribution": {
+        "photographer": "frankhart",
+        "photographer_url": "https://www.inaturalist.org/observations/189979954",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© frankhart (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 189979954,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_vulture_whhvul1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809723/bird-gallery/white_headed_vulture_whhvul1/inaturalist/white_headed_vulture_whhvul1_2.jpg",
+      "public_id": "bird-gallery/white_headed_vulture_whhvul1/inaturalist/white_headed_vulture_whhvul1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 68537,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/9945112",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9945112,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_vulture_whhvul1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809723/bird-gallery/white_headed_vulture_whhvul1/inaturalist/white_headed_vulture_whhvul1_3.jpg",
+      "public_id": "bird-gallery/white_headed_vulture_whhvul1/inaturalist/white_headed_vulture_whhvul1_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 63635,
+      "attribution": {
+        "photographer": "julcstars",
+        "photographer_url": "https://www.inaturalist.org/observations/62225955",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© julcstars (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 62225955,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

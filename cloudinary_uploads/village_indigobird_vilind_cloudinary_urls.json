@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "village_indigobird_vilind",
+    "chinese_name": "靛蓝维达雀",
+    "english_name": "Village Indigobird",
+    "scientific_name": "Vidua chalybeata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "village_indigobird_vilind_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809632/bird-gallery/village_indigobird_vilind/inaturalist/village_indigobird_vilind_1.jpg",
+      "public_id": "bird-gallery/village_indigobird_vilind/inaturalist/village_indigobird_vilind_1",
+      "width": 1024,
+      "height": 739,
+      "format": "jpg",
+      "bytes": 117117,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/19132655",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19132655,
+        "note": null
+      }
+    },
+    {
+      "original_file": "village_indigobird_vilind_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809633/bird-gallery/village_indigobird_vilind/inaturalist/village_indigobird_vilind_2.jpg",
+      "public_id": "bird-gallery/village_indigobird_vilind/inaturalist/village_indigobird_vilind_2",
+      "width": 824,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 82072,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18677188",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18677188,
+        "note": null
+      }
+    },
+    {
+      "original_file": "village_indigobird_vilind_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809634/bird-gallery/village_indigobird_vilind/inaturalist/village_indigobird_vilind_3.jpg",
+      "public_id": "bird-gallery/village_indigobird_vilind/inaturalist/village_indigobird_vilind_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 42259,
+      "attribution": {
+        "photographer": "cintylee",
+        "photographer_url": "https://www.inaturalist.org/observations/391563742",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cintylee (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 391563742,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

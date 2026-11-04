@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "sooty_gull",
+    "chinese_name": "白领鸥",
+    "english_name": "Sooty Gull",
+    "scientific_name": "Ichthyaetus hemprichii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "sooty_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809918/bird-gallery/sooty_gull/inaturalist/sooty_gull_1.jpg",
+      "public_id": "bird-gallery/sooty_gull/inaturalist/sooty_gull_1",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 112885,
+      "attribution": {
+        "photographer": "ismael_khalifa",
+        "photographer_url": "https://www.inaturalist.org/observations/261512543",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ismael_khalifa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 261512543,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_gull_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809919/bird-gallery/sooty_gull/inaturalist/sooty_gull_2.jpg",
+      "public_id": "bird-gallery/sooty_gull/inaturalist/sooty_gull_2",
+      "width": 1024,
+      "height": 820,
+      "format": "jpg",
+      "bytes": 42812,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/254288405",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 254288405,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_gull_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809919/bird-gallery/sooty_gull/inaturalist/sooty_gull_3.jpg",
+      "public_id": "bird-gallery/sooty_gull/inaturalist/sooty_gull_3",
+      "width": 1024,
+      "height": 982,
+      "format": "jpg",
+      "bytes": 34333,
+      "attribution": {
+        "photographer": "alisdair9",
+        "photographer_url": "https://www.inaturalist.org/observations/336222956",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© alisdair9 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 336222956,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

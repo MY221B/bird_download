@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "crimson_rumped_waxbill_crrwax1",
+    "chinese_name": "赤腰梅花雀",
+    "english_name": "Crimson-rumped Waxbill",
+    "scientific_name": "Estrilda rhodopyga"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "crimson_rumped_waxbill_crrwax1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809191/bird-gallery/crimson_rumped_waxbill_crrwax1/inaturalist/crimson_rumped_waxbill_crrwax1_1.jpg",
+      "public_id": "bird-gallery/crimson_rumped_waxbill_crrwax1/inaturalist/crimson_rumped_waxbill_crrwax1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 77687,
+      "attribution": {
+        "photographer": "tommyr78",
+        "photographer_url": "https://www.inaturalist.org/observations/41196343",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tommyr78 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 41196343,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crimson_rumped_waxbill_crrwax1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809192/bird-gallery/crimson_rumped_waxbill_crrwax1/inaturalist/crimson_rumped_waxbill_crrwax1_2.jpg",
+      "public_id": "bird-gallery/crimson_rumped_waxbill_crrwax1/inaturalist/crimson_rumped_waxbill_crrwax1_2",
+      "width": 1024,
+      "height": 818,
+      "format": "jpg",
+      "bytes": 78805,
+      "attribution": {
+        "photographer": "ismael_khalifa",
+        "photographer_url": "https://www.inaturalist.org/observations/351054509",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ismael_khalifa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 351054509,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crimson_rumped_waxbill_crrwax1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809193/bird-gallery/crimson_rumped_waxbill_crrwax1/inaturalist/crimson_rumped_waxbill_crrwax1_3.jpg",
+      "public_id": "bird-gallery/crimson_rumped_waxbill_crrwax1/inaturalist/crimson_rumped_waxbill_crrwax1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 51934,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/139141856",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 139141856,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_tailed_lark",
+    "chinese_name": "白尾歌百灵",
+    "english_name": "White-tailed Lark",
+    "scientific_name": "Mirafra albicauda"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_tailed_lark_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809836/bird-gallery/white_tailed_lark/inaturalist/white_tailed_lark_1.jpg",
+      "public_id": "bird-gallery/white_tailed_lark/inaturalist/white_tailed_lark_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 121126,
+      "attribution": {
+        "photographer": "davidroche",
+        "photographer_url": "https://www.inaturalist.org/observations/302812812",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© davidroche (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 302812812,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_tailed_lark_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809838/bird-gallery/white_tailed_lark/inaturalist/white_tailed_lark_2.jpg",
+      "public_id": "bird-gallery/white_tailed_lark/inaturalist/white_tailed_lark_2",
+      "width": 1024,
+      "height": 704,
+      "format": "jpg",
+      "bytes": 113348,
+      "attribution": {
+        "photographer": "jhskevington",
+        "photographer_url": "https://www.inaturalist.org/observations/139811301",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jhskevington (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 139811301,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_tailed_lark_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809839/bird-gallery/white_tailed_lark/inaturalist/white_tailed_lark_3.jpg",
+      "public_id": "bird-gallery/white_tailed_lark/inaturalist/white_tailed_lark_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 88270,
+      "attribution": {
+        "photographer": "lukeberg",
+        "photographer_url": "https://www.inaturalist.org/observations/310588581",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 310588581,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

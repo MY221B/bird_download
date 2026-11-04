@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "ashy_flycatcher_ashfly1",
+    "chinese_name": "灰鹟",
+    "english_name": "Ashy Flycatcher",
+    "scientific_name": "Fraseria caerulescens"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "ashy_flycatcher_ashfly1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809689/bird-gallery/ashy_flycatcher_ashfly1/inaturalist/ashy_flycatcher_ashfly1_1.jpg",
+      "public_id": "bird-gallery/ashy_flycatcher_ashfly1/inaturalist/ashy_flycatcher_ashfly1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 63995,
+      "attribution": {
+        "photographer": "seasav",
+        "photographer_url": "https://www.inaturalist.org/observations/8341502",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© seasav (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 8341502,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ashy_flycatcher_ashfly1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809690/bird-gallery/ashy_flycatcher_ashfly1/inaturalist/ashy_flycatcher_ashfly1_2.jpg",
+      "public_id": "bird-gallery/ashy_flycatcher_ashfly1/inaturalist/ashy_flycatcher_ashfly1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 47636,
+      "attribution": {
+        "photographer": "andrewdeacon",
+        "photographer_url": "https://www.inaturalist.org/observations/48747905",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© andrewdeacon (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 48747905,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ashy_flycatcher_ashfly1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809690/bird-gallery/ashy_flycatcher_ashfly1/inaturalist/ashy_flycatcher_ashfly1_3.jpg",
+      "public_id": "bird-gallery/ashy_flycatcher_ashfly1/inaturalist/ashy_flycatcher_ashfly1_3",
+      "width": 623,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 68622,
+      "attribution": {
+        "photographer": "hendrikmc",
+        "photographer_url": "https://www.inaturalist.org/observations/167873325",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hendrikmc (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 167873325,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

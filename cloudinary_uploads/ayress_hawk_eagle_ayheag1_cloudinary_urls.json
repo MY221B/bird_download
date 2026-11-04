@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "ayress_hawk_eagle_ayheag1",
+    "chinese_name": "艾氏雕",
+    "english_name": "Ayres's Hawk-Eagle",
+    "scientific_name": "Hieraaetus ayresii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "ayress_hawk_eagle_ayheag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809134/bird-gallery/ayress_hawk_eagle_ayheag1/inaturalist/ayress_hawk_eagle_ayheag1_1.jpg",
+      "public_id": "bird-gallery/ayress_hawk_eagle_ayheag1/inaturalist/ayress_hawk_eagle_ayheag1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 10117,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/60179614",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 60179614,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ayress_hawk_eagle_ayheag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809135/bird-gallery/ayress_hawk_eagle_ayheag1/inaturalist/ayress_hawk_eagle_ayheag1_2.jpg",
+      "public_id": "bird-gallery/ayress_hawk_eagle_ayheag1/inaturalist/ayress_hawk_eagle_ayheag1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 119459,
+      "attribution": {
+        "photographer": "daveski37",
+        "photographer_url": "https://www.inaturalist.org/observations/370554849",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© daveski37 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 370554849,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ayress_hawk_eagle_ayheag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809136/bird-gallery/ayress_hawk_eagle_ayheag1/inaturalist/ayress_hawk_eagle_ayheag1_3.jpg",
+      "public_id": "bird-gallery/ayress_hawk_eagle_ayheag1/inaturalist/ayress_hawk_eagle_ayheag1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 18387,
+      "attribution": {
+        "photographer": "davidroche",
+        "photographer_url": "https://www.inaturalist.org/observations/230448908",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© davidroche (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 230448908,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

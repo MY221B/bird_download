@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_faced_rufous_warbler",
+    "chinese_name": "黑脸棕莺",
+    "english_name": "Black-faced Rufous-Warbler",
+    "scientific_name": "Bathmocercus rufus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_faced_rufous_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809842/bird-gallery/black_faced_rufous_warbler/inaturalist/black_faced_rufous_warbler_1.jpg",
+      "public_id": "bird-gallery/black_faced_rufous_warbler/inaturalist/black_faced_rufous_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 112818,
+      "attribution": {
+        "photographer": "stephen220",
+        "photographer_url": "https://www.inaturalist.org/observations/143572561",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stephen220 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143572561,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_faced_rufous_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809843/bird-gallery/black_faced_rufous_warbler/inaturalist/black_faced_rufous_warbler_2.jpg",
+      "public_id": "bird-gallery/black_faced_rufous_warbler/inaturalist/black_faced_rufous_warbler_2",
+      "width": 1024,
+      "height": 910,
+      "format": "jpg",
+      "bytes": 261346,
+      "attribution": {
+        "photographer": "leuli",
+        "photographer_url": "https://www.inaturalist.org/observations/98698877",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© leuli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 98698877,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_faced_rufous_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809844/bird-gallery/black_faced_rufous_warbler/inaturalist/black_faced_rufous_warbler_3.jpg",
+      "public_id": "bird-gallery/black_faced_rufous_warbler/inaturalist/black_faced_rufous_warbler_3",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 87162,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/38569577",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 38569577,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

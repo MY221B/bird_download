@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "crowned_eagle_crheag1",
+    "chinese_name": "非洲冠雕",
+    "english_name": "Crowned Eagle",
+    "scientific_name": "Stephanoaetus coronatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "crowned_eagle_crheag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809185/bird-gallery/crowned_eagle_crheag1/inaturalist/crowned_eagle_crheag1_1.jpg",
+      "public_id": "bird-gallery/crowned_eagle_crheag1/inaturalist/crowned_eagle_crheag1_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 113613,
+      "attribution": {
+        "photographer": "heinrichhuman",
+        "photographer_url": "https://www.inaturalist.org/observations/196281680",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© heinrichhuman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 196281680,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crowned_eagle_crheag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809186/bird-gallery/crowned_eagle_crheag1/inaturalist/crowned_eagle_crheag1_2.jpg",
+      "public_id": "bird-gallery/crowned_eagle_crheag1/inaturalist/crowned_eagle_crheag1_2",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 97597,
+      "attribution": {
+        "photographer": "davidbygott",
+        "photographer_url": "https://www.inaturalist.org/observations/21250833",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© davidbygott (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 21250833,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crowned_eagle_crheag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809188/bird-gallery/crowned_eagle_crheag1/inaturalist/crowned_eagle_crheag1_3.jpg",
+      "public_id": "bird-gallery/crowned_eagle_crheag1/inaturalist/crowned_eagle_crheag1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 65996,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/62335609",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 62335609,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

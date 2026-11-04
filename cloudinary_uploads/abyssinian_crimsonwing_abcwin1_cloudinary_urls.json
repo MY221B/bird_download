@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "abyssinian_crimsonwing_abcwin1",
+    "chinese_name": "绿背朱翅雀",
+    "english_name": "Abyssinian Crimsonwing",
+    "scientific_name": "Cryptospiza salvadorii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "abyssinian_crimsonwing_abcwin1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809503/bird-gallery/abyssinian_crimsonwing_abcwin1/inaturalist/abyssinian_crimsonwing_abcwin1_1.jpg",
+      "public_id": "bird-gallery/abyssinian_crimsonwing_abcwin1/inaturalist/abyssinian_crimsonwing_abcwin1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 66195,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/147837367",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147837367,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_crimsonwing_abcwin1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809504/bird-gallery/abyssinian_crimsonwing_abcwin1/inaturalist/abyssinian_crimsonwing_abcwin1_2.jpg",
+      "public_id": "bird-gallery/abyssinian_crimsonwing_abcwin1/inaturalist/abyssinian_crimsonwing_abcwin1_2",
+      "width": 812,
+      "height": 648,
+      "format": "jpg",
+      "bytes": 51842,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/147100472",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147100472,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_crimsonwing_abcwin1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809504/bird-gallery/abyssinian_crimsonwing_abcwin1/inaturalist/abyssinian_crimsonwing_abcwin1_3.jpg",
+      "public_id": "bird-gallery/abyssinian_crimsonwing_abcwin1/inaturalist/abyssinian_crimsonwing_abcwin1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 112583,
+      "attribution": {
+        "photographer": "vmoser",
+        "photographer_url": "https://www.inaturalist.org/observations/257985920",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© vmoser (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 257985920,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

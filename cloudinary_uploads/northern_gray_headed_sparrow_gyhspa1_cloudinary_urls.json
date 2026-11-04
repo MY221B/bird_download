@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "northern_gray_headed_sparrow_gyhspa1",
+    "chinese_name": "灰头麻雀",
+    "english_name": "Northern Gray-headed Sparrow",
+    "scientific_name": "Passer griseus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "northern_gray_headed_sparrow_gyhspa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809586/bird-gallery/northern_gray_headed_sparrow_gyhspa1/inaturalist/northern_gray_headed_sparrow_gyhspa1_1.jpg",
+      "public_id": "bird-gallery/northern_gray_headed_sparrow_gyhspa1/inaturalist/northern_gray_headed_sparrow_gyhspa1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 23160,
+      "attribution": {
+        "photographer": "kalie9",
+        "photographer_url": "https://www.inaturalist.org/observations/97787656",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kalie9 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 97787656,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_gray_headed_sparrow_gyhspa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809586/bird-gallery/northern_gray_headed_sparrow_gyhspa1/inaturalist/northern_gray_headed_sparrow_gyhspa1_2.jpg",
+      "public_id": "bird-gallery/northern_gray_headed_sparrow_gyhspa1/inaturalist/northern_gray_headed_sparrow_gyhspa1_2",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 42984,
+      "attribution": {
+        "photographer": "karimattouche",
+        "photographer_url": "https://www.inaturalist.org/observations/258145886",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© karimattouche (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 258145886,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_gray_headed_sparrow_gyhspa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809587/bird-gallery/northern_gray_headed_sparrow_gyhspa1/inaturalist/northern_gray_headed_sparrow_gyhspa1_3.jpg",
+      "public_id": "bird-gallery/northern_gray_headed_sparrow_gyhspa1/inaturalist/northern_gray_headed_sparrow_gyhspa1_3",
+      "width": 1024,
+      "height": 876,
+      "format": "jpg",
+      "bytes": 84626,
+      "attribution": {
+        "photographer": "joachim",
+        "photographer_url": "https://www.inaturalist.org/observations/91614596",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© joachim (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 91614596,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

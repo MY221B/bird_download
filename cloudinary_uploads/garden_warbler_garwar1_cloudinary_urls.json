@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "garden_warbler_garwar1",
+    "chinese_name": "园林莺",
+    "english_name": "Garden Warbler",
+    "scientific_name": "Sylvia borin"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "garden_warbler_garwar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809229/bird-gallery/garden_warbler_garwar1/inaturalist/garden_warbler_garwar1_1.jpg",
+      "public_id": "bird-gallery/garden_warbler_garwar1/inaturalist/garden_warbler_garwar1_1",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 192139,
+      "attribution": {
+        "photographer": "fotoparus",
+        "photographer_url": "https://www.inaturalist.org/observations/148273827",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© fotoparus (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 148273827,
+        "note": null
+      }
+    },
+    {
+      "original_file": "garden_warbler_garwar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809230/bird-gallery/garden_warbler_garwar1/inaturalist/garden_warbler_garwar1_2.jpg",
+      "public_id": "bird-gallery/garden_warbler_garwar1/inaturalist/garden_warbler_garwar1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96862,
+      "attribution": {
+        "photographer": "igor_scherbakov",
+        "photographer_url": "https://www.inaturalist.org/observations/73013530",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© igor_scherbakov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 73013530,
+        "note": null
+      }
+    },
+    {
+      "original_file": "garden_warbler_garwar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809230/bird-gallery/garden_warbler_garwar1/inaturalist/garden_warbler_garwar1_3.jpg",
+      "public_id": "bird-gallery/garden_warbler_garwar1/inaturalist/garden_warbler_garwar1_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 121267,
+      "attribution": {
+        "photographer": "tomegatherion",
+        "photographer_url": "https://www.inaturalist.org/observations/18576313",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tomegatherion (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 18576313,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

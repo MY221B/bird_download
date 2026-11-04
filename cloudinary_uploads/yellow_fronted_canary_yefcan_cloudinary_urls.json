@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_fronted_canary_yefcan",
+    "chinese_name": "黄额丝雀",
+    "english_name": "Yellow-fronted Canary",
+    "scientific_name": "Crithagra mozambica"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "yellow_fronted_canary_yefcan_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809727/bird-gallery/yellow_fronted_canary_yefcan/inaturalist/yellow_fronted_canary_yefcan_1.jpg",
+      "public_id": "bird-gallery/yellow_fronted_canary_yefcan/inaturalist/yellow_fronted_canary_yefcan_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 62641,
+      "attribution": {
+        "photographer": "devineconservation",
+        "photographer_url": "https://www.inaturalist.org/observations/337907564",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© devineconservation (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337907564,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_fronted_canary_yefcan_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809728/bird-gallery/yellow_fronted_canary_yefcan/inaturalist/yellow_fronted_canary_yefcan_2.jpg",
+      "public_id": "bird-gallery/yellow_fronted_canary_yefcan/inaturalist/yellow_fronted_canary_yefcan_2",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 53570,
+      "attribution": {
+        "photographer": "ryanmtippett",
+        "photographer_url": "https://www.inaturalist.org/observations/402307268",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ryanmtippett (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 402307268,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_fronted_canary_yefcan_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809728/bird-gallery/yellow_fronted_canary_yefcan/inaturalist/yellow_fronted_canary_yefcan_3.jpg",
+      "public_id": "bird-gallery/yellow_fronted_canary_yefcan/inaturalist/yellow_fronted_canary_yefcan_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 47049,
+      "attribution": {
+        "photographer": "neontetraploid",
+        "photographer_url": "https://www.inaturalist.org/observations/87346101",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© neontetraploid (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 87346101,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

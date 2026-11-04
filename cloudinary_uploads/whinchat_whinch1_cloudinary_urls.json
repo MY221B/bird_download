@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "whinchat_whinch1",
+    "chinese_name": "草原石䳭",
+    "english_name": "Whinchat",
+    "scientific_name": "Saxicola rubetra"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "whinchat_whinch1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809448/bird-gallery/whinchat_whinch1/inaturalist/whinchat_whinch1_1.jpg",
+      "public_id": "bird-gallery/whinchat_whinch1/inaturalist/whinchat_whinch1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 54321,
+      "attribution": {
+        "photographer": "glosterbirder",
+        "photographer_url": "https://www.inaturalist.org/observations/40103856",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© glosterbirder (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 40103856,
+        "note": null
+      }
+    },
+    {
+      "original_file": "whinchat_whinch1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809449/bird-gallery/whinchat_whinch1/inaturalist/whinchat_whinch1_2.jpg",
+      "public_id": "bird-gallery/whinchat_whinch1/inaturalist/whinchat_whinch1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55327,
+      "attribution": {
+        "photographer": "max_novikov",
+        "photographer_url": "https://www.inaturalist.org/observations/233944391",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© max_novikov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 233944391,
+        "note": null
+      }
+    },
+    {
+      "original_file": "whinchat_whinch1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809450/bird-gallery/whinchat_whinch1/inaturalist/whinchat_whinch1_3.jpg",
+      "public_id": "bird-gallery/whinchat_whinch1/inaturalist/whinchat_whinch1_3",
+      "width": 600,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 45207,
+      "attribution": {
+        "photographer": "tatyanazarubo",
+        "photographer_url": "https://www.inaturalist.org/observations/39403300",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tatyanazarubo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39403300,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

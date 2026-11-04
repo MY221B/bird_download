@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "freckled_nightjar",
+    "chinese_name": "雀斑夜鹰",
+    "english_name": "Freckled Nightjar",
+    "scientific_name": "Caprimulgus tristigma"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "freckled_nightjar_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809827/bird-gallery/freckled_nightjar/inaturalist/freckled_nightjar_1.jpg",
+      "public_id": "bird-gallery/freckled_nightjar/inaturalist/freckled_nightjar_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 81954,
+      "attribution": {
+        "photographer": "michaelochse",
+        "photographer_url": "https://www.inaturalist.org/observations/251065015",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© michaelochse (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 251065015,
+        "note": null
+      }
+    },
+    {
+      "original_file": "freckled_nightjar_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809828/bird-gallery/freckled_nightjar/inaturalist/freckled_nightjar_2.jpg",
+      "public_id": "bird-gallery/freckled_nightjar/inaturalist/freckled_nightjar_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 99774,
+      "attribution": {
+        "photographer": "grantegen",
+        "photographer_url": "https://www.inaturalist.org/observations/331330167",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© grantegen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 331330167,
+        "note": null
+      }
+    },
+    {
+      "original_file": "freckled_nightjar_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809829/bird-gallery/freckled_nightjar/inaturalist/freckled_nightjar_3.jpg",
+      "public_id": "bird-gallery/freckled_nightjar/inaturalist/freckled_nightjar_3",
+      "width": 1024,
+      "height": 655,
+      "format": "jpg",
+      "bytes": 134225,
+      "attribution": {
+        "photographer": "simontonge",
+        "photographer_url": "https://www.inaturalist.org/observations/19090749",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© simontonge (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 19090749,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

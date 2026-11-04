@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_black_duck_afbduc1",
+    "chinese_name": "非洲黑鸭",
+    "english_name": "African Black Duck",
+    "scientific_name": "Anas sparsa"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_black_duck_afbduc1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809109/bird-gallery/african_black_duck_afbduc1/inaturalist/african_black_duck_afbduc1_1.jpg",
+      "public_id": "bird-gallery/african_black_duck_afbduc1/inaturalist/african_black_duck_afbduc1_1",
+      "width": 1001,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 64583,
+      "attribution": {
+        "photographer": "marajua",
+        "photographer_url": "https://www.inaturalist.org/observations/237123051",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marajua (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 237123051,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_black_duck_afbduc1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809110/bird-gallery/african_black_duck_afbduc1/inaturalist/african_black_duck_afbduc1_2.jpg",
+      "public_id": "bird-gallery/african_black_duck_afbduc1/inaturalist/african_black_duck_afbduc1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 135277,
+      "attribution": {
+        "photographer": "hwittridge",
+        "photographer_url": "https://www.inaturalist.org/observations/20834993",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hwittridge (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20834993,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_black_duck_afbduc1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809110/bird-gallery/african_black_duck_afbduc1/inaturalist/african_black_duck_afbduc1_3.jpg",
+      "public_id": "bird-gallery/african_black_duck_afbduc1/inaturalist/african_black_duck_afbduc1_3",
+      "width": 1024,
+      "height": 575,
+      "format": "jpg",
+      "bytes": 63498,
+      "attribution": {
+        "photographer": "debtherat",
+        "photographer_url": "https://www.inaturalist.org/observations/184309650",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© debtherat (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 184309650,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

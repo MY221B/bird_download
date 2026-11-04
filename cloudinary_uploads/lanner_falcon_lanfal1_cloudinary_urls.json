@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lanner_falcon_lanfal1",
+    "chinese_name": "地中海隼",
+    "english_name": "Lanner Falcon",
+    "scientific_name": "Falco biarmicus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lanner_falcon_lanfal1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809286/bird-gallery/lanner_falcon_lanfal1/inaturalist/lanner_falcon_lanfal1_1.jpg",
+      "public_id": "bird-gallery/lanner_falcon_lanfal1/inaturalist/lanner_falcon_lanfal1_1",
+      "width": 826,
+      "height": 677,
+      "format": "jpg",
+      "bytes": 59961,
+      "attribution": {
+        "photographer": "nature-with-paapi",
+        "photographer_url": "https://www.inaturalist.org/observations/102884343",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© nature-with-paapi (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 102884343,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lanner_falcon_lanfal1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809287/bird-gallery/lanner_falcon_lanfal1/inaturalist/lanner_falcon_lanfal1_2.jpg",
+      "public_id": "bird-gallery/lanner_falcon_lanfal1/inaturalist/lanner_falcon_lanfal1_2",
+      "width": 636,
+      "height": 510,
+      "format": "jpg",
+      "bytes": 30148,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/15308270",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 15308270,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lanner_falcon_lanfal1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809287/bird-gallery/lanner_falcon_lanfal1/inaturalist/lanner_falcon_lanfal1_3.jpg",
+      "public_id": "bird-gallery/lanner_falcon_lanfal1/inaturalist/lanner_falcon_lanfal1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 32365,
+      "attribution": {
+        "photographer": "tiagotg7",
+        "photographer_url": "https://www.inaturalist.org/observations/391512037",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tiagotg7 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 391512037,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

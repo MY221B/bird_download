@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "cinnamon_bracken_warbler_cibwar1",
+    "chinese_name": "桂红短翅莺",
+    "english_name": "Cinnamon Bracken-Warbler",
+    "scientific_name": "Bradypterus cinnamomeus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "cinnamon_bracken_warbler_cibwar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809521/bird-gallery/cinnamon_bracken_warbler_cibwar1/inaturalist/cinnamon_bracken_warbler_cibwar1_1.jpg",
+      "public_id": "bird-gallery/cinnamon_bracken_warbler_cibwar1/inaturalist/cinnamon_bracken_warbler_cibwar1_1",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 49945,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/10083297",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10083297,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cinnamon_bracken_warbler_cibwar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809521/bird-gallery/cinnamon_bracken_warbler_cibwar1/inaturalist/cinnamon_bracken_warbler_cibwar1_2.jpg",
+      "public_id": "bird-gallery/cinnamon_bracken_warbler_cibwar1/inaturalist/cinnamon_bracken_warbler_cibwar1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 56628,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/147190396",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147190396,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cinnamon_bracken_warbler_cibwar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809522/bird-gallery/cinnamon_bracken_warbler_cibwar1/inaturalist/cinnamon_bracken_warbler_cibwar1_3.jpg",
+      "public_id": "bird-gallery/cinnamon_bracken_warbler_cibwar1/inaturalist/cinnamon_bracken_warbler_cibwar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115589,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7419157",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7419157,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

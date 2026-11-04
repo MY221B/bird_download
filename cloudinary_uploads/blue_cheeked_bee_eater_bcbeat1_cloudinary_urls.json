@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "blue_cheeked_bee_eater_bcbeat1",
+    "chinese_name": "蓝颊蜂虎",
+    "english_name": "Blue-cheeked Bee-eater",
+    "scientific_name": "Merops persicus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "blue_cheeked_bee_eater_bcbeat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809644/bird-gallery/blue_cheeked_bee_eater_bcbeat1/inaturalist/blue_cheeked_bee_eater_bcbeat1_1.jpg",
+      "public_id": "bird-gallery/blue_cheeked_bee_eater_bcbeat1/inaturalist/blue_cheeked_bee_eater_bcbeat1_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 56250,
+      "attribution": {
+        "photographer": "miguelcampos",
+        "photographer_url": "https://www.inaturalist.org/observations/22361256",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© miguelcampos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 22361256,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_cheeked_bee_eater_bcbeat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809645/bird-gallery/blue_cheeked_bee_eater_bcbeat1/inaturalist/blue_cheeked_bee_eater_bcbeat1_2.jpg",
+      "public_id": "bird-gallery/blue_cheeked_bee_eater_bcbeat1/inaturalist/blue_cheeked_bee_eater_bcbeat1_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 86977,
+      "attribution": {
+        "photographer": "jarkkopeltoniemi",
+        "photographer_url": "https://www.inaturalist.org/observations/165784224",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jarkkopeltoniemi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 165784224,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_cheeked_bee_eater_bcbeat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809646/bird-gallery/blue_cheeked_bee_eater_bcbeat1/inaturalist/blue_cheeked_bee_eater_bcbeat1_3.jpg",
+      "public_id": "bird-gallery/blue_cheeked_bee_eater_bcbeat1/inaturalist/blue_cheeked_bee_eater_bcbeat1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 49959,
+      "attribution": {
+        "photographer": "s_chere",
+        "photographer_url": "https://www.inaturalist.org/observations/214452996",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© s_chere (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 214452996,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_ostrich_ostric2",
+    "chinese_name": "鸵鸟",
+    "english_name": "Common Ostrich",
+    "scientific_name": "Struthio camelus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_ostrich_ostric2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809336/bird-gallery/common_ostrich_ostric2/inaturalist/common_ostrich_ostric2_1.jpg",
+      "public_id": "bird-gallery/common_ostrich_ostric2/inaturalist/common_ostrich_ostric2_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 254274,
+      "attribution": {
+        "photographer": "asgardner",
+        "photographer_url": "https://www.inaturalist.org/observations/145972888",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asgardner (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 145972888,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_ostrich_ostric2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809337/bird-gallery/common_ostrich_ostric2/inaturalist/common_ostrich_ostric2_2.jpg",
+      "public_id": "bird-gallery/common_ostrich_ostric2/inaturalist/common_ostrich_ostric2_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 73691,
+      "attribution": {
+        "photographer": "quiteaquail",
+        "photographer_url": "https://www.inaturalist.org/observations/18839747",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© quiteaquail (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18839747,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_ostrich_ostric2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809338/bird-gallery/common_ostrich_ostric2/inaturalist/common_ostrich_ostric2_3.jpg",
+      "public_id": "bird-gallery/common_ostrich_ostric2/inaturalist/common_ostrich_ostric2_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 73166,
+      "attribution": {
+        "photographer": "tobi-nature",
+        "photographer_url": "https://www.inaturalist.org/observations/220935196",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tobi-nature (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 220935196,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

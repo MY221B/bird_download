@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eastern_paradise_whydah",
+    "chinese_name": "乐园维达雀",
+    "english_name": "Eastern Paradise-Whydah",
+    "scientific_name": "Vidua paradisaea"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eastern_paradise_whydah_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809768/bird-gallery/eastern_paradise_whydah/inaturalist/eastern_paradise_whydah_1.jpg",
+      "public_id": "bird-gallery/eastern_paradise_whydah/inaturalist/eastern_paradise_whydah_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 37381,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/10452107",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 10452107,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_paradise_whydah_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809769/bird-gallery/eastern_paradise_whydah/inaturalist/eastern_paradise_whydah_2.jpg",
+      "public_id": "bird-gallery/eastern_paradise_whydah/inaturalist/eastern_paradise_whydah_2",
+      "width": 498,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 72963,
+      "attribution": {
+        "photographer": "jess_isden",
+        "photographer_url": "https://www.inaturalist.org/observations/77563958",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jess_isden (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 77563958,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_paradise_whydah_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809770/bird-gallery/eastern_paradise_whydah/inaturalist/eastern_paradise_whydah_3.jpg",
+      "public_id": "bird-gallery/eastern_paradise_whydah/inaturalist/eastern_paradise_whydah_3",
+      "width": 723,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 56006,
+      "attribution": {
+        "photographer": "suzieandjim",
+        "photographer_url": "https://www.inaturalist.org/observations/30087105",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© suzieandjim (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 30087105,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "purple_grenadier_purgre2",
+    "chinese_name": "紫蓝饰雀",
+    "english_name": "Purple Grenadier",
+    "scientific_name": "Granatina ianthinogaster"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "purple_grenadier_purgre2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809353/bird-gallery/purple_grenadier_purgre2/inaturalist/purple_grenadier_purgre2_1.jpg",
+      "public_id": "bird-gallery/purple_grenadier_purgre2/inaturalist/purple_grenadier_purgre2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 138841,
+      "attribution": {
+        "photographer": "darren_j_obbard",
+        "photographer_url": "https://www.inaturalist.org/observations/154740098",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© darren_j_obbard (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 154740098,
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_grenadier_purgre2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809354/bird-gallery/purple_grenadier_purgre2/inaturalist/purple_grenadier_purgre2_2.jpg",
+      "public_id": "bird-gallery/purple_grenadier_purgre2/inaturalist/purple_grenadier_purgre2_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 54504,
+      "attribution": {
+        "photographer": "moschini",
+        "photographer_url": "https://www.inaturalist.org/observations/236417783",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© moschini (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 236417783,
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_grenadier_purgre2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809355/bird-gallery/purple_grenadier_purgre2/inaturalist/purple_grenadier_purgre2_3.jpg",
+      "public_id": "bird-gallery/purple_grenadier_purgre2/inaturalist/purple_grenadier_purgre2_3",
+      "width": 1024,
+      "height": 907,
+      "format": "jpg",
+      "bytes": 72861,
+      "attribution": {
+        "photographer": "photokeen",
+        "photographer_url": "https://www.inaturalist.org/observations/182383161",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© photokeen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 182383161,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

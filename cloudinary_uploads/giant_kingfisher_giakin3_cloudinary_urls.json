@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "giant_kingfisher_giakin3",
+    "chinese_name": "大鱼狗",
+    "english_name": "Giant Kingfisher",
+    "scientific_name": "Megaceryle maxima"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "giant_kingfisher_giakin3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809234/bird-gallery/giant_kingfisher_giakin3/inaturalist/giant_kingfisher_giakin3_1.jpg",
+      "public_id": "bird-gallery/giant_kingfisher_giakin3/inaturalist/giant_kingfisher_giakin3_1",
+      "width": 796,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 60554,
+      "attribution": {
+        "photographer": "petermcintyre",
+        "photographer_url": "https://www.inaturalist.org/observations/189770183",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© petermcintyre (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 189770183,
+        "note": null
+      }
+    },
+    {
+      "original_file": "giant_kingfisher_giakin3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809235/bird-gallery/giant_kingfisher_giakin3/inaturalist/giant_kingfisher_giakin3_2.jpg",
+      "public_id": "bird-gallery/giant_kingfisher_giakin3/inaturalist/giant_kingfisher_giakin3_2",
+      "width": 1024,
+      "height": 894,
+      "format": "jpg",
+      "bytes": 91036,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/137282424",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 137282424,
+        "note": null
+      }
+    },
+    {
+      "original_file": "giant_kingfisher_giakin3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809236/bird-gallery/giant_kingfisher_giakin3/inaturalist/giant_kingfisher_giakin3_3.jpg",
+      "public_id": "bird-gallery/giant_kingfisher_giakin3/inaturalist/giant_kingfisher_giakin3_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 69792,
+      "attribution": {
+        "photographer": "ajdyason",
+        "photographer_url": "https://www.inaturalist.org/observations/72348497",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ajdyason (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 72348497,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

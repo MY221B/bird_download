@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eastern_olivaceous_warbler_eaowar1",
+    "chinese_name": "草绿篱莺",
+    "english_name": "Eastern Olivaceous Warbler",
+    "scientific_name": "Iduna pallida"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eastern_olivaceous_warbler_eaowar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809746/bird-gallery/eastern_olivaceous_warbler_eaowar1/inaturalist/eastern_olivaceous_warbler_eaowar1_1.jpg",
+      "public_id": "bird-gallery/eastern_olivaceous_warbler_eaowar1/inaturalist/eastern_olivaceous_warbler_eaowar1_1",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 65491,
+      "attribution": {
+        "photographer": "admss",
+        "photographer_url": "https://www.inaturalist.org/observations/36795496",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© admss (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36795496,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_olivaceous_warbler_eaowar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809747/bird-gallery/eastern_olivaceous_warbler_eaowar1/inaturalist/eastern_olivaceous_warbler_eaowar1_2.jpg",
+      "public_id": "bird-gallery/eastern_olivaceous_warbler_eaowar1/inaturalist/eastern_olivaceous_warbler_eaowar1_2",
+      "width": 881,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 125687,
+      "attribution": {
+        "photographer": "andriy_miskov",
+        "photographer_url": "https://www.inaturalist.org/observations/122675110",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© andriy_miskov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 122675110,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_olivaceous_warbler_eaowar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809748/bird-gallery/eastern_olivaceous_warbler_eaowar1/inaturalist/eastern_olivaceous_warbler_eaowar1_3.jpg",
+      "public_id": "bird-gallery/eastern_olivaceous_warbler_eaowar1/inaturalist/eastern_olivaceous_warbler_eaowar1_3",
+      "width": 790,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 52634,
+      "attribution": {
+        "photographer": "stevem4560",
+        "photographer_url": "https://www.inaturalist.org/observations/366285465",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© stevem4560 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 366285465,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

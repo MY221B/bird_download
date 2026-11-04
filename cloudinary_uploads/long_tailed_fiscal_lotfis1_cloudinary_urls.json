@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "long_tailed_fiscal_lotfis1",
+    "chinese_name": "东非长尾伯劳",
+    "english_name": "Long-tailed Fiscal",
+    "scientific_name": "Lanius cabanisi"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "long_tailed_fiscal_lotfis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809302/bird-gallery/long_tailed_fiscal_lotfis1/inaturalist/long_tailed_fiscal_lotfis1_1.jpg",
+      "public_id": "bird-gallery/long_tailed_fiscal_lotfis1/inaturalist/long_tailed_fiscal_lotfis1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 140017,
+      "attribution": {
+        "photographer": "neilbachie",
+        "photographer_url": "https://www.inaturalist.org/observations/127419054",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© neilbachie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 127419054,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_tailed_fiscal_lotfis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809303/bird-gallery/long_tailed_fiscal_lotfis1/inaturalist/long_tailed_fiscal_lotfis1_2.jpg",
+      "public_id": "bird-gallery/long_tailed_fiscal_lotfis1/inaturalist/long_tailed_fiscal_lotfis1_2",
+      "width": 1024,
+      "height": 860,
+      "format": "jpg",
+      "bytes": 62112,
+      "attribution": {
+        "photographer": "wayneosborn",
+        "photographer_url": "https://www.inaturalist.org/observations/151804718",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wayneosborn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 151804718,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_tailed_fiscal_lotfis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809304/bird-gallery/long_tailed_fiscal_lotfis1/inaturalist/long_tailed_fiscal_lotfis1_3.jpg",
+      "public_id": "bird-gallery/long_tailed_fiscal_lotfis1/inaturalist/long_tailed_fiscal_lotfis1_3",
+      "width": 1024,
+      "height": 813,
+      "format": "jpg",
+      "bytes": 92091,
+      "attribution": {
+        "photographer": "owlice",
+        "photographer_url": "https://www.inaturalist.org/observations/240376446",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© owlice (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 240376446,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

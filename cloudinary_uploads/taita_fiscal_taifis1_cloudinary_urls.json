@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "taita_fiscal_taifis1",
+    "chinese_name": "肯尼亚伯劳",
+    "english_name": "Taita Fiscal",
+    "scientific_name": "Lanius dorsalis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "taita_fiscal_taifis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809418/bird-gallery/taita_fiscal_taifis1/inaturalist/taita_fiscal_taifis1_1.jpg",
+      "public_id": "bird-gallery/taita_fiscal_taifis1/inaturalist/taita_fiscal_taifis1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58552,
+      "attribution": {
+        "photographer": "danpatrick",
+        "photographer_url": "https://www.inaturalist.org/observations/34489696",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© danpatrick (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 34489696,
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_fiscal_taifis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809418/bird-gallery/taita_fiscal_taifis1/inaturalist/taita_fiscal_taifis1_2.jpg",
+      "public_id": "bird-gallery/taita_fiscal_taifis1/inaturalist/taita_fiscal_taifis1_2",
+      "width": 1024,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 128463,
+      "attribution": {
+        "photographer": "cyathus",
+        "photographer_url": "https://www.inaturalist.org/observations/92775222",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cyathus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 92775222,
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_fiscal_taifis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809420/bird-gallery/taita_fiscal_taifis1/inaturalist/taita_fiscal_taifis1_3.jpg",
+      "public_id": "bird-gallery/taita_fiscal_taifis1/inaturalist/taita_fiscal_taifis1_3",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 43989,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/10772293",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10772293,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

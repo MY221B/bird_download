@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "red_cheeked_cordonbleu_reccor",
+    "chinese_name": "红颊蓝饰雀",
+    "english_name": "Red-cheeked Cordonbleu",
+    "scientific_name": "Uraeginthus bengalus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "red_cheeked_cordonbleu_reccor_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809372/bird-gallery/red_cheeked_cordonbleu_reccor/inaturalist/red_cheeked_cordonbleu_reccor_1.jpg",
+      "public_id": "bird-gallery/red_cheeked_cordonbleu_reccor/inaturalist/red_cheeked_cordonbleu_reccor_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 53675,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/170414993",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 170414993,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_cheeked_cordonbleu_reccor_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809373/bird-gallery/red_cheeked_cordonbleu_reccor/inaturalist/red_cheeked_cordonbleu_reccor_2.jpg",
+      "public_id": "bird-gallery/red_cheeked_cordonbleu_reccor/inaturalist/red_cheeked_cordonbleu_reccor_2",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 68670,
+      "attribution": {
+        "photographer": "adamwelz",
+        "photographer_url": "https://www.inaturalist.org/observations/65897178",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© adamwelz (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 65897178,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_cheeked_cordonbleu_reccor_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809374/bird-gallery/red_cheeked_cordonbleu_reccor/inaturalist/red_cheeked_cordonbleu_reccor_3.jpg",
+      "public_id": "bird-gallery/red_cheeked_cordonbleu_reccor/inaturalist/red_cheeked_cordonbleu_reccor_3",
+      "width": 576,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 70724,
+      "attribution": {
+        "photographer": "stephen_ezekiel",
+        "photographer_url": "https://www.inaturalist.org/observations/318145898",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stephen_ezekiel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 318145898,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

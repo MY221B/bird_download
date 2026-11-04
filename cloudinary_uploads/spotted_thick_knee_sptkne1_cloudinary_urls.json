@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "spotted_thick_knee_sptkne1",
+    "chinese_name": "斑石鸻",
+    "english_name": "Spotted Thick-knee",
+    "scientific_name": "Burhinus capensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "spotted_thick_knee_sptkne1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809403/bird-gallery/spotted_thick_knee_sptkne1/inaturalist/spotted_thick_knee_sptkne1_1.jpg",
+      "public_id": "bird-gallery/spotted_thick_knee_sptkne1/inaturalist/spotted_thick_knee_sptkne1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 32840,
+      "attribution": {
+        "photographer": "jaheymans",
+        "photographer_url": "https://www.inaturalist.org/observations/204370234",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jaheymans (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 204370234,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_thick_knee_sptkne1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809403/bird-gallery/spotted_thick_knee_sptkne1/inaturalist/spotted_thick_knee_sptkne1_2.jpg",
+      "public_id": "bird-gallery/spotted_thick_knee_sptkne1/inaturalist/spotted_thick_knee_sptkne1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 252817,
+      "attribution": {
+        "photographer": "richardgill",
+        "photographer_url": "https://www.inaturalist.org/observations/191663703",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richardgill (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191663703,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_thick_knee_sptkne1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809404/bird-gallery/spotted_thick_knee_sptkne1/inaturalist/spotted_thick_knee_sptkne1_3.jpg",
+      "public_id": "bird-gallery/spotted_thick_knee_sptkne1/inaturalist/spotted_thick_knee_sptkne1_3",
+      "width": 1024,
+      "height": 809,
+      "format": "jpg",
+      "bytes": 178097,
+      "attribution": {
+        "photographer": "cecileroux",
+        "photographer_url": "https://www.inaturalist.org/observations/187254474",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© cecileroux (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 187254474,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

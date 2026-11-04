@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "speckled_pigeon_spepig1",
+    "chinese_name": "点斑鸽",
+    "english_name": "Speckled Pigeon",
+    "scientific_name": "Columba guinea"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "speckled_pigeon_spepig1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809398/bird-gallery/speckled_pigeon_spepig1/inaturalist/speckled_pigeon_spepig1_1.jpg",
+      "public_id": "bird-gallery/speckled_pigeon_spepig1/inaturalist/speckled_pigeon_spepig1_1",
+      "width": 1024,
+      "height": 877,
+      "format": "jpg",
+      "bytes": 117021,
+      "attribution": {
+        "photographer": "sedgesrock",
+        "photographer_url": "https://www.inaturalist.org/observations/11067266",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sedgesrock (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11067266,
+        "note": null
+      }
+    },
+    {
+      "original_file": "speckled_pigeon_spepig1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809398/bird-gallery/speckled_pigeon_spepig1/inaturalist/speckled_pigeon_spepig1_2.jpg",
+      "public_id": "bird-gallery/speckled_pigeon_spepig1/inaturalist/speckled_pigeon_spepig1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 43432,
+      "attribution": {
+        "photographer": "aidandunlop",
+        "photographer_url": "https://www.inaturalist.org/observations/57529092",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© aidandunlop (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 57529092,
+        "note": null
+      }
+    },
+    {
+      "original_file": "speckled_pigeon_spepig1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809399/bird-gallery/speckled_pigeon_spepig1/inaturalist/speckled_pigeon_spepig1_3.jpg",
+      "public_id": "bird-gallery/speckled_pigeon_spepig1/inaturalist/speckled_pigeon_spepig1_3",
+      "width": 1024,
+      "height": 994,
+      "format": "jpg",
+      "bytes": 151251,
+      "attribution": {
+        "photographer": "nwatinyoka",
+        "photographer_url": "https://www.inaturalist.org/observations/113101987",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nwatinyoka (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 113101987,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

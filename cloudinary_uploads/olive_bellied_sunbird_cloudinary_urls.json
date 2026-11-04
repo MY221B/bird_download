@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "olive_bellied_sunbird",
+    "chinese_name": "绿腹花蜜鸟",
+    "english_name": "Olive-bellied Sunbird",
+    "scientific_name": "Cinnyris chloropygius"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "olive_bellied_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809864/bird-gallery/olive_bellied_sunbird/inaturalist/olive_bellied_sunbird_1.jpg",
+      "public_id": "bird-gallery/olive_bellied_sunbird/inaturalist/olive_bellied_sunbird_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 37477,
+      "attribution": {
+        "photographer": "jeanlouiscarlo",
+        "photographer_url": "https://www.inaturalist.org/observations/261216455",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanlouiscarlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 261216455,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_bellied_sunbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809865/bird-gallery/olive_bellied_sunbird/inaturalist/olive_bellied_sunbird_2.jpg",
+      "public_id": "bird-gallery/olive_bellied_sunbird/inaturalist/olive_bellied_sunbird_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 68494,
+      "attribution": {
+        "photographer": "gregoiredubois",
+        "photographer_url": "https://www.inaturalist.org/observations/10389365",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gregoiredubois (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10389365,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_bellied_sunbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809866/bird-gallery/olive_bellied_sunbird/inaturalist/olive_bellied_sunbird_3.jpg",
+      "public_id": "bird-gallery/olive_bellied_sunbird/inaturalist/olive_bellied_sunbird_3",
+      "width": 1024,
+      "height": 647,
+      "format": "jpg",
+      "bytes": 67149,
+      "attribution": {
+        "photographer": "anudibranchmom",
+        "photographer_url": "https://www.inaturalist.org/observations/7635200",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© anudibranchmom (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 7635200,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

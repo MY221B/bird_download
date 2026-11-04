@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "green_tinkerbird_gretin2",
+    "chinese_name": "绿钟声拟䴕",
+    "english_name": "Green Tinkerbird",
+    "scientific_name": "Pogoniulus simplex"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "green_tinkerbird_gretin2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809898/bird-gallery/green_tinkerbird_gretin2/inaturalist/green_tinkerbird_gretin2_1.jpg",
+      "public_id": "bird-gallery/green_tinkerbird_gretin2/inaturalist/green_tinkerbird_gretin2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64038,
+      "attribution": {
+        "photographer": "galewski",
+        "photographer_url": "https://www.inaturalist.org/observations/261282015",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© galewski (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 261282015,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_tinkerbird_gretin2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809899/bird-gallery/green_tinkerbird_gretin2/inaturalist/green_tinkerbird_gretin2_2.jpg",
+      "public_id": "bird-gallery/green_tinkerbird_gretin2/inaturalist/green_tinkerbird_gretin2_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 43247,
+      "attribution": {
+        "photographer": "johnnybirder",
+        "photographer_url": "https://www.inaturalist.org/observations/1155205",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© johnnybirder (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 1155205,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_tinkerbird_gretin2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809900/bird-gallery/green_tinkerbird_gretin2/inaturalist/green_tinkerbird_gretin2_3.jpg",
+      "public_id": "bird-gallery/green_tinkerbird_gretin2/inaturalist/green_tinkerbird_gretin2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 85961,
+      "attribution": {
+        "photographer": "hubsterpro",
+        "photographer_url": "https://www.inaturalist.org/observations/334259574",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© hubsterpro (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 334259574,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

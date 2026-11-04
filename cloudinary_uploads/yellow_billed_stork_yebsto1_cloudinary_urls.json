@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_billed_stork_yebsto1",
+    "chinese_name": "黄嘴鹮鹳",
+    "english_name": "Yellow-billed Stork",
+    "scientific_name": "Mycteria ibis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "yellow_billed_stork_yebsto1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809468/bird-gallery/yellow_billed_stork_yebsto1/inaturalist/yellow_billed_stork_yebsto1_1.jpg",
+      "public_id": "bird-gallery/yellow_billed_stork_yebsto1/inaturalist/yellow_billed_stork_yebsto1_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 43177,
+      "attribution": {
+        "photographer": "wynand_uys",
+        "photographer_url": "https://www.inaturalist.org/observations/14133114",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© wynand_uys (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 14133114,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_stork_yebsto1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809469/bird-gallery/yellow_billed_stork_yebsto1/inaturalist/yellow_billed_stork_yebsto1_2.jpg",
+      "public_id": "bird-gallery/yellow_billed_stork_yebsto1/inaturalist/yellow_billed_stork_yebsto1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 54811,
+      "attribution": {
+        "photographer": "spencer_holmes",
+        "photographer_url": "https://www.inaturalist.org/observations/110297563",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© spencer_holmes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 110297563,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_stork_yebsto1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809470/bird-gallery/yellow_billed_stork_yebsto1/inaturalist/yellow_billed_stork_yebsto1_3.jpg",
+      "public_id": "bird-gallery/yellow_billed_stork_yebsto1/inaturalist/yellow_billed_stork_yebsto1_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 152951,
+      "attribution": {
+        "photographer": "butati",
+        "photographer_url": "https://www.inaturalist.org/observations/305045554",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© butati (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 305045554,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

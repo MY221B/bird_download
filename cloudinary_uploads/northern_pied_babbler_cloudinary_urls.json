@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "northern_pied_babbler",
+    "chinese_name": "北斑鸫鹛",
+    "english_name": "Northern Pied Babbler",
+    "scientific_name": "Turdoides hypoleuca"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "northern_pied_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809328/bird-gallery/northern_pied_babbler/inaturalist/northern_pied_babbler_1.jpg",
+      "public_id": "bird-gallery/northern_pied_babbler/inaturalist/northern_pied_babbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115907,
+      "attribution": {
+        "photographer": "veronica_wroe",
+        "photographer_url": "https://www.inaturalist.org/observations/96131448",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© veronica_wroe (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 96131448,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_pied_babbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809329/bird-gallery/northern_pied_babbler/inaturalist/northern_pied_babbler_2.jpg",
+      "public_id": "bird-gallery/northern_pied_babbler/inaturalist/northern_pied_babbler_2",
+      "width": 815,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 90243,
+      "attribution": {
+        "photographer": "rudygelis",
+        "photographer_url": "https://www.inaturalist.org/observations/380161588",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rudygelis (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 380161588,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_pied_babbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809331/bird-gallery/northern_pied_babbler/inaturalist/northern_pied_babbler_3.jpg",
+      "public_id": "bird-gallery/northern_pied_babbler/inaturalist/northern_pied_babbler_3",
+      "width": 1024,
+      "height": 703,
+      "format": "jpg",
+      "bytes": 35660,
+      "attribution": {
+        "photographer": "rudygelis",
+        "photographer_url": "https://www.inaturalist.org/observations/380161589",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rudygelis (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 380161589,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

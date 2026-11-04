@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "pied_crow_piecro1",
+    "chinese_name": "非洲白颈鸦",
+    "english_name": "Pied Crow",
+    "scientific_name": "Corvus albus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "pied_crow_piecro1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809345/bird-gallery/pied_crow_piecro1/inaturalist/pied_crow_piecro1_1.jpg",
+      "public_id": "bird-gallery/pied_crow_piecro1/inaturalist/pied_crow_piecro1_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 57617,
+      "attribution": {
+        "photographer": "benidryl",
+        "photographer_url": "https://www.inaturalist.org/observations/257484571",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© benidryl (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 257484571,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pied_crow_piecro1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809346/bird-gallery/pied_crow_piecro1/inaturalist/pied_crow_piecro1_2.jpg",
+      "public_id": "bird-gallery/pied_crow_piecro1/inaturalist/pied_crow_piecro1_2",
+      "width": 720,
+      "height": 537,
+      "format": "jpg",
+      "bytes": 40019,
+      "attribution": {
+        "photographer": "billhubick",
+        "photographer_url": "https://www.inaturalist.org/observations/40457573",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© billhubick (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 40457573,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pied_crow_piecro1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809347/bird-gallery/pied_crow_piecro1/inaturalist/pied_crow_piecro1_3.jpg",
+      "public_id": "bird-gallery/pied_crow_piecro1/inaturalist/pied_crow_piecro1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 32626,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/316750905",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 316750905,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

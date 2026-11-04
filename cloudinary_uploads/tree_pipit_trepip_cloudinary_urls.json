@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "tree_pipit_trepip",
+    "chinese_name": "林鹨",
+    "english_name": "Tree Pipit",
+    "scientific_name": "Anthus trivialis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "tree_pipit_trepip_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809492/bird-gallery/tree_pipit_trepip/inaturalist/tree_pipit_trepip_1.jpg",
+      "public_id": "bird-gallery/tree_pipit_trepip/inaturalist/tree_pipit_trepip_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 81667,
+      "attribution": {
+        "photographer": "nikolaiab",
+        "photographer_url": "https://www.inaturalist.org/observations/328925130",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikolaiab (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 328925130,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tree_pipit_trepip_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809493/bird-gallery/tree_pipit_trepip/inaturalist/tree_pipit_trepip_2.jpg",
+      "public_id": "bird-gallery/tree_pipit_trepip/inaturalist/tree_pipit_trepip_2",
+      "width": 1024,
+      "height": 733,
+      "format": "jpg",
+      "bytes": 63462,
+      "attribution": {
+        "photographer": "gm_marchese",
+        "photographer_url": "https://www.inaturalist.org/observations/283986906",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gm_marchese (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 283986906,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tree_pipit_trepip_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809493/bird-gallery/tree_pipit_trepip/inaturalist/tree_pipit_trepip_3.jpg",
+      "public_id": "bird-gallery/tree_pipit_trepip/inaturalist/tree_pipit_trepip_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 39209,
+      "attribution": {
+        "photographer": "viktor-n",
+        "photographer_url": "https://www.inaturalist.org/observations/211133494",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© viktor-n (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 211133494,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

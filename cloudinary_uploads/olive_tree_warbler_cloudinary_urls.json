@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "olive_tree_warbler",
+    "chinese_name": "橄榄篱莺",
+    "english_name": "Olive-tree Warbler",
+    "scientific_name": "Hippolais olivetorum"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "olive_tree_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809813/bird-gallery/olive_tree_warbler/inaturalist/olive_tree_warbler_1.jpg",
+      "public_id": "bird-gallery/olive_tree_warbler/inaturalist/olive_tree_warbler_1",
+      "width": 1024,
+      "height": 612,
+      "format": "jpg",
+      "bytes": 46283,
+      "attribution": {
+        "photographer": "alexanderr",
+        "photographer_url": "https://www.inaturalist.org/observations/263655947",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexanderr (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 263655947,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_tree_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809814/bird-gallery/olive_tree_warbler/inaturalist/olive_tree_warbler_2.jpg",
+      "public_id": "bird-gallery/olive_tree_warbler/inaturalist/olive_tree_warbler_2",
+      "width": 1024,
+      "height": 692,
+      "format": "jpg",
+      "bytes": 123526,
+      "attribution": {
+        "photographer": "ali__ali",
+        "photographer_url": "https://www.inaturalist.org/observations/358837664",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ali__ali (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 358837664,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_tree_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809815/bird-gallery/olive_tree_warbler/inaturalist/olive_tree_warbler_3.jpg",
+      "public_id": "bird-gallery/olive_tree_warbler/inaturalist/olive_tree_warbler_3",
+      "width": 1024,
+      "height": 841,
+      "format": "jpg",
+      "bytes": 66173,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/254891440",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 254891440,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

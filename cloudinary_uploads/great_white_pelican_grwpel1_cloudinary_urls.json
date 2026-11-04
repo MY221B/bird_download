@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "great_white_pelican_grwpel1",
+    "chinese_name": "白鹈鹕",
+    "english_name": "Great White Pelican",
+    "scientific_name": "Pelecanus onocrotalus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "great_white_pelican_grwpel1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809245/bird-gallery/great_white_pelican_grwpel1/inaturalist/great_white_pelican_grwpel1_1.jpg",
+      "public_id": "bird-gallery/great_white_pelican_grwpel1/inaturalist/great_white_pelican_grwpel1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 80821,
+      "attribution": {
+        "photographer": "ionel_onofras",
+        "photographer_url": "https://www.inaturalist.org/observations/1523446",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ionel_onofras (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1523446,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_white_pelican_grwpel1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809246/bird-gallery/great_white_pelican_grwpel1/inaturalist/great_white_pelican_grwpel1_2.jpg",
+      "public_id": "bird-gallery/great_white_pelican_grwpel1/inaturalist/great_white_pelican_grwpel1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 68780,
+      "attribution": {
+        "photographer": "obrock",
+        "photographer_url": "https://www.inaturalist.org/observations/37061507",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© obrock (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 37061507,
+        "note": null
+      }
+    },
+    {
+      "original_file": "great_white_pelican_grwpel1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809247/bird-gallery/great_white_pelican_grwpel1/inaturalist/great_white_pelican_grwpel1_3.jpg",
+      "public_id": "bird-gallery/great_white_pelican_grwpel1/inaturalist/great_white_pelican_grwpel1_3",
+      "width": 768,
+      "height": 1020,
+      "format": "jpg",
+      "bytes": 64428,
+      "attribution": {
+        "photographer": "pavelfutoran",
+        "photographer_url": "https://www.inaturalist.org/observations/161043644",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pavelfutoran (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 161043644,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

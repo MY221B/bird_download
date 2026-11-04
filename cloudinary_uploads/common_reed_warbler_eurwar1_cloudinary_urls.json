@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_reed_warbler_eurwar1",
+    "chinese_name": "芦苇莺",
+    "english_name": "Common Reed Warbler",
+    "scientific_name": "Acrocephalus scirpaceus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_reed_warbler_eurwar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809214/bird-gallery/common_reed_warbler_eurwar1/inaturalist/common_reed_warbler_eurwar1_1.jpg",
+      "public_id": "bird-gallery/common_reed_warbler_eurwar1/inaturalist/common_reed_warbler_eurwar1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 72249,
+      "attribution": {
+        "photographer": "karakaxa",
+        "photographer_url": "https://www.inaturalist.org/observations/249863983",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© karakaxa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 249863983,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_reed_warbler_eurwar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809215/bird-gallery/common_reed_warbler_eurwar1/inaturalist/common_reed_warbler_eurwar1_2.jpg",
+      "public_id": "bird-gallery/common_reed_warbler_eurwar1/inaturalist/common_reed_warbler_eurwar1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 65200,
+      "attribution": {
+        "photographer": "viktor-n",
+        "photographer_url": "https://www.inaturalist.org/observations/215112179",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© viktor-n (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 215112179,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_reed_warbler_eurwar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809216/bird-gallery/common_reed_warbler_eurwar1/inaturalist/common_reed_warbler_eurwar1_3.jpg",
+      "public_id": "bird-gallery/common_reed_warbler_eurwar1/inaturalist/common_reed_warbler_eurwar1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 88274,
+      "attribution": {
+        "photographer": "anatoliy10942",
+        "photographer_url": "https://www.inaturalist.org/observations/365811354",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© anatoliy10942 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 365811354,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

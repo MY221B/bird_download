@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "red_billed_firefinch_rebfir2",
+    "chinese_name": "红嘴火雀",
+    "english_name": "Red-billed Firefinch",
+    "scientific_name": "Lagonosticta senegala"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "red_billed_firefinch_rebfir2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809365/bird-gallery/red_billed_firefinch_rebfir2/inaturalist/red_billed_firefinch_rebfir2_1.jpg",
+      "public_id": "bird-gallery/red_billed_firefinch_rebfir2/inaturalist/red_billed_firefinch_rebfir2_1",
+      "width": 1024,
+      "height": 577,
+      "format": "jpg",
+      "bytes": 45514,
+      "attribution": {
+        "photographer": "ku6777",
+        "photographer_url": "https://www.inaturalist.org/observations/48622890",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ku6777 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 48622890,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_firefinch_rebfir2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809365/bird-gallery/red_billed_firefinch_rebfir2/inaturalist/red_billed_firefinch_rebfir2_2.jpg",
+      "public_id": "bird-gallery/red_billed_firefinch_rebfir2/inaturalist/red_billed_firefinch_rebfir2_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 76453,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/54399825",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 54399825,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_firefinch_rebfir2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809366/bird-gallery/red_billed_firefinch_rebfir2/inaturalist/red_billed_firefinch_rebfir2_3.jpg",
+      "public_id": "bird-gallery/red_billed_firefinch_rebfir2/inaturalist/red_billed_firefinch_rebfir2_3",
+      "width": 1022,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 138259,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/42654436",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 42654436,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

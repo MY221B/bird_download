@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "sombre_nightjar_somnig1",
+    "chinese_name": "乌夜鹰",
+    "english_name": "Sombre Nightjar",
+    "scientific_name": "Caprimulgus fraenatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "sombre_nightjar_somnig1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809708/bird-gallery/sombre_nightjar_somnig1/inaturalist/sombre_nightjar_somnig1_1.jpg",
+      "public_id": "bird-gallery/sombre_nightjar_somnig1/inaturalist/sombre_nightjar_somnig1_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 99048,
+      "attribution": {
+        "photographer": "geococcyx",
+        "photographer_url": "https://www.inaturalist.org/observations/37093639",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© geococcyx (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 37093639,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sombre_nightjar_somnig1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809709/bird-gallery/sombre_nightjar_somnig1/inaturalist/sombre_nightjar_somnig1_2.jpg",
+      "public_id": "bird-gallery/sombre_nightjar_somnig1/inaturalist/sombre_nightjar_somnig1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89832,
+      "attribution": {
+        "photographer": "alexrfrias",
+        "photographer_url": "https://www.inaturalist.org/observations/334689241",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexrfrias (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 334689241,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sombre_nightjar_somnig1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809710/bird-gallery/sombre_nightjar_somnig1/inaturalist/sombre_nightjar_somnig1_3.jpg",
+      "public_id": "bird-gallery/sombre_nightjar_somnig1/inaturalist/sombre_nightjar_somnig1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 56401,
+      "attribution": {
+        "photographer": "joni_overbosch",
+        "photographer_url": "https://www.inaturalist.org/observations/56734146",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joni_overbosch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 56734146,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "sedge_warbler",
+    "chinese_name": "蒲苇莺",
+    "english_name": "Sedge Warbler",
+    "scientific_name": "Acrocephalus schoenobaenus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "sedge_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809893/bird-gallery/sedge_warbler/inaturalist/sedge_warbler_1.jpg",
+      "public_id": "bird-gallery/sedge_warbler/inaturalist/sedge_warbler_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 97360,
+      "attribution": {
+        "photographer": "sofiaust",
+        "photographer_url": "https://www.inaturalist.org/observations/179696305",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sofiaust (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 179696305,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sedge_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809894/bird-gallery/sedge_warbler/inaturalist/sedge_warbler_2.jpg",
+      "public_id": "bird-gallery/sedge_warbler/inaturalist/sedge_warbler_2",
+      "width": 1024,
+      "height": 677,
+      "format": "jpg",
+      "bytes": 69775,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/112379098",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 112379098,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sedge_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809895/bird-gallery/sedge_warbler/inaturalist/sedge_warbler_3.jpg",
+      "public_id": "bird-gallery/sedge_warbler/inaturalist/sedge_warbler_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 94910,
+      "attribution": {
+        "photographer": "manojkmohan",
+        "photographer_url": "https://www.inaturalist.org/observations/146637772",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© manojkmohan (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 146637772,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

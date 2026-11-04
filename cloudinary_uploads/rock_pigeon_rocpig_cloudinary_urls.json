@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "rock_pigeon_rocpig",
+    "chinese_name": "原鸽",
+    "english_name": "Rock Pigeon",
+    "scientific_name": "Columba livia"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "rock_pigeon_rocpig_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809550/bird-gallery/rock_pigeon_rocpig/inaturalist/rock_pigeon_rocpig_1.jpg",
+      "public_id": "bird-gallery/rock_pigeon_rocpig/inaturalist/rock_pigeon_rocpig_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 124572,
+      "attribution": {
+        "photographer": "susanhewitt",
+        "photographer_url": "https://www.inaturalist.org/observations/19807660",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© susanhewitt (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19807660,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rock_pigeon_rocpig_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809551/bird-gallery/rock_pigeon_rocpig/inaturalist/rock_pigeon_rocpig_2.jpg",
+      "public_id": "bird-gallery/rock_pigeon_rocpig/inaturalist/rock_pigeon_rocpig_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 86391,
+      "attribution": {
+        "photographer": "zoology123",
+        "photographer_url": "https://www.inaturalist.org/observations/80165733",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© zoology123 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 80165733,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rock_pigeon_rocpig_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809552/bird-gallery/rock_pigeon_rocpig/inaturalist/rock_pigeon_rocpig_3.jpg",
+      "public_id": "bird-gallery/rock_pigeon_rocpig/inaturalist/rock_pigeon_rocpig_3",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 65107,
+      "attribution": {
+        "photographer": "taisiam",
+        "photographer_url": "https://www.inaturalist.org/observations/196979901",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© taisiam (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 196979901,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

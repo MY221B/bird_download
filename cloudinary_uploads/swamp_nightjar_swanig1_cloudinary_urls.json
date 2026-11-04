@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "swamp_nightjar_swanig1",
+    "chinese_name": "纳塔尔夜鹰",
+    "english_name": "Swamp Nightjar",
+    "scientific_name": "Caprimulgus natalensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "swamp_nightjar_swanig1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809711/bird-gallery/swamp_nightjar_swanig1/inaturalist/swamp_nightjar_swanig1_1.jpg",
+      "public_id": "bird-gallery/swamp_nightjar_swanig1/inaturalist/swamp_nightjar_swanig1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 113633,
+      "attribution": {
+        "photographer": "richard_johnstone",
+        "photographer_url": "https://www.inaturalist.org/observations/361760970",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richard_johnstone (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 361760970,
+        "note": null
+      }
+    },
+    {
+      "original_file": "swamp_nightjar_swanig1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809712/bird-gallery/swamp_nightjar_swanig1/inaturalist/swamp_nightjar_swanig1_2.jpg",
+      "public_id": "bird-gallery/swamp_nightjar_swanig1/inaturalist/swamp_nightjar_swanig1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 63688,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/373204763",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 373204763,
+        "note": null
+      }
+    },
+    {
+      "original_file": "swamp_nightjar_swanig1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809713/bird-gallery/swamp_nightjar_swanig1/inaturalist/swamp_nightjar_swanig1_3.jpg",
+      "public_id": "bird-gallery/swamp_nightjar_swanig1/inaturalist/swamp_nightjar_swanig1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 123444,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/10181603",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10181603,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

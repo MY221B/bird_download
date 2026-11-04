@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "scaly_breasted_illadopsis",
+    "chinese_name": "白胸非洲雅鹛",
+    "english_name": "Scaly-breasted Illadopsis",
+    "scientific_name": "Illadopsis albipectus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "scaly_breasted_illadopsis_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809880/bird-gallery/scaly_breasted_illadopsis/inaturalist/scaly_breasted_illadopsis_1.jpg",
+      "public_id": "bird-gallery/scaly_breasted_illadopsis/inaturalist/scaly_breasted_illadopsis_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 84853,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "scaly_breasted_illadopsis_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809881/bird-gallery/scaly_breasted_illadopsis/inaturalist/scaly_breasted_illadopsis_2.jpg",
+      "public_id": "bird-gallery/scaly_breasted_illadopsis/inaturalist/scaly_breasted_illadopsis_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76218,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "scaly_breasted_illadopsis_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809881/bird-gallery/scaly_breasted_illadopsis/inaturalist/scaly_breasted_illadopsis_3.jpg",
+      "public_id": "bird-gallery/scaly_breasted_illadopsis/inaturalist/scaly_breasted_illadopsis_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 87563,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

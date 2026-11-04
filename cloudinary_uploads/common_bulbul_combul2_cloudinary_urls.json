@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_bulbul_combul2",
+    "chinese_name": "非洲羽须鹎",
+    "english_name": "Common Bulbul",
+    "scientific_name": "Pycnonotus barbatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_bulbul_combul2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809172/bird-gallery/common_bulbul_combul2/inaturalist/common_bulbul_combul2_1.jpg",
+      "public_id": "bird-gallery/common_bulbul_combul2/inaturalist/common_bulbul_combul2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 130495,
+      "attribution": {
+        "photographer": "suvarna",
+        "photographer_url": "https://www.inaturalist.org/observations/358958082",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© suvarna (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 358958082,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_bulbul_combul2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809175/bird-gallery/common_bulbul_combul2/inaturalist/common_bulbul_combul2_2.jpg",
+      "public_id": "bird-gallery/common_bulbul_combul2/inaturalist/common_bulbul_combul2_2",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 116882,
+      "attribution": {
+        "photographer": "oeserjk",
+        "photographer_url": "https://www.inaturalist.org/observations/169250581",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© oeserjk (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 169250581,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_bulbul_combul2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809175/bird-gallery/common_bulbul_combul2/inaturalist/common_bulbul_combul2_3.jpg",
+      "public_id": "bird-gallery/common_bulbul_combul2/inaturalist/common_bulbul_combul2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 100691,
+      "attribution": {
+        "photographer": "amazonne",
+        "photographer_url": "https://www.inaturalist.org/observations/250323826",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© amazonne (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 250323826,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "reed_cormorant_lotcor1",
+    "chinese_name": "长尾鸬鹚",
+    "english_name": "Reed Cormorant",
+    "scientific_name": "Microcarbo africanus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "reed_cormorant_lotcor1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809305/bird-gallery/reed_cormorant_lotcor1/inaturalist/reed_cormorant_lotcor1_1.jpg",
+      "public_id": "bird-gallery/reed_cormorant_lotcor1/inaturalist/reed_cormorant_lotcor1_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 73310,
+      "attribution": {
+        "photographer": "dgr_rebecca",
+        "photographer_url": "https://www.inaturalist.org/observations/137982823",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dgr_rebecca (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 137982823,
+        "note": null
+      }
+    },
+    {
+      "original_file": "reed_cormorant_lotcor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809305/bird-gallery/reed_cormorant_lotcor1/inaturalist/reed_cormorant_lotcor1_2.jpg",
+      "public_id": "bird-gallery/reed_cormorant_lotcor1/inaturalist/reed_cormorant_lotcor1_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 54918,
+      "attribution": {
+        "photographer": "jrgale",
+        "photographer_url": "https://www.inaturalist.org/observations/113084533",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jrgale (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 113084533,
+        "note": null
+      }
+    },
+    {
+      "original_file": "reed_cormorant_lotcor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809306/bird-gallery/reed_cormorant_lotcor1/inaturalist/reed_cormorant_lotcor1_3.jpg",
+      "public_id": "bird-gallery/reed_cormorant_lotcor1/inaturalist/reed_cormorant_lotcor1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 96204,
+      "attribution": {
+        "photographer": "matthieu_gauvain",
+        "photographer_url": "https://www.inaturalist.org/observations/109824310",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© matthieu_gauvain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 109824310,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "crowned_lapwing_crolap1",
+    "chinese_name": "冕麦鸡",
+    "english_name": "Crowned Lapwing",
+    "scientific_name": "Vanellus coronatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "crowned_lapwing_crolap1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809189/bird-gallery/crowned_lapwing_crolap1/inaturalist/crowned_lapwing_crolap1_1.jpg",
+      "public_id": "bird-gallery/crowned_lapwing_crolap1/inaturalist/crowned_lapwing_crolap1_1",
+      "width": 1023,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 208194,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/10063869",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10063869,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crowned_lapwing_crolap1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809189/bird-gallery/crowned_lapwing_crolap1/inaturalist/crowned_lapwing_crolap1_2.jpg",
+      "public_id": "bird-gallery/crowned_lapwing_crolap1/inaturalist/crowned_lapwing_crolap1_2",
+      "width": 1024,
+      "height": 669,
+      "format": "jpg",
+      "bytes": 149064,
+      "attribution": {
+        "photographer": "harrylurling",
+        "photographer_url": "https://www.inaturalist.org/observations/102326946",
+        "license": "cc-by-nd",
+        "license_url": null,
+        "credit_format": "© harrylurling (via iNaturalist), some rights reserved (CC-BY-ND)",
+        "source": "inaturalist",
+        "source_id": 102326946,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crowned_lapwing_crolap1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809190/bird-gallery/crowned_lapwing_crolap1/inaturalist/crowned_lapwing_crolap1_3.jpg",
+      "public_id": "bird-gallery/crowned_lapwing_crolap1/inaturalist/crowned_lapwing_crolap1_3",
+      "width": 945,
+      "height": 823,
+      "format": "jpg",
+      "bytes": 93821,
+      "attribution": {
+        "photographer": "jaheymans",
+        "photographer_url": "https://www.inaturalist.org/observations/108792995",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jaheymans (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 108792995,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

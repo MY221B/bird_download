@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "r_ppells_griffon_ruegri1",
+    "chinese_name": "黑白兀鹫",
+    "english_name": "Rüppell's Griffon",
+    "scientific_name": "Gyps rueppelli"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "r_ppells_griffon_ruegri1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809381/bird-gallery/r_ppells_griffon_ruegri1/inaturalist/r_ppells_griffon_ruegri1_1.jpg",
+      "public_id": "bird-gallery/r_ppells_griffon_ruegri1/inaturalist/r_ppells_griffon_ruegri1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 108811,
+      "attribution": {
+        "photographer": "rujutavinod",
+        "photographer_url": "https://www.inaturalist.org/observations/52456224",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rujutavinod (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 52456224,
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_griffon_ruegri1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809382/bird-gallery/r_ppells_griffon_ruegri1/inaturalist/r_ppells_griffon_ruegri1_2.jpg",
+      "public_id": "bird-gallery/r_ppells_griffon_ruegri1/inaturalist/r_ppells_griffon_ruegri1_2",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 37650,
+      "attribution": {
+        "photographer": "jujurenoult",
+        "photographer_url": "https://www.inaturalist.org/observations/147729026",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© jujurenoult (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 147729026,
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_griffon_ruegri1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809382/bird-gallery/r_ppells_griffon_ruegri1/inaturalist/r_ppells_griffon_ruegri1_3.jpg",
+      "public_id": "bird-gallery/r_ppells_griffon_ruegri1/inaturalist/r_ppells_griffon_ruegri1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 130864,
+      "attribution": {
+        "photographer": "karimhaddad",
+        "photographer_url": "https://www.inaturalist.org/observations/66710964",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© karimhaddad (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 66710964,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

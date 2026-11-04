@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eastern_bronze_naped_pigeon",
+    "chinese_name": "德氏鸽",
+    "english_name": "Eastern Bronze-naped Pigeon",
+    "scientific_name": "Columba delegorguei"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eastern_bronze_naped_pigeon_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809526/bird-gallery/eastern_bronze_naped_pigeon/inaturalist/eastern_bronze_naped_pigeon_1.jpg",
+      "public_id": "bird-gallery/eastern_bronze_naped_pigeon/inaturalist/eastern_bronze_naped_pigeon_1",
+      "width": 1024,
+      "height": 936,
+      "format": "jpg",
+      "bytes": 94838,
+      "attribution": {
+        "photographer": "mazjane",
+        "photographer_url": "https://www.inaturalist.org/observations/191672113",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mazjane (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191672113,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_bronze_naped_pigeon_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809527/bird-gallery/eastern_bronze_naped_pigeon/inaturalist/eastern_bronze_naped_pigeon_2.jpg",
+      "public_id": "bird-gallery/eastern_bronze_naped_pigeon/inaturalist/eastern_bronze_naped_pigeon_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 69128,
+      "attribution": {
+        "photographer": "hhodgson",
+        "photographer_url": "https://www.inaturalist.org/observations/298768352",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hhodgson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 298768352,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_bronze_naped_pigeon_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809528/bird-gallery/eastern_bronze_naped_pigeon/inaturalist/eastern_bronze_naped_pigeon_3.jpg",
+      "public_id": "bird-gallery/eastern_bronze_naped_pigeon/inaturalist/eastern_bronze_naped_pigeon_3",
+      "width": 781,
+      "height": 881,
+      "format": "jpg",
+      "bytes": 71813,
+      "attribution": {
+        "photographer": "beethoven242",
+        "photographer_url": "https://www.inaturalist.org/observations/184560337",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© beethoven242 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 184560337,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

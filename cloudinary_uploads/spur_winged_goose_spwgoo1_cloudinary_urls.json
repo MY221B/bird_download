@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "spur_winged_goose_spwgoo1",
+    "chinese_name": "距翅雁",
+    "english_name": "Spur-winged Goose",
+    "scientific_name": "Plectropterus gambensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "spur_winged_goose_spwgoo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809405/bird-gallery/spur_winged_goose_spwgoo1/inaturalist/spur_winged_goose_spwgoo1_1.jpg",
+      "public_id": "bird-gallery/spur_winged_goose_spwgoo1/inaturalist/spur_winged_goose_spwgoo1_1",
+      "width": 752,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 81417,
+      "attribution": {
+        "photographer": "mfaucher",
+        "photographer_url": "https://www.inaturalist.org/observations/40043569",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mfaucher (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 40043569,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spur_winged_goose_spwgoo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809406/bird-gallery/spur_winged_goose_spwgoo1/inaturalist/spur_winged_goose_spwgoo1_2.jpg",
+      "public_id": "bird-gallery/spur_winged_goose_spwgoo1/inaturalist/spur_winged_goose_spwgoo1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61513,
+      "attribution": {
+        "photographer": "jerrythornton",
+        "photographer_url": "https://www.inaturalist.org/observations/25602827",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© jerrythornton (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 25602827,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spur_winged_goose_spwgoo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809407/bird-gallery/spur_winged_goose_spwgoo1/inaturalist/spur_winged_goose_spwgoo1_3.jpg",
+      "public_id": "bird-gallery/spur_winged_goose_spwgoo1/inaturalist/spur_winged_goose_spwgoo1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69379,
+      "attribution": {
+        "photographer": "johanheyns",
+        "photographer_url": "https://www.inaturalist.org/observations/145947034",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© johanheyns (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 145947034,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

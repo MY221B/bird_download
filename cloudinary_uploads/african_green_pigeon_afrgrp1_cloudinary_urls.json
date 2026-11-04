@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_green_pigeon_afrgrp1",
+    "chinese_name": "非洲绿鸠",
+    "english_name": "African Green-Pigeon",
+    "scientific_name": "Treron calvus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_green_pigeon_afrgrp1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809111/bird-gallery/african_green_pigeon_afrgrp1/inaturalist/african_green_pigeon_afrgrp1_1.jpg",
+      "public_id": "bird-gallery/african_green_pigeon_afrgrp1/inaturalist/african_green_pigeon_afrgrp1_1",
+      "width": 889,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 67408,
+      "attribution": {
+        "photographer": "storms_river_jim",
+        "photographer_url": "https://www.inaturalist.org/observations/247515550",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© storms_river_jim (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 247515550,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_green_pigeon_afrgrp1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809112/bird-gallery/african_green_pigeon_afrgrp1/inaturalist/african_green_pigeon_afrgrp1_2.jpg",
+      "public_id": "bird-gallery/african_green_pigeon_afrgrp1/inaturalist/african_green_pigeon_afrgrp1_2",
+      "width": 984,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 107353,
+      "attribution": {
+        "photographer": "phil183",
+        "photographer_url": "https://www.inaturalist.org/observations/140371604",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© phil183 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 140371604,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_green_pigeon_afrgrp1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809113/bird-gallery/african_green_pigeon_afrgrp1/inaturalist/african_green_pigeon_afrgrp1_3.jpg",
+      "public_id": "bird-gallery/african_green_pigeon_afrgrp1/inaturalist/african_green_pigeon_afrgrp1_3",
+      "width": 490,
+      "height": 439,
+      "format": "jpg",
+      "bytes": 8841,
+      "attribution": {
+        "photographer": "phoekman",
+        "photographer_url": "https://www.inaturalist.org/observations/206944268",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© phoekman (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 206944268,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

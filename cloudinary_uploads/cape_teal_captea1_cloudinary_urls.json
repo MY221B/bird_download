@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "cape_teal_captea1",
+    "chinese_name": "绿翅灰斑鸭",
+    "english_name": "Cape Teal",
+    "scientific_name": "Anas capensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "cape_teal_captea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809600/bird-gallery/cape_teal_captea1/inaturalist/cape_teal_captea1_1.jpg",
+      "public_id": "bird-gallery/cape_teal_captea1/inaturalist/cape_teal_captea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61530,
+      "attribution": {
+        "photographer": "luke_goddard",
+        "photographer_url": "https://www.inaturalist.org/observations/237646850",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© luke_goddard (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 237646850,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_teal_captea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809601/bird-gallery/cape_teal_captea1/inaturalist/cape_teal_captea1_2.jpg",
+      "public_id": "bird-gallery/cape_teal_captea1/inaturalist/cape_teal_captea1_2",
+      "width": 1024,
+      "height": 621,
+      "format": "jpg",
+      "bytes": 109755,
+      "attribution": {
+        "photographer": "kian39",
+        "photographer_url": "https://www.inaturalist.org/observations/287872497",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kian39 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 287872497,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_teal_captea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809602/bird-gallery/cape_teal_captea1/inaturalist/cape_teal_captea1_3.jpg",
+      "public_id": "bird-gallery/cape_teal_captea1/inaturalist/cape_teal_captea1_3",
+      "width": 1024,
+      "height": 581,
+      "format": "jpg",
+      "bytes": 65387,
+      "attribution": {
+        "photographer": "brucews",
+        "photographer_url": "https://www.inaturalist.org/observations/75913651",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© brucews (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 75913651,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

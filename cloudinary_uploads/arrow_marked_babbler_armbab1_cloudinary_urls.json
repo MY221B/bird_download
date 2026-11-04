@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "arrow_marked_babbler_armbab1",
+    "chinese_name": "箭纹鸫鹛",
+    "english_name": "Arrow-marked Babbler",
+    "scientific_name": "Turdoides jardineii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "arrow_marked_babbler_armbab1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809564/bird-gallery/arrow_marked_babbler_armbab1/inaturalist/arrow_marked_babbler_armbab1_1.jpg",
+      "public_id": "bird-gallery/arrow_marked_babbler_armbab1/inaturalist/arrow_marked_babbler_armbab1_1",
+      "width": 1024,
+      "height": 932,
+      "format": "jpg",
+      "bytes": 84967,
+      "attribution": {
+        "photographer": "eliegaget",
+        "photographer_url": "https://www.inaturalist.org/observations/121898832",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© eliegaget (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 121898832,
+        "note": null
+      }
+    },
+    {
+      "original_file": "arrow_marked_babbler_armbab1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809564/bird-gallery/arrow_marked_babbler_armbab1/inaturalist/arrow_marked_babbler_armbab1_2.jpg",
+      "public_id": "bird-gallery/arrow_marked_babbler_armbab1/inaturalist/arrow_marked_babbler_armbab1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 103484,
+      "attribution": {
+        "photographer": "fredderks",
+        "photographer_url": "https://www.inaturalist.org/observations/326236710",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© fredderks (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 326236710,
+        "note": null
+      }
+    },
+    {
+      "original_file": "arrow_marked_babbler_armbab1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809565/bird-gallery/arrow_marked_babbler_armbab1/inaturalist/arrow_marked_babbler_armbab1_3.jpg",
+      "public_id": "bird-gallery/arrow_marked_babbler_armbab1/inaturalist/arrow_marked_babbler_armbab1_3",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 134285,
+      "attribution": {
+        "photographer": "pietza",
+        "photographer_url": "https://www.inaturalist.org/observations/186724450",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pietza (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 186724450,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

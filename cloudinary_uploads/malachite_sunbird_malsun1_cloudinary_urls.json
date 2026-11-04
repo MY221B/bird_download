@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "malachite_sunbird_malsun1",
+    "chinese_name": "孔雀石色花蜜鸟",
+    "english_name": "Malachite Sunbird",
+    "scientific_name": "Nectarinia famosa"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "malachite_sunbird_malsun1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809500/bird-gallery/malachite_sunbird_malsun1/inaturalist/malachite_sunbird_malsun1_1.jpg",
+      "public_id": "bird-gallery/malachite_sunbird_malsun1/inaturalist/malachite_sunbird_malsun1_1",
+      "width": 1024,
+      "height": 785,
+      "format": "jpg",
+      "bytes": 48029,
+      "attribution": {
+        "photographer": "tonyrebelo",
+        "photographer_url": "https://www.inaturalist.org/observations/77255172",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© tonyrebelo (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 77255172,
+        "note": null
+      }
+    },
+    {
+      "original_file": "malachite_sunbird_malsun1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809501/bird-gallery/malachite_sunbird_malsun1/inaturalist/malachite_sunbird_malsun1_2.jpg",
+      "public_id": "bird-gallery/malachite_sunbird_malsun1/inaturalist/malachite_sunbird_malsun1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 43327,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/187268105",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 187268105,
+        "note": null
+      }
+    },
+    {
+      "original_file": "malachite_sunbird_malsun1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809502/bird-gallery/malachite_sunbird_malsun1/inaturalist/malachite_sunbird_malsun1_3.jpg",
+      "public_id": "bird-gallery/malachite_sunbird_malsun1/inaturalist/malachite_sunbird_malsun1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64953,
+      "attribution": {
+        "photographer": "gerhardlemmer",
+        "photographer_url": "https://www.inaturalist.org/observations/322931184",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gerhardlemmer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 322931184,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

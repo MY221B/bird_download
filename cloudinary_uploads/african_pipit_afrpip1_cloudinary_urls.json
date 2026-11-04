@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_pipit_afrpip1",
+    "chinese_name": "非洲鹨",
+    "english_name": "African Pipit",
+    "scientific_name": "Anthus cinnamomeus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_pipit_afrpip1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809121/bird-gallery/african_pipit_afrpip1/inaturalist/african_pipit_afrpip1_1.jpg",
+      "public_id": "bird-gallery/african_pipit_afrpip1/inaturalist/african_pipit_afrpip1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 116854,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/294551379",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 294551379,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_pipit_afrpip1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809122/bird-gallery/african_pipit_afrpip1/inaturalist/african_pipit_afrpip1_2.jpg",
+      "public_id": "bird-gallery/african_pipit_afrpip1/inaturalist/african_pipit_afrpip1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 113544,
+      "attribution": {
+        "photographer": "manatok",
+        "photographer_url": "https://www.inaturalist.org/observations/90455116",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© manatok (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 90455116,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_pipit_afrpip1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809123/bird-gallery/african_pipit_afrpip1/inaturalist/african_pipit_afrpip1_3.jpg",
+      "public_id": "bird-gallery/african_pipit_afrpip1/inaturalist/african_pipit_afrpip1_3",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 90723,
+      "attribution": {
+        "photographer": "gawie",
+        "photographer_url": "https://www.inaturalist.org/observations/11091777",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gawie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11091777,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

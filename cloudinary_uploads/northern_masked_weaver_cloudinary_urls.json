@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "northern_masked_weaver",
+    "chinese_name": "北非黑脸织布鸟",
+    "english_name": "Northern Masked-Weaver",
+    "scientific_name": "Ploceus taeniopterus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "northern_masked_weaver_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809668/bird-gallery/northern_masked_weaver/inaturalist/northern_masked_weaver_1.jpg",
+      "public_id": "bird-gallery/northern_masked_weaver/inaturalist/northern_masked_weaver_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 83853,
+      "attribution": {
+        "photographer": "congonaturalist",
+        "photographer_url": "https://www.inaturalist.org/observations/13880217",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© congonaturalist (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 13880217,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_masked_weaver_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809669/bird-gallery/northern_masked_weaver/inaturalist/northern_masked_weaver_2.jpg",
+      "public_id": "bird-gallery/northern_masked_weaver/inaturalist/northern_masked_weaver_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61045,
+      "attribution": {
+        "photographer": "giuseppe_citino",
+        "photographer_url": "https://www.inaturalist.org/observations/400148350",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© giuseppe_citino (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 400148350,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_masked_weaver_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809670/bird-gallery/northern_masked_weaver/inaturalist/northern_masked_weaver_3.jpg",
+      "public_id": "bird-gallery/northern_masked_weaver/inaturalist/northern_masked_weaver_3",
+      "width": 848,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 73673,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18677528",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18677528,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "green_twinspot_grbtwi1",
+    "chinese_name": "绿背斑雀",
+    "english_name": "Green Twinspot",
+    "scientific_name": "Mandingoa nitidula"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "green_twinspot_grbtwi1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809482/bird-gallery/green_twinspot_grbtwi1/inaturalist/green_twinspot_grbtwi1_1.jpg",
+      "public_id": "bird-gallery/green_twinspot_grbtwi1/inaturalist/green_twinspot_grbtwi1_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 256926,
+      "attribution": {
+        "photographer": "philmassie",
+        "photographer_url": "https://www.inaturalist.org/observations/83242825",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© philmassie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 83242825,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_twinspot_grbtwi1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809483/bird-gallery/green_twinspot_grbtwi1/inaturalist/green_twinspot_grbtwi1_2.jpg",
+      "public_id": "bird-gallery/green_twinspot_grbtwi1/inaturalist/green_twinspot_grbtwi1_2",
+      "width": 883,
+      "height": 662,
+      "format": "jpg",
+      "bytes": 98760,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/230458839",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 230458839,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_twinspot_grbtwi1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809484/bird-gallery/green_twinspot_grbtwi1/inaturalist/green_twinspot_grbtwi1_3.jpg",
+      "public_id": "bird-gallery/green_twinspot_grbtwi1/inaturalist/green_twinspot_grbtwi1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 80938,
+      "attribution": {
+        "photographer": "gerette",
+        "photographer_url": "https://www.inaturalist.org/observations/69002626",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gerette (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69002626,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

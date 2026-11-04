@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_spoonbill_afrspo1",
+    "chinese_name": "非洲琵鹭",
+    "english_name": "African Spoonbill",
+    "scientific_name": "Platalea alba"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_spoonbill_afrspo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809124/bird-gallery/african_spoonbill_afrspo1/inaturalist/african_spoonbill_afrspo1_1.jpg",
+      "public_id": "bird-gallery/african_spoonbill_afrspo1/inaturalist/african_spoonbill_afrspo1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 126924,
+      "attribution": {
+        "photographer": "marcorastelli",
+        "photographer_url": "https://www.inaturalist.org/observations/253405373",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© marcorastelli (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 253405373,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_spoonbill_afrspo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809124/bird-gallery/african_spoonbill_afrspo1/inaturalist/african_spoonbill_afrspo1_2.jpg",
+      "public_id": "bird-gallery/african_spoonbill_afrspo1/inaturalist/african_spoonbill_afrspo1_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 123934,
+      "attribution": {
+        "photographer": "andrzej_affek",
+        "photographer_url": "https://www.inaturalist.org/observations/272861921",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© andrzej_affek (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 272861921,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_spoonbill_afrspo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809125/bird-gallery/african_spoonbill_afrspo1/inaturalist/african_spoonbill_afrspo1_3.jpg",
+      "public_id": "bird-gallery/african_spoonbill_afrspo1/inaturalist/african_spoonbill_afrspo1_3",
+      "width": 1017,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 176535,
+      "attribution": {
+        "photographer": "stevecollins",
+        "photographer_url": "https://www.inaturalist.org/observations/105593413",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© stevecollins (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 105593413,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

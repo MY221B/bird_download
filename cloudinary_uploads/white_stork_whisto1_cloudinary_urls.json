@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_stork_whisto1",
+    "chinese_name": "白鹳",
+    "english_name": "White Stork",
+    "scientific_name": "Ciconia ciconia"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_stork_whisto1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809725/bird-gallery/white_stork_whisto1/inaturalist/white_stork_whisto1_1.jpg",
+      "public_id": "bird-gallery/white_stork_whisto1/inaturalist/white_stork_whisto1_1",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 87381,
+      "attribution": {
+        "photographer": "tobin_sparling",
+        "photographer_url": "https://www.inaturalist.org/observations/264490924",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tobin_sparling (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 264490924,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_stork_whisto1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809725/bird-gallery/white_stork_whisto1/inaturalist/white_stork_whisto1_2.jpg",
+      "public_id": "bird-gallery/white_stork_whisto1/inaturalist/white_stork_whisto1_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 144900,
+      "attribution": {
+        "photographer": "teichmolch70",
+        "photographer_url": "https://www.inaturalist.org/observations/176777582",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© teichmolch70 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 176777582,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_stork_whisto1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809726/bird-gallery/white_stork_whisto1/inaturalist/white_stork_whisto1_3.jpg",
+      "public_id": "bird-gallery/white_stork_whisto1/inaturalist/white_stork_whisto1_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 48710,
+      "attribution": {
+        "photographer": "scolym",
+        "photographer_url": "https://www.inaturalist.org/observations/63040715",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© scolym (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 63040715,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

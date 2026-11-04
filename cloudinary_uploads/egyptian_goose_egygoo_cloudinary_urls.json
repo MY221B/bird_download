@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "egyptian_goose_egygoo",
+    "chinese_name": "埃及雁",
+    "english_name": "Egyptian Goose",
+    "scientific_name": "Alopochen aegyptiaca"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "egyptian_goose_egygoo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809203/bird-gallery/egyptian_goose_egygoo/inaturalist/egyptian_goose_egygoo_1.jpg",
+      "public_id": "bird-gallery/egyptian_goose_egygoo/inaturalist/egyptian_goose_egygoo_1",
+      "width": 1024,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 46711,
+      "attribution": {
+        "photographer": "jarvo",
+        "photographer_url": "https://www.inaturalist.org/observations/239690202",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jarvo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 239690202,
+        "note": null
+      }
+    },
+    {
+      "original_file": "egyptian_goose_egygoo_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809204/bird-gallery/egyptian_goose_egygoo/inaturalist/egyptian_goose_egygoo_2.jpg",
+      "public_id": "bird-gallery/egyptian_goose_egygoo/inaturalist/egyptian_goose_egygoo_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 150144,
+      "attribution": {
+        "photographer": "silviu_ticu",
+        "photographer_url": "https://www.inaturalist.org/observations/187251044",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© silviu_ticu (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 187251044,
+        "note": null
+      }
+    },
+    {
+      "original_file": "egyptian_goose_egygoo_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809205/bird-gallery/egyptian_goose_egygoo/inaturalist/egyptian_goose_egygoo_3.jpg",
+      "public_id": "bird-gallery/egyptian_goose_egygoo/inaturalist/egyptian_goose_egygoo_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 45182,
+      "attribution": {
+        "photographer": "robinia396",
+        "photographer_url": "https://www.inaturalist.org/observations/105973600",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© robinia396 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 105973600,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_cheeked_waxbill_rerwax1",
+    "chinese_name": "红腰梅花雀",
+    "english_name": "Black-cheeked Waxbill",
+    "scientific_name": "Brunhilda charmosyna"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_cheeked_waxbill_rerwax1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809679/bird-gallery/black_cheeked_waxbill_rerwax1/inaturalist/black_cheeked_waxbill_rerwax1_1.jpg",
+      "public_id": "bird-gallery/black_cheeked_waxbill_rerwax1/inaturalist/black_cheeked_waxbill_rerwax1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 112925,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7131899",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7131899,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_cheeked_waxbill_rerwax1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809679/bird-gallery/black_cheeked_waxbill_rerwax1/inaturalist/black_cheeked_waxbill_rerwax1_2.jpg",
+      "public_id": "bird-gallery/black_cheeked_waxbill_rerwax1/inaturalist/black_cheeked_waxbill_rerwax1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 165097,
+      "attribution": {
+        "photographer": "sarah_hodgkiss",
+        "photographer_url": "https://www.inaturalist.org/observations/249091826",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sarah_hodgkiss (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 249091826,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_cheeked_waxbill_rerwax1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809680/bird-gallery/black_cheeked_waxbill_rerwax1/inaturalist/black_cheeked_waxbill_rerwax1_3.jpg",
+      "public_id": "bird-gallery/black_cheeked_waxbill_rerwax1/inaturalist/black_cheeked_waxbill_rerwax1_3",
+      "width": 750,
+      "height": 500,
+      "format": "jpg",
+      "bytes": 33133,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/247319846",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 247319846,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

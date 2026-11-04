@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "striped_kingfisher_strkin1",
+    "chinese_name": "斑翡翠",
+    "english_name": "Striped Kingfisher",
+    "scientific_name": "Halcyon chelicuti"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "striped_kingfisher_strkin1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809410/bird-gallery/striped_kingfisher_strkin1/inaturalist/striped_kingfisher_strkin1_1.jpg",
+      "public_id": "bird-gallery/striped_kingfisher_strkin1/inaturalist/striped_kingfisher_strkin1_1",
+      "width": 900,
+      "height": 664,
+      "format": "jpg",
+      "bytes": 48812,
+      "attribution": {
+        "photographer": "paulcools",
+        "photographer_url": "https://www.inaturalist.org/observations/1588181",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paulcools (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 1588181,
+        "note": null
+      }
+    },
+    {
+      "original_file": "striped_kingfisher_strkin1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809411/bird-gallery/striped_kingfisher_strkin1/inaturalist/striped_kingfisher_strkin1_2.jpg",
+      "public_id": "bird-gallery/striped_kingfisher_strkin1/inaturalist/striped_kingfisher_strkin1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 56789,
+      "attribution": {
+        "photographer": "jeslefcourt",
+        "photographer_url": "https://www.inaturalist.org/observations/143987168",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jeslefcourt (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 143987168,
+        "note": null
+      }
+    },
+    {
+      "original_file": "striped_kingfisher_strkin1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809412/bird-gallery/striped_kingfisher_strkin1/inaturalist/striped_kingfisher_strkin1_3.jpg",
+      "public_id": "bird-gallery/striped_kingfisher_strkin1/inaturalist/striped_kingfisher_strkin1_3",
+      "width": 576,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 47987,
+      "attribution": {
+        "photographer": "tobin_sparling",
+        "photographer_url": "https://www.inaturalist.org/observations/262929423",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tobin_sparling (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 262929423,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

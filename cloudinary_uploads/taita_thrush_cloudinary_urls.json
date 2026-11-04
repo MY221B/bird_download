@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "taita_thrush",
+    "chinese_name": "泰塔鸫",
+    "english_name": "Taita Thrush",
+    "scientific_name": "Turdus helleri"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "taita_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809797/bird-gallery/taita_thrush/inaturalist/taita_thrush_1.jpg",
+      "public_id": "bird-gallery/taita_thrush/inaturalist/taita_thrush_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 109053,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/86270845",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 86270845,
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_thrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809799/bird-gallery/taita_thrush/inaturalist/taita_thrush_2.jpg",
+      "public_id": "bird-gallery/taita_thrush/inaturalist/taita_thrush_2",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 91077,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/254288175",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 254288175,
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_thrush_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809799/bird-gallery/taita_thrush/inaturalist/taita_thrush_3.jpg",
+      "public_id": "bird-gallery/taita_thrush/inaturalist/taita_thrush_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 100305,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/19081683",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19081683,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "green_winged_pytilia_grwpyt1",
+    "chinese_name": "绿翅斑腹雀",
+    "english_name": "Green-winged Pytilia",
+    "scientific_name": "Pytilia melba"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "green_winged_pytilia_grwpyt1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809652/bird-gallery/green_winged_pytilia_grwpyt1/inaturalist/green_winged_pytilia_grwpyt1_1.jpg",
+      "public_id": "bird-gallery/green_winged_pytilia_grwpyt1/inaturalist/green_winged_pytilia_grwpyt1_1",
+      "width": 1024,
+      "height": 635,
+      "format": "jpg",
+      "bytes": 112765,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/100097029",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100097029,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_winged_pytilia_grwpyt1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809653/bird-gallery/green_winged_pytilia_grwpyt1/inaturalist/green_winged_pytilia_grwpyt1_2.jpg",
+      "public_id": "bird-gallery/green_winged_pytilia_grwpyt1/inaturalist/green_winged_pytilia_grwpyt1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 134103,
+      "attribution": {
+        "photographer": "paolocandotti",
+        "photographer_url": "https://www.inaturalist.org/observations/400635567",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paolocandotti (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 400635567,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_winged_pytilia_grwpyt1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809654/bird-gallery/green_winged_pytilia_grwpyt1/inaturalist/green_winged_pytilia_grwpyt1_3.jpg",
+      "public_id": "bird-gallery/green_winged_pytilia_grwpyt1/inaturalist/green_winged_pytilia_grwpyt1_3",
+      "width": 1024,
+      "height": 662,
+      "format": "jpg",
+      "bytes": 61572,
+      "attribution": {
+        "photographer": "paulcools",
+        "photographer_url": "https://www.inaturalist.org/observations/197469448",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paulcools (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 197469448,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

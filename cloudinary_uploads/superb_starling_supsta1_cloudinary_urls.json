@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "superb_starling_supsta1",
+    "chinese_name": "栗头丽椋鸟",
+    "english_name": "Superb Starling",
+    "scientific_name": "Lamprotornis superbus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "superb_starling_supsta1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809413/bird-gallery/superb_starling_supsta1/inaturalist/superb_starling_supsta1_1.jpg",
+      "public_id": "bird-gallery/superb_starling_supsta1/inaturalist/superb_starling_supsta1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 98098,
+      "attribution": {
+        "photographer": "patosur",
+        "photographer_url": "https://www.inaturalist.org/observations/179187705",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© patosur (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 179187705,
+        "note": null
+      }
+    },
+    {
+      "original_file": "superb_starling_supsta1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809414/bird-gallery/superb_starling_supsta1/inaturalist/superb_starling_supsta1_2.jpg",
+      "public_id": "bird-gallery/superb_starling_supsta1/inaturalist/superb_starling_supsta1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51385,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/18038105",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18038105,
+        "note": null
+      }
+    },
+    {
+      "original_file": "superb_starling_supsta1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809414/bird-gallery/superb_starling_supsta1/inaturalist/superb_starling_supsta1_3.jpg",
+      "public_id": "bird-gallery/superb_starling_supsta1/inaturalist/superb_starling_supsta1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 122229,
+      "attribution": {
+        "photographer": "thbecker",
+        "photographer_url": "https://www.inaturalist.org/observations/50762779",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© thbecker (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 50762779,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

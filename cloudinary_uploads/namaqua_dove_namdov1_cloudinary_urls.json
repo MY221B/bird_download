@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "namaqua_dove_namdov1",
+    "chinese_name": "小长尾鸠",
+    "english_name": "Namaqua Dove",
+    "scientific_name": "Oena capensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "namaqua_dove_namdov1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809325/bird-gallery/namaqua_dove_namdov1/inaturalist/namaqua_dove_namdov1_1.jpg",
+      "public_id": "bird-gallery/namaqua_dove_namdov1/inaturalist/namaqua_dove_namdov1_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 76683,
+      "attribution": {
+        "photographer": "ivanovdg19",
+        "photographer_url": "https://www.inaturalist.org/observations/116551940",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© ivanovdg19 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 116551940,
+        "note": null
+      }
+    },
+    {
+      "original_file": "namaqua_dove_namdov1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809326/bird-gallery/namaqua_dove_namdov1/inaturalist/namaqua_dove_namdov1_2.jpg",
+      "public_id": "bird-gallery/namaqua_dove_namdov1/inaturalist/namaqua_dove_namdov1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 53598,
+      "attribution": {
+        "photographer": "fionahellmann",
+        "photographer_url": "https://www.inaturalist.org/observations/117311637",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fionahellmann (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 117311637,
+        "note": null
+      }
+    },
+    {
+      "original_file": "namaqua_dove_namdov1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809327/bird-gallery/namaqua_dove_namdov1/inaturalist/namaqua_dove_namdov1_3.jpg",
+      "public_id": "bird-gallery/namaqua_dove_namdov1/inaturalist/namaqua_dove_namdov1_3",
+      "width": 1024,
+      "height": 820,
+      "format": "jpg",
+      "bytes": 114067,
+      "attribution": {
+        "photographer": "shahrzadasa",
+        "photographer_url": "https://www.inaturalist.org/observations/260723795",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shahrzadasa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 260723795,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

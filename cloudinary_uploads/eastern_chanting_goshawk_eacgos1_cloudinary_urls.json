@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "eastern_chanting_goshawk_eacgos1",
+    "chinese_name": "灰歌鹰",
+    "english_name": "Eastern Chanting-Goshawk",
+    "scientific_name": "Melierax poliopterus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "eastern_chanting_goshawk_eacgos1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809743/bird-gallery/eastern_chanting_goshawk_eacgos1/inaturalist/eastern_chanting_goshawk_eacgos1_1.jpg",
+      "public_id": "bird-gallery/eastern_chanting_goshawk_eacgos1/inaturalist/eastern_chanting_goshawk_eacgos1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 137983,
+      "attribution": {
+        "photographer": "redwolf",
+        "photographer_url": "https://www.inaturalist.org/observations/14237968",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© redwolf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 14237968,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_chanting_goshawk_eacgos1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809744/bird-gallery/eastern_chanting_goshawk_eacgos1/inaturalist/eastern_chanting_goshawk_eacgos1_2.jpg",
+      "public_id": "bird-gallery/eastern_chanting_goshawk_eacgos1/inaturalist/eastern_chanting_goshawk_eacgos1_2",
+      "width": 776,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 38472,
+      "attribution": {
+        "photographer": "virusmanbob",
+        "photographer_url": "https://www.inaturalist.org/observations/309621078",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© virusmanbob (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 309621078,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_chanting_goshawk_eacgos1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809745/bird-gallery/eastern_chanting_goshawk_eacgos1/inaturalist/eastern_chanting_goshawk_eacgos1_3.jpg",
+      "public_id": "bird-gallery/eastern_chanting_goshawk_eacgos1/inaturalist/eastern_chanting_goshawk_eacgos1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 80989,
+      "attribution": {
+        "photographer": "denisgrange",
+        "photographer_url": "https://www.inaturalist.org/observations/313891110",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© denisgrange (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 313891110,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "plain_nightjar",
+    "chinese_name": "纯色夜鹰",
+    "english_name": "Plain Nightjar",
+    "scientific_name": "Caprimulgus inornatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "plain_nightjar_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809830/bird-gallery/plain_nightjar/inaturalist/plain_nightjar_1.jpg",
+      "public_id": "bird-gallery/plain_nightjar/inaturalist/plain_nightjar_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 41420,
+      "attribution": {
+        "photographer": "bureaubenjamin",
+        "photographer_url": "https://www.inaturalist.org/observations/68960921",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bureaubenjamin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 68960921,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_nightjar_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809831/bird-gallery/plain_nightjar/inaturalist/plain_nightjar_2.jpg",
+      "public_id": "bird-gallery/plain_nightjar/inaturalist/plain_nightjar_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90353,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/151283179",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 151283179,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_nightjar_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809832/bird-gallery/plain_nightjar/inaturalist/plain_nightjar_3.jpg",
+      "public_id": "bird-gallery/plain_nightjar/inaturalist/plain_nightjar_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 257380,
+      "attribution": {
+        "photographer": "thierry_aebischer_chinko",
+        "photographer_url": "https://www.inaturalist.org/observations/257204225",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thierry_aebischer_chinko (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 257204225,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

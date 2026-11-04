@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_woolly_necked_stork_wonsto2",
+    "chinese_name": "非洲白颈鹳",
+    "english_name": "African Woolly-necked Stork",
+    "scientific_name": "Ciconia microscelis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_woolly_necked_stork_wonsto2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809638/bird-gallery/african_woolly_necked_stork_wonsto2/inaturalist/african_woolly_necked_stork_wonsto2_1.jpg",
+      "public_id": "bird-gallery/african_woolly_necked_stork_wonsto2/inaturalist/african_woolly_necked_stork_wonsto2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 109900,
+      "attribution": {
+        "photographer": "mika177",
+        "photographer_url": "https://www.inaturalist.org/observations/159248789",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mika177 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 159248789,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_woolly_necked_stork_wonsto2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809639/bird-gallery/african_woolly_necked_stork_wonsto2/inaturalist/african_woolly_necked_stork_wonsto2_2.jpg",
+      "public_id": "bird-gallery/african_woolly_necked_stork_wonsto2/inaturalist/african_woolly_necked_stork_wonsto2_2",
+      "width": 912,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 104162,
+      "attribution": {
+        "photographer": "timmcclurg",
+        "photographer_url": "https://www.inaturalist.org/observations/146597414",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© timmcclurg (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 146597414,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_woolly_necked_stork_wonsto2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809640/bird-gallery/african_woolly_necked_stork_wonsto2/inaturalist/african_woolly_necked_stork_wonsto2_3.jpg",
+      "public_id": "bird-gallery/african_woolly_necked_stork_wonsto2/inaturalist/african_woolly_necked_stork_wonsto2_3",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 120796,
+      "attribution": {
+        "photographer": "jolo12",
+        "photographer_url": "https://www.inaturalist.org/observations/17031200",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jolo12 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 17031200,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

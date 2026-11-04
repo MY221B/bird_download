@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "mountain_yellow_warbler_moywar1",
+    "chinese_name": "山捕蝇莺",
+    "english_name": "Mountain Yellow-Warbler",
+    "scientific_name": "Iduna similis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "mountain_yellow_warbler_moywar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809533/bird-gallery/mountain_yellow_warbler_moywar1/inaturalist/mountain_yellow_warbler_moywar1_1.jpg",
+      "public_id": "bird-gallery/mountain_yellow_warbler_moywar1/inaturalist/mountain_yellow_warbler_moywar1_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 62113,
+      "attribution": {
+        "photographer": "mwas",
+        "photographer_url": "https://www.inaturalist.org/observations/55380803",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mwas (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 55380803,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_yellow_warbler_moywar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809534/bird-gallery/mountain_yellow_warbler_moywar1/inaturalist/mountain_yellow_warbler_moywar1_2.jpg",
+      "public_id": "bird-gallery/mountain_yellow_warbler_moywar1/inaturalist/mountain_yellow_warbler_moywar1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 56008,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7130566",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7130566,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_yellow_warbler_moywar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809535/bird-gallery/mountain_yellow_warbler_moywar1/inaturalist/mountain_yellow_warbler_moywar1_3.jpg",
+      "public_id": "bird-gallery/mountain_yellow_warbler_moywar1/inaturalist/mountain_yellow_warbler_moywar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 99737,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7129033",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7129033,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

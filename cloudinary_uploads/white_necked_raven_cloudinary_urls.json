@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_necked_raven",
+    "chinese_name": "非洲渡鸦",
+    "english_name": "White-necked Raven",
+    "scientific_name": "Corvus albicollis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_necked_raven_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809792/bird-gallery/white_necked_raven/inaturalist/white_necked_raven_1.jpg",
+      "public_id": "bird-gallery/white_necked_raven/inaturalist/white_necked_raven_1",
+      "width": 1000,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 88839,
+      "attribution": {
+        "photographer": "adamwelz",
+        "photographer_url": "https://www.inaturalist.org/observations/107032478",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© adamwelz (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 107032478,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_necked_raven_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809793/bird-gallery/white_necked_raven/inaturalist/white_necked_raven_2.jpg",
+      "public_id": "bird-gallery/white_necked_raven/inaturalist/white_necked_raven_2",
+      "width": 1024,
+      "height": 902,
+      "format": "jpg",
+      "bytes": 91827,
+      "attribution": {
+        "photographer": "cirolana",
+        "photographer_url": "https://www.inaturalist.org/observations/225896242",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cirolana (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 225896242,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_necked_raven_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809794/bird-gallery/white_necked_raven/inaturalist/white_necked_raven_3.jpg",
+      "public_id": "bird-gallery/white_necked_raven/inaturalist/white_necked_raven_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 54293,
+      "attribution": {
+        "photographer": "stevemills",
+        "photographer_url": "https://www.inaturalist.org/observations/246477485",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stevemills (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 246477485,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

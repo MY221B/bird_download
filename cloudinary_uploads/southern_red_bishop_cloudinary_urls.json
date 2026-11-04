@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "southern_red_bishop",
+    "chinese_name": "红寡妇鸟",
+    "english_name": "Southern Red Bishop",
+    "scientific_name": "Euplectes orix"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "southern_red_bishop_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809887/bird-gallery/southern_red_bishop/inaturalist/southern_red_bishop_1.jpg",
+      "public_id": "bird-gallery/southern_red_bishop/inaturalist/southern_red_bishop_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 51097,
+      "attribution": {
+        "photographer": "charris032",
+        "photographer_url": "https://www.inaturalist.org/observations/43304849",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© charris032 (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 43304849,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_red_bishop_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809888/bird-gallery/southern_red_bishop/inaturalist/southern_red_bishop_2.jpg",
+      "public_id": "bird-gallery/southern_red_bishop/inaturalist/southern_red_bishop_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 23591,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/147871948",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147871948,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_red_bishop_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809889/bird-gallery/southern_red_bishop/inaturalist/southern_red_bishop_3.jpg",
+      "public_id": "bird-gallery/southern_red_bishop/inaturalist/southern_red_bishop_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 108684,
+      "attribution": {
+        "photographer": "liam_botha",
+        "photographer_url": "https://www.inaturalist.org/observations/323621595",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© liam_botha (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 323621595,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lesser_gray_shrike_legshr2",
+    "chinese_name": "黑额伯劳",
+    "english_name": "Lesser Gray Shrike",
+    "scientific_name": "Lanius minor"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lesser_gray_shrike_legshr2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809806/bird-gallery/lesser_gray_shrike_legshr2/inaturalist/lesser_gray_shrike_legshr2_1.jpg",
+      "public_id": "bird-gallery/lesser_gray_shrike_legshr2/inaturalist/lesser_gray_shrike_legshr2_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 40181,
+      "attribution": {
+        "photographer": "alexey_p",
+        "photographer_url": "https://www.inaturalist.org/observations/169555756",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexey_p (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 169555756,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_gray_shrike_legshr2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809807/bird-gallery/lesser_gray_shrike_legshr2/inaturalist/lesser_gray_shrike_legshr2_2.jpg",
+      "public_id": "bird-gallery/lesser_gray_shrike_legshr2/inaturalist/lesser_gray_shrike_legshr2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 54775,
+      "attribution": {
+        "photographer": "deniszhbir",
+        "photographer_url": "https://www.inaturalist.org/observations/55893486",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© deniszhbir (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 55893486,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_gray_shrike_legshr2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809808/bird-gallery/lesser_gray_shrike_legshr2/inaturalist/lesser_gray_shrike_legshr2_3.jpg",
+      "public_id": "bird-gallery/lesser_gray_shrike_legshr2/inaturalist/lesser_gray_shrike_legshr2_3",
+      "width": 1017,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 70455,
+      "attribution": {
+        "photographer": "damien_ramos",
+        "photographer_url": "https://www.inaturalist.org/observations/368066485",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© damien_ramos (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 368066485,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

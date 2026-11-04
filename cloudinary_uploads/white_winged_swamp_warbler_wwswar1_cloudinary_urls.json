@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_winged_swamp_warbler_wwswar1",
+    "chinese_name": "白翅短翅莺",
+    "english_name": "White-winged Swamp Warbler",
+    "scientific_name": "Bradypterus carpalis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_winged_swamp_warbler_wwswar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809890/bird-gallery/white_winged_swamp_warbler_wwswar1/inaturalist/white_winged_swamp_warbler_wwswar1_1.jpg",
+      "public_id": "bird-gallery/white_winged_swamp_warbler_wwswar1/inaturalist/white_winged_swamp_warbler_wwswar1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 82477,
+      "attribution": {
+        "photographer": "jeanlouiscarlo",
+        "photographer_url": "https://www.inaturalist.org/observations/251150905",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanlouiscarlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 251150905,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_winged_swamp_warbler_wwswar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809891/bird-gallery/white_winged_swamp_warbler_wwswar1/inaturalist/white_winged_swamp_warbler_wwswar1_2.jpg",
+      "public_id": "bird-gallery/white_winged_swamp_warbler_wwswar1/inaturalist/white_winged_swamp_warbler_wwswar1_2",
+      "width": 1024,
+      "height": 933,
+      "format": "jpg",
+      "bytes": 296749,
+      "attribution": {
+        "photographer": "avocat",
+        "photographer_url": "https://www.inaturalist.org/observations/326392179",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© avocat (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 326392179,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_winged_swamp_warbler_wwswar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809892/bird-gallery/white_winged_swamp_warbler_wwswar1/inaturalist/white_winged_swamp_warbler_wwswar1_3.jpg",
+      "public_id": "bird-gallery/white_winged_swamp_warbler_wwswar1/inaturalist/white_winged_swamp_warbler_wwswar1_3",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 74012,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/51592581",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 51592581,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

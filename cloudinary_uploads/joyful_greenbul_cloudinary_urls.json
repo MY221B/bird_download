@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "joyful_greenbul",
+    "chinese_name": "娇绿鸫鹎",
+    "english_name": "Joyful Greenbul",
+    "scientific_name": "Chlorocichla laetissima"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "joyful_greenbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809857/bird-gallery/joyful_greenbul/inaturalist/joyful_greenbul_1.jpg",
+      "public_id": "bird-gallery/joyful_greenbul/inaturalist/joyful_greenbul_1",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 99770,
+      "attribution": {
+        "photographer": "toutterrain",
+        "photographer_url": "https://www.inaturalist.org/observations/125208978",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© toutterrain (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 125208978,
+        "note": null
+      }
+    },
+    {
+      "original_file": "joyful_greenbul_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809858/bird-gallery/joyful_greenbul/inaturalist/joyful_greenbul_2.jpg",
+      "public_id": "bird-gallery/joyful_greenbul/inaturalist/joyful_greenbul_2",
+      "width": 1024,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 89521,
+      "attribution": {
+        "photographer": "owlice",
+        "photographer_url": "https://www.inaturalist.org/observations/225997009",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© owlice (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 225997009,
+        "note": null
+      }
+    },
+    {
+      "original_file": "joyful_greenbul_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809859/bird-gallery/joyful_greenbul/inaturalist/joyful_greenbul_3.jpg",
+      "public_id": "bird-gallery/joyful_greenbul/inaturalist/joyful_greenbul_3",
+      "width": 1024,
+      "height": 766,
+      "format": "jpg",
+      "bytes": 96410,
+      "attribution": {
+        "photographer": "opisska",
+        "photographer_url": "https://www.inaturalist.org/observations/105361294",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© opisska (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 105361294,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

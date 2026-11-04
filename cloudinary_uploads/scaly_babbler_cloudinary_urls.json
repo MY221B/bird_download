@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "scaly_babbler",
+    "chinese_name": "鳞羽鸫鹛",
+    "english_name": "Scaly Babbler",
+    "scientific_name": "Turdoides squamulata"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "scaly_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809907/bird-gallery/scaly_babbler/inaturalist/scaly_babbler_1.jpg",
+      "public_id": "bird-gallery/scaly_babbler/inaturalist/scaly_babbler_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 223260,
+      "attribution": {
+        "photographer": "ajwhitlock",
+        "photographer_url": "https://www.inaturalist.org/observations/185673459",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ajwhitlock (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 185673459,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scaly_babbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809908/bird-gallery/scaly_babbler/inaturalist/scaly_babbler_2.jpg",
+      "public_id": "bird-gallery/scaly_babbler/inaturalist/scaly_babbler_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 83420,
+      "attribution": {
+        "photographer": "rafnuss",
+        "photographer_url": "https://www.inaturalist.org/observations/49925996",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rafnuss (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 49925996,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scaly_babbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809909/bird-gallery/scaly_babbler/inaturalist/scaly_babbler_3.jpg",
+      "public_id": "bird-gallery/scaly_babbler/inaturalist/scaly_babbler_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 143703,
+      "attribution": {
+        "photographer": "jane_tours",
+        "photographer_url": "https://www.inaturalist.org/observations/265270528",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© jane_tours (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 265270528,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

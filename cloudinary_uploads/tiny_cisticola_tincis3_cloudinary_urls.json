@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "tiny_cisticola_tincis3",
+    "chinese_name": "小扇尾莺",
+    "english_name": "Tiny Cisticola",
+    "scientific_name": "Cisticola nana"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "tiny_cisticola_tincis3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809755/bird-gallery/tiny_cisticola_tincis3/inaturalist/tiny_cisticola_tincis3_1.jpg",
+      "public_id": "bird-gallery/tiny_cisticola_tincis3/inaturalist/tiny_cisticola_tincis3_1",
+      "width": 1024,
+      "height": 1019,
+      "format": "jpg",
+      "bytes": 55720,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/106247510",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106247510,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tiny_cisticola_tincis3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809756/bird-gallery/tiny_cisticola_tincis3/inaturalist/tiny_cisticola_tincis3_2.jpg",
+      "public_id": "bird-gallery/tiny_cisticola_tincis3/inaturalist/tiny_cisticola_tincis3_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 95830,
+      "attribution": {
+        "photographer": "galewski",
+        "photographer_url": "https://www.inaturalist.org/observations/266134930",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© galewski (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 266134930,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tiny_cisticola_tincis3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809756/bird-gallery/tiny_cisticola_tincis3/inaturalist/tiny_cisticola_tincis3_3.jpg",
+      "public_id": "bird-gallery/tiny_cisticola_tincis3/inaturalist/tiny_cisticola_tincis3_3",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 96134,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/310450931",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 310450931,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

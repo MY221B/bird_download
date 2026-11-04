@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "parrot_billed_sparrow_pabspa1",
+    "chinese_name": "鹦嘴麻雀",
+    "english_name": "Parrot-billed Sparrow",
+    "scientific_name": "Passer gongonensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "parrot_billed_sparrow_pabspa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809618/bird-gallery/parrot_billed_sparrow_pabspa1/inaturalist/parrot_billed_sparrow_pabspa1_1.jpg",
+      "public_id": "bird-gallery/parrot_billed_sparrow_pabspa1/inaturalist/parrot_billed_sparrow_pabspa1_1",
+      "width": 512,
+      "height": 385,
+      "format": "jpg",
+      "bytes": 16380,
+      "attribution": {
+        "photographer": "muir",
+        "photographer_url": "https://www.inaturalist.org/observations/844273",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© muir (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 844273,
+        "note": null
+      }
+    },
+    {
+      "original_file": "parrot_billed_sparrow_pabspa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809619/bird-gallery/parrot_billed_sparrow_pabspa1/inaturalist/parrot_billed_sparrow_pabspa1_2.jpg",
+      "public_id": "bird-gallery/parrot_billed_sparrow_pabspa1/inaturalist/parrot_billed_sparrow_pabspa1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 104342,
+      "attribution": {
+        "photographer": "paulazermoglio",
+        "photographer_url": "https://www.inaturalist.org/observations/277559527",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© paulazermoglio (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 277559527,
+        "note": null
+      }
+    },
+    {
+      "original_file": "parrot_billed_sparrow_pabspa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809620/bird-gallery/parrot_billed_sparrow_pabspa1/inaturalist/parrot_billed_sparrow_pabspa1_3.jpg",
+      "public_id": "bird-gallery/parrot_billed_sparrow_pabspa1/inaturalist/parrot_billed_sparrow_pabspa1_3",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 161291,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/31293206",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 31293206,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "chestnut_bellied_sandgrouse_chbsan",
+    "chinese_name": "栗腹沙鸡",
+    "english_name": "Chestnut-bellied Sandgrouse",
+    "scientific_name": "Pterocles exustus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_bellied_sandgrouse_chbsan_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809735/bird-gallery/chestnut_bellied_sandgrouse_chbsan/inaturalist/chestnut_bellied_sandgrouse_chbsan_1.jpg",
+      "public_id": "bird-gallery/chestnut_bellied_sandgrouse_chbsan/inaturalist/chestnut_bellied_sandgrouse_chbsan_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 128966,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/39419815",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39419815,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_bellied_sandgrouse_chbsan_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809736/bird-gallery/chestnut_bellied_sandgrouse_chbsan/inaturalist/chestnut_bellied_sandgrouse_chbsan_2.jpg",
+      "public_id": "bird-gallery/chestnut_bellied_sandgrouse_chbsan/inaturalist/chestnut_bellied_sandgrouse_chbsan_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 38951,
+      "attribution": {
+        "photographer": "titouan_roguet",
+        "photographer_url": "https://www.inaturalist.org/observations/301367232",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© titouan_roguet (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 301367232,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_bellied_sandgrouse_chbsan_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809737/bird-gallery/chestnut_bellied_sandgrouse_chbsan/inaturalist/chestnut_bellied_sandgrouse_chbsan_3.jpg",
+      "public_id": "bird-gallery/chestnut_bellied_sandgrouse_chbsan/inaturalist/chestnut_bellied_sandgrouse_chbsan_3",
+      "width": 766,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 79810,
+      "attribution": {
+        "photographer": "thehymenopteranenthusiast",
+        "photographer_url": "https://www.inaturalist.org/observations/128122647",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thehymenopteranenthusiast (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 128122647,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

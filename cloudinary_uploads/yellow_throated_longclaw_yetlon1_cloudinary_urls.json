@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "yellow_throated_longclaw_yetlon1",
+    "chinese_name": "黄喉长爪鹡鸰",
+    "english_name": "Yellow-throated Longclaw",
+    "scientific_name": "Macronyx croceus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "yellow_throated_longclaw_yetlon1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809471/bird-gallery/yellow_throated_longclaw_yetlon1/inaturalist/yellow_throated_longclaw_yetlon1_1.jpg",
+      "public_id": "bird-gallery/yellow_throated_longclaw_yetlon1/inaturalist/yellow_throated_longclaw_yetlon1_1",
+      "width": 1024,
+      "height": 821,
+      "format": "jpg",
+      "bytes": 113105,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/57800303",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 57800303,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_longclaw_yetlon1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809472/bird-gallery/yellow_throated_longclaw_yetlon1/inaturalist/yellow_throated_longclaw_yetlon1_2.jpg",
+      "public_id": "bird-gallery/yellow_throated_longclaw_yetlon1/inaturalist/yellow_throated_longclaw_yetlon1_2",
+      "width": 720,
+      "height": 540,
+      "format": "jpg",
+      "bytes": 96058,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/2011710",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 2011710,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_longclaw_yetlon1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809473/bird-gallery/yellow_throated_longclaw_yetlon1/inaturalist/yellow_throated_longclaw_yetlon1_3.jpg",
+      "public_id": "bird-gallery/yellow_throated_longclaw_yetlon1/inaturalist/yellow_throated_longclaw_yetlon1_3",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 15580,
+      "attribution": {
+        "photographer": "martyndrabik",
+        "photographer_url": "https://www.inaturalist.org/observations/51729448",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© martyndrabik (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 51729448,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

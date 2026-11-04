@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "verreauxs_eagle_vereag1",
+    "chinese_name": "黑雕",
+    "english_name": "Verreaux's Eagle",
+    "scientific_name": "Aquila verreauxii"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "verreauxs_eagle_vereag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809629/bird-gallery/verreauxs_eagle_vereag1/inaturalist/verreauxs_eagle_vereag1_1.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_vereag1/inaturalist/verreauxs_eagle_vereag1_1",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 25272,
+      "attribution": {
+        "photographer": "theoutdoorman102",
+        "photographer_url": "https://www.inaturalist.org/observations/243641367",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© theoutdoorman102 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 243641367,
+        "note": null
+      }
+    },
+    {
+      "original_file": "verreauxs_eagle_vereag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809630/bird-gallery/verreauxs_eagle_vereag1/inaturalist/verreauxs_eagle_vereag1_2.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_vereag1/inaturalist/verreauxs_eagle_vereag1_2",
+      "width": 1000,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 61137,
+      "attribution": {
+        "photographer": "brendancole",
+        "photographer_url": "https://www.inaturalist.org/observations/9749663",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© brendancole (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 9749663,
+        "note": null
+      }
+    },
+    {
+      "original_file": "verreauxs_eagle_vereag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809631/bird-gallery/verreauxs_eagle_vereag1/inaturalist/verreauxs_eagle_vereag1_3.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_vereag1/inaturalist/verreauxs_eagle_vereag1_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 134980,
+      "attribution": {
+        "photographer": "the_science_hippie",
+        "photographer_url": "https://www.inaturalist.org/observations/217748030",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© the_science_hippie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 217748030,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

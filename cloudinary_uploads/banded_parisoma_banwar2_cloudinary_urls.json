@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "banded_parisoma_banwar2",
+    "chinese_name": "斑林莺",
+    "english_name": "Banded Parisoma",
+    "scientific_name": "Curruca boehmi"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "banded_parisoma_banwar2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809131/bird-gallery/banded_parisoma_banwar2/inaturalist/banded_parisoma_banwar2_1.jpg",
+      "public_id": "bird-gallery/banded_parisoma_banwar2/inaturalist/banded_parisoma_banwar2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 77266,
+      "attribution": {
+        "photographer": "claudekolwelter",
+        "photographer_url": "https://www.inaturalist.org/observations/97935717",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© claudekolwelter (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 97935717,
+        "note": null
+      }
+    },
+    {
+      "original_file": "banded_parisoma_banwar2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809132/bird-gallery/banded_parisoma_banwar2/inaturalist/banded_parisoma_banwar2_2.jpg",
+      "public_id": "bird-gallery/banded_parisoma_banwar2/inaturalist/banded_parisoma_banwar2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67441,
+      "attribution": {
+        "photographer": "chartuso",
+        "photographer_url": "https://www.inaturalist.org/observations/33286821",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© chartuso (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 33286821,
+        "note": null
+      }
+    },
+    {
+      "original_file": "banded_parisoma_banwar2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809133/bird-gallery/banded_parisoma_banwar2/inaturalist/banded_parisoma_banwar2_3.jpg",
+      "public_id": "bird-gallery/banded_parisoma_banwar2/inaturalist/banded_parisoma_banwar2_3",
+      "width": 930,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 113144,
+      "attribution": {
+        "photographer": "fydnar",
+        "photographer_url": "https://www.inaturalist.org/observations/33284165",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fydnar (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 33284165,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

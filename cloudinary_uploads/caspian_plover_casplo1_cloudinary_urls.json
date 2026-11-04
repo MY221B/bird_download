@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "caspian_plover_casplo1",
+    "chinese_name": "红胸鸻",
+    "english_name": "Caspian Plover",
+    "scientific_name": "Anarhynchus asiaticus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "caspian_plover_casplo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809732/bird-gallery/caspian_plover_casplo1/inaturalist/caspian_plover_casplo1_1.jpg",
+      "public_id": "bird-gallery/caspian_plover_casplo1/inaturalist/caspian_plover_casplo1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90582,
+      "attribution": {
+        "photographer": "nastasya40",
+        "photographer_url": "https://www.inaturalist.org/observations/173001516",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nastasya40 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 173001516,
+        "note": null
+      }
+    },
+    {
+      "original_file": "caspian_plover_casplo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809733/bird-gallery/caspian_plover_casplo1/inaturalist/caspian_plover_casplo1_2.jpg",
+      "public_id": "bird-gallery/caspian_plover_casplo1/inaturalist/caspian_plover_casplo1_2",
+      "width": 1024,
+      "height": 937,
+      "format": "jpg",
+      "bytes": 158015,
+      "attribution": {
+        "photographer": "nestboxer",
+        "photographer_url": "https://www.inaturalist.org/observations/18583099",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nestboxer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18583099,
+        "note": null
+      }
+    },
+    {
+      "original_file": "caspian_plover_casplo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809734/bird-gallery/caspian_plover_casplo1/inaturalist/caspian_plover_casplo1_3.jpg",
+      "public_id": "bird-gallery/caspian_plover_casplo1/inaturalist/caspian_plover_casplo1_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 110064,
+      "attribution": {
+        "photographer": "gokcecoskun",
+        "photographer_url": "https://www.inaturalist.org/observations/15784345",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gokcecoskun (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 15784345,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

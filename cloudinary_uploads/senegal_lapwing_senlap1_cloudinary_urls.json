@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "senegal_lapwing_senlap1",
+    "chinese_name": "塞内加尔麦鸡",
+    "english_name": "Senegal Lapwing",
+    "scientific_name": "Vanellus lugubris"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "senegal_lapwing_senlap1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809703/bird-gallery/senegal_lapwing_senlap1/inaturalist/senegal_lapwing_senlap1_1.jpg",
+      "public_id": "bird-gallery/senegal_lapwing_senlap1/inaturalist/senegal_lapwing_senlap1_1",
+      "width": 928,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 82393,
+      "attribution": {
+        "photographer": "gaudettelaura",
+        "photographer_url": "https://www.inaturalist.org/observations/148107900",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© gaudettelaura (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 148107900,
+        "note": null
+      }
+    },
+    {
+      "original_file": "senegal_lapwing_senlap1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809704/bird-gallery/senegal_lapwing_senlap1/inaturalist/senegal_lapwing_senlap1_2.jpg",
+      "public_id": "bird-gallery/senegal_lapwing_senlap1/inaturalist/senegal_lapwing_senlap1_2",
+      "width": 1024,
+      "height": 734,
+      "format": "jpg",
+      "bytes": 130508,
+      "attribution": {
+        "photographer": "naturalist23338",
+        "photographer_url": "https://www.inaturalist.org/observations/336256686",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 336256686,
+        "note": null
+      }
+    },
+    {
+      "original_file": "senegal_lapwing_senlap1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809705/bird-gallery/senegal_lapwing_senlap1/inaturalist/senegal_lapwing_senlap1_3.jpg",
+      "public_id": "bird-gallery/senegal_lapwing_senlap1/inaturalist/senegal_lapwing_senlap1_3",
+      "width": 1024,
+      "height": 758,
+      "format": "jpg",
+      "bytes": 41133,
+      "attribution": {
+        "photographer": "globalorthop",
+        "photographer_url": "https://www.inaturalist.org/observations/133798950",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© globalorthop (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 133798950,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

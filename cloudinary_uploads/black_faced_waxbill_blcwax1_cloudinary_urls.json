@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "black_faced_waxbill_blcwax1",
+    "chinese_name": "黑颊梅花雀",
+    "english_name": "Black-faced Waxbill",
+    "scientific_name": "Brunhilda erythronotos"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "black_faced_waxbill_blcwax1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809152/bird-gallery/black_faced_waxbill_blcwax1/inaturalist/black_faced_waxbill_blcwax1_1.jpg",
+      "public_id": "bird-gallery/black_faced_waxbill_blcwax1/inaturalist/black_faced_waxbill_blcwax1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 83784,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/306656330",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 306656330,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_faced_waxbill_blcwax1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809153/bird-gallery/black_faced_waxbill_blcwax1/inaturalist/black_faced_waxbill_blcwax1_2.jpg",
+      "public_id": "bird-gallery/black_faced_waxbill_blcwax1/inaturalist/black_faced_waxbill_blcwax1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 75490,
+      "attribution": {
+        "photographer": "dicksonmunka",
+        "photographer_url": "https://www.inaturalist.org/observations/330245162",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dicksonmunka (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 330245162,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_faced_waxbill_blcwax1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809153/bird-gallery/black_faced_waxbill_blcwax1/inaturalist/black_faced_waxbill_blcwax1_3.jpg",
+      "public_id": "bird-gallery/black_faced_waxbill_blcwax1/inaturalist/black_faced_waxbill_blcwax1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 76206,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/306656327",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 306656327,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

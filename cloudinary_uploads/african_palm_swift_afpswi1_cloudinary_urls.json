@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_palm_swift_afpswi1",
+    "chinese_name": "棕雨燕",
+    "english_name": "African Palm Swift",
+    "scientific_name": "Cypsiurus parvus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_palm_swift_afpswi1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809105/bird-gallery/african_palm_swift_afpswi1/inaturalist/african_palm_swift_afpswi1_1.jpg",
+      "public_id": "bird-gallery/african_palm_swift_afpswi1/inaturalist/african_palm_swift_afpswi1_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 212828,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "african_palm_swift_afpswi1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809106/bird-gallery/african_palm_swift_afpswi1/inaturalist/african_palm_swift_afpswi1_2.jpg",
+      "public_id": "bird-gallery/african_palm_swift_afpswi1/inaturalist/african_palm_swift_afpswi1_2",
+      "width": 1024,
+      "height": 820,
+      "format": "jpg",
+      "bytes": 112165,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "african_palm_swift_afpswi1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809107/bird-gallery/african_palm_swift_afpswi1/inaturalist/african_palm_swift_afpswi1_3.jpg",
+      "public_id": "bird-gallery/african_palm_swift_afpswi1/inaturalist/african_palm_swift_afpswi1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 9132,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "inaturalist",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

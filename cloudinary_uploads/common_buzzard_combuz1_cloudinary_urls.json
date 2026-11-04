@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "common_buzzard_combuz1",
+    "chinese_name": "普通𫛭",
+    "english_name": "Common Buzzard",
+    "scientific_name": "Buteo buteo"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "common_buzzard_combuz1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809177/bird-gallery/common_buzzard_combuz1/inaturalist/common_buzzard_combuz1_1.jpg",
+      "public_id": "bird-gallery/common_buzzard_combuz1/inaturalist/common_buzzard_combuz1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 30697,
+      "attribution": {
+        "photographer": "tiller-bug",
+        "photographer_url": "https://www.inaturalist.org/observations/148637530",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tiller-bug (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 148637530,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_buzzard_combuz1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809177/bird-gallery/common_buzzard_combuz1/inaturalist/common_buzzard_combuz1_2.jpg",
+      "public_id": "bird-gallery/common_buzzard_combuz1/inaturalist/common_buzzard_combuz1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 56195,
+      "attribution": {
+        "photographer": "a-tristis",
+        "photographer_url": "https://www.inaturalist.org/observations/195797031",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© a-tristis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 195797031,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_buzzard_combuz1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809179/bird-gallery/common_buzzard_combuz1/inaturalist/common_buzzard_combuz1_3.jpg",
+      "public_id": "bird-gallery/common_buzzard_combuz1/inaturalist/common_buzzard_combuz1_3",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 49103,
+      "attribution": {
+        "photographer": "jcentavo",
+        "photographer_url": "https://www.inaturalist.org/observations/9553786",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jcentavo (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 9553786,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

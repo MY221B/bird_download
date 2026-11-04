@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_harrier_hawk_afhhaw1",
+    "chinese_name": "非洲猎鹰",
+    "english_name": "African Harrier-Hawk",
+    "scientific_name": "Polyboroides typus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_harrier_hawk_afhhaw1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809477/bird-gallery/african_harrier_hawk_afhhaw1/inaturalist/african_harrier_hawk_afhhaw1_1.jpg",
+      "public_id": "bird-gallery/african_harrier_hawk_afhhaw1/inaturalist/african_harrier_hawk_afhhaw1_1",
+      "width": 453,
+      "height": 395,
+      "format": "jpg",
+      "bytes": 15199,
+      "attribution": {
+        "photographer": "beethoven242",
+        "photographer_url": "https://www.inaturalist.org/observations/184760266",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© beethoven242 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 184760266,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_harrier_hawk_afhhaw1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809478/bird-gallery/african_harrier_hawk_afhhaw1/inaturalist/african_harrier_hawk_afhhaw1_2.jpg",
+      "public_id": "bird-gallery/african_harrier_hawk_afhhaw1/inaturalist/african_harrier_hawk_afhhaw1_2",
+      "width": 1024,
+      "height": 727,
+      "format": "jpg",
+      "bytes": 154683,
+      "attribution": {
+        "photographer": "sallyslak",
+        "photographer_url": "https://www.inaturalist.org/observations/18304867",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sallyslak (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18304867,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_harrier_hawk_afhhaw1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809478/bird-gallery/african_harrier_hawk_afhhaw1/inaturalist/african_harrier_hawk_afhhaw1_3.jpg",
+      "public_id": "bird-gallery/african_harrier_hawk_afhhaw1/inaturalist/african_harrier_hawk_afhhaw1_3",
+      "width": 703,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 89113,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/9630486",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9630486,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

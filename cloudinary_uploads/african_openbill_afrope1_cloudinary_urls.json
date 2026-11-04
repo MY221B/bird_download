@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_openbill_afrope1",
+    "chinese_name": "非洲钳嘴鹳",
+    "english_name": "African Openbill",
+    "scientific_name": "Anastomus lamelligerus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_openbill_afrope1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809119/bird-gallery/african_openbill_afrope1/inaturalist/african_openbill_afrope1_1.jpg",
+      "public_id": "bird-gallery/african_openbill_afrope1/inaturalist/african_openbill_afrope1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 73710,
+      "attribution": {
+        "photographer": "don-jean",
+        "photographer_url": "https://www.inaturalist.org/observations/51051336",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© don-jean (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 51051336,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_openbill_afrope1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809119/bird-gallery/african_openbill_afrope1/inaturalist/african_openbill_afrope1_2.jpg",
+      "public_id": "bird-gallery/african_openbill_afrope1/inaturalist/african_openbill_afrope1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115100,
+      "attribution": {
+        "photographer": "martianhiker",
+        "photographer_url": "https://www.inaturalist.org/observations/240839422",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© martianhiker (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 240839422,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_openbill_afrope1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809120/bird-gallery/african_openbill_afrope1/inaturalist/african_openbill_afrope1_3.jpg",
+      "public_id": "bird-gallery/african_openbill_afrope1/inaturalist/african_openbill_afrope1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 71968,
+      "attribution": {
+        "photographer": "heinrichhuman",
+        "photographer_url": "https://www.inaturalist.org/observations/224239974",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© heinrichhuman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 224239974,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "lilac_breasted_roller_librol2",
+    "chinese_name": "紫胸佛法僧",
+    "english_name": "Lilac-breasted Roller",
+    "scientific_name": "Coracias caudatus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "lilac_breasted_roller_librol2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809294/bird-gallery/lilac_breasted_roller_librol2/inaturalist/lilac_breasted_roller_librol2_1.jpg",
+      "public_id": "bird-gallery/lilac_breasted_roller_librol2/inaturalist/lilac_breasted_roller_librol2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67326,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/6479006",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 6479006,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lilac_breasted_roller_librol2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809295/bird-gallery/lilac_breasted_roller_librol2/inaturalist/lilac_breasted_roller_librol2_2.jpg",
+      "public_id": "bird-gallery/lilac_breasted_roller_librol2/inaturalist/lilac_breasted_roller_librol2_2",
+      "width": 1024,
+      "height": 785,
+      "format": "jpg",
+      "bytes": 103111,
+      "attribution": {
+        "photographer": "tjeales",
+        "photographer_url": "https://www.inaturalist.org/observations/171954676",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© tjeales (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 171954676,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lilac_breasted_roller_librol2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809296/bird-gallery/lilac_breasted_roller_librol2/inaturalist/lilac_breasted_roller_librol2_3.jpg",
+      "public_id": "bird-gallery/lilac_breasted_roller_librol2/inaturalist/lilac_breasted_roller_librol2_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 53754,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/18037888",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18037888,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

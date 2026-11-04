@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "wattled_lapwing_watlap1",
+    "chinese_name": "黑喉肉垂麦鸡",
+    "english_name": "Wattled Lapwing",
+    "scientific_name": "Vanellus senegallus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "wattled_lapwing_watlap1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809433/bird-gallery/wattled_lapwing_watlap1/inaturalist/wattled_lapwing_watlap1_1.jpg",
+      "public_id": "bird-gallery/wattled_lapwing_watlap1/inaturalist/wattled_lapwing_watlap1_1",
+      "width": 725,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 129668,
+      "attribution": {
+        "photographer": "photokeen",
+        "photographer_url": "https://www.inaturalist.org/observations/156655165",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© photokeen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 156655165,
+        "note": null
+      }
+    },
+    {
+      "original_file": "wattled_lapwing_watlap1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809434/bird-gallery/wattled_lapwing_watlap1/inaturalist/wattled_lapwing_watlap1_2.jpg",
+      "public_id": "bird-gallery/wattled_lapwing_watlap1/inaturalist/wattled_lapwing_watlap1_2",
+      "width": 1024,
+      "height": 671,
+      "format": "jpg",
+      "bytes": 39742,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/193106178",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 193106178,
+        "note": null
+      }
+    },
+    {
+      "original_file": "wattled_lapwing_watlap1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809434/bird-gallery/wattled_lapwing_watlap1/inaturalist/wattled_lapwing_watlap1_3.jpg",
+      "public_id": "bird-gallery/wattled_lapwing_watlap1/inaturalist/wattled_lapwing_watlap1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 148659,
+      "attribution": {
+        "photographer": "johnwilkinson",
+        "photographer_url": "https://www.inaturalist.org/observations/36818353",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© johnwilkinson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36818353,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

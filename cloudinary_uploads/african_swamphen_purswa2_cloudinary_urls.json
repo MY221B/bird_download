@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_swamphen_purswa2",
+    "chinese_name": "非洲紫水鸡",
+    "english_name": "African Swamphen",
+    "scientific_name": "Porphyrio madagascariensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_swamphen_purswa2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809356/bird-gallery/african_swamphen_purswa2/inaturalist/african_swamphen_purswa2_1.jpg",
+      "public_id": "bird-gallery/african_swamphen_purswa2/inaturalist/african_swamphen_purswa2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57967,
+      "attribution": {
+        "photographer": "jrgale",
+        "photographer_url": "https://www.inaturalist.org/observations/114268066",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jrgale (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 114268066,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_swamphen_purswa2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809357/bird-gallery/african_swamphen_purswa2/inaturalist/african_swamphen_purswa2_2.jpg",
+      "public_id": "bird-gallery/african_swamphen_purswa2/inaturalist/african_swamphen_purswa2_2",
+      "width": 1023,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 114232,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/236069981",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 236069981,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_swamphen_purswa2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809359/bird-gallery/african_swamphen_purswa2/inaturalist/african_swamphen_purswa2_3.jpg",
+      "public_id": "bird-gallery/african_swamphen_purswa2/inaturalist/african_swamphen_purswa2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 95325,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/208529344",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 208529344,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

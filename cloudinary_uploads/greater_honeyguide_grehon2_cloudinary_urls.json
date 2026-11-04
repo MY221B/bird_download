@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "greater_honeyguide_grehon2",
+    "chinese_name": "黑喉响蜜䴕",
+    "english_name": "Greater Honeyguide",
+    "scientific_name": "Indicator indicator"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "greater_honeyguide_grehon2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809577/bird-gallery/greater_honeyguide_grehon2/inaturalist/greater_honeyguide_grehon2_1.jpg",
+      "public_id": "bird-gallery/greater_honeyguide_grehon2/inaturalist/greater_honeyguide_grehon2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 52507,
+      "attribution": {
+        "photographer": "albertkang",
+        "photographer_url": "https://www.inaturalist.org/observations/90860158",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© albertkang (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 90860158,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_honeyguide_grehon2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809578/bird-gallery/greater_honeyguide_grehon2/inaturalist/greater_honeyguide_grehon2_2.jpg",
+      "public_id": "bird-gallery/greater_honeyguide_grehon2/inaturalist/greater_honeyguide_grehon2_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 160957,
+      "attribution": {
+        "photographer": "carlbodenstaff",
+        "photographer_url": "https://www.inaturalist.org/observations/145826068",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© carlbodenstaff (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 145826068,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_honeyguide_grehon2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809579/bird-gallery/greater_honeyguide_grehon2/inaturalist/greater_honeyguide_grehon2_3.jpg",
+      "public_id": "bird-gallery/greater_honeyguide_grehon2/inaturalist/greater_honeyguide_grehon2_3",
+      "width": 1024,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 96739,
+      "attribution": {
+        "photographer": "nature_mosaics",
+        "photographer_url": "https://www.inaturalist.org/observations/67515092",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© nature_mosaics (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 67515092,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

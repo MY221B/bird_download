@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "white_breasted_nigrita",
+    "chinese_name": "白胸黑雀",
+    "english_name": "White-breasted Nigrita",
+    "scientific_name": "Nigrita fusconotus"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "white_breasted_nigrita_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809882/bird-gallery/white_breasted_nigrita/inaturalist/white_breasted_nigrita_1.jpg",
+      "public_id": "bird-gallery/white_breasted_nigrita/inaturalist/white_breasted_nigrita_1",
+      "width": 1000,
+      "height": 702,
+      "format": "jpg",
+      "bytes": 47121,
+      "attribution": {
+        "photographer": "paulcools",
+        "photographer_url": "https://www.inaturalist.org/observations/309297831",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paulcools (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 309297831,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_breasted_nigrita_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809883/bird-gallery/white_breasted_nigrita/inaturalist/white_breasted_nigrita_2.jpg",
+      "public_id": "bird-gallery/white_breasted_nigrita/inaturalist/white_breasted_nigrita_2",
+      "width": 565,
+      "height": 847,
+      "format": "jpg",
+      "bytes": 14260,
+      "attribution": {
+        "photographer": "lostincr",
+        "photographer_url": "https://www.inaturalist.org/observations/200573290",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lostincr (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 200573290,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_breasted_nigrita_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809884/bird-gallery/white_breasted_nigrita/inaturalist/white_breasted_nigrita_3.jpg",
+      "public_id": "bird-gallery/white_breasted_nigrita/inaturalist/white_breasted_nigrita_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 47363,
+      "attribution": {
+        "photographer": "billyschofield",
+        "photographer_url": "https://www.inaturalist.org/observations/304170299",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© billyschofield (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 304170299,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

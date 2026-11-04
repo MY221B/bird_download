@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "long_toed_lapwing_lotlap1",
+    "chinese_name": "长趾麦鸡",
+    "english_name": "Long-toed Lapwing",
+    "scientific_name": "Vanellus crassirostris"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "long_toed_lapwing_lotlap1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809308/bird-gallery/long_toed_lapwing_lotlap1/inaturalist/long_toed_lapwing_lotlap1_1.jpg",
+      "public_id": "bird-gallery/long_toed_lapwing_lotlap1/inaturalist/long_toed_lapwing_lotlap1_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 102023,
+      "attribution": {
+        "photographer": "samgulino",
+        "photographer_url": "https://www.inaturalist.org/observations/29662538",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© samgulino (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 29662538,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_toed_lapwing_lotlap1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809308/bird-gallery/long_toed_lapwing_lotlap1/inaturalist/long_toed_lapwing_lotlap1_2.jpg",
+      "public_id": "bird-gallery/long_toed_lapwing_lotlap1/inaturalist/long_toed_lapwing_lotlap1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76778,
+      "attribution": {
+        "photographer": "davidroche",
+        "photographer_url": "https://www.inaturalist.org/observations/300468867",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© davidroche (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 300468867,
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_toed_lapwing_lotlap1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809309/bird-gallery/long_toed_lapwing_lotlap1/inaturalist/long_toed_lapwing_lotlap1_3.jpg",
+      "public_id": "bird-gallery/long_toed_lapwing_lotlap1/inaturalist/long_toed_lapwing_lotlap1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 103619,
+      "attribution": {
+        "photographer": "lynnecorreia",
+        "photographer_url": "https://www.inaturalist.org/observations/97047429",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lynnecorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 97047429,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

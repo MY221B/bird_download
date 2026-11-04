@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "african_broadbill",
+    "chinese_name": "非洲阔嘴鸟",
+    "english_name": "African Broadbill",
+    "scientific_name": "Smithornis capensis"
+  },
+  "macaulay": [],
+  "inaturalist": [
+    {
+      "original_file": "african_broadbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809840/bird-gallery/african_broadbill/inaturalist/african_broadbill_1.jpg",
+      "public_id": "bird-gallery/african_broadbill/inaturalist/african_broadbill_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78509,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/301059285",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 301059285,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_broadbill_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809841/bird-gallery/african_broadbill/inaturalist/african_broadbill_2.jpg",
+      "public_id": "bird-gallery/african_broadbill/inaturalist/african_broadbill_2",
+      "width": 1024,
+      "height": 663,
+      "format": "jpg",
+      "bytes": 66549,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/325813453",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 325813453,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_broadbill_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793809841/bird-gallery/african_broadbill/inaturalist/african_broadbill_3.jpg",
+      "public_id": "bird-gallery/african_broadbill/inaturalist/african_broadbill_3",
+      "width": 1024,
+      "height": 702,
+      "format": "jpg",
+      "bytes": 74355,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/296318168",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 296318168,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "chinese_grassbird",
+    "chinese_name": "中华草鹛",
+    "english_name": "Chinese Grassbird",
+    "scientific_name": "Graminicola striatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "chinese_grassbird_234096111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803546/bird-gallery/chinese_grassbird/macaulay/chinese_grassbird_234096111.jpg",
+      "public_id": "bird-gallery/chinese_grassbird/macaulay/chinese_grassbird_234096111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 133600,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/234096111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "234096111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_grassbird_320244591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803548/bird-gallery/chinese_grassbird/macaulay/chinese_grassbird_320244591.jpg",
+      "public_id": "bird-gallery/chinese_grassbird/macaulay/chinese_grassbird_320244591",
+      "width": 1200,
+      "height": 841,
+      "format": "jpg",
+      "bytes": 64645,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/320244591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "320244591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_grassbird_615728979.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803549/bird-gallery/chinese_grassbird/macaulay/chinese_grassbird_615728979.jpg",
+      "public_id": "bird-gallery/chinese_grassbird/macaulay/chinese_grassbird_615728979",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 77683,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/615728979",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "615728979",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chinese_grassbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803550/bird-gallery/chinese_grassbird/inaturalist/chinese_grassbird_1.jpg",
+      "public_id": "bird-gallery/chinese_grassbird/inaturalist/chinese_grassbird_1",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 106848,
+      "attribution": {
+        "photographer": "yuyutu",
+        "photographer_url": "https://www.inaturalist.org/observations/364696881",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© yuyutu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 364696881,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_grassbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803552/bird-gallery/chinese_grassbird/inaturalist/chinese_grassbird_2.jpg",
+      "public_id": "bird-gallery/chinese_grassbird/inaturalist/chinese_grassbird_2",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 65538,
+      "attribution": {
+        "photographer": "wildcreatures",
+        "photographer_url": "https://www.inaturalist.org/observations/281425784",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© wildcreatures (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 281425784,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinese_grassbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803552/bird-gallery/chinese_grassbird/inaturalist/chinese_grassbird_3.jpg",
+      "public_id": "bird-gallery/chinese_grassbird/inaturalist/chinese_grassbird_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 42133,
+      "attribution": {
+        "photographer": "erikatwell",
+        "photographer_url": "https://www.inaturalist.org/observations/377618438",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© erikatwell (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 377618438,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "chinese_grassbird_618807318.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804564/bird-gallery/chinese_grassbird/sounds/chinese_grassbird_618807318.mp3",
+      "public_id": "bird-gallery/chinese_grassbird/sounds/chinese_grassbird_618807318",
+      "duration": 17.16,
+      "format": "mp3",
+      "bytes": 240572,
+      "bit_rate": 112154,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "618807318",
+        "asset_url": "https://macaulaylibrary.org/asset/618807318",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

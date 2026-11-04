@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "asian_rosy_finch",
+    "chinese_name": "粉红腹岭雀",
+    "english_name": "Asian Rosy Finch",
+    "scientific_name": "Leucosticte arctoa"
+  },
+  "macaulay": [
+    {
+      "original_file": "asian_rosy_finch_219931451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803513/bird-gallery/asian_rosy_finch/macaulay/asian_rosy_finch_219931451.jpg",
+      "public_id": "bird-gallery/asian_rosy_finch/macaulay/asian_rosy_finch_219931451",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 106607,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/219931451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "219931451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "asian_rosy_finch_246396301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803515/bird-gallery/asian_rosy_finch/macaulay/asian_rosy_finch_246396301.jpg",
+      "public_id": "bird-gallery/asian_rosy_finch/macaulay/asian_rosy_finch_246396301",
+      "width": 1200,
+      "height": 808,
+      "format": "jpg",
+      "bytes": 101610,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/246396301",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "246396301",
+        "note": null
+      }
+    },
+    {
+      "original_file": "asian_rosy_finch_645956307.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803516/bird-gallery/asian_rosy_finch/macaulay/asian_rosy_finch_645956307.jpg",
+      "public_id": "bird-gallery/asian_rosy_finch/macaulay/asian_rosy_finch_645956307",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82094,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645956307",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645956307",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "asian_rosy_finch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803518/bird-gallery/asian_rosy_finch/inaturalist/asian_rosy_finch_1.jpg",
+      "public_id": "bird-gallery/asian_rosy_finch/inaturalist/asian_rosy_finch_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 104904,
+      "attribution": {
+        "photographer": "fromfran",
+        "photographer_url": "https://www.inaturalist.org/observations/337532375",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© fromfran (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 337532375,
+        "note": null
+      }
+    },
+    {
+      "original_file": "asian_rosy_finch_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803519/bird-gallery/asian_rosy_finch/inaturalist/asian_rosy_finch_2.jpg",
+      "public_id": "bird-gallery/asian_rosy_finch/inaturalist/asian_rosy_finch_2",
+      "width": 1024,
+      "height": 730,
+      "format": "jpg",
+      "bytes": 63546,
+      "attribution": {
+        "photographer": "cedarleaf",
+        "photographer_url": "https://www.inaturalist.org/observations/333246659",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cedarleaf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 333246659,
+        "note": null
+      }
+    },
+    {
+      "original_file": "asian_rosy_finch_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803520/bird-gallery/asian_rosy_finch/inaturalist/asian_rosy_finch_3.jpg",
+      "public_id": "bird-gallery/asian_rosy_finch/inaturalist/asian_rosy_finch_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 68857,
+      "attribution": {
+        "photographer": "olga_mikhaleva",
+        "photographer_url": "https://www.inaturalist.org/observations/70199018",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© olga_mikhaleva (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 70199018,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "asian_rosy_finch_659792122.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804205/bird-gallery/asian_rosy_finch/sounds/asian_rosy_finch_659792122.mp3",
+      "public_id": "bird-gallery/asian_rosy_finch/sounds/asian_rosy_finch_659792122",
+      "duration": 728.856,
+      "format": "mp3",
+      "bytes": 16726604,
+      "bit_rate": 183592,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "659792122",
+        "asset_url": "https://macaulaylibrary.org/asset/659792122",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

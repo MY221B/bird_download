@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "blood_pheasant",
+    "chinese_name": "血雉",
+    "english_name": "Blood Pheasant",
+    "scientific_name": "Ithaginis cruentus"
+  },
+  "macaulay": [
+    {
+      "original_file": "blood_pheasant_181655121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803566/bird-gallery/blood_pheasant/macaulay/blood_pheasant_181655121.jpg",
+      "public_id": "bird-gallery/blood_pheasant/macaulay/blood_pheasant_181655121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 139410,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/181655121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "181655121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blood_pheasant_181655181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803568/bird-gallery/blood_pheasant/macaulay/blood_pheasant_181655181.jpg",
+      "public_id": "bird-gallery/blood_pheasant/macaulay/blood_pheasant_181655181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90287,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/181655181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "181655181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blood_pheasant_181655301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803569/bird-gallery/blood_pheasant/macaulay/blood_pheasant_181655301.jpg",
+      "public_id": "bird-gallery/blood_pheasant/macaulay/blood_pheasant_181655301",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 126558,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/181655301",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "181655301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blood_pheasant_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803571/bird-gallery/blood_pheasant/inaturalist/blood_pheasant_1.jpg",
+      "public_id": "bird-gallery/blood_pheasant/inaturalist/blood_pheasant_1",
+      "width": 927,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 122248,
+      "attribution": {
+        "photographer": "brhacker",
+        "photographer_url": "https://www.inaturalist.org/observations/237651371",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© brhacker (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 237651371,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blood_pheasant_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803573/bird-gallery/blood_pheasant/inaturalist/blood_pheasant_2.jpg",
+      "public_id": "bird-gallery/blood_pheasant/inaturalist/blood_pheasant_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 174823,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/298763404",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 298763404,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blood_pheasant_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803575/bird-gallery/blood_pheasant/inaturalist/blood_pheasant_3.jpg",
+      "public_id": "bird-gallery/blood_pheasant/inaturalist/blood_pheasant_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 125130,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/315871476",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 315871476,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "blood_pheasant_30554841.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804607/bird-gallery/blood_pheasant/sounds/blood_pheasant_30554841.mp3",
+      "public_id": "bird-gallery/blood_pheasant/sounds/blood_pheasant_30554841",
+      "duration": 7.008,
+      "format": "mp3",
+      "bytes": 107468,
+      "bit_rate": 122680,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "30554841",
+        "asset_url": "https://macaulaylibrary.org/asset/30554841",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

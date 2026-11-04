@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "yellow_bunting",
+    "chinese_name": "硫黄鹀",
+    "english_name": "Yellow Bunting",
+    "scientific_name": "Emberiza sulphurata"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_bunting_186095541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803560/bird-gallery/yellow_bunting/macaulay/yellow_bunting_186095541.jpg",
+      "public_id": "bird-gallery/yellow_bunting/macaulay/yellow_bunting_186095541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73139,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/186095541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "186095541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bunting_205706011.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803561/bird-gallery/yellow_bunting/macaulay/yellow_bunting_205706011.jpg",
+      "public_id": "bird-gallery/yellow_bunting/macaulay/yellow_bunting_205706011",
+      "width": 950,
+      "height": 677,
+      "format": "jpg",
+      "bytes": 104333,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205706011",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205706011",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bunting_319504851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803562/bird-gallery/yellow_bunting/macaulay/yellow_bunting_319504851.jpg",
+      "public_id": "bird-gallery/yellow_bunting/macaulay/yellow_bunting_319504851",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 120946,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/319504851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "319504851",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_bunting_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803564/bird-gallery/yellow_bunting/inaturalist/yellow_bunting_1.jpg",
+      "public_id": "bird-gallery/yellow_bunting/inaturalist/yellow_bunting_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 88389,
+      "attribution": {
+        "photographer": "nhm_ex",
+        "photographer_url": "https://www.inaturalist.org/observations/304477350",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nhm_ex (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 304477350,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bunting_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803564/bird-gallery/yellow_bunting/inaturalist/yellow_bunting_2.jpg",
+      "public_id": "bird-gallery/yellow_bunting/inaturalist/yellow_bunting_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 82836,
+      "attribution": {
+        "photographer": "sunnyhk",
+        "photographer_url": "https://www.inaturalist.org/observations/101671214",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© sunnyhk (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 101671214,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bunting_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803565/bird-gallery/yellow_bunting/inaturalist/yellow_bunting_3.jpg",
+      "public_id": "bird-gallery/yellow_bunting/inaturalist/yellow_bunting_3",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 57929,
+      "attribution": {
+        "photographer": "cho_hs",
+        "photographer_url": "https://www.inaturalist.org/observations/59420899",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cho_hs (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 59420899,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "yellow_bunting_460119331.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804333/bird-gallery/yellow_bunting/sounds/yellow_bunting_460119331.mp3",
+      "public_id": "bird-gallery/yellow_bunting/sounds/yellow_bunting_460119331",
+      "duration": 76.824,
+      "format": "mp3",
+      "bytes": 1092716,
+      "bit_rate": 113789,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "460119331",
+        "asset_url": "https://macaulaylibrary.org/asset/460119331",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "plain_mountain_finch",
+    "chinese_name": "林岭雀",
+    "english_name": "Plain Mountain Finch",
+    "scientific_name": "Leucosticte nemoricola"
+  },
+  "macaulay": [
+    {
+      "original_file": "plain_mountain_finch_234520561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803582/bird-gallery/plain_mountain_finch/macaulay/plain_mountain_finch_234520561.jpg",
+      "public_id": "bird-gallery/plain_mountain_finch/macaulay/plain_mountain_finch_234520561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 101327,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/234520561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "234520561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_mountain_finch_52728151.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803583/bird-gallery/plain_mountain_finch/macaulay/plain_mountain_finch_52728151.jpg",
+      "public_id": "bird-gallery/plain_mountain_finch/macaulay/plain_mountain_finch_52728151",
+      "width": 1200,
+      "height": 756,
+      "format": "jpg",
+      "bytes": 148939,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/52728151",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "52728151",
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_mountain_finch_639100627.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803585/bird-gallery/plain_mountain_finch/macaulay/plain_mountain_finch_639100627.jpg",
+      "public_id": "bird-gallery/plain_mountain_finch/macaulay/plain_mountain_finch_639100627",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 62921,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/639100627",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "639100627",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "plain_mountain_finch_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803586/bird-gallery/plain_mountain_finch/inaturalist/plain_mountain_finch_1.jpg",
+      "public_id": "bird-gallery/plain_mountain_finch/inaturalist/plain_mountain_finch_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 95435,
+      "attribution": {
+        "photographer": "negi",
+        "photographer_url": "https://www.inaturalist.org/observations/141777539",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© negi (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 141777539,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_mountain_finch_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803587/bird-gallery/plain_mountain_finch/inaturalist/plain_mountain_finch_2.jpg",
+      "public_id": "bird-gallery/plain_mountain_finch/inaturalist/plain_mountain_finch_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 130326,
+      "attribution": {
+        "photographer": "dmitrydubikovskiy",
+        "photographer_url": "https://www.inaturalist.org/observations/259642012",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dmitrydubikovskiy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 259642012,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_mountain_finch_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803588/bird-gallery/plain_mountain_finch/inaturalist/plain_mountain_finch_3.jpg",
+      "public_id": "bird-gallery/plain_mountain_finch/inaturalist/plain_mountain_finch_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 68599,
+      "attribution": {
+        "photographer": "wolf4",
+        "photographer_url": "https://www.inaturalist.org/observations/343998240",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wolf4 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 343998240,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "plain_mountain_finch_645257210.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804569/bird-gallery/plain_mountain_finch/sounds/plain_mountain_finch_645257210.mp3",
+      "public_id": "bird-gallery/plain_mountain_finch/sounds/plain_mountain_finch_645257210",
+      "duration": 40.488,
+      "format": "mp3",
+      "bytes": 920780,
+      "bit_rate": 181936,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "645257210",
+        "asset_url": "https://macaulaylibrary.org/asset/645257210",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

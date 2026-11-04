@@ -67,5 +67,27 @@
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "dusky_crag_martin_301107701.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804634/bird-gallery/dusky_crag_martin/sounds/dusky_crag_martin_301107701.mp3",
+      "public_id": "bird-gallery/dusky_crag_martin/sounds/dusky_crag_martin_301107701",
+      "duration": 80.208,
+      "format": "mp3",
+      "bytes": 1502204,
+      "bit_rate": 149830,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "301107701",
+        "asset_url": "https://macaulaylibrary.org/asset/301107701",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

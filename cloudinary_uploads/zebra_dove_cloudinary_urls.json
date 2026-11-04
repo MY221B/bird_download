@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "zebra_dove",
+    "chinese_name": "斑姬地鸠",
+    "english_name": "Zebra Dove",
+    "scientific_name": "Geopelia striata"
+  },
+  "macaulay": [
+    {
+      "original_file": "zebra_dove_464874081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803539/bird-gallery/zebra_dove/macaulay/zebra_dove_464874081.jpg",
+      "public_id": "bird-gallery/zebra_dove/macaulay/zebra_dove_464874081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90815,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/464874081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "464874081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "zebra_dove_615657730.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803541/bird-gallery/zebra_dove/macaulay/zebra_dove_615657730.jpg",
+      "public_id": "bird-gallery/zebra_dove/macaulay/zebra_dove_615657730",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87873,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/615657730",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "615657730",
+        "note": null
+      }
+    },
+    {
+      "original_file": "zebra_dove_93155401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803542/bird-gallery/zebra_dove/macaulay/zebra_dove_93155401.jpg",
+      "public_id": "bird-gallery/zebra_dove/macaulay/zebra_dove_93155401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70963,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/93155401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "93155401",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "zebra_dove_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803543/bird-gallery/zebra_dove/inaturalist/zebra_dove_1.jpg",
+      "public_id": "bird-gallery/zebra_dove/inaturalist/zebra_dove_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 144917,
+      "attribution": {
+        "photographer": "tiwane",
+        "photographer_url": "https://www.inaturalist.org/observations/2434862",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tiwane (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 2434862,
+        "note": null
+      }
+    },
+    {
+      "original_file": "zebra_dove_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803544/bird-gallery/zebra_dove/inaturalist/zebra_dove_2.jpg",
+      "public_id": "bird-gallery/zebra_dove/inaturalist/zebra_dove_2",
+      "width": 1024,
+      "height": 1003,
+      "format": "jpg",
+      "bytes": 71839,
+      "attribution": {
+        "photographer": "sea-kangaroo",
+        "photographer_url": "https://www.inaturalist.org/observations/40863690",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© sea-kangaroo (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 40863690,
+        "note": null
+      }
+    },
+    {
+      "original_file": "zebra_dove_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803545/bird-gallery/zebra_dove/inaturalist/zebra_dove_3.jpg",
+      "public_id": "bird-gallery/zebra_dove/inaturalist/zebra_dove_3",
+      "width": 1024,
+      "height": 636,
+      "format": "jpg",
+      "bytes": 90926,
+      "attribution": {
+        "photographer": "gwh",
+        "photographer_url": "https://www.inaturalist.org/observations/28427583",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gwh (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 28427583,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "zebra_dove_210705001.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804655/bird-gallery/zebra_dove/sounds/zebra_dove_210705001.mp3",
+      "public_id": "bird-gallery/zebra_dove/sounds/zebra_dove_210705001",
+      "duration": 17.448,
+      "format": "mp3",
+      "bytes": 222428,
+      "bit_rate": 101984,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "210705001",
+        "asset_url": "https://macaulaylibrary.org/asset/210705001",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

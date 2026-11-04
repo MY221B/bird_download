@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "clicking_shrike_babbler",
+    "chinese_name": "栗额鵙鹛",
+    "english_name": "Clicking Shrike-babbler",
+    "scientific_name": "Pteruthius intermedius"
+  },
+  "macaulay": [
+    {
+      "original_file": "clicking_shrike_babbler_336397881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777096692/bird-gallery/clicking_shrike_babbler/macaulay/clicking_shrike_babbler_336397881.jpg",
+      "public_id": "bird-gallery/clicking_shrike_babbler/macaulay/clicking_shrike_babbler_336397881",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78242,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/336397881",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "336397881",
+        "note": null
+      }
+    },
+    {
+      "original_file": "clicking_shrike_babbler_423256111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777096693/bird-gallery/clicking_shrike_babbler/macaulay/clicking_shrike_babbler_423256111.jpg",
+      "public_id": "bird-gallery/clicking_shrike_babbler/macaulay/clicking_shrike_babbler_423256111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103597,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/423256111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "423256111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "clicking_shrike_babbler_575768131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1777096695/bird-gallery/clicking_shrike_babbler/macaulay/clicking_shrike_babbler_575768131.jpg",
+      "public_id": "bird-gallery/clicking_shrike_babbler/macaulay/clicking_shrike_babbler_575768131",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98135,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/575768131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "575768131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "clicking_shrike_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803593/bird-gallery/clicking_shrike_babbler/inaturalist/clicking_shrike_babbler_1.jpg",
+      "public_id": "bird-gallery/clicking_shrike_babbler/inaturalist/clicking_shrike_babbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89199,
+      "attribution": {
+        "photographer": "qin_huang",
+        "photographer_url": "https://www.inaturalist.org/observations/76997345",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© qin_huang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 76997345,
+        "note": null
+      }
+    },
+    {
+      "original_file": "clicking_shrike_babbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803594/bird-gallery/clicking_shrike_babbler/inaturalist/clicking_shrike_babbler_2.jpg",
+      "public_id": "bird-gallery/clicking_shrike_babbler/inaturalist/clicking_shrike_babbler_2",
+      "width": 1024,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 106292,
+      "attribution": {
+        "photographer": "tiluchi",
+        "photographer_url": "https://www.inaturalist.org/observations/218029894",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tiluchi (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 218029894,
+        "note": null
+      }
+    },
+    {
+      "original_file": "clicking_shrike_babbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803595/bird-gallery/clicking_shrike_babbler/inaturalist/clicking_shrike_babbler_3.jpg",
+      "public_id": "bird-gallery/clicking_shrike_babbler/inaturalist/clicking_shrike_babbler_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 135673,
+      "attribution": {
+        "photographer": "tamphan",
+        "photographer_url": "https://www.inaturalist.org/observations/351009800",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tamphan (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 351009800,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "clicking_shrike_babbler_135852841.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1777096721/bird-gallery/clicking_shrike_babbler/sounds/clicking_shrike_babbler_135852841.mp3",
+      "public_id": "bird-gallery/clicking_shrike_babbler/sounds/clicking_shrike_babbler_135852841",
+      "duration": 45.672,
+      "format": "mp3",
+      "bytes": 653036,
+      "bit_rate": 114387,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "135852841",
+        "asset_url": "https://macaulaylibrary.org/asset/135852841",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

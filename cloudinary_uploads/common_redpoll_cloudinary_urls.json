@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "common_redpoll",
+    "chinese_name": "白腰朱顶雀",
+    "english_name": "Common Redpoll",
+    "scientific_name": "Acanthis flammea"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_redpoll_290095551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803507/bird-gallery/common_redpoll/macaulay/common_redpoll_290095551.jpg",
+      "public_id": "bird-gallery/common_redpoll/macaulay/common_redpoll_290095551",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86727,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/290095551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "290095551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_redpoll_411938421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803509/bird-gallery/common_redpoll/macaulay/common_redpoll_411938421.jpg",
+      "public_id": "bird-gallery/common_redpoll/macaulay/common_redpoll_411938421",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60578,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/411938421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "411938421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_redpoll_42508861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803510/bird-gallery/common_redpoll/macaulay/common_redpoll_42508861.jpg",
+      "public_id": "bird-gallery/common_redpoll/macaulay/common_redpoll_42508861",
+      "width": 1200,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 74407,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/42508861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "42508861",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_redpoll_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803511/bird-gallery/common_redpoll/inaturalist/common_redpoll_1.jpg",
+      "public_id": "bird-gallery/common_redpoll/inaturalist/common_redpoll_1",
+      "width": 1024,
+      "height": 834,
+      "format": "jpg",
+      "bytes": 69076,
+      "attribution": {
+        "photographer": "cynthiacrawford",
+        "photographer_url": "https://www.inaturalist.org/observations/20350527",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cynthiacrawford (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 20350527,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_redpoll_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803512/bird-gallery/common_redpoll/inaturalist/common_redpoll_2.jpg",
+      "public_id": "bird-gallery/common_redpoll/inaturalist/common_redpoll_2",
+      "width": 1000,
+      "height": 780,
+      "format": "jpg",
+      "bytes": 22423,
+      "attribution": {
+        "photographer": "ludmila_m",
+        "photographer_url": "https://www.inaturalist.org/observations/70336618",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ludmila_m (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 70336618,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_redpoll_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803512/bird-gallery/common_redpoll/inaturalist/common_redpoll_3.jpg",
+      "public_id": "bird-gallery/common_redpoll/inaturalist/common_redpoll_3",
+      "width": 1024,
+      "height": 695,
+      "format": "jpg",
+      "bytes": 37279,
+      "attribution": {
+        "photographer": "vtmonarch",
+        "photographer_url": "https://www.inaturalist.org/observations/107013603",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vtmonarch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 107013603,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "common_redpoll_203905621.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804330/bird-gallery/common_redpoll/sounds/common_redpoll_203905621.mp3",
+      "public_id": "bird-gallery/common_redpoll/sounds/common_redpoll_203905621",
+      "duration": 24.552,
+      "format": "mp3",
+      "bytes": 561164,
+      "bit_rate": 182849,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "203905621",
+        "asset_url": "https://macaulaylibrary.org/asset/203905621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

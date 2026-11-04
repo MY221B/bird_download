@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "tibetan_serin",
+    "chinese_name": "藏黄雀",
+    "english_name": "Tibetan Serin",
+    "scientific_name": "Spinus thibetanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "tibetan_serin_130169931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803596/bird-gallery/tibetan_serin/macaulay/tibetan_serin_130169931.jpg",
+      "public_id": "bird-gallery/tibetan_serin/macaulay/tibetan_serin_130169931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60686,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/130169931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "130169931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tibetan_serin_560324961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803598/bird-gallery/tibetan_serin/macaulay/tibetan_serin_560324961.jpg",
+      "public_id": "bird-gallery/tibetan_serin/macaulay/tibetan_serin_560324961",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 59164,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/560324961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "560324961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tibetan_serin_615811183.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803599/bird-gallery/tibetan_serin/macaulay/tibetan_serin_615811183.jpg",
+      "public_id": "bird-gallery/tibetan_serin/macaulay/tibetan_serin_615811183",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 68923,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/615811183",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "615811183",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "tibetan_serin_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803600/bird-gallery/tibetan_serin/inaturalist/tibetan_serin_1.jpg",
+      "public_id": "bird-gallery/tibetan_serin/inaturalist/tibetan_serin_1",
+      "width": 787,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 52380,
+      "attribution": {
+        "photographer": "alexander_naumov",
+        "photographer_url": "https://www.inaturalist.org/observations/355638432",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexander_naumov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 355638432,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tibetan_serin_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803601/bird-gallery/tibetan_serin/inaturalist/tibetan_serin_2.jpg",
+      "public_id": "bird-gallery/tibetan_serin/inaturalist/tibetan_serin_2",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 40101,
+      "attribution": {
+        "photographer": "thetzawnaing",
+        "photographer_url": "https://www.inaturalist.org/observations/156420115",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thetzawnaing (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 156420115,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tibetan_serin_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803602/bird-gallery/tibetan_serin/inaturalist/tibetan_serin_3.jpg",
+      "public_id": "bird-gallery/tibetan_serin/inaturalist/tibetan_serin_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55752,
+      "attribution": {
+        "photographer": "nixey",
+        "photographer_url": "https://www.inaturalist.org/observations/246885577",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nixey (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 246885577,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "tibetan_serin_223892181.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804658/bird-gallery/tibetan_serin/sounds/tibetan_serin_223892181.mp3",
+      "public_id": "bird-gallery/tibetan_serin/sounds/tibetan_serin_223892181",
+      "duration": 49.44,
+      "format": "mp3",
+      "bytes": 682412,
+      "bit_rate": 110422,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "223892181",
+        "asset_url": "https://macaulaylibrary.org/asset/223892181",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

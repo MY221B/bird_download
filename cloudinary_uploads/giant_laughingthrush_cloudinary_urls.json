@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "giant_laughingthrush",
+    "chinese_name": "大噪鹛",
+    "english_name": "Giant Laughingthrush",
+    "scientific_name": "Ianthocincla maxima"
+  },
+  "macaulay": [
+    {
+      "original_file": "giant_laughingthrush_167338391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803526/bird-gallery/giant_laughingthrush/macaulay/giant_laughingthrush_167338391.jpg",
+      "public_id": "bird-gallery/giant_laughingthrush/macaulay/giant_laughingthrush_167338391",
+      "width": 1200,
+      "height": 754,
+      "format": "jpg",
+      "bytes": 38056,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/167338391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "167338391",
+        "note": null
+      }
+    },
+    {
+      "original_file": "giant_laughingthrush_348581521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803527/bird-gallery/giant_laughingthrush/macaulay/giant_laughingthrush_348581521.jpg",
+      "public_id": "bird-gallery/giant_laughingthrush/macaulay/giant_laughingthrush_348581521",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99882,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/348581521",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "348581521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "giant_laughingthrush_55706461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803528/bird-gallery/giant_laughingthrush/macaulay/giant_laughingthrush_55706461.jpg",
+      "public_id": "bird-gallery/giant_laughingthrush/macaulay/giant_laughingthrush_55706461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86014,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/55706461",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "55706461",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "giant_laughingthrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803530/bird-gallery/giant_laughingthrush/inaturalist/giant_laughingthrush_1.jpg",
+      "public_id": "bird-gallery/giant_laughingthrush/inaturalist/giant_laughingthrush_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 152809,
+      "attribution": {
+        "photographer": "kelvinche",
+        "photographer_url": "https://www.inaturalist.org/observations/179156432",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kelvinche (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 179156432,
+        "note": null
+      }
+    },
+    {
+      "original_file": "giant_laughingthrush_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803530/bird-gallery/giant_laughingthrush/inaturalist/giant_laughingthrush_2.jpg",
+      "public_id": "bird-gallery/giant_laughingthrush/inaturalist/giant_laughingthrush_2",
+      "width": 1024,
+      "height": 658,
+      "format": "jpg",
+      "bytes": 93824,
+      "attribution": {
+        "photographer": "terrytownshend",
+        "photographer_url": "https://www.inaturalist.org/observations/237872064",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© terrytownshend (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 237872064,
+        "note": null
+      }
+    },
+    {
+      "original_file": "giant_laughingthrush_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803531/bird-gallery/giant_laughingthrush/inaturalist/giant_laughingthrush_3.jpg",
+      "public_id": "bird-gallery/giant_laughingthrush/inaturalist/giant_laughingthrush_3",
+      "width": 770,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 82210,
+      "attribution": {
+        "photographer": "zmp",
+        "photographer_url": "https://www.inaturalist.org/observations/236030632",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© zmp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 236030632,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "giant_laughingthrush_204009221.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804613/bird-gallery/giant_laughingthrush/sounds/giant_laughingthrush_204009221.mp3",
+      "public_id": "bird-gallery/giant_laughingthrush/sounds/giant_laughingthrush_204009221",
+      "duration": 13.968,
+      "format": "mp3",
+      "bytes": 352772,
+      "bit_rate": 202045,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "204009221",
+        "asset_url": "https://macaulaylibrary.org/asset/204009221",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

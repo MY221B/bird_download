@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "slender_billed_gull",
+    "chinese_name": "细嘴鸥",
+    "english_name": "Slender-billed Gull",
+    "scientific_name": "Chroicocephalus genei"
+  },
+  "macaulay": [
+    {
+      "original_file": "slender_billed_gull_119667321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803520/bird-gallery/slender_billed_gull/macaulay/slender_billed_gull_119667321.jpg",
+      "public_id": "bird-gallery/slender_billed_gull/macaulay/slender_billed_gull_119667321",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51153,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/119667321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "119667321",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_gull_655021880.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803521/bird-gallery/slender_billed_gull/macaulay/slender_billed_gull_655021880.jpg",
+      "public_id": "bird-gallery/slender_billed_gull/macaulay/slender_billed_gull_655021880",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56320,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/655021880",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "655021880",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_gull_88090611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803522/bird-gallery/slender_billed_gull/macaulay/slender_billed_gull_88090611.jpg",
+      "public_id": "bird-gallery/slender_billed_gull/macaulay/slender_billed_gull_88090611",
+      "width": 1200,
+      "height": 710,
+      "format": "jpg",
+      "bytes": 56386,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/88090611",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "88090611",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slender_billed_gull_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803523/bird-gallery/slender_billed_gull/inaturalist/slender_billed_gull_1.jpg",
+      "public_id": "bird-gallery/slender_billed_gull/inaturalist/slender_billed_gull_1",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 45306,
+      "attribution": {
+        "photographer": "sopr21",
+        "photographer_url": "https://www.inaturalist.org/observations/362464877",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sopr21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 362464877,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_gull_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803524/bird-gallery/slender_billed_gull/inaturalist/slender_billed_gull_2.jpg",
+      "public_id": "bird-gallery/slender_billed_gull/inaturalist/slender_billed_gull_2",
+      "width": 616,
+      "height": 428,
+      "format": "jpg",
+      "bytes": 34489,
+      "attribution": {
+        "photographer": "houman_doroudi",
+        "photographer_url": "https://www.inaturalist.org/observations/175490011",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© houman_doroudi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 175490011,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_gull_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803525/bird-gallery/slender_billed_gull/inaturalist/slender_billed_gull_3.jpg",
+      "public_id": "bird-gallery/slender_billed_gull/inaturalist/slender_billed_gull_3",
+      "width": 1024,
+      "height": 716,
+      "format": "jpg",
+      "bytes": 39346,
+      "attribution": {
+        "photographer": "irine_salomatina",
+        "photographer_url": "https://www.inaturalist.org/observations/362742712",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© irine_salomatina (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 362742712,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "slender_billed_gull_258883441.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793804684/bird-gallery/slender_billed_gull/sounds/slender_billed_gull_258883441.mp3",
+      "public_id": "bird-gallery/slender_billed_gull/sounds/slender_billed_gull_258883441",
+      "duration": 89.496,
+      "format": "mp3",
+      "bytes": 1217036,
+      "bit_rate": 108790,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "258883441",
+        "asset_url": "https://macaulaylibrary.org/asset/258883441",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

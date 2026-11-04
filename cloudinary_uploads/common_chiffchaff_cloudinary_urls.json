@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "common_chiffchaff",
+    "chinese_name": "叽喳柳莺",
+    "english_name": "Common Chiffchaff",
+    "scientific_name": "Phylloscopus collybita"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_chiffchaff_397212081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803576/bird-gallery/common_chiffchaff/macaulay/common_chiffchaff_397212081.jpg",
+      "public_id": "bird-gallery/common_chiffchaff/macaulay/common_chiffchaff_397212081",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 63962,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/397212081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "397212081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_chiffchaff_645791392.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803577/bird-gallery/common_chiffchaff/macaulay/common_chiffchaff_645791392.jpg",
+      "public_id": "bird-gallery/common_chiffchaff/macaulay/common_chiffchaff_645791392",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68560,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645791392",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645791392",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_chiffchaff_655466785.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803579/bird-gallery/common_chiffchaff/macaulay/common_chiffchaff_655466785.jpg",
+      "public_id": "bird-gallery/common_chiffchaff/macaulay/common_chiffchaff_655466785",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51590,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/655466785",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "655466785",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_chiffchaff_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803580/bird-gallery/common_chiffchaff/inaturalist/common_chiffchaff_1.jpg",
+      "public_id": "bird-gallery/common_chiffchaff/inaturalist/common_chiffchaff_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 54565,
+      "attribution": {
+        "photographer": "holly_hawk",
+        "photographer_url": "https://www.inaturalist.org/observations/393535509",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© holly_hawk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 393535509,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_chiffchaff_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803581/bird-gallery/common_chiffchaff/inaturalist/common_chiffchaff_2.jpg",
+      "public_id": "bird-gallery/common_chiffchaff/inaturalist/common_chiffchaff_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76103,
+      "attribution": {
+        "photographer": "naturpel",
+        "photographer_url": "https://www.inaturalist.org/observations/58641006",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© naturpel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 58641006,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_chiffchaff_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793803581/bird-gallery/common_chiffchaff/inaturalist/common_chiffchaff_3.jpg",
+      "public_id": "bird-gallery/common_chiffchaff/inaturalist/common_chiffchaff_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89965,
+      "attribution": {
+        "photographer": "tomasbroucek",
+        "photographer_url": "https://www.inaturalist.org/observations/353438691",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tomasbroucek (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 353438691,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "common_chiffchaff_470596621.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1793803909/bird-gallery/common_chiffchaff/sounds/common_chiffchaff_470596621.mp3",
+      "public_id": "bird-gallery/common_chiffchaff/sounds/common_chiffchaff_470596621",
+      "duration": 114.024,
+      "format": "mp3",
+      "bytes": 1604396,
+      "bit_rate": 112565,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "470596621",
+        "asset_url": "https://macaulaylibrary.org/asset/470596621",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

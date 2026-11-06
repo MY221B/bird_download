@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "cabaniss_greenbul_cabgre1",
+    "chinese_name": "卡氏旋木鹎",
+    "english_name": "Cabanis's Greenbul",
+    "scientific_name": "Phyllastrephus cabanisi"
+  },
+  "macaulay": [
+    {
+      "original_file": "cabaniss_greenbul_cabgre1_205099791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940789/bird-gallery/cabaniss_greenbul_cabgre1/macaulay/cabaniss_greenbul_cabgre1_205099791.jpg",
+      "public_id": "bird-gallery/cabaniss_greenbul_cabgre1/macaulay/cabaniss_greenbul_cabgre1_205099791",
+      "width": 533,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 50467,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205099791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205099791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cabaniss_greenbul_cabgre1_212657421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940791/bird-gallery/cabaniss_greenbul_cabgre1/macaulay/cabaniss_greenbul_cabgre1_212657421.jpg",
+      "public_id": "bird-gallery/cabaniss_greenbul_cabgre1/macaulay/cabaniss_greenbul_cabgre1_212657421",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 120533,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/212657421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "212657421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cabaniss_greenbul_cabgre1_47864151.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940792/bird-gallery/cabaniss_greenbul_cabgre1/macaulay/cabaniss_greenbul_cabgre1_47864151.jpg",
+      "public_id": "bird-gallery/cabaniss_greenbul_cabgre1/macaulay/cabaniss_greenbul_cabgre1_47864151",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 111085,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47864151",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47864151",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "cabaniss_greenbul_cabgre1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940793/bird-gallery/cabaniss_greenbul_cabgre1/inaturalist/cabaniss_greenbul_cabgre1_1.jpg",
+      "public_id": "bird-gallery/cabaniss_greenbul_cabgre1/inaturalist/cabaniss_greenbul_cabgre1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 110678,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/147374515",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147374515,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cabaniss_greenbul_cabgre1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940794/bird-gallery/cabaniss_greenbul_cabgre1/inaturalist/cabaniss_greenbul_cabgre1_2.jpg",
+      "public_id": "bird-gallery/cabaniss_greenbul_cabgre1/inaturalist/cabaniss_greenbul_cabgre1_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 58723,
+      "attribution": {
+        "photographer": "remi_bigonneau",
+        "photographer_url": "https://www.inaturalist.org/observations/381666076",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© remi_bigonneau (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 381666076,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cabaniss_greenbul_cabgre1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940795/bird-gallery/cabaniss_greenbul_cabgre1/inaturalist/cabaniss_greenbul_cabgre1_3.jpg",
+      "public_id": "bird-gallery/cabaniss_greenbul_cabgre1/inaturalist/cabaniss_greenbul_cabgre1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89111,
+      "attribution": {
+        "photographer": "shukov",
+        "photographer_url": "https://www.inaturalist.org/observations/352677652",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 352677652,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

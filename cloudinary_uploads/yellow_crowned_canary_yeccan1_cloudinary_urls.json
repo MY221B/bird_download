@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_crowned_canary_yeccan1",
+    "chinese_name": "黄顶丝雀",
+    "english_name": "Yellow-crowned Canary",
+    "scientific_name": "Serinus flavivertex"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_crowned_canary_yeccan1_204299451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940943/bird-gallery/yellow_crowned_canary_yeccan1/macaulay/yellow_crowned_canary_yeccan1_204299451.jpg",
+      "public_id": "bird-gallery/yellow_crowned_canary_yeccan1/macaulay/yellow_crowned_canary_yeccan1_204299451",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74413,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204299451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204299451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_crowned_canary_yeccan1_212641211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940944/bird-gallery/yellow_crowned_canary_yeccan1/macaulay/yellow_crowned_canary_yeccan1_212641211.jpg",
+      "public_id": "bird-gallery/yellow_crowned_canary_yeccan1/macaulay/yellow_crowned_canary_yeccan1_212641211",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 71735,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/212641211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "212641211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_crowned_canary_yeccan1_621502045.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940945/bird-gallery/yellow_crowned_canary_yeccan1/macaulay/yellow_crowned_canary_yeccan1_621502045.jpg",
+      "public_id": "bird-gallery/yellow_crowned_canary_yeccan1/macaulay/yellow_crowned_canary_yeccan1_621502045",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69631,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621502045",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621502045",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_crowned_canary_yeccan1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940946/bird-gallery/yellow_crowned_canary_yeccan1/inaturalist/yellow_crowned_canary_yeccan1_1.jpg",
+      "public_id": "bird-gallery/yellow_crowned_canary_yeccan1/inaturalist/yellow_crowned_canary_yeccan1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 110804,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/132055555",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 132055555,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_crowned_canary_yeccan1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940947/bird-gallery/yellow_crowned_canary_yeccan1/inaturalist/yellow_crowned_canary_yeccan1_2.jpg",
+      "public_id": "bird-gallery/yellow_crowned_canary_yeccan1/inaturalist/yellow_crowned_canary_yeccan1_2",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 74512,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/46881056",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 46881056,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_crowned_canary_yeccan1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940947/bird-gallery/yellow_crowned_canary_yeccan1/inaturalist/yellow_crowned_canary_yeccan1_3.jpg",
+      "public_id": "bird-gallery/yellow_crowned_canary_yeccan1/inaturalist/yellow_crowned_canary_yeccan1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 62597,
+      "attribution": {
+        "photographer": "robinjames",
+        "photographer_url": "https://www.inaturalist.org/observations/142676657",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© robinjames (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 142676657,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

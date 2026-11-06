@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "chestnut_weaver_chewea1",
+    "chinese_name": "栗织雀",
+    "english_name": "Chestnut Weaver",
+    "scientific_name": "Ploceus rubiginosus"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_weaver_chewea1_204942111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939578/bird-gallery/chestnut_weaver_chewea1/macaulay/chestnut_weaver_chewea1_204942111.jpg",
+      "public_id": "bird-gallery/chestnut_weaver_chewea1/macaulay/chestnut_weaver_chewea1_204942111",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 59014,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204942111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204942111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_weaver_chewea1_204942121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939579/bird-gallery/chestnut_weaver_chewea1/macaulay/chestnut_weaver_chewea1_204942121.jpg",
+      "public_id": "bird-gallery/chestnut_weaver_chewea1/macaulay/chestnut_weaver_chewea1_204942121",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 129136,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204942121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204942121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_weaver_chewea1_399088551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939580/bird-gallery/chestnut_weaver_chewea1/macaulay/chestnut_weaver_chewea1_399088551.jpg",
+      "public_id": "bird-gallery/chestnut_weaver_chewea1/macaulay/chestnut_weaver_chewea1_399088551",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 137331,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/399088551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "399088551",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_weaver_chewea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939581/bird-gallery/chestnut_weaver_chewea1/inaturalist/chestnut_weaver_chewea1_1.jpg",
+      "public_id": "bird-gallery/chestnut_weaver_chewea1/inaturalist/chestnut_weaver_chewea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 120450,
+      "attribution": {
+        "photographer": "jokbrocks",
+        "photographer_url": "https://www.inaturalist.org/observations/263154417",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jokbrocks (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 263154417,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_weaver_chewea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939582/bird-gallery/chestnut_weaver_chewea1/inaturalist/chestnut_weaver_chewea1_2.jpg",
+      "public_id": "bird-gallery/chestnut_weaver_chewea1/inaturalist/chestnut_weaver_chewea1_2",
+      "width": 739,
+      "height": 555,
+      "format": "jpg",
+      "bytes": 89296,
+      "attribution": {
+        "photographer": "gigilaidler",
+        "photographer_url": "https://www.inaturalist.org/observations/112171820",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gigilaidler (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 112171820,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_weaver_chewea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939583/bird-gallery/chestnut_weaver_chewea1/inaturalist/chestnut_weaver_chewea1_3.jpg",
+      "public_id": "bird-gallery/chestnut_weaver_chewea1/inaturalist/chestnut_weaver_chewea1_3",
+      "width": 550,
+      "height": 705,
+      "format": "jpg",
+      "bytes": 20879,
+      "attribution": {
+        "photographer": "kalie9",
+        "photographer_url": "https://www.inaturalist.org/observations/83648080",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kalie9 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 83648080,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

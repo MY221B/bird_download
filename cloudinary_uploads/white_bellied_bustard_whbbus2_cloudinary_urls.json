@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_bellied_bustard_whbbus2",
+    "chinese_name": "白腹鸨",
+    "english_name": "White-bellied Bustard",
+    "scientific_name": "Eupodotis senegalensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_bellied_bustard_whbbus2_613236267.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940539/bird-gallery/white_bellied_bustard_whbbus2/macaulay/white_bellied_bustard_whbbus2_613236267.jpg",
+      "public_id": "bird-gallery/white_bellied_bustard_whbbus2/macaulay/white_bellied_bustard_whbbus2_613236267",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74637,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/613236267",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "613236267",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_bustard_whbbus2_613282380.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940540/bird-gallery/white_bellied_bustard_whbbus2/macaulay/white_bellied_bustard_whbbus2_613282380.jpg",
+      "public_id": "bird-gallery/white_bellied_bustard_whbbus2/macaulay/white_bellied_bustard_whbbus2_613282380",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86564,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/613282380",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "613282380",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_bustard_whbbus2_613322718.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940541/bird-gallery/white_bellied_bustard_whbbus2/macaulay/white_bellied_bustard_whbbus2_613322718.jpg",
+      "public_id": "bird-gallery/white_bellied_bustard_whbbus2/macaulay/white_bellied_bustard_whbbus2_613322718",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 83766,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/613322718",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "613322718",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_bellied_bustard_whbbus2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940542/bird-gallery/white_bellied_bustard_whbbus2/inaturalist/white_bellied_bustard_whbbus2_1.jpg",
+      "public_id": "bird-gallery/white_bellied_bustard_whbbus2/inaturalist/white_bellied_bustard_whbbus2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 106028,
+      "attribution": {
+        "photographer": "ilee1112",
+        "photographer_url": "https://www.inaturalist.org/observations/36720193",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ilee1112 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36720193,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_bustard_whbbus2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940543/bird-gallery/white_bellied_bustard_whbbus2/inaturalist/white_bellied_bustard_whbbus2_2.jpg",
+      "public_id": "bird-gallery/white_bellied_bustard_whbbus2/inaturalist/white_bellied_bustard_whbbus2_2",
+      "width": 720,
+      "height": 540,
+      "format": "jpg",
+      "bytes": 67322,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/2033151",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 2033151,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_bustard_whbbus2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940543/bird-gallery/white_bellied_bustard_whbbus2/inaturalist/white_bellied_bustard_whbbus2_3.jpg",
+      "public_id": "bird-gallery/white_bellied_bustard_whbbus2/inaturalist/white_bellied_bustard_whbbus2_3",
+      "width": 1024,
+      "height": 708,
+      "format": "jpg",
+      "bytes": 185021,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192463673",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192463673,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

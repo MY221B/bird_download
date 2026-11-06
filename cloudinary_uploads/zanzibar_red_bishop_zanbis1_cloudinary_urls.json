@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "zanzibar_red_bishop_zanbis1",
+    "chinese_name": "黑臀巧织雀",
+    "english_name": "Zanzibar Red Bishop",
+    "scientific_name": "Euplectes nigroventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "zanzibar_red_bishop_zanbis1_205964411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945478/bird-gallery/zanzibar_red_bishop_zanbis1/macaulay/zanzibar_red_bishop_zanbis1_205964411.jpg",
+      "public_id": "bird-gallery/zanzibar_red_bishop_zanbis1/macaulay/zanzibar_red_bishop_zanbis1_205964411",
+      "width": 1000,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 67062,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205964411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205964411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "zanzibar_red_bishop_zanbis1_205964431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945479/bird-gallery/zanzibar_red_bishop_zanbis1/macaulay/zanzibar_red_bishop_zanbis1_205964431.jpg",
+      "public_id": "bird-gallery/zanzibar_red_bishop_zanbis1/macaulay/zanzibar_red_bishop_zanbis1_205964431",
+      "width": 1000,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 39734,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205964431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205964431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "zanzibar_red_bishop_zanbis1_205964441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945480/bird-gallery/zanzibar_red_bishop_zanbis1/macaulay/zanzibar_red_bishop_zanbis1_205964441.jpg",
+      "public_id": "bird-gallery/zanzibar_red_bishop_zanbis1/macaulay/zanzibar_red_bishop_zanbis1_205964441",
+      "width": 800,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 42005,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205964441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205964441",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "zanzibar_red_bishop_zanbis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945481/bird-gallery/zanzibar_red_bishop_zanbis1/inaturalist/zanzibar_red_bishop_zanbis1_1.jpg",
+      "public_id": "bird-gallery/zanzibar_red_bishop_zanbis1/inaturalist/zanzibar_red_bishop_zanbis1_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 180289,
+      "attribution": {
+        "photographer": "sala_mandur_luvr",
+        "photographer_url": "https://www.inaturalist.org/observations/290622845",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sala_mandur_luvr (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 290622845,
+        "note": null
+      }
+    },
+    {
+      "original_file": "zanzibar_red_bishop_zanbis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945482/bird-gallery/zanzibar_red_bishop_zanbis1/inaturalist/zanzibar_red_bishop_zanbis1_2.jpg",
+      "public_id": "bird-gallery/zanzibar_red_bishop_zanbis1/inaturalist/zanzibar_red_bishop_zanbis1_2",
+      "width": 923,
+      "height": 616,
+      "format": "jpg",
+      "bytes": 76579,
+      "attribution": {
+        "photographer": "luis2499",
+        "photographer_url": "https://www.inaturalist.org/observations/268454542",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© luis2499 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 268454542,
+        "note": null
+      }
+    },
+    {
+      "original_file": "zanzibar_red_bishop_zanbis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945483/bird-gallery/zanzibar_red_bishop_zanbis1/inaturalist/zanzibar_red_bishop_zanbis1_3.jpg",
+      "public_id": "bird-gallery/zanzibar_red_bishop_zanbis1/inaturalist/zanzibar_red_bishop_zanbis1_3",
+      "width": 1024,
+      "height": 702,
+      "format": "jpg",
+      "bytes": 87311,
+      "attribution": {
+        "photographer": "bluebottle77",
+        "photographer_url": "https://www.inaturalist.org/observations/301370613",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bluebottle77 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 301370613,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

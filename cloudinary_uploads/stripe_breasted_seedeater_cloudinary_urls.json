@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "stripe_breasted_seedeater",
+    "chinese_name": "纹胸丝雀",
+    "english_name": "Stripe-breasted Seedeater",
+    "scientific_name": "Crithagra striatipectus"
+  },
+  "macaulay": [
+    {
+      "original_file": "stripe_breasted_seedeater_465449781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944345/bird-gallery/stripe_breasted_seedeater/macaulay/stripe_breasted_seedeater_465449781.jpg",
+      "public_id": "bird-gallery/stripe_breasted_seedeater/macaulay/stripe_breasted_seedeater_465449781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91072,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/465449781",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "465449781",
+        "note": null
+      }
+    },
+    {
+      "original_file": "stripe_breasted_seedeater_628681980.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944346/bird-gallery/stripe_breasted_seedeater/macaulay/stripe_breasted_seedeater_628681980.jpg",
+      "public_id": "bird-gallery/stripe_breasted_seedeater/macaulay/stripe_breasted_seedeater_628681980",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 112716,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628681980",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628681980",
+        "note": null
+      }
+    },
+    {
+      "original_file": "stripe_breasted_seedeater_628681981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944347/bird-gallery/stripe_breasted_seedeater/macaulay/stripe_breasted_seedeater_628681981.jpg",
+      "public_id": "bird-gallery/stripe_breasted_seedeater/macaulay/stripe_breasted_seedeater_628681981",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 104587,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628681981",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628681981",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "stripe_breasted_seedeater_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944348/bird-gallery/stripe_breasted_seedeater/inaturalist/stripe_breasted_seedeater_1.jpg",
+      "public_id": "bird-gallery/stripe_breasted_seedeater/inaturalist/stripe_breasted_seedeater_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 28854,
+      "attribution": {
+        "photographer": "giuseppe_citino",
+        "photographer_url": "https://www.inaturalist.org/observations/402467275",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© giuseppe_citino (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 402467275,
+        "note": null
+      }
+    },
+    {
+      "original_file": "stripe_breasted_seedeater_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944349/bird-gallery/stripe_breasted_seedeater/inaturalist/stripe_breasted_seedeater_2.jpg",
+      "public_id": "bird-gallery/stripe_breasted_seedeater/inaturalist/stripe_breasted_seedeater_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 18499,
+      "attribution": {
+        "photographer": "mwas",
+        "photographer_url": "https://www.inaturalist.org/observations/36708789",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mwas (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36708789,
+        "note": null
+      }
+    },
+    {
+      "original_file": "stripe_breasted_seedeater_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944349/bird-gallery/stripe_breasted_seedeater/inaturalist/stripe_breasted_seedeater_3.jpg",
+      "public_id": "bird-gallery/stripe_breasted_seedeater/inaturalist/stripe_breasted_seedeater_3",
+      "width": 619,
+      "height": 464,
+      "format": "jpg",
+      "bytes": 13952,
+      "attribution": {
+        "photographer": "seasav",
+        "photographer_url": "https://www.inaturalist.org/observations/69058617",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© seasav (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 69058617,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

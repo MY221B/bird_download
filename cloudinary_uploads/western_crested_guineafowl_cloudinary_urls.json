@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "western_crested_guineafowl",
+    "chinese_name": "西非冠珠鸡",
+    "english_name": "Western Crested Guineafowl",
+    "scientific_name": "Guttera verreauxi"
+  },
+  "macaulay": [
+    {
+      "original_file": "western_crested_guineafowl_205473091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944549/bird-gallery/western_crested_guineafowl/macaulay/western_crested_guineafowl_205473091.jpg",
+      "public_id": "bird-gallery/western_crested_guineafowl/macaulay/western_crested_guineafowl_205473091",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 184430,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205473091",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205473091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_crested_guineafowl_548958361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944551/bird-gallery/western_crested_guineafowl/macaulay/western_crested_guineafowl_548958361.jpg",
+      "public_id": "bird-gallery/western_crested_guineafowl/macaulay/western_crested_guineafowl_548958361",
+      "width": 1200,
+      "height": 871,
+      "format": "jpg",
+      "bytes": 239448,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/548958361",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "548958361",
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_crested_guineafowl_631505256.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944552/bird-gallery/western_crested_guineafowl/macaulay/western_crested_guineafowl_631505256.jpg",
+      "public_id": "bird-gallery/western_crested_guineafowl/macaulay/western_crested_guineafowl_631505256",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 144529,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/631505256",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "631505256",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "western_crested_guineafowl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944553/bird-gallery/western_crested_guineafowl/inaturalist/western_crested_guineafowl_1.jpg",
+      "public_id": "bird-gallery/western_crested_guineafowl/inaturalist/western_crested_guineafowl_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 210986,
+      "attribution": {
+        "photographer": "thierry_aebischer_chinko",
+        "photographer_url": "https://www.inaturalist.org/observations/235986445",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thierry_aebischer_chinko (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 235986445,
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_crested_guineafowl_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944553/bird-gallery/western_crested_guineafowl/inaturalist/western_crested_guineafowl_2.jpg",
+      "public_id": "bird-gallery/western_crested_guineafowl/inaturalist/western_crested_guineafowl_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 133554,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/101120187",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 101120187,
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_crested_guineafowl_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944554/bird-gallery/western_crested_guineafowl/inaturalist/western_crested_guineafowl_3.jpg",
+      "public_id": "bird-gallery/western_crested_guineafowl/inaturalist/western_crested_guineafowl_3",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 194796,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/30528793",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 30528793,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

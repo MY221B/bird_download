@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "southern_banded_snake_eagle",
+    "chinese_name": "斑短趾雕",
+    "english_name": "Southern Banded Snake-Eagle",
+    "scientific_name": "Circaetus fasciolatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "southern_banded_snake_eagle_204856711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945226/bird-gallery/southern_banded_snake_eagle/macaulay/southern_banded_snake_eagle_204856711.jpg",
+      "public_id": "bird-gallery/southern_banded_snake_eagle/macaulay/southern_banded_snake_eagle_204856711",
+      "width": 1200,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 71593,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204856711",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204856711",
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_banded_snake_eagle_206172911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945227/bird-gallery/southern_banded_snake_eagle/macaulay/southern_banded_snake_eagle_206172911.jpg",
+      "public_id": "bird-gallery/southern_banded_snake_eagle/macaulay/southern_banded_snake_eagle_206172911",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 36329,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206172911",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206172911",
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_banded_snake_eagle_60624251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945227/bird-gallery/southern_banded_snake_eagle/macaulay/southern_banded_snake_eagle_60624251.jpg",
+      "public_id": "bird-gallery/southern_banded_snake_eagle/macaulay/southern_banded_snake_eagle_60624251",
+      "width": 1200,
+      "height": 789,
+      "format": "jpg",
+      "bytes": 145118,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/60624251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "60624251",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "southern_banded_snake_eagle_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945229/bird-gallery/southern_banded_snake_eagle/inaturalist/southern_banded_snake_eagle_1.jpg",
+      "public_id": "bird-gallery/southern_banded_snake_eagle/inaturalist/southern_banded_snake_eagle_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 40294,
+      "attribution": {
+        "photographer": "sandilombard",
+        "photographer_url": "https://www.inaturalist.org/observations/361518863",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sandilombard (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 361518863,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_banded_snake_eagle_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945229/bird-gallery/southern_banded_snake_eagle/inaturalist/southern_banded_snake_eagle_2.jpg",
+      "public_id": "bird-gallery/southern_banded_snake_eagle/inaturalist/southern_banded_snake_eagle_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 104043,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7975705",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7975705,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_banded_snake_eagle_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945230/bird-gallery/southern_banded_snake_eagle/inaturalist/southern_banded_snake_eagle_3.jpg",
+      "public_id": "bird-gallery/southern_banded_snake_eagle/inaturalist/southern_banded_snake_eagle_3",
+      "width": 1024,
+      "height": 1019,
+      "format": "jpg",
+      "bytes": 27596,
+      "attribution": {
+        "photographer": "henrygage",
+        "photographer_url": "https://www.inaturalist.org/observations/299123677",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© henrygage (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 299123677,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

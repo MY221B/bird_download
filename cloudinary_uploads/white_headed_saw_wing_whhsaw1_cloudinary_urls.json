@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_headed_saw_wing_whhsaw1",
+    "chinese_name": "白头锯翅燕",
+    "english_name": "White-headed Saw-wing",
+    "scientific_name": "Psalidoprocne albiceps"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_headed_saw_wing_whhsaw1_204795161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943807/bird-gallery/white_headed_saw_wing_whhsaw1/macaulay/white_headed_saw_wing_whhsaw1_204795161.jpg",
+      "public_id": "bird-gallery/white_headed_saw_wing_whhsaw1/macaulay/white_headed_saw_wing_whhsaw1_204795161",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 166404,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204795161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204795161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_saw_wing_whhsaw1_205997211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943808/bird-gallery/white_headed_saw_wing_whhsaw1/macaulay/white_headed_saw_wing_whhsaw1_205997211.jpg",
+      "public_id": "bird-gallery/white_headed_saw_wing_whhsaw1/macaulay/white_headed_saw_wing_whhsaw1_205997211",
+      "width": 1000,
+      "height": 749,
+      "format": "jpg",
+      "bytes": 59430,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205997211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205997211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_saw_wing_whhsaw1_234482831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943809/bird-gallery/white_headed_saw_wing_whhsaw1/macaulay/white_headed_saw_wing_whhsaw1_234482831.jpg",
+      "public_id": "bird-gallery/white_headed_saw_wing_whhsaw1/macaulay/white_headed_saw_wing_whhsaw1_234482831",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 67635,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/234482831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "234482831",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_headed_saw_wing_whhsaw1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943811/bird-gallery/white_headed_saw_wing_whhsaw1/inaturalist/white_headed_saw_wing_whhsaw1_1.jpg",
+      "public_id": "bird-gallery/white_headed_saw_wing_whhsaw1/inaturalist/white_headed_saw_wing_whhsaw1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 30121,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/147346723",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147346723,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_saw_wing_whhsaw1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943811/bird-gallery/white_headed_saw_wing_whhsaw1/inaturalist/white_headed_saw_wing_whhsaw1_2.jpg",
+      "public_id": "bird-gallery/white_headed_saw_wing_whhsaw1/inaturalist/white_headed_saw_wing_whhsaw1_2",
+      "width": 1024,
+      "height": 816,
+      "format": "jpg",
+      "bytes": 47924,
+      "attribution": {
+        "photographer": "drmckenzie",
+        "photographer_url": "https://www.inaturalist.org/observations/199572407",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© drmckenzie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 199572407,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_saw_wing_whhsaw1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943812/bird-gallery/white_headed_saw_wing_whhsaw1/inaturalist/white_headed_saw_wing_whhsaw1_3.jpg",
+      "public_id": "bird-gallery/white_headed_saw_wing_whhsaw1/inaturalist/white_headed_saw_wing_whhsaw1_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 46866,
+      "attribution": {
+        "photographer": "annelaudisoit",
+        "photographer_url": "https://www.inaturalist.org/observations/54703446",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© annelaudisoit (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 54703446,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

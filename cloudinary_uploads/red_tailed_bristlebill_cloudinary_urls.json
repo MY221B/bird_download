@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_tailed_bristlebill",
+    "chinese_name": "须鹎",
+    "english_name": "Red-tailed Bristlebill",
+    "scientific_name": "Bleda syndactylus"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_tailed_bristlebill_205990201.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944538/bird-gallery/red_tailed_bristlebill/macaulay/red_tailed_bristlebill_205990201.jpg",
+      "public_id": "bird-gallery/red_tailed_bristlebill/macaulay/red_tailed_bristlebill_205990201",
+      "width": 1000,
+      "height": 699,
+      "format": "jpg",
+      "bytes": 86150,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205990201",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205990201",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_bristlebill_205990211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944539/bird-gallery/red_tailed_bristlebill/macaulay/red_tailed_bristlebill_205990211.jpg",
+      "public_id": "bird-gallery/red_tailed_bristlebill/macaulay/red_tailed_bristlebill_205990211",
+      "width": 1000,
+      "height": 727,
+      "format": "jpg",
+      "bytes": 97662,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205990211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205990211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_bristlebill_37152141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944540/bird-gallery/red_tailed_bristlebill/macaulay/red_tailed_bristlebill_37152141.jpg",
+      "public_id": "bird-gallery/red_tailed_bristlebill/macaulay/red_tailed_bristlebill_37152141",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 257591,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/37152141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "37152141",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_tailed_bristlebill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944542/bird-gallery/red_tailed_bristlebill/inaturalist/red_tailed_bristlebill_1.jpg",
+      "public_id": "bird-gallery/red_tailed_bristlebill/inaturalist/red_tailed_bristlebill_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 62961,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/88977765",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 88977765,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_bristlebill_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944543/bird-gallery/red_tailed_bristlebill/inaturalist/red_tailed_bristlebill_2.jpg",
+      "public_id": "bird-gallery/red_tailed_bristlebill/inaturalist/red_tailed_bristlebill_2",
+      "width": 1024,
+      "height": 635,
+      "format": "jpg",
+      "bytes": 60314,
+      "attribution": {
+        "photographer": "markusgmeiner",
+        "photographer_url": "https://www.inaturalist.org/observations/327857221",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© markusgmeiner (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 327857221,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_bristlebill_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944543/bird-gallery/red_tailed_bristlebill/inaturalist/red_tailed_bristlebill_3.jpg",
+      "public_id": "bird-gallery/red_tailed_bristlebill/inaturalist/red_tailed_bristlebill_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57413,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7107177",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7107177,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

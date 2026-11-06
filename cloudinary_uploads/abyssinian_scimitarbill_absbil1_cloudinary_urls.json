@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "abyssinian_scimitarbill_absbil1",
+    "chinese_name": "小弯嘴戴胜",
+    "english_name": "Abyssinian Scimitarbill",
+    "scientific_name": "Rhinopomastus minor"
+  },
+  "macaulay": [
+    {
+      "original_file": "abyssinian_scimitarbill_absbil1_419467321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939145/bird-gallery/abyssinian_scimitarbill_absbil1/macaulay/abyssinian_scimitarbill_absbil1_419467321.jpg",
+      "public_id": "bird-gallery/abyssinian_scimitarbill_absbil1/macaulay/abyssinian_scimitarbill_absbil1_419467321",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 74591,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/419467321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "419467321",
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_scimitarbill_absbil1_419467331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939146/bird-gallery/abyssinian_scimitarbill_absbil1/macaulay/abyssinian_scimitarbill_absbil1_419467331.jpg",
+      "public_id": "bird-gallery/abyssinian_scimitarbill_absbil1/macaulay/abyssinian_scimitarbill_absbil1_419467331",
+      "width": 1199,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 70796,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/419467331",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "419467331",
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_scimitarbill_absbil1_573442981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939148/bird-gallery/abyssinian_scimitarbill_absbil1/macaulay/abyssinian_scimitarbill_absbil1_573442981.jpg",
+      "public_id": "bird-gallery/abyssinian_scimitarbill_absbil1/macaulay/abyssinian_scimitarbill_absbil1_573442981",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 114935,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/573442981",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "573442981",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "abyssinian_scimitarbill_absbil1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939149/bird-gallery/abyssinian_scimitarbill_absbil1/inaturalist/abyssinian_scimitarbill_absbil1_1.jpg",
+      "public_id": "bird-gallery/abyssinian_scimitarbill_absbil1/inaturalist/abyssinian_scimitarbill_absbil1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72550,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7130600",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7130600,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_scimitarbill_absbil1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939150/bird-gallery/abyssinian_scimitarbill_absbil1/inaturalist/abyssinian_scimitarbill_absbil1_2.jpg",
+      "public_id": "bird-gallery/abyssinian_scimitarbill_absbil1/inaturalist/abyssinian_scimitarbill_absbil1_2",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 65038,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/347754295",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 347754295,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_scimitarbill_absbil1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939151/bird-gallery/abyssinian_scimitarbill_absbil1/inaturalist/abyssinian_scimitarbill_absbil1_3.jpg",
+      "public_id": "bird-gallery/abyssinian_scimitarbill_absbil1/inaturalist/abyssinian_scimitarbill_absbil1_3",
+      "width": 1024,
+      "height": 912,
+      "format": "jpg",
+      "bytes": 59185,
+      "attribution": {
+        "photographer": "irina_kazakova_rus",
+        "photographer_url": "https://www.inaturalist.org/observations/330854940",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© irina_kazakova_rus (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 330854940,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

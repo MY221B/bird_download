@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mountain_gray_woodpecker_gyhwoo1",
+    "chinese_name": "灰头啄木鸟",
+    "english_name": "Mountain Gray Woodpecker",
+    "scientific_name": "Dendropicos spodocephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "mountain_gray_woodpecker_gyhwoo1_162780821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939752/bird-gallery/mountain_gray_woodpecker_gyhwoo1/macaulay/mountain_gray_woodpecker_gyhwoo1_162780821.jpg",
+      "public_id": "bird-gallery/mountain_gray_woodpecker_gyhwoo1/macaulay/mountain_gray_woodpecker_gyhwoo1_162780821",
+      "width": 1200,
+      "height": 755,
+      "format": "jpg",
+      "bytes": 106278,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/162780821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "162780821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_gray_woodpecker_gyhwoo1_205984661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939753/bird-gallery/mountain_gray_woodpecker_gyhwoo1/macaulay/mountain_gray_woodpecker_gyhwoo1_205984661.jpg",
+      "public_id": "bird-gallery/mountain_gray_woodpecker_gyhwoo1/macaulay/mountain_gray_woodpecker_gyhwoo1_205984661",
+      "width": 1000,
+      "height": 626,
+      "format": "jpg",
+      "bytes": 95603,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984661",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984661",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_gray_woodpecker_gyhwoo1_85622071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939754/bird-gallery/mountain_gray_woodpecker_gyhwoo1/macaulay/mountain_gray_woodpecker_gyhwoo1_85622071.jpg",
+      "public_id": "bird-gallery/mountain_gray_woodpecker_gyhwoo1/macaulay/mountain_gray_woodpecker_gyhwoo1_85622071",
+      "width": 1140,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 188919,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/85622071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "85622071",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mountain_gray_woodpecker_gyhwoo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939755/bird-gallery/mountain_gray_woodpecker_gyhwoo1/inaturalist/mountain_gray_woodpecker_gyhwoo1_1.jpg",
+      "public_id": "bird-gallery/mountain_gray_woodpecker_gyhwoo1/inaturalist/mountain_gray_woodpecker_gyhwoo1_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 141305,
+      "attribution": {
+        "photographer": "hoppy1951",
+        "photographer_url": "https://www.inaturalist.org/observations/5211450",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© hoppy1951 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 5211450,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_gray_woodpecker_gyhwoo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939755/bird-gallery/mountain_gray_woodpecker_gyhwoo1/inaturalist/mountain_gray_woodpecker_gyhwoo1_2.jpg",
+      "public_id": "bird-gallery/mountain_gray_woodpecker_gyhwoo1/inaturalist/mountain_gray_woodpecker_gyhwoo1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 100737,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/314826268",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 314826268,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_gray_woodpecker_gyhwoo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939756/bird-gallery/mountain_gray_woodpecker_gyhwoo1/inaturalist/mountain_gray_woodpecker_gyhwoo1_3.jpg",
+      "public_id": "bird-gallery/mountain_gray_woodpecker_gyhwoo1/inaturalist/mountain_gray_woodpecker_gyhwoo1_3",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 182589,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/193473873",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 193473873,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "purple_roller_rucrol2",
+    "chinese_name": "棕顶佛法僧",
+    "english_name": "Purple Roller",
+    "scientific_name": "Coracias naevius"
+  },
+  "macaulay": [
+    {
+      "original_file": "purple_roller_rucrol2_122659601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941573/bird-gallery/purple_roller_rucrol2/macaulay/purple_roller_rucrol2_122659601.jpg",
+      "public_id": "bird-gallery/purple_roller_rucrol2/macaulay/purple_roller_rucrol2_122659601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75669,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/122659601",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "122659601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_roller_rucrol2_204519541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941574/bird-gallery/purple_roller_rucrol2/macaulay/purple_roller_rucrol2_204519541.jpg",
+      "public_id": "bird-gallery/purple_roller_rucrol2/macaulay/purple_roller_rucrol2_204519541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91010,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204519541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204519541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_roller_rucrol2_666464584.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941575/bird-gallery/purple_roller_rucrol2/macaulay/purple_roller_rucrol2_666464584.jpg",
+      "public_id": "bird-gallery/purple_roller_rucrol2/macaulay/purple_roller_rucrol2_666464584",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 125132,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/666464584",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "666464584",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "purple_roller_rucrol2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941576/bird-gallery/purple_roller_rucrol2/inaturalist/purple_roller_rucrol2_1.jpg",
+      "public_id": "bird-gallery/purple_roller_rucrol2/inaturalist/purple_roller_rucrol2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 41973,
+      "attribution": {
+        "photographer": "florentin6",
+        "photographer_url": "https://www.inaturalist.org/observations/106867515",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© florentin6 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 106867515,
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_roller_rucrol2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941577/bird-gallery/purple_roller_rucrol2/inaturalist/purple_roller_rucrol2_2.jpg",
+      "public_id": "bird-gallery/purple_roller_rucrol2/inaturalist/purple_roller_rucrol2_2",
+      "width": 1024,
+      "height": 672,
+      "format": "jpg",
+      "bytes": 46323,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192498305",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192498305,
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_roller_rucrol2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941579/bird-gallery/purple_roller_rucrol2/inaturalist/purple_roller_rucrol2_3.jpg",
+      "public_id": "bird-gallery/purple_roller_rucrol2/inaturalist/purple_roller_rucrol2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 26361,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/316303236",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 316303236,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

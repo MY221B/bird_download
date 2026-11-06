@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "three_banded_courser_thbcou1",
+    "chinese_name": "栗颈走鸻",
+    "english_name": "Three-banded Courser",
+    "scientific_name": "Rhinoptilus cinctus"
+  },
+  "macaulay": [
+    {
+      "original_file": "three_banded_courser_thbcou1_361867691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942051/bird-gallery/three_banded_courser_thbcou1/macaulay/three_banded_courser_thbcou1_361867691.jpg",
+      "public_id": "bird-gallery/three_banded_courser_thbcou1/macaulay/three_banded_courser_thbcou1_361867691",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 147571,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/361867691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "361867691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_banded_courser_thbcou1_57409281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942052/bird-gallery/three_banded_courser_thbcou1/macaulay/three_banded_courser_thbcou1_57409281.jpg",
+      "public_id": "bird-gallery/three_banded_courser_thbcou1/macaulay/three_banded_courser_thbcou1_57409281",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 96580,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/57409281",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "57409281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_banded_courser_thbcou1_89650861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942053/bird-gallery/three_banded_courser_thbcou1/macaulay/three_banded_courser_thbcou1_89650861.jpg",
+      "public_id": "bird-gallery/three_banded_courser_thbcou1/macaulay/three_banded_courser_thbcou1_89650861",
+      "width": 1200,
+      "height": 791,
+      "format": "jpg",
+      "bytes": 105308,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/89650861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "89650861",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "three_banded_courser_thbcou1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942055/bird-gallery/three_banded_courser_thbcou1/inaturalist/three_banded_courser_thbcou1_1.jpg",
+      "public_id": "bird-gallery/three_banded_courser_thbcou1/inaturalist/three_banded_courser_thbcou1_1",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 80221,
+      "attribution": {
+        "photographer": "lindsay_mandy",
+        "photographer_url": "https://www.inaturalist.org/observations/161855341",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lindsay_mandy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 161855341,
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_banded_courser_thbcou1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942056/bird-gallery/three_banded_courser_thbcou1/inaturalist/three_banded_courser_thbcou1_2.jpg",
+      "public_id": "bird-gallery/three_banded_courser_thbcou1/inaturalist/three_banded_courser_thbcou1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 135532,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/316020655",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 316020655,
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_banded_courser_thbcou1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942057/bird-gallery/three_banded_courser_thbcou1/inaturalist/three_banded_courser_thbcou1_3.jpg",
+      "public_id": "bird-gallery/three_banded_courser_thbcou1/inaturalist/three_banded_courser_thbcou1_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 94041,
+      "attribution": {
+        "photographer": "thomashecht",
+        "photographer_url": "https://www.inaturalist.org/observations/412602491",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© thomashecht (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 412602491,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

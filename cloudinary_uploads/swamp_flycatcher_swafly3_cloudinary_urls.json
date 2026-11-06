@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "swamp_flycatcher_swafly3",
+    "chinese_name": "泽鹟",
+    "english_name": "Swamp Flycatcher",
+    "scientific_name": "Muscicapa aquatica"
+  },
+  "macaulay": [
+    {
+      "original_file": "swamp_flycatcher_swafly3_112437601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945035/bird-gallery/swamp_flycatcher_swafly3/macaulay/swamp_flycatcher_swafly3_112437601.jpg",
+      "public_id": "bird-gallery/swamp_flycatcher_swafly3/macaulay/swamp_flycatcher_swafly3_112437601",
+      "width": 1200,
+      "height": 884,
+      "format": "jpg",
+      "bytes": 77071,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112437601",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112437601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "swamp_flycatcher_swafly3_112971121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945036/bird-gallery/swamp_flycatcher_swafly3/macaulay/swamp_flycatcher_swafly3_112971121.jpg",
+      "public_id": "bird-gallery/swamp_flycatcher_swafly3/macaulay/swamp_flycatcher_swafly3_112971121",
+      "width": 1200,
+      "height": 717,
+      "format": "jpg",
+      "bytes": 59143,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112971121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112971121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "swamp_flycatcher_swafly3_112971131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945038/bird-gallery/swamp_flycatcher_swafly3/macaulay/swamp_flycatcher_swafly3_112971131.jpg",
+      "public_id": "bird-gallery/swamp_flycatcher_swafly3/macaulay/swamp_flycatcher_swafly3_112971131",
+      "width": 1200,
+      "height": 717,
+      "format": "jpg",
+      "bytes": 52835,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112971131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112971131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "swamp_flycatcher_swafly3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945039/bird-gallery/swamp_flycatcher_swafly3/inaturalist/swamp_flycatcher_swafly3_1.jpg",
+      "public_id": "bird-gallery/swamp_flycatcher_swafly3/inaturalist/swamp_flycatcher_swafly3_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 29152,
+      "attribution": {
+        "photographer": "michalsloviak",
+        "photographer_url": "https://www.inaturalist.org/observations/100153599",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© michalsloviak (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 100153599,
+        "note": null
+      }
+    },
+    {
+      "original_file": "swamp_flycatcher_swafly3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945039/bird-gallery/swamp_flycatcher_swafly3/inaturalist/swamp_flycatcher_swafly3_2.jpg",
+      "public_id": "bird-gallery/swamp_flycatcher_swafly3/inaturalist/swamp_flycatcher_swafly3_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 45455,
+      "attribution": {
+        "photographer": "lynnecorreia",
+        "photographer_url": "https://www.inaturalist.org/observations/161474337",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lynnecorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 161474337,
+        "note": null
+      }
+    },
+    {
+      "original_file": "swamp_flycatcher_swafly3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945040/bird-gallery/swamp_flycatcher_swafly3/inaturalist/swamp_flycatcher_swafly3_3.jpg",
+      "public_id": "bird-gallery/swamp_flycatcher_swafly3/inaturalist/swamp_flycatcher_swafly3_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 53621,
+      "attribution": {
+        "photographer": "ondrejprosicky",
+        "photographer_url": "https://www.inaturalist.org/observations/110749384",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ondrejprosicky (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 110749384,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

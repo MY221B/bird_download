@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "golden_backed_weaver_gobwea1",
+    "chinese_name": "苏丹织雀",
+    "english_name": "Golden-backed Weaver",
+    "scientific_name": "Ploceus jacksoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "golden_backed_weaver_gobwea1_206151011.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941916/bird-gallery/golden_backed_weaver_gobwea1/macaulay/golden_backed_weaver_gobwea1_206151011.jpg",
+      "public_id": "bird-gallery/golden_backed_weaver_gobwea1/macaulay/golden_backed_weaver_gobwea1_206151011",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 114248,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206151011",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206151011",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_backed_weaver_gobwea1_65649421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941917/bird-gallery/golden_backed_weaver_gobwea1/macaulay/golden_backed_weaver_gobwea1_65649421.jpg",
+      "public_id": "bird-gallery/golden_backed_weaver_gobwea1/macaulay/golden_backed_weaver_gobwea1_65649421",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 214869,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/65649421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "65649421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_backed_weaver_gobwea1_65649441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941918/bird-gallery/golden_backed_weaver_gobwea1/macaulay/golden_backed_weaver_gobwea1_65649441.jpg",
+      "public_id": "bird-gallery/golden_backed_weaver_gobwea1/macaulay/golden_backed_weaver_gobwea1_65649441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 46550,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/65649441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "65649441",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "golden_backed_weaver_gobwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941919/bird-gallery/golden_backed_weaver_gobwea1/inaturalist/golden_backed_weaver_gobwea1_1.jpg",
+      "public_id": "bird-gallery/golden_backed_weaver_gobwea1/inaturalist/golden_backed_weaver_gobwea1_1",
+      "width": 1024,
+      "height": 915,
+      "format": "jpg",
+      "bytes": 41351,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/106231309",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106231309,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_backed_weaver_gobwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941919/bird-gallery/golden_backed_weaver_gobwea1/inaturalist/golden_backed_weaver_gobwea1_2.jpg",
+      "public_id": "bird-gallery/golden_backed_weaver_gobwea1/inaturalist/golden_backed_weaver_gobwea1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78106,
+      "attribution": {
+        "photographer": "nick_rogers",
+        "photographer_url": "https://www.inaturalist.org/observations/376515003",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© nick_rogers (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 376515003,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_backed_weaver_gobwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941920/bird-gallery/golden_backed_weaver_gobwea1/inaturalist/golden_backed_weaver_gobwea1_3.jpg",
+      "public_id": "bird-gallery/golden_backed_weaver_gobwea1/inaturalist/golden_backed_weaver_gobwea1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 122489,
+      "attribution": {
+        "photographer": "harumeku12",
+        "photographer_url": "https://www.inaturalist.org/observations/279848668",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© harumeku12 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 279848668,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

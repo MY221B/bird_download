@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "buff_crested_bustard_bucbus1",
+    "chinese_name": "软冠鸨",
+    "english_name": "Buff-crested Bustard",
+    "scientific_name": "Lophotis gindiana"
+  },
+  "macaulay": [
+    {
+      "original_file": "buff_crested_bustard_bucbus1_117125301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943880/bird-gallery/buff_crested_bustard_bucbus1/macaulay/buff_crested_bustard_bucbus1_117125301.jpg",
+      "public_id": "bird-gallery/buff_crested_bustard_bucbus1/macaulay/buff_crested_bustard_bucbus1_117125301",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 164434,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117125301",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117125301",
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_crested_bustard_bucbus1_117125311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943881/bird-gallery/buff_crested_bustard_bucbus1/macaulay/buff_crested_bustard_bucbus1_117125311.jpg",
+      "public_id": "bird-gallery/buff_crested_bustard_bucbus1/macaulay/buff_crested_bustard_bucbus1_117125311",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86115,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117125311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117125311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_crested_bustard_bucbus1_32400831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943882/bird-gallery/buff_crested_bustard_bucbus1/macaulay/buff_crested_bustard_bucbus1_32400831.jpg",
+      "public_id": "bird-gallery/buff_crested_bustard_bucbus1/macaulay/buff_crested_bustard_bucbus1_32400831",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 125625,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32400831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32400831",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "buff_crested_bustard_bucbus1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943884/bird-gallery/buff_crested_bustard_bucbus1/inaturalist/buff_crested_bustard_bucbus1_1.jpg",
+      "public_id": "bird-gallery/buff_crested_bustard_bucbus1/inaturalist/buff_crested_bustard_bucbus1_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 154083,
+      "attribution": {
+        "photographer": "robert_thibault",
+        "photographer_url": "https://www.inaturalist.org/observations/192857390",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robert_thibault (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192857390,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_crested_bustard_bucbus1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943885/bird-gallery/buff_crested_bustard_bucbus1/inaturalist/buff_crested_bustard_bucbus1_2.jpg",
+      "public_id": "bird-gallery/buff_crested_bustard_bucbus1/inaturalist/buff_crested_bustard_bucbus1_2",
+      "width": 1024,
+      "height": 755,
+      "format": "jpg",
+      "bytes": 215347,
+      "attribution": {
+        "photographer": "md-in-ns15",
+        "photographer_url": "https://www.inaturalist.org/observations/255884539",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© md-in-ns15 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255884539,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_crested_bustard_bucbus1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943885/bird-gallery/buff_crested_bustard_bucbus1/inaturalist/buff_crested_bustard_bucbus1_3.jpg",
+      "public_id": "bird-gallery/buff_crested_bustard_bucbus1/inaturalist/buff_crested_bustard_bucbus1_3",
+      "width": 800,
+      "height": 534,
+      "format": "jpg",
+      "bytes": 76298,
+      "attribution": {
+        "photographer": "michiganhummingbirdguy",
+        "photographer_url": "https://www.inaturalist.org/observations/83722508",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© michiganhummingbirdguy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 83722508,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

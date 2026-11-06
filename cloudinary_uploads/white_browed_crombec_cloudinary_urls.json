@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_browed_crombec",
+    "chinese_name": "白眉森莺",
+    "english_name": "White-browed Crombec",
+    "scientific_name": "Sylvietta leucophrys"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_browed_crombec_116455431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941328/bird-gallery/white_browed_crombec/macaulay/white_browed_crombec_116455431.jpg",
+      "public_id": "bird-gallery/white_browed_crombec/macaulay/white_browed_crombec_116455431",
+      "width": 1200,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 122960,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/116455431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "116455431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_crombec_205492961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941329/bird-gallery/white_browed_crombec/macaulay/white_browed_crombec_205492961.jpg",
+      "public_id": "bird-gallery/white_browed_crombec/macaulay/white_browed_crombec_205492961",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 52458,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205492961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205492961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_crombec_622670864.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941330/bird-gallery/white_browed_crombec/macaulay/white_browed_crombec_622670864.jpg",
+      "public_id": "bird-gallery/white_browed_crombec/macaulay/white_browed_crombec_622670864",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66850,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/622670864",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "622670864",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_browed_crombec_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941331/bird-gallery/white_browed_crombec/inaturalist/white_browed_crombec_1.jpg",
+      "public_id": "bird-gallery/white_browed_crombec/inaturalist/white_browed_crombec_1",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 95864,
+      "attribution": {
+        "photographer": "likes2hike",
+        "photographer_url": "https://www.inaturalist.org/observations/396317898",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© likes2hike (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 396317898,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_crombec_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941331/bird-gallery/white_browed_crombec/inaturalist/white_browed_crombec_2.jpg",
+      "public_id": "bird-gallery/white_browed_crombec/inaturalist/white_browed_crombec_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 91968,
+      "attribution": {
+        "photographer": "mutati",
+        "photographer_url": "https://www.inaturalist.org/observations/16281593",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mutati (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 16281593,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_crombec_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941332/bird-gallery/white_browed_crombec/inaturalist/white_browed_crombec_3.jpg",
+      "public_id": "bird-gallery/white_browed_crombec/inaturalist/white_browed_crombec_3",
+      "width": 1024,
+      "height": 577,
+      "format": "jpg",
+      "bytes": 87902,
+      "attribution": {
+        "photographer": "koenbetjes",
+        "photographer_url": "https://www.inaturalist.org/observations/334102538",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© koenbetjes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 334102538,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

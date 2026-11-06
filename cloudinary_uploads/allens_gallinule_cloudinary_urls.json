@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "allens_gallinule",
+    "chinese_name": "辉青水鸡",
+    "english_name": "Allen's Gallinule",
+    "scientific_name": "Porphyrio alleni"
+  },
+  "macaulay": [
+    {
+      "original_file": "allens_gallinule_135740081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941853/bird-gallery/allens_gallinule/macaulay/allens_gallinule_135740081.jpg",
+      "public_id": "bird-gallery/allens_gallinule/macaulay/allens_gallinule_135740081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 216043,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/135740081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "135740081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "allens_gallinule_614433256.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941854/bird-gallery/allens_gallinule/macaulay/allens_gallinule_614433256.jpg",
+      "public_id": "bird-gallery/allens_gallinule/macaulay/allens_gallinule_614433256",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 95895,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614433256",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614433256",
+        "note": null
+      }
+    },
+    {
+      "original_file": "allens_gallinule_614433258.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941855/bird-gallery/allens_gallinule/macaulay/allens_gallinule_614433258.jpg",
+      "public_id": "bird-gallery/allens_gallinule/macaulay/allens_gallinule_614433258",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88565,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614433258",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614433258",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "allens_gallinule_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941857/bird-gallery/allens_gallinule/inaturalist/allens_gallinule_1.jpg",
+      "public_id": "bird-gallery/allens_gallinule/inaturalist/allens_gallinule_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78139,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/152537471",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 152537471,
+        "note": null
+      }
+    },
+    {
+      "original_file": "allens_gallinule_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941857/bird-gallery/allens_gallinule/inaturalist/allens_gallinule_2.jpg",
+      "public_id": "bird-gallery/allens_gallinule/inaturalist/allens_gallinule_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78004,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/16393553",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 16393553,
+        "note": null
+      }
+    },
+    {
+      "original_file": "allens_gallinule_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941858/bird-gallery/allens_gallinule/inaturalist/allens_gallinule_3.jpg",
+      "public_id": "bird-gallery/allens_gallinule/inaturalist/allens_gallinule_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 99813,
+      "attribution": {
+        "photographer": "coco_azz",
+        "photographer_url": "https://www.inaturalist.org/observations/356580401",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© coco_azz (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 356580401,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

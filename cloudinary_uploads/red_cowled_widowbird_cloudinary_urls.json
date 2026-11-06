@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_cowled_widowbird",
+    "chinese_name": "红颈巧织雀",
+    "english_name": "Red-cowled Widowbird",
+    "scientific_name": "Euplectes laticauda"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_cowled_widowbird_205184691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941712/bird-gallery/red_cowled_widowbird/macaulay/red_cowled_widowbird_205184691.jpg",
+      "public_id": "bird-gallery/red_cowled_widowbird/macaulay/red_cowled_widowbird_205184691",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 40169,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205184691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205184691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_cowled_widowbird_450727601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941713/bird-gallery/red_cowled_widowbird/macaulay/red_cowled_widowbird_450727601.jpg",
+      "public_id": "bird-gallery/red_cowled_widowbird/macaulay/red_cowled_widowbird_450727601",
+      "width": 903,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 84926,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/450727601",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "450727601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_cowled_widowbird_605675021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941714/bird-gallery/red_cowled_widowbird/macaulay/red_cowled_widowbird_605675021.jpg",
+      "public_id": "bird-gallery/red_cowled_widowbird/macaulay/red_cowled_widowbird_605675021",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 31050,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/605675021",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "605675021",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_cowled_widowbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941715/bird-gallery/red_cowled_widowbird/inaturalist/red_cowled_widowbird_1.jpg",
+      "public_id": "bird-gallery/red_cowled_widowbird/inaturalist/red_cowled_widowbird_1",
+      "width": 831,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 70926,
+      "attribution": {
+        "photographer": "paultavares",
+        "photographer_url": "https://www.inaturalist.org/observations/160754410",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paultavares (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 160754410,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_cowled_widowbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941715/bird-gallery/red_cowled_widowbird/inaturalist/red_cowled_widowbird_2.jpg",
+      "public_id": "bird-gallery/red_cowled_widowbird/inaturalist/red_cowled_widowbird_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 63687,
+      "attribution": {
+        "photographer": "jknox78251",
+        "photographer_url": "https://www.inaturalist.org/observations/18878654",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jknox78251 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18878654,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_cowled_widowbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941716/bird-gallery/red_cowled_widowbird/inaturalist/red_cowled_widowbird_3.jpg",
+      "public_id": "bird-gallery/red_cowled_widowbird/inaturalist/red_cowled_widowbird_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61981,
+      "attribution": {
+        "photographer": "liuye",
+        "photographer_url": "https://www.inaturalist.org/observations/281972143",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© liuye (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 281972143,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

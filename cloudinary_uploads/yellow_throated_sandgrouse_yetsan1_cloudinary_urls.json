@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_throated_sandgrouse_yetsan1",
+    "chinese_name": "黄喉沙鸡",
+    "english_name": "Yellow-throated Sandgrouse",
+    "scientific_name": "Pterocles gutturalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_throated_sandgrouse_yetsan1_116501031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943831/bird-gallery/yellow_throated_sandgrouse_yetsan1/macaulay/yellow_throated_sandgrouse_yetsan1_116501031.jpg",
+      "public_id": "bird-gallery/yellow_throated_sandgrouse_yetsan1/macaulay/yellow_throated_sandgrouse_yetsan1_116501031",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 142581,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/116501031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "116501031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_sandgrouse_yetsan1_117072941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943832/bird-gallery/yellow_throated_sandgrouse_yetsan1/macaulay/yellow_throated_sandgrouse_yetsan1_117072941.jpg",
+      "public_id": "bird-gallery/yellow_throated_sandgrouse_yetsan1/macaulay/yellow_throated_sandgrouse_yetsan1_117072941",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97839,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117072941",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117072941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_sandgrouse_yetsan1_117073561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943833/bird-gallery/yellow_throated_sandgrouse_yetsan1/macaulay/yellow_throated_sandgrouse_yetsan1_117073561.jpg",
+      "public_id": "bird-gallery/yellow_throated_sandgrouse_yetsan1/macaulay/yellow_throated_sandgrouse_yetsan1_117073561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 120078,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117073561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117073561",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_throated_sandgrouse_yetsan1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943834/bird-gallery/yellow_throated_sandgrouse_yetsan1/inaturalist/yellow_throated_sandgrouse_yetsan1_1.jpg",
+      "public_id": "bird-gallery/yellow_throated_sandgrouse_yetsan1/inaturalist/yellow_throated_sandgrouse_yetsan1_1",
+      "width": 1000,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 136587,
+      "attribution": {
+        "photographer": "subhashc",
+        "photographer_url": "https://www.inaturalist.org/observations/35468383",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© subhashc (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 35468383,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_sandgrouse_yetsan1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943834/bird-gallery/yellow_throated_sandgrouse_yetsan1/inaturalist/yellow_throated_sandgrouse_yetsan1_2.jpg",
+      "public_id": "bird-gallery/yellow_throated_sandgrouse_yetsan1/inaturalist/yellow_throated_sandgrouse_yetsan1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 28252,
+      "attribution": {
+        "photographer": "prairieboy",
+        "photographer_url": "https://www.inaturalist.org/observations/257875551",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© prairieboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 257875551,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_sandgrouse_yetsan1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943835/bird-gallery/yellow_throated_sandgrouse_yetsan1/inaturalist/yellow_throated_sandgrouse_yetsan1_3.jpg",
+      "public_id": "bird-gallery/yellow_throated_sandgrouse_yetsan1/inaturalist/yellow_throated_sandgrouse_yetsan1_3",
+      "width": 1024,
+      "height": 716,
+      "format": "jpg",
+      "bytes": 125326,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/100043044",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100043044,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

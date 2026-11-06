@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mountain_oriole",
+    "chinese_name": "山鹂",
+    "english_name": "Mountain Oriole",
+    "scientific_name": "Oriolus percivali"
+  },
+  "macaulay": [
+    {
+      "original_file": "mountain_oriole_110483691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941108/bird-gallery/mountain_oriole/macaulay/mountain_oriole_110483691.jpg",
+      "public_id": "bird-gallery/mountain_oriole/macaulay/mountain_oriole_110483691",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93198,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/110483691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "110483691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_oriole_147518031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941109/bird-gallery/mountain_oriole/macaulay/mountain_oriole_147518031.jpg",
+      "public_id": "bird-gallery/mountain_oriole/macaulay/mountain_oriole_147518031",
+      "width": 1200,
+      "height": 835,
+      "format": "jpg",
+      "bytes": 74921,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/147518031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "147518031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_oriole_315267421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941110/bird-gallery/mountain_oriole/macaulay/mountain_oriole_315267421.jpg",
+      "public_id": "bird-gallery/mountain_oriole/macaulay/mountain_oriole_315267421",
+      "width": 1200,
+      "height": 816,
+      "format": "jpg",
+      "bytes": 96673,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/315267421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "315267421",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mountain_oriole_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941111/bird-gallery/mountain_oriole/inaturalist/mountain_oriole_1.jpg",
+      "public_id": "bird-gallery/mountain_oriole/inaturalist/mountain_oriole_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 60250,
+      "attribution": {
+        "photographer": "jeffharding",
+        "photographer_url": "https://www.inaturalist.org/observations/145946098",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeffharding (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 145946098,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_oriole_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941112/bird-gallery/mountain_oriole/inaturalist/mountain_oriole_2.jpg",
+      "public_id": "bird-gallery/mountain_oriole/inaturalist/mountain_oriole_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 143682,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7129053",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7129053,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_oriole_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941113/bird-gallery/mountain_oriole/inaturalist/mountain_oriole_3.jpg",
+      "public_id": "bird-gallery/mountain_oriole/inaturalist/mountain_oriole_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 99601,
+      "attribution": {
+        "photographer": "owlice",
+        "photographer_url": "https://www.inaturalist.org/observations/232563382",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© owlice (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 232563382,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

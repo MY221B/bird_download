@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "hartlaubs_turaco_hartur1",
+    "chinese_name": "蓝冠蕉鹃",
+    "english_name": "Hartlaub's Turaco",
+    "scientific_name": "Tauraco hartlaubi"
+  },
+  "macaulay": [
+    {
+      "original_file": "hartlaubs_turaco_hartur1_627347062.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939776/bird-gallery/hartlaubs_turaco_hartur1/macaulay/hartlaubs_turaco_hartur1_627347062.jpg",
+      "public_id": "bird-gallery/hartlaubs_turaco_hartur1/macaulay/hartlaubs_turaco_hartur1_627347062",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 157235,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/627347062",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "627347062",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hartlaubs_turaco_hartur1_652378749.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939777/bird-gallery/hartlaubs_turaco_hartur1/macaulay/hartlaubs_turaco_hartur1_652378749.jpg",
+      "public_id": "bird-gallery/hartlaubs_turaco_hartur1/macaulay/hartlaubs_turaco_hartur1_652378749",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 133588,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/652378749",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "652378749",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hartlaubs_turaco_hartur1_665521640.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939778/bird-gallery/hartlaubs_turaco_hartur1/macaulay/hartlaubs_turaco_hartur1_665521640.jpg",
+      "public_id": "bird-gallery/hartlaubs_turaco_hartur1/macaulay/hartlaubs_turaco_hartur1_665521640",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109916,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665521640",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665521640",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hartlaubs_turaco_hartur1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939779/bird-gallery/hartlaubs_turaco_hartur1/inaturalist/hartlaubs_turaco_hartur1_1.jpg",
+      "public_id": "bird-gallery/hartlaubs_turaco_hartur1/inaturalist/hartlaubs_turaco_hartur1_1",
+      "width": 1000,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 70436,
+      "attribution": {
+        "photographer": "photokeen",
+        "photographer_url": "https://www.inaturalist.org/observations/121240404",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© photokeen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 121240404,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hartlaubs_turaco_hartur1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939780/bird-gallery/hartlaubs_turaco_hartur1/inaturalist/hartlaubs_turaco_hartur1_2.jpg",
+      "public_id": "bird-gallery/hartlaubs_turaco_hartur1/inaturalist/hartlaubs_turaco_hartur1_2",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 108233,
+      "attribution": {
+        "photographer": "garyleavens",
+        "photographer_url": "https://www.inaturalist.org/observations/209092000",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© garyleavens (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 209092000,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hartlaubs_turaco_hartur1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939781/bird-gallery/hartlaubs_turaco_hartur1/inaturalist/hartlaubs_turaco_hartur1_3.jpg",
+      "public_id": "bird-gallery/hartlaubs_turaco_hartur1/inaturalist/hartlaubs_turaco_hartur1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 125535,
+      "attribution": {
+        "photographer": "heinrichhuman",
+        "photographer_url": "https://www.inaturalist.org/observations/241505424",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© heinrichhuman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 241505424,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "marsh_owl_marowl2",
+    "chinese_name": "沼泽耳鸮",
+    "english_name": "Marsh Owl",
+    "scientific_name": "Asio capensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "marsh_owl_marowl2_225028871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939880/bird-gallery/marsh_owl_marowl2/macaulay/marsh_owl_marowl2_225028871.jpg",
+      "public_id": "bird-gallery/marsh_owl_marowl2/macaulay/marsh_owl_marowl2_225028871",
+      "width": 1085,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 373758,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/225028871",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "225028871",
+        "note": null
+      }
+    },
+    {
+      "original_file": "marsh_owl_marowl2_248533741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939881/bird-gallery/marsh_owl_marowl2/macaulay/marsh_owl_marowl2_248533741.jpg",
+      "public_id": "bird-gallery/marsh_owl_marowl2/macaulay/marsh_owl_marowl2_248533741",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 55826,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/248533741",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "248533741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "marsh_owl_marowl2_667373869.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939882/bird-gallery/marsh_owl_marowl2/macaulay/marsh_owl_marowl2_667373869.jpg",
+      "public_id": "bird-gallery/marsh_owl_marowl2/macaulay/marsh_owl_marowl2_667373869",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 63580,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/667373869",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "667373869",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "marsh_owl_marowl2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939883/bird-gallery/marsh_owl_marowl2/inaturalist/marsh_owl_marowl2_1.jpg",
+      "public_id": "bird-gallery/marsh_owl_marowl2/inaturalist/marsh_owl_marowl2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 53206,
+      "attribution": {
+        "photographer": "madeleenvanschalkwyk",
+        "photographer_url": "https://www.inaturalist.org/observations/108136427",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© madeleenvanschalkwyk (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 108136427,
+        "note": null
+      }
+    },
+    {
+      "original_file": "marsh_owl_marowl2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939884/bird-gallery/marsh_owl_marowl2/inaturalist/marsh_owl_marowl2_2.jpg",
+      "public_id": "bird-gallery/marsh_owl_marowl2/inaturalist/marsh_owl_marowl2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 18505,
+      "attribution": {
+        "photographer": "tarmand",
+        "photographer_url": "https://www.inaturalist.org/observations/173609092",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tarmand (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 173609092,
+        "note": null
+      }
+    },
+    {
+      "original_file": "marsh_owl_marowl2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939884/bird-gallery/marsh_owl_marowl2/inaturalist/marsh_owl_marowl2_3.jpg",
+      "public_id": "bird-gallery/marsh_owl_marowl2/inaturalist/marsh_owl_marowl2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 127222,
+      "attribution": {
+        "photographer": "anttanager",
+        "photographer_url": "https://www.inaturalist.org/observations/263911199",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© anttanager (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 263911199,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

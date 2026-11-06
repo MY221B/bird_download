@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "double_toothed_barbet_dotbar1",
+    "chinese_name": "双齿拟䴕",
+    "english_name": "Double-toothed Barbet",
+    "scientific_name": "Pogonornis bidentatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "double_toothed_barbet_dotbar1_286440221.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944959/bird-gallery/double_toothed_barbet_dotbar1/macaulay/double_toothed_barbet_dotbar1_286440221.jpg",
+      "public_id": "bird-gallery/double_toothed_barbet_dotbar1/macaulay/double_toothed_barbet_dotbar1_286440221",
+      "width": 1200,
+      "height": 813,
+      "format": "jpg",
+      "bytes": 90964,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/286440221",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "286440221",
+        "note": null
+      }
+    },
+    {
+      "original_file": "double_toothed_barbet_dotbar1_352413551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944960/bird-gallery/double_toothed_barbet_dotbar1/macaulay/double_toothed_barbet_dotbar1_352413551.jpg",
+      "public_id": "bird-gallery/double_toothed_barbet_dotbar1/macaulay/double_toothed_barbet_dotbar1_352413551",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 62484,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/352413551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "352413551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "double_toothed_barbet_dotbar1_76866231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944962/bird-gallery/double_toothed_barbet_dotbar1/macaulay/double_toothed_barbet_dotbar1_76866231.jpg",
+      "public_id": "bird-gallery/double_toothed_barbet_dotbar1/macaulay/double_toothed_barbet_dotbar1_76866231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74986,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/76866231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "76866231",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "double_toothed_barbet_dotbar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944963/bird-gallery/double_toothed_barbet_dotbar1/inaturalist/double_toothed_barbet_dotbar1_1.jpg",
+      "public_id": "bird-gallery/double_toothed_barbet_dotbar1/inaturalist/double_toothed_barbet_dotbar1_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 105728,
+      "attribution": {
+        "photographer": "laurakeene",
+        "photographer_url": "https://www.inaturalist.org/observations/36744423",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© laurakeene (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36744423,
+        "note": null
+      }
+    },
+    {
+      "original_file": "double_toothed_barbet_dotbar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944966/bird-gallery/double_toothed_barbet_dotbar1/inaturalist/double_toothed_barbet_dotbar1_2.jpg",
+      "public_id": "bird-gallery/double_toothed_barbet_dotbar1/inaturalist/double_toothed_barbet_dotbar1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49087,
+      "attribution": {
+        "photographer": "cerocomactif",
+        "photographer_url": "https://www.inaturalist.org/observations/257788208",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cerocomactif (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 257788208,
+        "note": null
+      }
+    },
+    {
+      "original_file": "double_toothed_barbet_dotbar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944967/bird-gallery/double_toothed_barbet_dotbar1/inaturalist/double_toothed_barbet_dotbar1_3.jpg",
+      "public_id": "bird-gallery/double_toothed_barbet_dotbar1/inaturalist/double_toothed_barbet_dotbar1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 68257,
+      "attribution": {
+        "photographer": "neotrigonia",
+        "photographer_url": "https://www.inaturalist.org/observations/9753071",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© neotrigonia (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 9753071,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

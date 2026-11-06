@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "short_tailed_lark_shtlar1",
+    "chinese_name": "短尾百灵",
+    "english_name": "Short-tailed Lark",
+    "scientific_name": "Spizocorys fremantlii"
+  },
+  "macaulay": [
+    {
+      "original_file": "short_tailed_lark_shtlar1_205490551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940183/bird-gallery/short_tailed_lark_shtlar1/macaulay/short_tailed_lark_shtlar1_205490551.jpg",
+      "public_id": "bird-gallery/short_tailed_lark_shtlar1/macaulay/short_tailed_lark_shtlar1_205490551",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 94478,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205490551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205490551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_tailed_lark_shtlar1_209536681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940184/bird-gallery/short_tailed_lark_shtlar1/macaulay/short_tailed_lark_shtlar1_209536681.jpg",
+      "public_id": "bird-gallery/short_tailed_lark_shtlar1/macaulay/short_tailed_lark_shtlar1_209536681",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 163805,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/209536681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "209536681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_tailed_lark_shtlar1_623438133.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940185/bird-gallery/short_tailed_lark_shtlar1/macaulay/short_tailed_lark_shtlar1_623438133.jpg",
+      "public_id": "bird-gallery/short_tailed_lark_shtlar1/macaulay/short_tailed_lark_shtlar1_623438133",
+      "width": 1200,
+      "height": 913,
+      "format": "jpg",
+      "bytes": 157748,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/623438133",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "623438133",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "short_tailed_lark_shtlar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940186/bird-gallery/short_tailed_lark_shtlar1/inaturalist/short_tailed_lark_shtlar1_1.jpg",
+      "public_id": "bird-gallery/short_tailed_lark_shtlar1/inaturalist/short_tailed_lark_shtlar1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 98434,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/103366193",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103366193,
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_tailed_lark_shtlar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940187/bird-gallery/short_tailed_lark_shtlar1/inaturalist/short_tailed_lark_shtlar1_2.jpg",
+      "public_id": "bird-gallery/short_tailed_lark_shtlar1/inaturalist/short_tailed_lark_shtlar1_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 80938,
+      "attribution": {
+        "photographer": "liamhutcheson",
+        "photographer_url": "https://www.inaturalist.org/observations/335922202",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© liamhutcheson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 335922202,
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_tailed_lark_shtlar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940188/bird-gallery/short_tailed_lark_shtlar1/inaturalist/short_tailed_lark_shtlar1_3.jpg",
+      "public_id": "bird-gallery/short_tailed_lark_shtlar1/inaturalist/short_tailed_lark_shtlar1_3",
+      "width": 1024,
+      "height": 831,
+      "format": "jpg",
+      "bytes": 86516,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/348431335",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 348431335,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

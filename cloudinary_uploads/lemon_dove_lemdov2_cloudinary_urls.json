@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "lemon_dove_lemdov2",
+    "chinese_name": "非洲鸽",
+    "english_name": "Lemon Dove",
+    "scientific_name": "Aplopelia larvata"
+  },
+  "macaulay": [
+    {
+      "original_file": "lemon_dove_lemdov2_213261101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940859/bird-gallery/lemon_dove_lemdov2/macaulay/lemon_dove_lemdov2_213261101.jpg",
+      "public_id": "bird-gallery/lemon_dove_lemdov2/macaulay/lemon_dove_lemdov2_213261101",
+      "width": 1200,
+      "height": 864,
+      "format": "jpg",
+      "bytes": 135102,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/213261101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "213261101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lemon_dove_lemdov2_34552961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940860/bird-gallery/lemon_dove_lemdov2/macaulay/lemon_dove_lemdov2_34552961.jpg",
+      "public_id": "bird-gallery/lemon_dove_lemdov2/macaulay/lemon_dove_lemdov2_34552961",
+      "width": 1200,
+      "height": 761,
+      "format": "jpg",
+      "bytes": 77422,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/34552961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "34552961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lemon_dove_lemdov2_490034611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940861/bird-gallery/lemon_dove_lemdov2/macaulay/lemon_dove_lemdov2_490034611.jpg",
+      "public_id": "bird-gallery/lemon_dove_lemdov2/macaulay/lemon_dove_lemdov2_490034611",
+      "width": 1200,
+      "height": 941,
+      "format": "jpg",
+      "bytes": 132061,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/490034611",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "490034611",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "lemon_dove_lemdov2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940862/bird-gallery/lemon_dove_lemdov2/inaturalist/lemon_dove_lemdov2_1.jpg",
+      "public_id": "bird-gallery/lemon_dove_lemdov2/inaturalist/lemon_dove_lemdov2_1",
+      "width": 1024,
+      "height": 847,
+      "format": "jpg",
+      "bytes": 51110,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/254005307",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 254005307,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lemon_dove_lemdov2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940862/bird-gallery/lemon_dove_lemdov2/inaturalist/lemon_dove_lemdov2_2.jpg",
+      "public_id": "bird-gallery/lemon_dove_lemdov2/inaturalist/lemon_dove_lemdov2_2",
+      "width": 1000,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 161759,
+      "attribution": {
+        "photographer": "davemangham",
+        "photographer_url": "https://www.inaturalist.org/observations/111129259",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© davemangham (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 111129259,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lemon_dove_lemdov2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940863/bird-gallery/lemon_dove_lemdov2/inaturalist/lemon_dove_lemdov2_3.jpg",
+      "public_id": "bird-gallery/lemon_dove_lemdov2/inaturalist/lemon_dove_lemdov2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55506,
+      "attribution": {
+        "photographer": "arthur_chapman",
+        "photographer_url": "https://www.inaturalist.org/observations/51954562",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© arthur_chapman (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 51954562,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

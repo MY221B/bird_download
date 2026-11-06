@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "brown_crowned_tchagra_brctch1",
+    "chinese_name": "褐冠红翅鵙",
+    "english_name": "Brown-crowned Tchagra",
+    "scientific_name": "Tchagra australis"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_crowned_tchagra_brctch1_204292361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939457/bird-gallery/brown_crowned_tchagra_brctch1/macaulay/brown_crowned_tchagra_brctch1_204292361.jpg",
+      "public_id": "bird-gallery/brown_crowned_tchagra_brctch1/macaulay/brown_crowned_tchagra_brctch1_204292361",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67377,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204292361",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204292361",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_crowned_tchagra_brctch1_206157501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939458/bird-gallery/brown_crowned_tchagra_brctch1/macaulay/brown_crowned_tchagra_brctch1_206157501.jpg",
+      "public_id": "bird-gallery/brown_crowned_tchagra_brctch1/macaulay/brown_crowned_tchagra_brctch1_206157501",
+      "width": 1152,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 90537,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206157501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206157501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_crowned_tchagra_brctch1_247482461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939459/bird-gallery/brown_crowned_tchagra_brctch1/macaulay/brown_crowned_tchagra_brctch1_247482461.jpg",
+      "public_id": "bird-gallery/brown_crowned_tchagra_brctch1/macaulay/brown_crowned_tchagra_brctch1_247482461",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 89165,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/247482461",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "247482461",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_crowned_tchagra_brctch1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939460/bird-gallery/brown_crowned_tchagra_brctch1/inaturalist/brown_crowned_tchagra_brctch1_1.jpg",
+      "public_id": "bird-gallery/brown_crowned_tchagra_brctch1/inaturalist/brown_crowned_tchagra_brctch1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 95045,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/19551158",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 19551158,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_crowned_tchagra_brctch1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939462/bird-gallery/brown_crowned_tchagra_brctch1/inaturalist/brown_crowned_tchagra_brctch1_2.jpg",
+      "public_id": "bird-gallery/brown_crowned_tchagra_brctch1/inaturalist/brown_crowned_tchagra_brctch1_2",
+      "width": 1024,
+      "height": 844,
+      "format": "jpg",
+      "bytes": 100786,
+      "attribution": {
+        "photographer": "tonyrebelo",
+        "photographer_url": "https://www.inaturalist.org/observations/85011384",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© tonyrebelo (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 85011384,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_crowned_tchagra_brctch1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939463/bird-gallery/brown_crowned_tchagra_brctch1/inaturalist/brown_crowned_tchagra_brctch1_3.jpg",
+      "public_id": "bird-gallery/brown_crowned_tchagra_brctch1/inaturalist/brown_crowned_tchagra_brctch1_3",
+      "width": 1024,
+      "height": 956,
+      "format": "jpg",
+      "bytes": 180183,
+      "attribution": {
+        "photographer": "helenbad",
+        "photographer_url": "https://www.inaturalist.org/observations/183622099",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© helenbad (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 183622099,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

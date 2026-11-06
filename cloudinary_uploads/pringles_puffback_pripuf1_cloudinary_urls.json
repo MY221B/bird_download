@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "pringles_puffback_pripuf1",
+    "chinese_name": "普氏篷背鵙",
+    "english_name": "Pringle's Puffback",
+    "scientific_name": "Dryoscopus pringlii"
+  },
+  "macaulay": [
+    {
+      "original_file": "pringles_puffback_pripuf1_205464451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944074/bird-gallery/pringles_puffback_pripuf1/macaulay/pringles_puffback_pripuf1_205464451.jpg",
+      "public_id": "bird-gallery/pringles_puffback_pripuf1/macaulay/pringles_puffback_pripuf1_205464451",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 60973,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205464451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205464451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pringles_puffback_pripuf1_32401681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944075/bird-gallery/pringles_puffback_pripuf1/macaulay/pringles_puffback_pripuf1_32401681.jpg",
+      "public_id": "bird-gallery/pringles_puffback_pripuf1/macaulay/pringles_puffback_pripuf1_32401681",
+      "width": 1200,
+      "height": 689,
+      "format": "jpg",
+      "bytes": 56782,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32401681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32401681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pringles_puffback_pripuf1_33610851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944076/bird-gallery/pringles_puffback_pripuf1/macaulay/pringles_puffback_pripuf1_33610851.jpg",
+      "public_id": "bird-gallery/pringles_puffback_pripuf1/macaulay/pringles_puffback_pripuf1_33610851",
+      "width": 1200,
+      "height": 712,
+      "format": "jpg",
+      "bytes": 63027,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33610851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33610851",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pringles_puffback_pripuf1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944077/bird-gallery/pringles_puffback_pripuf1/inaturalist/pringles_puffback_pripuf1_1.jpg",
+      "public_id": "bird-gallery/pringles_puffback_pripuf1/inaturalist/pringles_puffback_pripuf1_1",
+      "width": 1024,
+      "height": 747,
+      "format": "jpg",
+      "bytes": 101608,
+      "attribution": {
+        "photographer": "asalafa_deri",
+        "photographer_url": "https://www.inaturalist.org/observations/164801557",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asalafa_deri (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 164801557,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pringles_puffback_pripuf1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944078/bird-gallery/pringles_puffback_pripuf1/inaturalist/pringles_puffback_pripuf1_2.jpg",
+      "public_id": "bird-gallery/pringles_puffback_pripuf1/inaturalist/pringles_puffback_pripuf1_2",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 73616,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/10086525",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10086525,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pringles_puffback_pripuf1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944078/bird-gallery/pringles_puffback_pripuf1/inaturalist/pringles_puffback_pripuf1_3.jpg",
+      "public_id": "bird-gallery/pringles_puffback_pripuf1/inaturalist/pringles_puffback_pripuf1_3",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 64515,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/34911442",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34911442,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

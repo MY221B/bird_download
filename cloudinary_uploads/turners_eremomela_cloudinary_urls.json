@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "turners_eremomela",
+    "chinese_name": "特氏孤莺",
+    "english_name": "Turner's Eremomela",
+    "scientific_name": "Eremomela turneri"
+  },
+  "macaulay": [
+    {
+      "original_file": "turners_eremomela_136882391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944781/bird-gallery/turners_eremomela/macaulay/turners_eremomela_136882391.jpg",
+      "public_id": "bird-gallery/turners_eremomela/macaulay/turners_eremomela_136882391",
+      "width": 1200,
+      "height": 874,
+      "format": "jpg",
+      "bytes": 77501,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136882391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136882391",
+        "note": null
+      }
+    },
+    {
+      "original_file": "turners_eremomela_160050401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944782/bird-gallery/turners_eremomela/macaulay/turners_eremomela_160050401.jpg",
+      "public_id": "bird-gallery/turners_eremomela/macaulay/turners_eremomela_160050401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 101991,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/160050401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "160050401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "turners_eremomela_160050411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944783/bird-gallery/turners_eremomela/macaulay/turners_eremomela_160050411.jpg",
+      "public_id": "bird-gallery/turners_eremomela/macaulay/turners_eremomela_160050411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87621,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/160050411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "160050411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "turners_eremomela_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944784/bird-gallery/turners_eremomela/inaturalist/turners_eremomela_1.jpg",
+      "public_id": "bird-gallery/turners_eremomela/inaturalist/turners_eremomela_1",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 113201,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/254295945",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 254295945,
+        "note": null
+      }
+    },
+    {
+      "original_file": "turners_eremomela_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944785/bird-gallery/turners_eremomela/inaturalist/turners_eremomela_2.jpg",
+      "public_id": "bird-gallery/turners_eremomela/inaturalist/turners_eremomela_2",
+      "width": 368,
+      "height": 344,
+      "format": "jpg",
+      "bytes": 20005,
+      "attribution": {
+        "photographer": "stevecollins",
+        "photographer_url": "https://www.inaturalist.org/observations/242214225",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© stevecollins (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 242214225,
+        "note": null
+      }
+    },
+    {
+      "original_file": "turners_eremomela_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944786/bird-gallery/turners_eremomela/inaturalist/turners_eremomela_3.jpg",
+      "public_id": "bird-gallery/turners_eremomela/inaturalist/turners_eremomela_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 177308,
+      "attribution": {
+        "photographer": "denisgrange",
+        "photographer_url": "https://www.inaturalist.org/observations/312472165",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© denisgrange (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 312472165,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

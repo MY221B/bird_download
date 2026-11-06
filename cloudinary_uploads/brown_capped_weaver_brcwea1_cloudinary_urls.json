@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "brown_capped_weaver_brcwea1",
+    "chinese_name": "褐顶织雀",
+    "english_name": "Brown-capped Weaver",
+    "scientific_name": "Ploceus insignis"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_capped_weaver_brcwea1_204297181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941118/bird-gallery/brown_capped_weaver_brcwea1/macaulay/brown_capped_weaver_brcwea1_204297181.jpg",
+      "public_id": "bird-gallery/brown_capped_weaver_brcwea1/macaulay/brown_capped_weaver_brcwea1_204297181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117159,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204297181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204297181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_capped_weaver_brcwea1_214007281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941119/bird-gallery/brown_capped_weaver_brcwea1/macaulay/brown_capped_weaver_brcwea1_214007281.jpg",
+      "public_id": "bird-gallery/brown_capped_weaver_brcwea1/macaulay/brown_capped_weaver_brcwea1_214007281",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 75566,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/214007281",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "214007281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_capped_weaver_brcwea1_266173691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941120/bird-gallery/brown_capped_weaver_brcwea1/macaulay/brown_capped_weaver_brcwea1_266173691.jpg",
+      "public_id": "bird-gallery/brown_capped_weaver_brcwea1/macaulay/brown_capped_weaver_brcwea1_266173691",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 64532,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/266173691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "266173691",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_capped_weaver_brcwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941121/bird-gallery/brown_capped_weaver_brcwea1/inaturalist/brown_capped_weaver_brcwea1_1.jpg",
+      "public_id": "bird-gallery/brown_capped_weaver_brcwea1/inaturalist/brown_capped_weaver_brcwea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 158989,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/137443374",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 137443374,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_capped_weaver_brcwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941122/bird-gallery/brown_capped_weaver_brcwea1/inaturalist/brown_capped_weaver_brcwea1_2.jpg",
+      "public_id": "bird-gallery/brown_capped_weaver_brcwea1/inaturalist/brown_capped_weaver_brcwea1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 104305,
+      "attribution": {
+        "photographer": "fernandoul",
+        "photographer_url": "https://www.inaturalist.org/observations/207624976",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fernandoul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 207624976,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_capped_weaver_brcwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941123/bird-gallery/brown_capped_weaver_brcwea1/inaturalist/brown_capped_weaver_brcwea1_3.jpg",
+      "public_id": "bird-gallery/brown_capped_weaver_brcwea1/inaturalist/brown_capped_weaver_brcwea1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 52240,
+      "attribution": {
+        "photographer": "max_hof_mann",
+        "photographer_url": "https://www.inaturalist.org/observations/256698514",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© max_hof_mann (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 256698514,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

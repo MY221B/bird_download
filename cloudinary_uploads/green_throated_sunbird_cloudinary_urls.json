@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "green_throated_sunbird",
+    "chinese_name": "绿喉花蜜鸟",
+    "english_name": "Green-throated Sunbird",
+    "scientific_name": "Chalcomitra rubescens"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_throated_sunbird_455730831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944587/bird-gallery/green_throated_sunbird/macaulay/green_throated_sunbird_455730831.jpg",
+      "public_id": "bird-gallery/green_throated_sunbird/macaulay/green_throated_sunbird_455730831",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 128083,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/455730831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "455730831",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_throated_sunbird_647409029.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944588/bird-gallery/green_throated_sunbird/macaulay/green_throated_sunbird_647409029.jpg",
+      "public_id": "bird-gallery/green_throated_sunbird/macaulay/green_throated_sunbird_647409029",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85617,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/647409029",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "647409029",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_throated_sunbird_648365683.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944589/bird-gallery/green_throated_sunbird/macaulay/green_throated_sunbird_648365683.jpg",
+      "public_id": "bird-gallery/green_throated_sunbird/macaulay/green_throated_sunbird_648365683",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 91624,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/648365683",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "648365683",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_throated_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944590/bird-gallery/green_throated_sunbird/inaturalist/green_throated_sunbird_1.jpg",
+      "public_id": "bird-gallery/green_throated_sunbird/inaturalist/green_throated_sunbird_1",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 72852,
+      "attribution": {
+        "photographer": "dan_cawley",
+        "photographer_url": "https://www.inaturalist.org/observations/4665688",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dan_cawley (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 4665688,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_throated_sunbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944591/bird-gallery/green_throated_sunbird/inaturalist/green_throated_sunbird_2.jpg",
+      "public_id": "bird-gallery/green_throated_sunbird/inaturalist/green_throated_sunbird_2",
+      "width": 750,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 140401,
+      "attribution": {
+        "photographer": "photokeen",
+        "photographer_url": "https://www.inaturalist.org/observations/159716319",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© photokeen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 159716319,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_throated_sunbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944592/bird-gallery/green_throated_sunbird/inaturalist/green_throated_sunbird_3.jpg",
+      "public_id": "bird-gallery/green_throated_sunbird/inaturalist/green_throated_sunbird_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 113425,
+      "attribution": {
+        "photographer": "sultanedeshatti",
+        "photographer_url": "https://www.inaturalist.org/observations/151590964",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sultanedeshatti (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 151590964,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

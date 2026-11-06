@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_fronted_plover_whfplo1",
+    "chinese_name": "白额沙鸻",
+    "english_name": "White-fronted Plover",
+    "scientific_name": "Anarhynchus marginatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_fronted_plover_whfplo1_275971821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945510/bird-gallery/white_fronted_plover_whfplo1/macaulay/white_fronted_plover_whfplo1_275971821.jpg",
+      "public_id": "bird-gallery/white_fronted_plover_whfplo1/macaulay/white_fronted_plover_whfplo1_275971821",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 45446,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/275971821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "275971821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_plover_whfplo1_523065861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945511/bird-gallery/white_fronted_plover_whfplo1/macaulay/white_fronted_plover_whfplo1_523065861.jpg",
+      "public_id": "bird-gallery/white_fronted_plover_whfplo1/macaulay/white_fronted_plover_whfplo1_523065861",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 39455,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/523065861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "523065861",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_plover_whfplo1_523659951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945513/bird-gallery/white_fronted_plover_whfplo1/macaulay/white_fronted_plover_whfplo1_523659951.jpg",
+      "public_id": "bird-gallery/white_fronted_plover_whfplo1/macaulay/white_fronted_plover_whfplo1_523659951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 37100,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/523659951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "523659951",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_fronted_plover_whfplo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945514/bird-gallery/white_fronted_plover_whfplo1/inaturalist/white_fronted_plover_whfplo1_1.jpg",
+      "public_id": "bird-gallery/white_fronted_plover_whfplo1/inaturalist/white_fronted_plover_whfplo1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 52515,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/70835428",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 70835428,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_plover_whfplo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945515/bird-gallery/white_fronted_plover_whfplo1/inaturalist/white_fronted_plover_whfplo1_2.jpg",
+      "public_id": "bird-gallery/white_fronted_plover_whfplo1/inaturalist/white_fronted_plover_whfplo1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 88606,
+      "attribution": {
+        "photographer": "ecowild",
+        "photographer_url": "https://www.inaturalist.org/observations/281557587",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ecowild (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 281557587,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_fronted_plover_whfplo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945515/bird-gallery/white_fronted_plover_whfplo1/inaturalist/white_fronted_plover_whfplo1_3.jpg",
+      "public_id": "bird-gallery/white_fronted_plover_whfplo1/inaturalist/white_fronted_plover_whfplo1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 115484,
+      "attribution": {
+        "photographer": "russell277",
+        "photographer_url": "https://www.inaturalist.org/observations/158243316",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© russell277 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 158243316,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

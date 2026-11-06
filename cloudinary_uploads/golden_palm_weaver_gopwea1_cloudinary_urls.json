@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "golden_palm_weaver_gopwea1",
+    "chinese_name": "橙头织雀",
+    "english_name": "Golden Palm Weaver",
+    "scientific_name": "Ploceus bojeri"
+  },
+  "macaulay": [
+    {
+      "original_file": "golden_palm_weaver_gopwea1_206082421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944035/bird-gallery/golden_palm_weaver_gopwea1/macaulay/golden_palm_weaver_gopwea1_206082421.jpg",
+      "public_id": "bird-gallery/golden_palm_weaver_gopwea1/macaulay/golden_palm_weaver_gopwea1_206082421",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 110571,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206082421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206082421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_palm_weaver_gopwea1_284595251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944036/bird-gallery/golden_palm_weaver_gopwea1/macaulay/golden_palm_weaver_gopwea1_284595251.jpg",
+      "public_id": "bird-gallery/golden_palm_weaver_gopwea1/macaulay/golden_palm_weaver_gopwea1_284595251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 52447,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/284595251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "284595251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_palm_weaver_gopwea1_625192861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944036/bird-gallery/golden_palm_weaver_gopwea1/macaulay/golden_palm_weaver_gopwea1_625192861.jpg",
+      "public_id": "bird-gallery/golden_palm_weaver_gopwea1/macaulay/golden_palm_weaver_gopwea1_625192861",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85022,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/625192861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "625192861",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "golden_palm_weaver_gopwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944037/bird-gallery/golden_palm_weaver_gopwea1/inaturalist/golden_palm_weaver_gopwea1_1.jpg",
+      "public_id": "bird-gallery/golden_palm_weaver_gopwea1/inaturalist/golden_palm_weaver_gopwea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 60705,
+      "attribution": {
+        "photographer": "zach63671",
+        "photographer_url": "https://www.inaturalist.org/observations/381369560",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© zach63671 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 381369560,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_palm_weaver_gopwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944038/bird-gallery/golden_palm_weaver_gopwea1/inaturalist/golden_palm_weaver_gopwea1_2.jpg",
+      "public_id": "bird-gallery/golden_palm_weaver_gopwea1/inaturalist/golden_palm_weaver_gopwea1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 134005,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/255775437",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255775437,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_palm_weaver_gopwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944039/bird-gallery/golden_palm_weaver_gopwea1/inaturalist/golden_palm_weaver_gopwea1_3.jpg",
+      "public_id": "bird-gallery/golden_palm_weaver_gopwea1/inaturalist/golden_palm_weaver_gopwea1_3",
+      "width": 761,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 125480,
+      "attribution": {
+        "photographer": "kccambria",
+        "photographer_url": "https://www.inaturalist.org/observations/167302697",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kccambria (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 167302697,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

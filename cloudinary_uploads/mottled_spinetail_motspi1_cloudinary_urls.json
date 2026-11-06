@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mottled_spinetail_motspi1",
+    "chinese_name": "斑喉针尾雨燕",
+    "english_name": "Mottled Spinetail",
+    "scientific_name": "Telacanthura ussheri"
+  },
+  "macaulay": [
+    {
+      "original_file": "mottled_spinetail_motspi1_205987371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944045/bird-gallery/mottled_spinetail_motspi1/macaulay/mottled_spinetail_motspi1_205987371.jpg",
+      "public_id": "bird-gallery/mottled_spinetail_motspi1/macaulay/mottled_spinetail_motspi1_205987371",
+      "width": 1000,
+      "height": 717,
+      "format": "jpg",
+      "bytes": 17060,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205987371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205987371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mottled_spinetail_motspi1_206085161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944046/bird-gallery/mottled_spinetail_motspi1/macaulay/mottled_spinetail_motspi1_206085161.jpg",
+      "public_id": "bird-gallery/mottled_spinetail_motspi1/macaulay/mottled_spinetail_motspi1_206085161",
+      "width": 850,
+      "height": 566,
+      "format": "jpg",
+      "bytes": 32792,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206085161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206085161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mottled_spinetail_motspi1_206085171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944046/bird-gallery/mottled_spinetail_motspi1/macaulay/mottled_spinetail_motspi1_206085171.jpg",
+      "public_id": "bird-gallery/mottled_spinetail_motspi1/macaulay/mottled_spinetail_motspi1_206085171",
+      "width": 850,
+      "height": 567,
+      "format": "jpg",
+      "bytes": 13510,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206085171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206085171",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mottled_spinetail_motspi1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944047/bird-gallery/mottled_spinetail_motspi1/inaturalist/mottled_spinetail_motspi1_1.jpg",
+      "public_id": "bird-gallery/mottled_spinetail_motspi1/inaturalist/mottled_spinetail_motspi1_1",
+      "width": 721,
+      "height": 573,
+      "format": "jpg",
+      "bytes": 12033,
+      "attribution": {
+        "photographer": "richard_johnstone",
+        "photographer_url": "https://www.inaturalist.org/observations/188041959",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richard_johnstone (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 188041959,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mottled_spinetail_motspi1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944048/bird-gallery/mottled_spinetail_motspi1/inaturalist/mottled_spinetail_motspi1_2.jpg",
+      "public_id": "bird-gallery/mottled_spinetail_motspi1/inaturalist/mottled_spinetail_motspi1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 8173,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/196678656",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 196678656,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mottled_spinetail_motspi1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944049/bird-gallery/mottled_spinetail_motspi1/inaturalist/mottled_spinetail_motspi1_3.jpg",
+      "public_id": "bird-gallery/mottled_spinetail_motspi1/inaturalist/mottled_spinetail_motspi1_3",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 10028,
+      "attribution": {
+        "photographer": "tomheijnen",
+        "photographer_url": "https://www.inaturalist.org/observations/256104123",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tomheijnen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 256104123,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

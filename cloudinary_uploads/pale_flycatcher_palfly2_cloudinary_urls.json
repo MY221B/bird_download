@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "pale_flycatcher_palfly2",
+    "chinese_name": "苍色鹟",
+    "english_name": "Pale Flycatcher",
+    "scientific_name": "Agricola pallidus"
+  },
+  "macaulay": [
+    {
+      "original_file": "pale_flycatcher_palfly2_205959801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939940/bird-gallery/pale_flycatcher_palfly2/macaulay/pale_flycatcher_palfly2_205959801.jpg",
+      "public_id": "bird-gallery/pale_flycatcher_palfly2/macaulay/pale_flycatcher_palfly2_205959801",
+      "width": 1000,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 96200,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205959801",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205959801",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_flycatcher_palfly2_251827471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939941/bird-gallery/pale_flycatcher_palfly2/macaulay/pale_flycatcher_palfly2_251827471.jpg",
+      "public_id": "bird-gallery/pale_flycatcher_palfly2/macaulay/pale_flycatcher_palfly2_251827471",
+      "width": 1200,
+      "height": 871,
+      "format": "jpg",
+      "bytes": 76319,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/251827471",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "251827471",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_flycatcher_palfly2_46879401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939942/bird-gallery/pale_flycatcher_palfly2/macaulay/pale_flycatcher_palfly2_46879401.jpg",
+      "public_id": "bird-gallery/pale_flycatcher_palfly2/macaulay/pale_flycatcher_palfly2_46879401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64977,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/46879401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "46879401",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pale_flycatcher_palfly2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939944/bird-gallery/pale_flycatcher_palfly2/inaturalist/pale_flycatcher_palfly2_1.jpg",
+      "public_id": "bird-gallery/pale_flycatcher_palfly2/inaturalist/pale_flycatcher_palfly2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78445,
+      "attribution": {
+        "photographer": "marynvdlaarse",
+        "photographer_url": "https://www.inaturalist.org/observations/325666039",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marynvdlaarse (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 325666039,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_flycatcher_palfly2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939944/bird-gallery/pale_flycatcher_palfly2/inaturalist/pale_flycatcher_palfly2_2.jpg",
+      "public_id": "bird-gallery/pale_flycatcher_palfly2/inaturalist/pale_flycatcher_palfly2_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 149400,
+      "attribution": {
+        "photographer": "bastiaan",
+        "photographer_url": "https://www.inaturalist.org/observations/17537346",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bastiaan (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 17537346,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_flycatcher_palfly2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939945/bird-gallery/pale_flycatcher_palfly2/inaturalist/pale_flycatcher_palfly2_3.jpg",
+      "public_id": "bird-gallery/pale_flycatcher_palfly2/inaturalist/pale_flycatcher_palfly2_3",
+      "width": 1024,
+      "height": 991,
+      "format": "jpg",
+      "bytes": 146469,
+      "attribution": {
+        "photographer": "benkeen",
+        "photographer_url": "https://www.inaturalist.org/observations/191589057",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© benkeen (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 191589057,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

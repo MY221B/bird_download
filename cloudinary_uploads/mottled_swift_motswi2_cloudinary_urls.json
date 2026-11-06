@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mottled_swift_motswi2",
+    "chinese_name": "杂斑雨燕",
+    "english_name": "Mottled Swift",
+    "scientific_name": "Tachymarptis aequatorialis"
+  },
+  "macaulay": [
+    {
+      "original_file": "mottled_swift_motswi2_205987391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939905/bird-gallery/mottled_swift_motswi2/macaulay/mottled_swift_motswi2_205987391.jpg",
+      "public_id": "bird-gallery/mottled_swift_motswi2/macaulay/mottled_swift_motswi2_205987391",
+      "width": 1000,
+      "height": 704,
+      "format": "jpg",
+      "bytes": 21841,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205987391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205987391",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mottled_swift_motswi2_205987401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939906/bird-gallery/mottled_swift_motswi2/macaulay/mottled_swift_motswi2_205987401.jpg",
+      "public_id": "bird-gallery/mottled_swift_motswi2/macaulay/mottled_swift_motswi2_205987401",
+      "width": 800,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 21537,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205987401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205987401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mottled_swift_motswi2_614413517.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939907/bird-gallery/mottled_swift_motswi2/macaulay/mottled_swift_motswi2_614413517.jpg",
+      "public_id": "bird-gallery/mottled_swift_motswi2/macaulay/mottled_swift_motswi2_614413517",
+      "width": 1200,
+      "height": 918,
+      "format": "jpg",
+      "bytes": 32874,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614413517",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614413517",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mottled_swift_motswi2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939908/bird-gallery/mottled_swift_motswi2/inaturalist/mottled_swift_motswi2_1.jpg",
+      "public_id": "bird-gallery/mottled_swift_motswi2/inaturalist/mottled_swift_motswi2_1",
+      "width": 1024,
+      "height": 636,
+      "format": "jpg",
+      "bytes": 8235,
+      "attribution": {
+        "photographer": "wimvz",
+        "photographer_url": "https://www.inaturalist.org/observations/66976435",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wimvz (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66976435,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mottled_swift_motswi2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939909/bird-gallery/mottled_swift_motswi2/inaturalist/mottled_swift_motswi2_2.jpg",
+      "public_id": "bird-gallery/mottled_swift_motswi2/inaturalist/mottled_swift_motswi2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 17873,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7132122",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7132122,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mottled_swift_motswi2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939909/bird-gallery/mottled_swift_motswi2/inaturalist/mottled_swift_motswi2_3.jpg",
+      "public_id": "bird-gallery/mottled_swift_motswi2/inaturalist/mottled_swift_motswi2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 16800,
+      "attribution": {
+        "photographer": "tiagotg7",
+        "photographer_url": "https://www.inaturalist.org/observations/179803142",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tiagotg7 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 179803142,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

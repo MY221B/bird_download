@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "blue_headed_coucal_blhcou2",
+    "chinese_name": "蓝头鸦鹃",
+    "english_name": "Blue-headed Coucal",
+    "scientific_name": "Centropus monachus"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_headed_coucal_blhcou2_204761591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944922/bird-gallery/blue_headed_coucal_blhcou2/macaulay/blue_headed_coucal_blhcou2_204761591.jpg",
+      "public_id": "bird-gallery/blue_headed_coucal_blhcou2/macaulay/blue_headed_coucal_blhcou2_204761591",
+      "width": 741,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 65932,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204761591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204761591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_headed_coucal_blhcou2_222488721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944923/bird-gallery/blue_headed_coucal_blhcou2/macaulay/blue_headed_coucal_blhcou2_222488721.jpg",
+      "public_id": "bird-gallery/blue_headed_coucal_blhcou2/macaulay/blue_headed_coucal_blhcou2_222488721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 140595,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/222488721",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "222488721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_headed_coucal_blhcou2_286439801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944924/bird-gallery/blue_headed_coucal_blhcou2/macaulay/blue_headed_coucal_blhcou2_286439801.jpg",
+      "public_id": "bird-gallery/blue_headed_coucal_blhcou2/macaulay/blue_headed_coucal_blhcou2_286439801",
+      "width": 1200,
+      "height": 804,
+      "format": "jpg",
+      "bytes": 183306,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/286439801",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "286439801",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_headed_coucal_blhcou2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944925/bird-gallery/blue_headed_coucal_blhcou2/inaturalist/blue_headed_coucal_blhcou2_1.jpg",
+      "public_id": "bird-gallery/blue_headed_coucal_blhcou2/inaturalist/blue_headed_coucal_blhcou2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64448,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/332167366",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 332167366,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_headed_coucal_blhcou2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944926/bird-gallery/blue_headed_coucal_blhcou2/inaturalist/blue_headed_coucal_blhcou2_2.jpg",
+      "public_id": "bird-gallery/blue_headed_coucal_blhcou2/inaturalist/blue_headed_coucal_blhcou2_2",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 97932,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/103955502",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 103955502,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_headed_coucal_blhcou2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944927/bird-gallery/blue_headed_coucal_blhcou2/inaturalist/blue_headed_coucal_blhcou2_3.jpg",
+      "public_id": "bird-gallery/blue_headed_coucal_blhcou2/inaturalist/blue_headed_coucal_blhcou2_3",
+      "width": 1024,
+      "height": 906,
+      "format": "jpg",
+      "bytes": 60454,
+      "attribution": {
+        "photographer": "lucclaes",
+        "photographer_url": "https://www.inaturalist.org/observations/412143148",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lucclaes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 412143148,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

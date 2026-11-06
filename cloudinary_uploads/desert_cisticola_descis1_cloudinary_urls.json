@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "desert_cisticola_descis1",
+    "chinese_name": "漠扇尾莺",
+    "english_name": "Desert Cisticola",
+    "scientific_name": "Cisticola aridulus"
+  },
+  "macaulay": [
+    {
+      "original_file": "desert_cisticola_descis1_168597281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939679/bird-gallery/desert_cisticola_descis1/macaulay/desert_cisticola_descis1_168597281.jpg",
+      "public_id": "bird-gallery/desert_cisticola_descis1/macaulay/desert_cisticola_descis1_168597281",
+      "width": 1200,
+      "height": 864,
+      "format": "jpg",
+      "bytes": 53769,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/168597281",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "168597281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "desert_cisticola_descis1_182557121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939680/bird-gallery/desert_cisticola_descis1/macaulay/desert_cisticola_descis1_182557121.jpg",
+      "public_id": "bird-gallery/desert_cisticola_descis1/macaulay/desert_cisticola_descis1_182557121",
+      "width": 1200,
+      "height": 867,
+      "format": "jpg",
+      "bytes": 39407,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/182557121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "182557121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "desert_cisticola_descis1_538021831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939681/bird-gallery/desert_cisticola_descis1/macaulay/desert_cisticola_descis1_538021831.jpg",
+      "public_id": "bird-gallery/desert_cisticola_descis1/macaulay/desert_cisticola_descis1_538021831",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 36455,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/538021831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "538021831",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "desert_cisticola_descis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939681/bird-gallery/desert_cisticola_descis1/inaturalist/desert_cisticola_descis1_1.jpg",
+      "public_id": "bird-gallery/desert_cisticola_descis1/inaturalist/desert_cisticola_descis1_1",
+      "width": 874,
+      "height": 719,
+      "format": "jpg",
+      "bytes": 57405,
+      "attribution": {
+        "photographer": "maritzasouthafrica",
+        "photographer_url": "https://www.inaturalist.org/observations/110264121",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maritzasouthafrica (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 110264121,
+        "note": null
+      }
+    },
+    {
+      "original_file": "desert_cisticola_descis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939683/bird-gallery/desert_cisticola_descis1/inaturalist/desert_cisticola_descis1_2.jpg",
+      "public_id": "bird-gallery/desert_cisticola_descis1/inaturalist/desert_cisticola_descis1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 32463,
+      "attribution": {
+        "photographer": "dewald2",
+        "photographer_url": "https://www.inaturalist.org/observations/73197609",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dewald2 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 73197609,
+        "note": null
+      }
+    },
+    {
+      "original_file": "desert_cisticola_descis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939683/bird-gallery/desert_cisticola_descis1/inaturalist/desert_cisticola_descis1_3.jpg",
+      "public_id": "bird-gallery/desert_cisticola_descis1/inaturalist/desert_cisticola_descis1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 40047,
+      "attribution": {
+        "photographer": "theoutdoorman102",
+        "photographer_url": "https://www.inaturalist.org/observations/255009267",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© theoutdoorman102 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 255009267,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

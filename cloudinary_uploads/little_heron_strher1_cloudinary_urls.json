@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "little_heron_strher1",
+    "chinese_name": "绿鹭",
+    "english_name": "Little Heron",
+    "scientific_name": "Butorides atricapilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_heron_strher1_184923091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940359/bird-gallery/little_heron_strher1/macaulay/little_heron_strher1_184923091.jpg",
+      "public_id": "bird-gallery/little_heron_strher1/macaulay/little_heron_strher1_184923091",
+      "width": 1200,
+      "height": 784,
+      "format": "jpg",
+      "bytes": 68422,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/184923091",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "184923091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_heron_strher1_459617211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940360/bird-gallery/little_heron_strher1/macaulay/little_heron_strher1_459617211.jpg",
+      "public_id": "bird-gallery/little_heron_strher1/macaulay/little_heron_strher1_459617211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76420,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/459617211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "459617211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_heron_strher1_612693504.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940361/bird-gallery/little_heron_strher1/macaulay/little_heron_strher1_612693504.jpg",
+      "public_id": "bird-gallery/little_heron_strher1/macaulay/little_heron_strher1_612693504",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57043,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/612693504",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "612693504",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_heron_strher1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940361/bird-gallery/little_heron_strher1/inaturalist/little_heron_strher1_1.jpg",
+      "public_id": "bird-gallery/little_heron_strher1/inaturalist/little_heron_strher1_1",
+      "width": 1024,
+      "height": 820,
+      "format": "jpg",
+      "bytes": 71089,
+      "attribution": {
+        "photographer": "davidgwhite",
+        "photographer_url": "https://www.inaturalist.org/observations/35941673",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© davidgwhite (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 35941673,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_heron_strher1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940362/bird-gallery/little_heron_strher1/inaturalist/little_heron_strher1_2.jpg",
+      "public_id": "bird-gallery/little_heron_strher1/inaturalist/little_heron_strher1_2",
+      "width": 1024,
+      "height": 729,
+      "format": "jpg",
+      "bytes": 119651,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/99740111",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 99740111,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_heron_strher1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940363/bird-gallery/little_heron_strher1/inaturalist/little_heron_strher1_3.jpg",
+      "public_id": "bird-gallery/little_heron_strher1/inaturalist/little_heron_strher1_3",
+      "width": 1024,
+      "height": 581,
+      "format": "jpg",
+      "bytes": 70495,
+      "attribution": {
+        "photographer": "fotis-samaritakis",
+        "photographer_url": "https://www.inaturalist.org/observations/67140105",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fotis-samaritakis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 67140105,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

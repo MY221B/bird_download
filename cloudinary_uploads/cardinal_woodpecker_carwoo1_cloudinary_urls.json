@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "cardinal_woodpecker_carwoo1",
+    "chinese_name": "暗红啄木鸟",
+    "english_name": "Cardinal Woodpecker",
+    "scientific_name": "Dendropicos fuscescens"
+  },
+  "macaulay": [
+    {
+      "original_file": "cardinal_woodpecker_carwoo1_204278751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939553/bird-gallery/cardinal_woodpecker_carwoo1/macaulay/cardinal_woodpecker_carwoo1_204278751.jpg",
+      "public_id": "bird-gallery/cardinal_woodpecker_carwoo1/macaulay/cardinal_woodpecker_carwoo1_204278751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73590,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204278751",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204278751",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cardinal_woodpecker_carwoo1_204718251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939554/bird-gallery/cardinal_woodpecker_carwoo1/macaulay/cardinal_woodpecker_carwoo1_204718251.jpg",
+      "public_id": "bird-gallery/cardinal_woodpecker_carwoo1/macaulay/cardinal_woodpecker_carwoo1_204718251",
+      "width": 1200,
+      "height": 858,
+      "format": "jpg",
+      "bytes": 191523,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204718251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204718251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cardinal_woodpecker_carwoo1_206125791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939555/bird-gallery/cardinal_woodpecker_carwoo1/macaulay/cardinal_woodpecker_carwoo1_206125791.jpg",
+      "public_id": "bird-gallery/cardinal_woodpecker_carwoo1/macaulay/cardinal_woodpecker_carwoo1_206125791",
+      "width": 850,
+      "height": 606,
+      "format": "jpg",
+      "bytes": 48559,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206125791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206125791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "cardinal_woodpecker_carwoo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939556/bird-gallery/cardinal_woodpecker_carwoo1/inaturalist/cardinal_woodpecker_carwoo1_1.jpg",
+      "public_id": "bird-gallery/cardinal_woodpecker_carwoo1/inaturalist/cardinal_woodpecker_carwoo1_1",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91815,
+      "attribution": {
+        "photographer": "katebraunsd",
+        "photographer_url": "https://www.inaturalist.org/observations/94009299",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© katebraunsd (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 94009299,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cardinal_woodpecker_carwoo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939557/bird-gallery/cardinal_woodpecker_carwoo1/inaturalist/cardinal_woodpecker_carwoo1_2.jpg",
+      "public_id": "bird-gallery/cardinal_woodpecker_carwoo1/inaturalist/cardinal_woodpecker_carwoo1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 109475,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/66453641",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66453641,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cardinal_woodpecker_carwoo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939558/bird-gallery/cardinal_woodpecker_carwoo1/inaturalist/cardinal_woodpecker_carwoo1_3.jpg",
+      "public_id": "bird-gallery/cardinal_woodpecker_carwoo1/inaturalist/cardinal_woodpecker_carwoo1_3",
+      "width": 460,
+      "height": 419,
+      "format": "jpg",
+      "bytes": 31063,
+      "attribution": {
+        "photographer": "tom_riggle",
+        "photographer_url": "https://www.inaturalist.org/observations/145249145",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© tom_riggle (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 145249145,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

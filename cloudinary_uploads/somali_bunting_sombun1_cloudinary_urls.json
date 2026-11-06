@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "somali_bunting_sombun1",
+    "chinese_name": "索马里鹀",
+    "english_name": "Somali Bunting",
+    "scientific_name": "Fringillaria poliopleura"
+  },
+  "macaulay": [
+    {
+      "original_file": "somali_bunting_sombun1_177000341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944127/bird-gallery/somali_bunting_sombun1/macaulay/somali_bunting_sombun1_177000341.jpg",
+      "public_id": "bird-gallery/somali_bunting_sombun1/macaulay/somali_bunting_sombun1_177000341",
+      "width": 1200,
+      "height": 602,
+      "format": "jpg",
+      "bytes": 53577,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/177000341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "177000341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_bunting_sombun1_419882251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944128/bird-gallery/somali_bunting_sombun1/macaulay/somali_bunting_sombun1_419882251.jpg",
+      "public_id": "bird-gallery/somali_bunting_sombun1/macaulay/somali_bunting_sombun1_419882251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60487,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/419882251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "419882251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_bunting_sombun1_628829584.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944130/bird-gallery/somali_bunting_sombun1/macaulay/somali_bunting_sombun1_628829584.jpg",
+      "public_id": "bird-gallery/somali_bunting_sombun1/macaulay/somali_bunting_sombun1_628829584",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 60860,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628829584",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628829584",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "somali_bunting_sombun1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944131/bird-gallery/somali_bunting_sombun1/inaturalist/somali_bunting_sombun1_1.jpg",
+      "public_id": "bird-gallery/somali_bunting_sombun1/inaturalist/somali_bunting_sombun1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 57891,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7520481",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7520481,
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_bunting_sombun1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944131/bird-gallery/somali_bunting_sombun1/inaturalist/somali_bunting_sombun1_2.jpg",
+      "public_id": "bird-gallery/somali_bunting_sombun1/inaturalist/somali_bunting_sombun1_2",
+      "width": 1024,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 60759,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/309534821",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 309534821,
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_bunting_sombun1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944132/bird-gallery/somali_bunting_sombun1/inaturalist/somali_bunting_sombun1_3.jpg",
+      "public_id": "bird-gallery/somali_bunting_sombun1/inaturalist/somali_bunting_sombun1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 94166,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/253929050",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 253929050,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

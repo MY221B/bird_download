@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_barred_owlet",
+    "chinese_name": "斑鸺鹠",
+    "english_name": "African Barred Owlet",
+    "scientific_name": "Glaucidium capense"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_barred_owlet_197602601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945093/bird-gallery/african_barred_owlet/macaulay/african_barred_owlet_197602601.jpg",
+      "public_id": "bird-gallery/african_barred_owlet/macaulay/african_barred_owlet_197602601",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 62617,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/197602601",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "197602601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_barred_owlet_385381891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945094/bird-gallery/african_barred_owlet/macaulay/african_barred_owlet_385381891.jpg",
+      "public_id": "bird-gallery/african_barred_owlet/macaulay/african_barred_owlet_385381891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109972,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/385381891",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "385381891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_barred_owlet_47418231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945096/bird-gallery/african_barred_owlet/macaulay/african_barred_owlet_47418231.jpg",
+      "public_id": "bird-gallery/african_barred_owlet/macaulay/african_barred_owlet_47418231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 125583,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47418231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47418231",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_barred_owlet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945097/bird-gallery/african_barred_owlet/inaturalist/african_barred_owlet_1.jpg",
+      "public_id": "bird-gallery/african_barred_owlet/inaturalist/african_barred_owlet_1",
+      "width": 1024,
+      "height": 764,
+      "format": "jpg",
+      "bytes": 114716,
+      "attribution": {
+        "photographer": "maritzasouthafrica",
+        "photographer_url": "https://www.inaturalist.org/observations/9410688",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maritzasouthafrica (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9410688,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_barred_owlet_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945098/bird-gallery/african_barred_owlet/inaturalist/african_barred_owlet_2.jpg",
+      "public_id": "bird-gallery/african_barred_owlet/inaturalist/african_barred_owlet_2",
+      "width": 681,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 223443,
+      "attribution": {
+        "photographer": "muisvoel",
+        "photographer_url": "https://www.inaturalist.org/observations/15040616",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© muisvoel (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 15040616,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_barred_owlet_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945099/bird-gallery/african_barred_owlet/inaturalist/african_barred_owlet_3.jpg",
+      "public_id": "bird-gallery/african_barred_owlet/inaturalist/african_barred_owlet_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 92415,
+      "attribution": {
+        "photographer": "kristaoswald",
+        "photographer_url": "https://www.inaturalist.org/observations/64932509",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kristaoswald (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 64932509,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

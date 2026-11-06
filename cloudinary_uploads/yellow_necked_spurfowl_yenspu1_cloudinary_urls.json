@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_necked_spurfowl_yenspu1",
+    "chinese_name": "黄颈彩鹧鸪",
+    "english_name": "Yellow-necked Spurfowl",
+    "scientific_name": "Pternistis leucoscepus"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_necked_spurfowl_yenspu1_31187991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940691/bird-gallery/yellow_necked_spurfowl_yenspu1/macaulay/yellow_necked_spurfowl_yenspu1_31187991.jpg",
+      "public_id": "bird-gallery/yellow_necked_spurfowl_yenspu1/macaulay/yellow_necked_spurfowl_yenspu1_31187991",
+      "width": 1200,
+      "height": 753,
+      "format": "jpg",
+      "bytes": 179306,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/31187991",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "31187991",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_necked_spurfowl_yenspu1_58424671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940692/bird-gallery/yellow_necked_spurfowl_yenspu1/macaulay/yellow_necked_spurfowl_yenspu1_58424671.jpg",
+      "public_id": "bird-gallery/yellow_necked_spurfowl_yenspu1/macaulay/yellow_necked_spurfowl_yenspu1_58424671",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 122729,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/58424671",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "58424671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_necked_spurfowl_yenspu1_616843801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940693/bird-gallery/yellow_necked_spurfowl_yenspu1/macaulay/yellow_necked_spurfowl_yenspu1_616843801.jpg",
+      "public_id": "bird-gallery/yellow_necked_spurfowl_yenspu1/macaulay/yellow_necked_spurfowl_yenspu1_616843801",
+      "width": 1200,
+      "height": 979,
+      "format": "jpg",
+      "bytes": 126508,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/616843801",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "616843801",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_necked_spurfowl_yenspu1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940695/bird-gallery/yellow_necked_spurfowl_yenspu1/inaturalist/yellow_necked_spurfowl_yenspu1_1.jpg",
+      "public_id": "bird-gallery/yellow_necked_spurfowl_yenspu1/inaturalist/yellow_necked_spurfowl_yenspu1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 129839,
+      "attribution": {
+        "photographer": "breathesaildive",
+        "photographer_url": "https://www.inaturalist.org/observations/311294271",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© breathesaildive (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 311294271,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_necked_spurfowl_yenspu1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940695/bird-gallery/yellow_necked_spurfowl_yenspu1/inaturalist/yellow_necked_spurfowl_yenspu1_2.jpg",
+      "public_id": "bird-gallery/yellow_necked_spurfowl_yenspu1/inaturalist/yellow_necked_spurfowl_yenspu1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 265840,
+      "attribution": {
+        "photographer": "martagalloni",
+        "photographer_url": "https://www.inaturalist.org/observations/275543043",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© martagalloni (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 275543043,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_necked_spurfowl_yenspu1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940696/bird-gallery/yellow_necked_spurfowl_yenspu1/inaturalist/yellow_necked_spurfowl_yenspu1_3.jpg",
+      "public_id": "bird-gallery/yellow_necked_spurfowl_yenspu1/inaturalist/yellow_necked_spurfowl_yenspu1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 143788,
+      "attribution": {
+        "photographer": "vmoser",
+        "photographer_url": "https://www.inaturalist.org/observations/253668012",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© vmoser (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 253668012,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

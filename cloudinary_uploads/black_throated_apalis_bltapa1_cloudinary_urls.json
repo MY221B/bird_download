@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_throated_apalis_bltapa1",
+    "chinese_name": "黑喉娇莺",
+    "english_name": "Black-throated Apalis",
+    "scientific_name": "Apalis jacksoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_throated_apalis_bltapa1_205986041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941098/bird-gallery/black_throated_apalis_bltapa1/macaulay/black_throated_apalis_bltapa1_205986041.jpg",
+      "public_id": "bird-gallery/black_throated_apalis_bltapa1/macaulay/black_throated_apalis_bltapa1_205986041",
+      "width": 1000,
+      "height": 635,
+      "format": "jpg",
+      "bytes": 63710,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205986041",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205986041",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_throated_apalis_bltapa1_618555703.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941099/bird-gallery/black_throated_apalis_bltapa1/macaulay/black_throated_apalis_bltapa1_618555703.jpg",
+      "public_id": "bird-gallery/black_throated_apalis_bltapa1/macaulay/black_throated_apalis_bltapa1_618555703",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79908,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/618555703",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "618555703",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_throated_apalis_bltapa1_632286961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941100/bird-gallery/black_throated_apalis_bltapa1/macaulay/black_throated_apalis_bltapa1_632286961.jpg",
+      "public_id": "bird-gallery/black_throated_apalis_bltapa1/macaulay/black_throated_apalis_bltapa1_632286961",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 111017,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632286961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632286961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_throated_apalis_bltapa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941101/bird-gallery/black_throated_apalis_bltapa1/inaturalist/black_throated_apalis_bltapa1_1.jpg",
+      "public_id": "bird-gallery/black_throated_apalis_bltapa1/inaturalist/black_throated_apalis_bltapa1_1",
+      "width": 1024,
+      "height": 898,
+      "format": "jpg",
+      "bytes": 241608,
+      "attribution": {
+        "photographer": "avocat",
+        "photographer_url": "https://www.inaturalist.org/observations/328169840",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© avocat (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 328169840,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_throated_apalis_bltapa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941102/bird-gallery/black_throated_apalis_bltapa1/inaturalist/black_throated_apalis_bltapa1_2.jpg",
+      "public_id": "bird-gallery/black_throated_apalis_bltapa1/inaturalist/black_throated_apalis_bltapa1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 125812,
+      "attribution": {
+        "photographer": "jeffharding",
+        "photographer_url": "https://www.inaturalist.org/observations/146247184",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeffharding (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 146247184,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_throated_apalis_bltapa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941103/bird-gallery/black_throated_apalis_bltapa1/inaturalist/black_throated_apalis_bltapa1_3.jpg",
+      "public_id": "bird-gallery/black_throated_apalis_bltapa1/inaturalist/black_throated_apalis_bltapa1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 101851,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/86832673",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 86832673,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

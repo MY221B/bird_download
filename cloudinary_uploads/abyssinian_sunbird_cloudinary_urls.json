@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "abyssinian_sunbird",
+    "chinese_name": "辉花蜜鸟",
+    "english_name": "Abyssinian Sunbird",
+    "scientific_name": "Cinnyris habessinicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "abyssinian_sunbird_204278651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942016/bird-gallery/abyssinian_sunbird/macaulay/abyssinian_sunbird_204278651.jpg",
+      "public_id": "bird-gallery/abyssinian_sunbird/macaulay/abyssinian_sunbird_204278651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73743,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204278651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204278651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_sunbird_205475091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942017/bird-gallery/abyssinian_sunbird/macaulay/abyssinian_sunbird_205475091.jpg",
+      "public_id": "bird-gallery/abyssinian_sunbird/macaulay/abyssinian_sunbird_205475091",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 62125,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205475091",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205475091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_sunbird_206159881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942018/bird-gallery/abyssinian_sunbird/macaulay/abyssinian_sunbird_206159881.jpg",
+      "public_id": "bird-gallery/abyssinian_sunbird/macaulay/abyssinian_sunbird_206159881",
+      "width": 1152,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 100305,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206159881",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206159881",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "abyssinian_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942020/bird-gallery/abyssinian_sunbird/inaturalist/abyssinian_sunbird_1.jpg",
+      "public_id": "bird-gallery/abyssinian_sunbird/inaturalist/abyssinian_sunbird_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 53687,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/41432454",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 41432454,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_sunbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942020/bird-gallery/abyssinian_sunbird/inaturalist/abyssinian_sunbird_2.jpg",
+      "public_id": "bird-gallery/abyssinian_sunbird/inaturalist/abyssinian_sunbird_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 126112,
+      "attribution": {
+        "photographer": "jeanlouiscarlo",
+        "photographer_url": "https://www.inaturalist.org/observations/249051907",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanlouiscarlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 249051907,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_sunbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942021/bird-gallery/abyssinian_sunbird/inaturalist/abyssinian_sunbird_3.jpg",
+      "public_id": "bird-gallery/abyssinian_sunbird/inaturalist/abyssinian_sunbird_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 70952,
+      "attribution": {
+        "photographer": "tareknagah",
+        "photographer_url": "https://www.inaturalist.org/observations/234180781",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tareknagah (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 234180781,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

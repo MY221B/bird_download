@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "four_colored_bushshrike",
+    "chinese_name": "四色丛鵙",
+    "english_name": "Four-colored Bushshrike",
+    "scientific_name": "Telophorus viridis"
+  },
+  "macaulay": [
+    {
+      "original_file": "four_colored_bushshrike_205092801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945261/bird-gallery/four_colored_bushshrike/macaulay/four_colored_bushshrike_205092801.jpg",
+      "public_id": "bird-gallery/four_colored_bushshrike/macaulay/four_colored_bushshrike_205092801",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 51746,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205092801",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205092801",
+        "note": null
+      }
+    },
+    {
+      "original_file": "four_colored_bushshrike_247214381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945263/bird-gallery/four_colored_bushshrike/macaulay/four_colored_bushshrike_247214381.jpg",
+      "public_id": "bird-gallery/four_colored_bushshrike/macaulay/four_colored_bushshrike_247214381",
+      "width": 1200,
+      "height": 850,
+      "format": "jpg",
+      "bytes": 113797,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/247214381",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "247214381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "four_colored_bushshrike_400936271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945264/bird-gallery/four_colored_bushshrike/macaulay/four_colored_bushshrike_400936271.jpg",
+      "public_id": "bird-gallery/four_colored_bushshrike/macaulay/four_colored_bushshrike_400936271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67232,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/400936271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "400936271",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "four_colored_bushshrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945265/bird-gallery/four_colored_bushshrike/inaturalist/four_colored_bushshrike_1.jpg",
+      "public_id": "bird-gallery/four_colored_bushshrike/inaturalist/four_colored_bushshrike_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57136,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/65640965",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 65640965,
+        "note": null
+      }
+    },
+    {
+      "original_file": "four_colored_bushshrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945266/bird-gallery/four_colored_bushshrike/inaturalist/four_colored_bushshrike_2.jpg",
+      "public_id": "bird-gallery/four_colored_bushshrike/inaturalist/four_colored_bushshrike_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73442,
+      "attribution": {
+        "photographer": "surfinbird",
+        "photographer_url": "https://www.inaturalist.org/observations/67007104",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© surfinbird (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 67007104,
+        "note": null
+      }
+    },
+    {
+      "original_file": "four_colored_bushshrike_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945267/bird-gallery/four_colored_bushshrike/inaturalist/four_colored_bushshrike_3.jpg",
+      "public_id": "bird-gallery/four_colored_bushshrike/inaturalist/four_colored_bushshrike_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 73003,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/66301240",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 66301240,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

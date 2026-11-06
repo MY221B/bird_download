@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_bishop_yelbis1",
+    "chinese_name": "黄巧织雀",
+    "english_name": "Yellow Bishop",
+    "scientific_name": "Euplectes capensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_bishop_yelbis1_204934351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941352/bird-gallery/yellow_bishop_yelbis1/macaulay/yellow_bishop_yelbis1_204934351.jpg",
+      "public_id": "bird-gallery/yellow_bishop_yelbis1/macaulay/yellow_bishop_yelbis1_204934351",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 152786,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204934351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204934351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bishop_yelbis1_205109261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941353/bird-gallery/yellow_bishop_yelbis1/macaulay/yellow_bishop_yelbis1_205109261.jpg",
+      "public_id": "bird-gallery/yellow_bishop_yelbis1/macaulay/yellow_bishop_yelbis1_205109261",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 83575,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205109261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205109261",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bishop_yelbis1_557305321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941355/bird-gallery/yellow_bishop_yelbis1/macaulay/yellow_bishop_yelbis1_557305321.jpg",
+      "public_id": "bird-gallery/yellow_bishop_yelbis1/macaulay/yellow_bishop_yelbis1_557305321",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 75181,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/557305321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "557305321",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_bishop_yelbis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941356/bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_1.jpg",
+      "public_id": "bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 56178,
+      "attribution": {
+        "photographer": "pierrepretorius",
+        "photographer_url": "https://www.inaturalist.org/observations/405760651",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pierrepretorius (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 405760651,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bishop_yelbis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941357/bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_2.jpg",
+      "public_id": "bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 40357,
+      "attribution": {
+        "photographer": "roach_brain",
+        "photographer_url": "https://www.inaturalist.org/observations/194527355",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© roach_brain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 194527355,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bishop_yelbis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941357/bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_3.jpg",
+      "public_id": "bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 99760,
+      "attribution": {
+        "photographer": "stephandu",
+        "photographer_url": "https://www.inaturalist.org/observations/405806087",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stephandu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 405806087,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

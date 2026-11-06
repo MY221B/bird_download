@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "abyssinian_thrush_abythr1",
+    "chinese_name": "东非鸫",
+    "english_name": "Abyssinian Thrush",
+    "scientific_name": "Turdus abyssinicus"
+  },
+  "macaulay": [
+    {
+      "original_file": "abyssinian_thrush_abythr1_621807639.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939156/bird-gallery/abyssinian_thrush_abythr1/macaulay/abyssinian_thrush_abythr1_621807639.jpg",
+      "public_id": "bird-gallery/abyssinian_thrush_abythr1/macaulay/abyssinian_thrush_abythr1_621807639",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 59944,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621807639",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621807639",
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_thrush_abythr1_665521753.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939157/bird-gallery/abyssinian_thrush_abythr1/macaulay/abyssinian_thrush_abythr1_665521753.jpg",
+      "public_id": "bird-gallery/abyssinian_thrush_abythr1/macaulay/abyssinian_thrush_abythr1_665521753",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 95058,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665521753",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665521753",
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_thrush_abythr1_99377761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939158/bird-gallery/abyssinian_thrush_abythr1/macaulay/abyssinian_thrush_abythr1_99377761.jpg",
+      "public_id": "bird-gallery/abyssinian_thrush_abythr1/macaulay/abyssinian_thrush_abythr1_99377761",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88904,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/99377761",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "99377761",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "abyssinian_thrush_abythr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939159/bird-gallery/abyssinian_thrush_abythr1/inaturalist/abyssinian_thrush_abythr1_1.jpg",
+      "public_id": "bird-gallery/abyssinian_thrush_abythr1/inaturalist/abyssinian_thrush_abythr1_1",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 183576,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192739394",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192739394,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_thrush_abythr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939160/bird-gallery/abyssinian_thrush_abythr1/inaturalist/abyssinian_thrush_abythr1_2.jpg",
+      "public_id": "bird-gallery/abyssinian_thrush_abythr1/inaturalist/abyssinian_thrush_abythr1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 84167,
+      "attribution": {
+        "photographer": "alvaroluna",
+        "photographer_url": "https://www.inaturalist.org/observations/177463078",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© alvaroluna (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 177463078,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_thrush_abythr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939161/bird-gallery/abyssinian_thrush_abythr1/inaturalist/abyssinian_thrush_abythr1_3.jpg",
+      "public_id": "bird-gallery/abyssinian_thrush_abythr1/inaturalist/abyssinian_thrush_abythr1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 71822,
+      "attribution": {
+        "photographer": "alex_bairstow",
+        "photographer_url": "https://www.inaturalist.org/observations/10705155",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alex_bairstow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10705155,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_fronted_bushshrike",
+    "chinese_name": "黑额丛鵙",
+    "english_name": "Black-fronted Bushshrike",
+    "scientific_name": "Chlorophoneus nigrifrons"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_fronted_bushshrike_205988871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941083/bird-gallery/black_fronted_bushshrike/macaulay/black_fronted_bushshrike_205988871.jpg",
+      "public_id": "bird-gallery/black_fronted_bushshrike/macaulay/black_fronted_bushshrike_205988871",
+      "width": 1000,
+      "height": 728,
+      "format": "jpg",
+      "bytes": 52694,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205988871",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205988871",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_fronted_bushshrike_205988891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941084/bird-gallery/black_fronted_bushshrike/macaulay/black_fronted_bushshrike_205988891.jpg",
+      "public_id": "bird-gallery/black_fronted_bushshrike/macaulay/black_fronted_bushshrike_205988891",
+      "width": 1000,
+      "height": 698,
+      "format": "jpg",
+      "bytes": 99589,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205988891",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205988891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_fronted_bushshrike_419468791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941085/bird-gallery/black_fronted_bushshrike/macaulay/black_fronted_bushshrike_419468791.jpg",
+      "public_id": "bird-gallery/black_fronted_bushshrike/macaulay/black_fronted_bushshrike_419468791",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65063,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/419468791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "419468791",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_fronted_bushshrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941086/bird-gallery/black_fronted_bushshrike/inaturalist/black_fronted_bushshrike_1.jpg",
+      "public_id": "bird-gallery/black_fronted_bushshrike/inaturalist/black_fronted_bushshrike_1",
+      "width": 1024,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 31233,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/406080553",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 406080553,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_fronted_bushshrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941087/bird-gallery/black_fronted_bushshrike/inaturalist/black_fronted_bushshrike_2.jpg",
+      "public_id": "bird-gallery/black_fronted_bushshrike/inaturalist/black_fronted_bushshrike_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 79101,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/159803141",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 159803141,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_fronted_bushshrike_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941088/bird-gallery/black_fronted_bushshrike/inaturalist/black_fronted_bushshrike_3.jpg",
+      "public_id": "bird-gallery/black_fronted_bushshrike/inaturalist/black_fronted_bushshrike_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 214713,
+      "attribution": {
+        "photographer": "lance_robinson",
+        "photographer_url": "https://www.inaturalist.org/observations/176583081",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lance_robinson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 176583081,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

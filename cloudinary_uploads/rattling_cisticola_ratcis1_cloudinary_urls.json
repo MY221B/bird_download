@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "rattling_cisticola_ratcis1",
+    "chinese_name": "巧扇尾莺",
+    "english_name": "Rattling Cisticola",
+    "scientific_name": "Cisticola chiniana"
+  },
+  "macaulay": [
+    {
+      "original_file": "rattling_cisticola_ratcis1_169605061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939987/bird-gallery/rattling_cisticola_ratcis1/macaulay/rattling_cisticola_ratcis1_169605061.jpg",
+      "public_id": "bird-gallery/rattling_cisticola_ratcis1/macaulay/rattling_cisticola_ratcis1_169605061",
+      "width": 1200,
+      "height": 822,
+      "format": "jpg",
+      "bytes": 106403,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/169605061",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "169605061",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rattling_cisticola_ratcis1_296133311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939988/bird-gallery/rattling_cisticola_ratcis1/macaulay/rattling_cisticola_ratcis1_296133311.jpg",
+      "public_id": "bird-gallery/rattling_cisticola_ratcis1/macaulay/rattling_cisticola_ratcis1_296133311",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76619,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/296133311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "296133311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rattling_cisticola_ratcis1_632449933.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939989/bird-gallery/rattling_cisticola_ratcis1/macaulay/rattling_cisticola_ratcis1_632449933.jpg",
+      "public_id": "bird-gallery/rattling_cisticola_ratcis1/macaulay/rattling_cisticola_ratcis1_632449933",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51495,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632449933",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632449933",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rattling_cisticola_ratcis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939990/bird-gallery/rattling_cisticola_ratcis1/inaturalist/rattling_cisticola_ratcis1_1.jpg",
+      "public_id": "bird-gallery/rattling_cisticola_ratcis1/inaturalist/rattling_cisticola_ratcis1_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 165429,
+      "attribution": {
+        "photographer": "hoppy1951",
+        "photographer_url": "https://www.inaturalist.org/observations/8794322",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© hoppy1951 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 8794322,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rattling_cisticola_ratcis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939990/bird-gallery/rattling_cisticola_ratcis1/inaturalist/rattling_cisticola_ratcis1_2.jpg",
+      "public_id": "bird-gallery/rattling_cisticola_ratcis1/inaturalist/rattling_cisticola_ratcis1_2",
+      "width": 1024,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 105446,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192465429",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192465429,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rattling_cisticola_ratcis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939991/bird-gallery/rattling_cisticola_ratcis1/inaturalist/rattling_cisticola_ratcis1_3.jpg",
+      "public_id": "bird-gallery/rattling_cisticola_ratcis1/inaturalist/rattling_cisticola_ratcis1_3",
+      "width": 1024,
+      "height": 809,
+      "format": "jpg",
+      "bytes": 148899,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/166031662",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 166031662,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

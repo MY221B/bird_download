@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "double_banded_courser",
+    "chinese_name": "双领斑走鸻",
+    "english_name": "Double-banded Courser",
+    "scientific_name": "Smutsornis africanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "double_banded_courser_32401081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943902/bird-gallery/double_banded_courser/macaulay/double_banded_courser_32401081.jpg",
+      "public_id": "bird-gallery/double_banded_courser/macaulay/double_banded_courser_32401081",
+      "width": 1200,
+      "height": 807,
+      "format": "jpg",
+      "bytes": 91427,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32401081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32401081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "double_banded_courser_508409061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943904/bird-gallery/double_banded_courser/macaulay/double_banded_courser_508409061.jpg",
+      "public_id": "bird-gallery/double_banded_courser/macaulay/double_banded_courser_508409061",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88440,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/508409061",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "508409061",
+        "note": null
+      }
+    },
+    {
+      "original_file": "double_banded_courser_641503919.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943905/bird-gallery/double_banded_courser/macaulay/double_banded_courser_641503919.jpg",
+      "public_id": "bird-gallery/double_banded_courser/macaulay/double_banded_courser_641503919",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 130224,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/641503919",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "641503919",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "double_banded_courser_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943906/bird-gallery/double_banded_courser/inaturalist/double_banded_courser_1.jpg",
+      "public_id": "bird-gallery/double_banded_courser/inaturalist/double_banded_courser_1",
+      "width": 1024,
+      "height": 729,
+      "format": "jpg",
+      "bytes": 118534,
+      "attribution": {
+        "photographer": "daryldbs",
+        "photographer_url": "https://www.inaturalist.org/observations/86253982",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© daryldbs (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 86253982,
+        "note": null
+      }
+    },
+    {
+      "original_file": "double_banded_courser_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943907/bird-gallery/double_banded_courser/inaturalist/double_banded_courser_2.jpg",
+      "public_id": "bird-gallery/double_banded_courser/inaturalist/double_banded_courser_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 74413,
+      "attribution": {
+        "photographer": "justin_p",
+        "photographer_url": "https://www.inaturalist.org/observations/74830966",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© justin_p (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 74830966,
+        "note": null
+      }
+    },
+    {
+      "original_file": "double_banded_courser_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943907/bird-gallery/double_banded_courser/inaturalist/double_banded_courser_3.jpg",
+      "public_id": "bird-gallery/double_banded_courser/inaturalist/double_banded_courser_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51159,
+      "attribution": {
+        "photographer": "breannabeech",
+        "photographer_url": "https://www.inaturalist.org/observations/290531120",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© breannabeech (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 290531120,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

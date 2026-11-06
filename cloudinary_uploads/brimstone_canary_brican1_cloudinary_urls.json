@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "brimstone_canary_brican1",
+    "chinese_name": "硫磺丝雀",
+    "english_name": "Brimstone Canary",
+    "scientific_name": "Crithagra sulphurata"
+  },
+  "macaulay": [
+    {
+      "original_file": "brimstone_canary_brican1_110241171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939474/bird-gallery/brimstone_canary_brican1/macaulay/brimstone_canary_brican1_110241171.jpg",
+      "public_id": "bird-gallery/brimstone_canary_brican1/macaulay/brimstone_canary_brican1_110241171",
+      "width": 1053,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 102138,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/110241171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "110241171",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brimstone_canary_brican1_524507191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939475/bird-gallery/brimstone_canary_brican1/macaulay/brimstone_canary_brican1_524507191.jpg",
+      "public_id": "bird-gallery/brimstone_canary_brican1/macaulay/brimstone_canary_brican1_524507191",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 64466,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/524507191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "524507191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brimstone_canary_brican1_664815304.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939476/bird-gallery/brimstone_canary_brican1/macaulay/brimstone_canary_brican1_664815304.jpg",
+      "public_id": "bird-gallery/brimstone_canary_brican1/macaulay/brimstone_canary_brican1_664815304",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67546,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/664815304",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "664815304",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brimstone_canary_brican1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939477/bird-gallery/brimstone_canary_brican1/inaturalist/brimstone_canary_brican1_1.jpg",
+      "public_id": "bird-gallery/brimstone_canary_brican1/inaturalist/brimstone_canary_brican1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 112923,
+      "attribution": {
+        "photographer": "geoffnichols",
+        "photographer_url": "https://www.inaturalist.org/observations/115964181",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© geoffnichols (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 115964181,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brimstone_canary_brican1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939477/bird-gallery/brimstone_canary_brican1/inaturalist/brimstone_canary_brican1_2.jpg",
+      "public_id": "bird-gallery/brimstone_canary_brican1/inaturalist/brimstone_canary_brican1_2",
+      "width": 576,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 67457,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/49709029",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 49709029,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brimstone_canary_brican1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939478/bird-gallery/brimstone_canary_brican1/inaturalist/brimstone_canary_brican1_3.jpg",
+      "public_id": "bird-gallery/brimstone_canary_brican1/inaturalist/brimstone_canary_brican1_3",
+      "width": 1024,
+      "height": 1011,
+      "format": "jpg",
+      "bytes": 233807,
+      "attribution": {
+        "photographer": "lance_robinson",
+        "photographer_url": "https://www.inaturalist.org/observations/329464510",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lance_robinson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 329464510,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

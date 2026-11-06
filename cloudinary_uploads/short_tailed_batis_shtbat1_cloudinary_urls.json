@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "short_tailed_batis_shtbat1",
+    "chinese_name": "短尾蓬背鹟",
+    "english_name": "Short-tailed Batis",
+    "scientific_name": "Batis mixta"
+  },
+  "macaulay": [
+    {
+      "original_file": "short_tailed_batis_shtbat1_205488671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945349/bird-gallery/short_tailed_batis_shtbat1/macaulay/short_tailed_batis_shtbat1_205488671.jpg",
+      "public_id": "bird-gallery/short_tailed_batis_shtbat1/macaulay/short_tailed_batis_shtbat1_205488671",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 40105,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205488671",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205488671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_tailed_batis_shtbat1_205984671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945350/bird-gallery/short_tailed_batis_shtbat1/macaulay/short_tailed_batis_shtbat1_205984671.jpg",
+      "public_id": "bird-gallery/short_tailed_batis_shtbat1/macaulay/short_tailed_batis_shtbat1_205984671",
+      "width": 1000,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65231,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984671",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_tailed_batis_shtbat1_653771436.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945351/bird-gallery/short_tailed_batis_shtbat1/macaulay/short_tailed_batis_shtbat1_653771436.jpg",
+      "public_id": "bird-gallery/short_tailed_batis_shtbat1/macaulay/short_tailed_batis_shtbat1_653771436",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 107307,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/653771436",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "653771436",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "short_tailed_batis_shtbat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945352/bird-gallery/short_tailed_batis_shtbat1/inaturalist/short_tailed_batis_shtbat1_1.jpg",
+      "public_id": "bird-gallery/short_tailed_batis_shtbat1/inaturalist/short_tailed_batis_shtbat1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69599,
+      "attribution": {
+        "photographer": "desiredarling",
+        "photographer_url": "https://www.inaturalist.org/observations/246288347",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© desiredarling (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 246288347,
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_tailed_batis_shtbat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945353/bird-gallery/short_tailed_batis_shtbat1/inaturalist/short_tailed_batis_shtbat1_2.jpg",
+      "public_id": "bird-gallery/short_tailed_batis_shtbat1/inaturalist/short_tailed_batis_shtbat1_2",
+      "width": 949,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 196066,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/105675706",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105675706,
+        "note": null
+      }
+    },
+    {
+      "original_file": "short_tailed_batis_shtbat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945354/bird-gallery/short_tailed_batis_shtbat1/inaturalist/short_tailed_batis_shtbat1_3.jpg",
+      "public_id": "bird-gallery/short_tailed_batis_shtbat1/inaturalist/short_tailed_batis_shtbat1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 91952,
+      "attribution": {
+        "photographer": "seasav",
+        "photographer_url": "https://www.inaturalist.org/observations/63223268",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© seasav (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 63223268,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

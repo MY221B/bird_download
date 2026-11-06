@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "little_sparrowhawk_litspa1",
+    "chinese_name": "非洲侏雀鹰",
+    "english_name": "Little Sparrowhawk",
+    "scientific_name": "Tachyspiza minulla"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_sparrowhawk_litspa1_205486001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939835/bird-gallery/little_sparrowhawk_litspa1/macaulay/little_sparrowhawk_litspa1_205486001.jpg",
+      "public_id": "bird-gallery/little_sparrowhawk_litspa1/macaulay/little_sparrowhawk_litspa1_205486001",
+      "width": 572,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55799,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205486001",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205486001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_sparrowhawk_litspa1_620678517.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939836/bird-gallery/little_sparrowhawk_litspa1/macaulay/little_sparrowhawk_litspa1_620678517.jpg",
+      "public_id": "bird-gallery/little_sparrowhawk_litspa1/macaulay/little_sparrowhawk_litspa1_620678517",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 60855,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/620678517",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "620678517",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_sparrowhawk_litspa1_80638651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939837/bird-gallery/little_sparrowhawk_litspa1/macaulay/little_sparrowhawk_litspa1_80638651.jpg",
+      "public_id": "bird-gallery/little_sparrowhawk_litspa1/macaulay/little_sparrowhawk_litspa1_80638651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68825,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/80638651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "80638651",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_sparrowhawk_litspa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939838/bird-gallery/little_sparrowhawk_litspa1/inaturalist/little_sparrowhawk_litspa1_1.jpg",
+      "public_id": "bird-gallery/little_sparrowhawk_litspa1/inaturalist/little_sparrowhawk_litspa1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58127,
+      "attribution": {
+        "photographer": "rafnuss",
+        "photographer_url": "https://www.inaturalist.org/observations/49925998",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rafnuss (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 49925998,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_sparrowhawk_litspa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939840/bird-gallery/little_sparrowhawk_litspa1/inaturalist/little_sparrowhawk_litspa1_2.jpg",
+      "public_id": "bird-gallery/little_sparrowhawk_litspa1/inaturalist/little_sparrowhawk_litspa1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66415,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/200115176",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 200115176,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_sparrowhawk_litspa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939840/bird-gallery/little_sparrowhawk_litspa1/inaturalist/little_sparrowhawk_litspa1_3.jpg",
+      "public_id": "bird-gallery/little_sparrowhawk_litspa1/inaturalist/little_sparrowhawk_litspa1_3",
+      "width": 1024,
+      "height": 958,
+      "format": "jpg",
+      "bytes": 116305,
+      "attribution": {
+        "photographer": "tuli",
+        "photographer_url": "https://www.inaturalist.org/observations/8475399",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tuli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8475399,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

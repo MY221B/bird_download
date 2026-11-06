@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "eastern_nicator_easnic1",
+    "chinese_name": "东非斗鹎",
+    "english_name": "Eastern Nicator",
+    "scientific_name": "Nicator gularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_nicator_easnic1_108878781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945212/bird-gallery/eastern_nicator_easnic1/macaulay/eastern_nicator_easnic1_108878781.jpg",
+      "public_id": "bird-gallery/eastern_nicator_easnic1/macaulay/eastern_nicator_easnic1_108878781",
+      "width": 1200,
+      "height": 814,
+      "format": "jpg",
+      "bytes": 100929,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/108878781",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "108878781",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_nicator_easnic1_191836531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945213/bird-gallery/eastern_nicator_easnic1/macaulay/eastern_nicator_easnic1_191836531.jpg",
+      "public_id": "bird-gallery/eastern_nicator_easnic1/macaulay/eastern_nicator_easnic1_191836531",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 135593,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/191836531",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "191836531",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_nicator_easnic1_611397961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945215/bird-gallery/eastern_nicator_easnic1/macaulay/eastern_nicator_easnic1_611397961.jpg",
+      "public_id": "bird-gallery/eastern_nicator_easnic1/macaulay/eastern_nicator_easnic1_611397961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64901,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/611397961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "611397961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eastern_nicator_easnic1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945216/bird-gallery/eastern_nicator_easnic1/inaturalist/eastern_nicator_easnic1_1.jpg",
+      "public_id": "bird-gallery/eastern_nicator_easnic1/inaturalist/eastern_nicator_easnic1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 113527,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/124599846",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 124599846,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_nicator_easnic1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945216/bird-gallery/eastern_nicator_easnic1/inaturalist/eastern_nicator_easnic1_2.jpg",
+      "public_id": "bird-gallery/eastern_nicator_easnic1/inaturalist/eastern_nicator_easnic1_2",
+      "width": 948,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 139820,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/325813448",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 325813448,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_nicator_easnic1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945217/bird-gallery/eastern_nicator_easnic1/inaturalist/eastern_nicator_easnic1_3.jpg",
+      "public_id": "bird-gallery/eastern_nicator_easnic1/inaturalist/eastern_nicator_easnic1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 42450,
+      "attribution": {
+        "photographer": "justin_p",
+        "photographer_url": "https://www.inaturalist.org/observations/39793520",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© justin_p (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 39793520,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

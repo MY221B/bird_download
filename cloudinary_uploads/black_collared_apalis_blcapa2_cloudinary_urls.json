@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_collared_apalis_blcapa2",
+    "chinese_name": "黑领娇莺",
+    "english_name": "Black-collared Apalis",
+    "scientific_name": "Oreolais pulcher"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_collared_apalis_blcapa2_205986141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939383/bird-gallery/black_collared_apalis_blcapa2/macaulay/black_collared_apalis_blcapa2_205986141.jpg",
+      "public_id": "bird-gallery/black_collared_apalis_blcapa2/macaulay/black_collared_apalis_blcapa2_205986141",
+      "width": 1000,
+      "height": 703,
+      "format": "jpg",
+      "bytes": 60870,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205986141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205986141",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_collared_apalis_blcapa2_206162271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939384/bird-gallery/black_collared_apalis_blcapa2/macaulay/black_collared_apalis_blcapa2_206162271.jpg",
+      "public_id": "bird-gallery/black_collared_apalis_blcapa2/macaulay/black_collared_apalis_blcapa2_206162271",
+      "width": 1152,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 121219,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206162271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206162271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_collared_apalis_blcapa2_450732001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939385/bird-gallery/black_collared_apalis_blcapa2/macaulay/black_collared_apalis_blcapa2_450732001.jpg",
+      "public_id": "bird-gallery/black_collared_apalis_blcapa2/macaulay/black_collared_apalis_blcapa2_450732001",
+      "width": 1200,
+      "height": 862,
+      "format": "jpg",
+      "bytes": 75492,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/450732001",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "450732001",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_collared_apalis_blcapa2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939386/bird-gallery/black_collared_apalis_blcapa2/inaturalist/black_collared_apalis_blcapa2_1.jpg",
+      "public_id": "bird-gallery/black_collared_apalis_blcapa2/inaturalist/black_collared_apalis_blcapa2_1",
+      "width": 1024,
+      "height": 888,
+      "format": "jpg",
+      "bytes": 113663,
+      "attribution": {
+        "photographer": "avocat",
+        "photographer_url": "https://www.inaturalist.org/observations/360977867",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© avocat (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 360977867,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_collared_apalis_blcapa2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939387/bird-gallery/black_collared_apalis_blcapa2/inaturalist/black_collared_apalis_blcapa2_2.jpg",
+      "public_id": "bird-gallery/black_collared_apalis_blcapa2/inaturalist/black_collared_apalis_blcapa2_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 80276,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/86270564",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 86270564,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_collared_apalis_blcapa2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939388/bird-gallery/black_collared_apalis_blcapa2/inaturalist/black_collared_apalis_blcapa2_3.jpg",
+      "public_id": "bird-gallery/black_collared_apalis_blcapa2/inaturalist/black_collared_apalis_blcapa2_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 152020,
+      "attribution": {
+        "photographer": "scompeti",
+        "photographer_url": "https://www.inaturalist.org/observations/312517192",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© scompeti (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 312517192,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

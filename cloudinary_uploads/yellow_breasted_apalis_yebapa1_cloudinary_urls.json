@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_breasted_apalis_yebapa1",
+    "chinese_name": "黄胸娇莺",
+    "english_name": "Yellow-breasted Apalis",
+    "scientific_name": "Apalis flavida"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_breasted_apalis_yebapa1_177025121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940668/bird-gallery/yellow_breasted_apalis_yebapa1/macaulay/yellow_breasted_apalis_yebapa1_177025121.jpg",
+      "public_id": "bird-gallery/yellow_breasted_apalis_yebapa1/macaulay/yellow_breasted_apalis_yebapa1_177025121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85463,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/177025121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "177025121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_breasted_apalis_yebapa1_275447951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940670/bird-gallery/yellow_breasted_apalis_yebapa1/macaulay/yellow_breasted_apalis_yebapa1_275447951.jpg",
+      "public_id": "bird-gallery/yellow_breasted_apalis_yebapa1/macaulay/yellow_breasted_apalis_yebapa1_275447951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55399,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/275447951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "275447951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_breasted_apalis_yebapa1_484059591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940671/bird-gallery/yellow_breasted_apalis_yebapa1/macaulay/yellow_breasted_apalis_yebapa1_484059591.jpg",
+      "public_id": "bird-gallery/yellow_breasted_apalis_yebapa1/macaulay/yellow_breasted_apalis_yebapa1_484059591",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88787,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/484059591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "484059591",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_breasted_apalis_yebapa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940672/bird-gallery/yellow_breasted_apalis_yebapa1/inaturalist/yellow_breasted_apalis_yebapa1_1.jpg",
+      "public_id": "bird-gallery/yellow_breasted_apalis_yebapa1/inaturalist/yellow_breasted_apalis_yebapa1_1",
+      "width": 1024,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 175619,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/191865023",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191865023,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_breasted_apalis_yebapa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940673/bird-gallery/yellow_breasted_apalis_yebapa1/inaturalist/yellow_breasted_apalis_yebapa1_2.jpg",
+      "public_id": "bird-gallery/yellow_breasted_apalis_yebapa1/inaturalist/yellow_breasted_apalis_yebapa1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 60983,
+      "attribution": {
+        "photographer": "peterlupton",
+        "photographer_url": "https://www.inaturalist.org/observations/82174706",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© peterlupton (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 82174706,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_breasted_apalis_yebapa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940674/bird-gallery/yellow_breasted_apalis_yebapa1/inaturalist/yellow_breasted_apalis_yebapa1_3.jpg",
+      "public_id": "bird-gallery/yellow_breasted_apalis_yebapa1/inaturalist/yellow_breasted_apalis_yebapa1_3",
+      "width": 800,
+      "height": 598,
+      "format": "jpg",
+      "bytes": 89665,
+      "attribution": {
+        "photographer": "katebraunsd",
+        "photographer_url": "https://www.inaturalist.org/observations/11073031",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© katebraunsd (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11073031,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

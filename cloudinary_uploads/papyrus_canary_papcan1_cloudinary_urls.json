@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "papyrus_canary_papcan1",
+    "chinese_name": "乌干达丝雀",
+    "english_name": "Papyrus Canary",
+    "scientific_name": "Crithagra koliensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "papyrus_canary_papcan1_177202001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944982/bird-gallery/papyrus_canary_papcan1/macaulay/papyrus_canary_papcan1_177202001.jpg",
+      "public_id": "bird-gallery/papyrus_canary_papcan1/macaulay/papyrus_canary_papcan1_177202001",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 116165,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/177202001",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "177202001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "papyrus_canary_papcan1_582750411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944983/bird-gallery/papyrus_canary_papcan1/macaulay/papyrus_canary_papcan1_582750411.jpg",
+      "public_id": "bird-gallery/papyrus_canary_papcan1/macaulay/papyrus_canary_papcan1_582750411",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 71127,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/582750411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "582750411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "papyrus_canary_papcan1_635668626.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944984/bird-gallery/papyrus_canary_papcan1/macaulay/papyrus_canary_papcan1_635668626.jpg",
+      "public_id": "bird-gallery/papyrus_canary_papcan1/macaulay/papyrus_canary_papcan1_635668626",
+      "width": 1200,
+      "height": 1043,
+      "format": "jpg",
+      "bytes": 97908,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/635668626",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "635668626",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "papyrus_canary_papcan1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944985/bird-gallery/papyrus_canary_papcan1/inaturalist/papyrus_canary_papcan1_1.jpg",
+      "public_id": "bird-gallery/papyrus_canary_papcan1/inaturalist/papyrus_canary_papcan1_1",
+      "width": 1024,
+      "height": 738,
+      "format": "jpg",
+      "bytes": 74315,
+      "attribution": {
+        "photographer": "bertharris",
+        "photographer_url": "https://www.inaturalist.org/observations/94696246",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bertharris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 94696246,
+        "note": null
+      }
+    },
+    {
+      "original_file": "papyrus_canary_papcan1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944986/bird-gallery/papyrus_canary_papcan1/inaturalist/papyrus_canary_papcan1_2.jpg",
+      "public_id": "bird-gallery/papyrus_canary_papcan1/inaturalist/papyrus_canary_papcan1_2",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 78365,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/44984593",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 44984593,
+        "note": null
+      }
+    },
+    {
+      "original_file": "papyrus_canary_papcan1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944987/bird-gallery/papyrus_canary_papcan1/inaturalist/papyrus_canary_papcan1_3.jpg",
+      "public_id": "bird-gallery/papyrus_canary_papcan1/inaturalist/papyrus_canary_papcan1_3",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 68125,
+      "attribution": {
+        "photographer": "opisska",
+        "photographer_url": "https://www.inaturalist.org/observations/112658303",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© opisska (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 112658303,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

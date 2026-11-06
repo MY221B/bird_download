@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_browed_robin_chat_wbrcha2",
+    "chinese_name": "白眉歌䳭",
+    "english_name": "White-browed Robin-Chat",
+    "scientific_name": "Cossypha heuglini"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_browed_robin_chat_wbrcha2_215824561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941309/bird-gallery/white_browed_robin_chat_wbrcha2/macaulay/white_browed_robin_chat_wbrcha2_215824561.jpg",
+      "public_id": "bird-gallery/white_browed_robin_chat_wbrcha2/macaulay/white_browed_robin_chat_wbrcha2_215824561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70507,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/215824561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "215824561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_robin_chat_wbrcha2_632960746.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941310/bird-gallery/white_browed_robin_chat_wbrcha2/macaulay/white_browed_robin_chat_wbrcha2_632960746.jpg",
+      "public_id": "bird-gallery/white_browed_robin_chat_wbrcha2/macaulay/white_browed_robin_chat_wbrcha2_632960746",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104248,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632960746",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632960746",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_robin_chat_wbrcha2_637115004.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941311/bird-gallery/white_browed_robin_chat_wbrcha2/macaulay/white_browed_robin_chat_wbrcha2_637115004.jpg",
+      "public_id": "bird-gallery/white_browed_robin_chat_wbrcha2/macaulay/white_browed_robin_chat_wbrcha2_637115004",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68471,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/637115004",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "637115004",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_browed_robin_chat_wbrcha2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941312/bird-gallery/white_browed_robin_chat_wbrcha2/inaturalist/white_browed_robin_chat_wbrcha2_1.jpg",
+      "public_id": "bird-gallery/white_browed_robin_chat_wbrcha2/inaturalist/white_browed_robin_chat_wbrcha2_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 103859,
+      "attribution": {
+        "photographer": "james_ileene",
+        "photographer_url": "https://www.inaturalist.org/observations/190052210",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© james_ileene (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 190052210,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_robin_chat_wbrcha2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941313/bird-gallery/white_browed_robin_chat_wbrcha2/inaturalist/white_browed_robin_chat_wbrcha2_2.jpg",
+      "public_id": "bird-gallery/white_browed_robin_chat_wbrcha2/inaturalist/white_browed_robin_chat_wbrcha2_2",
+      "width": 1024,
+      "height": 672,
+      "format": "jpg",
+      "bytes": 76650,
+      "attribution": {
+        "photographer": "projectseawolf_sv",
+        "photographer_url": "https://www.inaturalist.org/observations/172619919",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© projectseawolf_sv (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 172619919,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_browed_robin_chat_wbrcha2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941314/bird-gallery/white_browed_robin_chat_wbrcha2/inaturalist/white_browed_robin_chat_wbrcha2_3.jpg",
+      "public_id": "bird-gallery/white_browed_robin_chat_wbrcha2/inaturalist/white_browed_robin_chat_wbrcha2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57115,
+      "attribution": {
+        "photographer": "greggdarling",
+        "photographer_url": "https://www.inaturalist.org/observations/140637056",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greggdarling (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 140637056,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

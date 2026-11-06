@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "rosy_patched_bushshrike_ropbus1",
+    "chinese_name": "粉斑丛鵙",
+    "english_name": "Rosy-patched Bushshrike",
+    "scientific_name": "Rhodophoneus cruentus"
+  },
+  "macaulay": [
+    {
+      "original_file": "rosy_patched_bushshrike_ropbus1_199392701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943978/bird-gallery/rosy_patched_bushshrike_ropbus1/macaulay/rosy_patched_bushshrike_ropbus1_199392701.jpg",
+      "public_id": "bird-gallery/rosy_patched_bushshrike_ropbus1/macaulay/rosy_patched_bushshrike_ropbus1_199392701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 33497,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/199392701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "199392701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosy_patched_bushshrike_ropbus1_204592271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943979/bird-gallery/rosy_patched_bushshrike_ropbus1/macaulay/rosy_patched_bushshrike_ropbus1_204592271.jpg",
+      "public_id": "bird-gallery/rosy_patched_bushshrike_ropbus1/macaulay/rosy_patched_bushshrike_ropbus1_204592271",
+      "width": 1200,
+      "height": 893,
+      "format": "jpg",
+      "bytes": 72855,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204592271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204592271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosy_patched_bushshrike_ropbus1_32400851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943980/bird-gallery/rosy_patched_bushshrike_ropbus1/macaulay/rosy_patched_bushshrike_ropbus1_32400851.jpg",
+      "public_id": "bird-gallery/rosy_patched_bushshrike_ropbus1/macaulay/rosy_patched_bushshrike_ropbus1_32400851",
+      "width": 1200,
+      "height": 702,
+      "format": "jpg",
+      "bytes": 62754,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32400851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32400851",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rosy_patched_bushshrike_ropbus1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943981/bird-gallery/rosy_patched_bushshrike_ropbus1/inaturalist/rosy_patched_bushshrike_ropbus1_1.jpg",
+      "public_id": "bird-gallery/rosy_patched_bushshrike_ropbus1/inaturalist/rosy_patched_bushshrike_ropbus1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 88340,
+      "attribution": {
+        "photographer": "ramonamom",
+        "photographer_url": "https://www.inaturalist.org/observations/82626241",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ramonamom (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 82626241,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosy_patched_bushshrike_ropbus1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943982/bird-gallery/rosy_patched_bushshrike_ropbus1/inaturalist/rosy_patched_bushshrike_ropbus1_2.jpg",
+      "public_id": "bird-gallery/rosy_patched_bushshrike_ropbus1/inaturalist/rosy_patched_bushshrike_ropbus1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 135068,
+      "attribution": {
+        "photographer": "wasinitourguide",
+        "photographer_url": "https://www.inaturalist.org/observations/53927781",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wasinitourguide (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 53927781,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosy_patched_bushshrike_ropbus1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943982/bird-gallery/rosy_patched_bushshrike_ropbus1/inaturalist/rosy_patched_bushshrike_ropbus1_3.jpg",
+      "public_id": "bird-gallery/rosy_patched_bushshrike_ropbus1/inaturalist/rosy_patched_bushshrike_ropbus1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 190049,
+      "attribution": {
+        "photographer": "jacobfpenner",
+        "photographer_url": "https://www.inaturalist.org/observations/242396630",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jacobfpenner (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 242396630,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

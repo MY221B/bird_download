@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_brown_throated_weaver_nbtwea1",
+    "chinese_name": "北非褐喉织雀",
+    "english_name": "Northern Brown-throated Weaver",
+    "scientific_name": "Ploceus castanops"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_brown_throated_weaver_nbtwea1_134505801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944972/bird-gallery/northern_brown_throated_weaver_nbtwea1/macaulay/northern_brown_throated_weaver_nbtwea1_134505801.jpg",
+      "public_id": "bird-gallery/northern_brown_throated_weaver_nbtwea1/macaulay/northern_brown_throated_weaver_nbtwea1_134505801",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 60290,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/134505801",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "134505801",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_brown_throated_weaver_nbtwea1_204294811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944973/bird-gallery/northern_brown_throated_weaver_nbtwea1/macaulay/northern_brown_throated_weaver_nbtwea1_204294811.jpg",
+      "public_id": "bird-gallery/northern_brown_throated_weaver_nbtwea1/macaulay/northern_brown_throated_weaver_nbtwea1_204294811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 150802,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204294811",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204294811",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_brown_throated_weaver_nbtwea1_204301431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944974/bird-gallery/northern_brown_throated_weaver_nbtwea1/macaulay/northern_brown_throated_weaver_nbtwea1_204301431.jpg",
+      "public_id": "bird-gallery/northern_brown_throated_weaver_nbtwea1/macaulay/northern_brown_throated_weaver_nbtwea1_204301431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55944,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204301431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204301431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_brown_throated_weaver_nbtwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944975/bird-gallery/northern_brown_throated_weaver_nbtwea1/inaturalist/northern_brown_throated_weaver_nbtwea1_1.jpg",
+      "public_id": "bird-gallery/northern_brown_throated_weaver_nbtwea1/inaturalist/northern_brown_throated_weaver_nbtwea1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 79187,
+      "attribution": {
+        "photographer": "sbooo",
+        "photographer_url": "https://www.inaturalist.org/observations/336363732",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sbooo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 336363732,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_brown_throated_weaver_nbtwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944975/bird-gallery/northern_brown_throated_weaver_nbtwea1/inaturalist/northern_brown_throated_weaver_nbtwea1_2.jpg",
+      "public_id": "bird-gallery/northern_brown_throated_weaver_nbtwea1/inaturalist/northern_brown_throated_weaver_nbtwea1_2",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 74265,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/30056208",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 30056208,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_brown_throated_weaver_nbtwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944976/bird-gallery/northern_brown_throated_weaver_nbtwea1/inaturalist/northern_brown_throated_weaver_nbtwea1_3.jpg",
+      "public_id": "bird-gallery/northern_brown_throated_weaver_nbtwea1/inaturalist/northern_brown_throated_weaver_nbtwea1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 81217,
+      "attribution": {
+        "photographer": "lobotaniser",
+        "photographer_url": "https://www.inaturalist.org/observations/38301457",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© lobotaniser (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 38301457,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

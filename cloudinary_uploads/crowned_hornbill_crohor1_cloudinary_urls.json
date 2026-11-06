@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "crowned_hornbill_crohor1",
+    "chinese_name": "冕弯嘴犀鸟",
+    "english_name": "Crowned Hornbill",
+    "scientific_name": "Lophoceros alboterminatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "crowned_hornbill_crohor1_205967841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941172/bird-gallery/crowned_hornbill_crohor1/macaulay/crowned_hornbill_crohor1_205967841.jpg",
+      "public_id": "bird-gallery/crowned_hornbill_crohor1/macaulay/crowned_hornbill_crohor1_205967841",
+      "width": 1000,
+      "height": 781,
+      "format": "jpg",
+      "bytes": 73530,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205967841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205967841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "crowned_hornbill_crohor1_82185461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941174/bird-gallery/crowned_hornbill_crohor1/macaulay/crowned_hornbill_crohor1_82185461.jpg",
+      "public_id": "bird-gallery/crowned_hornbill_crohor1/macaulay/crowned_hornbill_crohor1_82185461",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 64091,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/82185461",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "82185461",
+        "note": null
+      }
+    },
+    {
+      "original_file": "crowned_hornbill_crohor1_93661101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941175/bird-gallery/crowned_hornbill_crohor1/macaulay/crowned_hornbill_crohor1_93661101.jpg",
+      "public_id": "bird-gallery/crowned_hornbill_crohor1/macaulay/crowned_hornbill_crohor1_93661101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82407,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/93661101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "93661101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "crowned_hornbill_crohor1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941176/bird-gallery/crowned_hornbill_crohor1/inaturalist/crowned_hornbill_crohor1_1.jpg",
+      "public_id": "bird-gallery/crowned_hornbill_crohor1/inaturalist/crowned_hornbill_crohor1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 45296,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/19935329",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 19935329,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crowned_hornbill_crohor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941176/bird-gallery/crowned_hornbill_crohor1/inaturalist/crowned_hornbill_crohor1_2.jpg",
+      "public_id": "bird-gallery/crowned_hornbill_crohor1/inaturalist/crowned_hornbill_crohor1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90894,
+      "attribution": {
+        "photographer": "azph",
+        "photographer_url": "https://www.inaturalist.org/observations/45667929",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© azph (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 45667929,
+        "note": null
+      }
+    },
+    {
+      "original_file": "crowned_hornbill_crohor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941177/bird-gallery/crowned_hornbill_crohor1/inaturalist/crowned_hornbill_crohor1_3.jpg",
+      "public_id": "bird-gallery/crowned_hornbill_crohor1/inaturalist/crowned_hornbill_crohor1_3",
+      "width": 815,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 61744,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/94031449",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 94031449,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

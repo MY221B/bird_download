@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "cape_robin_chat_carcha1",
+    "chinese_name": "黄喉歌鵖",
+    "english_name": "Cape Robin-Chat",
+    "scientific_name": "Dessonornis caffer"
+  },
+  "macaulay": [
+    {
+      "original_file": "cape_robin_chat_carcha1_645258275.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939542/bird-gallery/cape_robin_chat_carcha1/macaulay/cape_robin_chat_carcha1_645258275.jpg",
+      "public_id": "bird-gallery/cape_robin_chat_carcha1/macaulay/cape_robin_chat_carcha1_645258275",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 124180,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645258275",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645258275",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_robin_chat_carcha1_645564237.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939543/bird-gallery/cape_robin_chat_carcha1/macaulay/cape_robin_chat_carcha1_645564237.jpg",
+      "public_id": "bird-gallery/cape_robin_chat_carcha1/macaulay/cape_robin_chat_carcha1_645564237",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 64820,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645564237",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645564237",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_robin_chat_carcha1_665626479.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939544/bird-gallery/cape_robin_chat_carcha1/macaulay/cape_robin_chat_carcha1_665626479.jpg",
+      "public_id": "bird-gallery/cape_robin_chat_carcha1/macaulay/cape_robin_chat_carcha1_665626479",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75967,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665626479",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665626479",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "cape_robin_chat_carcha1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939546/bird-gallery/cape_robin_chat_carcha1/inaturalist/cape_robin_chat_carcha1_1.jpg",
+      "public_id": "bird-gallery/cape_robin_chat_carcha1/inaturalist/cape_robin_chat_carcha1_1",
+      "width": 1024,
+      "height": 797,
+      "format": "jpg",
+      "bytes": 49480,
+      "attribution": {
+        "photographer": "daryldbs",
+        "photographer_url": "https://www.inaturalist.org/observations/122951391",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© daryldbs (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 122951391,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_robin_chat_carcha1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939546/bird-gallery/cape_robin_chat_carcha1/inaturalist/cape_robin_chat_carcha1_2.jpg",
+      "public_id": "bird-gallery/cape_robin_chat_carcha1/inaturalist/cape_robin_chat_carcha1_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 48128,
+      "attribution": {
+        "photographer": "wingate",
+        "photographer_url": "https://www.inaturalist.org/observations/210693242",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wingate (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 210693242,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_robin_chat_carcha1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939547/bird-gallery/cape_robin_chat_carcha1/inaturalist/cape_robin_chat_carcha1_3.jpg",
+      "public_id": "bird-gallery/cape_robin_chat_carcha1/inaturalist/cape_robin_chat_carcha1_3",
+      "width": 800,
+      "height": 664,
+      "format": "jpg",
+      "bytes": 39076,
+      "attribution": {
+        "photographer": "damon2012",
+        "photographer_url": "https://www.inaturalist.org/observations/43387729",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© damon2012 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 43387729,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

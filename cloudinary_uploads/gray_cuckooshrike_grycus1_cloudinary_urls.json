@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "gray_cuckooshrike_grycus1",
+    "chinese_name": "非洲灰鹃鵙",
+    "english_name": "Gray Cuckooshrike",
+    "scientific_name": "Ceblepyris caesius"
+  },
+  "macaulay": [
+    {
+      "original_file": "gray_cuckooshrike_grycus1_205975641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941198/bird-gallery/gray_cuckooshrike_grycus1/macaulay/gray_cuckooshrike_grycus1_205975641.jpg",
+      "public_id": "bird-gallery/gray_cuckooshrike_grycus1/macaulay/gray_cuckooshrike_grycus1_205975641",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 133359,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205975641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205975641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_cuckooshrike_grycus1_587537881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941199/bird-gallery/gray_cuckooshrike_grycus1/macaulay/gray_cuckooshrike_grycus1_587537881.jpg",
+      "public_id": "bird-gallery/gray_cuckooshrike_grycus1/macaulay/gray_cuckooshrike_grycus1_587537881",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65935,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/587537881",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "587537881",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_cuckooshrike_grycus1_619494396.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941200/bird-gallery/gray_cuckooshrike_grycus1/macaulay/gray_cuckooshrike_grycus1_619494396.jpg",
+      "public_id": "bird-gallery/gray_cuckooshrike_grycus1/macaulay/gray_cuckooshrike_grycus1_619494396",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76730,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/619494396",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "619494396",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gray_cuckooshrike_grycus1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941201/bird-gallery/gray_cuckooshrike_grycus1/inaturalist/gray_cuckooshrike_grycus1_1.jpg",
+      "public_id": "bird-gallery/gray_cuckooshrike_grycus1/inaturalist/gray_cuckooshrike_grycus1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 78366,
+      "attribution": {
+        "photographer": "chartuso",
+        "photographer_url": "https://www.inaturalist.org/observations/32869949",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© chartuso (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 32869949,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_cuckooshrike_grycus1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941202/bird-gallery/gray_cuckooshrike_grycus1/inaturalist/gray_cuckooshrike_grycus1_2.jpg",
+      "public_id": "bird-gallery/gray_cuckooshrike_grycus1/inaturalist/gray_cuckooshrike_grycus1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 54064,
+      "attribution": {
+        "photographer": "sandilombard",
+        "photographer_url": "https://www.inaturalist.org/observations/340807926",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sandilombard (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 340807926,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_cuckooshrike_grycus1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941203/bird-gallery/gray_cuckooshrike_grycus1/inaturalist/gray_cuckooshrike_grycus1_3.jpg",
+      "public_id": "bird-gallery/gray_cuckooshrike_grycus1/inaturalist/gray_cuckooshrike_grycus1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 71386,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/67134202",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 67134202,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

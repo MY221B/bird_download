@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "pearl_spotted_owlet_pesowl1",
+    "chinese_name": "珠斑鸺鹠",
+    "english_name": "Pearl-spotted Owlet",
+    "scientific_name": "Glaucidium perlatum"
+  },
+  "macaulay": [
+    {
+      "original_file": "pearl_spotted_owlet_pesowl1_157585731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939977/bird-gallery/pearl_spotted_owlet_pesowl1/macaulay/pearl_spotted_owlet_pesowl1_157585731.jpg",
+      "public_id": "bird-gallery/pearl_spotted_owlet_pesowl1/macaulay/pearl_spotted_owlet_pesowl1_157585731",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 73670,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/157585731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "157585731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pearl_spotted_owlet_pesowl1_385010961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939978/bird-gallery/pearl_spotted_owlet_pesowl1/macaulay/pearl_spotted_owlet_pesowl1_385010961.jpg",
+      "public_id": "bird-gallery/pearl_spotted_owlet_pesowl1/macaulay/pearl_spotted_owlet_pesowl1_385010961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 110887,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/385010961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "385010961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pearl_spotted_owlet_pesowl1_637190927.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939979/bird-gallery/pearl_spotted_owlet_pesowl1/macaulay/pearl_spotted_owlet_pesowl1_637190927.jpg",
+      "public_id": "bird-gallery/pearl_spotted_owlet_pesowl1/macaulay/pearl_spotted_owlet_pesowl1_637190927",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 48141,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/637190927",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "637190927",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pearl_spotted_owlet_pesowl1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939980/bird-gallery/pearl_spotted_owlet_pesowl1/inaturalist/pearl_spotted_owlet_pesowl1_1.jpg",
+      "public_id": "bird-gallery/pearl_spotted_owlet_pesowl1/inaturalist/pearl_spotted_owlet_pesowl1_1",
+      "width": 1024,
+      "height": 674,
+      "format": "jpg",
+      "bytes": 79987,
+      "attribution": {
+        "photographer": "carmelo_lopez",
+        "photographer_url": "https://www.inaturalist.org/observations/20985398",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© carmelo_lopez (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20985398,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pearl_spotted_owlet_pesowl1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939981/bird-gallery/pearl_spotted_owlet_pesowl1/inaturalist/pearl_spotted_owlet_pesowl1_2.jpg",
+      "public_id": "bird-gallery/pearl_spotted_owlet_pesowl1/inaturalist/pearl_spotted_owlet_pesowl1_2",
+      "width": 796,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 66950,
+      "attribution": {
+        "photographer": "saschaschumann",
+        "photographer_url": "https://www.inaturalist.org/observations/356458149",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© saschaschumann (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 356458149,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pearl_spotted_owlet_pesowl1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939982/bird-gallery/pearl_spotted_owlet_pesowl1/inaturalist/pearl_spotted_owlet_pesowl1_3.jpg",
+      "public_id": "bird-gallery/pearl_spotted_owlet_pesowl1/inaturalist/pearl_spotted_owlet_pesowl1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 51198,
+      "attribution": {
+        "photographer": "ratite",
+        "photographer_url": "https://www.inaturalist.org/observations/194172702",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ratite (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 194172702,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

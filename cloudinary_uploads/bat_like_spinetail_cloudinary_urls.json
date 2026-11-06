@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "bat_like_spinetail",
+    "chinese_name": "伯氏针尾雨燕",
+    "english_name": "Bat-like Spinetail",
+    "scientific_name": "Neafrapus boehmi"
+  },
+  "macaulay": [
+    {
+      "original_file": "bat_like_spinetail_385393341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945131/bird-gallery/bat_like_spinetail/macaulay/bat_like_spinetail_385393341.jpg",
+      "public_id": "bird-gallery/bat_like_spinetail/macaulay/bat_like_spinetail_385393341",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 27575,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/385393341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "385393341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bat_like_spinetail_441324911.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945133/bird-gallery/bat_like_spinetail/macaulay/bat_like_spinetail_441324911.jpg",
+      "public_id": "bird-gallery/bat_like_spinetail/macaulay/bat_like_spinetail_441324911",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 32032,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/441324911",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "441324911",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bat_like_spinetail_485840081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945133/bird-gallery/bat_like_spinetail/macaulay/bat_like_spinetail_485840081.jpg",
+      "public_id": "bird-gallery/bat_like_spinetail/macaulay/bat_like_spinetail_485840081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 20046,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/485840081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "485840081",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bat_like_spinetail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945134/bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_1.jpg",
+      "public_id": "bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_1",
+      "width": 1024,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 27477,
+      "attribution": {
+        "photographer": "danielcorreia",
+        "photographer_url": "https://www.inaturalist.org/observations/393794162",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© danielcorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 393794162,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bat_like_spinetail_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945135/bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_2.jpg",
+      "public_id": "bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 5440,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/163368873",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 163368873,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bat_like_spinetail_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945137/bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_3.jpg",
+      "public_id": "bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 4980,
+      "attribution": {
+        "photographer": "lc_three",
+        "photographer_url": "https://www.inaturalist.org/observations/384379417",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lc_three (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 384379417,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

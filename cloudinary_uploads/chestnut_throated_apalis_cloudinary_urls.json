@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "chestnut_throated_apalis",
+    "chinese_name": "栗喉娇莺",
+    "english_name": "Chestnut-throated Apalis",
+    "scientific_name": "Apalis porphyrolaema"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_throated_apalis_205474691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941145/bird-gallery/chestnut_throated_apalis/macaulay/chestnut_throated_apalis_205474691.jpg",
+      "public_id": "bird-gallery/chestnut_throated_apalis/macaulay/chestnut_throated_apalis_205474691",
+      "width": 667,
+      "height": 500,
+      "format": "jpg",
+      "bytes": 35126,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205474691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205474691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_throated_apalis_206143231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941146/bird-gallery/chestnut_throated_apalis/macaulay/chestnut_throated_apalis_206143231.jpg",
+      "public_id": "bird-gallery/chestnut_throated_apalis/macaulay/chestnut_throated_apalis_206143231",
+      "width": 1152,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 82796,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206143231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206143231",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_throated_apalis_636938356.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941147/bird-gallery/chestnut_throated_apalis/macaulay/chestnut_throated_apalis_636938356.jpg",
+      "public_id": "bird-gallery/chestnut_throated_apalis/macaulay/chestnut_throated_apalis_636938356",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100158,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/636938356",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "636938356",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_throated_apalis_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941148/bird-gallery/chestnut_throated_apalis/inaturalist/chestnut_throated_apalis_1.jpg",
+      "public_id": "bird-gallery/chestnut_throated_apalis/inaturalist/chestnut_throated_apalis_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 102711,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7129047",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7129047,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_throated_apalis_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941148/bird-gallery/chestnut_throated_apalis/inaturalist/chestnut_throated_apalis_2.jpg",
+      "public_id": "bird-gallery/chestnut_throated_apalis/inaturalist/chestnut_throated_apalis_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 66767,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/70035467",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 70035467,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_throated_apalis_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941149/bird-gallery/chestnut_throated_apalis/inaturalist/chestnut_throated_apalis_3.jpg",
+      "public_id": "bird-gallery/chestnut_throated_apalis/inaturalist/chestnut_throated_apalis_3",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 34078,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/38635612",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 38635612,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_bellied_parrot_rebpar1",
+    "chinese_name": "红腹鹦鹉",
+    "english_name": "Red-bellied Parrot",
+    "scientific_name": "Poicephalus rufiventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_bellied_parrot_rebpar1_108199841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944086/bird-gallery/red_bellied_parrot_rebpar1/macaulay/red_bellied_parrot_rebpar1_108199841.jpg",
+      "public_id": "bird-gallery/red_bellied_parrot_rebpar1/macaulay/red_bellied_parrot_rebpar1_108199841",
+      "width": 1143,
+      "height": 776,
+      "format": "jpg",
+      "bytes": 60538,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/108199841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "108199841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_bellied_parrot_rebpar1_205461621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944087/bird-gallery/red_bellied_parrot_rebpar1/macaulay/red_bellied_parrot_rebpar1_205461621.jpg",
+      "public_id": "bird-gallery/red_bellied_parrot_rebpar1/macaulay/red_bellied_parrot_rebpar1_205461621",
+      "width": 666,
+      "height": 500,
+      "format": "jpg",
+      "bytes": 60753,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205461621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205461621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_bellied_parrot_rebpar1_385373841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944088/bird-gallery/red_bellied_parrot_rebpar1/macaulay/red_bellied_parrot_rebpar1_385373841.jpg",
+      "public_id": "bird-gallery/red_bellied_parrot_rebpar1/macaulay/red_bellied_parrot_rebpar1_385373841",
+      "width": 1097,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 49011,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/385373841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "385373841",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_bellied_parrot_rebpar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944089/bird-gallery/red_bellied_parrot_rebpar1/inaturalist/red_bellied_parrot_rebpar1_1.jpg",
+      "public_id": "bird-gallery/red_bellied_parrot_rebpar1/inaturalist/red_bellied_parrot_rebpar1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 93173,
+      "attribution": {
+        "photographer": "dopschoen",
+        "photographer_url": "https://www.inaturalist.org/observations/341948274",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dopschoen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 341948274,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_bellied_parrot_rebpar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944089/bird-gallery/red_bellied_parrot_rebpar1/inaturalist/red_bellied_parrot_rebpar1_2.jpg",
+      "public_id": "bird-gallery/red_bellied_parrot_rebpar1/inaturalist/red_bellied_parrot_rebpar1_2",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 145965,
+      "attribution": {
+        "photographer": "ddlshart",
+        "photographer_url": "https://www.inaturalist.org/observations/260409327",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ddlshart (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 260409327,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_bellied_parrot_rebpar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944090/bird-gallery/red_bellied_parrot_rebpar1/inaturalist/red_bellied_parrot_rebpar1_3.jpg",
+      "public_id": "bird-gallery/red_bellied_parrot_rebpar1/inaturalist/red_bellied_parrot_rebpar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 82921,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/247970693",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 247970693,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

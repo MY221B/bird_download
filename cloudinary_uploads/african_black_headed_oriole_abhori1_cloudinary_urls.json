@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_black_headed_oriole_abhori1",
+    "chinese_name": "东非黑头黄鹂",
+    "english_name": "African Black-headed Oriole",
+    "scientific_name": "Oriolus larvatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_black_headed_oriole_abhori1_206116241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939128/bird-gallery/african_black_headed_oriole_abhori1/macaulay/african_black_headed_oriole_abhori1_206116241.jpg",
+      "public_id": "bird-gallery/african_black_headed_oriole_abhori1/macaulay/african_black_headed_oriole_abhori1_206116241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 170595,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206116241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206116241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_black_headed_oriole_abhori1_602765771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939129/bird-gallery/african_black_headed_oriole_abhori1/macaulay/african_black_headed_oriole_abhori1_602765771.jpg",
+      "public_id": "bird-gallery/african_black_headed_oriole_abhori1/macaulay/african_black_headed_oriole_abhori1_602765771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 108464,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/602765771",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "602765771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_black_headed_oriole_abhori1_643689482.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939130/bird-gallery/african_black_headed_oriole_abhori1/macaulay/african_black_headed_oriole_abhori1_643689482.jpg",
+      "public_id": "bird-gallery/african_black_headed_oriole_abhori1/macaulay/african_black_headed_oriole_abhori1_643689482",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 86411,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/643689482",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "643689482",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_black_headed_oriole_abhori1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939131/bird-gallery/african_black_headed_oriole_abhori1/inaturalist/african_black_headed_oriole_abhori1_1.jpg",
+      "public_id": "bird-gallery/african_black_headed_oriole_abhori1/inaturalist/african_black_headed_oriole_abhori1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 72828,
+      "attribution": {
+        "photographer": "zanskar",
+        "photographer_url": "https://www.inaturalist.org/observations/8036701",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© zanskar (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8036701,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_black_headed_oriole_abhori1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939132/bird-gallery/african_black_headed_oriole_abhori1/inaturalist/african_black_headed_oriole_abhori1_2.jpg",
+      "public_id": "bird-gallery/african_black_headed_oriole_abhori1/inaturalist/african_black_headed_oriole_abhori1_2",
+      "width": 1024,
+      "height": 841,
+      "format": "jpg",
+      "bytes": 110564,
+      "attribution": {
+        "photographer": "robshep",
+        "photographer_url": "https://www.inaturalist.org/observations/308852339",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robshep (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 308852339,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_black_headed_oriole_abhori1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939132/bird-gallery/african_black_headed_oriole_abhori1/inaturalist/african_black_headed_oriole_abhori1_3.jpg",
+      "public_id": "bird-gallery/african_black_headed_oriole_abhori1/inaturalist/african_black_headed_oriole_abhori1_3",
+      "width": 1024,
+      "height": 789,
+      "format": "jpg",
+      "bytes": 135225,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/89152984",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 89152984,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

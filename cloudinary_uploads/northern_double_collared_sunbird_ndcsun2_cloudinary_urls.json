@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_double_collared_sunbird_ndcsun2",
+    "chinese_name": "北非双领花蜜鸟",
+    "english_name": "Northern Double-collared Sunbird",
+    "scientific_name": "Cinnyris reichenowi"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_double_collared_sunbird_ndcsun2_205105081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939915/bird-gallery/northern_double_collared_sunbird_ndcsun2/macaulay/northern_double_collared_sunbird_ndcsun2_205105081.jpg",
+      "public_id": "bird-gallery/northern_double_collared_sunbird_ndcsun2/macaulay/northern_double_collared_sunbird_ndcsun2_205105081",
+      "width": 666,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 78837,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205105081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205105081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_double_collared_sunbird_ndcsun2_205105091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939916/bird-gallery/northern_double_collared_sunbird_ndcsun2/macaulay/northern_double_collared_sunbird_ndcsun2_205105091.jpg",
+      "public_id": "bird-gallery/northern_double_collared_sunbird_ndcsun2/macaulay/northern_double_collared_sunbird_ndcsun2_205105091",
+      "width": 667,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 55336,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205105091",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205105091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_double_collared_sunbird_ndcsun2_205105101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939917/bird-gallery/northern_double_collared_sunbird_ndcsun2/macaulay/northern_double_collared_sunbird_ndcsun2_205105101.jpg",
+      "public_id": "bird-gallery/northern_double_collared_sunbird_ndcsun2/macaulay/northern_double_collared_sunbird_ndcsun2_205105101",
+      "width": 667,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 70562,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205105101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205105101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_double_collared_sunbird_ndcsun2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939919/bird-gallery/northern_double_collared_sunbird_ndcsun2/inaturalist/northern_double_collared_sunbird_ndcsun2_1.jpg",
+      "public_id": "bird-gallery/northern_double_collared_sunbird_ndcsun2/inaturalist/northern_double_collared_sunbird_ndcsun2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 66915,
+      "attribution": {
+        "photographer": "jeanlouiscarlo",
+        "photographer_url": "https://www.inaturalist.org/observations/251563120",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanlouiscarlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 251563120,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_double_collared_sunbird_ndcsun2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939920/bird-gallery/northern_double_collared_sunbird_ndcsun2/inaturalist/northern_double_collared_sunbird_ndcsun2_2.jpg",
+      "public_id": "bird-gallery/northern_double_collared_sunbird_ndcsun2/inaturalist/northern_double_collared_sunbird_ndcsun2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72668,
+      "attribution": {
+        "photographer": "cdjshepherd",
+        "photographer_url": "https://www.inaturalist.org/observations/75345384",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cdjshepherd (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 75345384,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_double_collared_sunbird_ndcsun2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939921/bird-gallery/northern_double_collared_sunbird_ndcsun2/inaturalist/northern_double_collared_sunbird_ndcsun2_3.jpg",
+      "public_id": "bird-gallery/northern_double_collared_sunbird_ndcsun2/inaturalist/northern_double_collared_sunbird_ndcsun2_3",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 60245,
+      "attribution": {
+        "photographer": "seasav",
+        "photographer_url": "https://www.inaturalist.org/observations/9822388",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© seasav (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 9822388,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

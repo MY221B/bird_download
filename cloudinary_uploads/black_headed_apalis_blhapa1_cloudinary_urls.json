@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_headed_apalis_blhapa1",
+    "chinese_name": "黑头娇莺",
+    "english_name": "Black-headed Apalis",
+    "scientific_name": "Apalis melanocephala"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_headed_apalis_blhapa1_205986051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940766/bird-gallery/black_headed_apalis_blhapa1/macaulay/black_headed_apalis_blhapa1_205986051.jpg",
+      "public_id": "bird-gallery/black_headed_apalis_blhapa1/macaulay/black_headed_apalis_blhapa1_205986051",
+      "width": 1000,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 75621,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205986051",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205986051",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_apalis_blhapa1_240252081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940767/bird-gallery/black_headed_apalis_blhapa1/macaulay/black_headed_apalis_blhapa1_240252081.jpg",
+      "public_id": "bird-gallery/black_headed_apalis_blhapa1/macaulay/black_headed_apalis_blhapa1_240252081",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 94044,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/240252081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "240252081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_apalis_blhapa1_627654881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940768/bird-gallery/black_headed_apalis_blhapa1/macaulay/black_headed_apalis_blhapa1_627654881.jpg",
+      "public_id": "bird-gallery/black_headed_apalis_blhapa1/macaulay/black_headed_apalis_blhapa1_627654881",
+      "width": 1200,
+      "height": 804,
+      "format": "jpg",
+      "bytes": 85213,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/627654881",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "627654881",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_headed_apalis_blhapa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940770/bird-gallery/black_headed_apalis_blhapa1/inaturalist/black_headed_apalis_blhapa1_1.jpg",
+      "public_id": "bird-gallery/black_headed_apalis_blhapa1/inaturalist/black_headed_apalis_blhapa1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 189411,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/143816004",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143816004,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_apalis_blhapa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940771/bird-gallery/black_headed_apalis_blhapa1/inaturalist/black_headed_apalis_blhapa1_2.jpg",
+      "public_id": "bird-gallery/black_headed_apalis_blhapa1/inaturalist/black_headed_apalis_blhapa1_2",
+      "width": 1024,
+      "height": 886,
+      "format": "jpg",
+      "bytes": 90369,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/348441776",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 348441776,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_apalis_blhapa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940771/bird-gallery/black_headed_apalis_blhapa1/inaturalist/black_headed_apalis_blhapa1_3.jpg",
+      "public_id": "bird-gallery/black_headed_apalis_blhapa1/inaturalist/black_headed_apalis_blhapa1_3",
+      "width": 1024,
+      "height": 646,
+      "format": "jpg",
+      "bytes": 70317,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/320440022",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 320440022,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

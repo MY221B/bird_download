@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "pygmy_batis_pygbat1",
+    "chinese_name": "侏蓬背鹟",
+    "english_name": "Pygmy Batis",
+    "scientific_name": "Batis perkeo"
+  },
+  "macaulay": [
+    {
+      "original_file": "pygmy_batis_pygbat1_204308521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941987/bird-gallery/pygmy_batis_pygbat1/macaulay/pygmy_batis_pygbat1_204308521.jpg",
+      "public_id": "bird-gallery/pygmy_batis_pygbat1/macaulay/pygmy_batis_pygbat1_204308521",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76216,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204308521",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204308521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pygmy_batis_pygbat1_205984701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941988/bird-gallery/pygmy_batis_pygbat1/macaulay/pygmy_batis_pygbat1_205984701.jpg",
+      "public_id": "bird-gallery/pygmy_batis_pygbat1/macaulay/pygmy_batis_pygbat1_205984701",
+      "width": 1000,
+      "height": 662,
+      "format": "jpg",
+      "bytes": 101094,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pygmy_batis_pygbat1_628832905.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941989/bird-gallery/pygmy_batis_pygbat1/macaulay/pygmy_batis_pygbat1_628832905.jpg",
+      "public_id": "bird-gallery/pygmy_batis_pygbat1/macaulay/pygmy_batis_pygbat1_628832905",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 58206,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628832905",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628832905",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pygmy_batis_pygbat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941990/bird-gallery/pygmy_batis_pygbat1/inaturalist/pygmy_batis_pygbat1_1.jpg",
+      "public_id": "bird-gallery/pygmy_batis_pygbat1/inaturalist/pygmy_batis_pygbat1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 85301,
+      "attribution": {
+        "photographer": "thibaudaronson",
+        "photographer_url": "https://www.inaturalist.org/observations/154064343",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© thibaudaronson (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 154064343,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pygmy_batis_pygbat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941991/bird-gallery/pygmy_batis_pygbat1/inaturalist/pygmy_batis_pygbat1_2.jpg",
+      "public_id": "bird-gallery/pygmy_batis_pygbat1/inaturalist/pygmy_batis_pygbat1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 72045,
+      "attribution": {
+        "photographer": "seasav",
+        "photographer_url": "https://www.inaturalist.org/observations/58241279",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© seasav (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 58241279,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pygmy_batis_pygbat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941992/bird-gallery/pygmy_batis_pygbat1/inaturalist/pygmy_batis_pygbat1_3.jpg",
+      "public_id": "bird-gallery/pygmy_batis_pygbat1/inaturalist/pygmy_batis_pygbat1_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 157608,
+      "attribution": {
+        "photographer": "mjplagens",
+        "photographer_url": "https://www.inaturalist.org/observations/8930565",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mjplagens (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8930565,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

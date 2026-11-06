@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "malachite_kingfisher_malkin1",
+    "chinese_name": "冠翠鸟",
+    "english_name": "Malachite Kingfisher",
+    "scientific_name": "Corythornis cristatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "malachite_kingfisher_malkin1_614566325.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939867/bird-gallery/malachite_kingfisher_malkin1/macaulay/malachite_kingfisher_malkin1_614566325.jpg",
+      "public_id": "bird-gallery/malachite_kingfisher_malkin1/macaulay/malachite_kingfisher_malkin1_614566325",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 61276,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614566325",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614566325",
+        "note": null
+      }
+    },
+    {
+      "original_file": "malachite_kingfisher_malkin1_614566365.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939868/bird-gallery/malachite_kingfisher_malkin1/macaulay/malachite_kingfisher_malkin1_614566365.jpg",
+      "public_id": "bird-gallery/malachite_kingfisher_malkin1/macaulay/malachite_kingfisher_malkin1_614566365",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 77330,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614566365",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614566365",
+        "note": null
+      }
+    },
+    {
+      "original_file": "malachite_kingfisher_malkin1_645112087.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939870/bird-gallery/malachite_kingfisher_malkin1/macaulay/malachite_kingfisher_malkin1_645112087.jpg",
+      "public_id": "bird-gallery/malachite_kingfisher_malkin1/macaulay/malachite_kingfisher_malkin1_645112087",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51186,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645112087",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645112087",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "malachite_kingfisher_malkin1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939871/bird-gallery/malachite_kingfisher_malkin1/inaturalist/malachite_kingfisher_malkin1_1.jpg",
+      "public_id": "bird-gallery/malachite_kingfisher_malkin1/inaturalist/malachite_kingfisher_malkin1_1",
+      "width": 571,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 47972,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/4017519",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 4017519,
+        "note": null
+      }
+    },
+    {
+      "original_file": "malachite_kingfisher_malkin1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939871/bird-gallery/malachite_kingfisher_malkin1/inaturalist/malachite_kingfisher_malkin1_2.jpg",
+      "public_id": "bird-gallery/malachite_kingfisher_malkin1/inaturalist/malachite_kingfisher_malkin1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89285,
+      "attribution": {
+        "photographer": "callumevans",
+        "photographer_url": "https://www.inaturalist.org/observations/11333886",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© callumevans (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11333886,
+        "note": null
+      }
+    },
+    {
+      "original_file": "malachite_kingfisher_malkin1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939872/bird-gallery/malachite_kingfisher_malkin1/inaturalist/malachite_kingfisher_malkin1_3.jpg",
+      "public_id": "bird-gallery/malachite_kingfisher_malkin1/inaturalist/malachite_kingfisher_malkin1_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 69569,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/19390911",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19390911,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

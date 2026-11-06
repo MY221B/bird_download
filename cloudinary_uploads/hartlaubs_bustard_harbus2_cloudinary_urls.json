@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "hartlaubs_bustard_harbus2",
+    "chinese_name": "灰黑腹鸨",
+    "english_name": "Hartlaub's Bustard",
+    "scientific_name": "Lissotis hartlaubii"
+  },
+  "macaulay": [
+    {
+      "original_file": "hartlaubs_bustard_harbus2_117125441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939764/bird-gallery/hartlaubs_bustard_harbus2/macaulay/hartlaubs_bustard_harbus2_117125441.jpg",
+      "public_id": "bird-gallery/hartlaubs_bustard_harbus2/macaulay/hartlaubs_bustard_harbus2_117125441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 135007,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117125441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117125441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hartlaubs_bustard_harbus2_206085871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939765/bird-gallery/hartlaubs_bustard_harbus2/macaulay/hartlaubs_bustard_harbus2_206085871.jpg",
+      "public_id": "bird-gallery/hartlaubs_bustard_harbus2/macaulay/hartlaubs_bustard_harbus2_206085871",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 212107,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206085871",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206085871",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hartlaubs_bustard_harbus2_32401031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939766/bird-gallery/hartlaubs_bustard_harbus2/macaulay/hartlaubs_bustard_harbus2_32401031.jpg",
+      "public_id": "bird-gallery/hartlaubs_bustard_harbus2/macaulay/hartlaubs_bustard_harbus2_32401031",
+      "width": 1200,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 77810,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32401031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32401031",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hartlaubs_bustard_harbus2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939767/bird-gallery/hartlaubs_bustard_harbus2/inaturalist/hartlaubs_bustard_harbus2_1.jpg",
+      "public_id": "bird-gallery/hartlaubs_bustard_harbus2/inaturalist/hartlaubs_bustard_harbus2_1",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 13847,
+      "attribution": {
+        "photographer": "substanz",
+        "photographer_url": "https://www.inaturalist.org/observations/78526798",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© substanz (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 78526798,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hartlaubs_bustard_harbus2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939768/bird-gallery/hartlaubs_bustard_harbus2/inaturalist/hartlaubs_bustard_harbus2_2.jpg",
+      "public_id": "bird-gallery/hartlaubs_bustard_harbus2/inaturalist/hartlaubs_bustard_harbus2_2",
+      "width": 473,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 159938,
+      "attribution": {
+        "photographer": "majik85",
+        "photographer_url": "https://www.inaturalist.org/observations/407459347",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© majik85 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 407459347,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hartlaubs_bustard_harbus2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939769/bird-gallery/hartlaubs_bustard_harbus2/inaturalist/hartlaubs_bustard_harbus2_3.jpg",
+      "public_id": "bird-gallery/hartlaubs_bustard_harbus2/inaturalist/hartlaubs_bustard_harbus2_3",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 163716,
+      "attribution": {
+        "photographer": "dosvenadas",
+        "photographer_url": "https://www.inaturalist.org/observations/103820622",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dosvenadas (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103820622,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

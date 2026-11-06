@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "chubbs_cisticola",
+    "chinese_name": "查氏扇尾莺",
+    "english_name": "Chubb's Cisticola",
+    "scientific_name": "Cisticola chubbi"
+  },
+  "macaulay": [
+    {
+      "original_file": "chubbs_cisticola_204709871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944506/bird-gallery/chubbs_cisticola/macaulay/chubbs_cisticola_204709871.jpg",
+      "public_id": "bird-gallery/chubbs_cisticola/macaulay/chubbs_cisticola_204709871",
+      "width": 1200,
+      "height": 1053,
+      "format": "jpg",
+      "bytes": 157933,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204709871",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204709871",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chubbs_cisticola_206028331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944508/bird-gallery/chubbs_cisticola/macaulay/chubbs_cisticola_206028331.jpg",
+      "public_id": "bird-gallery/chubbs_cisticola/macaulay/chubbs_cisticola_206028331",
+      "width": 1000,
+      "height": 721,
+      "format": "jpg",
+      "bytes": 99996,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206028331",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206028331",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chubbs_cisticola_206208591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944509/bird-gallery/chubbs_cisticola/macaulay/chubbs_cisticola_206208591.jpg",
+      "public_id": "bird-gallery/chubbs_cisticola/macaulay/chubbs_cisticola_206208591",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68198,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206208591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206208591",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chubbs_cisticola_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944510/bird-gallery/chubbs_cisticola/inaturalist/chubbs_cisticola_1.jpg",
+      "public_id": "bird-gallery/chubbs_cisticola/inaturalist/chubbs_cisticola_1",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 47300,
+      "attribution": {
+        "photographer": "maurice133",
+        "photographer_url": "https://www.inaturalist.org/observations/263145311",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© maurice133 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 263145311,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chubbs_cisticola_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944510/bird-gallery/chubbs_cisticola/inaturalist/chubbs_cisticola_2.jpg",
+      "public_id": "bird-gallery/chubbs_cisticola/inaturalist/chubbs_cisticola_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58093,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7094715",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7094715,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chubbs_cisticola_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944511/bird-gallery/chubbs_cisticola/inaturalist/chubbs_cisticola_3.jpg",
+      "public_id": "bird-gallery/chubbs_cisticola/inaturalist/chubbs_cisticola_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 94935,
+      "attribution": {
+        "photographer": "lukeberg",
+        "photographer_url": "https://www.inaturalist.org/observations/311906694",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 311906694,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

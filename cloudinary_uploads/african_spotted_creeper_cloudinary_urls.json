@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_spotted_creeper",
+    "chinese_name": "非洲斑旋木雀",
+    "english_name": "African Spotted Creeper",
+    "scientific_name": "Salpornis salvadori"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_spotted_creeper_205486381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945552/bird-gallery/african_spotted_creeper/macaulay/african_spotted_creeper_205486381.jpg",
+      "public_id": "bird-gallery/african_spotted_creeper/macaulay/african_spotted_creeper_205486381",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78207,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205486381",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205486381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_spotted_creeper_47424411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945553/bird-gallery/african_spotted_creeper/macaulay/african_spotted_creeper_47424411.jpg",
+      "public_id": "bird-gallery/african_spotted_creeper/macaulay/african_spotted_creeper_47424411",
+      "width": 1017,
+      "height": 1080,
+      "format": "jpg",
+      "bytes": 152864,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47424411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47424411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_spotted_creeper_640332702.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945554/bird-gallery/african_spotted_creeper/macaulay/african_spotted_creeper_640332702.jpg",
+      "public_id": "bird-gallery/african_spotted_creeper/macaulay/african_spotted_creeper_640332702",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 60162,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/640332702",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "640332702",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_spotted_creeper_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945556/bird-gallery/african_spotted_creeper/inaturalist/african_spotted_creeper_1.jpg",
+      "public_id": "bird-gallery/african_spotted_creeper/inaturalist/african_spotted_creeper_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 151580,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/69424946",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69424946,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_spotted_creeper_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945557/bird-gallery/african_spotted_creeper/inaturalist/african_spotted_creeper_2.jpg",
+      "public_id": "bird-gallery/african_spotted_creeper/inaturalist/african_spotted_creeper_2",
+      "width": 1024,
+      "height": 794,
+      "format": "jpg",
+      "bytes": 147969,
+      "attribution": {
+        "photographer": "glennstockil",
+        "photographer_url": "https://www.inaturalist.org/observations/200888718",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© glennstockil (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 200888718,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_spotted_creeper_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945557/bird-gallery/african_spotted_creeper/inaturalist/african_spotted_creeper_3.jpg",
+      "public_id": "bird-gallery/african_spotted_creeper/inaturalist/african_spotted_creeper_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 139825,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/139014060",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 139014060,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

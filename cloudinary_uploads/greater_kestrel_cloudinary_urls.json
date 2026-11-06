@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "greater_kestrel",
+    "chinese_name": "黄眼隼",
+    "english_name": "Greater Kestrel",
+    "scientific_name": "Falco rupicoloides"
+  },
+  "macaulay": [
+    {
+      "original_file": "greater_kestrel_206150681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943938/bird-gallery/greater_kestrel/macaulay/greater_kestrel_206150681.jpg",
+      "public_id": "bird-gallery/greater_kestrel/macaulay/greater_kestrel_206150681",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 127075,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206150681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206150681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_kestrel_599763991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943939/bird-gallery/greater_kestrel/macaulay/greater_kestrel_599763991.jpg",
+      "public_id": "bird-gallery/greater_kestrel/macaulay/greater_kestrel_599763991",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 25340,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/599763991",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "599763991",
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_kestrel_599764161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943940/bird-gallery/greater_kestrel/macaulay/greater_kestrel_599764161.jpg",
+      "public_id": "bird-gallery/greater_kestrel/macaulay/greater_kestrel_599764161",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 18204,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/599764161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "599764161",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "greater_kestrel_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943941/bird-gallery/greater_kestrel/inaturalist/greater_kestrel_1.jpg",
+      "public_id": "bird-gallery/greater_kestrel/inaturalist/greater_kestrel_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 88363,
+      "attribution": {
+        "photographer": "diogoluiz",
+        "photographer_url": "https://www.inaturalist.org/observations/40238567",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© diogoluiz (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 40238567,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_kestrel_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943942/bird-gallery/greater_kestrel/inaturalist/greater_kestrel_2.jpg",
+      "public_id": "bird-gallery/greater_kestrel/inaturalist/greater_kestrel_2",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 95139,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/6245580",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 6245580,
+        "note": null
+      }
+    },
+    {
+      "original_file": "greater_kestrel_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943942/bird-gallery/greater_kestrel/inaturalist/greater_kestrel_3.jpg",
+      "public_id": "bird-gallery/greater_kestrel/inaturalist/greater_kestrel_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 85784,
+      "attribution": {
+        "photographer": "desertnaturalist",
+        "photographer_url": "https://www.inaturalist.org/observations/246737748",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© desertnaturalist (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 246737748,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

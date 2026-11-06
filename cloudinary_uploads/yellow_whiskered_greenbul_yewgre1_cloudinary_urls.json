@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_whiskered_greenbul_yewgre1",
+    "chinese_name": "黄须绿鹎",
+    "english_name": "Yellow-whiskered Greenbul",
+    "scientific_name": "Eurillas latirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_whiskered_greenbul_yewgre1_104702251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940733/bird-gallery/yellow_whiskered_greenbul_yewgre1/macaulay/yellow_whiskered_greenbul_yewgre1_104702251.jpg",
+      "public_id": "bird-gallery/yellow_whiskered_greenbul_yewgre1/macaulay/yellow_whiskered_greenbul_yewgre1_104702251",
+      "width": 1200,
+      "height": 1065,
+      "format": "jpg",
+      "bytes": 124284,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/104702251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "104702251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_whiskered_greenbul_yewgre1_205990331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940734/bird-gallery/yellow_whiskered_greenbul_yewgre1/macaulay/yellow_whiskered_greenbul_yewgre1_205990331.jpg",
+      "public_id": "bird-gallery/yellow_whiskered_greenbul_yewgre1/macaulay/yellow_whiskered_greenbul_yewgre1_205990331",
+      "width": 980,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78452,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205990331",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205990331",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_whiskered_greenbul_yewgre1_467473431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940735/bird-gallery/yellow_whiskered_greenbul_yewgre1/macaulay/yellow_whiskered_greenbul_yewgre1_467473431.jpg",
+      "public_id": "bird-gallery/yellow_whiskered_greenbul_yewgre1/macaulay/yellow_whiskered_greenbul_yewgre1_467473431",
+      "width": 1200,
+      "height": 877,
+      "format": "jpg",
+      "bytes": 140478,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/467473431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "467473431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_whiskered_greenbul_yewgre1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940736/bird-gallery/yellow_whiskered_greenbul_yewgre1/inaturalist/yellow_whiskered_greenbul_yewgre1_1.jpg",
+      "public_id": "bird-gallery/yellow_whiskered_greenbul_yewgre1/inaturalist/yellow_whiskered_greenbul_yewgre1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64220,
+      "attribution": {
+        "photographer": "lukeberg",
+        "photographer_url": "https://www.inaturalist.org/observations/312049601",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 312049601,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_whiskered_greenbul_yewgre1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940737/bird-gallery/yellow_whiskered_greenbul_yewgre1/inaturalist/yellow_whiskered_greenbul_yewgre1_2.jpg",
+      "public_id": "bird-gallery/yellow_whiskered_greenbul_yewgre1/inaturalist/yellow_whiskered_greenbul_yewgre1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69308,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/250492131",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 250492131,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_whiskered_greenbul_yewgre1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940737/bird-gallery/yellow_whiskered_greenbul_yewgre1/inaturalist/yellow_whiskered_greenbul_yewgre1_3.jpg",
+      "public_id": "bird-gallery/yellow_whiskered_greenbul_yewgre1/inaturalist/yellow_whiskered_greenbul_yewgre1_3",
+      "width": 1024,
+      "height": 734,
+      "format": "jpg",
+      "bytes": 133684,
+      "attribution": {
+        "photographer": "naturalist23338",
+        "photographer_url": "https://www.inaturalist.org/observations/336577872",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© naturalist23338 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 336577872,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

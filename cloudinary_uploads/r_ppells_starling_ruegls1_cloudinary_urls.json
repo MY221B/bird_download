@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "r_ppells_starling_ruegls1",
+    "chinese_name": "卢氏丽椋鸟",
+    "english_name": "Rüppell's Starling",
+    "scientific_name": "Lamprotornis purpuroptera"
+  },
+  "macaulay": [
+    {
+      "original_file": "r_ppells_starling_ruegls1_136695761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940148/bird-gallery/r_ppells_starling_ruegls1/macaulay/r_ppells_starling_ruegls1_136695761.jpg",
+      "public_id": "bird-gallery/r_ppells_starling_ruegls1/macaulay/r_ppells_starling_ruegls1_136695761",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62889,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136695761",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136695761",
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_starling_ruegls1_184492511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940149/bird-gallery/r_ppells_starling_ruegls1/macaulay/r_ppells_starling_ruegls1_184492511.jpg",
+      "public_id": "bird-gallery/r_ppells_starling_ruegls1/macaulay/r_ppells_starling_ruegls1_184492511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109554,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/184492511",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "184492511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_starling_ruegls1_211674701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940150/bird-gallery/r_ppells_starling_ruegls1/macaulay/r_ppells_starling_ruegls1_211674701.jpg",
+      "public_id": "bird-gallery/r_ppells_starling_ruegls1/macaulay/r_ppells_starling_ruegls1_211674701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87304,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/211674701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "211674701",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "r_ppells_starling_ruegls1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940151/bird-gallery/r_ppells_starling_ruegls1/inaturalist/r_ppells_starling_ruegls1_1.jpg",
+      "public_id": "bird-gallery/r_ppells_starling_ruegls1/inaturalist/r_ppells_starling_ruegls1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 62797,
+      "attribution": {
+        "photographer": "bentsai",
+        "photographer_url": "https://www.inaturalist.org/observations/62026780",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bentsai (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 62026780,
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_starling_ruegls1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940152/bird-gallery/r_ppells_starling_ruegls1/inaturalist/r_ppells_starling_ruegls1_2.jpg",
+      "public_id": "bird-gallery/r_ppells_starling_ruegls1/inaturalist/r_ppells_starling_ruegls1_2",
+      "width": 1024,
+      "height": 738,
+      "format": "jpg",
+      "bytes": 130531,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192520565",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192520565,
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_starling_ruegls1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940153/bird-gallery/r_ppells_starling_ruegls1/inaturalist/r_ppells_starling_ruegls1_3.jpg",
+      "public_id": "bird-gallery/r_ppells_starling_ruegls1/inaturalist/r_ppells_starling_ruegls1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 61013,
+      "attribution": {
+        "photographer": "druidea",
+        "photographer_url": "https://www.inaturalist.org/observations/378060385",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© druidea (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 378060385,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

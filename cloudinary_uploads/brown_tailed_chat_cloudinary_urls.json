@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "brown_tailed_chat",
+    "chinese_name": "褐尾岩䳭",
+    "english_name": "Brown-tailed Chat",
+    "scientific_name": "Oenanthe scotocerca"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_tailed_chat_205959731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941891/bird-gallery/brown_tailed_chat/macaulay/brown_tailed_chat_205959731.jpg",
+      "public_id": "bird-gallery/brown_tailed_chat/macaulay/brown_tailed_chat_205959731",
+      "width": 1000,
+      "height": 690,
+      "format": "jpg",
+      "bytes": 108740,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205959731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205959731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_tailed_chat_205959741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941892/bird-gallery/brown_tailed_chat/macaulay/brown_tailed_chat_205959741.jpg",
+      "public_id": "bird-gallery/brown_tailed_chat/macaulay/brown_tailed_chat_205959741",
+      "width": 1000,
+      "height": 777,
+      "format": "jpg",
+      "bytes": 86383,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205959741",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205959741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_tailed_chat_369666431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941893/bird-gallery/brown_tailed_chat/macaulay/brown_tailed_chat_369666431.jpg",
+      "public_id": "bird-gallery/brown_tailed_chat/macaulay/brown_tailed_chat_369666431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 137702,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/369666431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "369666431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_tailed_chat_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941894/bird-gallery/brown_tailed_chat/inaturalist/brown_tailed_chat_1.jpg",
+      "public_id": "bird-gallery/brown_tailed_chat/inaturalist/brown_tailed_chat_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 112177,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/37034989",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 37034989,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_tailed_chat_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941895/bird-gallery/brown_tailed_chat/inaturalist/brown_tailed_chat_2.jpg",
+      "public_id": "bird-gallery/brown_tailed_chat/inaturalist/brown_tailed_chat_2",
+      "width": 791,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 156514,
+      "attribution": {
+        "photographer": "leuli",
+        "photographer_url": "https://www.inaturalist.org/observations/103474861",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© leuli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103474861,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_tailed_chat_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941896/bird-gallery/brown_tailed_chat/inaturalist/brown_tailed_chat_3.jpg",
+      "public_id": "bird-gallery/brown_tailed_chat/inaturalist/brown_tailed_chat_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 73149,
+      "attribution": {
+        "photographer": "mstour",
+        "photographer_url": "https://www.inaturalist.org/observations/252697722",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mstour (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 252697722,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

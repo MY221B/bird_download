@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mourning_collared_dove_afmdov1",
+    "chinese_name": "哀斑鸠",
+    "english_name": "Mourning Collared-Dove",
+    "scientific_name": "Streptopelia decipiens"
+  },
+  "macaulay": [
+    {
+      "original_file": "mourning_collared_dove_afmdov1_147028681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941765/bird-gallery/mourning_collared_dove_afmdov1/macaulay/mourning_collared_dove_afmdov1_147028681.jpg",
+      "public_id": "bird-gallery/mourning_collared_dove_afmdov1/macaulay/mourning_collared_dove_afmdov1_147028681",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 96299,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/147028681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "147028681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mourning_collared_dove_afmdov1_208954071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941766/bird-gallery/mourning_collared_dove_afmdov1/macaulay/mourning_collared_dove_afmdov1_208954071.jpg",
+      "public_id": "bird-gallery/mourning_collared_dove_afmdov1/macaulay/mourning_collared_dove_afmdov1_208954071",
+      "width": 1200,
+      "height": 788,
+      "format": "jpg",
+      "bytes": 67111,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/208954071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "208954071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mourning_collared_dove_afmdov1_646582244.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941767/bird-gallery/mourning_collared_dove_afmdov1/macaulay/mourning_collared_dove_afmdov1_646582244.jpg",
+      "public_id": "bird-gallery/mourning_collared_dove_afmdov1/macaulay/mourning_collared_dove_afmdov1_646582244",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 90392,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/646582244",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "646582244",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mourning_collared_dove_afmdov1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941768/bird-gallery/mourning_collared_dove_afmdov1/inaturalist/mourning_collared_dove_afmdov1_1.jpg",
+      "public_id": "bird-gallery/mourning_collared_dove_afmdov1/inaturalist/mourning_collared_dove_afmdov1_1",
+      "width": 1024,
+      "height": 726,
+      "format": "jpg",
+      "bytes": 70513,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/272154613",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 272154613,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mourning_collared_dove_afmdov1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941769/bird-gallery/mourning_collared_dove_afmdov1/inaturalist/mourning_collared_dove_afmdov1_2.jpg",
+      "public_id": "bird-gallery/mourning_collared_dove_afmdov1/inaturalist/mourning_collared_dove_afmdov1_2",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 129255,
+      "attribution": {
+        "photographer": "rguinness",
+        "photographer_url": "https://www.inaturalist.org/observations/147833869",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rguinness (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147833869,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mourning_collared_dove_afmdov1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941770/bird-gallery/mourning_collared_dove_afmdov1/inaturalist/mourning_collared_dove_afmdov1_3.jpg",
+      "public_id": "bird-gallery/mourning_collared_dove_afmdov1/inaturalist/mourning_collared_dove_afmdov1_3",
+      "width": 1024,
+      "height": 784,
+      "format": "jpg",
+      "bytes": 84740,
+      "attribution": {
+        "photographer": "ronsavage",
+        "photographer_url": "https://www.inaturalist.org/observations/867579",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© ronsavage (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 867579,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

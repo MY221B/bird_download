@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "chestnut_banded_plover",
+    "chinese_name": "栗斑鸻",
+    "english_name": "Chestnut-banded Plover",
+    "scientific_name": "Anarhynchus pallidus"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_banded_plover_501532031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943890/bird-gallery/chestnut_banded_plover/macaulay/chestnut_banded_plover_501532031.jpg",
+      "public_id": "bird-gallery/chestnut_banded_plover/macaulay/chestnut_banded_plover_501532031",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 55274,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/501532031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "501532031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_banded_plover_586177571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943892/bird-gallery/chestnut_banded_plover/macaulay/chestnut_banded_plover_586177571.jpg",
+      "public_id": "bird-gallery/chestnut_banded_plover/macaulay/chestnut_banded_plover_586177571",
+      "width": 1200,
+      "height": 814,
+      "format": "jpg",
+      "bytes": 41831,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/586177571",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "586177571",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_banded_plover_619681193.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943892/bird-gallery/chestnut_banded_plover/macaulay/chestnut_banded_plover_619681193.jpg",
+      "public_id": "bird-gallery/chestnut_banded_plover/macaulay/chestnut_banded_plover_619681193",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55698,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/619681193",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "619681193",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_banded_plover_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943893/bird-gallery/chestnut_banded_plover/inaturalist/chestnut_banded_plover_1.jpg",
+      "public_id": "bird-gallery/chestnut_banded_plover/inaturalist/chestnut_banded_plover_1",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 30736,
+      "attribution": {
+        "photographer": "michael_mcsweeney",
+        "photographer_url": "https://www.inaturalist.org/observations/25488040",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© michael_mcsweeney (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 25488040,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_banded_plover_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943894/bird-gallery/chestnut_banded_plover/inaturalist/chestnut_banded_plover_2.jpg",
+      "public_id": "bird-gallery/chestnut_banded_plover/inaturalist/chestnut_banded_plover_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 51430,
+      "attribution": {
+        "photographer": "dougmacsafaris",
+        "photographer_url": "https://www.inaturalist.org/observations/186397430",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dougmacsafaris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 186397430,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_banded_plover_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943895/bird-gallery/chestnut_banded_plover/inaturalist/chestnut_banded_plover_3.jpg",
+      "public_id": "bird-gallery/chestnut_banded_plover/inaturalist/chestnut_banded_plover_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76803,
+      "attribution": {
+        "photographer": "dmkidwell",
+        "photographer_url": "https://www.inaturalist.org/observations/229603918",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© dmkidwell (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 229603918,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

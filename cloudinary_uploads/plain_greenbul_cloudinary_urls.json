@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "plain_greenbul",
+    "chinese_name": "纯色绿鹎",
+    "english_name": "Plain Greenbul",
+    "scientific_name": "Eurillas curvirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "plain_greenbul_215838751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944688/bird-gallery/plain_greenbul/macaulay/plain_greenbul_215838751.jpg",
+      "public_id": "bird-gallery/plain_greenbul/macaulay/plain_greenbul_215838751",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 105206,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/215838751",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "215838751",
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_greenbul_215838791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944689/bird-gallery/plain_greenbul/macaulay/plain_greenbul_215838791.jpg",
+      "public_id": "bird-gallery/plain_greenbul/macaulay/plain_greenbul_215838791",
+      "width": 997,
+      "height": 749,
+      "format": "jpg",
+      "bytes": 174596,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/215838791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "215838791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_greenbul_622575892.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944690/bird-gallery/plain_greenbul/macaulay/plain_greenbul_622575892.jpg",
+      "public_id": "bird-gallery/plain_greenbul/macaulay/plain_greenbul_622575892",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 81146,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/622575892",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "622575892",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "plain_greenbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944691/bird-gallery/plain_greenbul/inaturalist/plain_greenbul_1.jpg",
+      "public_id": "bird-gallery/plain_greenbul/inaturalist/plain_greenbul_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 88115,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/15939860",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 15939860,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_greenbul_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944691/bird-gallery/plain_greenbul/inaturalist/plain_greenbul_2.jpg",
+      "public_id": "bird-gallery/plain_greenbul/inaturalist/plain_greenbul_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 86714,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/23686590",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 23686590,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_greenbul_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944692/bird-gallery/plain_greenbul/inaturalist/plain_greenbul_3.jpg",
+      "public_id": "bird-gallery/plain_greenbul/inaturalist/plain_greenbul_3",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 100359,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/40820610",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 40820610,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

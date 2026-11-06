@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_billed_egret_integr3",
+    "chinese_name": "非洲中白鹭",
+    "english_name": "Yellow-billed Egret",
+    "scientific_name": "Ardea brachyrhyncha"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_billed_egret_integr3_498965161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939810/bird-gallery/yellow_billed_egret_integr3/macaulay/yellow_billed_egret_integr3_498965161.jpg",
+      "public_id": "bird-gallery/yellow_billed_egret_integr3/macaulay/yellow_billed_egret_integr3_498965161",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 26695,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/498965161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "498965161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_egret_integr3_612250939.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939812/bird-gallery/yellow_billed_egret_integr3/macaulay/yellow_billed_egret_integr3_612250939.jpg",
+      "public_id": "bird-gallery/yellow_billed_egret_integr3/macaulay/yellow_billed_egret_integr3_612250939",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 74569,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/612250939",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "612250939",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_egret_integr3_626848514.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939813/bird-gallery/yellow_billed_egret_integr3/macaulay/yellow_billed_egret_integr3_626848514.jpg",
+      "public_id": "bird-gallery/yellow_billed_egret_integr3/macaulay/yellow_billed_egret_integr3_626848514",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77128,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/626848514",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "626848514",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_billed_egret_integr3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939813/bird-gallery/yellow_billed_egret_integr3/inaturalist/yellow_billed_egret_integr3_1.jpg",
+      "public_id": "bird-gallery/yellow_billed_egret_integr3/inaturalist/yellow_billed_egret_integr3_1",
+      "width": 656,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 90289,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/123558930",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 123558930,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_egret_integr3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939814/bird-gallery/yellow_billed_egret_integr3/inaturalist/yellow_billed_egret_integr3_2.jpg",
+      "public_id": "bird-gallery/yellow_billed_egret_integr3/inaturalist/yellow_billed_egret_integr3_2",
+      "width": 1024,
+      "height": 917,
+      "format": "jpg",
+      "bytes": 168932,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/9645345",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9645345,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_billed_egret_integr3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939815/bird-gallery/yellow_billed_egret_integr3/inaturalist/yellow_billed_egret_integr3_3.jpg",
+      "public_id": "bird-gallery/yellow_billed_egret_integr3/inaturalist/yellow_billed_egret_integr3_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 96445,
+      "attribution": {
+        "photographer": "alfredoreilobodasneves",
+        "photographer_url": "https://www.inaturalist.org/observations/56610560",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alfredoreilobodasneves (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 56610560,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

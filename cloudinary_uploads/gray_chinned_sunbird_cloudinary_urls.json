@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "gray_chinned_sunbird",
+    "chinese_name": "灰颏绿食蜜鸟",
+    "english_name": "Gray-chinned Sunbird",
+    "scientific_name": "Anthreptes tephrolaemus"
+  },
+  "macaulay": [
+    {
+      "original_file": "gray_chinned_sunbird_112969711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944612/bird-gallery/gray_chinned_sunbird/macaulay/gray_chinned_sunbird_112969711.jpg",
+      "public_id": "bird-gallery/gray_chinned_sunbird/macaulay/gray_chinned_sunbird_112969711",
+      "width": 1200,
+      "height": 746,
+      "format": "jpg",
+      "bytes": 69981,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112969711",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112969711",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_chinned_sunbird_112969731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944613/bird-gallery/gray_chinned_sunbird/macaulay/gray_chinned_sunbird_112969731.jpg",
+      "public_id": "bird-gallery/gray_chinned_sunbird/macaulay/gray_chinned_sunbird_112969731",
+      "width": 1200,
+      "height": 746,
+      "format": "jpg",
+      "bytes": 68944,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112969731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112969731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_chinned_sunbird_221962101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944614/bird-gallery/gray_chinned_sunbird/macaulay/gray_chinned_sunbird_221962101.jpg",
+      "public_id": "bird-gallery/gray_chinned_sunbird/macaulay/gray_chinned_sunbird_221962101",
+      "width": 1200,
+      "height": 863,
+      "format": "jpg",
+      "bytes": 59548,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/221962101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "221962101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gray_chinned_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944614/bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_1.jpg",
+      "public_id": "bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66728,
+      "attribution": {
+        "photographer": "lukeberg",
+        "photographer_url": "https://www.inaturalist.org/observations/313625182",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 313625182,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_chinned_sunbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944615/bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_2.jpg",
+      "public_id": "bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_2",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82923,
+      "attribution": {
+        "photographer": "violettederozier",
+        "photographer_url": "https://www.inaturalist.org/observations/9073279",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© violettederozier (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9073279,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_chinned_sunbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944616/bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_3.jpg",
+      "public_id": "bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_3",
+      "width": 997,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 41370,
+      "attribution": {
+        "photographer": "violettederozier",
+        "photographer_url": "https://www.inaturalist.org/observations/12733956",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© violettederozier (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 12733956,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_goshawk_afrgos1",
+    "chinese_name": "非洲鹰",
+    "english_name": "African Goshawk",
+    "scientific_name": "Aerospiza tachiro"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_goshawk_afrgos1_205107021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939249/bird-gallery/african_goshawk_afrgos1/macaulay/african_goshawk_afrgos1_205107021.jpg",
+      "public_id": "bird-gallery/african_goshawk_afrgos1/macaulay/african_goshawk_afrgos1_205107021",
+      "width": 667,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 69959,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205107021",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205107021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_goshawk_afrgos1_205107031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939250/bird-gallery/african_goshawk_afrgos1/macaulay/african_goshawk_afrgos1_205107031.jpg",
+      "public_id": "bird-gallery/african_goshawk_afrgos1/macaulay/african_goshawk_afrgos1_205107031",
+      "width": 666,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 50042,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205107031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205107031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_goshawk_afrgos1_36875511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939251/bird-gallery/african_goshawk_afrgos1/macaulay/african_goshawk_afrgos1_36875511.jpg",
+      "public_id": "bird-gallery/african_goshawk_afrgos1/macaulay/african_goshawk_afrgos1_36875511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 132753,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/36875511",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "36875511",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_goshawk_afrgos1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939252/bird-gallery/african_goshawk_afrgos1/inaturalist/african_goshawk_afrgos1_1.jpg",
+      "public_id": "bird-gallery/african_goshawk_afrgos1/inaturalist/african_goshawk_afrgos1_1",
+      "width": 1024,
+      "height": 874,
+      "format": "jpg",
+      "bytes": 59147,
+      "attribution": {
+        "photographer": "richard_johnstone",
+        "photographer_url": "https://www.inaturalist.org/observations/178399269",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richard_johnstone (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 178399269,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_goshawk_afrgos1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939252/bird-gallery/african_goshawk_afrgos1/inaturalist/african_goshawk_afrgos1_2.jpg",
+      "public_id": "bird-gallery/african_goshawk_afrgos1/inaturalist/african_goshawk_afrgos1_2",
+      "width": 645,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 61008,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/323444101",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 323444101,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_goshawk_afrgos1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939253/bird-gallery/african_goshawk_afrgos1/inaturalist/african_goshawk_afrgos1_3.jpg",
+      "public_id": "bird-gallery/african_goshawk_afrgos1/inaturalist/african_goshawk_afrgos1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 81450,
+      "attribution": {
+        "photographer": "ninian",
+        "photographer_url": "https://www.inaturalist.org/observations/47861387",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ninian (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 47861387,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

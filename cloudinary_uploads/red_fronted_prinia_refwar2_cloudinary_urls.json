@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_fronted_prinia_refwar2",
+    "chinese_name": "红脸鹪莺",
+    "english_name": "Red-fronted Prinia",
+    "scientific_name": "Prinia rufifrons"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_fronted_prinia_refwar2_204276891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942004/bird-gallery/red_fronted_prinia_refwar2/macaulay/red_fronted_prinia_refwar2_204276891.jpg",
+      "public_id": "bird-gallery/red_fronted_prinia_refwar2/macaulay/red_fronted_prinia_refwar2_204276891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76764,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204276891",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204276891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_fronted_prinia_refwar2_205990161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942006/bird-gallery/red_fronted_prinia_refwar2/macaulay/red_fronted_prinia_refwar2_205990161.jpg",
+      "public_id": "bird-gallery/red_fronted_prinia_refwar2/macaulay/red_fronted_prinia_refwar2_205990161",
+      "width": 1000,
+      "height": 690,
+      "format": "jpg",
+      "bytes": 50706,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205990161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205990161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_fronted_prinia_refwar2_419583261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942007/bird-gallery/red_fronted_prinia_refwar2/macaulay/red_fronted_prinia_refwar2_419583261.jpg",
+      "public_id": "bird-gallery/red_fronted_prinia_refwar2/macaulay/red_fronted_prinia_refwar2_419583261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104712,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/419583261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "419583261",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_fronted_prinia_refwar2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942008/bird-gallery/red_fronted_prinia_refwar2/inaturalist/red_fronted_prinia_refwar2_1.jpg",
+      "public_id": "bird-gallery/red_fronted_prinia_refwar2/inaturalist/red_fronted_prinia_refwar2_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 68245,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/408659326",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 408659326,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_fronted_prinia_refwar2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942009/bird-gallery/red_fronted_prinia_refwar2/inaturalist/red_fronted_prinia_refwar2_2.jpg",
+      "public_id": "bird-gallery/red_fronted_prinia_refwar2/inaturalist/red_fronted_prinia_refwar2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 94978,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/112248648",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 112248648,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_fronted_prinia_refwar2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942010/bird-gallery/red_fronted_prinia_refwar2/inaturalist/red_fronted_prinia_refwar2_3.jpg",
+      "public_id": "bird-gallery/red_fronted_prinia_refwar2/inaturalist/red_fronted_prinia_refwar2_3",
+      "width": 906,
+      "height": 796,
+      "format": "jpg",
+      "bytes": 123197,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/348434638",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 348434638,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

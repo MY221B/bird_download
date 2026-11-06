@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "ansorges_greenbul",
+    "chinese_name": "安氏绿鹎",
+    "english_name": "Ansorge's Greenbul",
+    "scientific_name": "Eurillas ansorgei"
+  },
+  "macaulay": [
+    {
+      "original_file": "ansorges_greenbul_205990321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944381/bird-gallery/ansorges_greenbul/macaulay/ansorges_greenbul_205990321.jpg",
+      "public_id": "bird-gallery/ansorges_greenbul/macaulay/ansorges_greenbul_205990321",
+      "width": 1000,
+      "height": 699,
+      "format": "jpg",
+      "bytes": 78731,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205990321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205990321",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ansorges_greenbul_206028511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944382/bird-gallery/ansorges_greenbul/macaulay/ansorges_greenbul_206028511.jpg",
+      "public_id": "bird-gallery/ansorges_greenbul/macaulay/ansorges_greenbul_206028511",
+      "width": 1000,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 75827,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206028511",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206028511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ansorges_greenbul_618284278.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944383/bird-gallery/ansorges_greenbul/macaulay/ansorges_greenbul_618284278.jpg",
+      "public_id": "bird-gallery/ansorges_greenbul/macaulay/ansorges_greenbul_618284278",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73716,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/618284278",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "618284278",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ansorges_greenbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944384/bird-gallery/ansorges_greenbul/inaturalist/ansorges_greenbul_1.jpg",
+      "public_id": "bird-gallery/ansorges_greenbul/inaturalist/ansorges_greenbul_1",
+      "width": 568,
+      "height": 426,
+      "format": "jpg",
+      "bytes": 37560,
+      "attribution": {
+        "photographer": "hdemann",
+        "photographer_url": "https://www.inaturalist.org/observations/9801642",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hdemann (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9801642,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ansorges_greenbul_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944385/bird-gallery/ansorges_greenbul/inaturalist/ansorges_greenbul_2.jpg",
+      "public_id": "bird-gallery/ansorges_greenbul/inaturalist/ansorges_greenbul_2",
+      "width": 1024,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 38480,
+      "attribution": {
+        "photographer": "mlanguy",
+        "photographer_url": "https://www.inaturalist.org/observations/67872797",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mlanguy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 67872797,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ansorges_greenbul_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944385/bird-gallery/ansorges_greenbul/inaturalist/ansorges_greenbul_3.jpg",
+      "public_id": "bird-gallery/ansorges_greenbul/inaturalist/ansorges_greenbul_3",
+      "width": 878,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 140011,
+      "attribution": {
+        "photographer": "tarikb",
+        "photographer_url": "https://www.inaturalist.org/observations/201268152",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tarikb (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 201268152,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

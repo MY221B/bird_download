@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "southern_black_flycatcher_sobfly1",
+    "chinese_name": "南非黑鹟",
+    "english_name": "Southern Black-Flycatcher",
+    "scientific_name": "Melaenornis pammelaina"
+  },
+  "macaulay": [
+    {
+      "original_file": "southern_black_flycatcher_sobfly1_630307752.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940231/bird-gallery/southern_black_flycatcher_sobfly1/macaulay/southern_black_flycatcher_sobfly1_630307752.jpg",
+      "public_id": "bird-gallery/southern_black_flycatcher_sobfly1/macaulay/southern_black_flycatcher_sobfly1_630307752",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 69697,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/630307752",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "630307752",
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_black_flycatcher_sobfly1_665626484.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940232/bird-gallery/southern_black_flycatcher_sobfly1/macaulay/southern_black_flycatcher_sobfly1_665626484.jpg",
+      "public_id": "bird-gallery/southern_black_flycatcher_sobfly1/macaulay/southern_black_flycatcher_sobfly1_665626484",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 162947,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665626484",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665626484",
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_black_flycatcher_sobfly1_665626485.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940233/bird-gallery/southern_black_flycatcher_sobfly1/macaulay/southern_black_flycatcher_sobfly1_665626485.jpg",
+      "public_id": "bird-gallery/southern_black_flycatcher_sobfly1/macaulay/southern_black_flycatcher_sobfly1_665626485",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84513,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665626485",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665626485",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "southern_black_flycatcher_sobfly1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940235/bird-gallery/southern_black_flycatcher_sobfly1/inaturalist/southern_black_flycatcher_sobfly1_1.jpg",
+      "public_id": "bird-gallery/southern_black_flycatcher_sobfly1/inaturalist/southern_black_flycatcher_sobfly1_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 47836,
+      "attribution": {
+        "photographer": "randrudland",
+        "photographer_url": "https://www.inaturalist.org/observations/25113584",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© randrudland (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 25113584,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_black_flycatcher_sobfly1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940235/bird-gallery/southern_black_flycatcher_sobfly1/inaturalist/southern_black_flycatcher_sobfly1_2.jpg",
+      "public_id": "bird-gallery/southern_black_flycatcher_sobfly1/inaturalist/southern_black_flycatcher_sobfly1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69722,
+      "attribution": {
+        "photographer": "almut_66",
+        "photographer_url": "https://www.inaturalist.org/observations/69063706",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© almut_66 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69063706,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_black_flycatcher_sobfly1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940236/bird-gallery/southern_black_flycatcher_sobfly1/inaturalist/southern_black_flycatcher_sobfly1_3.jpg",
+      "public_id": "bird-gallery/southern_black_flycatcher_sobfly1/inaturalist/southern_black_flycatcher_sobfly1_3",
+      "width": 1024,
+      "height": 730,
+      "format": "jpg",
+      "bytes": 55640,
+      "attribution": {
+        "photographer": "ianwhite",
+        "photographer_url": "https://www.inaturalist.org/observations/395444023",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ianwhite (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 395444023,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

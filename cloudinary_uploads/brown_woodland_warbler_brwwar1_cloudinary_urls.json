@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "brown_woodland_warbler_brwwar1",
+    "chinese_name": "褐林柳莺",
+    "english_name": "Brown Woodland-Warbler",
+    "scientific_name": "Phylloscopus umbrovirens"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_woodland_warbler_brwwar1_611199777.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941131/bird-gallery/brown_woodland_warbler_brwwar1/macaulay/brown_woodland_warbler_brwwar1_611199777.jpg",
+      "public_id": "bird-gallery/brown_woodland_warbler_brwwar1/macaulay/brown_woodland_warbler_brwwar1_611199777",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 75017,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/611199777",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "611199777",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_woodland_warbler_brwwar1_615874352.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941132/bird-gallery/brown_woodland_warbler_brwwar1/macaulay/brown_woodland_warbler_brwwar1_615874352.jpg",
+      "public_id": "bird-gallery/brown_woodland_warbler_brwwar1/macaulay/brown_woodland_warbler_brwwar1_615874352",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93872,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/615874352",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "615874352",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_woodland_warbler_brwwar1_615874353.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941133/bird-gallery/brown_woodland_warbler_brwwar1/macaulay/brown_woodland_warbler_brwwar1_615874353.jpg",
+      "public_id": "bird-gallery/brown_woodland_warbler_brwwar1/macaulay/brown_woodland_warbler_brwwar1_615874353",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 111433,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/615874353",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "615874353",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_woodland_warbler_brwwar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941134/bird-gallery/brown_woodland_warbler_brwwar1/inaturalist/brown_woodland_warbler_brwwar1_1.jpg",
+      "public_id": "bird-gallery/brown_woodland_warbler_brwwar1/inaturalist/brown_woodland_warbler_brwwar1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 112027,
+      "attribution": {
+        "photographer": "sergeyyeliseev",
+        "photographer_url": "https://www.inaturalist.org/observations/106642035",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sergeyyeliseev (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106642035,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_woodland_warbler_brwwar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941135/bird-gallery/brown_woodland_warbler_brwwar1/inaturalist/brown_woodland_warbler_brwwar1_2.jpg",
+      "public_id": "bird-gallery/brown_woodland_warbler_brwwar1/inaturalist/brown_woodland_warbler_brwwar1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 56932,
+      "attribution": {
+        "photographer": "lukeberg",
+        "photographer_url": "https://www.inaturalist.org/observations/312216249",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 312216249,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_woodland_warbler_brwwar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941136/bird-gallery/brown_woodland_warbler_brwwar1/inaturalist/brown_woodland_warbler_brwwar1_3.jpg",
+      "public_id": "bird-gallery/brown_woodland_warbler_brwwar1/inaturalist/brown_woodland_warbler_brwwar1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 56936,
+      "attribution": {
+        "photographer": "vmoser",
+        "photographer_url": "https://www.inaturalist.org/observations/257985994",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© vmoser (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 257985994,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

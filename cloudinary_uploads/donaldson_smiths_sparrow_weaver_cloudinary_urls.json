@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "donaldson_smiths_sparrow_weaver",
+    "chinese_name": "肯尼亚织雀",
+    "english_name": "Donaldson Smith's Sparrow-Weaver",
+    "scientific_name": "Plocepasser donaldsoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "donaldson_smiths_sparrow_weaver_204484581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944277/bird-gallery/donaldson_smiths_sparrow_weaver/macaulay/donaldson_smiths_sparrow_weaver_204484581.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_sparrow_weaver/macaulay/donaldson_smiths_sparrow_weaver_204484581",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "bytes": 27237,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204484581",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204484581",
+        "note": null
+      }
+    },
+    {
+      "original_file": "donaldson_smiths_sparrow_weaver_204484591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944278/bird-gallery/donaldson_smiths_sparrow_weaver/macaulay/donaldson_smiths_sparrow_weaver_204484591.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_sparrow_weaver/macaulay/donaldson_smiths_sparrow_weaver_204484591",
+      "width": 427,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 32682,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204484591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204484591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "donaldson_smiths_sparrow_weaver_206159641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944278/bird-gallery/donaldson_smiths_sparrow_weaver/macaulay/donaldson_smiths_sparrow_weaver_206159641.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_sparrow_weaver/macaulay/donaldson_smiths_sparrow_weaver_206159641",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97228,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206159641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206159641",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "donaldson_smiths_sparrow_weaver_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944279/bird-gallery/donaldson_smiths_sparrow_weaver/inaturalist/donaldson_smiths_sparrow_weaver_1.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_sparrow_weaver/inaturalist/donaldson_smiths_sparrow_weaver_1",
+      "width": 1024,
+      "height": 626,
+      "format": "jpg",
+      "bytes": 110253,
+      "attribution": {
+        "photographer": "javitome",
+        "photographer_url": "https://www.inaturalist.org/observations/311737887",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© javitome (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 311737887,
+        "note": null
+      }
+    },
+    {
+      "original_file": "donaldson_smiths_sparrow_weaver_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944280/bird-gallery/donaldson_smiths_sparrow_weaver/inaturalist/donaldson_smiths_sparrow_weaver_2.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_sparrow_weaver/inaturalist/donaldson_smiths_sparrow_weaver_2",
+      "width": 1024,
+      "height": 869,
+      "format": "jpg",
+      "bytes": 89140,
+      "attribution": {
+        "photographer": "david275",
+        "photographer_url": "https://www.inaturalist.org/observations/167633086",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© david275 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 167633086,
+        "note": null
+      }
+    },
+    {
+      "original_file": "donaldson_smiths_sparrow_weaver_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944281/bird-gallery/donaldson_smiths_sparrow_weaver/inaturalist/donaldson_smiths_sparrow_weaver_3.jpg",
+      "public_id": "bird-gallery/donaldson_smiths_sparrow_weaver/inaturalist/donaldson_smiths_sparrow_weaver_3",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 106403,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/37134583",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 37134583,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

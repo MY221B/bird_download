@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "darnauds_barbet_darbar1",
+    "chinese_name": "东非拟䴕",
+    "english_name": "D'Arnaud's Barbet",
+    "scientific_name": "Trachyphonus darnaudii"
+  },
+  "macaulay": [
+    {
+      "original_file": "darnauds_barbet_darbar1_205184681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941792/bird-gallery/darnauds_barbet_darbar1/macaulay/darnauds_barbet_darbar1_205184681.jpg",
+      "public_id": "bird-gallery/darnauds_barbet_darbar1/macaulay/darnauds_barbet_darbar1_205184681",
+      "width": 675,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 67302,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205184681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205184681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "darnauds_barbet_darbar1_585544181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941793/bird-gallery/darnauds_barbet_darbar1/macaulay/darnauds_barbet_darbar1_585544181.jpg",
+      "public_id": "bird-gallery/darnauds_barbet_darbar1/macaulay/darnauds_barbet_darbar1_585544181",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 93858,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/585544181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "585544181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "darnauds_barbet_darbar1_641758570.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941794/bird-gallery/darnauds_barbet_darbar1/macaulay/darnauds_barbet_darbar1_641758570.jpg",
+      "public_id": "bird-gallery/darnauds_barbet_darbar1/macaulay/darnauds_barbet_darbar1_641758570",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 96201,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/641758570",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "641758570",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "darnauds_barbet_darbar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941795/bird-gallery/darnauds_barbet_darbar1/inaturalist/darnauds_barbet_darbar1_1.jpg",
+      "public_id": "bird-gallery/darnauds_barbet_darbar1/inaturalist/darnauds_barbet_darbar1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 80582,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/255011218",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255011218,
+        "note": null
+      }
+    },
+    {
+      "original_file": "darnauds_barbet_darbar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941796/bird-gallery/darnauds_barbet_darbar1/inaturalist/darnauds_barbet_darbar1_2.jpg",
+      "public_id": "bird-gallery/darnauds_barbet_darbar1/inaturalist/darnauds_barbet_darbar1_2",
+      "width": 749,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 132011,
+      "attribution": {
+        "photographer": "lynnecorreia",
+        "photographer_url": "https://www.inaturalist.org/observations/110433367",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lynnecorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 110433367,
+        "note": null
+      }
+    },
+    {
+      "original_file": "darnauds_barbet_darbar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941797/bird-gallery/darnauds_barbet_darbar1/inaturalist/darnauds_barbet_darbar1_3.jpg",
+      "public_id": "bird-gallery/darnauds_barbet_darbar1/inaturalist/darnauds_barbet_darbar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 80372,
+      "attribution": {
+        "photographer": "nancylightfoot",
+        "photographer_url": "https://www.inaturalist.org/observations/187734149",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nancylightfoot (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 187734149,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

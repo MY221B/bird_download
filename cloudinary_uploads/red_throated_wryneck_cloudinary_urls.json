@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_throated_wryneck",
+    "chinese_name": "红胸蚁䴕",
+    "english_name": "Red-throated Wryneck",
+    "scientific_name": "Jynx ruficollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_throated_wryneck_281847271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941584/bird-gallery/red_throated_wryneck/macaulay/red_throated_wryneck_281847271.jpg",
+      "public_id": "bird-gallery/red_throated_wryneck/macaulay/red_throated_wryneck_281847271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83117,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/281847271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "281847271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_throated_wryneck_33603641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941585/bird-gallery/red_throated_wryneck/macaulay/red_throated_wryneck_33603641.jpg",
+      "public_id": "bird-gallery/red_throated_wryneck/macaulay/red_throated_wryneck_33603641",
+      "width": 1200,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 65534,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33603641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33603641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_throated_wryneck_33649101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941586/bird-gallery/red_throated_wryneck/macaulay/red_throated_wryneck_33649101.jpg",
+      "public_id": "bird-gallery/red_throated_wryneck/macaulay/red_throated_wryneck_33649101",
+      "width": 1200,
+      "height": 794,
+      "format": "jpg",
+      "bytes": 110777,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33649101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33649101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_throated_wryneck_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941587/bird-gallery/red_throated_wryneck/inaturalist/red_throated_wryneck_1.jpg",
+      "public_id": "bird-gallery/red_throated_wryneck/inaturalist/red_throated_wryneck_1",
+      "width": 1024,
+      "height": 687,
+      "format": "jpg",
+      "bytes": 109077,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/72597145",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 72597145,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_throated_wryneck_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941588/bird-gallery/red_throated_wryneck/inaturalist/red_throated_wryneck_2.jpg",
+      "public_id": "bird-gallery/red_throated_wryneck/inaturalist/red_throated_wryneck_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 72097,
+      "attribution": {
+        "photographer": "tivankotze",
+        "photographer_url": "https://www.inaturalist.org/observations/306954388",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tivankotze (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 306954388,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_throated_wryneck_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941589/bird-gallery/red_throated_wryneck/inaturalist/red_throated_wryneck_3.jpg",
+      "public_id": "bird-gallery/red_throated_wryneck/inaturalist/red_throated_wryneck_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 70521,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/88653487",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 88653487,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

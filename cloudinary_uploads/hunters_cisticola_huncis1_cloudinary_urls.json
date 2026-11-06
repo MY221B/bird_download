@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "hunters_cisticola_huncis1",
+    "chinese_name": "亨氏扇尾莺",
+    "english_name": "Hunter's Cisticola",
+    "scientific_name": "Cisticola hunteri"
+  },
+  "macaulay": [
+    {
+      "original_file": "hunters_cisticola_huncis1_142938091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940991/bird-gallery/hunters_cisticola_huncis1/macaulay/hunters_cisticola_huncis1_142938091.jpg",
+      "public_id": "bird-gallery/hunters_cisticola_huncis1/macaulay/hunters_cisticola_huncis1_142938091",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 95226,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/142938091",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "142938091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hunters_cisticola_huncis1_205997421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940992/bird-gallery/hunters_cisticola_huncis1/macaulay/hunters_cisticola_huncis1_205997421.jpg",
+      "public_id": "bird-gallery/hunters_cisticola_huncis1/macaulay/hunters_cisticola_huncis1_205997421",
+      "width": 800,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73348,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205997421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205997421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hunters_cisticola_huncis1_621351775.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940993/bird-gallery/hunters_cisticola_huncis1/macaulay/hunters_cisticola_huncis1_621351775.jpg",
+      "public_id": "bird-gallery/hunters_cisticola_huncis1/macaulay/hunters_cisticola_huncis1_621351775",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 47958,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621351775",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621351775",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hunters_cisticola_huncis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940994/bird-gallery/hunters_cisticola_huncis1/inaturalist/hunters_cisticola_huncis1_1.jpg",
+      "public_id": "bird-gallery/hunters_cisticola_huncis1/inaturalist/hunters_cisticola_huncis1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 94885,
+      "attribution": {
+        "photographer": "oscar_wainwright",
+        "photographer_url": "https://www.inaturalist.org/observations/339380409",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© oscar_wainwright (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 339380409,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hunters_cisticola_huncis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940995/bird-gallery/hunters_cisticola_huncis1/inaturalist/hunters_cisticola_huncis1_2.jpg",
+      "public_id": "bird-gallery/hunters_cisticola_huncis1/inaturalist/hunters_cisticola_huncis1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73973,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/258286925",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 258286925,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hunters_cisticola_huncis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940996/bird-gallery/hunters_cisticola_huncis1/inaturalist/hunters_cisticola_huncis1_3.jpg",
+      "public_id": "bird-gallery/hunters_cisticola_huncis1/inaturalist/hunters_cisticola_huncis1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 77521,
+      "attribution": {
+        "photographer": "floydehayes",
+        "photographer_url": "https://www.inaturalist.org/observations/174493325",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© floydehayes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 174493325,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

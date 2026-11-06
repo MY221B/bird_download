@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "reichenows_seedeater_reisee2",
+    "chinese_name": "肯尼亚黄腰丝雀",
+    "english_name": "Reichenow's Seedeater",
+    "scientific_name": "Crithagra reichenowi"
+  },
+  "macaulay": [
+    {
+      "original_file": "reichenows_seedeater_reisee2_584327691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940051/bird-gallery/reichenows_seedeater_reisee2/macaulay/reichenows_seedeater_reisee2_584327691.jpg",
+      "public_id": "bird-gallery/reichenows_seedeater_reisee2/macaulay/reichenows_seedeater_reisee2_584327691",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 102823,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/584327691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "584327691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "reichenows_seedeater_reisee2_628530684.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940052/bird-gallery/reichenows_seedeater_reisee2/macaulay/reichenows_seedeater_reisee2_628530684.jpg",
+      "public_id": "bird-gallery/reichenows_seedeater_reisee2/macaulay/reichenows_seedeater_reisee2_628530684",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 92893,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628530684",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628530684",
+        "note": null
+      }
+    },
+    {
+      "original_file": "reichenows_seedeater_reisee2_628830302.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940053/bird-gallery/reichenows_seedeater_reisee2/macaulay/reichenows_seedeater_reisee2_628830302.jpg",
+      "public_id": "bird-gallery/reichenows_seedeater_reisee2/macaulay/reichenows_seedeater_reisee2_628830302",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 63878,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628830302",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628830302",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "reichenows_seedeater_reisee2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940054/bird-gallery/reichenows_seedeater_reisee2/inaturalist/reichenows_seedeater_reisee2_1.jpg",
+      "public_id": "bird-gallery/reichenows_seedeater_reisee2/inaturalist/reichenows_seedeater_reisee2_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 76037,
+      "attribution": {
+        "photographer": "bauerovavajner",
+        "photographer_url": "https://www.inaturalist.org/observations/223067730",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© bauerovavajner (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 223067730,
+        "note": null
+      }
+    },
+    {
+      "original_file": "reichenows_seedeater_reisee2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940055/bird-gallery/reichenows_seedeater_reisee2/inaturalist/reichenows_seedeater_reisee2_2.jpg",
+      "public_id": "bird-gallery/reichenows_seedeater_reisee2/inaturalist/reichenows_seedeater_reisee2_2",
+      "width": 1024,
+      "height": 794,
+      "format": "jpg",
+      "bytes": 193506,
+      "attribution": {
+        "photographer": "marthamutiso",
+        "photographer_url": "https://www.inaturalist.org/observations/334878326",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marthamutiso (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 334878326,
+        "note": null
+      }
+    },
+    {
+      "original_file": "reichenows_seedeater_reisee2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940055/bird-gallery/reichenows_seedeater_reisee2/inaturalist/reichenows_seedeater_reisee2_3.jpg",
+      "public_id": "bird-gallery/reichenows_seedeater_reisee2/inaturalist/reichenows_seedeater_reisee2_3",
+      "width": 1024,
+      "height": 706,
+      "format": "jpg",
+      "bytes": 30991,
+      "attribution": {
+        "photographer": "antanas4",
+        "photographer_url": "https://www.inaturalist.org/observations/300981233",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© antanas4 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 300981233,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

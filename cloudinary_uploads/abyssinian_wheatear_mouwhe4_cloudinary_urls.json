@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "abyssinian_wheatear_mouwhe4",
+    "chinese_name": "阿比西尼亚䳭",
+    "english_name": "Abyssinian Wheatear",
+    "scientific_name": "Oenanthe lugubris"
+  },
+  "macaulay": [
+    {
+      "original_file": "abyssinian_wheatear_mouwhe4_112026621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941527/bird-gallery/abyssinian_wheatear_mouwhe4/macaulay/abyssinian_wheatear_mouwhe4_112026621.jpg",
+      "public_id": "bird-gallery/abyssinian_wheatear_mouwhe4/macaulay/abyssinian_wheatear_mouwhe4_112026621",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 64411,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112026621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112026621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_wheatear_mouwhe4_628194812.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941528/bird-gallery/abyssinian_wheatear_mouwhe4/macaulay/abyssinian_wheatear_mouwhe4_628194812.jpg",
+      "public_id": "bird-gallery/abyssinian_wheatear_mouwhe4/macaulay/abyssinian_wheatear_mouwhe4_628194812",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 107874,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628194812",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628194812",
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_wheatear_mouwhe4_655733436.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941529/bird-gallery/abyssinian_wheatear_mouwhe4/macaulay/abyssinian_wheatear_mouwhe4_655733436.jpg",
+      "public_id": "bird-gallery/abyssinian_wheatear_mouwhe4/macaulay/abyssinian_wheatear_mouwhe4_655733436",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81991,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/655733436",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "655733436",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "abyssinian_wheatear_mouwhe4_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941530/bird-gallery/abyssinian_wheatear_mouwhe4/inaturalist/abyssinian_wheatear_mouwhe4_1.jpg",
+      "public_id": "bird-gallery/abyssinian_wheatear_mouwhe4/inaturalist/abyssinian_wheatear_mouwhe4_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63504,
+      "attribution": {
+        "photographer": "sharathrao",
+        "photographer_url": "https://www.inaturalist.org/observations/10546683",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© sharathrao (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 10546683,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_wheatear_mouwhe4_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941530/bird-gallery/abyssinian_wheatear_mouwhe4/inaturalist/abyssinian_wheatear_mouwhe4_2.jpg",
+      "public_id": "bird-gallery/abyssinian_wheatear_mouwhe4/inaturalist/abyssinian_wheatear_mouwhe4_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 71492,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/255387627",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255387627,
+        "note": null
+      }
+    },
+    {
+      "original_file": "abyssinian_wheatear_mouwhe4_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941531/bird-gallery/abyssinian_wheatear_mouwhe4/inaturalist/abyssinian_wheatear_mouwhe4_3.jpg",
+      "public_id": "bird-gallery/abyssinian_wheatear_mouwhe4/inaturalist/abyssinian_wheatear_mouwhe4_3",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 79095,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/27650398",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 27650398,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

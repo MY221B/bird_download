@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "rosss_turaco_rostur1",
+    "chinese_name": "短冠紫蕉鹃",
+    "english_name": "Ross's Turaco",
+    "scientific_name": "Tauraco rossae"
+  },
+  "macaulay": [
+    {
+      "original_file": "rosss_turaco_rostur1_121444631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943027/bird-gallery/rosss_turaco_rostur1/macaulay/rosss_turaco_rostur1_121444631.jpg",
+      "public_id": "bird-gallery/rosss_turaco_rostur1/macaulay/rosss_turaco_rostur1_121444631",
+      "width": 1200,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 73603,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/121444631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "121444631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosss_turaco_rostur1_121447331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943028/bird-gallery/rosss_turaco_rostur1/macaulay/rosss_turaco_rostur1_121447331.jpg",
+      "public_id": "bird-gallery/rosss_turaco_rostur1/macaulay/rosss_turaco_rostur1_121447331",
+      "width": 1200,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 71384,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/121447331",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "121447331",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosss_turaco_rostur1_47418441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943029/bird-gallery/rosss_turaco_rostur1/macaulay/rosss_turaco_rostur1_47418441.jpg",
+      "public_id": "bird-gallery/rosss_turaco_rostur1/macaulay/rosss_turaco_rostur1_47418441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57320,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47418441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47418441",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rosss_turaco_rostur1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943031/bird-gallery/rosss_turaco_rostur1/inaturalist/rosss_turaco_rostur1_1.jpg",
+      "public_id": "bird-gallery/rosss_turaco_rostur1/inaturalist/rosss_turaco_rostur1_1",
+      "width": 1024,
+      "height": 718,
+      "format": "jpg",
+      "bytes": 54213,
+      "attribution": {
+        "photographer": "viaviaentebbe",
+        "photographer_url": "https://www.inaturalist.org/observations/69043192",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© viaviaentebbe (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69043192,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosss_turaco_rostur1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943033/bird-gallery/rosss_turaco_rostur1/inaturalist/rosss_turaco_rostur1_2.jpg",
+      "public_id": "bird-gallery/rosss_turaco_rostur1/inaturalist/rosss_turaco_rostur1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 39274,
+      "attribution": {
+        "photographer": "jacob_skaggs",
+        "photographer_url": "https://www.inaturalist.org/observations/47482266",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jacob_skaggs (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 47482266,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosss_turaco_rostur1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943033/bird-gallery/rosss_turaco_rostur1/inaturalist/rosss_turaco_rostur1_3.jpg",
+      "public_id": "bird-gallery/rosss_turaco_rostur1/inaturalist/rosss_turaco_rostur1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76469,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/164932510",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 164932510,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

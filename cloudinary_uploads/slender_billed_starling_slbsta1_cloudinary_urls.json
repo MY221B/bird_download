@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "slender_billed_starling_slbsta1",
+    "chinese_name": "细嘴栗翅椋鸟",
+    "english_name": "Slender-billed Starling",
+    "scientific_name": "Onychognathus tenuirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "slender_billed_starling_slbsta1_117491441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941035/bird-gallery/slender_billed_starling_slbsta1/macaulay/slender_billed_starling_slbsta1_117491441.jpg",
+      "public_id": "bird-gallery/slender_billed_starling_slbsta1/macaulay/slender_billed_starling_slbsta1_117491441",
+      "width": 946,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 125871,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117491441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117491441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_starling_slbsta1_189255381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941036/bird-gallery/slender_billed_starling_slbsta1/macaulay/slender_billed_starling_slbsta1_189255381.jpg",
+      "public_id": "bird-gallery/slender_billed_starling_slbsta1/macaulay/slender_billed_starling_slbsta1_189255381",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 200968,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/189255381",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "189255381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_starling_slbsta1_23751641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941037/bird-gallery/slender_billed_starling_slbsta1/macaulay/slender_billed_starling_slbsta1_23751641.jpg",
+      "public_id": "bird-gallery/slender_billed_starling_slbsta1/macaulay/slender_billed_starling_slbsta1_23751641",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 83801,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/23751641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "23751641",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slender_billed_starling_slbsta1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941038/bird-gallery/slender_billed_starling_slbsta1/inaturalist/slender_billed_starling_slbsta1_1.jpg",
+      "public_id": "bird-gallery/slender_billed_starling_slbsta1/inaturalist/slender_billed_starling_slbsta1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 148250,
+      "attribution": {
+        "photographer": "geolas",
+        "photographer_url": "https://www.inaturalist.org/observations/46545361",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© geolas (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 46545361,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_starling_slbsta1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941040/bird-gallery/slender_billed_starling_slbsta1/inaturalist/slender_billed_starling_slbsta1_2.jpg",
+      "public_id": "bird-gallery/slender_billed_starling_slbsta1/inaturalist/slender_billed_starling_slbsta1_2",
+      "width": 640,
+      "height": 480,
+      "format": "jpg",
+      "bytes": 62865,
+      "attribution": {
+        "photographer": "bjseitz",
+        "photographer_url": "https://www.inaturalist.org/observations/104991947",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bjseitz (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 104991947,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_starling_slbsta1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941040/bird-gallery/slender_billed_starling_slbsta1/inaturalist/slender_billed_starling_slbsta1_3.jpg",
+      "public_id": "bird-gallery/slender_billed_starling_slbsta1/inaturalist/slender_billed_starling_slbsta1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 178938,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7511292",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7511292,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

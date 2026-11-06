@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_paradise_flycatcher_afpfly1",
+    "chinese_name": "非洲寿带",
+    "english_name": "African Paradise-Flycatcher",
+    "scientific_name": "Terpsiphone viridis"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_paradise_flycatcher_afpfly1_589388891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939210/bird-gallery/african_paradise_flycatcher_afpfly1/macaulay/african_paradise_flycatcher_afpfly1_589388891.jpg",
+      "public_id": "bird-gallery/african_paradise_flycatcher_afpfly1/macaulay/african_paradise_flycatcher_afpfly1_589388891",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 73441,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/589388891",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "589388891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_paradise_flycatcher_afpfly1_612497879.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939211/bird-gallery/african_paradise_flycatcher_afpfly1/macaulay/african_paradise_flycatcher_afpfly1_612497879.jpg",
+      "public_id": "bird-gallery/african_paradise_flycatcher_afpfly1/macaulay/african_paradise_flycatcher_afpfly1_612497879",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 107923,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/612497879",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "612497879",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_paradise_flycatcher_afpfly1_660875203.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939212/bird-gallery/african_paradise_flycatcher_afpfly1/macaulay/african_paradise_flycatcher_afpfly1_660875203.jpg",
+      "public_id": "bird-gallery/african_paradise_flycatcher_afpfly1/macaulay/african_paradise_flycatcher_afpfly1_660875203",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 96192,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/660875203",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "660875203",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_paradise_flycatcher_afpfly1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939213/bird-gallery/african_paradise_flycatcher_afpfly1/inaturalist/african_paradise_flycatcher_afpfly1_1.jpg",
+      "public_id": "bird-gallery/african_paradise_flycatcher_afpfly1/inaturalist/african_paradise_flycatcher_afpfly1_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 73163,
+      "attribution": {
+        "photographer": "sofiak1996",
+        "photographer_url": "https://www.inaturalist.org/observations/18447256",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sofiak1996 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18447256,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_paradise_flycatcher_afpfly1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939215/bird-gallery/african_paradise_flycatcher_afpfly1/inaturalist/african_paradise_flycatcher_afpfly1_2.jpg",
+      "public_id": "bird-gallery/african_paradise_flycatcher_afpfly1/inaturalist/african_paradise_flycatcher_afpfly1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58048,
+      "attribution": {
+        "photographer": "flippie1971",
+        "photographer_url": "https://www.inaturalist.org/observations/8714779",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© flippie1971 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 8714779,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_paradise_flycatcher_afpfly1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939216/bird-gallery/african_paradise_flycatcher_afpfly1/inaturalist/african_paradise_flycatcher_afpfly1_3.jpg",
+      "public_id": "bird-gallery/african_paradise_flycatcher_afpfly1/inaturalist/african_paradise_flycatcher_afpfly1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 133361,
+      "attribution": {
+        "photographer": "ord1",
+        "photographer_url": "https://www.inaturalist.org/observations/347167864",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ord1 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 347167864,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

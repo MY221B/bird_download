@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_faced_cisticola_refcis1",
+    "chinese_name": "红脸扇尾莺",
+    "english_name": "Red-faced Cisticola",
+    "scientific_name": "Cisticola erythrops"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_faced_cisticola_refcis1_205506751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940032/bird-gallery/red_faced_cisticola_refcis1/macaulay/red_faced_cisticola_refcis1_205506751.jpg",
+      "public_id": "bird-gallery/red_faced_cisticola_refcis1/macaulay/red_faced_cisticola_refcis1_205506751",
+      "width": 1200,
+      "height": 951,
+      "format": "jpg",
+      "bytes": 131548,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205506751",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205506751",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_faced_cisticola_refcis1_47426061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940033/bird-gallery/red_faced_cisticola_refcis1/macaulay/red_faced_cisticola_refcis1_47426061.jpg",
+      "public_id": "bird-gallery/red_faced_cisticola_refcis1/macaulay/red_faced_cisticola_refcis1_47426061",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 80158,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47426061",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47426061",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_faced_cisticola_refcis1_47426101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940034/bird-gallery/red_faced_cisticola_refcis1/macaulay/red_faced_cisticola_refcis1_47426101.jpg",
+      "public_id": "bird-gallery/red_faced_cisticola_refcis1/macaulay/red_faced_cisticola_refcis1_47426101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85880,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47426101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47426101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_faced_cisticola_refcis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940035/bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_1.jpg",
+      "public_id": "bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57620,
+      "attribution": {
+        "photographer": "brandongould",
+        "photographer_url": "https://www.inaturalist.org/observations/149123394",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© brandongould (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 149123394,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_faced_cisticola_refcis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940036/bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_2.jpg",
+      "public_id": "bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_2",
+      "width": 1024,
+      "height": 807,
+      "format": "jpg",
+      "bytes": 235949,
+      "attribution": {
+        "photographer": "avocat",
+        "photographer_url": "https://www.inaturalist.org/observations/313049552",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© avocat (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 313049552,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_faced_cisticola_refcis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940037/bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_3.jpg",
+      "public_id": "bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73339,
+      "attribution": {
+        "photographer": "zach63671",
+        "photographer_url": "https://www.inaturalist.org/observations/308393874",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© zach63671 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 308393874,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

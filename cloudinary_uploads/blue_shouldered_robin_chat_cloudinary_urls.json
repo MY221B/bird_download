@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "blue_shouldered_robin_chat",
+    "chinese_name": "蓝肩歌䳭",
+    "english_name": "Blue-shouldered Robin-Chat",
+    "scientific_name": "Cossypha cyanocampter"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_shouldered_robin_chat_206283991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944460/bird-gallery/blue_shouldered_robin_chat/macaulay/blue_shouldered_robin_chat_206283991.jpg",
+      "public_id": "bird-gallery/blue_shouldered_robin_chat/macaulay/blue_shouldered_robin_chat_206283991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88996,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206283991",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206283991",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_shouldered_robin_chat_632144762.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944461/bird-gallery/blue_shouldered_robin_chat/macaulay/blue_shouldered_robin_chat_632144762.jpg",
+      "public_id": "bird-gallery/blue_shouldered_robin_chat/macaulay/blue_shouldered_robin_chat_632144762",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 101359,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632144762",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632144762",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_shouldered_robin_chat_635788715.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944462/bird-gallery/blue_shouldered_robin_chat/macaulay/blue_shouldered_robin_chat_635788715.jpg",
+      "public_id": "bird-gallery/blue_shouldered_robin_chat/macaulay/blue_shouldered_robin_chat_635788715",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65230,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/635788715",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "635788715",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_shouldered_robin_chat_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944463/bird-gallery/blue_shouldered_robin_chat/inaturalist/blue_shouldered_robin_chat_1.jpg",
+      "public_id": "bird-gallery/blue_shouldered_robin_chat/inaturalist/blue_shouldered_robin_chat_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76728,
+      "attribution": {
+        "photographer": "samzhang",
+        "photographer_url": "https://www.inaturalist.org/observations/265460858",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© samzhang (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 265460858,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_shouldered_robin_chat_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944464/bird-gallery/blue_shouldered_robin_chat/inaturalist/blue_shouldered_robin_chat_2.jpg",
+      "public_id": "bird-gallery/blue_shouldered_robin_chat/inaturalist/blue_shouldered_robin_chat_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63293,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/94564750",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 94564750,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_shouldered_robin_chat_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944464/bird-gallery/blue_shouldered_robin_chat/inaturalist/blue_shouldered_robin_chat_3.jpg",
+      "public_id": "bird-gallery/blue_shouldered_robin_chat/inaturalist/blue_shouldered_robin_chat_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61919,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/97547145",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 97547145,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

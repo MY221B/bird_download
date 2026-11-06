@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "buff_bellied_warbler_bubwar2",
+    "chinese_name": "黄腹莺",
+    "english_name": "Buff-bellied Warbler",
+    "scientific_name": "Phyllolais pulchella"
+  },
+  "macaulay": [
+    {
+      "original_file": "buff_bellied_warbler_bubwar2_204929441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939530/bird-gallery/buff_bellied_warbler_bubwar2/macaulay/buff_bellied_warbler_bubwar2_204929441.jpg",
+      "public_id": "bird-gallery/buff_bellied_warbler_bubwar2/macaulay/buff_bellied_warbler_bubwar2_204929441",
+      "width": 1000,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 105307,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204929441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204929441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_bellied_warbler_bubwar2_205462491.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939531/bird-gallery/buff_bellied_warbler_bubwar2/macaulay/buff_bellied_warbler_bubwar2_205462491.jpg",
+      "public_id": "bird-gallery/buff_bellied_warbler_bubwar2/macaulay/buff_bellied_warbler_bubwar2_205462491",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 76953,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205462491",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205462491",
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_bellied_warbler_bubwar2_627874347.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939532/bird-gallery/buff_bellied_warbler_bubwar2/macaulay/buff_bellied_warbler_bubwar2_627874347.jpg",
+      "public_id": "bird-gallery/buff_bellied_warbler_bubwar2/macaulay/buff_bellied_warbler_bubwar2_627874347",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 67295,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/627874347",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "627874347",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "buff_bellied_warbler_bubwar2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939533/bird-gallery/buff_bellied_warbler_bubwar2/inaturalist/buff_bellied_warbler_bubwar2_1.jpg",
+      "public_id": "bird-gallery/buff_bellied_warbler_bubwar2/inaturalist/buff_bellied_warbler_bubwar2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63157,
+      "attribution": {
+        "photographer": "bridgetspencer",
+        "photographer_url": "https://www.inaturalist.org/observations/287763519",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bridgetspencer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 287763519,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_bellied_warbler_bubwar2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939534/bird-gallery/buff_bellied_warbler_bubwar2/inaturalist/buff_bellied_warbler_bubwar2_2.jpg",
+      "public_id": "bird-gallery/buff_bellied_warbler_bubwar2/inaturalist/buff_bellied_warbler_bubwar2_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 187639,
+      "attribution": {
+        "photographer": "thehousebunting",
+        "photographer_url": "https://www.inaturalist.org/observations/205140029",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thehousebunting (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 205140029,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_bellied_warbler_bubwar2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939535/bird-gallery/buff_bellied_warbler_bubwar2/inaturalist/buff_bellied_warbler_bubwar2_3.jpg",
+      "public_id": "bird-gallery/buff_bellied_warbler_bubwar2/inaturalist/buff_bellied_warbler_bubwar2_3",
+      "width": 641,
+      "height": 492,
+      "format": "jpg",
+      "bytes": 60148,
+      "attribution": {
+        "photographer": "mehdh",
+        "photographer_url": "https://www.inaturalist.org/observations/107375979",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mehdh (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 107375979,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

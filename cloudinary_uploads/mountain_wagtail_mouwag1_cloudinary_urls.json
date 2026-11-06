@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mountain_wagtail_mouwag1",
+    "chinese_name": "非洲山鹡鸰",
+    "english_name": "Mountain Wagtail",
+    "scientific_name": "Motacilla clara"
+  },
+  "macaulay": [
+    {
+      "original_file": "mountain_wagtail_mouwag1_364827631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940889/bird-gallery/mountain_wagtail_mouwag1/macaulay/mountain_wagtail_mouwag1_364827631.jpg",
+      "public_id": "bird-gallery/mountain_wagtail_mouwag1/macaulay/mountain_wagtail_mouwag1_364827631",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82667,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/364827631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "364827631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_wagtail_mouwag1_616862806.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940890/bird-gallery/mountain_wagtail_mouwag1/macaulay/mountain_wagtail_mouwag1_616862806.jpg",
+      "public_id": "bird-gallery/mountain_wagtail_mouwag1/macaulay/mountain_wagtail_mouwag1_616862806",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86087,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/616862806",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "616862806",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_wagtail_mouwag1_665521667.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940891/bird-gallery/mountain_wagtail_mouwag1/macaulay/mountain_wagtail_mouwag1_665521667.jpg",
+      "public_id": "bird-gallery/mountain_wagtail_mouwag1/macaulay/mountain_wagtail_mouwag1_665521667",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62731,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665521667",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665521667",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mountain_wagtail_mouwag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940893/bird-gallery/mountain_wagtail_mouwag1/inaturalist/mountain_wagtail_mouwag1_1.jpg",
+      "public_id": "bird-gallery/mountain_wagtail_mouwag1/inaturalist/mountain_wagtail_mouwag1_1",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 118277,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/320441928",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 320441928,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_wagtail_mouwag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940894/bird-gallery/mountain_wagtail_mouwag1/inaturalist/mountain_wagtail_mouwag1_2.jpg",
+      "public_id": "bird-gallery/mountain_wagtail_mouwag1/inaturalist/mountain_wagtail_mouwag1_2",
+      "width": 1024,
+      "height": 676,
+      "format": "jpg",
+      "bytes": 112309,
+      "attribution": {
+        "photographer": "callumevans",
+        "photographer_url": "https://www.inaturalist.org/observations/41900788",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© callumevans (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 41900788,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_wagtail_mouwag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940894/bird-gallery/mountain_wagtail_mouwag1/inaturalist/mountain_wagtail_mouwag1_3.jpg",
+      "public_id": "bird-gallery/mountain_wagtail_mouwag1/inaturalist/mountain_wagtail_mouwag1_3",
+      "width": 1024,
+      "height": 544,
+      "format": "jpg",
+      "bytes": 82997,
+      "attribution": {
+        "photographer": "mr_fab",
+        "photographer_url": "https://www.inaturalist.org/observations/10952007",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© mr_fab (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 10952007,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

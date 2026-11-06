@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "sharpes_longclaw",
+    "chinese_name": "夏氏长爪鹡鸰",
+    "english_name": "Sharpe's Longclaw",
+    "scientific_name": "Macronyx sharpei"
+  },
+  "macaulay": [
+    {
+      "original_file": "sharpes_longclaw_628275757.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941395/bird-gallery/sharpes_longclaw/macaulay/sharpes_longclaw_628275757.jpg",
+      "public_id": "bird-gallery/sharpes_longclaw/macaulay/sharpes_longclaw_628275757",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 93952,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628275757",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628275757",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharpes_longclaw_628275759.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941396/bird-gallery/sharpes_longclaw/macaulay/sharpes_longclaw_628275759.jpg",
+      "public_id": "bird-gallery/sharpes_longclaw/macaulay/sharpes_longclaw_628275759",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 108446,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628275759",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628275759",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharpes_longclaw_644392687.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941397/bird-gallery/sharpes_longclaw/macaulay/sharpes_longclaw_644392687.jpg",
+      "public_id": "bird-gallery/sharpes_longclaw/macaulay/sharpes_longclaw_644392687",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 106629,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/644392687",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "644392687",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sharpes_longclaw_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941398/bird-gallery/sharpes_longclaw/inaturalist/sharpes_longclaw_1.jpg",
+      "public_id": "bird-gallery/sharpes_longclaw/inaturalist/sharpes_longclaw_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 88808,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/86271044",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 86271044,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharpes_longclaw_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941398/bird-gallery/sharpes_longclaw/inaturalist/sharpes_longclaw_2.jpg",
+      "public_id": "bird-gallery/sharpes_longclaw/inaturalist/sharpes_longclaw_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 170378,
+      "attribution": {
+        "photographer": "mwas",
+        "photographer_url": "https://www.inaturalist.org/observations/36563510",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mwas (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36563510,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharpes_longclaw_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941399/bird-gallery/sharpes_longclaw/inaturalist/sharpes_longclaw_3.jpg",
+      "public_id": "bird-gallery/sharpes_longclaw/inaturalist/sharpes_longclaw_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 189947,
+      "attribution": {
+        "photographer": "garyleavens",
+        "photographer_url": "https://www.inaturalist.org/observations/207926152",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© garyleavens (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 207926152,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

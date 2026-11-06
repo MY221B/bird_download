@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_capped_social_weaver_bcswea1",
+    "chinese_name": "黑头群织雀",
+    "english_name": "Black-capped Social-Weaver",
+    "scientific_name": "Pseudonigrita cabanisi"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_capped_social_weaver_bcswea1_105181621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943998/bird-gallery/black_capped_social_weaver_bcswea1/macaulay/black_capped_social_weaver_bcswea1_105181621.jpg",
+      "public_id": "bird-gallery/black_capped_social_weaver_bcswea1/macaulay/black_capped_social_weaver_bcswea1_105181621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 80810,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/105181621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "105181621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_social_weaver_bcswea1_204254051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943999/bird-gallery/black_capped_social_weaver_bcswea1/macaulay/black_capped_social_weaver_bcswea1_204254051.jpg",
+      "public_id": "bird-gallery/black_capped_social_weaver_bcswea1/macaulay/black_capped_social_weaver_bcswea1_204254051",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84307,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204254051",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204254051",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_social_weaver_bcswea1_204254061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944000/bird-gallery/black_capped_social_weaver_bcswea1/macaulay/black_capped_social_weaver_bcswea1_204254061.jpg",
+      "public_id": "bird-gallery/black_capped_social_weaver_bcswea1/macaulay/black_capped_social_weaver_bcswea1_204254061",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 169671,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204254061",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204254061",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_capped_social_weaver_bcswea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944001/bird-gallery/black_capped_social_weaver_bcswea1/inaturalist/black_capped_social_weaver_bcswea1_1.jpg",
+      "public_id": "bird-gallery/black_capped_social_weaver_bcswea1/inaturalist/black_capped_social_weaver_bcswea1_1",
+      "width": 877,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 64083,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/348446449",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 348446449,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_social_weaver_bcswea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944002/bird-gallery/black_capped_social_weaver_bcswea1/inaturalist/black_capped_social_weaver_bcswea1_2.jpg",
+      "public_id": "bird-gallery/black_capped_social_weaver_bcswea1/inaturalist/black_capped_social_weaver_bcswea1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 147295,
+      "attribution": {
+        "photographer": "sarah_hodgkiss",
+        "photographer_url": "https://www.inaturalist.org/observations/249085431",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sarah_hodgkiss (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 249085431,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_capped_social_weaver_bcswea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944002/bird-gallery/black_capped_social_weaver_bcswea1/inaturalist/black_capped_social_weaver_bcswea1_3.jpg",
+      "public_id": "bird-gallery/black_capped_social_weaver_bcswea1/inaturalist/black_capped_social_weaver_bcswea1_3",
+      "width": 1024,
+      "height": 784,
+      "format": "jpg",
+      "bytes": 44613,
+      "attribution": {
+        "photographer": "ken_simonite",
+        "photographer_url": "https://www.inaturalist.org/observations/201532730",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ken_simonite (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 201532730,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

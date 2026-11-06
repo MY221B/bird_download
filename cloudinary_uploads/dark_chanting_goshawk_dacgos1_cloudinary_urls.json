@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "dark_chanting_goshawk_dacgos1",
+    "chinese_name": "暗色歌鹰",
+    "english_name": "Dark Chanting-Goshawk",
+    "scientific_name": "Melierax metabates"
+  },
+  "macaulay": [
+    {
+      "original_file": "dark_chanting_goshawk_dacgos1_204212111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941902/bird-gallery/dark_chanting_goshawk_dacgos1/macaulay/dark_chanting_goshawk_dacgos1_204212111.jpg",
+      "public_id": "bird-gallery/dark_chanting_goshawk_dacgos1/macaulay/dark_chanting_goshawk_dacgos1_204212111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 231233,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204212111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204212111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dark_chanting_goshawk_dacgos1_206150631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941903/bird-gallery/dark_chanting_goshawk_dacgos1/macaulay/dark_chanting_goshawk_dacgos1_206150631.jpg",
+      "public_id": "bird-gallery/dark_chanting_goshawk_dacgos1/macaulay/dark_chanting_goshawk_dacgos1_206150631",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 138050,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206150631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206150631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dark_chanting_goshawk_dacgos1_623275388.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941904/bird-gallery/dark_chanting_goshawk_dacgos1/macaulay/dark_chanting_goshawk_dacgos1_623275388.jpg",
+      "public_id": "bird-gallery/dark_chanting_goshawk_dacgos1/macaulay/dark_chanting_goshawk_dacgos1_623275388",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49915,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/623275388",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "623275388",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dark_chanting_goshawk_dacgos1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941905/bird-gallery/dark_chanting_goshawk_dacgos1/inaturalist/dark_chanting_goshawk_dacgos1_1.jpg",
+      "public_id": "bird-gallery/dark_chanting_goshawk_dacgos1/inaturalist/dark_chanting_goshawk_dacgos1_1",
+      "width": 1024,
+      "height": 753,
+      "format": "jpg",
+      "bytes": 115041,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/105393952",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105393952,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dark_chanting_goshawk_dacgos1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941906/bird-gallery/dark_chanting_goshawk_dacgos1/inaturalist/dark_chanting_goshawk_dacgos1_2.jpg",
+      "public_id": "bird-gallery/dark_chanting_goshawk_dacgos1/inaturalist/dark_chanting_goshawk_dacgos1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 41360,
+      "attribution": {
+        "photographer": "echocampfire",
+        "photographer_url": "https://www.inaturalist.org/observations/171230656",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© echocampfire (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 171230656,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dark_chanting_goshawk_dacgos1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941906/bird-gallery/dark_chanting_goshawk_dacgos1/inaturalist/dark_chanting_goshawk_dacgos1_3.jpg",
+      "public_id": "bird-gallery/dark_chanting_goshawk_dacgos1/inaturalist/dark_chanting_goshawk_dacgos1_3",
+      "width": 1024,
+      "height": 915,
+      "format": "jpg",
+      "bytes": 176522,
+      "attribution": {
+        "photographer": "cyril_joseph",
+        "photographer_url": "https://www.inaturalist.org/observations/129355679",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cyril_joseph (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 129355679,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

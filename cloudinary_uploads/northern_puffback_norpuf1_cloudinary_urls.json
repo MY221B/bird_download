@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_puffback_norpuf1",
+    "chinese_name": "蓬背鵙",
+    "english_name": "Northern Puffback",
+    "scientific_name": "Dryoscopus gambensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_puffback_norpuf1_204276841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941687/bird-gallery/northern_puffback_norpuf1/macaulay/northern_puffback_norpuf1_204276841.jpg",
+      "public_id": "bird-gallery/northern_puffback_norpuf1/macaulay/northern_puffback_norpuf1_204276841",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 118082,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204276841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204276841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_puffback_norpuf1_467442171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941688/bird-gallery/northern_puffback_norpuf1/macaulay/northern_puffback_norpuf1_467442171.jpg",
+      "public_id": "bird-gallery/northern_puffback_norpuf1/macaulay/northern_puffback_norpuf1_467442171",
+      "width": 1191,
+      "height": 794,
+      "format": "jpg",
+      "bytes": 271643,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/467442171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "467442171",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_puffback_norpuf1_561571551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941689/bird-gallery/northern_puffback_norpuf1/macaulay/northern_puffback_norpuf1_561571551.jpg",
+      "public_id": "bird-gallery/northern_puffback_norpuf1/macaulay/northern_puffback_norpuf1_561571551",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83095,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/561571551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "561571551",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_puffback_norpuf1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941690/bird-gallery/northern_puffback_norpuf1/inaturalist/northern_puffback_norpuf1_1.jpg",
+      "public_id": "bird-gallery/northern_puffback_norpuf1/inaturalist/northern_puffback_norpuf1_1",
+      "width": 1024,
+      "height": 741,
+      "format": "jpg",
+      "bytes": 66402,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18676783",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18676783,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_puffback_norpuf1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941691/bird-gallery/northern_puffback_norpuf1/inaturalist/northern_puffback_norpuf1_2.jpg",
+      "public_id": "bird-gallery/northern_puffback_norpuf1/inaturalist/northern_puffback_norpuf1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 84995,
+      "attribution": {
+        "photographer": "maximion",
+        "photographer_url": "https://www.inaturalist.org/observations/337132015",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maximion (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337132015,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_puffback_norpuf1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941692/bird-gallery/northern_puffback_norpuf1/inaturalist/northern_puffback_norpuf1_3.jpg",
+      "public_id": "bird-gallery/northern_puffback_norpuf1/inaturalist/northern_puffback_norpuf1_3",
+      "width": 850,
+      "height": 582,
+      "format": "jpg",
+      "bytes": 87787,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18694215",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18694215,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

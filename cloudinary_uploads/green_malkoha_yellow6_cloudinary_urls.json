@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "green_malkoha_yellow6",
+    "chinese_name": "绿黄嘴鹃",
+    "english_name": "Green Malkoha",
+    "scientific_name": "Ceuthmochares australis"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_malkoha_yellow6_205983191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945467/bird-gallery/green_malkoha_yellow6/macaulay/green_malkoha_yellow6_205983191.jpg",
+      "public_id": "bird-gallery/green_malkoha_yellow6/macaulay/green_malkoha_yellow6_205983191",
+      "width": 1000,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68773,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205983191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205983191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_malkoha_yellow6_621751182.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945468/bird-gallery/green_malkoha_yellow6/macaulay/green_malkoha_yellow6_621751182.jpg",
+      "public_id": "bird-gallery/green_malkoha_yellow6/macaulay/green_malkoha_yellow6_621751182",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117773,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621751182",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621751182",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_malkoha_yellow6_81067341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945469/bird-gallery/green_malkoha_yellow6/macaulay/green_malkoha_yellow6_81067341.jpg",
+      "public_id": "bird-gallery/green_malkoha_yellow6/macaulay/green_malkoha_yellow6_81067341",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81191,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/81067341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "81067341",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_malkoha_yellow6_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945471/bird-gallery/green_malkoha_yellow6/inaturalist/green_malkoha_yellow6_1.jpg",
+      "public_id": "bird-gallery/green_malkoha_yellow6/inaturalist/green_malkoha_yellow6_1",
+      "width": 569,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104285,
+      "attribution": {
+        "photographer": "cefox",
+        "photographer_url": "https://www.inaturalist.org/observations/10354868",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cefox (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10354868,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_malkoha_yellow6_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945471/bird-gallery/green_malkoha_yellow6/inaturalist/green_malkoha_yellow6_2.jpg",
+      "public_id": "bird-gallery/green_malkoha_yellow6/inaturalist/green_malkoha_yellow6_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 15436,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/194211493",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 194211493,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_malkoha_yellow6_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945472/bird-gallery/green_malkoha_yellow6/inaturalist/green_malkoha_yellow6_3.jpg",
+      "public_id": "bird-gallery/green_malkoha_yellow6/inaturalist/green_malkoha_yellow6_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 209813,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/163188505",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 163188505,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

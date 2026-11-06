@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mocking_cliff_chat_moccha1",
+    "chinese_name": "桂红蚁鵖",
+    "english_name": "Mocking Cliff-Chat",
+    "scientific_name": "Thamnolaea cinnamomeiventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "mocking_cliff_chat_moccha1_131034891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941674/bird-gallery/mocking_cliff_chat_moccha1/macaulay/mocking_cliff_chat_moccha1_131034891.jpg",
+      "public_id": "bird-gallery/mocking_cliff_chat_moccha1/macaulay/mocking_cliff_chat_moccha1_131034891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 121153,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/131034891",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "131034891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mocking_cliff_chat_moccha1_185183191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941677/bird-gallery/mocking_cliff_chat_moccha1/macaulay/mocking_cliff_chat_moccha1_185183191.jpg",
+      "public_id": "bird-gallery/mocking_cliff_chat_moccha1/macaulay/mocking_cliff_chat_moccha1_185183191",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 65904,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/185183191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "185183191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mocking_cliff_chat_moccha1_627938922.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941678/bird-gallery/mocking_cliff_chat_moccha1/macaulay/mocking_cliff_chat_moccha1_627938922.jpg",
+      "public_id": "bird-gallery/mocking_cliff_chat_moccha1/macaulay/mocking_cliff_chat_moccha1_627938922",
+      "width": 1200,
+      "height": 744,
+      "format": "jpg",
+      "bytes": 61443,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/627938922",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "627938922",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mocking_cliff_chat_moccha1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941680/bird-gallery/mocking_cliff_chat_moccha1/inaturalist/mocking_cliff_chat_moccha1_1.jpg",
+      "public_id": "bird-gallery/mocking_cliff_chat_moccha1/inaturalist/mocking_cliff_chat_moccha1_1",
+      "width": 1024,
+      "height": 671,
+      "format": "jpg",
+      "bytes": 164485,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/100096783",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100096783,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mocking_cliff_chat_moccha1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941681/bird-gallery/mocking_cliff_chat_moccha1/inaturalist/mocking_cliff_chat_moccha1_2.jpg",
+      "public_id": "bird-gallery/mocking_cliff_chat_moccha1/inaturalist/mocking_cliff_chat_moccha1_2",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 54329,
+      "attribution": {
+        "photographer": "sherehora",
+        "photographer_url": "https://www.inaturalist.org/observations/337070222",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sherehora (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337070222,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mocking_cliff_chat_moccha1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941681/bird-gallery/mocking_cliff_chat_moccha1/inaturalist/mocking_cliff_chat_moccha1_3.jpg",
+      "public_id": "bird-gallery/mocking_cliff_chat_moccha1/inaturalist/mocking_cliff_chat_moccha1_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 29949,
+      "attribution": {
+        "photographer": "jdswan05",
+        "photographer_url": "https://www.inaturalist.org/observations/148888435",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jdswan05 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 148888435,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

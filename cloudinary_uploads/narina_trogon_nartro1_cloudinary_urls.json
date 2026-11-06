@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "narina_trogon_nartro1",
+    "chinese_name": "绿颊咬鹃",
+    "english_name": "Narina Trogon",
+    "scientific_name": "Apaloderma narina"
+  },
+  "macaulay": [
+    {
+      "original_file": "narina_trogon_nartro1_198784371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940899/bird-gallery/narina_trogon_nartro1/macaulay/narina_trogon_nartro1_198784371.jpg",
+      "public_id": "bird-gallery/narina_trogon_nartro1/macaulay/narina_trogon_nartro1_198784371",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 57875,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/198784371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "198784371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "narina_trogon_nartro1_295443491.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940900/bird-gallery/narina_trogon_nartro1/macaulay/narina_trogon_nartro1_295443491.jpg",
+      "public_id": "bird-gallery/narina_trogon_nartro1/macaulay/narina_trogon_nartro1_295443491",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 80069,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/295443491",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "295443491",
+        "note": null
+      }
+    },
+    {
+      "original_file": "narina_trogon_nartro1_625350061.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940901/bird-gallery/narina_trogon_nartro1/macaulay/narina_trogon_nartro1_625350061.jpg",
+      "public_id": "bird-gallery/narina_trogon_nartro1/macaulay/narina_trogon_nartro1_625350061",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79993,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/625350061",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "625350061",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "narina_trogon_nartro1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940902/bird-gallery/narina_trogon_nartro1/inaturalist/narina_trogon_nartro1_1.jpg",
+      "public_id": "bird-gallery/narina_trogon_nartro1/inaturalist/narina_trogon_nartro1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57541,
+      "attribution": {
+        "photographer": "cliffdorse",
+        "photographer_url": "https://www.inaturalist.org/observations/158734933",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cliffdorse (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 158734933,
+        "note": null
+      }
+    },
+    {
+      "original_file": "narina_trogon_nartro1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940903/bird-gallery/narina_trogon_nartro1/inaturalist/narina_trogon_nartro1_2.jpg",
+      "public_id": "bird-gallery/narina_trogon_nartro1/inaturalist/narina_trogon_nartro1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 78229,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/220810398",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 220810398,
+        "note": null
+      }
+    },
+    {
+      "original_file": "narina_trogon_nartro1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940904/bird-gallery/narina_trogon_nartro1/inaturalist/narina_trogon_nartro1_3.jpg",
+      "public_id": "bird-gallery/narina_trogon_nartro1/inaturalist/narina_trogon_nartro1_3",
+      "width": 934,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 88356,
+      "attribution": {
+        "photographer": "justin_p",
+        "photographer_url": "https://www.inaturalist.org/observations/19052856",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© justin_p (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 19052856,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

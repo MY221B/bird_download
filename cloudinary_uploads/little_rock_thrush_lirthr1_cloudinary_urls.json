@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "little_rock_thrush_lirthr1",
+    "chinese_name": "棕灰矶鸫",
+    "english_name": "Little Rock-Thrush",
+    "scientific_name": "Monticola rufocinereus"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_rock_thrush_lirthr1_33603951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941641/bird-gallery/little_rock_thrush_lirthr1/macaulay/little_rock_thrush_lirthr1_33603951.jpg",
+      "public_id": "bird-gallery/little_rock_thrush_lirthr1/macaulay/little_rock_thrush_lirthr1_33603951",
+      "width": 1200,
+      "height": 708,
+      "format": "jpg",
+      "bytes": 69881,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33603951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33603951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_rock_thrush_lirthr1_33603991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941642/bird-gallery/little_rock_thrush_lirthr1/macaulay/little_rock_thrush_lirthr1_33603991.jpg",
+      "public_id": "bird-gallery/little_rock_thrush_lirthr1/macaulay/little_rock_thrush_lirthr1_33603991",
+      "width": 1200,
+      "height": 701,
+      "format": "jpg",
+      "bytes": 57476,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33603991",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33603991",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_rock_thrush_lirthr1_628294248.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941643/bird-gallery/little_rock_thrush_lirthr1/macaulay/little_rock_thrush_lirthr1_628294248.jpg",
+      "public_id": "bird-gallery/little_rock_thrush_lirthr1/macaulay/little_rock_thrush_lirthr1_628294248",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 97836,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628294248",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628294248",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_rock_thrush_lirthr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941643/bird-gallery/little_rock_thrush_lirthr1/inaturalist/little_rock_thrush_lirthr1_1.jpg",
+      "public_id": "bird-gallery/little_rock_thrush_lirthr1/inaturalist/little_rock_thrush_lirthr1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 81489,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/257041985",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 257041985,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_rock_thrush_lirthr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941644/bird-gallery/little_rock_thrush_lirthr1/inaturalist/little_rock_thrush_lirthr1_2.jpg",
+      "public_id": "bird-gallery/little_rock_thrush_lirthr1/inaturalist/little_rock_thrush_lirthr1_2",
+      "width": 1024,
+      "height": 676,
+      "format": "jpg",
+      "bytes": 100012,
+      "attribution": {
+        "photographer": "mikee84",
+        "photographer_url": "https://www.inaturalist.org/observations/141927590",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mikee84 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 141927590,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_rock_thrush_lirthr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941645/bird-gallery/little_rock_thrush_lirthr1/inaturalist/little_rock_thrush_lirthr1_3.jpg",
+      "public_id": "bird-gallery/little_rock_thrush_lirthr1/inaturalist/little_rock_thrush_lirthr1_3",
+      "width": 1024,
+      "height": 699,
+      "format": "jpg",
+      "bytes": 29092,
+      "attribution": {
+        "photographer": "kerejoo",
+        "photographer_url": "https://www.inaturalist.org/observations/509824",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kerejoo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 509824,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

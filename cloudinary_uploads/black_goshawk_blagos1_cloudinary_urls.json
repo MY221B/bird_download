@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_goshawk_blagos1",
+    "chinese_name": "黑白雀鹰",
+    "english_name": "Black Goshawk",
+    "scientific_name": "Astur melanoleucus"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_goshawk_blagos1_206174541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939363/bird-gallery/black_goshawk_blagos1/macaulay/black_goshawk_blagos1_206174541.jpg",
+      "public_id": "bird-gallery/black_goshawk_blagos1/macaulay/black_goshawk_blagos1_206174541",
+      "width": 850,
+      "height": 567,
+      "format": "jpg",
+      "bytes": 29050,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206174541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206174541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_goshawk_blagos1_624684619.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939363/bird-gallery/black_goshawk_blagos1/macaulay/black_goshawk_blagos1_624684619.jpg",
+      "public_id": "bird-gallery/black_goshawk_blagos1/macaulay/black_goshawk_blagos1_624684619",
+      "width": 1200,
+      "height": 917,
+      "format": "jpg",
+      "bytes": 121401,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/624684619",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "624684619",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_goshawk_blagos1_630311620.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939364/bird-gallery/black_goshawk_blagos1/macaulay/black_goshawk_blagos1_630311620.jpg",
+      "public_id": "bird-gallery/black_goshawk_blagos1/macaulay/black_goshawk_blagos1_630311620",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 222745,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/630311620",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "630311620",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_goshawk_blagos1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939366/bird-gallery/black_goshawk_blagos1/inaturalist/black_goshawk_blagos1_1.jpg",
+      "public_id": "bird-gallery/black_goshawk_blagos1/inaturalist/black_goshawk_blagos1_1",
+      "width": 685,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 52406,
+      "attribution": {
+        "photographer": "clint49",
+        "photographer_url": "https://www.inaturalist.org/observations/49572605",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© clint49 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 49572605,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_goshawk_blagos1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939366/bird-gallery/black_goshawk_blagos1/inaturalist/black_goshawk_blagos1_2.jpg",
+      "public_id": "bird-gallery/black_goshawk_blagos1/inaturalist/black_goshawk_blagos1_2",
+      "width": 959,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 178376,
+      "attribution": {
+        "photographer": "baldcoot",
+        "photographer_url": "https://www.inaturalist.org/observations/49154218",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© baldcoot (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 49154218,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_goshawk_blagos1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939367/bird-gallery/black_goshawk_blagos1/inaturalist/black_goshawk_blagos1_3.jpg",
+      "public_id": "bird-gallery/black_goshawk_blagos1/inaturalist/black_goshawk_blagos1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58717,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/70461604",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 70461604,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

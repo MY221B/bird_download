@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "little_weaver_litwea1",
+    "chinese_name": "小织雀",
+    "english_name": "Little Weaver",
+    "scientific_name": "Ploceus luteolus"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_weaver_litwea1_584327511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941804/bird-gallery/little_weaver_litwea1/macaulay/little_weaver_litwea1_584327511.jpg",
+      "public_id": "bird-gallery/little_weaver_litwea1/macaulay/little_weaver_litwea1_584327511",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 106618,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/584327511",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "584327511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_weaver_litwea1_584327521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941805/bird-gallery/little_weaver_litwea1/macaulay/little_weaver_litwea1_584327521.jpg",
+      "public_id": "bird-gallery/little_weaver_litwea1/macaulay/little_weaver_litwea1_584327521",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 116332,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/584327521",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "584327521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_weaver_litwea1_611893247.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941806/bird-gallery/little_weaver_litwea1/macaulay/little_weaver_litwea1_611893247.jpg",
+      "public_id": "bird-gallery/little_weaver_litwea1/macaulay/little_weaver_litwea1_611893247",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85266,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/611893247",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "611893247",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_weaver_litwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941807/bird-gallery/little_weaver_litwea1/inaturalist/little_weaver_litwea1_1.jpg",
+      "public_id": "bird-gallery/little_weaver_litwea1/inaturalist/little_weaver_litwea1_1",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 48425,
+      "attribution": {
+        "photographer": "almut_66",
+        "photographer_url": "https://www.inaturalist.org/observations/205430956",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© almut_66 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 205430956,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_weaver_litwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941808/bird-gallery/little_weaver_litwea1/inaturalist/little_weaver_litwea1_2.jpg",
+      "public_id": "bird-gallery/little_weaver_litwea1/inaturalist/little_weaver_litwea1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 141498,
+      "attribution": {
+        "photographer": "gbiribou",
+        "photographer_url": "https://www.inaturalist.org/observations/309251685",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© gbiribou (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 309251685,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_weaver_litwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941809/bird-gallery/little_weaver_litwea1/inaturalist/little_weaver_litwea1_3.jpg",
+      "public_id": "bird-gallery/little_weaver_litwea1/inaturalist/little_weaver_litwea1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 42664,
+      "attribution": {
+        "photographer": "lukeberg",
+        "photographer_url": "https://www.inaturalist.org/observations/313689784",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 313689784,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

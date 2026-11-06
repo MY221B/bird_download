@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "schalows_turaco",
+    "chinese_name": "沙氏冠蕉鹃",
+    "english_name": "Schalow's Turaco",
+    "scientific_name": "Tauraco schalowi"
+  },
+  "macaulay": [
+    {
+      "original_file": "schalows_turaco_206138171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943105/bird-gallery/schalows_turaco/macaulay/schalows_turaco_206138171.jpg",
+      "public_id": "bird-gallery/schalows_turaco/macaulay/schalows_turaco_206138171",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69645,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206138171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206138171",
+        "note": null
+      }
+    },
+    {
+      "original_file": "schalows_turaco_508660401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943106/bird-gallery/schalows_turaco/macaulay/schalows_turaco_508660401.jpg",
+      "public_id": "bird-gallery/schalows_turaco/macaulay/schalows_turaco_508660401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88639,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/508660401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "508660401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "schalows_turaco_624194551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943107/bird-gallery/schalows_turaco/macaulay/schalows_turaco_624194551.jpg",
+      "public_id": "bird-gallery/schalows_turaco/macaulay/schalows_turaco_624194551",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58168,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/624194551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "624194551",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "schalows_turaco_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943108/bird-gallery/schalows_turaco/inaturalist/schalows_turaco_1.jpg",
+      "public_id": "bird-gallery/schalows_turaco/inaturalist/schalows_turaco_1",
+      "width": 1024,
+      "height": 984,
+      "format": "jpg",
+      "bytes": 96075,
+      "attribution": {
+        "photographer": "eliegaget",
+        "photographer_url": "https://www.inaturalist.org/observations/121898834",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© eliegaget (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 121898834,
+        "note": null
+      }
+    },
+    {
+      "original_file": "schalows_turaco_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943109/bird-gallery/schalows_turaco/inaturalist/schalows_turaco_2.jpg",
+      "public_id": "bird-gallery/schalows_turaco/inaturalist/schalows_turaco_2",
+      "width": 929,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 140461,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/105320967",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105320967,
+        "note": null
+      }
+    },
+    {
+      "original_file": "schalows_turaco_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943110/bird-gallery/schalows_turaco/inaturalist/schalows_turaco_3.jpg",
+      "public_id": "bird-gallery/schalows_turaco/inaturalist/schalows_turaco_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 139237,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/143297141",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 143297141,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

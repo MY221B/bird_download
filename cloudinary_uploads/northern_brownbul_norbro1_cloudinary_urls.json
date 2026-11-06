@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_brownbul_norbro1",
+    "chinese_name": "锯齿旋木鹎",
+    "english_name": "Northern Brownbul",
+    "scientific_name": "Phyllastrephus strepitans"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_brownbul_norbro1_205464391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941949/bird-gallery/northern_brownbul_norbro1/macaulay/northern_brownbul_norbro1_205464391.jpg",
+      "public_id": "bird-gallery/northern_brownbul_norbro1/macaulay/northern_brownbul_norbro1_205464391",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56717,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205464391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205464391",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_brownbul_norbro1_205471111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941950/bird-gallery/northern_brownbul_norbro1/macaulay/northern_brownbul_norbro1_205471111.jpg",
+      "public_id": "bird-gallery/northern_brownbul_norbro1/macaulay/northern_brownbul_norbro1_205471111",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 56923,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205471111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205471111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_brownbul_norbro1_298351841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941951/bird-gallery/northern_brownbul_norbro1/macaulay/northern_brownbul_norbro1_298351841.jpg",
+      "public_id": "bird-gallery/northern_brownbul_norbro1/macaulay/northern_brownbul_norbro1_298351841",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70031,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/298351841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "298351841",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_brownbul_norbro1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941952/bird-gallery/northern_brownbul_norbro1/inaturalist/northern_brownbul_norbro1_1.jpg",
+      "public_id": "bird-gallery/northern_brownbul_norbro1/inaturalist/northern_brownbul_norbro1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 76711,
+      "attribution": {
+        "photographer": "jeremybarker",
+        "photographer_url": "https://www.inaturalist.org/observations/8529447",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeremybarker (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8529447,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_brownbul_norbro1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941953/bird-gallery/northern_brownbul_norbro1/inaturalist/northern_brownbul_norbro1_2.jpg",
+      "public_id": "bird-gallery/northern_brownbul_norbro1/inaturalist/northern_brownbul_norbro1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 113795,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/229928407",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 229928407,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_brownbul_norbro1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941953/bird-gallery/northern_brownbul_norbro1/inaturalist/northern_brownbul_norbro1_3.jpg",
+      "public_id": "bird-gallery/northern_brownbul_norbro1/inaturalist/northern_brownbul_norbro1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 71694,
+      "attribution": {
+        "photographer": "david_659",
+        "photographer_url": "https://www.inaturalist.org/observations/237387608",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© david_659 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 237387608,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

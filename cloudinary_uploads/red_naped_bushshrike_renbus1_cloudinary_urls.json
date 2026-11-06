@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_naped_bushshrike_renbus1",
+    "chinese_name": "红颈黑鵙",
+    "english_name": "Red-naped Bushshrike",
+    "scientific_name": "Laniarius ruficeps"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_naped_bushshrike_renbus1_205464441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944096/bird-gallery/red_naped_bushshrike_renbus1/macaulay/red_naped_bushshrike_renbus1_205464441.jpg",
+      "public_id": "bird-gallery/red_naped_bushshrike_renbus1/macaulay/red_naped_bushshrike_renbus1_205464441",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 36630,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205464441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205464441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_naped_bushshrike_renbus1_205470791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944096/bird-gallery/red_naped_bushshrike_renbus1/macaulay/red_naped_bushshrike_renbus1_205470791.jpg",
+      "public_id": "bird-gallery/red_naped_bushshrike_renbus1/macaulay/red_naped_bushshrike_renbus1_205470791",
+      "width": 667,
+      "height": 500,
+      "format": "jpg",
+      "bytes": 43102,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205470791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205470791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_naped_bushshrike_renbus1_32402051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944097/bird-gallery/red_naped_bushshrike_renbus1/macaulay/red_naped_bushshrike_renbus1_32402051.jpg",
+      "public_id": "bird-gallery/red_naped_bushshrike_renbus1/macaulay/red_naped_bushshrike_renbus1_32402051",
+      "width": 1200,
+      "height": 637,
+      "format": "jpg",
+      "bytes": 87462,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32402051",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32402051",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_naped_bushshrike_renbus1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944098/bird-gallery/red_naped_bushshrike_renbus1/inaturalist/red_naped_bushshrike_renbus1_1.jpg",
+      "public_id": "bird-gallery/red_naped_bushshrike_renbus1/inaturalist/red_naped_bushshrike_renbus1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 125060,
+      "attribution": {
+        "photographer": "jsterling60",
+        "photographer_url": "https://www.inaturalist.org/observations/339465322",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jsterling60 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 339465322,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_naped_bushshrike_renbus1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944099/bird-gallery/red_naped_bushshrike_renbus1/inaturalist/red_naped_bushshrike_renbus1_2.jpg",
+      "public_id": "bird-gallery/red_naped_bushshrike_renbus1/inaturalist/red_naped_bushshrike_renbus1_2",
+      "width": 1000,
+      "height": 783,
+      "format": "jpg",
+      "bytes": 83961,
+      "attribution": {
+        "photographer": "dejong",
+        "photographer_url": "https://www.inaturalist.org/observations/227767459",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dejong (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 227767459,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_naped_bushshrike_renbus1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944099/bird-gallery/red_naped_bushshrike_renbus1/inaturalist/red_naped_bushshrike_renbus1_3.jpg",
+      "public_id": "bird-gallery/red_naped_bushshrike_renbus1/inaturalist/red_naped_bushshrike_renbus1_3",
+      "width": 958,
+      "height": 829,
+      "format": "jpg",
+      "bytes": 197531,
+      "attribution": {
+        "photographer": "philbenstead",
+        "photographer_url": "https://www.inaturalist.org/observations/75202224",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© philbenstead (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 75202224,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

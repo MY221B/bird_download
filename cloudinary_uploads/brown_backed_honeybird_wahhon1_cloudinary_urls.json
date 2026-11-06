@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "brown_backed_honeybird_wahhon1",
+    "chinese_name": "沃氏蜜䴕",
+    "english_name": "Brown-backed Honeybird",
+    "scientific_name": "Prodotiscus regulus"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_backed_honeybird_wahhon1_129629321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940482/bird-gallery/brown_backed_honeybird_wahhon1/macaulay/brown_backed_honeybird_wahhon1_129629321.jpg",
+      "public_id": "bird-gallery/brown_backed_honeybird_wahhon1/macaulay/brown_backed_honeybird_wahhon1_129629321",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57062,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/129629321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "129629321",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_backed_honeybird_wahhon1_490779531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940483/bird-gallery/brown_backed_honeybird_wahhon1/macaulay/brown_backed_honeybird_wahhon1_490779531.jpg",
+      "public_id": "bird-gallery/brown_backed_honeybird_wahhon1/macaulay/brown_backed_honeybird_wahhon1_490779531",
+      "width": 1200,
+      "height": 898,
+      "format": "jpg",
+      "bytes": 81328,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/490779531",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "490779531",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_backed_honeybird_wahhon1_499733881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940484/bird-gallery/brown_backed_honeybird_wahhon1/macaulay/brown_backed_honeybird_wahhon1_499733881.jpg",
+      "public_id": "bird-gallery/brown_backed_honeybird_wahhon1/macaulay/brown_backed_honeybird_wahhon1_499733881",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81892,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/499733881",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "499733881",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_backed_honeybird_wahhon1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940485/bird-gallery/brown_backed_honeybird_wahhon1/inaturalist/brown_backed_honeybird_wahhon1_1.jpg",
+      "public_id": "bird-gallery/brown_backed_honeybird_wahhon1/inaturalist/brown_backed_honeybird_wahhon1_1",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 76226,
+      "attribution": {
+        "photographer": "theoutdoorman102",
+        "photographer_url": "https://www.inaturalist.org/observations/221293687",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© theoutdoorman102 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 221293687,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_backed_honeybird_wahhon1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940486/bird-gallery/brown_backed_honeybird_wahhon1/inaturalist/brown_backed_honeybird_wahhon1_2.jpg",
+      "public_id": "bird-gallery/brown_backed_honeybird_wahhon1/inaturalist/brown_backed_honeybird_wahhon1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 46359,
+      "attribution": {
+        "photographer": "scaup",
+        "photographer_url": "https://www.inaturalist.org/observations/152924950",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© scaup (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 152924950,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_backed_honeybird_wahhon1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940487/bird-gallery/brown_backed_honeybird_wahhon1/inaturalist/brown_backed_honeybird_wahhon1_3.jpg",
+      "public_id": "bird-gallery/brown_backed_honeybird_wahhon1/inaturalist/brown_backed_honeybird_wahhon1_3",
+      "width": 1024,
+      "height": 977,
+      "format": "jpg",
+      "bytes": 40436,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/406106766",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 406106766,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

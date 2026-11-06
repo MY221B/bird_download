@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "tabora_cisticola",
+    "chinese_name": "塔伯扇尾莺",
+    "english_name": "Tabora Cisticola",
+    "scientific_name": "Cisticola angusticauda"
+  },
+  "macaulay": [
+    {
+      "original_file": "tabora_cisticola_110156261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943798/bird-gallery/tabora_cisticola/macaulay/tabora_cisticola_110156261.jpg",
+      "public_id": "bird-gallery/tabora_cisticola/macaulay/tabora_cisticola_110156261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 63787,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/110156261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "110156261",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tabora_cisticola_167776861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943799/bird-gallery/tabora_cisticola/macaulay/tabora_cisticola_167776861.jpg",
+      "public_id": "bird-gallery/tabora_cisticola/macaulay/tabora_cisticola_167776861",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 81135,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/167776861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "167776861",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tabora_cisticola_419739711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943800/bird-gallery/tabora_cisticola/macaulay/tabora_cisticola_419739711.jpg",
+      "public_id": "bird-gallery/tabora_cisticola/macaulay/tabora_cisticola_419739711",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70567,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/419739711",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "419739711",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "tabora_cisticola_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943801/bird-gallery/tabora_cisticola/inaturalist/tabora_cisticola_1.jpg",
+      "public_id": "bird-gallery/tabora_cisticola/inaturalist/tabora_cisticola_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58374,
+      "attribution": {
+        "photographer": "mikeambrose",
+        "photographer_url": "https://www.inaturalist.org/observations/333101660",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mikeambrose (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 333101660,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tabora_cisticola_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943802/bird-gallery/tabora_cisticola/inaturalist/tabora_cisticola_2.jpg",
+      "public_id": "bird-gallery/tabora_cisticola/inaturalist/tabora_cisticola_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 69950,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7146338",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7146338,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tabora_cisticola_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943802/bird-gallery/tabora_cisticola/inaturalist/tabora_cisticola_3.jpg",
+      "public_id": "bird-gallery/tabora_cisticola/inaturalist/tabora_cisticola_3",
+      "width": 1024,
+      "height": 828,
+      "format": "jpg",
+      "bytes": 105344,
+      "attribution": {
+        "photographer": "coreyhusic",
+        "photographer_url": "https://www.inaturalist.org/observations/202901848",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© coreyhusic (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 202901848,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

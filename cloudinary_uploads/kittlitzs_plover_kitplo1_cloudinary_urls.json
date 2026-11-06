@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "kittlitzs_plover_kitplo1",
+    "chinese_name": "基氏沙鸻",
+    "english_name": "Kittlitz's Plover",
+    "scientific_name": "Anarhynchus pecuarius"
+  },
+  "macaulay": [
+    {
+      "original_file": "kittlitzs_plover_kitplo1_205153151.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941499/bird-gallery/kittlitzs_plover_kitplo1/macaulay/kittlitzs_plover_kitplo1_205153151.jpg",
+      "public_id": "bird-gallery/kittlitzs_plover_kitplo1/macaulay/kittlitzs_plover_kitplo1_205153151",
+      "width": 1000,
+      "height": 666,
+      "format": "jpg",
+      "bytes": 67429,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205153151",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205153151",
+        "note": null
+      }
+    },
+    {
+      "original_file": "kittlitzs_plover_kitplo1_33605391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941501/bird-gallery/kittlitzs_plover_kitplo1/macaulay/kittlitzs_plover_kitplo1_33605391.jpg",
+      "public_id": "bird-gallery/kittlitzs_plover_kitplo1/macaulay/kittlitzs_plover_kitplo1_33605391",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 46262,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33605391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33605391",
+        "note": null
+      }
+    },
+    {
+      "original_file": "kittlitzs_plover_kitplo1_33649431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941502/bird-gallery/kittlitzs_plover_kitplo1/macaulay/kittlitzs_plover_kitplo1_33649431.jpg",
+      "public_id": "bird-gallery/kittlitzs_plover_kitplo1/macaulay/kittlitzs_plover_kitplo1_33649431",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 56037,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33649431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33649431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "kittlitzs_plover_kitplo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941503/bird-gallery/kittlitzs_plover_kitplo1/inaturalist/kittlitzs_plover_kitplo1_1.jpg",
+      "public_id": "bird-gallery/kittlitzs_plover_kitplo1/inaturalist/kittlitzs_plover_kitplo1_1",
+      "width": 1024,
+      "height": 734,
+      "format": "jpg",
+      "bytes": 76971,
+      "attribution": {
+        "photographer": "ilyaraskin",
+        "photographer_url": "https://www.inaturalist.org/observations/149925965",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ilyaraskin (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 149925965,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kittlitzs_plover_kitplo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941504/bird-gallery/kittlitzs_plover_kitplo1/inaturalist/kittlitzs_plover_kitplo1_2.jpg",
+      "public_id": "bird-gallery/kittlitzs_plover_kitplo1/inaturalist/kittlitzs_plover_kitplo1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 57817,
+      "attribution": {
+        "photographer": "gareth_bain",
+        "photographer_url": "https://www.inaturalist.org/observations/193592444",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gareth_bain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 193592444,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kittlitzs_plover_kitplo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941505/bird-gallery/kittlitzs_plover_kitplo1/inaturalist/kittlitzs_plover_kitplo1_3.jpg",
+      "public_id": "bird-gallery/kittlitzs_plover_kitplo1/inaturalist/kittlitzs_plover_kitplo1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 77530,
+      "attribution": {
+        "photographer": "titi-uu",
+        "photographer_url": "https://www.inaturalist.org/observations/88722205",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© titi-uu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 88722205,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

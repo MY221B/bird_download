@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_red_bishop",
+    "chinese_name": "橙巧织雀",
+    "english_name": "Northern Red Bishop",
+    "scientific_name": "Euplectes franciscanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_red_bishop_479813761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941972/bird-gallery/northern_red_bishop/macaulay/northern_red_bishop_479813761.jpg",
+      "public_id": "bird-gallery/northern_red_bishop/macaulay/northern_red_bishop_479813761",
+      "width": 1200,
+      "height": 743,
+      "format": "jpg",
+      "bytes": 60585,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/479813761",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "479813761",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_red_bishop_479814341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941974/bird-gallery/northern_red_bishop/macaulay/northern_red_bishop_479814341.jpg",
+      "public_id": "bird-gallery/northern_red_bishop/macaulay/northern_red_bishop_479814341",
+      "width": 1200,
+      "height": 734,
+      "format": "jpg",
+      "bytes": 64920,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/479814341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "479814341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_red_bishop_62884941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941975/bird-gallery/northern_red_bishop/macaulay/northern_red_bishop_62884941.jpg",
+      "public_id": "bird-gallery/northern_red_bishop/macaulay/northern_red_bishop_62884941",
+      "width": 1200,
+      "height": 742,
+      "format": "jpg",
+      "bytes": 58686,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/62884941",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "62884941",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_red_bishop_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941977/bird-gallery/northern_red_bishop/inaturalist/northern_red_bishop_1.jpg",
+      "public_id": "bird-gallery/northern_red_bishop/inaturalist/northern_red_bishop_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59885,
+      "attribution": {
+        "photographer": "nathanael15",
+        "photographer_url": "https://www.inaturalist.org/observations/69119047",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© nathanael15 (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 69119047,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_red_bishop_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941978/bird-gallery/northern_red_bishop/inaturalist/northern_red_bishop_2.jpg",
+      "public_id": "bird-gallery/northern_red_bishop/inaturalist/northern_red_bishop_2",
+      "width": 1024,
+      "height": 708,
+      "format": "jpg",
+      "bytes": 68970,
+      "attribution": {
+        "photographer": "abubakaringim",
+        "photographer_url": "https://www.inaturalist.org/observations/194826115",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© abubakaringim (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 194826115,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_red_bishop_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941979/bird-gallery/northern_red_bishop/inaturalist/northern_red_bishop_3.jpg",
+      "public_id": "bird-gallery/northern_red_bishop/inaturalist/northern_red_bishop_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 145351,
+      "attribution": {
+        "photographer": "akhvee",
+        "photographer_url": "https://www.inaturalist.org/observations/52749455",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© akhvee (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 52749455,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

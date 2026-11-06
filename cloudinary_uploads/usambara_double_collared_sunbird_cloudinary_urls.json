@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "usambara_double_collared_sunbird",
+    "chinese_name": "坦桑双领花蜜鸟",
+    "english_name": "Usambara Double-collared Sunbird",
+    "scientific_name": "Cinnyris usambaricus"
+  },
+  "macaulay": [
+    {
+      "original_file": "usambara_double_collared_sunbird_370985731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944230/bird-gallery/usambara_double_collared_sunbird/macaulay/usambara_double_collared_sunbird_370985731.jpg",
+      "public_id": "bird-gallery/usambara_double_collared_sunbird/macaulay/usambara_double_collared_sunbird_370985731",
+      "width": 1179,
+      "height": 786,
+      "format": "jpg",
+      "bytes": 92842,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/370985731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "370985731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "usambara_double_collared_sunbird_370985741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944232/bird-gallery/usambara_double_collared_sunbird/macaulay/usambara_double_collared_sunbird_370985741.jpg",
+      "public_id": "bird-gallery/usambara_double_collared_sunbird/macaulay/usambara_double_collared_sunbird_370985741",
+      "width": 1192,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 106326,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/370985741",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "370985741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "usambara_double_collared_sunbird_659067922.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944233/bird-gallery/usambara_double_collared_sunbird/macaulay/usambara_double_collared_sunbird_659067922.jpg",
+      "public_id": "bird-gallery/usambara_double_collared_sunbird/macaulay/usambara_double_collared_sunbird_659067922",
+      "width": 1200,
+      "height": 793,
+      "format": "jpg",
+      "bytes": 86415,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/659067922",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "659067922",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "usambara_double_collared_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944234/bird-gallery/usambara_double_collared_sunbird/inaturalist/usambara_double_collared_sunbird_1.jpg",
+      "public_id": "bird-gallery/usambara_double_collared_sunbird/inaturalist/usambara_double_collared_sunbird_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 126916,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/103196297",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 103196297,
+        "note": null
+      }
+    },
+    {
+      "original_file": "usambara_double_collared_sunbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944235/bird-gallery/usambara_double_collared_sunbird/inaturalist/usambara_double_collared_sunbird_2.jpg",
+      "public_id": "bird-gallery/usambara_double_collared_sunbird/inaturalist/usambara_double_collared_sunbird_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 76302,
+      "attribution": {
+        "photographer": "craigjhowe",
+        "photographer_url": "https://www.inaturalist.org/observations/403198366",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© craigjhowe (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 403198366,
+        "note": null
+      }
+    },
+    {
+      "original_file": "usambara_double_collared_sunbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944235/bird-gallery/usambara_double_collared_sunbird/inaturalist/usambara_double_collared_sunbird_3.jpg",
+      "public_id": "bird-gallery/usambara_double_collared_sunbird/inaturalist/usambara_double_collared_sunbird_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 119123,
+      "attribution": {
+        "photographer": "heinrichhuman",
+        "photographer_url": "https://www.inaturalist.org/observations/240975743",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© heinrichhuman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 240975743,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

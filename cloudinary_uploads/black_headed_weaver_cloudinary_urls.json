@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_headed_weaver",
+    "chinese_name": "黑头黄背织雀",
+    "english_name": "Black-headed Weaver",
+    "scientific_name": "Ploceus melanocephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_headed_weaver_346751181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945051/bird-gallery/black_headed_weaver/macaulay/black_headed_weaver_346751181.jpg",
+      "public_id": "bird-gallery/black_headed_weaver/macaulay/black_headed_weaver_346751181",
+      "width": 909,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 81755,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/346751181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "346751181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_weaver_523205211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945052/bird-gallery/black_headed_weaver/macaulay/black_headed_weaver_523205211.jpg",
+      "public_id": "bird-gallery/black_headed_weaver/macaulay/black_headed_weaver_523205211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84360,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/523205211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "523205211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_weaver_628577840.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945053/bird-gallery/black_headed_weaver/macaulay/black_headed_weaver_628577840.jpg",
+      "public_id": "bird-gallery/black_headed_weaver/macaulay/black_headed_weaver_628577840",
+      "width": 1200,
+      "height": 935,
+      "format": "jpg",
+      "bytes": 59604,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628577840",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628577840",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_headed_weaver_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945054/bird-gallery/black_headed_weaver/inaturalist/black_headed_weaver_1.jpg",
+      "public_id": "bird-gallery/black_headed_weaver/inaturalist/black_headed_weaver_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 115491,
+      "attribution": {
+        "photographer": "pajarophaganax",
+        "photographer_url": "https://www.inaturalist.org/observations/106876869",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© pajarophaganax (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 106876869,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_weaver_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945055/bird-gallery/black_headed_weaver/inaturalist/black_headed_weaver_2.jpg",
+      "public_id": "bird-gallery/black_headed_weaver/inaturalist/black_headed_weaver_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67828,
+      "attribution": {
+        "photographer": "diegodgd",
+        "photographer_url": "https://www.inaturalist.org/observations/330113928",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© diegodgd (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 330113928,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_weaver_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945055/bird-gallery/black_headed_weaver/inaturalist/black_headed_weaver_3.jpg",
+      "public_id": "bird-gallery/black_headed_weaver/inaturalist/black_headed_weaver_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 84991,
+      "attribution": {
+        "photographer": "fero",
+        "photographer_url": "https://www.inaturalist.org/observations/238679430",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© fero (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 238679430,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

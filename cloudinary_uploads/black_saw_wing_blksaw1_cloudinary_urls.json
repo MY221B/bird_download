@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_saw_wing_blksaw1",
+    "chinese_name": "蓝锯翅燕",
+    "english_name": "Black Saw-wing",
+    "scientific_name": "Psalidoprocne pristoptera"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_saw_wing_blksaw1_110478281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939421/bird-gallery/black_saw_wing_blksaw1/macaulay/black_saw_wing_blksaw1_110478281.jpg",
+      "public_id": "bird-gallery/black_saw_wing_blksaw1/macaulay/black_saw_wing_blksaw1_110478281",
+      "width": 1009,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 61321,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/110478281",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "110478281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_saw_wing_blksaw1_612510865.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939422/bird-gallery/black_saw_wing_blksaw1/macaulay/black_saw_wing_blksaw1_612510865.jpg",
+      "public_id": "bird-gallery/black_saw_wing_blksaw1/macaulay/black_saw_wing_blksaw1_612510865",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 110451,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/612510865",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "612510865",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_saw_wing_blksaw1_616927183.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939423/bird-gallery/black_saw_wing_blksaw1/macaulay/black_saw_wing_blksaw1_616927183.jpg",
+      "public_id": "bird-gallery/black_saw_wing_blksaw1/macaulay/black_saw_wing_blksaw1_616927183",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 63065,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/616927183",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "616927183",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_saw_wing_blksaw1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939425/bird-gallery/black_saw_wing_blksaw1/inaturalist/black_saw_wing_blksaw1_1.jpg",
+      "public_id": "bird-gallery/black_saw_wing_blksaw1/inaturalist/black_saw_wing_blksaw1_1",
+      "width": 1024,
+      "height": 737,
+      "format": "jpg",
+      "bytes": 35112,
+      "attribution": {
+        "photographer": "dinofelis",
+        "photographer_url": "https://www.inaturalist.org/observations/174543982",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dinofelis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 174543982,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_saw_wing_blksaw1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939425/bird-gallery/black_saw_wing_blksaw1/inaturalist/black_saw_wing_blksaw1_2.jpg",
+      "public_id": "bird-gallery/black_saw_wing_blksaw1/inaturalist/black_saw_wing_blksaw1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 42572,
+      "attribution": {
+        "photographer": "markbrownsa",
+        "photographer_url": "https://www.inaturalist.org/observations/248455780",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© markbrownsa (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 248455780,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_saw_wing_blksaw1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939426/bird-gallery/black_saw_wing_blksaw1/inaturalist/black_saw_wing_blksaw1_3.jpg",
+      "public_id": "bird-gallery/black_saw_wing_blksaw1/inaturalist/black_saw_wing_blksaw1_3",
+      "width": 997,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 71002,
+      "attribution": {
+        "photographer": "royholtzkampf",
+        "photographer_url": "https://www.inaturalist.org/observations/194812276",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© royholtzkampf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 194812276,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

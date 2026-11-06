@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_bellied_tit_whbtit5",
+    "chinese_name": "白胸山雀",
+    "english_name": "White-bellied Tit",
+    "scientific_name": "Melaniparus albiventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_bellied_tit_whbtit5_205993131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940577/bird-gallery/white_bellied_tit_whbtit5/macaulay/white_bellied_tit_whbtit5_205993131.jpg",
+      "public_id": "bird-gallery/white_bellied_tit_whbtit5/macaulay/white_bellied_tit_whbtit5_205993131",
+      "width": 932,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 92891,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205993131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205993131",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_tit_whbtit5_205993141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940578/bird-gallery/white_bellied_tit_whbtit5/macaulay/white_bellied_tit_whbtit5_205993141.jpg",
+      "public_id": "bird-gallery/white_bellied_tit_whbtit5/macaulay/white_bellied_tit_whbtit5_205993141",
+      "width": 1000,
+      "height": 708,
+      "format": "jpg",
+      "bytes": 44859,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205993141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205993141",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_tit_whbtit5_359608311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940580/bird-gallery/white_bellied_tit_whbtit5/macaulay/white_bellied_tit_whbtit5_359608311.jpg",
+      "public_id": "bird-gallery/white_bellied_tit_whbtit5/macaulay/white_bellied_tit_whbtit5_359608311",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 67319,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/359608311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "359608311",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_bellied_tit_whbtit5_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940581/bird-gallery/white_bellied_tit_whbtit5/inaturalist/white_bellied_tit_whbtit5_1.jpg",
+      "public_id": "bird-gallery/white_bellied_tit_whbtit5/inaturalist/white_bellied_tit_whbtit5_1",
+      "width": 1024,
+      "height": 877,
+      "format": "jpg",
+      "bytes": 128590,
+      "attribution": {
+        "photographer": "koenbetjes",
+        "photographer_url": "https://www.inaturalist.org/observations/387455215",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© koenbetjes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 387455215,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_tit_whbtit5_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940583/bird-gallery/white_bellied_tit_whbtit5/inaturalist/white_bellied_tit_whbtit5_2.jpg",
+      "public_id": "bird-gallery/white_bellied_tit_whbtit5/inaturalist/white_bellied_tit_whbtit5_2",
+      "width": 1024,
+      "height": 641,
+      "format": "jpg",
+      "bytes": 74789,
+      "attribution": {
+        "photographer": "manuel_ruedi",
+        "photographer_url": "https://www.inaturalist.org/observations/392154474",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© manuel_ruedi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 392154474,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_bellied_tit_whbtit5_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940583/bird-gallery/white_bellied_tit_whbtit5/inaturalist/white_bellied_tit_whbtit5_3.jpg",
+      "public_id": "bird-gallery/white_bellied_tit_whbtit5/inaturalist/white_bellied_tit_whbtit5_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 87677,
+      "attribution": {
+        "photographer": "scompeti",
+        "photographer_url": "https://www.inaturalist.org/observations/299947113",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© scompeti (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 299947113,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

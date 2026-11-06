@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "amani_sunbird",
+    "chinese_name": "阿曼尼直嘴太阳鸟",
+    "english_name": "Amani Sunbird",
+    "scientific_name": "Hedydipna pallidigaster"
+  },
+  "macaulay": [
+    {
+      "original_file": "amani_sunbird_609291116.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945118/bird-gallery/amani_sunbird/macaulay/amani_sunbird_609291116.jpg",
+      "public_id": "bird-gallery/amani_sunbird/macaulay/amani_sunbird_609291116",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87794,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/609291116",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "609291116",
+        "note": null
+      }
+    },
+    {
+      "original_file": "amani_sunbird_630552736.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945119/bird-gallery/amani_sunbird/macaulay/amani_sunbird_630552736.jpg",
+      "public_id": "bird-gallery/amani_sunbird/macaulay/amani_sunbird_630552736",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68299,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/630552736",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "630552736",
+        "note": null
+      }
+    },
+    {
+      "original_file": "amani_sunbird_640851530.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945120/bird-gallery/amani_sunbird/macaulay/amani_sunbird_640851530.jpg",
+      "public_id": "bird-gallery/amani_sunbird/macaulay/amani_sunbird_640851530",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 54535,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/640851530",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "640851530",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "amani_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945121/bird-gallery/amani_sunbird/inaturalist/amani_sunbird_1.jpg",
+      "public_id": "bird-gallery/amani_sunbird/inaturalist/amani_sunbird_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 65584,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/32661996",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 32661996,
+        "note": null
+      }
+    },
+    {
+      "original_file": "amani_sunbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945122/bird-gallery/amani_sunbird/inaturalist/amani_sunbird_2.jpg",
+      "public_id": "bird-gallery/amani_sunbird/inaturalist/amani_sunbird_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 11189,
+      "attribution": {
+        "photographer": "ajwhitlock",
+        "photographer_url": "https://www.inaturalist.org/observations/185643058",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ajwhitlock (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 185643058,
+        "note": null
+      }
+    },
+    {
+      "original_file": "amani_sunbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945123/bird-gallery/amani_sunbird/inaturalist/amani_sunbird_3.jpg",
+      "public_id": "bird-gallery/amani_sunbird/inaturalist/amani_sunbird_3",
+      "width": 877,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 158193,
+      "attribution": {
+        "photographer": "john_turner_cambridge",
+        "photographer_url": "https://www.inaturalist.org/observations/357671599",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© john_turner_cambridge (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 357671599,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

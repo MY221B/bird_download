@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "common_scimitarbill_cosbil1",
+    "chinese_name": "弯嘴林戴胜",
+    "english_name": "Common Scimitarbill",
+    "scientific_name": "Rhinopomastus cyanomelas"
+  },
+  "macaulay": [
+    {
+      "original_file": "common_scimitarbill_cosbil1_205111131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941159/bird-gallery/common_scimitarbill_cosbil1/macaulay/common_scimitarbill_cosbil1_205111131.jpg",
+      "public_id": "bird-gallery/common_scimitarbill_cosbil1/macaulay/common_scimitarbill_cosbil1_205111131",
+      "width": 533,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 49755,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205111131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205111131",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_scimitarbill_cosbil1_507021251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941160/bird-gallery/common_scimitarbill_cosbil1/macaulay/common_scimitarbill_cosbil1_507021251.jpg",
+      "public_id": "bird-gallery/common_scimitarbill_cosbil1/macaulay/common_scimitarbill_cosbil1_507021251",
+      "width": 1200,
+      "height": 697,
+      "format": "jpg",
+      "bytes": 62153,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/507021251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "507021251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_scimitarbill_cosbil1_66120641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941161/bird-gallery/common_scimitarbill_cosbil1/macaulay/common_scimitarbill_cosbil1_66120641.jpg",
+      "public_id": "bird-gallery/common_scimitarbill_cosbil1/macaulay/common_scimitarbill_cosbil1_66120641",
+      "width": 1200,
+      "height": 830,
+      "format": "jpg",
+      "bytes": 182270,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/66120641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "66120641",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "common_scimitarbill_cosbil1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941162/bird-gallery/common_scimitarbill_cosbil1/inaturalist/common_scimitarbill_cosbil1_1.jpg",
+      "public_id": "bird-gallery/common_scimitarbill_cosbil1/inaturalist/common_scimitarbill_cosbil1_1",
+      "width": 1024,
+      "height": 789,
+      "format": "jpg",
+      "bytes": 115480,
+      "attribution": {
+        "photographer": "tonyrebelo",
+        "photographer_url": "https://www.inaturalist.org/observations/10843612",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© tonyrebelo (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 10843612,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_scimitarbill_cosbil1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941162/bird-gallery/common_scimitarbill_cosbil1/inaturalist/common_scimitarbill_cosbil1_2.jpg",
+      "public_id": "bird-gallery/common_scimitarbill_cosbil1/inaturalist/common_scimitarbill_cosbil1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 105257,
+      "attribution": {
+        "photographer": "matthewkwan",
+        "photographer_url": "https://www.inaturalist.org/observations/85917055",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© matthewkwan (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 85917055,
+        "note": null
+      }
+    },
+    {
+      "original_file": "common_scimitarbill_cosbil1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941164/bird-gallery/common_scimitarbill_cosbil1/inaturalist/common_scimitarbill_cosbil1_3.jpg",
+      "public_id": "bird-gallery/common_scimitarbill_cosbil1/inaturalist/common_scimitarbill_cosbil1_3",
+      "width": 1024,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 60225,
+      "attribution": {
+        "photographer": "bergwind",
+        "photographer_url": "https://www.inaturalist.org/observations/14068734",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© bergwind (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 14068734,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

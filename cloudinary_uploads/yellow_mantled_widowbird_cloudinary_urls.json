@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_mantled_widowbird",
+    "chinese_name": "黄肩巧织雀",
+    "english_name": "Yellow-mantled Widowbird",
+    "scientific_name": "Euplectes macroura"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_mantled_widowbird_111032071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943821/bird-gallery/yellow_mantled_widowbird/macaulay/yellow_mantled_widowbird_111032071.jpg",
+      "public_id": "bird-gallery/yellow_mantled_widowbird/macaulay/yellow_mantled_widowbird_111032071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 54851,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/111032071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "111032071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_mantled_widowbird_205106311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943822/bird-gallery/yellow_mantled_widowbird/macaulay/yellow_mantled_widowbird_205106311.jpg",
+      "public_id": "bird-gallery/yellow_mantled_widowbird/macaulay/yellow_mantled_widowbird_205106311",
+      "width": 533,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 43672,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205106311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205106311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_mantled_widowbird_585888941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943823/bird-gallery/yellow_mantled_widowbird/macaulay/yellow_mantled_widowbird_585888941.jpg",
+      "public_id": "bird-gallery/yellow_mantled_widowbird/macaulay/yellow_mantled_widowbird_585888941",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 140896,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/585888941",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "585888941",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_mantled_widowbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943824/bird-gallery/yellow_mantled_widowbird/inaturalist/yellow_mantled_widowbird_1.jpg",
+      "public_id": "bird-gallery/yellow_mantled_widowbird/inaturalist/yellow_mantled_widowbird_1",
+      "width": 1024,
+      "height": 761,
+      "format": "jpg",
+      "bytes": 52947,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/257000219",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 257000219,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_mantled_widowbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943825/bird-gallery/yellow_mantled_widowbird/inaturalist/yellow_mantled_widowbird_2.jpg",
+      "public_id": "bird-gallery/yellow_mantled_widowbird/inaturalist/yellow_mantled_widowbird_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63933,
+      "attribution": {
+        "photographer": "randrudland",
+        "photographer_url": "https://www.inaturalist.org/observations/25112852",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© randrudland (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 25112852,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_mantled_widowbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943825/bird-gallery/yellow_mantled_widowbird/inaturalist/yellow_mantled_widowbird_3.jpg",
+      "public_id": "bird-gallery/yellow_mantled_widowbird/inaturalist/yellow_mantled_widowbird_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 97795,
+      "attribution": {
+        "photographer": "cherifikoukomon",
+        "photographer_url": "https://www.inaturalist.org/observations/184876096",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cherifikoukomon (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 184876096,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

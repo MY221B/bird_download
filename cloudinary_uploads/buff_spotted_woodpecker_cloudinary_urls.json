@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "buff_spotted_woodpecker",
+    "chinese_name": "棕斑啄木鸟",
+    "english_name": "Buff-spotted Woodpecker",
+    "scientific_name": "Pardipicus nivosus"
+  },
+  "macaulay": [
+    {
+      "original_file": "buff_spotted_woodpecker_205208901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944480/bird-gallery/buff_spotted_woodpecker/macaulay/buff_spotted_woodpecker_205208901.jpg",
+      "public_id": "bird-gallery/buff_spotted_woodpecker/macaulay/buff_spotted_woodpecker_205208901",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 65170,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205208901",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205208901",
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_spotted_woodpecker_215828051.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944481/bird-gallery/buff_spotted_woodpecker/macaulay/buff_spotted_woodpecker_215828051.jpg",
+      "public_id": "bird-gallery/buff_spotted_woodpecker/macaulay/buff_spotted_woodpecker_215828051",
+      "width": 1200,
+      "height": 897,
+      "format": "jpg",
+      "bytes": 214462,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/215828051",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "215828051",
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_spotted_woodpecker_613727961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944482/bird-gallery/buff_spotted_woodpecker/macaulay/buff_spotted_woodpecker_613727961.jpg",
+      "public_id": "bird-gallery/buff_spotted_woodpecker/macaulay/buff_spotted_woodpecker_613727961",
+      "width": 1200,
+      "height": 1052,
+      "format": "jpg",
+      "bytes": 107873,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/613727961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "613727961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "buff_spotted_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944483/bird-gallery/buff_spotted_woodpecker/inaturalist/buff_spotted_woodpecker_1.jpg",
+      "public_id": "bird-gallery/buff_spotted_woodpecker/inaturalist/buff_spotted_woodpecker_1",
+      "width": 1024,
+      "height": 670,
+      "format": "jpg",
+      "bytes": 63377,
+      "attribution": {
+        "photographer": "mlanguy",
+        "photographer_url": "https://www.inaturalist.org/observations/66840704",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mlanguy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66840704,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_spotted_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944484/bird-gallery/buff_spotted_woodpecker/inaturalist/buff_spotted_woodpecker_2.jpg",
+      "public_id": "bird-gallery/buff_spotted_woodpecker/inaturalist/buff_spotted_woodpecker_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 106593,
+      "attribution": {
+        "photographer": "koenbetjes",
+        "photographer_url": "https://www.inaturalist.org/observations/144746686",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© koenbetjes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 144746686,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_spotted_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944484/bird-gallery/buff_spotted_woodpecker/inaturalist/buff_spotted_woodpecker_3.jpg",
+      "public_id": "bird-gallery/buff_spotted_woodpecker/inaturalist/buff_spotted_woodpecker_3",
+      "width": 1024,
+      "height": 825,
+      "format": "jpg",
+      "bytes": 150868,
+      "attribution": {
+        "photographer": "josh_vandermeulen",
+        "photographer_url": "https://www.inaturalist.org/observations/356862971",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© josh_vandermeulen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 356862971,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_crake_blacra1",
+    "chinese_name": "黑苦恶鸟",
+    "english_name": "Black Crake",
+    "scientific_name": "Zapornia flavirostra"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_crake_blacra1_52147251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939352/bird-gallery/black_crake_blacra1/macaulay/black_crake_blacra1_52147251.jpg",
+      "public_id": "bird-gallery/black_crake_blacra1/macaulay/black_crake_blacra1_52147251",
+      "width": 1200,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 89758,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/52147251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "52147251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_crake_blacra1_617086000.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939353/bird-gallery/black_crake_blacra1/macaulay/black_crake_blacra1_617086000.jpg",
+      "public_id": "bird-gallery/black_crake_blacra1/macaulay/black_crake_blacra1_617086000",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75884,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/617086000",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "617086000",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_crake_blacra1_645597749.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939354/bird-gallery/black_crake_blacra1/macaulay/black_crake_blacra1_645597749.jpg",
+      "public_id": "bird-gallery/black_crake_blacra1/macaulay/black_crake_blacra1_645597749",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78683,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645597749",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645597749",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_crake_blacra1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939355/bird-gallery/black_crake_blacra1/inaturalist/black_crake_blacra1_1.jpg",
+      "public_id": "bird-gallery/black_crake_blacra1/inaturalist/black_crake_blacra1_1",
+      "width": 1024,
+      "height": 899,
+      "format": "jpg",
+      "bytes": 143225,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/11297174",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11297174,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_crake_blacra1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939355/bird-gallery/black_crake_blacra1/inaturalist/black_crake_blacra1_2.jpg",
+      "public_id": "bird-gallery/black_crake_blacra1/inaturalist/black_crake_blacra1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 107182,
+      "attribution": {
+        "photographer": "ondrejprosicky",
+        "photographer_url": "https://www.inaturalist.org/observations/106904267",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ondrejprosicky (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 106904267,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_crake_blacra1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939356/bird-gallery/black_crake_blacra1/inaturalist/black_crake_blacra1_3.jpg",
+      "public_id": "bird-gallery/black_crake_blacra1/inaturalist/black_crake_blacra1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64228,
+      "attribution": {
+        "photographer": "timmcclurg",
+        "photographer_url": "https://www.inaturalist.org/observations/320363402",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© timmcclurg (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 320363402,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

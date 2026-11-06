@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "spotted_eagle_owl_spoeao2",
+    "chinese_name": "点斑雕鸮",
+    "english_name": "Spotted Eagle-Owl",
+    "scientific_name": "Bubo africanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "spotted_eagle_owl_spoeao2_506843211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942039/bird-gallery/spotted_eagle_owl_spoeao2/macaulay/spotted_eagle_owl_spoeao2_506843211.jpg",
+      "public_id": "bird-gallery/spotted_eagle_owl_spoeao2/macaulay/spotted_eagle_owl_spoeao2_506843211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82252,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/506843211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "506843211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_eagle_owl_spoeao2_570779301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942040/bird-gallery/spotted_eagle_owl_spoeao2/macaulay/spotted_eagle_owl_spoeao2_570779301.jpg",
+      "public_id": "bird-gallery/spotted_eagle_owl_spoeao2/macaulay/spotted_eagle_owl_spoeao2_570779301",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 153922,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/570779301",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "570779301",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_eagle_owl_spoeao2_597863961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942041/bird-gallery/spotted_eagle_owl_spoeao2/macaulay/spotted_eagle_owl_spoeao2_597863961.jpg",
+      "public_id": "bird-gallery/spotted_eagle_owl_spoeao2/macaulay/spotted_eagle_owl_spoeao2_597863961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 116506,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/597863961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "597863961",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spotted_eagle_owl_spoeao2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942043/bird-gallery/spotted_eagle_owl_spoeao2/inaturalist/spotted_eagle_owl_spoeao2_1.jpg",
+      "public_id": "bird-gallery/spotted_eagle_owl_spoeao2/inaturalist/spotted_eagle_owl_spoeao2_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 99213,
+      "attribution": {
+        "photographer": "sylviah3002",
+        "photographer_url": "https://www.inaturalist.org/observations/113327701",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sylviah3002 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 113327701,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_eagle_owl_spoeao2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942043/bird-gallery/spotted_eagle_owl_spoeao2/inaturalist/spotted_eagle_owl_spoeao2_2.jpg",
+      "public_id": "bird-gallery/spotted_eagle_owl_spoeao2/inaturalist/spotted_eagle_owl_spoeao2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 37082,
+      "attribution": {
+        "photographer": "cliffdorse",
+        "photographer_url": "https://www.inaturalist.org/observations/77235827",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cliffdorse (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 77235827,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_eagle_owl_spoeao2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942044/bird-gallery/spotted_eagle_owl_spoeao2/inaturalist/spotted_eagle_owl_spoeao2_3.jpg",
+      "public_id": "bird-gallery/spotted_eagle_owl_spoeao2/inaturalist/spotted_eagle_owl_spoeao2_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 68307,
+      "attribution": {
+        "photographer": "fionahellmann",
+        "photographer_url": "https://www.inaturalist.org/observations/177986421",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fionahellmann (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 177986421,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

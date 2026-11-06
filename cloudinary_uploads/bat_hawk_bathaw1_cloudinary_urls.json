@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "bat_hawk_bathaw1",
+    "chinese_name": "蝠鸢",
+    "english_name": "Bat Hawk",
+    "scientific_name": "Macheiramphus alcinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "bat_hawk_bathaw1_494510211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941868/bird-gallery/bat_hawk_bathaw1/macaulay/bat_hawk_bathaw1_494510211.jpg",
+      "public_id": "bird-gallery/bat_hawk_bathaw1/macaulay/bat_hawk_bathaw1_494510211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 42243,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/494510211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "494510211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bat_hawk_bathaw1_622946203.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941869/bird-gallery/bat_hawk_bathaw1/macaulay/bat_hawk_bathaw1_622946203.jpg",
+      "public_id": "bird-gallery/bat_hawk_bathaw1/macaulay/bat_hawk_bathaw1_622946203",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 43835,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/622946203",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "622946203",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bat_hawk_bathaw1_78858501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941870/bird-gallery/bat_hawk_bathaw1/macaulay/bat_hawk_bathaw1_78858501.jpg",
+      "public_id": "bird-gallery/bat_hawk_bathaw1/macaulay/bat_hawk_bathaw1_78858501",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 61319,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/78858501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "78858501",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bat_hawk_bathaw1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941871/bird-gallery/bat_hawk_bathaw1/inaturalist/bat_hawk_bathaw1_1.jpg",
+      "public_id": "bird-gallery/bat_hawk_bathaw1/inaturalist/bat_hawk_bathaw1_1",
+      "width": 680,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 121942,
+      "attribution": {
+        "photographer": "cclborneo",
+        "photographer_url": "https://www.inaturalist.org/observations/36745235",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cclborneo (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 36745235,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bat_hawk_bathaw1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941872/bird-gallery/bat_hawk_bathaw1/inaturalist/bat_hawk_bathaw1_2.jpg",
+      "public_id": "bird-gallery/bat_hawk_bathaw1/inaturalist/bat_hawk_bathaw1_2",
+      "width": 684,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 24575,
+      "attribution": {
+        "photographer": "marcthibault",
+        "photographer_url": "https://www.inaturalist.org/observations/251330343",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marcthibault (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 251330343,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bat_hawk_bathaw1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941873/bird-gallery/bat_hawk_bathaw1/inaturalist/bat_hawk_bathaw1_3.jpg",
+      "public_id": "bird-gallery/bat_hawk_bathaw1/inaturalist/bat_hawk_bathaw1_3",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 59668,
+      "attribution": {
+        "photographer": "attila21",
+        "photographer_url": "https://www.inaturalist.org/observations/52610975",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© attila21 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 52610975,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

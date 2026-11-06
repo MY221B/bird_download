@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "tambourine_dove_tamdov1",
+    "chinese_name": "白胸森鸠",
+    "english_name": "Tambourine Dove",
+    "scientific_name": "Turtur tympanistria"
+  },
+  "macaulay": [
+    {
+      "original_file": "tambourine_dove_tamdov1_162637621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940919/bird-gallery/tambourine_dove_tamdov1/macaulay/tambourine_dove_tamdov1_162637621.jpg",
+      "public_id": "bird-gallery/tambourine_dove_tamdov1/macaulay/tambourine_dove_tamdov1_162637621",
+      "width": 1200,
+      "height": 671,
+      "format": "jpg",
+      "bytes": 70181,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/162637621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "162637621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tambourine_dove_tamdov1_505833381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940920/bird-gallery/tambourine_dove_tamdov1/macaulay/tambourine_dove_tamdov1_505833381.jpg",
+      "public_id": "bird-gallery/tambourine_dove_tamdov1/macaulay/tambourine_dove_tamdov1_505833381",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91532,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/505833381",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "505833381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tambourine_dove_tamdov1_551109191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940921/bird-gallery/tambourine_dove_tamdov1/macaulay/tambourine_dove_tamdov1_551109191.jpg",
+      "public_id": "bird-gallery/tambourine_dove_tamdov1/macaulay/tambourine_dove_tamdov1_551109191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77821,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/551109191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "551109191",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "tambourine_dove_tamdov1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940922/bird-gallery/tambourine_dove_tamdov1/inaturalist/tambourine_dove_tamdov1_1.jpg",
+      "public_id": "bird-gallery/tambourine_dove_tamdov1/inaturalist/tambourine_dove_tamdov1_1",
+      "width": 1024,
+      "height": 709,
+      "format": "jpg",
+      "bytes": 134403,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/90924779",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 90924779,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tambourine_dove_tamdov1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940923/bird-gallery/tambourine_dove_tamdov1/inaturalist/tambourine_dove_tamdov1_2.jpg",
+      "public_id": "bird-gallery/tambourine_dove_tamdov1/inaturalist/tambourine_dove_tamdov1_2",
+      "width": 978,
+      "height": 995,
+      "format": "jpg",
+      "bytes": 56270,
+      "attribution": {
+        "photographer": "royholtzkampf",
+        "photographer_url": "https://www.inaturalist.org/observations/176090083",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© royholtzkampf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 176090083,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tambourine_dove_tamdov1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940924/bird-gallery/tambourine_dove_tamdov1/inaturalist/tambourine_dove_tamdov1_3.jpg",
+      "public_id": "bird-gallery/tambourine_dove_tamdov1/inaturalist/tambourine_dove_tamdov1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 96074,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/237778295",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 237778295,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

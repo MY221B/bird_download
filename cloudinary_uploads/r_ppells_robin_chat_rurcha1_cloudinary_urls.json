@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "r_ppells_robin_chat_rurcha1",
+    "chinese_name": "卢氏歌䳭",
+    "english_name": "Rüppell's Robin-Chat",
+    "scientific_name": "Cossypha semirufa"
+  },
+  "macaulay": [
+    {
+      "original_file": "r_ppells_robin_chat_rurcha1_34562291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940161/bird-gallery/r_ppells_robin_chat_rurcha1/macaulay/r_ppells_robin_chat_rurcha1_34562291.jpg",
+      "public_id": "bird-gallery/r_ppells_robin_chat_rurcha1/macaulay/r_ppells_robin_chat_rurcha1_34562291",
+      "width": 1200,
+      "height": 746,
+      "format": "jpg",
+      "bytes": 77326,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/34562291",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "34562291",
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_robin_chat_rurcha1_508984501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940162/bird-gallery/r_ppells_robin_chat_rurcha1/macaulay/r_ppells_robin_chat_rurcha1_508984501.jpg",
+      "public_id": "bird-gallery/r_ppells_robin_chat_rurcha1/macaulay/r_ppells_robin_chat_rurcha1_508984501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 80651,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/508984501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "508984501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_robin_chat_rurcha1_665948697.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940164/bird-gallery/r_ppells_robin_chat_rurcha1/macaulay/r_ppells_robin_chat_rurcha1_665948697.jpg",
+      "public_id": "bird-gallery/r_ppells_robin_chat_rurcha1/macaulay/r_ppells_robin_chat_rurcha1_665948697",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 123193,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665948697",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665948697",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "r_ppells_robin_chat_rurcha1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940165/bird-gallery/r_ppells_robin_chat_rurcha1/inaturalist/r_ppells_robin_chat_rurcha1_1.jpg",
+      "public_id": "bird-gallery/r_ppells_robin_chat_rurcha1/inaturalist/r_ppells_robin_chat_rurcha1_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 164272,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/55048974",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 55048974,
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_robin_chat_rurcha1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940166/bird-gallery/r_ppells_robin_chat_rurcha1/inaturalist/r_ppells_robin_chat_rurcha1_2.jpg",
+      "public_id": "bird-gallery/r_ppells_robin_chat_rurcha1/inaturalist/r_ppells_robin_chat_rurcha1_2",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 71947,
+      "attribution": {
+        "photographer": "kerejoo",
+        "photographer_url": "https://www.inaturalist.org/observations/5665739",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kerejoo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 5665739,
+        "note": null
+      }
+    },
+    {
+      "original_file": "r_ppells_robin_chat_rurcha1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940166/bird-gallery/r_ppells_robin_chat_rurcha1/inaturalist/r_ppells_robin_chat_rurcha1_3.jpg",
+      "public_id": "bird-gallery/r_ppells_robin_chat_rurcha1/inaturalist/r_ppells_robin_chat_rurcha1_3",
+      "width": 900,
+      "height": 619,
+      "format": "jpg",
+      "bytes": 94149,
+      "attribution": {
+        "photographer": "rudyclaeys",
+        "photographer_url": "https://www.inaturalist.org/observations/142530749",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rudyclaeys (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 142530749,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

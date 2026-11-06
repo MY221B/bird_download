@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "spectacled_weaver_spewea1",
+    "chinese_name": "眼斑织雀",
+    "english_name": "Spectacled Weaver",
+    "scientific_name": "Ploceus ocularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "spectacled_weaver_spewea1_141228611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940267/bird-gallery/spectacled_weaver_spewea1/macaulay/spectacled_weaver_spewea1_141228611.jpg",
+      "public_id": "bird-gallery/spectacled_weaver_spewea1/macaulay/spectacled_weaver_spewea1_141228611",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 54680,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/141228611",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "141228611",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spectacled_weaver_spewea1_145566841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940268/bird-gallery/spectacled_weaver_spewea1/macaulay/spectacled_weaver_spewea1_145566841.jpg",
+      "public_id": "bird-gallery/spectacled_weaver_spewea1/macaulay/spectacled_weaver_spewea1_145566841",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 135824,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/145566841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "145566841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spectacled_weaver_spewea1_621661447.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940269/bird-gallery/spectacled_weaver_spewea1/macaulay/spectacled_weaver_spewea1_621661447.jpg",
+      "public_id": "bird-gallery/spectacled_weaver_spewea1/macaulay/spectacled_weaver_spewea1_621661447",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109665,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621661447",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621661447",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spectacled_weaver_spewea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940270/bird-gallery/spectacled_weaver_spewea1/inaturalist/spectacled_weaver_spewea1_1.jpg",
+      "public_id": "bird-gallery/spectacled_weaver_spewea1/inaturalist/spectacled_weaver_spewea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73064,
+      "attribution": {
+        "photographer": "crm211b",
+        "photographer_url": "https://www.inaturalist.org/observations/140408047",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© crm211b (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 140408047,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spectacled_weaver_spewea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940271/bird-gallery/spectacled_weaver_spewea1/inaturalist/spectacled_weaver_spewea1_2.jpg",
+      "public_id": "bird-gallery/spectacled_weaver_spewea1/inaturalist/spectacled_weaver_spewea1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 57641,
+      "attribution": {
+        "photographer": "happyoutsider",
+        "photographer_url": "https://www.inaturalist.org/observations/60510424",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyoutsider (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 60510424,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spectacled_weaver_spewea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940272/bird-gallery/spectacled_weaver_spewea1/inaturalist/spectacled_weaver_spewea1_3.jpg",
+      "public_id": "bird-gallery/spectacled_weaver_spewea1/inaturalist/spectacled_weaver_spewea1_3",
+      "width": 1024,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 107998,
+      "attribution": {
+        "photographer": "peters5001",
+        "photographer_url": "https://www.inaturalist.org/observations/133079368",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© peters5001 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 133079368,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

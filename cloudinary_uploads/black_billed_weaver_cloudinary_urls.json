@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_billed_weaver",
+    "chinese_name": "黑腹山织雀",
+    "english_name": "Black-billed Weaver",
+    "scientific_name": "Ploceus melanogaster"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_billed_weaver_205109241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944426/bird-gallery/black_billed_weaver/macaulay/black_billed_weaver_205109241.jpg",
+      "public_id": "bird-gallery/black_billed_weaver/macaulay/black_billed_weaver_205109241",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 49235,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205109241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205109241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_billed_weaver_614533310.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944427/bird-gallery/black_billed_weaver/macaulay/black_billed_weaver_614533310.jpg",
+      "public_id": "bird-gallery/black_billed_weaver/macaulay/black_billed_weaver_614533310",
+      "width": 1200,
+      "height": 712,
+      "format": "jpg",
+      "bytes": 100344,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614533310",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614533310",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_billed_weaver_626206474.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944428/bird-gallery/black_billed_weaver/macaulay/black_billed_weaver_626206474.jpg",
+      "public_id": "bird-gallery/black_billed_weaver/macaulay/black_billed_weaver_626206474",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60938,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/626206474",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "626206474",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_billed_weaver_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944429/bird-gallery/black_billed_weaver/inaturalist/black_billed_weaver_1.jpg",
+      "public_id": "bird-gallery/black_billed_weaver/inaturalist/black_billed_weaver_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 174364,
+      "attribution": {
+        "photographer": "rafaelw",
+        "photographer_url": "https://www.inaturalist.org/observations/222243598",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rafaelw (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 222243598,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_billed_weaver_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944430/bird-gallery/black_billed_weaver/inaturalist/black_billed_weaver_2.jpg",
+      "public_id": "bird-gallery/black_billed_weaver/inaturalist/black_billed_weaver_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 143663,
+      "attribution": {
+        "photographer": "rafaelw",
+        "photographer_url": "https://www.inaturalist.org/observations/222243414",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rafaelw (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 222243414,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_billed_weaver_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944431/bird-gallery/black_billed_weaver/inaturalist/black_billed_weaver_3.jpg",
+      "public_id": "bird-gallery/black_billed_weaver/inaturalist/black_billed_weaver_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 162444,
+      "attribution": {
+        "photographer": "belabartsch",
+        "photographer_url": "https://www.inaturalist.org/observations/103379355",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© belabartsch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103379355,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

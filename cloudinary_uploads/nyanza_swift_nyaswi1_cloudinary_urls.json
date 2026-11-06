@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "nyanza_swift_nyaswi1",
+    "chinese_name": "尼安萨雨燕",
+    "english_name": "Nyanza Swift",
+    "scientific_name": "Apus niansae"
+  },
+  "macaulay": [
+    {
+      "original_file": "nyanza_swift_nyaswi1_145168671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941536/bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_145168671.jpg",
+      "public_id": "bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_145168671",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 232487,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/145168671",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "145168671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "nyanza_swift_nyaswi1_205987411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941537/bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_205987411.jpg",
+      "public_id": "bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_205987411",
+      "width": 1000,
+      "height": 665,
+      "format": "jpg",
+      "bytes": 9234,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205987411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205987411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "nyanza_swift_nyaswi1_616942004.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941538/bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_616942004.jpg",
+      "public_id": "bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_616942004",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 20350,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/616942004",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "616942004",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "nyanza_swift_nyaswi1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941539/bird-gallery/nyanza_swift_nyaswi1/inaturalist/nyanza_swift_nyaswi1_1.jpg",
+      "public_id": "bird-gallery/nyanza_swift_nyaswi1/inaturalist/nyanza_swift_nyaswi1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 10110,
+      "attribution": {
+        "photographer": "tiagotg7",
+        "photographer_url": "https://www.inaturalist.org/observations/179803161",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tiagotg7 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 179803161,
+        "note": null
+      }
+    },
+    {
+      "original_file": "nyanza_swift_nyaswi1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941540/bird-gallery/nyanza_swift_nyaswi1/inaturalist/nyanza_swift_nyaswi1_2.jpg",
+      "public_id": "bird-gallery/nyanza_swift_nyaswi1/inaturalist/nyanza_swift_nyaswi1_2",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "bytes": 4919,
+      "attribution": {
+        "photographer": "brhacker",
+        "photographer_url": "https://www.inaturalist.org/observations/412883427",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© brhacker (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 412883427,
+        "note": null
+      }
+    },
+    {
+      "original_file": "nyanza_swift_nyaswi1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941541/bird-gallery/nyanza_swift_nyaswi1/inaturalist/nyanza_swift_nyaswi1_3.jpg",
+      "public_id": "bird-gallery/nyanza_swift_nyaswi1/inaturalist/nyanza_swift_nyaswi1_3",
+      "width": 636,
+      "height": 708,
+      "format": "jpg",
+      "bytes": 18745,
+      "attribution": {
+        "photographer": "asalafa_deri",
+        "photographer_url": "https://www.inaturalist.org/observations/193323970",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asalafa_deri (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 193323970,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

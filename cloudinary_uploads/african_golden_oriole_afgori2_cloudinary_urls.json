@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_golden_oriole_afgori2",
+    "chinese_name": "非洲黄鹂",
+    "english_name": "African Golden Oriole",
+    "scientific_name": "Oriolus auratus"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_golden_oriole_afgori2_273396621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939199/bird-gallery/african_golden_oriole_afgori2/macaulay/african_golden_oriole_afgori2_273396621.jpg",
+      "public_id": "bird-gallery/african_golden_oriole_afgori2/macaulay/african_golden_oriole_afgori2_273396621",
+      "width": 1200,
+      "height": 796,
+      "format": "jpg",
+      "bytes": 110616,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/273396621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "273396621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_golden_oriole_afgori2_47382111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939200/bird-gallery/african_golden_oriole_afgori2/macaulay/african_golden_oriole_afgori2_47382111.jpg",
+      "public_id": "bird-gallery/african_golden_oriole_afgori2/macaulay/african_golden_oriole_afgori2_47382111",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 95142,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47382111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47382111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_golden_oriole_afgori2_47419951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939201/bird-gallery/african_golden_oriole_afgori2/macaulay/african_golden_oriole_afgori2_47419951.jpg",
+      "public_id": "bird-gallery/african_golden_oriole_afgori2/macaulay/african_golden_oriole_afgori2_47419951",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62029,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47419951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47419951",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_golden_oriole_afgori2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939203/bird-gallery/african_golden_oriole_afgori2/inaturalist/african_golden_oriole_afgori2_1.jpg",
+      "public_id": "bird-gallery/african_golden_oriole_afgori2/inaturalist/african_golden_oriole_afgori2_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 53076,
+      "attribution": {
+        "photographer": "scaup",
+        "photographer_url": "https://www.inaturalist.org/observations/155800258",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© scaup (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 155800258,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_golden_oriole_afgori2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939203/bird-gallery/african_golden_oriole_afgori2/inaturalist/african_golden_oriole_afgori2_2.jpg",
+      "public_id": "bird-gallery/african_golden_oriole_afgori2/inaturalist/african_golden_oriole_afgori2_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 64414,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/372901669",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 372901669,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_golden_oriole_afgori2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939204/bird-gallery/african_golden_oriole_afgori2/inaturalist/african_golden_oriole_afgori2_3.jpg",
+      "public_id": "bird-gallery/african_golden_oriole_afgori2/inaturalist/african_golden_oriole_afgori2_3",
+      "width": 1024,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 91137,
+      "attribution": {
+        "photographer": "rguinness",
+        "photographer_url": "https://www.inaturalist.org/observations/22199186",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rguinness (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 22199186,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

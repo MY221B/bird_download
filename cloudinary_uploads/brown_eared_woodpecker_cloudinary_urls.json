@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "brown_eared_woodpecker",
+    "chinese_name": "褐耳啄木鸟",
+    "english_name": "Brown-eared Woodpecker",
+    "scientific_name": "Pardipicus caroli"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_eared_woodpecker_253530851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944447/bird-gallery/brown_eared_woodpecker/macaulay/brown_eared_woodpecker_253530851.jpg",
+      "public_id": "bird-gallery/brown_eared_woodpecker/macaulay/brown_eared_woodpecker_253530851",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 182019,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/253530851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "253530851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_eared_woodpecker_291782541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944448/bird-gallery/brown_eared_woodpecker/macaulay/brown_eared_woodpecker_291782541.jpg",
+      "public_id": "bird-gallery/brown_eared_woodpecker/macaulay/brown_eared_woodpecker_291782541",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 174396,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/291782541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "291782541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_eared_woodpecker_470283501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944449/bird-gallery/brown_eared_woodpecker/macaulay/brown_eared_woodpecker_470283501.jpg",
+      "public_id": "bird-gallery/brown_eared_woodpecker/macaulay/brown_eared_woodpecker_470283501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 151560,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/470283501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "470283501",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_eared_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944450/bird-gallery/brown_eared_woodpecker/inaturalist/brown_eared_woodpecker_1.jpg",
+      "public_id": "bird-gallery/brown_eared_woodpecker/inaturalist/brown_eared_woodpecker_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 101759,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/19934327",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 19934327,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_eared_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944451/bird-gallery/brown_eared_woodpecker/inaturalist/brown_eared_woodpecker_2.jpg",
+      "public_id": "bird-gallery/brown_eared_woodpecker/inaturalist/brown_eared_woodpecker_2",
+      "width": 471,
+      "height": 421,
+      "format": "jpg",
+      "bytes": 61759,
+      "attribution": {
+        "photographer": "yannapis",
+        "photographer_url": "https://www.inaturalist.org/observations/339551350",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© yannapis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 339551350,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_eared_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944452/bird-gallery/brown_eared_woodpecker/inaturalist/brown_eared_woodpecker_3.jpg",
+      "public_id": "bird-gallery/brown_eared_woodpecker/inaturalist/brown_eared_woodpecker_3",
+      "width": 491,
+      "height": 518,
+      "format": "jpg",
+      "bytes": 31745,
+      "attribution": {
+        "photographer": "luca_221",
+        "photographer_url": "https://www.inaturalist.org/observations/312956737",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© luca_221 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 312956737,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

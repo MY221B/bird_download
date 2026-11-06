@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "collared_sunbird_colsun2",
+    "chinese_name": "环颈直嘴太阳鸟",
+    "english_name": "Collared Sunbird",
+    "scientific_name": "Hedydipna collaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "collared_sunbird_colsun2_275447981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939621/bird-gallery/collared_sunbird_colsun2/macaulay/collared_sunbird_colsun2_275447981.jpg",
+      "public_id": "bird-gallery/collared_sunbird_colsun2/macaulay/collared_sunbird_colsun2_275447981",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56469,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/275447981",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "275447981",
+        "note": null
+      }
+    },
+    {
+      "original_file": "collared_sunbird_colsun2_640359648.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939622/bird-gallery/collared_sunbird_colsun2/macaulay/collared_sunbird_colsun2_640359648.jpg",
+      "public_id": "bird-gallery/collared_sunbird_colsun2/macaulay/collared_sunbird_colsun2_640359648",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78483,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/640359648",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "640359648",
+        "note": null
+      }
+    },
+    {
+      "original_file": "collared_sunbird_colsun2_665521684.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939623/bird-gallery/collared_sunbird_colsun2/macaulay/collared_sunbird_colsun2_665521684.jpg",
+      "public_id": "bird-gallery/collared_sunbird_colsun2/macaulay/collared_sunbird_colsun2_665521684",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91875,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665521684",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665521684",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "collared_sunbird_colsun2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939624/bird-gallery/collared_sunbird_colsun2/inaturalist/collared_sunbird_colsun2_1.jpg",
+      "public_id": "bird-gallery/collared_sunbird_colsun2/inaturalist/collared_sunbird_colsun2_1",
+      "width": 1024,
+      "height": 701,
+      "format": "jpg",
+      "bytes": 124629,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/23040080",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 23040080,
+        "note": null
+      }
+    },
+    {
+      "original_file": "collared_sunbird_colsun2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939624/bird-gallery/collared_sunbird_colsun2/inaturalist/collared_sunbird_colsun2_2.jpg",
+      "public_id": "bird-gallery/collared_sunbird_colsun2/inaturalist/collared_sunbird_colsun2_2",
+      "width": 1024,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 90655,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/123064939",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 123064939,
+        "note": null
+      }
+    },
+    {
+      "original_file": "collared_sunbird_colsun2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939625/bird-gallery/collared_sunbird_colsun2/inaturalist/collared_sunbird_colsun2_3.jpg",
+      "public_id": "bird-gallery/collared_sunbird_colsun2/inaturalist/collared_sunbird_colsun2_3",
+      "width": 1024,
+      "height": 575,
+      "format": "jpg",
+      "bytes": 76009,
+      "attribution": {
+        "photographer": "ghislainelangeslag",
+        "photographer_url": "https://www.inaturalist.org/observations/222660489",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ghislainelangeslag (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 222660489,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "siffling_cisticola_sifcis1",
+    "chinese_name": "短翅扇尾莺",
+    "english_name": "Siffling Cisticola",
+    "scientific_name": "Cisticola brachypterus"
+  },
+  "macaulay": [
+    {
+      "original_file": "siffling_cisticola_sifcis1_205100081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940196/bird-gallery/siffling_cisticola_sifcis1/macaulay/siffling_cisticola_sifcis1_205100081.jpg",
+      "public_id": "bird-gallery/siffling_cisticola_sifcis1/macaulay/siffling_cisticola_sifcis1_205100081",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 30582,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205100081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205100081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "siffling_cisticola_sifcis1_34558651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940197/bird-gallery/siffling_cisticola_sifcis1/macaulay/siffling_cisticola_sifcis1_34558651.jpg",
+      "public_id": "bird-gallery/siffling_cisticola_sifcis1/macaulay/siffling_cisticola_sifcis1_34558651",
+      "width": 1200,
+      "height": 721,
+      "format": "jpg",
+      "bytes": 57595,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/34558651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "34558651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "siffling_cisticola_sifcis1_63043931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940198/bird-gallery/siffling_cisticola_sifcis1/macaulay/siffling_cisticola_sifcis1_63043931.jpg",
+      "public_id": "bird-gallery/siffling_cisticola_sifcis1/macaulay/siffling_cisticola_sifcis1_63043931",
+      "width": 1200,
+      "height": 825,
+      "format": "jpg",
+      "bytes": 62508,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/63043931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "63043931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "siffling_cisticola_sifcis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940199/bird-gallery/siffling_cisticola_sifcis1/inaturalist/siffling_cisticola_sifcis1_1.jpg",
+      "public_id": "bird-gallery/siffling_cisticola_sifcis1/inaturalist/siffling_cisticola_sifcis1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 75173,
+      "attribution": {
+        "photographer": "violettederozier",
+        "photographer_url": "https://www.inaturalist.org/observations/47401204",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© violettederozier (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 47401204,
+        "note": null
+      }
+    },
+    {
+      "original_file": "siffling_cisticola_sifcis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940200/bird-gallery/siffling_cisticola_sifcis1/inaturalist/siffling_cisticola_sifcis1_2.jpg",
+      "public_id": "bird-gallery/siffling_cisticola_sifcis1/inaturalist/siffling_cisticola_sifcis1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 56926,
+      "attribution": {
+        "photographer": "loisposey",
+        "photographer_url": "https://www.inaturalist.org/observations/164699917",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© loisposey (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 164699917,
+        "note": null
+      }
+    },
+    {
+      "original_file": "siffling_cisticola_sifcis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940201/bird-gallery/siffling_cisticola_sifcis1/inaturalist/siffling_cisticola_sifcis1_3.jpg",
+      "public_id": "bird-gallery/siffling_cisticola_sifcis1/inaturalist/siffling_cisticola_sifcis1_3",
+      "width": 1024,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 64178,
+      "attribution": {
+        "photographer": "haroon-fx",
+        "photographer_url": "https://www.inaturalist.org/observations/194483408",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© haroon-fx (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 194483408,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

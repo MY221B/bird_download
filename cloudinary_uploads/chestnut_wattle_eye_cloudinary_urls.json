@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "chestnut_wattle_eye",
+    "chinese_name": "栗色饰眼鹟",
+    "english_name": "Chestnut Wattle-eye",
+    "scientific_name": "Dyaphorophyia castanea"
+  },
+  "macaulay": [
+    {
+      "original_file": "chestnut_wattle_eye_205107271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944519/bird-gallery/chestnut_wattle_eye/macaulay/chestnut_wattle_eye_205107271.jpg",
+      "public_id": "bird-gallery/chestnut_wattle_eye/macaulay/chestnut_wattle_eye_205107271",
+      "width": 740,
+      "height": 486,
+      "format": "jpg",
+      "bytes": 29334,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205107271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205107271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_wattle_eye_206027121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944520/bird-gallery/chestnut_wattle_eye/macaulay/chestnut_wattle_eye_206027121.jpg",
+      "public_id": "bird-gallery/chestnut_wattle_eye/macaulay/chestnut_wattle_eye_206027121",
+      "width": 1000,
+      "height": 689,
+      "format": "jpg",
+      "bytes": 57597,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206027121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206027121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_wattle_eye_216021391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944521/bird-gallery/chestnut_wattle_eye/macaulay/chestnut_wattle_eye_216021391.jpg",
+      "public_id": "bird-gallery/chestnut_wattle_eye/macaulay/chestnut_wattle_eye_216021391",
+      "width": 1200,
+      "height": 901,
+      "format": "jpg",
+      "bytes": 125990,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/216021391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "216021391",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chestnut_wattle_eye_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944521/bird-gallery/chestnut_wattle_eye/inaturalist/chestnut_wattle_eye_1.jpg",
+      "public_id": "bird-gallery/chestnut_wattle_eye/inaturalist/chestnut_wattle_eye_1",
+      "width": 1024,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 109654,
+      "attribution": {
+        "photographer": "stefaneakame",
+        "photographer_url": "https://www.inaturalist.org/observations/384870192",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stefaneakame (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 384870192,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_wattle_eye_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944522/bird-gallery/chestnut_wattle_eye/inaturalist/chestnut_wattle_eye_2.jpg",
+      "public_id": "bird-gallery/chestnut_wattle_eye/inaturalist/chestnut_wattle_eye_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 63402,
+      "attribution": {
+        "photographer": "violettederozier",
+        "photographer_url": "https://www.inaturalist.org/observations/39569641",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© violettederozier (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39569641,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chestnut_wattle_eye_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944523/bird-gallery/chestnut_wattle_eye/inaturalist/chestnut_wattle_eye_3.jpg",
+      "public_id": "bird-gallery/chestnut_wattle_eye/inaturalist/chestnut_wattle_eye_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 62102,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/144530807",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 144530807,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

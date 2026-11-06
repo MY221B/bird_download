@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "kandts_waxbill",
+    "chinese_name": "黑头梅花雀",
+    "english_name": "Kandt's Waxbill",
+    "scientific_name": "Estrilda kandti"
+  },
+  "macaulay": [
+    {
+      "original_file": "kandts_waxbill_112356431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941215/bird-gallery/kandts_waxbill/macaulay/kandts_waxbill_112356431.jpg",
+      "public_id": "bird-gallery/kandts_waxbill/macaulay/kandts_waxbill_112356431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 59521,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112356431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112356431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "kandts_waxbill_172788731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941216/bird-gallery/kandts_waxbill/macaulay/kandts_waxbill_172788731.jpg",
+      "public_id": "bird-gallery/kandts_waxbill/macaulay/kandts_waxbill_172788731",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 157041,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/172788731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "172788731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "kandts_waxbill_629262547.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941218/bird-gallery/kandts_waxbill/macaulay/kandts_waxbill_629262547.jpg",
+      "public_id": "bird-gallery/kandts_waxbill/macaulay/kandts_waxbill_629262547",
+      "width": 1200,
+      "height": 808,
+      "format": "jpg",
+      "bytes": 69849,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/629262547",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "629262547",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "kandts_waxbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941219/bird-gallery/kandts_waxbill/inaturalist/kandts_waxbill_1.jpg",
+      "public_id": "bird-gallery/kandts_waxbill/inaturalist/kandts_waxbill_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58072,
+      "attribution": {
+        "photographer": "tomaz_melo",
+        "photographer_url": "https://www.inaturalist.org/observations/183592708",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© tomaz_melo (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 183592708,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kandts_waxbill_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941220/bird-gallery/kandts_waxbill/inaturalist/kandts_waxbill_2.jpg",
+      "public_id": "bird-gallery/kandts_waxbill/inaturalist/kandts_waxbill_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 86586,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/103534418",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103534418,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kandts_waxbill_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941221/bird-gallery/kandts_waxbill/inaturalist/kandts_waxbill_3.jpg",
+      "public_id": "bird-gallery/kandts_waxbill/inaturalist/kandts_waxbill_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 91175,
+      "attribution": {
+        "photographer": "mnodine",
+        "photographer_url": "https://www.inaturalist.org/observations/97209448",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mnodine (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 97209448,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

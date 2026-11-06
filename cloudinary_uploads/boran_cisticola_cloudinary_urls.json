@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "boran_cisticola",
+    "chinese_name": "鲍伦扇尾莺",
+    "english_name": "Boran Cisticola",
+    "scientific_name": "Cisticola bodessa"
+  },
+  "macaulay": [
+    {
+      "original_file": "boran_cisticola_204304501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944309/bird-gallery/boran_cisticola/macaulay/boran_cisticola_204304501.jpg",
+      "public_id": "bird-gallery/boran_cisticola/macaulay/boran_cisticola_204304501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91883,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204304501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204304501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "boran_cisticola_204304511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944310/bird-gallery/boran_cisticola/macaulay/boran_cisticola_204304511.jpg",
+      "public_id": "bird-gallery/boran_cisticola/macaulay/boran_cisticola_204304511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 102775,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204304511",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204304511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "boran_cisticola_212292641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944311/bird-gallery/boran_cisticola/macaulay/boran_cisticola_212292641.jpg",
+      "public_id": "bird-gallery/boran_cisticola/macaulay/boran_cisticola_212292641",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 94829,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/212292641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "212292641",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "boran_cisticola_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944312/bird-gallery/boran_cisticola/inaturalist/boran_cisticola_1.jpg",
+      "public_id": "bird-gallery/boran_cisticola/inaturalist/boran_cisticola_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 95939,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/37079023",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 37079023,
+        "note": null
+      }
+    },
+    {
+      "original_file": "boran_cisticola_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944312/bird-gallery/boran_cisticola/inaturalist/boran_cisticola_2.jpg",
+      "public_id": "bird-gallery/boran_cisticola/inaturalist/boran_cisticola_2",
+      "width": 1024,
+      "height": 656,
+      "format": "jpg",
+      "bytes": 80414,
+      "attribution": {
+        "photographer": "catherinegrenfell",
+        "photographer_url": "https://www.inaturalist.org/observations/286729848",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© catherinegrenfell (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 286729848,
+        "note": null
+      }
+    },
+    {
+      "original_file": "boran_cisticola_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944313/bird-gallery/boran_cisticola/inaturalist/boran_cisticola_3.jpg",
+      "public_id": "bird-gallery/boran_cisticola/inaturalist/boran_cisticola_3",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 65303,
+      "attribution": {
+        "photographer": "kdbishop69",
+        "photographer_url": "https://www.inaturalist.org/observations/89027284",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kdbishop69 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 89027284,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

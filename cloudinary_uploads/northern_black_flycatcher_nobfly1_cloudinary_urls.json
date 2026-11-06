@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_black_flycatcher_nobfly1",
+    "chinese_name": "黑鹟",
+    "english_name": "Northern Black-Flycatcher",
+    "scientific_name": "Melaenornis edolioides"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_black_flycatcher_nobfly1_211669621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942990/bird-gallery/northern_black_flycatcher_nobfly1/macaulay/northern_black_flycatcher_nobfly1_211669621.jpg",
+      "public_id": "bird-gallery/northern_black_flycatcher_nobfly1/macaulay/northern_black_flycatcher_nobfly1_211669621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75622,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/211669621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "211669621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_black_flycatcher_nobfly1_619772977.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942991/bird-gallery/northern_black_flycatcher_nobfly1/macaulay/northern_black_flycatcher_nobfly1_619772977.jpg",
+      "public_id": "bird-gallery/northern_black_flycatcher_nobfly1/macaulay/northern_black_flycatcher_nobfly1_619772977",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88589,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/619772977",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "619772977",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_black_flycatcher_nobfly1_647967294.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942992/bird-gallery/northern_black_flycatcher_nobfly1/macaulay/northern_black_flycatcher_nobfly1_647967294.jpg",
+      "public_id": "bird-gallery/northern_black_flycatcher_nobfly1/macaulay/northern_black_flycatcher_nobfly1_647967294",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 86988,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/647967294",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "647967294",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_black_flycatcher_nobfly1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942993/bird-gallery/northern_black_flycatcher_nobfly1/inaturalist/northern_black_flycatcher_nobfly1_1.jpg",
+      "public_id": "bird-gallery/northern_black_flycatcher_nobfly1/inaturalist/northern_black_flycatcher_nobfly1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 87375,
+      "attribution": {
+        "photographer": "callumcarpenter",
+        "photographer_url": "https://www.inaturalist.org/observations/325904141",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© callumcarpenter (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 325904141,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_black_flycatcher_nobfly1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942993/bird-gallery/northern_black_flycatcher_nobfly1/inaturalist/northern_black_flycatcher_nobfly1_2.jpg",
+      "public_id": "bird-gallery/northern_black_flycatcher_nobfly1/inaturalist/northern_black_flycatcher_nobfly1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 86655,
+      "attribution": {
+        "photographer": "steven2802",
+        "photographer_url": "https://www.inaturalist.org/observations/34585585",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© steven2802 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34585585,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_black_flycatcher_nobfly1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942994/bird-gallery/northern_black_flycatcher_nobfly1/inaturalist/northern_black_flycatcher_nobfly1_3.jpg",
+      "public_id": "bird-gallery/northern_black_flycatcher_nobfly1/inaturalist/northern_black_flycatcher_nobfly1_3",
+      "width": 1016,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 85636,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18676167",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18676167,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

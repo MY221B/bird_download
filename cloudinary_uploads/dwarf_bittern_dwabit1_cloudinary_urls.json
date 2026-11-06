@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "dwarf_bittern_dwabit1",
+    "chinese_name": "蓝苇𫛚",
+    "english_name": "Dwarf Bittern",
+    "scientific_name": "Botaurus sturmii"
+  },
+  "macaulay": [
+    {
+      "original_file": "dwarf_bittern_dwabit1_292750711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942911/bird-gallery/dwarf_bittern_dwabit1/macaulay/dwarf_bittern_dwabit1_292750711.jpg",
+      "public_id": "bird-gallery/dwarf_bittern_dwabit1/macaulay/dwarf_bittern_dwabit1_292750711",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 105562,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/292750711",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "292750711",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dwarf_bittern_dwabit1_96081631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942912/bird-gallery/dwarf_bittern_dwabit1/macaulay/dwarf_bittern_dwabit1_96081631.jpg",
+      "public_id": "bird-gallery/dwarf_bittern_dwabit1/macaulay/dwarf_bittern_dwabit1_96081631",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 149990,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/96081631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "96081631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dwarf_bittern_dwabit1_96081811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942913/bird-gallery/dwarf_bittern_dwabit1/macaulay/dwarf_bittern_dwabit1_96081811.jpg",
+      "public_id": "bird-gallery/dwarf_bittern_dwabit1/macaulay/dwarf_bittern_dwabit1_96081811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 155664,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/96081811",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "96081811",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dwarf_bittern_dwabit1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942914/bird-gallery/dwarf_bittern_dwabit1/inaturalist/dwarf_bittern_dwabit1_1.jpg",
+      "public_id": "bird-gallery/dwarf_bittern_dwabit1/inaturalist/dwarf_bittern_dwabit1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 87720,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/99608945",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 99608945,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dwarf_bittern_dwabit1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942915/bird-gallery/dwarf_bittern_dwabit1/inaturalist/dwarf_bittern_dwabit1_2.jpg",
+      "public_id": "bird-gallery/dwarf_bittern_dwabit1/inaturalist/dwarf_bittern_dwabit1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 184639,
+      "attribution": {
+        "photographer": "jon_blanco",
+        "photographer_url": "https://www.inaturalist.org/observations/217556296",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jon_blanco (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 217556296,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dwarf_bittern_dwabit1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942916/bird-gallery/dwarf_bittern_dwabit1/inaturalist/dwarf_bittern_dwabit1_3.jpg",
+      "public_id": "bird-gallery/dwarf_bittern_dwabit1/inaturalist/dwarf_bittern_dwabit1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 41855,
+      "attribution": {
+        "photographer": "cinnamon325",
+        "photographer_url": "https://www.inaturalist.org/observations/316210326",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cinnamon325 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 316210326,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

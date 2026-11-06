@@ -1,0 +1,148 @@
+{
+  "bird_info": {
+    "slug": "sooty_chat",
+    "chinese_name": "暗色蚁䳭",
+    "english_name": "Sooty Chat",
+    "scientific_name": "Myrmecocichla nigra"
+  },
+  "macaulay": [
+    {
+      "original_file": "sooty_chat_376172251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943787/bird-gallery/sooty_chat/macaulay/sooty_chat_376172251.jpg",
+      "public_id": "bird-gallery/sooty_chat/macaulay/sooty_chat_376172251",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 40990,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": null,
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": null,
+        "note": "署名信息待补充"
+      }
+    },
+    {
+      "original_file": "sooty_chat_450853731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943788/bird-gallery/sooty_chat/macaulay/sooty_chat_450853731.jpg",
+      "public_id": "bird-gallery/sooty_chat/macaulay/sooty_chat_450853731",
+      "width": 1200,
+      "height": 1062,
+      "format": "jpg",
+      "bytes": 116879,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/450853731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "450853731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_chat_466613601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943789/bird-gallery/sooty_chat/macaulay/sooty_chat_466613601.jpg",
+      "public_id": "bird-gallery/sooty_chat/macaulay/sooty_chat_466613601",
+      "width": 1200,
+      "height": 789,
+      "format": "jpg",
+      "bytes": 45031,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/466613601",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "466613601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_chat_659507597.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943790/bird-gallery/sooty_chat/macaulay/sooty_chat_659507597.jpg",
+      "public_id": "bird-gallery/sooty_chat/macaulay/sooty_chat_659507597",
+      "width": 1200,
+      "height": 904,
+      "format": "jpg",
+      "bytes": 54354,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/659507597",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "659507597",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sooty_chat_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943791/bird-gallery/sooty_chat/inaturalist/sooty_chat_1.jpg",
+      "public_id": "bird-gallery/sooty_chat/inaturalist/sooty_chat_1",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 109739,
+      "attribution": {
+        "photographer": "skycladtrvlr",
+        "photographer_url": "https://www.inaturalist.org/observations/18918159",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© skycladtrvlr (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18918159,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_chat_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943792/bird-gallery/sooty_chat/inaturalist/sooty_chat_2.jpg",
+      "public_id": "bird-gallery/sooty_chat/inaturalist/sooty_chat_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 37426,
+      "attribution": {
+        "photographer": "sr667",
+        "photographer_url": "https://www.inaturalist.org/observations/2801153",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© sr667 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 2801153,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sooty_chat_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943792/bird-gallery/sooty_chat/inaturalist/sooty_chat_3.jpg",
+      "public_id": "bird-gallery/sooty_chat/inaturalist/sooty_chat_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 93647,
+      "attribution": {
+        "photographer": "gabyrusu",
+        "photographer_url": "https://www.inaturalist.org/observations/228260621",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gabyrusu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 228260621,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

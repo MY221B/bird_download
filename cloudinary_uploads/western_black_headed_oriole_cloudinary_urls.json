@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "western_black_headed_oriole",
+    "chinese_name": "西非黑头黄鹂",
+    "english_name": "Western Black-headed Oriole",
+    "scientific_name": "Oriolus brachyrynchus"
+  },
+  "macaulay": [
+    {
+      "original_file": "western_black_headed_oriole_205109371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944824/bird-gallery/western_black_headed_oriole/macaulay/western_black_headed_oriole_205109371.jpg",
+      "public_id": "bird-gallery/western_black_headed_oriole/macaulay/western_black_headed_oriole_205109371",
+      "width": 667,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 54276,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205109371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205109371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_black_headed_oriole_38777771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944825/bird-gallery/western_black_headed_oriole/macaulay/western_black_headed_oriole_38777771.jpg",
+      "public_id": "bird-gallery/western_black_headed_oriole/macaulay/western_black_headed_oriole_38777771",
+      "width": 900,
+      "height": 598,
+      "format": "jpg",
+      "bytes": 42238,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/38777771",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "38777771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_black_headed_oriole_623884675.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944825/bird-gallery/western_black_headed_oriole/macaulay/western_black_headed_oriole_623884675.jpg",
+      "public_id": "bird-gallery/western_black_headed_oriole/macaulay/western_black_headed_oriole_623884675",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 100239,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/623884675",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "623884675",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "western_black_headed_oriole_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944826/bird-gallery/western_black_headed_oriole/inaturalist/western_black_headed_oriole_1.jpg",
+      "public_id": "bird-gallery/western_black_headed_oriole/inaturalist/western_black_headed_oriole_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63344,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/139653469",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 139653469,
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_black_headed_oriole_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944827/bird-gallery/western_black_headed_oriole/inaturalist/western_black_headed_oriole_2.jpg",
+      "public_id": "bird-gallery/western_black_headed_oriole/inaturalist/western_black_headed_oriole_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 112364,
+      "attribution": {
+        "photographer": "antoine2684",
+        "photographer_url": "https://www.inaturalist.org/observations/340809310",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© antoine2684 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 340809310,
+        "note": null
+      }
+    },
+    {
+      "original_file": "western_black_headed_oriole_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944828/bird-gallery/western_black_headed_oriole/inaturalist/western_black_headed_oriole_3.jpg",
+      "public_id": "bird-gallery/western_black_headed_oriole/inaturalist/western_black_headed_oriole_3",
+      "width": 1024,
+      "height": 644,
+      "format": "jpg",
+      "bytes": 100299,
+      "attribution": {
+        "photographer": "davidlarson",
+        "photographer_url": "https://www.inaturalist.org/observations/252521076",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© davidlarson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 252521076,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

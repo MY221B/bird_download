@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "bearded_scrub_robin_besrob1",
+    "chinese_name": "东须薮鸲",
+    "english_name": "Bearded Scrub-Robin",
+    "scientific_name": "Tychaedon quadrivirgata"
+  },
+  "macaulay": [
+    {
+      "original_file": "bearded_scrub_robin_besrob1_131032751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945162/bird-gallery/bearded_scrub_robin_besrob1/macaulay/bearded_scrub_robin_besrob1_131032751.jpg",
+      "public_id": "bird-gallery/bearded_scrub_robin_besrob1/macaulay/bearded_scrub_robin_besrob1_131032751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 96533,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/131032751",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "131032751",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_scrub_robin_besrob1_131032781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945163/bird-gallery/bearded_scrub_robin_besrob1/macaulay/bearded_scrub_robin_besrob1_131032781.jpg",
+      "public_id": "bird-gallery/bearded_scrub_robin_besrob1/macaulay/bearded_scrub_robin_besrob1_131032781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83965,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/131032781",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "131032781",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_scrub_robin_besrob1_295254181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945164/bird-gallery/bearded_scrub_robin_besrob1/macaulay/bearded_scrub_robin_besrob1_295254181.jpg",
+      "public_id": "bird-gallery/bearded_scrub_robin_besrob1/macaulay/bearded_scrub_robin_besrob1_295254181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78450,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/295254181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "295254181",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bearded_scrub_robin_besrob1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945164/bird-gallery/bearded_scrub_robin_besrob1/inaturalist/bearded_scrub_robin_besrob1_1.jpg",
+      "public_id": "bird-gallery/bearded_scrub_robin_besrob1/inaturalist/bearded_scrub_robin_besrob1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73806,
+      "attribution": {
+        "photographer": "heinrichhuman",
+        "photographer_url": "https://www.inaturalist.org/observations/380051731",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© heinrichhuman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 380051731,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_scrub_robin_besrob1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945166/bird-gallery/bearded_scrub_robin_besrob1/inaturalist/bearded_scrub_robin_besrob1_2.jpg",
+      "public_id": "bird-gallery/bearded_scrub_robin_besrob1/inaturalist/bearded_scrub_robin_besrob1_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 64709,
+      "attribution": {
+        "photographer": "wildlifebybailey",
+        "photographer_url": "https://www.inaturalist.org/observations/405930677",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wildlifebybailey (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 405930677,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_scrub_robin_besrob1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945166/bird-gallery/bearded_scrub_robin_besrob1/inaturalist/bearded_scrub_robin_besrob1_3.jpg",
+      "public_id": "bird-gallery/bearded_scrub_robin_besrob1/inaturalist/bearded_scrub_robin_besrob1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 110807,
+      "attribution": {
+        "photographer": "johncallanan",
+        "photographer_url": "https://www.inaturalist.org/observations/380403922",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© johncallanan (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 380403922,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

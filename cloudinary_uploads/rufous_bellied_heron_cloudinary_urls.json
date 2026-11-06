@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "rufous_bellied_heron",
+    "chinese_name": "棕腹池鹭",
+    "english_name": "Rufous-bellied Heron",
+    "scientific_name": "Ardeola rufiventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_bellied_heron_204587561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943039/bird-gallery/rufous_bellied_heron/macaulay/rufous_bellied_heron_204587561.jpg",
+      "public_id": "bird-gallery/rufous_bellied_heron/macaulay/rufous_bellied_heron_204587561",
+      "width": 1200,
+      "height": 846,
+      "format": "jpg",
+      "bytes": 164088,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204587561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204587561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_bellied_heron_204759081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943040/bird-gallery/rufous_bellied_heron/macaulay/rufous_bellied_heron_204759081.jpg",
+      "public_id": "bird-gallery/rufous_bellied_heron/macaulay/rufous_bellied_heron_204759081",
+      "width": 830,
+      "height": 563,
+      "format": "jpg",
+      "bytes": 70523,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204759081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204759081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_bellied_heron_637190920.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943041/bird-gallery/rufous_bellied_heron/macaulay/rufous_bellied_heron_637190920.jpg",
+      "public_id": "bird-gallery/rufous_bellied_heron/macaulay/rufous_bellied_heron_637190920",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117946,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/637190920",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "637190920",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_bellied_heron_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943042/bird-gallery/rufous_bellied_heron/inaturalist/rufous_bellied_heron_1.jpg",
+      "public_id": "bird-gallery/rufous_bellied_heron/inaturalist/rufous_bellied_heron_1",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 140244,
+      "attribution": {
+        "photographer": "mikeloomis",
+        "photographer_url": "https://www.inaturalist.org/observations/19449338",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mikeloomis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19449338,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_bellied_heron_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943043/bird-gallery/rufous_bellied_heron/inaturalist/rufous_bellied_heron_2.jpg",
+      "public_id": "bird-gallery/rufous_bellied_heron/inaturalist/rufous_bellied_heron_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 84195,
+      "attribution": {
+        "photographer": "lyndyphotos",
+        "photographer_url": "https://www.inaturalist.org/observations/307322808",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lyndyphotos (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 307322808,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_bellied_heron_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943044/bird-gallery/rufous_bellied_heron/inaturalist/rufous_bellied_heron_3.jpg",
+      "public_id": "bird-gallery/rufous_bellied_heron/inaturalist/rufous_bellied_heron_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 42789,
+      "attribution": {
+        "photographer": "petermcintyre",
+        "photographer_url": "https://www.inaturalist.org/observations/135363551",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© petermcintyre (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 135363551,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

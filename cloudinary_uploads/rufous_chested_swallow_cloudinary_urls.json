@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "rufous_chested_swallow",
+    "chinese_name": "褐胸燕",
+    "english_name": "Rufous-chested Swallow",
+    "scientific_name": "Cecropis semirufa"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_chested_swallow_131951831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943060/bird-gallery/rufous_chested_swallow/macaulay/rufous_chested_swallow_131951831.jpg",
+      "public_id": "bird-gallery/rufous_chested_swallow/macaulay/rufous_chested_swallow_131951831",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 39848,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/131951831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "131951831",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_chested_swallow_206028251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943061/bird-gallery/rufous_chested_swallow/macaulay/rufous_chested_swallow_206028251.jpg",
+      "public_id": "bird-gallery/rufous_chested_swallow/macaulay/rufous_chested_swallow_206028251",
+      "width": 1000,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 95758,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206028251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206028251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_chested_swallow_47437991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943062/bird-gallery/rufous_chested_swallow/macaulay/rufous_chested_swallow_47437991.jpg",
+      "public_id": "bird-gallery/rufous_chested_swallow/macaulay/rufous_chested_swallow_47437991",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82939,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47437991",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47437991",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_chested_swallow_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943063/bird-gallery/rufous_chested_swallow/inaturalist/rufous_chested_swallow_1.jpg",
+      "public_id": "bird-gallery/rufous_chested_swallow/inaturalist/rufous_chested_swallow_1",
+      "width": 1024,
+      "height": 669,
+      "format": "jpg",
+      "bytes": 169375,
+      "attribution": {
+        "photographer": "ajott",
+        "photographer_url": "https://www.inaturalist.org/observations/37816339",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© ajott (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 37816339,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_chested_swallow_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943064/bird-gallery/rufous_chested_swallow/inaturalist/rufous_chested_swallow_2.jpg",
+      "public_id": "bird-gallery/rufous_chested_swallow/inaturalist/rufous_chested_swallow_2",
+      "width": 1023,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 55394,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/10254960",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10254960,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_chested_swallow_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943064/bird-gallery/rufous_chested_swallow/inaturalist/rufous_chested_swallow_3.jpg",
+      "public_id": "bird-gallery/rufous_chested_swallow/inaturalist/rufous_chested_swallow_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 17344,
+      "attribution": {
+        "photographer": "runebjerre",
+        "photographer_url": "https://www.inaturalist.org/observations/214783663",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© runebjerre (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 214783663,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

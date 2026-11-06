@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mombasa_woodpecker_momwoo1",
+    "chinese_name": "蒙巴沙啄木",
+    "english_name": "Mombasa Woodpecker",
+    "scientific_name": "Campethera mombassica"
+  },
+  "macaulay": [
+    {
+      "original_file": "mombasa_woodpecker_momwoo1_205984631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945295/bird-gallery/mombasa_woodpecker_momwoo1/macaulay/mombasa_woodpecker_momwoo1_205984631.jpg",
+      "public_id": "bird-gallery/mombasa_woodpecker_momwoo1/macaulay/mombasa_woodpecker_momwoo1_205984631",
+      "width": 1000,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73331,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mombasa_woodpecker_momwoo1_205984641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945297/bird-gallery/mombasa_woodpecker_momwoo1/macaulay/mombasa_woodpecker_momwoo1_205984641.jpg",
+      "public_id": "bird-gallery/mombasa_woodpecker_momwoo1/macaulay/mombasa_woodpecker_momwoo1_205984641",
+      "width": 1000,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88551,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mombasa_woodpecker_momwoo1_563158481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945298/bird-gallery/mombasa_woodpecker_momwoo1/macaulay/mombasa_woodpecker_momwoo1_563158481.jpg",
+      "public_id": "bird-gallery/mombasa_woodpecker_momwoo1/macaulay/mombasa_woodpecker_momwoo1_563158481",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 125591,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/563158481",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "563158481",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mombasa_woodpecker_momwoo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945298/bird-gallery/mombasa_woodpecker_momwoo1/inaturalist/mombasa_woodpecker_momwoo1_1.jpg",
+      "public_id": "bird-gallery/mombasa_woodpecker_momwoo1/inaturalist/mombasa_woodpecker_momwoo1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 107793,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/103579145",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103579145,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mombasa_woodpecker_momwoo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945299/bird-gallery/mombasa_woodpecker_momwoo1/inaturalist/mombasa_woodpecker_momwoo1_2.jpg",
+      "public_id": "bird-gallery/mombasa_woodpecker_momwoo1/inaturalist/mombasa_woodpecker_momwoo1_2",
+      "width": 506,
+      "height": 759,
+      "format": "jpg",
+      "bytes": 50015,
+      "attribution": {
+        "photographer": "brhacker",
+        "photographer_url": "https://www.inaturalist.org/observations/413105574",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© brhacker (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 413105574,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mombasa_woodpecker_momwoo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945300/bird-gallery/mombasa_woodpecker_momwoo1/inaturalist/mombasa_woodpecker_momwoo1_3.jpg",
+      "public_id": "bird-gallery/mombasa_woodpecker_momwoo1/inaturalist/mombasa_woodpecker_momwoo1_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 126151,
+      "attribution": {
+        "photographer": "jeanlouiscarlo",
+        "photographer_url": "https://www.inaturalist.org/observations/392099254",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanlouiscarlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 392099254,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

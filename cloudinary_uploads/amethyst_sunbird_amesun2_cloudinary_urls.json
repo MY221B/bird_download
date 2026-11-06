@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "amethyst_sunbird_amesun2",
+    "chinese_name": "艾米花蜜鸟",
+    "english_name": "Amethyst Sunbird",
+    "scientific_name": "Chalcomitra amethystina"
+  },
+  "macaulay": [
+    {
+      "original_file": "amethyst_sunbird_amesun2_664815279.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939271/bird-gallery/amethyst_sunbird_amesun2/macaulay/amethyst_sunbird_amesun2_664815279.jpg",
+      "public_id": "bird-gallery/amethyst_sunbird_amesun2/macaulay/amethyst_sunbird_amesun2_664815279",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91835,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/664815279",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "664815279",
+        "note": null
+      }
+    },
+    {
+      "original_file": "amethyst_sunbird_amesun2_664833517.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939271/bird-gallery/amethyst_sunbird_amesun2/macaulay/amethyst_sunbird_amesun2_664833517.jpg",
+      "public_id": "bird-gallery/amethyst_sunbird_amesun2/macaulay/amethyst_sunbird_amesun2_664833517",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70216,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/664833517",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "664833517",
+        "note": null
+      }
+    },
+    {
+      "original_file": "amethyst_sunbird_amesun2_664833518.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939272/bird-gallery/amethyst_sunbird_amesun2/macaulay/amethyst_sunbird_amesun2_664833518.jpg",
+      "public_id": "bird-gallery/amethyst_sunbird_amesun2/macaulay/amethyst_sunbird_amesun2_664833518",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71040,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/664833518",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "664833518",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "amethyst_sunbird_amesun2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939273/bird-gallery/amethyst_sunbird_amesun2/inaturalist/amethyst_sunbird_amesun2_1.jpg",
+      "public_id": "bird-gallery/amethyst_sunbird_amesun2/inaturalist/amethyst_sunbird_amesun2_1",
+      "width": 1024,
+      "height": 955,
+      "format": "jpg",
+      "bytes": 101909,
+      "attribution": {
+        "photographer": "robertarcher397",
+        "photographer_url": "https://www.inaturalist.org/observations/11160488",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robertarcher397 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 11160488,
+        "note": null
+      }
+    },
+    {
+      "original_file": "amethyst_sunbird_amesun2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939274/bird-gallery/amethyst_sunbird_amesun2/inaturalist/amethyst_sunbird_amesun2_2.jpg",
+      "public_id": "bird-gallery/amethyst_sunbird_amesun2/inaturalist/amethyst_sunbird_amesun2_2",
+      "width": 1024,
+      "height": 908,
+      "format": "jpg",
+      "bytes": 90191,
+      "attribution": {
+        "photographer": "luke_goddard",
+        "photographer_url": "https://www.inaturalist.org/observations/173998705",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© luke_goddard (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 173998705,
+        "note": null
+      }
+    },
+    {
+      "original_file": "amethyst_sunbird_amesun2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939275/bird-gallery/amethyst_sunbird_amesun2/inaturalist/amethyst_sunbird_amesun2_3.jpg",
+      "public_id": "bird-gallery/amethyst_sunbird_amesun2/inaturalist/amethyst_sunbird_amesun2_3",
+      "width": 738,
+      "height": 886,
+      "format": "jpg",
+      "bytes": 58719,
+      "attribution": {
+        "photographer": "stormmi",
+        "photographer_url": "https://www.inaturalist.org/observations/406816841",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© stormmi (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 406816841,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

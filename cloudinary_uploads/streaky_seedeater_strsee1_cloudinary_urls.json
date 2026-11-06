@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "streaky_seedeater_strsee1",
+    "chinese_name": "条纹丝雀",
+    "english_name": "Streaky Seedeater",
+    "scientific_name": "Crithagra striolata"
+  },
+  "macaulay": [
+    {
+      "original_file": "streaky_seedeater_strsee1_136708001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940385/bird-gallery/streaky_seedeater_strsee1/macaulay/streaky_seedeater_strsee1_136708001.jpg",
+      "public_id": "bird-gallery/streaky_seedeater_strsee1/macaulay/streaky_seedeater_strsee1_136708001",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 46026,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136708001",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136708001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "streaky_seedeater_strsee1_205406421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940386/bird-gallery/streaky_seedeater_strsee1/macaulay/streaky_seedeater_strsee1_205406421.jpg",
+      "public_id": "bird-gallery/streaky_seedeater_strsee1/macaulay/streaky_seedeater_strsee1_205406421",
+      "width": 1031,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 66814,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205406421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205406421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "streaky_seedeater_strsee1_628709955.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940387/bird-gallery/streaky_seedeater_strsee1/macaulay/streaky_seedeater_strsee1_628709955.jpg",
+      "public_id": "bird-gallery/streaky_seedeater_strsee1/macaulay/streaky_seedeater_strsee1_628709955",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64223,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628709955",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628709955",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "streaky_seedeater_strsee1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940388/bird-gallery/streaky_seedeater_strsee1/inaturalist/streaky_seedeater_strsee1_1.jpg",
+      "public_id": "bird-gallery/streaky_seedeater_strsee1/inaturalist/streaky_seedeater_strsee1_1",
+      "width": 1024,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 101258,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192739595",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192739595,
+        "note": null
+      }
+    },
+    {
+      "original_file": "streaky_seedeater_strsee1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940389/bird-gallery/streaky_seedeater_strsee1/inaturalist/streaky_seedeater_strsee1_2.jpg",
+      "public_id": "bird-gallery/streaky_seedeater_strsee1/inaturalist/streaky_seedeater_strsee1_2",
+      "width": 1019,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 76911,
+      "attribution": {
+        "photographer": "bogmyrtle",
+        "photographer_url": "https://www.inaturalist.org/observations/44370768",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bogmyrtle (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 44370768,
+        "note": null
+      }
+    },
+    {
+      "original_file": "streaky_seedeater_strsee1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940390/bird-gallery/streaky_seedeater_strsee1/inaturalist/streaky_seedeater_strsee1_3.jpg",
+      "public_id": "bird-gallery/streaky_seedeater_strsee1/inaturalist/streaky_seedeater_strsee1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 55216,
+      "attribution": {
+        "photographer": "world_lineage",
+        "photographer_url": "https://www.inaturalist.org/observations/19225652",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© world_lineage (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19225652,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

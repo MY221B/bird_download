@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_billed_oxpecker_reboxp1",
+    "chinese_name": "红嘴牛椋鸟",
+    "english_name": "Red-billed Oxpecker",
+    "scientific_name": "Buphagus erythroryncha"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_billed_oxpecker_reboxp1_501620851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940009/bird-gallery/red_billed_oxpecker_reboxp1/macaulay/red_billed_oxpecker_reboxp1_501620851.jpg",
+      "public_id": "bird-gallery/red_billed_oxpecker_reboxp1/macaulay/red_billed_oxpecker_reboxp1_501620851",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 250947,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/501620851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "501620851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_oxpecker_reboxp1_614635615.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940010/bird-gallery/red_billed_oxpecker_reboxp1/macaulay/red_billed_oxpecker_reboxp1_614635615.jpg",
+      "public_id": "bird-gallery/red_billed_oxpecker_reboxp1/macaulay/red_billed_oxpecker_reboxp1_614635615",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93997,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614635615",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614635615",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_oxpecker_reboxp1_629514994.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940011/bird-gallery/red_billed_oxpecker_reboxp1/macaulay/red_billed_oxpecker_reboxp1_629514994.jpg",
+      "public_id": "bird-gallery/red_billed_oxpecker_reboxp1/macaulay/red_billed_oxpecker_reboxp1_629514994",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 98891,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/629514994",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "629514994",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_billed_oxpecker_reboxp1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940012/bird-gallery/red_billed_oxpecker_reboxp1/inaturalist/red_billed_oxpecker_reboxp1_1.jpg",
+      "public_id": "bird-gallery/red_billed_oxpecker_reboxp1/inaturalist/red_billed_oxpecker_reboxp1_1",
+      "width": 1024,
+      "height": 833,
+      "format": "jpg",
+      "bytes": 53343,
+      "attribution": {
+        "photographer": "lucaboscain",
+        "photographer_url": "https://www.inaturalist.org/observations/182675466",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lucaboscain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 182675466,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_oxpecker_reboxp1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940013/bird-gallery/red_billed_oxpecker_reboxp1/inaturalist/red_billed_oxpecker_reboxp1_2.jpg",
+      "public_id": "bird-gallery/red_billed_oxpecker_reboxp1/inaturalist/red_billed_oxpecker_reboxp1_2",
+      "width": 1024,
+      "height": 662,
+      "format": "jpg",
+      "bytes": 73052,
+      "attribution": {
+        "photographer": "shukov",
+        "photographer_url": "https://www.inaturalist.org/observations/149705507",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© shukov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 149705507,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_oxpecker_reboxp1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940014/bird-gallery/red_billed_oxpecker_reboxp1/inaturalist/red_billed_oxpecker_reboxp1_3.jpg",
+      "public_id": "bird-gallery/red_billed_oxpecker_reboxp1/inaturalist/red_billed_oxpecker_reboxp1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 54755,
+      "attribution": {
+        "photographer": "bastiaan",
+        "photographer_url": "https://www.inaturalist.org/observations/17535046",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bastiaan (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 17535046,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

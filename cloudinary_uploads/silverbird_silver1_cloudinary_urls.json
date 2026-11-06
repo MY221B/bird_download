@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "silverbird_silver1",
+    "chinese_name": "银鹟",
+    "english_name": "Silverbird",
+    "scientific_name": "Empidornis semipartitus"
+  },
+  "macaulay": [
+    {
+      "original_file": "silverbird_silver1_204331651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941740/bird-gallery/silverbird_silver1/macaulay/silverbird_silver1_204331651.jpg",
+      "public_id": "bird-gallery/silverbird_silver1/macaulay/silverbird_silver1_204331651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 89100,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204331651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204331651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "silverbird_silver1_205208821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941741/bird-gallery/silverbird_silver1/macaulay/silverbird_silver1_205208821.jpg",
+      "public_id": "bird-gallery/silverbird_silver1/macaulay/silverbird_silver1_205208821",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 80534,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205208821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205208821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "silverbird_silver1_621553050.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941742/bird-gallery/silverbird_silver1/macaulay/silverbird_silver1_621553050.jpg",
+      "public_id": "bird-gallery/silverbird_silver1/macaulay/silverbird_silver1_621553050",
+      "width": 1000,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 95475,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621553050",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621553050",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "silverbird_silver1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941744/bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_1.jpg",
+      "public_id": "bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 45286,
+      "attribution": {
+        "photographer": "radinis",
+        "photographer_url": "https://www.inaturalist.org/observations/342502273",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© radinis (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 342502273,
+        "note": null
+      }
+    },
+    {
+      "original_file": "silverbird_silver1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941745/bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_2.jpg",
+      "public_id": "bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 53383,
+      "attribution": {
+        "photographer": "cuihenggang",
+        "photographer_url": "https://www.inaturalist.org/observations/180366195",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© cuihenggang (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 180366195,
+        "note": null
+      }
+    },
+    {
+      "original_file": "silverbird_silver1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941745/bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_3.jpg",
+      "public_id": "bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 38584,
+      "attribution": {
+        "photographer": "fernandoul",
+        "photographer_url": "https://www.inaturalist.org/observations/215543435",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fernandoul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 215543435,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

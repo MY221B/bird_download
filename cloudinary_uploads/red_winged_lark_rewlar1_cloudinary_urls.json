@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_winged_lark_rewlar1",
+    "chinese_name": "红翅歌百灵",
+    "english_name": "Red-winged Lark",
+    "scientific_name": "Corypha hypermetra"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_winged_lark_rewlar1_205959961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944106/bird-gallery/red_winged_lark_rewlar1/macaulay/red_winged_lark_rewlar1_205959961.jpg",
+      "public_id": "bird-gallery/red_winged_lark_rewlar1/macaulay/red_winged_lark_rewlar1_205959961",
+      "width": 1000,
+      "height": 730,
+      "format": "jpg",
+      "bytes": 43349,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205959961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205959961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_winged_lark_rewlar1_205959971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944107/bird-gallery/red_winged_lark_rewlar1/macaulay/red_winged_lark_rewlar1_205959971.jpg",
+      "public_id": "bird-gallery/red_winged_lark_rewlar1/macaulay/red_winged_lark_rewlar1_205959971",
+      "width": 1000,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 51067,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205959971",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205959971",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_winged_lark_rewlar1_216029211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944108/bird-gallery/red_winged_lark_rewlar1/macaulay/red_winged_lark_rewlar1_216029211.jpg",
+      "public_id": "bird-gallery/red_winged_lark_rewlar1/macaulay/red_winged_lark_rewlar1_216029211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65650,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/216029211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "216029211",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_winged_lark_rewlar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944109/bird-gallery/red_winged_lark_rewlar1/inaturalist/red_winged_lark_rewlar1_1.jpg",
+      "public_id": "bird-gallery/red_winged_lark_rewlar1/inaturalist/red_winged_lark_rewlar1_1",
+      "width": 856,
+      "height": 643,
+      "format": "jpg",
+      "bytes": 19995,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/37193945",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 37193945,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_winged_lark_rewlar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944110/bird-gallery/red_winged_lark_rewlar1/inaturalist/red_winged_lark_rewlar1_2.jpg",
+      "public_id": "bird-gallery/red_winged_lark_rewlar1/inaturalist/red_winged_lark_rewlar1_2",
+      "width": 1024,
+      "height": 639,
+      "format": "jpg",
+      "bytes": 36870,
+      "attribution": {
+        "photographer": "asalafa_deri",
+        "photographer_url": "https://www.inaturalist.org/observations/193231589",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asalafa_deri (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 193231589,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_winged_lark_rewlar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944111/bird-gallery/red_winged_lark_rewlar1/inaturalist/red_winged_lark_rewlar1_3.jpg",
+      "public_id": "bird-gallery/red_winged_lark_rewlar1/inaturalist/red_winged_lark_rewlar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 41891,
+      "attribution": {
+        "photographer": "bgenet",
+        "photographer_url": "https://www.inaturalist.org/observations/294373182",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© bgenet (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 294373182,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

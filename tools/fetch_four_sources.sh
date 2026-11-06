@@ -266,7 +266,7 @@ for ASSET_ID in $ASSETS; do
   fi
   
   # 下载文件（容错：失败不退出）
-  curl -s -o "$OUT" "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${ASSET_ID}/1200" || {
+  curl -s --max-time 40 -o "$OUT" "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${ASSET_ID}/1200" || {
     echo "  ⚠️  下载失败: $ASSET_ID"
     continue
   }
@@ -388,7 +388,7 @@ for obs in data.get('results', []):
     if out_path.exists():
         next_idx += 1
         continue
-    result = subprocess.run(['curl', '-s', '-o', str(out_path), url], capture_output=True)
+    result = subprocess.run(['curl', '-s', '--max-time', '40', '-o', str(out_path), url], capture_output=True)
     if result.returncode != 0:
         continue
     verify = subprocess.run(['file', str(out_path)], capture_output=True, text=True)
@@ -486,7 +486,7 @@ if [ -n "$WIKI_HTML" ]; then
     fi
     
     # 下载文件
-    curl -s -o "$OUT" "https://$U" || {
+    curl -s --max-time 40 -o "$OUT" "https://$U" || {
       echo "  ⚠️  下载失败: $U"
       continue
     }

@@ -66,44 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "horus_swift_horswi1_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941632/bird-gallery/horus_swift_horswi1/inaturalist/horus_swift_horswi1_1.jpg",
-      "public_id": "bird-gallery/horus_swift_horswi1/inaturalist/horus_swift_horswi1_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 15269,
-      "attribution": {
-        "photographer": "nikborrow",
-        "photographer_url": "https://www.inaturalist.org/observations/108360312",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 108360312,
-        "note": null
-      }
-    },
-    {
-      "original_file": "horus_swift_horswi1_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941633/bird-gallery/horus_swift_horswi1/inaturalist/horus_swift_horswi1_2.jpg",
-      "public_id": "bird-gallery/horus_swift_horswi1/inaturalist/horus_swift_horswi1_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 64153,
-      "attribution": {
-        "photographer": "birdingislife",
-        "photographer_url": "https://www.inaturalist.org/observations/116535261",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© birdingislife (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 116535261,
-        "note": null
-      }
-    },
-    {
       "original_file": "horus_swift_horswi1_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941634/bird-gallery/horus_swift_horswi1/inaturalist/horus_swift_horswi1_3.jpg",
       "public_id": "bird-gallery/horus_swift_horswi1/inaturalist/horus_swift_horswi1_3",

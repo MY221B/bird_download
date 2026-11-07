@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "silverbird_silver1_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941744/bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_1.jpg",
-      "public_id": "bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 45286,
-      "attribution": {
-        "photographer": "radinis",
-        "photographer_url": "https://www.inaturalist.org/observations/342502273",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© radinis (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 342502273,
-        "note": null
-      }
-    },
-    {
       "original_file": "silverbird_silver1_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941745/bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_2.jpg",
       "public_id": "bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_2",
@@ -100,25 +81,6 @@
         "credit_format": "© cuihenggang (via iNaturalist), some rights reserved (CC0)",
         "source": "inaturalist",
         "source_id": 180366195,
-        "note": null
-      }
-    },
-    {
-      "original_file": "silverbird_silver1_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941745/bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_3.jpg",
-      "public_id": "bird-gallery/silverbird_silver1/inaturalist/silverbird_silver1_3",
-      "width": 1024,
-      "height": 684,
-      "format": "jpg",
-      "bytes": 38584,
-      "attribution": {
-        "photographer": "fernandoul",
-        "photographer_url": "https://www.inaturalist.org/observations/215543435",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© fernandoul (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 215543435,
         "note": null
       }
     }

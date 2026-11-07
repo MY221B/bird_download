@@ -83,44 +83,6 @@
         "source_id": 65822098,
         "note": null
       }
-    },
-    {
-      "original_file": "long_billed_pipit_lobpip1_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939859/bird-gallery/long_billed_pipit_lobpip1/inaturalist/long_billed_pipit_lobpip1_2.jpg",
-      "public_id": "bird-gallery/long_billed_pipit_lobpip1/inaturalist/long_billed_pipit_lobpip1_2",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 124715,
-      "attribution": {
-        "photographer": "sauriscus",
-        "photographer_url": "https://www.inaturalist.org/observations/204723298",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© sauriscus (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 204723298,
-        "note": null
-      }
-    },
-    {
-      "original_file": "long_billed_pipit_lobpip1_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939860/bird-gallery/long_billed_pipit_lobpip1/inaturalist/long_billed_pipit_lobpip1_3.jpg",
-      "public_id": "bird-gallery/long_billed_pipit_lobpip1/inaturalist/long_billed_pipit_lobpip1_3",
-      "width": 1024,
-      "height": 768,
-      "format": "jpg",
-      "bytes": 151439,
-      "attribution": {
-        "photographer": "christiaan_viljoen",
-        "photographer_url": "https://www.inaturalist.org/observations/256530307",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 256530307,
-        "note": null
-      }
     }
   ],
   "birdphotos": [],

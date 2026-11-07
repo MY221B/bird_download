@@ -26,25 +26,6 @@
       }
     },
     {
-      "original_file": "nyanza_swift_nyaswi1_205987411.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941537/bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_205987411.jpg",
-      "public_id": "bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_205987411",
-      "width": 1000,
-      "height": 665,
-      "format": "jpg",
-      "bytes": 9234,
-      "attribution": {
-        "photographer": null,
-        "photographer_url": "https://macaulaylibrary.org/asset/205987411",
-        "license": null,
-        "license_url": null,
-        "credit_format": null,
-        "source": "macaulay",
-        "source_id": "205987411",
-        "note": null
-      }
-    },
-    {
       "original_file": "nyanza_swift_nyaswi1_616942004.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941538/bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_616942004.jpg",
       "public_id": "bird-gallery/nyanza_swift_nyaswi1/macaulay/nyanza_swift_nyaswi1_616942004",
@@ -100,25 +81,6 @@
         "credit_format": "© brhacker (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
         "source_id": 412883427,
-        "note": null
-      }
-    },
-    {
-      "original_file": "nyanza_swift_nyaswi1_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941541/bird-gallery/nyanza_swift_nyaswi1/inaturalist/nyanza_swift_nyaswi1_3.jpg",
-      "public_id": "bird-gallery/nyanza_swift_nyaswi1/inaturalist/nyanza_swift_nyaswi1_3",
-      "width": 636,
-      "height": 708,
-      "format": "jpg",
-      "bytes": 18745,
-      "attribution": {
-        "photographer": "asalafa_deri",
-        "photographer_url": "https://www.inaturalist.org/observations/193323970",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© asalafa_deri (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 193323970,
         "note": null
       }
     }

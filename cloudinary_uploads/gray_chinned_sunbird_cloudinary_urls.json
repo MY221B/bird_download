@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "gray_chinned_sunbird_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944614/bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_1.jpg",
-      "public_id": "bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 66728,
-      "attribution": {
-        "photographer": "lukeberg",
-        "photographer_url": "https://www.inaturalist.org/observations/313625182",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 313625182,
-        "note": null
-      }
-    },
-    {
       "original_file": "gray_chinned_sunbird_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944615/bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_2.jpg",
       "public_id": "bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_2",
@@ -100,25 +81,6 @@
         "credit_format": "© violettederozier (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
         "source_id": 9073279,
-        "note": null
-      }
-    },
-    {
-      "original_file": "gray_chinned_sunbird_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944616/bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_3.jpg",
-      "public_id": "bird-gallery/gray_chinned_sunbird/inaturalist/gray_chinned_sunbird_3",
-      "width": 997,
-      "height": 720,
-      "format": "jpg",
-      "bytes": 41370,
-      "attribution": {
-        "photographer": "violettederozier",
-        "photographer_url": "https://www.inaturalist.org/observations/12733956",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© violettederozier (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 12733956,
         "note": null
       }
     }

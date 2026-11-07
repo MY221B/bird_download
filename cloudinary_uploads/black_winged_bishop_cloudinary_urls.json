@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "black_winged_bishop_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945191/bird-gallery/black_winged_bishop/inaturalist/black_winged_bishop_1.jpg",
-      "public_id": "bird-gallery/black_winged_bishop/inaturalist/black_winged_bishop_1",
-      "width": 1024,
-      "height": 498,
-      "format": "jpg",
-      "bytes": 35775,
-      "attribution": {
-        "photographer": "flyingbenji",
-        "photographer_url": "https://www.inaturalist.org/observations/56087147",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© flyingbenji (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 56087147,
-        "note": null
-      }
-    },
-    {
       "original_file": "black_winged_bishop_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945191/bird-gallery/black_winged_bishop/inaturalist/black_winged_bishop_2.jpg",
       "public_id": "bird-gallery/black_winged_bishop/inaturalist/black_winged_bishop_2",
@@ -100,25 +81,6 @@
         "credit_format": "© drmckenzie (via iNaturalist), some rights reserved (CC-BY-NC)",
         "source": "inaturalist",
         "source_id": 205360379,
-        "note": null
-      }
-    },
-    {
-      "original_file": "black_winged_bishop_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945192/bird-gallery/black_winged_bishop/inaturalist/black_winged_bishop_3.jpg",
-      "public_id": "bird-gallery/black_winged_bishop/inaturalist/black_winged_bishop_3",
-      "width": 1024,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 73032,
-      "attribution": {
-        "photographer": "mathiasdhaen",
-        "photographer_url": "https://www.inaturalist.org/observations/15097151",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 15097151,
         "note": null
       }
     }

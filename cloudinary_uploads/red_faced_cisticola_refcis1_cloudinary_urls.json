@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "red_faced_cisticola_refcis1_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940035/bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_1.jpg",
-      "public_id": "bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 57620,
-      "attribution": {
-        "photographer": "brandongould",
-        "photographer_url": "https://www.inaturalist.org/observations/149123394",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© brandongould (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 149123394,
-        "note": null
-      }
-    },
-    {
       "original_file": "red_faced_cisticola_refcis1_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940036/bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_2.jpg",
       "public_id": "bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_2",
@@ -100,25 +81,6 @@
         "credit_format": "© avocat (via iNaturalist), some rights reserved (CC-BY)",
         "source": "inaturalist",
         "source_id": 313049552,
-        "note": null
-      }
-    },
-    {
-      "original_file": "red_faced_cisticola_refcis1_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940037/bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_3.jpg",
-      "public_id": "bird-gallery/red_faced_cisticola_refcis1/inaturalist/red_faced_cisticola_refcis1_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 73339,
-      "attribution": {
-        "photographer": "zach63671",
-        "photographer_url": "https://www.inaturalist.org/observations/308393874",
-        "license": "cc-by",
-        "license_url": null,
-        "credit_format": "© zach63671 (via iNaturalist), some rights reserved (CC-BY)",
-        "source": "inaturalist",
-        "source_id": 308393874,
         "note": null
       }
     }

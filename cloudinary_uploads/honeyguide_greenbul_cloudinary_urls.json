@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "honeyguide_greenbul_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944642/bird-gallery/honeyguide_greenbul/inaturalist/honeyguide_greenbul_1.jpg",
-      "public_id": "bird-gallery/honeyguide_greenbul/inaturalist/honeyguide_greenbul_1",
-      "width": 1024,
-      "height": 678,
-      "format": "jpg",
-      "bytes": 50292,
-      "attribution": {
-        "photographer": "xrufray",
-        "photographer_url": "https://www.inaturalist.org/observations/255296712",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© xrufray (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 255296712,
-        "note": null
-      }
-    },
-    {
       "original_file": "honeyguide_greenbul_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944642/bird-gallery/honeyguide_greenbul/inaturalist/honeyguide_greenbul_2.jpg",
       "public_id": "bird-gallery/honeyguide_greenbul/inaturalist/honeyguide_greenbul_2",
@@ -100,25 +81,6 @@
         "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
         "source": "inaturalist",
         "source_id": 68641344,
-        "note": null
-      }
-    },
-    {
-      "original_file": "honeyguide_greenbul_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944643/bird-gallery/honeyguide_greenbul/inaturalist/honeyguide_greenbul_3.jpg",
-      "public_id": "bird-gallery/honeyguide_greenbul/inaturalist/honeyguide_greenbul_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 66992,
-      "attribution": {
-        "photographer": "mathiasdhaen",
-        "photographer_url": "https://www.inaturalist.org/observations/74831626",
-        "license": "cc-by-nc-nd",
-        "license_url": null,
-        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
-        "source": "inaturalist",
-        "source_id": 74831626,
         "note": null
       }
     }

@@ -64,65 +64,7 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "bat_like_spinetail_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945134/bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_1.jpg",
-      "public_id": "bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_1",
-      "width": 1024,
-      "height": 679,
-      "format": "jpg",
-      "bytes": 27477,
-      "attribution": {
-        "photographer": "danielcorreia",
-        "photographer_url": "https://www.inaturalist.org/observations/393794162",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© danielcorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 393794162,
-        "note": null
-      }
-    },
-    {
-      "original_file": "bat_like_spinetail_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945135/bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_2.jpg",
-      "public_id": "bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 5440,
-      "attribution": {
-        "photographer": "lemoncul",
-        "photographer_url": "https://www.inaturalist.org/observations/163368873",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 163368873,
-        "note": null
-      }
-    },
-    {
-      "original_file": "bat_like_spinetail_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945137/bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_3.jpg",
-      "public_id": "bird-gallery/bat_like_spinetail/inaturalist/bat_like_spinetail_3",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 4980,
-      "attribution": {
-        "photographer": "lc_three",
-        "photographer_url": "https://www.inaturalist.org/observations/384379417",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© lc_three (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 384379417,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [],
   "avibase": []

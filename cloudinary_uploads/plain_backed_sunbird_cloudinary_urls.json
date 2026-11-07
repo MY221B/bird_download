@@ -66,25 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "plain_backed_sunbird_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945320/bird-gallery/plain_backed_sunbird/inaturalist/plain_backed_sunbird_1.jpg",
-      "public_id": "bird-gallery/plain_backed_sunbird/inaturalist/plain_backed_sunbird_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 121591,
-      "attribution": {
-        "photographer": "talita0203",
-        "photographer_url": "https://www.inaturalist.org/observations/257365803",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© talita0203 (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 257365803,
-        "note": null
-      }
-    },
-    {
       "original_file": "plain_backed_sunbird_2.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945321/bird-gallery/plain_backed_sunbird/inaturalist/plain_backed_sunbird_2.jpg",
       "public_id": "bird-gallery/plain_backed_sunbird/inaturalist/plain_backed_sunbird_2",

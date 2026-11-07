@@ -64,65 +64,7 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "stuhlmanns_starling_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944771/bird-gallery/stuhlmanns_starling/inaturalist/stuhlmanns_starling_1.jpg",
-      "public_id": "bird-gallery/stuhlmanns_starling/inaturalist/stuhlmanns_starling_1",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 127955,
-      "attribution": {
-        "photographer": "toutterrain",
-        "photographer_url": "https://www.inaturalist.org/observations/123398377",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© toutterrain (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 123398377,
-        "note": null
-      }
-    },
-    {
-      "original_file": "stuhlmanns_starling_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944772/bird-gallery/stuhlmanns_starling/inaturalist/stuhlmanns_starling_2.jpg",
-      "public_id": "bird-gallery/stuhlmanns_starling/inaturalist/stuhlmanns_starling_2",
-      "width": 640,
-      "height": 424,
-      "format": "jpg",
-      "bytes": 25444,
-      "attribution": {
-        "photographer": "brunoboedts",
-        "photographer_url": "https://www.inaturalist.org/observations/389315801",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© brunoboedts (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 389315801,
-        "note": null
-      }
-    },
-    {
-      "original_file": "stuhlmanns_starling_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944773/bird-gallery/stuhlmanns_starling/inaturalist/stuhlmanns_starling_3.jpg",
-      "public_id": "bird-gallery/stuhlmanns_starling/inaturalist/stuhlmanns_starling_3",
-      "width": 1024,
-      "height": 682,
-      "format": "jpg",
-      "bytes": 95075,
-      "attribution": {
-        "photographer": "johnnybirder",
-        "photographer_url": "https://www.inaturalist.org/observations/183992704",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© johnnybirder (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 183992704,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [],
   "avibase": []

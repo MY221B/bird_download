@@ -66,44 +66,6 @@
   ],
   "inaturalist": [
     {
-      "original_file": "meyers_parrot_meypar1_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941658/bird-gallery/meyers_parrot_meypar1/inaturalist/meyers_parrot_meypar1_1.jpg",
-      "public_id": "bird-gallery/meyers_parrot_meypar1/inaturalist/meyers_parrot_meypar1_1",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 127680,
-      "attribution": {
-        "photographer": "currowar",
-        "photographer_url": "https://www.inaturalist.org/observations/236112888",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© currowar (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 236112888,
-        "note": null
-      }
-    },
-    {
-      "original_file": "meyers_parrot_meypar1_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941659/bird-gallery/meyers_parrot_meypar1/inaturalist/meyers_parrot_meypar1_2.jpg",
-      "public_id": "bird-gallery/meyers_parrot_meypar1/inaturalist/meyers_parrot_meypar1_2",
-      "width": 824,
-      "height": 565,
-      "format": "jpg",
-      "bytes": 50324,
-      "attribution": {
-        "photographer": "globalorthop",
-        "photographer_url": "https://www.inaturalist.org/observations/131767601",
-        "license": "all-rights-reserved",
-        "license_url": null,
-        "credit_format": "© globalorthop (via iNaturalist), All Rights Reserved",
-        "source": "inaturalist",
-        "source_id": 131767601,
-        "note": null
-      }
-    },
-    {
       "original_file": "meyers_parrot_meypar1_3.jpg",
       "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941660/bird-gallery/meyers_parrot_meypar1/inaturalist/meyers_parrot_meypar1_3.jpg",
       "public_id": "bird-gallery/meyers_parrot_meypar1/inaturalist/meyers_parrot_meypar1_3",

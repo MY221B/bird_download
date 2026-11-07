@@ -64,65 +64,7 @@
       }
     }
   ],
-  "inaturalist": [
-    {
-      "original_file": "yellow_bishop_yelbis1_1.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941356/bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_1.jpg",
-      "public_id": "bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_1",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 56178,
-      "attribution": {
-        "photographer": "pierrepretorius",
-        "photographer_url": "https://www.inaturalist.org/observations/405760651",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© pierrepretorius (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 405760651,
-        "note": null
-      }
-    },
-    {
-      "original_file": "yellow_bishop_yelbis1_2.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941357/bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_2.jpg",
-      "public_id": "bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_2",
-      "width": 1024,
-      "height": 683,
-      "format": "jpg",
-      "bytes": 40357,
-      "attribution": {
-        "photographer": "roach_brain",
-        "photographer_url": "https://www.inaturalist.org/observations/194527355",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© roach_brain (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 194527355,
-        "note": null
-      }
-    },
-    {
-      "original_file": "yellow_bishop_yelbis1_3.jpg",
-      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941357/bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_3.jpg",
-      "public_id": "bird-gallery/yellow_bishop_yelbis1/inaturalist/yellow_bishop_yelbis1_3",
-      "width": 768,
-      "height": 1024,
-      "format": "jpg",
-      "bytes": 99760,
-      "attribution": {
-        "photographer": "stephandu",
-        "photographer_url": "https://www.inaturalist.org/observations/405806087",
-        "license": "cc-by-nc",
-        "license_url": null,
-        "credit_format": "© stephandu (via iNaturalist), some rights reserved (CC-BY-NC)",
-        "source": "inaturalist",
-        "source_id": 405806087,
-        "note": null
-      }
-    }
-  ],
+  "inaturalist": [],
   "birdphotos": [],
   "wikimedia": [],
   "avibase": []

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "white_tailed_ant_thrush",
+    "chinese_name": "白尾蚁鸫",
+    "english_name": "White-tailed Ant-Thrush",
+    "scientific_name": "Neocossyphus poensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_tailed_ant_thrush_125542441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944867/bird-gallery/white_tailed_ant_thrush/macaulay/white_tailed_ant_thrush_125542441.jpg",
+      "public_id": "bird-gallery/white_tailed_ant_thrush/macaulay/white_tailed_ant_thrush_125542441",
+      "width": 1200,
+      "height": 845,
+      "format": "jpg",
+      "bytes": 87783,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/125542441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "125542441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_tailed_ant_thrush_205688431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944868/bird-gallery/white_tailed_ant_thrush/macaulay/white_tailed_ant_thrush_205688431.jpg",
+      "public_id": "bird-gallery/white_tailed_ant_thrush/macaulay/white_tailed_ant_thrush_205688431",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 66024,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205688431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205688431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_tailed_ant_thrush_635886514.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944870/bird-gallery/white_tailed_ant_thrush/macaulay/white_tailed_ant_thrush_635886514.jpg",
+      "public_id": "bird-gallery/white_tailed_ant_thrush/macaulay/white_tailed_ant_thrush_635886514",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 45397,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/635886514",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "635886514",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_tailed_ant_thrush_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944871/bird-gallery/white_tailed_ant_thrush/inaturalist/white_tailed_ant_thrush_1.jpg",
+      "public_id": "bird-gallery/white_tailed_ant_thrush/inaturalist/white_tailed_ant_thrush_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 171844,
+      "attribution": {
+        "photographer": "hammedojo",
+        "photographer_url": "https://www.inaturalist.org/observations/275545036",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hammedojo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 275545036,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_tailed_ant_thrush_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944872/bird-gallery/white_tailed_ant_thrush/inaturalist/white_tailed_ant_thrush_3.jpg",
+      "public_id": "bird-gallery/white_tailed_ant_thrush/inaturalist/white_tailed_ant_thrush_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 90633,
+      "attribution": {
+        "photographer": "nickramsey",
+        "photographer_url": "https://www.inaturalist.org/observations/134820495",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nickramsey (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 134820495,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

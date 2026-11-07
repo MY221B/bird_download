@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_bellied_wattle_eye",
+    "chinese_name": "栗腹饰眼鹟",
+    "english_name": "Yellow-bellied Wattle-eye",
+    "scientific_name": "Platysteira concreta"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_bellied_wattle_eye_205094941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944882/bird-gallery/yellow_bellied_wattle_eye/macaulay/yellow_bellied_wattle_eye_205094941.jpg",
+      "public_id": "bird-gallery/yellow_bellied_wattle_eye/macaulay/yellow_bellied_wattle_eye_205094941",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 36593,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205094941",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205094941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_wattle_eye_205094951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944883/bird-gallery/yellow_bellied_wattle_eye/macaulay/yellow_bellied_wattle_eye_205094951.jpg",
+      "public_id": "bird-gallery/yellow_bellied_wattle_eye/macaulay/yellow_bellied_wattle_eye_205094951",
+      "width": 533,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 34055,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205094951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205094951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_wattle_eye_508862541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944884/bird-gallery/yellow_bellied_wattle_eye/macaulay/yellow_bellied_wattle_eye_508862541.jpg",
+      "public_id": "bird-gallery/yellow_bellied_wattle_eye/macaulay/yellow_bellied_wattle_eye_508862541",
+      "width": 1200,
+      "height": 833,
+      "format": "jpg",
+      "bytes": 80825,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/508862541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "508862541",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_bellied_wattle_eye_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944886/bird-gallery/yellow_bellied_wattle_eye/inaturalist/yellow_bellied_wattle_eye_1.jpg",
+      "public_id": "bird-gallery/yellow_bellied_wattle_eye/inaturalist/yellow_bellied_wattle_eye_1",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 55755,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/42266871",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 42266871,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_wattle_eye_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944886/bird-gallery/yellow_bellied_wattle_eye/inaturalist/yellow_bellied_wattle_eye_2.jpg",
+      "public_id": "bird-gallery/yellow_bellied_wattle_eye/inaturalist/yellow_bellied_wattle_eye_2",
+      "width": 1024,
+      "height": 668,
+      "format": "jpg",
+      "bytes": 86214,
+      "attribution": {
+        "photographer": "wimvz",
+        "photographer_url": "https://www.inaturalist.org/observations/66927518",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wimvz (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 66927518,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_wattle_eye_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944887/bird-gallery/yellow_bellied_wattle_eye/inaturalist/yellow_bellied_wattle_eye_3.jpg",
+      "public_id": "bird-gallery/yellow_bellied_wattle_eye/inaturalist/yellow_bellied_wattle_eye_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66584,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/137443378",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 137443378,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "zanzibar_boubou_zanbou1",
+    "chinese_name": "东岸黑鵙",
+    "english_name": "Zanzibar Boubou",
+    "scientific_name": "Laniarius sublacteus"
+  },
+  "macaulay": [
+    {
+      "original_file": "zanzibar_boubou_zanbou1_290513041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945489/bird-gallery/zanzibar_boubou_zanbou1/macaulay/zanzibar_boubou_zanbou1_290513041.jpg",
+      "public_id": "bird-gallery/zanzibar_boubou_zanbou1/macaulay/zanzibar_boubou_zanbou1_290513041",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71595,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/290513041",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "290513041",
+        "note": null
+      }
+    },
+    {
+      "original_file": "zanzibar_boubou_zanbou1_375879721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945490/bird-gallery/zanzibar_boubou_zanbou1/macaulay/zanzibar_boubou_zanbou1_375879721.jpg",
+      "public_id": "bird-gallery/zanzibar_boubou_zanbou1/macaulay/zanzibar_boubou_zanbou1_375879721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55943,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/375879721",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "375879721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "zanzibar_boubou_zanbou1_600455111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945491/bird-gallery/zanzibar_boubou_zanbou1/macaulay/zanzibar_boubou_zanbou1_600455111.jpg",
+      "public_id": "bird-gallery/zanzibar_boubou_zanbou1/macaulay/zanzibar_boubou_zanbou1_600455111",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 142592,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/600455111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "600455111",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "zanzibar_boubou_zanbou1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945492/bird-gallery/zanzibar_boubou_zanbou1/inaturalist/zanzibar_boubou_zanbou1_1.jpg",
+      "public_id": "bird-gallery/zanzibar_boubou_zanbou1/inaturalist/zanzibar_boubou_zanbou1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 154585,
+      "attribution": {
+        "photographer": "fabian747",
+        "photographer_url": "https://www.inaturalist.org/observations/357255167",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fabian747 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 357255167,
+        "note": null
+      }
+    },
+    {
+      "original_file": "zanzibar_boubou_zanbou1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945493/bird-gallery/zanzibar_boubou_zanbou1/inaturalist/zanzibar_boubou_zanbou1_2.jpg",
+      "public_id": "bird-gallery/zanzibar_boubou_zanbou1/inaturalist/zanzibar_boubou_zanbou1_2",
+      "width": 1024,
+      "height": 577,
+      "format": "jpg",
+      "bytes": 65878,
+      "attribution": {
+        "photographer": "craigjhowe",
+        "photographer_url": "https://www.inaturalist.org/observations/403608454",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© craigjhowe (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 403608454,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

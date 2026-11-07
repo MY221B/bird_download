@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_fiscal_norfis1",
+    "chinese_name": "北领伯劳",
+    "english_name": "Northern Fiscal",
+    "scientific_name": "Lanius humeralis"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_fiscal_norfis1_204569741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939928/bird-gallery/northern_fiscal_norfis1/macaulay/northern_fiscal_norfis1_204569741.jpg",
+      "public_id": "bird-gallery/northern_fiscal_norfis1/macaulay/northern_fiscal_norfis1_204569741",
+      "width": 1200,
+      "height": 1018,
+      "format": "jpg",
+      "bytes": 58052,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204569741",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204569741",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_fiscal_norfis1_363207971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939929/bird-gallery/northern_fiscal_norfis1/macaulay/northern_fiscal_norfis1_363207971.jpg",
+      "public_id": "bird-gallery/northern_fiscal_norfis1/macaulay/northern_fiscal_norfis1_363207971",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 30698,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/363207971",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "363207971",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_fiscal_norfis1_665521783.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939930/bird-gallery/northern_fiscal_norfis1/macaulay/northern_fiscal_norfis1_665521783.jpg",
+      "public_id": "bird-gallery/northern_fiscal_norfis1/macaulay/northern_fiscal_norfis1_665521783",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 92322,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665521783",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665521783",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_fiscal_norfis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939931/bird-gallery/northern_fiscal_norfis1/inaturalist/northern_fiscal_norfis1_1.jpg",
+      "public_id": "bird-gallery/northern_fiscal_norfis1/inaturalist/northern_fiscal_norfis1_1",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 55303,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/5538797",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 5538797,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_fiscal_norfis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939932/bird-gallery/northern_fiscal_norfis1/inaturalist/northern_fiscal_norfis1_2.jpg",
+      "public_id": "bird-gallery/northern_fiscal_norfis1/inaturalist/northern_fiscal_norfis1_2",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 83549,
+      "attribution": {
+        "photographer": "davidbygott",
+        "photographer_url": "https://www.inaturalist.org/observations/17299540",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© davidbygott (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 17299540,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_fiscal_norfis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939933/bird-gallery/northern_fiscal_norfis1/inaturalist/northern_fiscal_norfis1_3.jpg",
+      "public_id": "bird-gallery/northern_fiscal_norfis1/inaturalist/northern_fiscal_norfis1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 39221,
+      "attribution": {
+        "photographer": "vinayak",
+        "photographer_url": "https://www.inaturalist.org/observations/106135350",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© vinayak (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 106135350,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

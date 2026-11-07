@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_tailed_ant_thrush_rtathr1",
+    "chinese_name": "红尾蚁鸫",
+    "english_name": "Red-tailed Ant-Thrush",
+    "scientific_name": "Neocossyphus rufus"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_tailed_ant_thrush_rtathr1_206150881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945338/bird-gallery/red_tailed_ant_thrush_rtathr1/macaulay/red_tailed_ant_thrush_rtathr1_206150881.jpg",
+      "public_id": "bird-gallery/red_tailed_ant_thrush_rtathr1/macaulay/red_tailed_ant_thrush_rtathr1_206150881",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 164058,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206150881",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206150881",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_ant_thrush_rtathr1_658772709.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945339/bird-gallery/red_tailed_ant_thrush_rtathr1/macaulay/red_tailed_ant_thrush_rtathr1_658772709.jpg",
+      "public_id": "bird-gallery/red_tailed_ant_thrush_rtathr1/macaulay/red_tailed_ant_thrush_rtathr1_658772709",
+      "width": 1200,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 98200,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/658772709",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "658772709",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_ant_thrush_rtathr1_658772727.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945340/bird-gallery/red_tailed_ant_thrush_rtathr1/macaulay/red_tailed_ant_thrush_rtathr1_658772727.jpg",
+      "public_id": "bird-gallery/red_tailed_ant_thrush_rtathr1/macaulay/red_tailed_ant_thrush_rtathr1_658772727",
+      "width": 1200,
+      "height": 755,
+      "format": "jpg",
+      "bytes": 76340,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/658772727",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "658772727",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_tailed_ant_thrush_rtathr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945341/bird-gallery/red_tailed_ant_thrush_rtathr1/inaturalist/red_tailed_ant_thrush_rtathr1_1.jpg",
+      "public_id": "bird-gallery/red_tailed_ant_thrush_rtathr1/inaturalist/red_tailed_ant_thrush_rtathr1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72558,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/90386091",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 90386091,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_ant_thrush_rtathr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945341/bird-gallery/red_tailed_ant_thrush_rtathr1/inaturalist/red_tailed_ant_thrush_rtathr1_2.jpg",
+      "public_id": "bird-gallery/red_tailed_ant_thrush_rtathr1/inaturalist/red_tailed_ant_thrush_rtathr1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58589,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/182200807",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 182200807,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_tailed_ant_thrush_rtathr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945342/bird-gallery/red_tailed_ant_thrush_rtathr1/inaturalist/red_tailed_ant_thrush_rtathr1_3.jpg",
+      "public_id": "bird-gallery/red_tailed_ant_thrush_rtathr1/inaturalist/red_tailed_ant_thrush_rtathr1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 43581,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/182155869",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 182155869,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

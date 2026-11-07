@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_crested_helmetshrike_whihel1",
+    "chinese_name": "长冠盔鵙",
+    "english_name": "White-crested Helmetshrike",
+    "scientific_name": "Prionops plumatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_crested_helmetshrike_whihel1_45292421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940612/bird-gallery/white_crested_helmetshrike_whihel1/macaulay/white_crested_helmetshrike_whihel1_45292421.jpg",
+      "public_id": "bird-gallery/white_crested_helmetshrike_whihel1/macaulay/white_crested_helmetshrike_whihel1_45292421",
+      "width": 1200,
+      "height": 812,
+      "format": "jpg",
+      "bytes": 64437,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/45292421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "45292421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_crested_helmetshrike_whihel1_541987621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940613/bird-gallery/white_crested_helmetshrike_whihel1/macaulay/white_crested_helmetshrike_whihel1_541987621.jpg",
+      "public_id": "bird-gallery/white_crested_helmetshrike_whihel1/macaulay/white_crested_helmetshrike_whihel1_541987621",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 38003,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/541987621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "541987621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_crested_helmetshrike_whihel1_553843071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940614/bird-gallery/white_crested_helmetshrike_whihel1/macaulay/white_crested_helmetshrike_whihel1_553843071.jpg",
+      "public_id": "bird-gallery/white_crested_helmetshrike_whihel1/macaulay/white_crested_helmetshrike_whihel1_553843071",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 73318,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/553843071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "553843071",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_crested_helmetshrike_whihel1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940615/bird-gallery/white_crested_helmetshrike_whihel1/inaturalist/white_crested_helmetshrike_whihel1_1.jpg",
+      "public_id": "bird-gallery/white_crested_helmetshrike_whihel1/inaturalist/white_crested_helmetshrike_whihel1_1",
+      "width": 1023,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 119780,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/19279873",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19279873,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_crested_helmetshrike_whihel1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940616/bird-gallery/white_crested_helmetshrike_whihel1/inaturalist/white_crested_helmetshrike_whihel1_2.jpg",
+      "public_id": "bird-gallery/white_crested_helmetshrike_whihel1/inaturalist/white_crested_helmetshrike_whihel1_2",
+      "width": 795,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 73377,
+      "attribution": {
+        "photographer": "timmcclurg",
+        "photographer_url": "https://www.inaturalist.org/observations/147100188",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© timmcclurg (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147100188,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_crested_helmetshrike_whihel1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940616/bird-gallery/white_crested_helmetshrike_whihel1/inaturalist/white_crested_helmetshrike_whihel1_3.jpg",
+      "public_id": "bird-gallery/white_crested_helmetshrike_whihel1/inaturalist/white_crested_helmetshrike_whihel1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 54839,
+      "attribution": {
+        "photographer": "hhodgson",
+        "photographer_url": "https://www.inaturalist.org/observations/302090407",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hhodgson (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 302090407,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

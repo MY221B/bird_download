@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "hemprichs_hornbill",
+    "chinese_name": "亨氏弯嘴犀鸟",
+    "english_name": "Hemprich's Hornbill",
+    "scientific_name": "Lophoceros hemprichii"
+  },
+  "macaulay": [
+    {
+      "original_file": "hemprichs_hornbill_136067591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941937/bird-gallery/hemprichs_hornbill/macaulay/hemprichs_hornbill_136067591.jpg",
+      "public_id": "bird-gallery/hemprichs_hornbill/macaulay/hemprichs_hornbill_136067591",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58464,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136067591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136067591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hemprichs_hornbill_206113211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941939/bird-gallery/hemprichs_hornbill/macaulay/hemprichs_hornbill_206113211.jpg",
+      "public_id": "bird-gallery/hemprichs_hornbill/macaulay/hemprichs_hornbill_206113211",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 117384,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206113211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206113211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hemprichs_hornbill_206113221.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941940/bird-gallery/hemprichs_hornbill/macaulay/hemprichs_hornbill_206113221.jpg",
+      "public_id": "bird-gallery/hemprichs_hornbill/macaulay/hemprichs_hornbill_206113221",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 46715,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206113221",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206113221",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hemprichs_hornbill_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941941/bird-gallery/hemprichs_hornbill/inaturalist/hemprichs_hornbill_1.jpg",
+      "public_id": "bird-gallery/hemprichs_hornbill/inaturalist/hemprichs_hornbill_1",
+      "width": 1024,
+      "height": 990,
+      "format": "jpg",
+      "bytes": 119691,
+      "attribution": {
+        "photographer": "oleg_kosterin",
+        "photographer_url": "https://www.inaturalist.org/observations/64740591",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© oleg_kosterin (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 64740591,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hemprichs_hornbill_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941942/bird-gallery/hemprichs_hornbill/inaturalist/hemprichs_hornbill_2.jpg",
+      "public_id": "bird-gallery/hemprichs_hornbill/inaturalist/hemprichs_hornbill_2",
+      "width": 690,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 44482,
+      "attribution": {
+        "photographer": "canadianorway",
+        "photographer_url": "https://www.inaturalist.org/observations/73382834",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© canadianorway (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 73382834,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hemprichs_hornbill_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941942/bird-gallery/hemprichs_hornbill/inaturalist/hemprichs_hornbill_3.jpg",
+      "public_id": "bird-gallery/hemprichs_hornbill/inaturalist/hemprichs_hornbill_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51770,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/332619285",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 332619285,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

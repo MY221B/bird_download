@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "fischers_starling_fissta1",
+    "chinese_name": "费氏丽椋鸟",
+    "english_name": "Fischer's Starling",
+    "scientific_name": "Lamprotornis fischeri"
+  },
+  "macaulay": [
+    {
+      "original_file": "fischers_starling_fissta1_204554591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943926/bird-gallery/fischers_starling_fissta1/macaulay/fischers_starling_fissta1_204554591.jpg",
+      "public_id": "bird-gallery/fischers_starling_fissta1/macaulay/fischers_starling_fissta1_204554591",
+      "width": 1200,
+      "height": 764,
+      "format": "jpg",
+      "bytes": 62672,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204554591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204554591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_starling_fissta1_205177731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943927/bird-gallery/fischers_starling_fissta1/macaulay/fischers_starling_fissta1_205177731.jpg",
+      "public_id": "bird-gallery/fischers_starling_fissta1/macaulay/fischers_starling_fissta1_205177731",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 37640,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205177731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205177731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_starling_fissta1_245728851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943928/bird-gallery/fischers_starling_fissta1/macaulay/fischers_starling_fissta1_245728851.jpg",
+      "public_id": "bird-gallery/fischers_starling_fissta1/macaulay/fischers_starling_fissta1_245728851",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66925,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/245728851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "245728851",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "fischers_starling_fissta1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943929/bird-gallery/fischers_starling_fissta1/inaturalist/fischers_starling_fissta1_1.jpg",
+      "public_id": "bird-gallery/fischers_starling_fissta1/inaturalist/fischers_starling_fissta1_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 77814,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/48818367",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 48818367,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_starling_fissta1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943930/bird-gallery/fischers_starling_fissta1/inaturalist/fischers_starling_fissta1_2.jpg",
+      "public_id": "bird-gallery/fischers_starling_fissta1/inaturalist/fischers_starling_fissta1_2",
+      "width": 933,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 149014,
+      "attribution": {
+        "photographer": "tomdriscoll",
+        "photographer_url": "https://www.inaturalist.org/observations/187370463",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tomdriscoll (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 187370463,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_starling_fissta1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943931/bird-gallery/fischers_starling_fissta1/inaturalist/fischers_starling_fissta1_3.jpg",
+      "public_id": "bird-gallery/fischers_starling_fissta1/inaturalist/fischers_starling_fissta1_3",
+      "width": 1024,
+      "height": 923,
+      "format": "jpg",
+      "bytes": 59950,
+      "attribution": {
+        "photographer": "dejong",
+        "photographer_url": "https://www.inaturalist.org/observations/190478099",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dejong (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 190478099,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

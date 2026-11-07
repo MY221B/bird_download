@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "kikuyu_mountain_greenbul_easmog5",
+    "chinese_name": "橄榄胸绿鹎",
+    "english_name": "Kikuyu Mountain Greenbul",
+    "scientific_name": "Arizelocichla kikuyuensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "kikuyu_mountain_greenbul_easmog5_205990291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940966/bird-gallery/kikuyu_mountain_greenbul_easmog5/macaulay/kikuyu_mountain_greenbul_easmog5_205990291.jpg",
+      "public_id": "bird-gallery/kikuyu_mountain_greenbul_easmog5/macaulay/kikuyu_mountain_greenbul_easmog5_205990291",
+      "width": 1000,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 89434,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205990291",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205990291",
+        "note": null
+      }
+    },
+    {
+      "original_file": "kikuyu_mountain_greenbul_easmog5_206174021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940967/bird-gallery/kikuyu_mountain_greenbul_easmog5/macaulay/kikuyu_mountain_greenbul_easmog5_206174021.jpg",
+      "public_id": "bird-gallery/kikuyu_mountain_greenbul_easmog5/macaulay/kikuyu_mountain_greenbul_easmog5_206174021",
+      "width": 849,
+      "height": 567,
+      "format": "jpg",
+      "bytes": 41548,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206174021",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206174021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "kikuyu_mountain_greenbul_easmog5_462224531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940968/bird-gallery/kikuyu_mountain_greenbul_easmog5/macaulay/kikuyu_mountain_greenbul_easmog5_462224531.jpg",
+      "public_id": "bird-gallery/kikuyu_mountain_greenbul_easmog5/macaulay/kikuyu_mountain_greenbul_easmog5_462224531",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 112032,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/462224531",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "462224531",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "kikuyu_mountain_greenbul_easmog5_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940969/bird-gallery/kikuyu_mountain_greenbul_easmog5/inaturalist/kikuyu_mountain_greenbul_easmog5_1.jpg",
+      "public_id": "bird-gallery/kikuyu_mountain_greenbul_easmog5/inaturalist/kikuyu_mountain_greenbul_easmog5_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 64768,
+      "attribution": {
+        "photographer": "max_hof_mann",
+        "photographer_url": "https://www.inaturalist.org/observations/194129406",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© max_hof_mann (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 194129406,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kikuyu_mountain_greenbul_easmog5_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940970/bird-gallery/kikuyu_mountain_greenbul_easmog5/inaturalist/kikuyu_mountain_greenbul_easmog5_2.jpg",
+      "public_id": "bird-gallery/kikuyu_mountain_greenbul_easmog5/inaturalist/kikuyu_mountain_greenbul_easmog5_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 109304,
+      "attribution": {
+        "photographer": "projectseawolf_sv",
+        "photographer_url": "https://www.inaturalist.org/observations/172619990",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© projectseawolf_sv (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 172619990,
+        "note": null
+      }
+    },
+    {
+      "original_file": "kikuyu_mountain_greenbul_easmog5_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940971/bird-gallery/kikuyu_mountain_greenbul_easmog5/inaturalist/kikuyu_mountain_greenbul_easmog5_3.jpg",
+      "public_id": "bird-gallery/kikuyu_mountain_greenbul_easmog5/inaturalist/kikuyu_mountain_greenbul_easmog5_3",
+      "width": 1024,
+      "height": 965,
+      "format": "jpg",
+      "bytes": 129584,
+      "attribution": {
+        "photographer": "scmayo",
+        "photographer_url": "https://www.inaturalist.org/observations/184467182",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© scmayo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 184467182,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "variable_sunbird_varsun2",
+    "chinese_name": "杂色花蜜鸟",
+    "english_name": "Variable Sunbird",
+    "scientific_name": "Cinnyris venustus"
+  },
+  "macaulay": [
+    {
+      "original_file": "variable_sunbird_varsun2_161452761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940442/bird-gallery/variable_sunbird_varsun2/macaulay/variable_sunbird_varsun2_161452761.jpg",
+      "public_id": "bird-gallery/variable_sunbird_varsun2/macaulay/variable_sunbird_varsun2_161452761",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 49716,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/161452761",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "161452761",
+        "note": null
+      }
+    },
+    {
+      "original_file": "variable_sunbird_varsun2_624544761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940443/bird-gallery/variable_sunbird_varsun2/macaulay/variable_sunbird_varsun2_624544761.jpg",
+      "public_id": "bird-gallery/variable_sunbird_varsun2/macaulay/variable_sunbird_varsun2_624544761",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82007,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/624544761",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "624544761",
+        "note": null
+      }
+    },
+    {
+      "original_file": "variable_sunbird_varsun2_651538145.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940444/bird-gallery/variable_sunbird_varsun2/macaulay/variable_sunbird_varsun2_651538145.jpg",
+      "public_id": "bird-gallery/variable_sunbird_varsun2/macaulay/variable_sunbird_varsun2_651538145",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55227,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/651538145",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "651538145",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "variable_sunbird_varsun2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940445/bird-gallery/variable_sunbird_varsun2/inaturalist/variable_sunbird_varsun2_1.jpg",
+      "public_id": "bird-gallery/variable_sunbird_varsun2/inaturalist/variable_sunbird_varsun2_1",
+      "width": 939,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 68917,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/105833503",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105833503,
+        "note": null
+      }
+    },
+    {
+      "original_file": "variable_sunbird_varsun2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940446/bird-gallery/variable_sunbird_varsun2/inaturalist/variable_sunbird_varsun2_2.jpg",
+      "public_id": "bird-gallery/variable_sunbird_varsun2/inaturalist/variable_sunbird_varsun2_2",
+      "width": 1024,
+      "height": 721,
+      "format": "jpg",
+      "bytes": 92152,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/191814972",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191814972,
+        "note": null
+      }
+    },
+    {
+      "original_file": "variable_sunbird_varsun2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940446/bird-gallery/variable_sunbird_varsun2/inaturalist/variable_sunbird_varsun2_3.jpg",
+      "public_id": "bird-gallery/variable_sunbird_varsun2/inaturalist/variable_sunbird_varsun2_3",
+      "width": 1024,
+      "height": 719,
+      "format": "jpg",
+      "bytes": 80397,
+      "attribution": {
+        "photographer": "romainpboisseau",
+        "photographer_url": "https://www.inaturalist.org/observations/337011081",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© romainpboisseau (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 337011081,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

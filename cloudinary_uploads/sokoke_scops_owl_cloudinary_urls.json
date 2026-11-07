@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "sokoke_scops_owl",
+    "chinese_name": "肯尼亚角鸮",
+    "english_name": "Sokoke Scops-Owl",
+    "scientific_name": "Otus ireneae"
+  },
+  "macaulay": [
+    {
+      "original_file": "sokoke_scops_owl_204461141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945370/bird-gallery/sokoke_scops_owl/macaulay/sokoke_scops_owl_204461141.jpg",
+      "public_id": "bird-gallery/sokoke_scops_owl/macaulay/sokoke_scops_owl_204461141",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 84766,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204461141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204461141",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sokoke_scops_owl_205983201.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945371/bird-gallery/sokoke_scops_owl/macaulay/sokoke_scops_owl_205983201.jpg",
+      "public_id": "bird-gallery/sokoke_scops_owl/macaulay/sokoke_scops_owl_205983201",
+      "width": 1000,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 76410,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205983201",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205983201",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sokoke_scops_owl_230264001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945372/bird-gallery/sokoke_scops_owl/macaulay/sokoke_scops_owl_230264001.jpg",
+      "public_id": "bird-gallery/sokoke_scops_owl/macaulay/sokoke_scops_owl_230264001",
+      "width": 1200,
+      "height": 1126,
+      "format": "jpg",
+      "bytes": 175291,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/230264001",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "230264001",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sokoke_scops_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945373/bird-gallery/sokoke_scops_owl/inaturalist/sokoke_scops_owl_1.jpg",
+      "public_id": "bird-gallery/sokoke_scops_owl/inaturalist/sokoke_scops_owl_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66541,
+      "attribution": {
+        "photographer": "joshua_rains",
+        "photographer_url": "https://www.inaturalist.org/observations/99360162",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joshua_rains (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 99360162,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sokoke_scops_owl_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945374/bird-gallery/sokoke_scops_owl/inaturalist/sokoke_scops_owl_2.jpg",
+      "public_id": "bird-gallery/sokoke_scops_owl/inaturalist/sokoke_scops_owl_2",
+      "width": 641,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98418,
+      "attribution": {
+        "photographer": "mothmaniac",
+        "photographer_url": "https://www.inaturalist.org/observations/3611552",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© mothmaniac (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 3611552,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sokoke_scops_owl_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945374/bird-gallery/sokoke_scops_owl/inaturalist/sokoke_scops_owl_3.jpg",
+      "public_id": "bird-gallery/sokoke_scops_owl/inaturalist/sokoke_scops_owl_3",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 111031,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/173741295",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 173741295,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

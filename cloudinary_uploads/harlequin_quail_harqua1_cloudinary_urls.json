@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "harlequin_quail_harqua1",
+    "chinese_name": "花脸鹌鹑",
+    "english_name": "Harlequin Quail",
+    "scientific_name": "Coturnix delegorguei"
+  },
+  "macaulay": [
+    {
+      "original_file": "harlequin_quail_harqua1_205177571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944288/bird-gallery/harlequin_quail_harqua1/macaulay/harlequin_quail_harqua1_205177571.jpg",
+      "public_id": "bird-gallery/harlequin_quail_harqua1/macaulay/harlequin_quail_harqua1_205177571",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 84855,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205177571",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205177571",
+        "note": null
+      }
+    },
+    {
+      "original_file": "harlequin_quail_harqua1_235900131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944289/bird-gallery/harlequin_quail_harqua1/macaulay/harlequin_quail_harqua1_235900131.jpg",
+      "public_id": "bird-gallery/harlequin_quail_harqua1/macaulay/harlequin_quail_harqua1_235900131",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 48161,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/235900131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "235900131",
+        "note": null
+      }
+    },
+    {
+      "original_file": "harlequin_quail_harqua1_292750231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944290/bird-gallery/harlequin_quail_harqua1/macaulay/harlequin_quail_harqua1_292750231.jpg",
+      "public_id": "bird-gallery/harlequin_quail_harqua1/macaulay/harlequin_quail_harqua1_292750231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99004,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/292750231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "292750231",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "harlequin_quail_harqua1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944291/bird-gallery/harlequin_quail_harqua1/inaturalist/harlequin_quail_harqua1_1.jpg",
+      "public_id": "bird-gallery/harlequin_quail_harqua1/inaturalist/harlequin_quail_harqua1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 76784,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/99608979",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 99608979,
+        "note": null
+      }
+    },
+    {
+      "original_file": "harlequin_quail_harqua1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944292/bird-gallery/harlequin_quail_harqua1/inaturalist/harlequin_quail_harqua1_2.jpg",
+      "public_id": "bird-gallery/harlequin_quail_harqua1/inaturalist/harlequin_quail_harqua1_2",
+      "width": 694,
+      "height": 850,
+      "format": "jpg",
+      "bytes": 65287,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/18675084",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18675084,
+        "note": null
+      }
+    },
+    {
+      "original_file": "harlequin_quail_harqua1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944293/bird-gallery/harlequin_quail_harqua1/inaturalist/harlequin_quail_harqua1_3.jpg",
+      "public_id": "bird-gallery/harlequin_quail_harqua1/inaturalist/harlequin_quail_harqua1_3",
+      "width": 1024,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 126570,
+      "attribution": {
+        "photographer": "jkn",
+        "photographer_url": "https://www.inaturalist.org/observations/49570756",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jkn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 49570756,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

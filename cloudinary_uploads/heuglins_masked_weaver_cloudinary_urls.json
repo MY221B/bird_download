@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "heuglins_masked_weaver",
+    "chinese_name": "绿腰织雀",
+    "english_name": "Heuglin's Masked-Weaver",
+    "scientific_name": "Ploceus heuglini"
+  },
+  "macaulay": [
+    {
+      "original_file": "heuglins_masked_weaver_23198551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945539/bird-gallery/heuglins_masked_weaver/macaulay/heuglins_masked_weaver_23198551.jpg",
+      "public_id": "bird-gallery/heuglins_masked_weaver/macaulay/heuglins_masked_weaver_23198551",
+      "width": 1200,
+      "height": 745,
+      "format": "jpg",
+      "bytes": 133528,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/23198551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "23198551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "heuglins_masked_weaver_348397161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945540/bird-gallery/heuglins_masked_weaver/macaulay/heuglins_masked_weaver_348397161.jpg",
+      "public_id": "bird-gallery/heuglins_masked_weaver/macaulay/heuglins_masked_weaver_348397161",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83822,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/348397161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "348397161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "heuglins_masked_weaver_437476681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945541/bird-gallery/heuglins_masked_weaver/macaulay/heuglins_masked_weaver_437476681.jpg",
+      "public_id": "bird-gallery/heuglins_masked_weaver/macaulay/heuglins_masked_weaver_437476681",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 79682,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/437476681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "437476681",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "heuglins_masked_weaver_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945542/bird-gallery/heuglins_masked_weaver/inaturalist/heuglins_masked_weaver_1.jpg",
+      "public_id": "bird-gallery/heuglins_masked_weaver/inaturalist/heuglins_masked_weaver_1",
+      "width": 1024,
+      "height": 942,
+      "format": "jpg",
+      "bytes": 79502,
+      "attribution": {
+        "photographer": "luckyatabo",
+        "photographer_url": "https://www.inaturalist.org/observations/92016189",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© luckyatabo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 92016189,
+        "note": null
+      }
+    },
+    {
+      "original_file": "heuglins_masked_weaver_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945544/bird-gallery/heuglins_masked_weaver/inaturalist/heuglins_masked_weaver_3.jpg",
+      "public_id": "bird-gallery/heuglins_masked_weaver/inaturalist/heuglins_masked_weaver_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 55309,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/135878104",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 135878104,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

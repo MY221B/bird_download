@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "maasai_apalis",
+    "chinese_name": "马赛娇莺",
+    "english_name": "Maasai Apalis",
+    "scientific_name": "Apalis stronachi"
+  },
+  "macaulay": [
+    {
+      "original_file": "maasai_apalis_119518351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942968/bird-gallery/maasai_apalis/macaulay/maasai_apalis_119518351.jpg",
+      "public_id": "bird-gallery/maasai_apalis/macaulay/maasai_apalis_119518351",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 51415,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/119518351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "119518351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "maasai_apalis_205491021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942969/bird-gallery/maasai_apalis/macaulay/maasai_apalis_205491021.jpg",
+      "public_id": "bird-gallery/maasai_apalis/macaulay/maasai_apalis_205491021",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 52016,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205491021",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205491021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "maasai_apalis_302702781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942970/bird-gallery/maasai_apalis/macaulay/maasai_apalis_302702781.jpg",
+      "public_id": "bird-gallery/maasai_apalis/macaulay/maasai_apalis_302702781",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 159181,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/302702781",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "302702781",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "maasai_apalis_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942971/bird-gallery/maasai_apalis/inaturalist/maasai_apalis_1.jpg",
+      "public_id": "bird-gallery/maasai_apalis/inaturalist/maasai_apalis_1",
+      "width": 835,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 87078,
+      "attribution": {
+        "photographer": "kcarrol2",
+        "photographer_url": "https://www.inaturalist.org/observations/255343482",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kcarrol2 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255343482,
+        "note": null
+      }
+    },
+    {
+      "original_file": "maasai_apalis_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942972/bird-gallery/maasai_apalis/inaturalist/maasai_apalis_2.jpg",
+      "public_id": "bird-gallery/maasai_apalis/inaturalist/maasai_apalis_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90415,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/389146989",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 389146989,
+        "note": null
+      }
+    },
+    {
+      "original_file": "maasai_apalis_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942973/bird-gallery/maasai_apalis/inaturalist/maasai_apalis_3.jpg",
+      "public_id": "bird-gallery/maasai_apalis/inaturalist/maasai_apalis_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 108265,
+      "attribution": {
+        "photographer": "ramonamom",
+        "photographer_url": "https://www.inaturalist.org/observations/82476588",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ramonamom (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 82476588,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

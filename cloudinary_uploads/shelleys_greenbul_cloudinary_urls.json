@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "shelleys_greenbul",
+    "chinese_name": "塞氏绿鹎",
+    "english_name": "Shelley's Greenbul",
+    "scientific_name": "Arizelocichla masukuensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "shelleys_greenbul_119417251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944741/bird-gallery/shelleys_greenbul/macaulay/shelleys_greenbul_119417251.jpg",
+      "public_id": "bird-gallery/shelleys_greenbul/macaulay/shelleys_greenbul_119417251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 78273,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/119417251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "119417251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_greenbul_205492951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944742/bird-gallery/shelleys_greenbul/macaulay/shelleys_greenbul_205492951.jpg",
+      "public_id": "bird-gallery/shelleys_greenbul/macaulay/shelleys_greenbul_205492951",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 101992,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205492951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205492951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_greenbul_421444581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944743/bird-gallery/shelleys_greenbul/macaulay/shelleys_greenbul_421444581.jpg",
+      "public_id": "bird-gallery/shelleys_greenbul/macaulay/shelleys_greenbul_421444581",
+      "width": 1200,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 63055,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/421444581",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "421444581",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "shelleys_greenbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944744/bird-gallery/shelleys_greenbul/inaturalist/shelleys_greenbul_1.jpg",
+      "public_id": "bird-gallery/shelleys_greenbul/inaturalist/shelleys_greenbul_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 185854,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/59603680",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 59603680,
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_greenbul_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944744/bird-gallery/shelleys_greenbul/inaturalist/shelleys_greenbul_2.jpg",
+      "public_id": "bird-gallery/shelleys_greenbul/inaturalist/shelleys_greenbul_2",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 58417,
+      "attribution": {
+        "photographer": "markusgmeiner",
+        "photographer_url": "https://www.inaturalist.org/observations/59891557",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© markusgmeiner (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 59891557,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

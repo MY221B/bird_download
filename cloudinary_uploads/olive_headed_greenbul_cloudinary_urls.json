@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "olive_headed_greenbul",
+    "chinese_name": "纹脸绿鹎",
+    "english_name": "Olive-headed Greenbul",
+    "scientific_name": "Arizelocichla striifacies"
+  },
+  "macaulay": [
+    {
+      "original_file": "olive_headed_greenbul_205488661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944245/bird-gallery/olive_headed_greenbul/macaulay/olive_headed_greenbul_205488661.jpg",
+      "public_id": "bird-gallery/olive_headed_greenbul/macaulay/olive_headed_greenbul_205488661",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 75655,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205488661",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205488661",
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_headed_greenbul_377393501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944246/bird-gallery/olive_headed_greenbul/macaulay/olive_headed_greenbul_377393501.jpg",
+      "public_id": "bird-gallery/olive_headed_greenbul/macaulay/olive_headed_greenbul_377393501",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69570,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/377393501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "377393501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_headed_greenbul_74190661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944247/bird-gallery/olive_headed_greenbul/macaulay/olive_headed_greenbul_74190661.jpg",
+      "public_id": "bird-gallery/olive_headed_greenbul/macaulay/olive_headed_greenbul_74190661",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 113585,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/74190661",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "74190661",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "olive_headed_greenbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944248/bird-gallery/olive_headed_greenbul/inaturalist/olive_headed_greenbul_1.jpg",
+      "public_id": "bird-gallery/olive_headed_greenbul/inaturalist/olive_headed_greenbul_1",
+      "width": 1024,
+      "height": 693,
+      "format": "jpg",
+      "bytes": 63560,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/320441246",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 320441246,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_headed_greenbul_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944249/bird-gallery/olive_headed_greenbul/inaturalist/olive_headed_greenbul_2.jpg",
+      "public_id": "bird-gallery/olive_headed_greenbul/inaturalist/olive_headed_greenbul_2",
+      "width": 1024,
+      "height": 727,
+      "format": "jpg",
+      "bytes": 141838,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/320440616",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 320440616,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_headed_greenbul_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944250/bird-gallery/olive_headed_greenbul/inaturalist/olive_headed_greenbul_3.jpg",
+      "public_id": "bird-gallery/olive_headed_greenbul/inaturalist/olive_headed_greenbul_3",
+      "width": 1024,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 58205,
+      "attribution": {
+        "photographer": "markusgmeiner",
+        "photographer_url": "https://www.inaturalist.org/observations/105323837",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© markusgmeiner (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105323837,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

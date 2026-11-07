@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "lesser_masked_weaver_lesmaw1",
+    "chinese_name": "黑脸织雀",
+    "english_name": "Lesser Masked-Weaver",
+    "scientific_name": "Ploceus intermedius"
+  },
+  "macaulay": [
+    {
+      "original_file": "lesser_masked_weaver_lesmaw1_643689341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939823/bird-gallery/lesser_masked_weaver_lesmaw1/macaulay/lesser_masked_weaver_lesmaw1_643689341.jpg",
+      "public_id": "bird-gallery/lesser_masked_weaver_lesmaw1/macaulay/lesser_masked_weaver_lesmaw1_643689341",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 94955,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/643689341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "643689341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_masked_weaver_lesmaw1_644255833.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939824/bird-gallery/lesser_masked_weaver_lesmaw1/macaulay/lesser_masked_weaver_lesmaw1_644255833.jpg",
+      "public_id": "bird-gallery/lesser_masked_weaver_lesmaw1/macaulay/lesser_masked_weaver_lesmaw1_644255833",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 155401,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/644255833",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "644255833",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_masked_weaver_lesmaw1_644255838.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939825/bird-gallery/lesser_masked_weaver_lesmaw1/macaulay/lesser_masked_weaver_lesmaw1_644255838.jpg",
+      "public_id": "bird-gallery/lesser_masked_weaver_lesmaw1/macaulay/lesser_masked_weaver_lesmaw1_644255838",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 85637,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/644255838",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "644255838",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "lesser_masked_weaver_lesmaw1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939827/bird-gallery/lesser_masked_weaver_lesmaw1/inaturalist/lesser_masked_weaver_lesmaw1_1.jpg",
+      "public_id": "bird-gallery/lesser_masked_weaver_lesmaw1/inaturalist/lesser_masked_weaver_lesmaw1_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 77052,
+      "attribution": {
+        "photographer": "rollier",
+        "photographer_url": "https://www.inaturalist.org/observations/130669913",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rollier (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 130669913,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_masked_weaver_lesmaw1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939827/bird-gallery/lesser_masked_weaver_lesmaw1/inaturalist/lesser_masked_weaver_lesmaw1_2.jpg",
+      "public_id": "bird-gallery/lesser_masked_weaver_lesmaw1/inaturalist/lesser_masked_weaver_lesmaw1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 38697,
+      "attribution": {
+        "photographer": "giuseppe_citino",
+        "photographer_url": "https://www.inaturalist.org/observations/400145888",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© giuseppe_citino (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 400145888,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

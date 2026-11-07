@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "fischers_turaco_fistur1",
+    "chinese_name": "费氏冠蕉鹃",
+    "english_name": "Fischer's Turaco",
+    "scientific_name": "Tauraco fischeri"
+  },
+  "macaulay": [
+    {
+      "original_file": "fischers_turaco_fistur1_205981871.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945250/bird-gallery/fischers_turaco_fistur1/macaulay/fischers_turaco_fistur1_205981871.jpg",
+      "public_id": "bird-gallery/fischers_turaco_fistur1/macaulay/fischers_turaco_fistur1_205981871",
+      "width": 1000,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 83584,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205981871",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205981871",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_turaco_fistur1_375548341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945251/bird-gallery/fischers_turaco_fistur1/macaulay/fischers_turaco_fistur1_375548341.jpg",
+      "public_id": "bird-gallery/fischers_turaco_fistur1/macaulay/fischers_turaco_fistur1_375548341",
+      "width": 1197,
+      "height": 798,
+      "format": "jpg",
+      "bytes": 61437,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/375548341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "375548341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_turaco_fistur1_375548351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945252/bird-gallery/fischers_turaco_fistur1/macaulay/fischers_turaco_fistur1_375548351.jpg",
+      "public_id": "bird-gallery/fischers_turaco_fistur1/macaulay/fischers_turaco_fistur1_375548351",
+      "width": 793,
+      "height": 1190,
+      "format": "jpg",
+      "bytes": 74030,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/375548351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "375548351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "fischers_turaco_fistur1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945253/bird-gallery/fischers_turaco_fistur1/inaturalist/fischers_turaco_fistur1_1.jpg",
+      "public_id": "bird-gallery/fischers_turaco_fistur1/inaturalist/fischers_turaco_fistur1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 131843,
+      "attribution": {
+        "photographer": "thibaudaronson",
+        "photographer_url": "https://www.inaturalist.org/observations/156241216",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© thibaudaronson (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 156241216,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_turaco_fistur1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945254/bird-gallery/fischers_turaco_fistur1/inaturalist/fischers_turaco_fistur1_2.jpg",
+      "public_id": "bird-gallery/fischers_turaco_fistur1/inaturalist/fischers_turaco_fistur1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 107728,
+      "attribution": {
+        "photographer": "chartuso",
+        "photographer_url": "https://www.inaturalist.org/observations/34988884",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© chartuso (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 34988884,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

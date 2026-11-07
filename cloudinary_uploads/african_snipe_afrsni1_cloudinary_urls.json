@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_snipe_afrsni1",
+    "chinese_name": "非洲沙锥",
+    "english_name": "African Snipe",
+    "scientific_name": "Gallinago nigripennis"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_snipe_afrsni1_245355131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941061/bird-gallery/african_snipe_afrsni1/macaulay/african_snipe_afrsni1_245355131.jpg",
+      "public_id": "bird-gallery/african_snipe_afrsni1/macaulay/african_snipe_afrsni1_245355131",
+      "width": 1200,
+      "height": 1016,
+      "format": "jpg",
+      "bytes": 251361,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/245355131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "245355131",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_snipe_afrsni1_617352965.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941062/bird-gallery/african_snipe_afrsni1/macaulay/african_snipe_afrsni1_617352965.jpg",
+      "public_id": "bird-gallery/african_snipe_afrsni1/macaulay/african_snipe_afrsni1_617352965",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99158,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/617352965",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "617352965",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_snipe_afrsni1_90718721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941063/bird-gallery/african_snipe_afrsni1/macaulay/african_snipe_afrsni1_90718721.jpg",
+      "public_id": "bird-gallery/african_snipe_afrsni1/macaulay/african_snipe_afrsni1_90718721",
+      "width": 762,
+      "height": 967,
+      "format": "jpg",
+      "bytes": 121267,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/90718721",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "90718721",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_snipe_afrsni1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941064/bird-gallery/african_snipe_afrsni1/inaturalist/african_snipe_afrsni1_1.jpg",
+      "public_id": "bird-gallery/african_snipe_afrsni1/inaturalist/african_snipe_afrsni1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75916,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/143077945",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143077945,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_snipe_afrsni1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941065/bird-gallery/african_snipe_afrsni1/inaturalist/african_snipe_afrsni1_2.jpg",
+      "public_id": "bird-gallery/african_snipe_afrsni1/inaturalist/african_snipe_afrsni1_2",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 78788,
+      "attribution": {
+        "photographer": "kfinn",
+        "photographer_url": "https://www.inaturalist.org/observations/300696615",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kfinn (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 300696615,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_snipe_afrsni1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941066/bird-gallery/african_snipe_afrsni1/inaturalist/african_snipe_afrsni1_3.jpg",
+      "public_id": "bird-gallery/african_snipe_afrsni1/inaturalist/african_snipe_afrsni1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 58217,
+      "attribution": {
+        "photographer": "simonnicholas",
+        "photographer_url": "https://www.inaturalist.org/observations/247890097",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonnicholas (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 247890097,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

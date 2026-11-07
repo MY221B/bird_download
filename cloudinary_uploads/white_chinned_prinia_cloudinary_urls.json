@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "white_chinned_prinia",
+    "chinese_name": "白额山鹪莺",
+    "english_name": "White-chinned Prinia",
+    "scientific_name": "Schistolais leucopogon"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_chinned_prinia_619997778.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944835/bird-gallery/white_chinned_prinia/macaulay/white_chinned_prinia_619997778.jpg",
+      "public_id": "bird-gallery/white_chinned_prinia/macaulay/white_chinned_prinia_619997778",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 102483,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/619997778",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "619997778",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_chinned_prinia_623600603.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944836/bird-gallery/white_chinned_prinia/macaulay/white_chinned_prinia_623600603.jpg",
+      "public_id": "bird-gallery/white_chinned_prinia/macaulay/white_chinned_prinia_623600603",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81464,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/623600603",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "623600603",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_chinned_prinia_632335097.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944837/bird-gallery/white_chinned_prinia/macaulay/white_chinned_prinia_632335097.jpg",
+      "public_id": "bird-gallery/white_chinned_prinia/macaulay/white_chinned_prinia_632335097",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 61538,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632335097",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632335097",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_chinned_prinia_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944840/bird-gallery/white_chinned_prinia/inaturalist/white_chinned_prinia_3.jpg",
+      "public_id": "bird-gallery/white_chinned_prinia/inaturalist/white_chinned_prinia_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 47923,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/149614408",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 149614408,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

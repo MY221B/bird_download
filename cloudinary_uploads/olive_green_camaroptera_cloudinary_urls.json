@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "olive_green_camaroptera",
+    "chinese_name": "绿拱翅莺",
+    "english_name": "Olive-green Camaroptera",
+    "scientific_name": "Camaroptera chloronota"
+  },
+  "macaulay": [
+    {
+      "original_file": "olive_green_camaroptera_206280481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944669/bird-gallery/olive_green_camaroptera/macaulay/olive_green_camaroptera_206280481.jpg",
+      "public_id": "bird-gallery/olive_green_camaroptera/macaulay/olive_green_camaroptera_206280481",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74359,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206280481",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206280481",
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_green_camaroptera_206280901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944670/bird-gallery/olive_green_camaroptera/macaulay/olive_green_camaroptera_206280901.jpg",
+      "public_id": "bird-gallery/olive_green_camaroptera/macaulay/olive_green_camaroptera_206280901",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55248,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206280901",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206280901",
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_green_camaroptera_206281321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944671/bird-gallery/olive_green_camaroptera/macaulay/olive_green_camaroptera_206281321.jpg",
+      "public_id": "bird-gallery/olive_green_camaroptera/macaulay/olive_green_camaroptera_206281321",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60383,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206281321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206281321",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "olive_green_camaroptera_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944672/bird-gallery/olive_green_camaroptera/inaturalist/olive_green_camaroptera_1.jpg",
+      "public_id": "bird-gallery/olive_green_camaroptera/inaturalist/olive_green_camaroptera_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 106947,
+      "attribution": {
+        "photographer": "cypseloides",
+        "photographer_url": "https://www.inaturalist.org/observations/196749505",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cypseloides (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 196749505,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_green_camaroptera_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944673/bird-gallery/olive_green_camaroptera/inaturalist/olive_green_camaroptera_2.jpg",
+      "public_id": "bird-gallery/olive_green_camaroptera/inaturalist/olive_green_camaroptera_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 78288,
+      "attribution": {
+        "photographer": "huljohn",
+        "photographer_url": "https://www.inaturalist.org/observations/370282990",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© huljohn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 370282990,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_green_camaroptera_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944673/bird-gallery/olive_green_camaroptera/inaturalist/olive_green_camaroptera_3.jpg",
+      "public_id": "bird-gallery/olive_green_camaroptera/inaturalist/olive_green_camaroptera_3",
+      "width": 512,
+      "height": 384,
+      "format": "jpg",
+      "bytes": 24283,
+      "attribution": {
+        "photographer": "muir",
+        "photographer_url": "https://www.inaturalist.org/observations/56127",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© muir (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 56127,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

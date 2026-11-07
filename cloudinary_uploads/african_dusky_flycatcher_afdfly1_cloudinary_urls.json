@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_dusky_flycatcher_afdfly1",
+    "chinese_name": "暗鹟",
+    "english_name": "African Dusky Flycatcher",
+    "scientific_name": "Muscicapa adusta"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_dusky_flycatcher_afdfly1_608387257.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940743/bird-gallery/african_dusky_flycatcher_afdfly1/macaulay/african_dusky_flycatcher_afdfly1_608387257.jpg",
+      "public_id": "bird-gallery/african_dusky_flycatcher_afdfly1/macaulay/african_dusky_flycatcher_afdfly1_608387257",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99218,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/608387257",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "608387257",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_dusky_flycatcher_afdfly1_608387258.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940744/bird-gallery/african_dusky_flycatcher_afdfly1/macaulay/african_dusky_flycatcher_afdfly1_608387258.jpg",
+      "public_id": "bird-gallery/african_dusky_flycatcher_afdfly1/macaulay/african_dusky_flycatcher_afdfly1_608387258",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103294,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/608387258",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "608387258",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_dusky_flycatcher_afdfly1_627346869.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940745/bird-gallery/african_dusky_flycatcher_afdfly1/macaulay/african_dusky_flycatcher_afdfly1_627346869.jpg",
+      "public_id": "bird-gallery/african_dusky_flycatcher_afdfly1/macaulay/african_dusky_flycatcher_afdfly1_627346869",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77624,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/627346869",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "627346869",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_dusky_flycatcher_afdfly1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940746/bird-gallery/african_dusky_flycatcher_afdfly1/inaturalist/african_dusky_flycatcher_afdfly1_1.jpg",
+      "public_id": "bird-gallery/african_dusky_flycatcher_afdfly1/inaturalist/african_dusky_flycatcher_afdfly1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 87575,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/129117961",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 129117961,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_dusky_flycatcher_afdfly1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940747/bird-gallery/african_dusky_flycatcher_afdfly1/inaturalist/african_dusky_flycatcher_afdfly1_2.jpg",
+      "public_id": "bird-gallery/african_dusky_flycatcher_afdfly1/inaturalist/african_dusky_flycatcher_afdfly1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49786,
+      "attribution": {
+        "photographer": "martin53",
+        "photographer_url": "https://www.inaturalist.org/observations/151228900",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© martin53 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 151228900,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_dusky_flycatcher_afdfly1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940747/bird-gallery/african_dusky_flycatcher_afdfly1/inaturalist/african_dusky_flycatcher_afdfly1_3.jpg",
+      "public_id": "bird-gallery/african_dusky_flycatcher_afdfly1/inaturalist/african_dusky_flycatcher_afdfly1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 79144,
+      "attribution": {
+        "photographer": "monica_ndlovu",
+        "photographer_url": "https://www.inaturalist.org/observations/164953480",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© monica_ndlovu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 164953480,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

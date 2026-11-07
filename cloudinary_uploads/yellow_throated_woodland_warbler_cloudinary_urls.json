@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_throated_woodland_warbler",
+    "chinese_name": "黄喉柳莺",
+    "english_name": "Yellow-throated Woodland-Warbler",
+    "scientific_name": "Phylloscopus ruficapilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_throated_woodland_warbler_205994331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944266/bird-gallery/yellow_throated_woodland_warbler/macaulay/yellow_throated_woodland_warbler_205994331.jpg",
+      "public_id": "bird-gallery/yellow_throated_woodland_warbler/macaulay/yellow_throated_woodland_warbler_205994331",
+      "width": 1000,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99061,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205994331",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205994331",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_woodland_warbler_608578203.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944267/bird-gallery/yellow_throated_woodland_warbler/macaulay/yellow_throated_woodland_warbler_608578203.jpg",
+      "public_id": "bird-gallery/yellow_throated_woodland_warbler/macaulay/yellow_throated_woodland_warbler_608578203",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60584,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/608578203",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "608578203",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_woodland_warbler_621470739.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944268/bird-gallery/yellow_throated_woodland_warbler/macaulay/yellow_throated_woodland_warbler_621470739.jpg",
+      "public_id": "bird-gallery/yellow_throated_woodland_warbler/macaulay/yellow_throated_woodland_warbler_621470739",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 61236,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621470739",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621470739",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_throated_woodland_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944269/bird-gallery/yellow_throated_woodland_warbler/inaturalist/yellow_throated_woodland_warbler_1.jpg",
+      "public_id": "bird-gallery/yellow_throated_woodland_warbler/inaturalist/yellow_throated_woodland_warbler_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 50722,
+      "attribution": {
+        "photographer": "legend_etienne",
+        "photographer_url": "https://www.inaturalist.org/observations/103633024",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© legend_etienne (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103633024,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_woodland_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944270/bird-gallery/yellow_throated_woodland_warbler/inaturalist/yellow_throated_woodland_warbler_2.jpg",
+      "public_id": "bird-gallery/yellow_throated_woodland_warbler/inaturalist/yellow_throated_woodland_warbler_2",
+      "width": 1024,
+      "height": 812,
+      "format": "jpg",
+      "bytes": 42790,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/369689273",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 369689273,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_throated_woodland_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944271/bird-gallery/yellow_throated_woodland_warbler/inaturalist/yellow_throated_woodland_warbler_3.jpg",
+      "public_id": "bird-gallery/yellow_throated_woodland_warbler/inaturalist/yellow_throated_woodland_warbler_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 72600,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/270125488",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 270125488,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

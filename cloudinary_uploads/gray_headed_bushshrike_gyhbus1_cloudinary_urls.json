@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "gray_headed_bushshrike_gyhbus1",
+    "chinese_name": "灰头丛鵙",
+    "english_name": "Gray-headed Bushshrike",
+    "scientific_name": "Malaconotus blanchoti"
+  },
+  "macaulay": [
+    {
+      "original_file": "gray_headed_bushshrike_gyhbus1_117131401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939739/bird-gallery/gray_headed_bushshrike_gyhbus1/macaulay/gray_headed_bushshrike_gyhbus1_117131401.jpg",
+      "public_id": "bird-gallery/gray_headed_bushshrike_gyhbus1/macaulay/gray_headed_bushshrike_gyhbus1_117131401",
+      "width": 797,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 76706,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117131401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117131401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_headed_bushshrike_gyhbus1_643689314.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939740/bird-gallery/gray_headed_bushshrike_gyhbus1/macaulay/gray_headed_bushshrike_gyhbus1_643689314.jpg",
+      "public_id": "bird-gallery/gray_headed_bushshrike_gyhbus1/macaulay/gray_headed_bushshrike_gyhbus1_643689314",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 96388,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/643689314",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "643689314",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_headed_bushshrike_gyhbus1_643689315.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939741/bird-gallery/gray_headed_bushshrike_gyhbus1/macaulay/gray_headed_bushshrike_gyhbus1_643689315.jpg",
+      "public_id": "bird-gallery/gray_headed_bushshrike_gyhbus1/macaulay/gray_headed_bushshrike_gyhbus1_643689315",
+      "width": 857,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 113296,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/643689315",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "643689315",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gray_headed_bushshrike_gyhbus1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939743/bird-gallery/gray_headed_bushshrike_gyhbus1/inaturalist/gray_headed_bushshrike_gyhbus1_2.jpg",
+      "public_id": "bird-gallery/gray_headed_bushshrike_gyhbus1/inaturalist/gray_headed_bushshrike_gyhbus1_2",
+      "width": 1000,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 92207,
+      "attribution": {
+        "photographer": "photokeen",
+        "photographer_url": "https://www.inaturalist.org/observations/148065681",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© photokeen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 148065681,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_headed_bushshrike_gyhbus1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939745/bird-gallery/gray_headed_bushshrike_gyhbus1/inaturalist/gray_headed_bushshrike_gyhbus1_3.jpg",
+      "public_id": "bird-gallery/gray_headed_bushshrike_gyhbus1/inaturalist/gray_headed_bushshrike_gyhbus1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 81067,
+      "attribution": {
+        "photographer": "andrewdeacon",
+        "photographer_url": "https://www.inaturalist.org/observations/168442553",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© andrewdeacon (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 168442553,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

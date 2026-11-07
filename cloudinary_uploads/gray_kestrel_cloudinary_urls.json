@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "gray_kestrel",
+    "chinese_name": "灰隼",
+    "english_name": "Gray Kestrel",
+    "scientific_name": "Falco ardosiaceus"
+  },
+  "macaulay": [
+    {
+      "original_file": "gray_kestrel_119293991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942947/bird-gallery/gray_kestrel/macaulay/gray_kestrel_119293991.jpg",
+      "public_id": "bird-gallery/gray_kestrel/macaulay/gray_kestrel_119293991",
+      "width": 1200,
+      "height": 822,
+      "format": "jpg",
+      "bytes": 76297,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/119293991",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "119293991",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_kestrel_162461921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942948/bird-gallery/gray_kestrel/macaulay/gray_kestrel_162461921.jpg",
+      "public_id": "bird-gallery/gray_kestrel/macaulay/gray_kestrel_162461921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 94314,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/162461921",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "162461921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_kestrel_476422771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942949/bird-gallery/gray_kestrel/macaulay/gray_kestrel_476422771.jpg",
+      "public_id": "bird-gallery/gray_kestrel/macaulay/gray_kestrel_476422771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 123133,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/476422771",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "476422771",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gray_kestrel_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942950/bird-gallery/gray_kestrel/inaturalist/gray_kestrel_1.jpg",
+      "public_id": "bird-gallery/gray_kestrel/inaturalist/gray_kestrel_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 42702,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/144348191",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 144348191,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_kestrel_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942951/bird-gallery/gray_kestrel/inaturalist/gray_kestrel_2.jpg",
+      "public_id": "bird-gallery/gray_kestrel/inaturalist/gray_kestrel_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 103303,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/137559324",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 137559324,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_kestrel_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942951/bird-gallery/gray_kestrel/inaturalist/gray_kestrel_3.jpg",
+      "public_id": "bird-gallery/gray_kestrel/inaturalist/gray_kestrel_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 37144,
+      "attribution": {
+        "photographer": "emeadows",
+        "photographer_url": "https://www.inaturalist.org/observations/134832474",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© emeadows (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 134832474,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "augur_buzzard_augbuz2",
+    "chinese_name": "棕𫛭",
+    "english_name": "Augur Buzzard",
+    "scientific_name": "Buteo augur"
+  },
+  "macaulay": [
+    {
+      "original_file": "augur_buzzard_augbuz2_33607441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939286/bird-gallery/augur_buzzard_augbuz2/macaulay/augur_buzzard_augbuz2_33607441.jpg",
+      "public_id": "bird-gallery/augur_buzzard_augbuz2/macaulay/augur_buzzard_augbuz2_33607441",
+      "width": 1200,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 22940,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33607441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33607441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "augur_buzzard_augbuz2_608821233.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939288/bird-gallery/augur_buzzard_augbuz2/macaulay/augur_buzzard_augbuz2_608821233.jpg",
+      "public_id": "bird-gallery/augur_buzzard_augbuz2/macaulay/augur_buzzard_augbuz2_608821233",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 54943,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/608821233",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "608821233",
+        "note": null
+      }
+    },
+    {
+      "original_file": "augur_buzzard_augbuz2_77704171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939289/bird-gallery/augur_buzzard_augbuz2/macaulay/augur_buzzard_augbuz2_77704171.jpg",
+      "public_id": "bird-gallery/augur_buzzard_augbuz2/macaulay/augur_buzzard_augbuz2_77704171",
+      "width": 1200,
+      "height": 942,
+      "format": "jpg",
+      "bytes": 119556,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/77704171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "77704171",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "augur_buzzard_augbuz2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939291/bird-gallery/augur_buzzard_augbuz2/inaturalist/augur_buzzard_augbuz2_3.jpg",
+      "public_id": "bird-gallery/augur_buzzard_augbuz2/inaturalist/augur_buzzard_augbuz2_3",
+      "width": 1024,
+      "height": 686,
+      "format": "jpg",
+      "bytes": 61975,
+      "attribution": {
+        "photographer": "akdhampton",
+        "photographer_url": "https://www.inaturalist.org/observations/64917505",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© akdhampton (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 64917505,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

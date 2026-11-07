@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "bearded_woodpecker_beawoo1",
+    "chinese_name": "须啄木鸟",
+    "english_name": "Bearded Woodpecker",
+    "scientific_name": "Chloropicus namaquus"
+  },
+  "macaulay": [
+    {
+      "original_file": "bearded_woodpecker_beawoo1_116277081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941072/bird-gallery/bearded_woodpecker_beawoo1/macaulay/bearded_woodpecker_beawoo1_116277081.jpg",
+      "public_id": "bird-gallery/bearded_woodpecker_beawoo1/macaulay/bearded_woodpecker_beawoo1_116277081",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 107907,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/116277081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "116277081",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_woodpecker_beawoo1_206037241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941073/bird-gallery/bearded_woodpecker_beawoo1/macaulay/bearded_woodpecker_beawoo1_206037241.jpg",
+      "public_id": "bird-gallery/bearded_woodpecker_beawoo1/macaulay/bearded_woodpecker_beawoo1_206037241",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 139254,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206037241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206037241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_woodpecker_beawoo1_47427251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941074/bird-gallery/bearded_woodpecker_beawoo1/macaulay/bearded_woodpecker_beawoo1_47427251.jpg",
+      "public_id": "bird-gallery/bearded_woodpecker_beawoo1/macaulay/bearded_woodpecker_beawoo1_47427251",
+      "width": 848,
+      "height": 1080,
+      "format": "jpg",
+      "bytes": 109654,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/47427251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "47427251",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "bearded_woodpecker_beawoo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941075/bird-gallery/bearded_woodpecker_beawoo1/inaturalist/bearded_woodpecker_beawoo1_1.jpg",
+      "public_id": "bird-gallery/bearded_woodpecker_beawoo1/inaturalist/bearded_woodpecker_beawoo1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 84300,
+      "attribution": {
+        "photographer": "jacob12_",
+        "photographer_url": "https://www.inaturalist.org/observations/144064379",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jacob12_ (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 144064379,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_woodpecker_beawoo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941076/bird-gallery/bearded_woodpecker_beawoo1/inaturalist/bearded_woodpecker_beawoo1_2.jpg",
+      "public_id": "bird-gallery/bearded_woodpecker_beawoo1/inaturalist/bearded_woodpecker_beawoo1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 50216,
+      "attribution": {
+        "photographer": "frankhart",
+        "photographer_url": "https://www.inaturalist.org/observations/187505432",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© frankhart (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 187505432,
+        "note": null
+      }
+    },
+    {
+      "original_file": "bearded_woodpecker_beawoo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941077/bird-gallery/bearded_woodpecker_beawoo1/inaturalist/bearded_woodpecker_beawoo1_3.jpg",
+      "public_id": "bird-gallery/bearded_woodpecker_beawoo1/inaturalist/bearded_woodpecker_beawoo1_3",
+      "width": 682,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 110460,
+      "attribution": {
+        "photographer": "andrewhardacre",
+        "photographer_url": "https://www.inaturalist.org/observations/107856263",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© andrewhardacre (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 107856263,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

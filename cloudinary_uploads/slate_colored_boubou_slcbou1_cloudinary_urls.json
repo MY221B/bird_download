@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "slate_colored_boubou_slcbou1",
+    "chinese_name": "暗色黑鵙",
+    "english_name": "Slate-colored Boubou",
+    "scientific_name": "Laniarius funebris"
+  },
+  "macaulay": [
+    {
+      "original_file": "slate_colored_boubou_slcbou1_204300191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940218/bird-gallery/slate_colored_boubou_slcbou1/macaulay/slate_colored_boubou_slcbou1_204300191.jpg",
+      "public_id": "bird-gallery/slate_colored_boubou_slcbou1/macaulay/slate_colored_boubou_slcbou1_204300191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79778,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204300191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204300191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slate_colored_boubou_slcbou1_205988731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940219/bird-gallery/slate_colored_boubou_slcbou1/macaulay/slate_colored_boubou_slcbou1_205988731.jpg",
+      "public_id": "bird-gallery/slate_colored_boubou_slcbou1/macaulay/slate_colored_boubou_slcbou1_205988731",
+      "width": 1000,
+      "height": 739,
+      "format": "jpg",
+      "bytes": 88493,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205988731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205988731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slate_colored_boubou_slcbou1_637114868.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940221/bird-gallery/slate_colored_boubou_slcbou1/macaulay/slate_colored_boubou_slcbou1_637114868.jpg",
+      "public_id": "bird-gallery/slate_colored_boubou_slcbou1/macaulay/slate_colored_boubou_slcbou1_637114868",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98069,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/637114868",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "637114868",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slate_colored_boubou_slcbou1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940222/bird-gallery/slate_colored_boubou_slcbou1/inaturalist/slate_colored_boubou_slcbou1_1.jpg",
+      "public_id": "bird-gallery/slate_colored_boubou_slcbou1/inaturalist/slate_colored_boubou_slcbou1_1",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 58278,
+      "attribution": {
+        "photographer": "paulakahumbu",
+        "photographer_url": "https://www.inaturalist.org/observations/18737144",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© paulakahumbu (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 18737144,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slate_colored_boubou_slcbou1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940223/bird-gallery/slate_colored_boubou_slcbou1/inaturalist/slate_colored_boubou_slcbou1_2.jpg",
+      "public_id": "bird-gallery/slate_colored_boubou_slcbou1/inaturalist/slate_colored_boubou_slcbou1_2",
+      "width": 884,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 72868,
+      "attribution": {
+        "photographer": "wildchroma",
+        "photographer_url": "https://www.inaturalist.org/observations/25936040",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wildchroma (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 25936040,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slate_colored_boubou_slcbou1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940224/bird-gallery/slate_colored_boubou_slcbou1/inaturalist/slate_colored_boubou_slcbou1_3.jpg",
+      "public_id": "bird-gallery/slate_colored_boubou_slcbou1/inaturalist/slate_colored_boubou_slcbou1_3",
+      "width": 1024,
+      "height": 778,
+      "format": "jpg",
+      "bytes": 51531,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/98289678",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 98289678,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

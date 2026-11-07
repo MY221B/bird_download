@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "singing_cisticola_sincis1",
+    "chinese_name": "歌扇尾莺",
+    "english_name": "Singing Cisticola",
+    "scientific_name": "Cisticola cantans"
+  },
+  "macaulay": [
+    {
+      "original_file": "singing_cisticola_sincis1_134576701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940206/bird-gallery/singing_cisticola_sincis1/macaulay/singing_cisticola_sincis1_134576701.jpg",
+      "public_id": "bird-gallery/singing_cisticola_sincis1/macaulay/singing_cisticola_sincis1_134576701",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 64429,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/134576701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "134576701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "singing_cisticola_sincis1_205488681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940207/bird-gallery/singing_cisticola_sincis1/macaulay/singing_cisticola_sincis1_205488681.jpg",
+      "public_id": "bird-gallery/singing_cisticola_sincis1/macaulay/singing_cisticola_sincis1_205488681",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49084,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205488681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205488681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "singing_cisticola_sincis1_75706971.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940208/bird-gallery/singing_cisticola_sincis1/macaulay/singing_cisticola_sincis1_75706971.jpg",
+      "public_id": "bird-gallery/singing_cisticola_sincis1/macaulay/singing_cisticola_sincis1_75706971",
+      "width": 1200,
+      "height": 1080,
+      "format": "jpg",
+      "bytes": 147658,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/75706971",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "75706971",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "singing_cisticola_sincis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940209/bird-gallery/singing_cisticola_sincis1/inaturalist/singing_cisticola_sincis1_1.jpg",
+      "public_id": "bird-gallery/singing_cisticola_sincis1/inaturalist/singing_cisticola_sincis1_1",
+      "width": 1024,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 84785,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/269320877",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 269320877,
+        "note": null
+      }
+    },
+    {
+      "original_file": "singing_cisticola_sincis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940210/bird-gallery/singing_cisticola_sincis1/inaturalist/singing_cisticola_sincis1_2.jpg",
+      "public_id": "bird-gallery/singing_cisticola_sincis1/inaturalist/singing_cisticola_sincis1_2",
+      "width": 1024,
+      "height": 676,
+      "format": "jpg",
+      "bytes": 95209,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/191815286",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191815286,
+        "note": null
+      }
+    },
+    {
+      "original_file": "singing_cisticola_sincis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940211/bird-gallery/singing_cisticola_sincis1/inaturalist/singing_cisticola_sincis1_3.jpg",
+      "public_id": "bird-gallery/singing_cisticola_sincis1/inaturalist/singing_cisticola_sincis1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 74848,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/191690838",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 191690838,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "chinspot_batis_chibat1",
+    "chinese_name": "点颏蓬背鹟",
+    "english_name": "Chinspot Batis",
+    "scientific_name": "Batis molitor"
+  },
+  "macaulay": [
+    {
+      "original_file": "chinspot_batis_chibat1_611775140.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939596/bird-gallery/chinspot_batis_chibat1/macaulay/chinspot_batis_chibat1_611775140.jpg",
+      "public_id": "bird-gallery/chinspot_batis_chibat1/macaulay/chinspot_batis_chibat1_611775140",
+      "width": 1200,
+      "height": 911,
+      "format": "jpg",
+      "bytes": 76231,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/611775140",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "611775140",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinspot_batis_chibat1_638831226.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939597/bird-gallery/chinspot_batis_chibat1/macaulay/chinspot_batis_chibat1_638831226.jpg",
+      "public_id": "bird-gallery/chinspot_batis_chibat1/macaulay/chinspot_batis_chibat1_638831226",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65307,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/638831226",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "638831226",
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinspot_batis_chibat1_643248611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939598/bird-gallery/chinspot_batis_chibat1/macaulay/chinspot_batis_chibat1_643248611.jpg",
+      "public_id": "bird-gallery/chinspot_batis_chibat1/macaulay/chinspot_batis_chibat1_643248611",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 106062,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/643248611",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "643248611",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "chinspot_batis_chibat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939599/bird-gallery/chinspot_batis_chibat1/inaturalist/chinspot_batis_chibat1_1.jpg",
+      "public_id": "bird-gallery/chinspot_batis_chibat1/inaturalist/chinspot_batis_chibat1_1",
+      "width": 1024,
+      "height": 870,
+      "format": "jpg",
+      "bytes": 127304,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/14492331",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 14492331,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinspot_batis_chibat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939600/bird-gallery/chinspot_batis_chibat1/inaturalist/chinspot_batis_chibat1_2.jpg",
+      "public_id": "bird-gallery/chinspot_batis_chibat1/inaturalist/chinspot_batis_chibat1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 124772,
+      "attribution": {
+        "photographer": "michelle_dunford",
+        "photographer_url": "https://www.inaturalist.org/observations/382519382",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© michelle_dunford (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 382519382,
+        "note": null
+      }
+    },
+    {
+      "original_file": "chinspot_batis_chibat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939600/bird-gallery/chinspot_batis_chibat1/inaturalist/chinspot_batis_chibat1_3.jpg",
+      "public_id": "bird-gallery/chinspot_batis_chibat1/inaturalist/chinspot_batis_chibat1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51257,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/180462954",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 180462954,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

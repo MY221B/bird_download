@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "magpie_starling_magsta1",
+    "chinese_name": "鹊椋鸟",
+    "english_name": "Magpie Starling",
+    "scientific_name": "Speculipastor bicolor"
+  },
+  "macaulay": [
+    {
+      "original_file": "magpie_starling_magsta1_204343401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941816/bird-gallery/magpie_starling_magsta1/macaulay/magpie_starling_magsta1_204343401.jpg",
+      "public_id": "bird-gallery/magpie_starling_magsta1/macaulay/magpie_starling_magsta1_204343401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 131944,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204343401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204343401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "magpie_starling_magsta1_32401941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941817/bird-gallery/magpie_starling_magsta1/macaulay/magpie_starling_magsta1_32401941.jpg",
+      "public_id": "bird-gallery/magpie_starling_magsta1/macaulay/magpie_starling_magsta1_32401941",
+      "width": 1200,
+      "height": 710,
+      "format": "jpg",
+      "bytes": 78351,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32401941",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32401941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "magpie_starling_magsta1_644392101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941818/bird-gallery/magpie_starling_magsta1/macaulay/magpie_starling_magsta1_644392101.jpg",
+      "public_id": "bird-gallery/magpie_starling_magsta1/macaulay/magpie_starling_magsta1_644392101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99390,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/644392101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "644392101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "magpie_starling_magsta1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941819/bird-gallery/magpie_starling_magsta1/inaturalist/magpie_starling_magsta1_1.jpg",
+      "public_id": "bird-gallery/magpie_starling_magsta1/inaturalist/magpie_starling_magsta1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 97979,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/86831976",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 86831976,
+        "note": null
+      }
+    },
+    {
+      "original_file": "magpie_starling_magsta1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941820/bird-gallery/magpie_starling_magsta1/inaturalist/magpie_starling_magsta1_2.jpg",
+      "public_id": "bird-gallery/magpie_starling_magsta1/inaturalist/magpie_starling_magsta1_2",
+      "width": 1024,
+      "height": 559,
+      "format": "jpg",
+      "bytes": 101297,
+      "attribution": {
+        "photographer": "craigscribbles",
+        "photographer_url": "https://www.inaturalist.org/observations/332262771",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© craigscribbles (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 332262771,
+        "note": null
+      }
+    },
+    {
+      "original_file": "magpie_starling_magsta1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941820/bird-gallery/magpie_starling_magsta1/inaturalist/magpie_starling_magsta1_3.jpg",
+      "public_id": "bird-gallery/magpie_starling_magsta1/inaturalist/magpie_starling_magsta1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 102307,
+      "attribution": {
+        "photographer": "scompeti",
+        "photographer_url": "https://www.inaturalist.org/observations/298259099",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© scompeti (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 298259099,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

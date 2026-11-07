@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "taita_apalis",
+    "chinese_name": "泰塔娇莺",
+    "english_name": "Taita Apalis",
+    "scientific_name": "Apalis fuscigularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "taita_apalis_150056531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944203/bird-gallery/taita_apalis/macaulay/taita_apalis_150056531.jpg",
+      "public_id": "bird-gallery/taita_apalis/macaulay/taita_apalis_150056531",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 128736,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/150056531",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "150056531",
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_apalis_150056611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944204/bird-gallery/taita_apalis/macaulay/taita_apalis_150056611.jpg",
+      "public_id": "bird-gallery/taita_apalis/macaulay/taita_apalis_150056611",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 123555,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/150056611",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "150056611",
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_apalis_609572914.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944207/bird-gallery/taita_apalis/macaulay/taita_apalis_609572914.jpg",
+      "public_id": "bird-gallery/taita_apalis/macaulay/taita_apalis_609572914",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 114974,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/609572914",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "609572914",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "taita_apalis_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944208/bird-gallery/taita_apalis/inaturalist/taita_apalis_1.jpg",
+      "public_id": "bird-gallery/taita_apalis/inaturalist/taita_apalis_1",
+      "width": 1024,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 140806,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/254288341",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 254288341,
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_apalis_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944208/bird-gallery/taita_apalis/inaturalist/taita_apalis_2.jpg",
+      "public_id": "bird-gallery/taita_apalis/inaturalist/taita_apalis_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 86558,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/103297898",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103297898,
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_apalis_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944209/bird-gallery/taita_apalis/inaturalist/taita_apalis_3.jpg",
+      "public_id": "bird-gallery/taita_apalis/inaturalist/taita_apalis_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 109952,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/408665265",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 408665265,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

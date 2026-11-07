@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "ring_necked_dove_rindov",
+    "chinese_name": "环颈斑鸠",
+    "english_name": "Ring-necked Dove",
+    "scientific_name": "Streptopelia capicola"
+  },
+  "macaulay": [
+    {
+      "original_file": "ring_necked_dove_rindov_170677501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940109/bird-gallery/ring_necked_dove_rindov/macaulay/ring_necked_dove_rindov_170677501.jpg",
+      "public_id": "bird-gallery/ring_necked_dove_rindov/macaulay/ring_necked_dove_rindov_170677501",
+      "width": 1200,
+      "height": 826,
+      "format": "jpg",
+      "bytes": 63775,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/170677501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "170677501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ring_necked_dove_rindov_301730401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940114/bird-gallery/ring_necked_dove_rindov/macaulay/ring_necked_dove_rindov_301730401.jpg",
+      "public_id": "bird-gallery/ring_necked_dove_rindov/macaulay/ring_necked_dove_rindov_301730401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93498,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/301730401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "301730401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ring_necked_dove_rindov_540888411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940116/bird-gallery/ring_necked_dove_rindov/macaulay/ring_necked_dove_rindov_540888411.jpg",
+      "public_id": "bird-gallery/ring_necked_dove_rindov/macaulay/ring_necked_dove_rindov_540888411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 65205,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/540888411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "540888411",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ring_necked_dove_rindov_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940118/bird-gallery/ring_necked_dove_rindov/inaturalist/ring_necked_dove_rindov_1.jpg",
+      "public_id": "bird-gallery/ring_necked_dove_rindov/inaturalist/ring_necked_dove_rindov_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 61421,
+      "attribution": {
+        "photographer": "koosretief",
+        "photographer_url": "https://www.inaturalist.org/observations/230262574",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© koosretief (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 230262574,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ring_necked_dove_rindov_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940119/bird-gallery/ring_necked_dove_rindov/inaturalist/ring_necked_dove_rindov_2.jpg",
+      "public_id": "bird-gallery/ring_necked_dove_rindov/inaturalist/ring_necked_dove_rindov_2",
+      "width": 985,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 136861,
+      "attribution": {
+        "photographer": "paalo121",
+        "photographer_url": "https://www.inaturalist.org/observations/146421440",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© paalo121 (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 146421440,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ring_necked_dove_rindov_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940120/bird-gallery/ring_necked_dove_rindov/inaturalist/ring_necked_dove_rindov_3.jpg",
+      "public_id": "bird-gallery/ring_necked_dove_rindov/inaturalist/ring_necked_dove_rindov_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 134117,
+      "attribution": {
+        "photographer": "mysticchipmunk",
+        "photographer_url": "https://www.inaturalist.org/observations/252556195",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mysticchipmunk (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 252556195,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "taita_white_eye",
+    "chinese_name": "绿额环绣眼鸟",
+    "english_name": "Taita White-eye",
+    "scientific_name": "Zosterops silvanus"
+  },
+  "macaulay": [
+    {
+      "original_file": "taita_white_eye_205994541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944218/bird-gallery/taita_white_eye/macaulay/taita_white_eye_205994541.jpg",
+      "public_id": "bird-gallery/taita_white_eye/macaulay/taita_white_eye_205994541",
+      "width": 1000,
+      "height": 625,
+      "format": "jpg",
+      "bytes": 47672,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205994541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205994541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_white_eye_205994561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944219/bird-gallery/taita_white_eye/macaulay/taita_white_eye_205994561.jpg",
+      "public_id": "bird-gallery/taita_white_eye/macaulay/taita_white_eye_205994561",
+      "width": 1000,
+      "height": 748,
+      "format": "jpg",
+      "bytes": 57903,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205994561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205994561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_white_eye_308395261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944220/bird-gallery/taita_white_eye/macaulay/taita_white_eye_308395261.jpg",
+      "public_id": "bird-gallery/taita_white_eye/macaulay/taita_white_eye_308395261",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 92780,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/308395261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "308395261",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "taita_white_eye_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944221/bird-gallery/taita_white_eye/inaturalist/taita_white_eye_1.jpg",
+      "public_id": "bird-gallery/taita_white_eye/inaturalist/taita_white_eye_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 94849,
+      "attribution": {
+        "photographer": "john14491",
+        "photographer_url": "https://www.inaturalist.org/observations/386221970",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© john14491 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 386221970,
+        "note": null
+      }
+    },
+    {
+      "original_file": "taita_white_eye_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944222/bird-gallery/taita_white_eye/inaturalist/taita_white_eye_2.jpg",
+      "public_id": "bird-gallery/taita_white_eye/inaturalist/taita_white_eye_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 109372,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/103579136",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103579136,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "yellow_vented_eremomela",
+    "chinese_name": "黄臀孤莺",
+    "english_name": "Yellow-vented Eremomela",
+    "scientific_name": "Eremomela flavicrissalis"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_vented_eremomela_183414211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944300/bird-gallery/yellow_vented_eremomela/macaulay/yellow_vented_eremomela_183414211.jpg",
+      "public_id": "bird-gallery/yellow_vented_eremomela/macaulay/yellow_vented_eremomela_183414211",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 118926,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/183414211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "183414211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_vented_eremomela_274069181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944301/bird-gallery/yellow_vented_eremomela/macaulay/yellow_vented_eremomela_274069181.jpg",
+      "public_id": "bird-gallery/yellow_vented_eremomela/macaulay/yellow_vented_eremomela_274069181",
+      "width": 1200,
+      "height": 867,
+      "format": "jpg",
+      "bytes": 76418,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/274069181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "274069181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_vented_eremomela_33610901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944302/bird-gallery/yellow_vented_eremomela/macaulay/yellow_vented_eremomela_33610901.jpg",
+      "public_id": "bird-gallery/yellow_vented_eremomela/macaulay/yellow_vented_eremomela_33610901",
+      "width": 1200,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 50592,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33610901",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33610901",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_vented_eremomela_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944303/bird-gallery/yellow_vented_eremomela/inaturalist/yellow_vented_eremomela_1.jpg",
+      "public_id": "bird-gallery/yellow_vented_eremomela/inaturalist/yellow_vented_eremomela_1",
+      "width": 1024,
+      "height": 769,
+      "format": "jpg",
+      "bytes": 51483,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/37337345",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 37337345,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_vented_eremomela_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944304/bird-gallery/yellow_vented_eremomela/inaturalist/yellow_vented_eremomela_3.jpg",
+      "public_id": "bird-gallery/yellow_vented_eremomela/inaturalist/yellow_vented_eremomela_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 121565,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7131887",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7131887,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

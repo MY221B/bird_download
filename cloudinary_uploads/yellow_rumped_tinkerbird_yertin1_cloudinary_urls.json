@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "yellow_rumped_tinkerbird_yertin1",
+    "chinese_name": "金腰钟声拟䴕",
+    "english_name": "Yellow-rumped Tinkerbird",
+    "scientific_name": "Pogoniulus bilineatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_rumped_tinkerbird_yertin1_204761601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940703/bird-gallery/yellow_rumped_tinkerbird_yertin1/macaulay/yellow_rumped_tinkerbird_yertin1_204761601.jpg",
+      "public_id": "bird-gallery/yellow_rumped_tinkerbird_yertin1/macaulay/yellow_rumped_tinkerbird_yertin1_204761601",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 69735,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204761601",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204761601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_rumped_tinkerbird_yertin1_303758651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940704/bird-gallery/yellow_rumped_tinkerbird_yertin1/macaulay/yellow_rumped_tinkerbird_yertin1_303758651.jpg",
+      "public_id": "bird-gallery/yellow_rumped_tinkerbird_yertin1/macaulay/yellow_rumped_tinkerbird_yertin1_303758651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82692,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/303758651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "303758651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_rumped_tinkerbird_yertin1_56629571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940705/bird-gallery/yellow_rumped_tinkerbird_yertin1/macaulay/yellow_rumped_tinkerbird_yertin1_56629571.jpg",
+      "public_id": "bird-gallery/yellow_rumped_tinkerbird_yertin1/macaulay/yellow_rumped_tinkerbird_yertin1_56629571",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 71707,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/56629571",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "56629571",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_rumped_tinkerbird_yertin1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940707/bird-gallery/yellow_rumped_tinkerbird_yertin1/inaturalist/yellow_rumped_tinkerbird_yertin1_2.jpg",
+      "public_id": "bird-gallery/yellow_rumped_tinkerbird_yertin1/inaturalist/yellow_rumped_tinkerbird_yertin1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 62987,
+      "attribution": {
+        "photographer": "bewilderbeastie",
+        "photographer_url": "https://www.inaturalist.org/observations/58536143",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© bewilderbeastie (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 58536143,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_rumped_tinkerbird_yertin1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940707/bird-gallery/yellow_rumped_tinkerbird_yertin1/inaturalist/yellow_rumped_tinkerbird_yertin1_3.jpg",
+      "public_id": "bird-gallery/yellow_rumped_tinkerbird_yertin1/inaturalist/yellow_rumped_tinkerbird_yertin1_3",
+      "width": 1024,
+      "height": 748,
+      "format": "jpg",
+      "bytes": 142983,
+      "attribution": {
+        "photographer": "danb",
+        "photographer_url": "https://www.inaturalist.org/observations/40619389",
+        "license": "cc-by-nd",
+        "license_url": null,
+        "credit_format": "© danb (via iNaturalist), some rights reserved (CC-BY-ND)",
+        "source": "inaturalist",
+        "source_id": 40619389,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

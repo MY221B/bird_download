@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "slender_billed_weaver_slbwea1",
+    "chinese_name": "细嘴织雀",
+    "english_name": "Slender-billed Weaver",
+    "scientific_name": "Ploceus pelzelni"
+  },
+  "macaulay": [
+    {
+      "original_file": "slender_billed_weaver_slbwea1_112970591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945025/bird-gallery/slender_billed_weaver_slbwea1/macaulay/slender_billed_weaver_slbwea1_112970591.jpg",
+      "public_id": "bird-gallery/slender_billed_weaver_slbwea1/macaulay/slender_billed_weaver_slbwea1_112970591",
+      "width": 1200,
+      "height": 652,
+      "format": "jpg",
+      "bytes": 53038,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112970591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112970591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_weaver_slbwea1_112970611.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945026/bird-gallery/slender_billed_weaver_slbwea1/macaulay/slender_billed_weaver_slbwea1_112970611.jpg",
+      "public_id": "bird-gallery/slender_billed_weaver_slbwea1/macaulay/slender_billed_weaver_slbwea1_112970611",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 58065,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/112970611",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "112970611",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_weaver_slbwea1_524849231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945027/bird-gallery/slender_billed_weaver_slbwea1/macaulay/slender_billed_weaver_slbwea1_524849231.jpg",
+      "public_id": "bird-gallery/slender_billed_weaver_slbwea1/macaulay/slender_billed_weaver_slbwea1_524849231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66281,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/524849231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "524849231",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slender_billed_weaver_slbwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945028/bird-gallery/slender_billed_weaver_slbwea1/inaturalist/slender_billed_weaver_slbwea1_1.jpg",
+      "public_id": "bird-gallery/slender_billed_weaver_slbwea1/inaturalist/slender_billed_weaver_slbwea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 59490,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/8740367",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 8740367,
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_weaver_slbwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945029/bird-gallery/slender_billed_weaver_slbwea1/inaturalist/slender_billed_weaver_slbwea1_2.jpg",
+      "public_id": "bird-gallery/slender_billed_weaver_slbwea1/inaturalist/slender_billed_weaver_slbwea1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 62340,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/34369978",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 34369978,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

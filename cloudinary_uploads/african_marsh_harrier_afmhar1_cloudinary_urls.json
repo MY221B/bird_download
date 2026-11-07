@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "african_marsh_harrier_afmhar1",
+    "chinese_name": "非洲沼泽鹞",
+    "english_name": "African Marsh Harrier",
+    "scientific_name": "Circus ranivorus"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_marsh_harrier_afmhar1_105264221.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941610/bird-gallery/african_marsh_harrier_afmhar1/macaulay/african_marsh_harrier_afmhar1_105264221.jpg",
+      "public_id": "bird-gallery/african_marsh_harrier_afmhar1/macaulay/african_marsh_harrier_afmhar1_105264221",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 115125,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/105264221",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "105264221",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_marsh_harrier_afmhar1_105264241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941611/bird-gallery/african_marsh_harrier_afmhar1/macaulay/african_marsh_harrier_afmhar1_105264241.jpg",
+      "public_id": "bird-gallery/african_marsh_harrier_afmhar1/macaulay/african_marsh_harrier_afmhar1_105264241",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 121150,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/105264241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "105264241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_marsh_harrier_afmhar1_540960461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941612/bird-gallery/african_marsh_harrier_afmhar1/macaulay/african_marsh_harrier_afmhar1_540960461.jpg",
+      "public_id": "bird-gallery/african_marsh_harrier_afmhar1/macaulay/african_marsh_harrier_afmhar1_540960461",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 76115,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/540960461",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "540960461",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_marsh_harrier_afmhar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941613/bird-gallery/african_marsh_harrier_afmhar1/inaturalist/african_marsh_harrier_afmhar1_1.jpg",
+      "public_id": "bird-gallery/african_marsh_harrier_afmhar1/inaturalist/african_marsh_harrier_afmhar1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 103164,
+      "attribution": {
+        "photographer": "jeslefcourt",
+        "photographer_url": "https://www.inaturalist.org/observations/151570300",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jeslefcourt (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 151570300,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_marsh_harrier_afmhar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941614/bird-gallery/african_marsh_harrier_afmhar1/inaturalist/african_marsh_harrier_afmhar1_3.jpg",
+      "public_id": "bird-gallery/african_marsh_harrier_afmhar1/inaturalist/african_marsh_harrier_afmhar1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 64624,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/161555991",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 161555991,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "long_billed_pipit_lobpip1",
+    "chinese_name": "长嘴鹨",
+    "english_name": "Long-billed Pipit",
+    "scientific_name": "Anthus similis"
+  },
+  "macaulay": [
+    {
+      "original_file": "long_billed_pipit_lobpip1_398004251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939851/bird-gallery/long_billed_pipit_lobpip1/macaulay/long_billed_pipit_lobpip1_398004251.jpg",
+      "public_id": "bird-gallery/long_billed_pipit_lobpip1/macaulay/long_billed_pipit_lobpip1_398004251",
+      "width": 1200,
+      "height": 653,
+      "format": "jpg",
+      "bytes": 56264,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/398004251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "398004251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_billed_pipit_lobpip1_400329251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939856/bird-gallery/long_billed_pipit_lobpip1/macaulay/long_billed_pipit_lobpip1_400329251.jpg",
+      "public_id": "bird-gallery/long_billed_pipit_lobpip1/macaulay/long_billed_pipit_lobpip1_400329251",
+      "width": 1200,
+      "height": 819,
+      "format": "jpg",
+      "bytes": 79611,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/400329251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "400329251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "long_billed_pipit_lobpip1_651321436.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939857/bird-gallery/long_billed_pipit_lobpip1/macaulay/long_billed_pipit_lobpip1_651321436.jpg",
+      "public_id": "bird-gallery/long_billed_pipit_lobpip1/macaulay/long_billed_pipit_lobpip1_651321436",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 81568,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/651321436",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "651321436",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "long_billed_pipit_lobpip1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939859/bird-gallery/long_billed_pipit_lobpip1/inaturalist/long_billed_pipit_lobpip1_1.jpg",
+      "public_id": "bird-gallery/long_billed_pipit_lobpip1/inaturalist/long_billed_pipit_lobpip1_1",
+      "width": 720,
+      "height": 382,
+      "format": "jpg",
+      "bytes": 47922,
+      "attribution": {
+        "photographer": "akhter_ali",
+        "photographer_url": "https://www.inaturalist.org/observations/65822098",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© akhter_ali (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 65822098,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "wattled_starling_watsta1",
+    "chinese_name": "肉垂椋鸟",
+    "english_name": "Wattled Starling",
+    "scientific_name": "Creatophora cinerea"
+  },
+  "macaulay": [
+    {
+      "original_file": "wattled_starling_watsta1_108927431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940493/bird-gallery/wattled_starling_watsta1/macaulay/wattled_starling_watsta1_108927431.jpg",
+      "public_id": "bird-gallery/wattled_starling_watsta1/macaulay/wattled_starling_watsta1_108927431",
+      "width": 888,
+      "height": 592,
+      "format": "jpg",
+      "bytes": 32388,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/108927431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "108927431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "wattled_starling_watsta1_177603501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940494/bird-gallery/wattled_starling_watsta1/macaulay/wattled_starling_watsta1_177603501.jpg",
+      "public_id": "bird-gallery/wattled_starling_watsta1/macaulay/wattled_starling_watsta1_177603501",
+      "width": 1200,
+      "height": 903,
+      "format": "jpg",
+      "bytes": 168013,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/177603501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "177603501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "wattled_starling_watsta1_216027431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940495/bird-gallery/wattled_starling_watsta1/macaulay/wattled_starling_watsta1_216027431.jpg",
+      "public_id": "bird-gallery/wattled_starling_watsta1/macaulay/wattled_starling_watsta1_216027431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83514,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/216027431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "216027431",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "wattled_starling_watsta1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940497/bird-gallery/wattled_starling_watsta1/inaturalist/wattled_starling_watsta1_2.jpg",
+      "public_id": "bird-gallery/wattled_starling_watsta1/inaturalist/wattled_starling_watsta1_2",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 62992,
+      "attribution": {
+        "photographer": "hoppy1951",
+        "photographer_url": "https://www.inaturalist.org/observations/79948665",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© hoppy1951 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 79948665,
+        "note": null
+      }
+    },
+    {
+      "original_file": "wattled_starling_watsta1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940497/bird-gallery/wattled_starling_watsta1/inaturalist/wattled_starling_watsta1_3.jpg",
+      "public_id": "bird-gallery/wattled_starling_watsta1/inaturalist/wattled_starling_watsta1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 95473,
+      "attribution": {
+        "photographer": "wildlovesafari",
+        "photographer_url": "https://www.inaturalist.org/observations/230067617",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wildlovesafari (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 230067617,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

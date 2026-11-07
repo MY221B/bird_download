@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "coastal_cisticola",
+    "chinese_name": "海岸扇尾莺",
+    "english_name": "Coastal Cisticola",
+    "scientific_name": "Cisticola haematocephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "coastal_cisticola_206148601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945431/bird-gallery/coastal_cisticola/macaulay/coastal_cisticola_206148601.jpg",
+      "public_id": "bird-gallery/coastal_cisticola/macaulay/coastal_cisticola_206148601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 115001,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206148601",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206148601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "coastal_cisticola_232784211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945432/bird-gallery/coastal_cisticola/macaulay/coastal_cisticola_232784211.jpg",
+      "public_id": "bird-gallery/coastal_cisticola/macaulay/coastal_cisticola_232784211",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 63022,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/232784211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "232784211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "coastal_cisticola_63043681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945433/bird-gallery/coastal_cisticola/macaulay/coastal_cisticola_63043681.jpg",
+      "public_id": "bird-gallery/coastal_cisticola/macaulay/coastal_cisticola_63043681",
+      "width": 1200,
+      "height": 778,
+      "format": "jpg",
+      "bytes": 64091,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/63043681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "63043681",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "coastal_cisticola_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945434/bird-gallery/coastal_cisticola/inaturalist/coastal_cisticola_1.jpg",
+      "public_id": "bird-gallery/coastal_cisticola/inaturalist/coastal_cisticola_1",
+      "width": 1024,
+      "height": 1008,
+      "format": "jpg",
+      "bytes": 78646,
+      "attribution": {
+        "photographer": "gaudettelaura",
+        "photographer_url": "https://www.inaturalist.org/observations/148360451",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© gaudettelaura (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 148360451,
+        "note": null
+      }
+    },
+    {
+      "original_file": "coastal_cisticola_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945435/bird-gallery/coastal_cisticola/inaturalist/coastal_cisticola_2.jpg",
+      "public_id": "bird-gallery/coastal_cisticola/inaturalist/coastal_cisticola_2",
+      "width": 534,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 60153,
+      "attribution": {
+        "photographer": "fabian747",
+        "photographer_url": "https://www.inaturalist.org/observations/338039122",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fabian747 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 338039122,
+        "note": null
+      }
+    },
+    {
+      "original_file": "coastal_cisticola_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945435/bird-gallery/coastal_cisticola/inaturalist/coastal_cisticola_3.jpg",
+      "public_id": "bird-gallery/coastal_cisticola/inaturalist/coastal_cisticola_3",
+      "width": 1024,
+      "height": 739,
+      "format": "jpg",
+      "bytes": 79389,
+      "attribution": {
+        "photographer": "kenny_well",
+        "photographer_url": "https://www.inaturalist.org/observations/260694073",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kenny_well (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 260694073,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "moorland_chat_moocha1",
+    "chinese_name": "山岩䳭",
+    "english_name": "Moorland Chat",
+    "scientific_name": "Pinarochroa sordida"
+  },
+  "macaulay": [
+    {
+      "original_file": "moorland_chat_moocha1_136707521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941004/bird-gallery/moorland_chat_moocha1/macaulay/moorland_chat_moocha1_136707521.jpg",
+      "public_id": "bird-gallery/moorland_chat_moocha1/macaulay/moorland_chat_moocha1_136707521",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 96181,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136707521",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136707521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "moorland_chat_moocha1_136715701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941005/bird-gallery/moorland_chat_moocha1/macaulay/moorland_chat_moocha1_136715701.jpg",
+      "public_id": "bird-gallery/moorland_chat_moocha1/macaulay/moorland_chat_moocha1_136715701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79001,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136715701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136715701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "moorland_chat_moocha1_450853921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941006/bird-gallery/moorland_chat_moocha1/macaulay/moorland_chat_moocha1_450853921.jpg",
+      "public_id": "bird-gallery/moorland_chat_moocha1/macaulay/moorland_chat_moocha1_450853921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79665,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/450853921",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "450853921",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "moorland_chat_moocha1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941007/bird-gallery/moorland_chat_moocha1/inaturalist/moorland_chat_moocha1_1.jpg",
+      "public_id": "bird-gallery/moorland_chat_moocha1/inaturalist/moorland_chat_moocha1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 126365,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/255604300",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255604300,
+        "note": null
+      }
+    },
+    {
+      "original_file": "moorland_chat_moocha1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941008/bird-gallery/moorland_chat_moocha1/inaturalist/moorland_chat_moocha1_2.jpg",
+      "public_id": "bird-gallery/moorland_chat_moocha1/inaturalist/moorland_chat_moocha1_2",
+      "width": 756,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 59570,
+      "attribution": {
+        "photographer": "neomorphus",
+        "photographer_url": "https://www.inaturalist.org/observations/18358677",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© neomorphus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18358677,
+        "note": null
+      }
+    },
+    {
+      "original_file": "moorland_chat_moocha1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941009/bird-gallery/moorland_chat_moocha1/inaturalist/moorland_chat_moocha1_3.jpg",
+      "public_id": "bird-gallery/moorland_chat_moocha1/inaturalist/moorland_chat_moocha1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 143538,
+      "attribution": {
+        "photographer": "jared_lincenberg",
+        "photographer_url": "https://www.inaturalist.org/observations/183605827",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© jared_lincenberg (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 183605827,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_throated_bee_eater_wtbeat1",
+    "chinese_name": "白喉蜂虎",
+    "english_name": "White-throated Bee-eater",
+    "scientific_name": "Merops albicollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_throated_bee_eater_wtbeat1_164563161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941838/bird-gallery/white_throated_bee_eater_wtbeat1/macaulay/white_throated_bee_eater_wtbeat1_164563161.jpg",
+      "public_id": "bird-gallery/white_throated_bee_eater_wtbeat1/macaulay/white_throated_bee_eater_wtbeat1_164563161",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70826,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/164563161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "164563161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_throated_bee_eater_wtbeat1_170854001.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941839/bird-gallery/white_throated_bee_eater_wtbeat1/macaulay/white_throated_bee_eater_wtbeat1_170854001.jpg",
+      "public_id": "bird-gallery/white_throated_bee_eater_wtbeat1/macaulay/white_throated_bee_eater_wtbeat1_170854001",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 55538,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/170854001",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "170854001",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_throated_bee_eater_wtbeat1_173857071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941840/bird-gallery/white_throated_bee_eater_wtbeat1/macaulay/white_throated_bee_eater_wtbeat1_173857071.jpg",
+      "public_id": "bird-gallery/white_throated_bee_eater_wtbeat1/macaulay/white_throated_bee_eater_wtbeat1_173857071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 63781,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/173857071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "173857071",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_throated_bee_eater_wtbeat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941841/bird-gallery/white_throated_bee_eater_wtbeat1/inaturalist/white_throated_bee_eater_wtbeat1_1.jpg",
+      "public_id": "bird-gallery/white_throated_bee_eater_wtbeat1/inaturalist/white_throated_bee_eater_wtbeat1_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 84210,
+      "attribution": {
+        "photographer": "tobin_sparling",
+        "photographer_url": "https://www.inaturalist.org/observations/306730785",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tobin_sparling (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 306730785,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_throated_bee_eater_wtbeat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941842/bird-gallery/white_throated_bee_eater_wtbeat1/inaturalist/white_throated_bee_eater_wtbeat1_2.jpg",
+      "public_id": "bird-gallery/white_throated_bee_eater_wtbeat1/inaturalist/white_throated_bee_eater_wtbeat1_2",
+      "width": 677,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 46344,
+      "attribution": {
+        "photographer": "karimattouche",
+        "photographer_url": "https://www.inaturalist.org/observations/107881619",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© karimattouche (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 107881619,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_throated_bee_eater_wtbeat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941843/bird-gallery/white_throated_bee_eater_wtbeat1/inaturalist/white_throated_bee_eater_wtbeat1_3.jpg",
+      "public_id": "bird-gallery/white_throated_bee_eater_wtbeat1/inaturalist/white_throated_bee_eater_wtbeat1_3",
+      "width": 1024,
+      "height": 913,
+      "format": "jpg",
+      "bytes": 60971,
+      "attribution": {
+        "photographer": "photokeen",
+        "photographer_url": "https://www.inaturalist.org/observations/181251281",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© photokeen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 181251281,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

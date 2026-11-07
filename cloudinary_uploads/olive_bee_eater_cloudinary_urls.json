@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "olive_bee_eater",
+    "chinese_name": "马岛蜂虎",
+    "english_name": "Olive Bee-eater",
+    "scientific_name": "Merops superciliosus"
+  },
+  "macaulay": [
+    {
+      "original_file": "olive_bee_eater_32453791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944170/bird-gallery/olive_bee_eater/macaulay/olive_bee_eater_32453791.jpg",
+      "public_id": "bird-gallery/olive_bee_eater/macaulay/olive_bee_eater_32453791",
+      "width": 1000,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 60967,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32453791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32453791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_bee_eater_649168851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944171/bird-gallery/olive_bee_eater/macaulay/olive_bee_eater_649168851.jpg",
+      "public_id": "bird-gallery/olive_bee_eater/macaulay/olive_bee_eater_649168851",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 60809,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/649168851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "649168851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_bee_eater_649168865.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944172/bird-gallery/olive_bee_eater/macaulay/olive_bee_eater_649168865.jpg",
+      "public_id": "bird-gallery/olive_bee_eater/macaulay/olive_bee_eater_649168865",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 51453,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/649168865",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "649168865",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "olive_bee_eater_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944173/bird-gallery/olive_bee_eater/inaturalist/olive_bee_eater_1.jpg",
+      "public_id": "bird-gallery/olive_bee_eater/inaturalist/olive_bee_eater_1",
+      "width": 1024,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 80327,
+      "attribution": {
+        "photographer": "carmelo_lopez",
+        "photographer_url": "https://www.inaturalist.org/observations/9083977",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© carmelo_lopez (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9083977,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_bee_eater_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944174/bird-gallery/olive_bee_eater/inaturalist/olive_bee_eater_2.jpg",
+      "public_id": "bird-gallery/olive_bee_eater/inaturalist/olive_bee_eater_2",
+      "width": 800,
+      "height": 497,
+      "format": "jpg",
+      "bytes": 42834,
+      "attribution": {
+        "photographer": "quiltedquetzal",
+        "photographer_url": "https://www.inaturalist.org/observations/106150801",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© quiltedquetzal (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106150801,
+        "note": null
+      }
+    },
+    {
+      "original_file": "olive_bee_eater_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944175/bird-gallery/olive_bee_eater/inaturalist/olive_bee_eater_3.jpg",
+      "public_id": "bird-gallery/olive_bee_eater/inaturalist/olive_bee_eater_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 51401,
+      "attribution": {
+        "photographer": "subbi",
+        "photographer_url": "https://www.inaturalist.org/observations/162445778",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© subbi (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 162445778,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

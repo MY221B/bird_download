@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_fish_eagle_affeag1",
+    "chinese_name": "吼海雕",
+    "english_name": "African Fish-Eagle",
+    "scientific_name": "Icthyophaga vocifer"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_fish_eagle_affeag1_119684931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939162/bird-gallery/african_fish_eagle_affeag1/macaulay/african_fish_eagle_affeag1_119684931.jpg",
+      "public_id": "bird-gallery/african_fish_eagle_affeag1/macaulay/african_fish_eagle_affeag1_119684931",
+      "width": 1200,
+      "height": 689,
+      "format": "jpg",
+      "bytes": 23743,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/119684931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "119684931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_fish_eagle_affeag1_119684981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939162/bird-gallery/african_fish_eagle_affeag1/macaulay/african_fish_eagle_affeag1_119684981.jpg",
+      "public_id": "bird-gallery/african_fish_eagle_affeag1/macaulay/african_fish_eagle_affeag1_119684981",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 24874,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/119684981",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "119684981",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_fish_eagle_affeag1_204931321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939164/bird-gallery/african_fish_eagle_affeag1/macaulay/african_fish_eagle_affeag1_204931321.jpg",
+      "public_id": "bird-gallery/african_fish_eagle_affeag1/macaulay/african_fish_eagle_affeag1_204931321",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 66561,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204931321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204931321",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_fish_eagle_affeag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939165/bird-gallery/african_fish_eagle_affeag1/inaturalist/african_fish_eagle_affeag1_1.jpg",
+      "public_id": "bird-gallery/african_fish_eagle_affeag1/inaturalist/african_fish_eagle_affeag1_1",
+      "width": 772,
+      "height": 559,
+      "format": "jpg",
+      "bytes": 44847,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/9793606",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9793606,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_fish_eagle_affeag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939166/bird-gallery/african_fish_eagle_affeag1/inaturalist/african_fish_eagle_affeag1_2.jpg",
+      "public_id": "bird-gallery/african_fish_eagle_affeag1/inaturalist/african_fish_eagle_affeag1_2",
+      "width": 1024,
+      "height": 782,
+      "format": "jpg",
+      "bytes": 53878,
+      "attribution": {
+        "photographer": "richard_johnstone",
+        "photographer_url": "https://www.inaturalist.org/observations/176297978",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© richard_johnstone (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 176297978,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_fish_eagle_affeag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939166/bird-gallery/african_fish_eagle_affeag1/inaturalist/african_fish_eagle_affeag1_3.jpg",
+      "public_id": "bird-gallery/african_fish_eagle_affeag1/inaturalist/african_fish_eagle_affeag1_3",
+      "width": 1024,
+      "height": 575,
+      "format": "jpg",
+      "bytes": 52383,
+      "attribution": {
+        "photographer": "amatala",
+        "photographer_url": "https://www.inaturalist.org/observations/204979369",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© amatala (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 204979369,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "brown_hooded_kingfisher_brhkin1",
+    "chinese_name": "褐头翡翠",
+    "english_name": "Brown-hooded Kingfisher",
+    "scientific_name": "Halcyon albiventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_hooded_kingfisher_brhkin1_187302581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944160/bird-gallery/brown_hooded_kingfisher_brhkin1/macaulay/brown_hooded_kingfisher_brhkin1_187302581.jpg",
+      "public_id": "bird-gallery/brown_hooded_kingfisher_brhkin1/macaulay/brown_hooded_kingfisher_brhkin1_187302581",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 106259,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/187302581",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "187302581",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_hooded_kingfisher_brhkin1_204357511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944160/bird-gallery/brown_hooded_kingfisher_brhkin1/macaulay/brown_hooded_kingfisher_brhkin1_204357511.jpg",
+      "public_id": "bird-gallery/brown_hooded_kingfisher_brhkin1/macaulay/brown_hooded_kingfisher_brhkin1_204357511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77667,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204357511",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204357511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_hooded_kingfisher_brhkin1_540906261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944161/bird-gallery/brown_hooded_kingfisher_brhkin1/macaulay/brown_hooded_kingfisher_brhkin1_540906261.jpg",
+      "public_id": "bird-gallery/brown_hooded_kingfisher_brhkin1/macaulay/brown_hooded_kingfisher_brhkin1_540906261",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 128102,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/540906261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "540906261",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_hooded_kingfisher_brhkin1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944162/bird-gallery/brown_hooded_kingfisher_brhkin1/inaturalist/brown_hooded_kingfisher_brhkin1_1.jpg",
+      "public_id": "bird-gallery/brown_hooded_kingfisher_brhkin1/inaturalist/brown_hooded_kingfisher_brhkin1_1",
+      "width": 1024,
+      "height": 958,
+      "format": "jpg",
+      "bytes": 126117,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/30767310",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 30767310,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_hooded_kingfisher_brhkin1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944163/bird-gallery/brown_hooded_kingfisher_brhkin1/inaturalist/brown_hooded_kingfisher_brhkin1_2.jpg",
+      "public_id": "bird-gallery/brown_hooded_kingfisher_brhkin1/inaturalist/brown_hooded_kingfisher_brhkin1_2",
+      "width": 1024,
+      "height": 717,
+      "format": "jpg",
+      "bytes": 89398,
+      "attribution": {
+        "photographer": "gavinfalck",
+        "photographer_url": "https://www.inaturalist.org/observations/101747469",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gavinfalck (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 101747469,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_hooded_kingfisher_brhkin1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944164/bird-gallery/brown_hooded_kingfisher_brhkin1/inaturalist/brown_hooded_kingfisher_brhkin1_3.jpg",
+      "public_id": "bird-gallery/brown_hooded_kingfisher_brhkin1/inaturalist/brown_hooded_kingfisher_brhkin1_3",
+      "width": 707,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 46591,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/99674446",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 99674446,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

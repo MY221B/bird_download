@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "vieillots_black_weaver",
+    "chinese_name": "大黑织雀",
+    "english_name": "Vieillot's Black Weaver",
+    "scientific_name": "Ploceus nigerrimus"
+  },
+  "macaulay": [
+    {
+      "original_file": "vieillots_black_weaver_204489801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944809/bird-gallery/vieillots_black_weaver/macaulay/vieillots_black_weaver_204489801.jpg",
+      "public_id": "bird-gallery/vieillots_black_weaver/macaulay/vieillots_black_weaver_204489801",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104159,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204489801",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204489801",
+        "note": null
+      }
+    },
+    {
+      "original_file": "vieillots_black_weaver_204489811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944810/bird-gallery/vieillots_black_weaver/macaulay/vieillots_black_weaver_204489811.jpg",
+      "public_id": "bird-gallery/vieillots_black_weaver/macaulay/vieillots_black_weaver_204489811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 52453,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204489811",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204489811",
+        "note": null
+      }
+    },
+    {
+      "original_file": "vieillots_black_weaver_206441831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944811/bird-gallery/vieillots_black_weaver/macaulay/vieillots_black_weaver_206441831.jpg",
+      "public_id": "bird-gallery/vieillots_black_weaver/macaulay/vieillots_black_weaver_206441831",
+      "width": 1200,
+      "height": 782,
+      "format": "jpg",
+      "bytes": 94922,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206441831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206441831",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "vieillots_black_weaver_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944812/bird-gallery/vieillots_black_weaver/inaturalist/vieillots_black_weaver_1.jpg",
+      "public_id": "bird-gallery/vieillots_black_weaver/inaturalist/vieillots_black_weaver_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 99502,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/102708846",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 102708846,
+        "note": null
+      }
+    },
+    {
+      "original_file": "vieillots_black_weaver_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944813/bird-gallery/vieillots_black_weaver/inaturalist/vieillots_black_weaver_2.jpg",
+      "public_id": "bird-gallery/vieillots_black_weaver/inaturalist/vieillots_black_weaver_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 85253,
+      "attribution": {
+        "photographer": "jeanlouiscarlo",
+        "photographer_url": "https://www.inaturalist.org/observations/259730595",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jeanlouiscarlo (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 259730595,
+        "note": null
+      }
+    },
+    {
+      "original_file": "vieillots_black_weaver_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944815/bird-gallery/vieillots_black_weaver/inaturalist/vieillots_black_weaver_3.jpg",
+      "public_id": "bird-gallery/vieillots_black_weaver/inaturalist/vieillots_black_weaver_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 67316,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/20317437",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 20317437,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "hunters_sunbird_hunsun2",
+    "chinese_name": "亨氏花蜜鸟",
+    "english_name": "Hunter's Sunbird",
+    "scientific_name": "Chalcomitra hunteri"
+  },
+  "macaulay": [
+    {
+      "original_file": "hunters_sunbird_hunsun2_205961951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943949/bird-gallery/hunters_sunbird_hunsun2/macaulay/hunters_sunbird_hunsun2_205961951.jpg",
+      "public_id": "bird-gallery/hunters_sunbird_hunsun2/macaulay/hunters_sunbird_hunsun2_205961951",
+      "width": 1000,
+      "height": 625,
+      "format": "jpg",
+      "bytes": 48458,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205961951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205961951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hunters_sunbird_hunsun2_305073221.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943949/bird-gallery/hunters_sunbird_hunsun2/macaulay/hunters_sunbird_hunsun2_305073221.jpg",
+      "public_id": "bird-gallery/hunters_sunbird_hunsun2/macaulay/hunters_sunbird_hunsun2_305073221",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 61878,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/305073221",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "305073221",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hunters_sunbird_hunsun2_620957603.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943951/bird-gallery/hunters_sunbird_hunsun2/macaulay/hunters_sunbird_hunsun2_620957603.jpg",
+      "public_id": "bird-gallery/hunters_sunbird_hunsun2/macaulay/hunters_sunbird_hunsun2_620957603",
+      "width": 1191,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 145354,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/620957603",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "620957603",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hunters_sunbird_hunsun2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943952/bird-gallery/hunters_sunbird_hunsun2/inaturalist/hunters_sunbird_hunsun2_1.jpg",
+      "public_id": "bird-gallery/hunters_sunbird_hunsun2/inaturalist/hunters_sunbird_hunsun2_1",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 70592,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/143563940",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 143563940,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hunters_sunbird_hunsun2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943952/bird-gallery/hunters_sunbird_hunsun2/inaturalist/hunters_sunbird_hunsun2_2.jpg",
+      "public_id": "bird-gallery/hunters_sunbird_hunsun2/inaturalist/hunters_sunbird_hunsun2_2",
+      "width": 1024,
+      "height": 780,
+      "format": "jpg",
+      "bytes": 88814,
+      "attribution": {
+        "photographer": "sheridanc",
+        "photographer_url": "https://www.inaturalist.org/observations/372905730",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© sheridanc (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 372905730,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hunters_sunbird_hunsun2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943953/bird-gallery/hunters_sunbird_hunsun2/inaturalist/hunters_sunbird_hunsun2_3.jpg",
+      "public_id": "bird-gallery/hunters_sunbird_hunsun2/inaturalist/hunters_sunbird_hunsun2_3",
+      "width": 818,
+      "height": 1022,
+      "format": "jpg",
+      "bytes": 170627,
+      "attribution": {
+        "photographer": "garyleavens",
+        "photographer_url": "https://www.inaturalist.org/observations/207803500",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© garyleavens (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 207803500,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "cape_wagtail_capwag1",
+    "chinese_name": "海角鹡鸰",
+    "english_name": "Cape Wagtail",
+    "scientific_name": "Motacilla capensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "cape_wagtail_capwag1_166900821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940800/bird-gallery/cape_wagtail_capwag1/macaulay/cape_wagtail_capwag1_166900821.jpg",
+      "public_id": "bird-gallery/cape_wagtail_capwag1/macaulay/cape_wagtail_capwag1_166900821",
+      "width": 1200,
+      "height": 770,
+      "format": "jpg",
+      "bytes": 66430,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/166900821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "166900821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_wagtail_capwag1_87473661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940801/bird-gallery/cape_wagtail_capwag1/macaulay/cape_wagtail_capwag1_87473661.jpg",
+      "public_id": "bird-gallery/cape_wagtail_capwag1/macaulay/cape_wagtail_capwag1_87473661",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88499,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/87473661",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "87473661",
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_wagtail_capwag1_97645081.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940803/bird-gallery/cape_wagtail_capwag1/macaulay/cape_wagtail_capwag1_97645081.jpg",
+      "public_id": "bird-gallery/cape_wagtail_capwag1/macaulay/cape_wagtail_capwag1_97645081",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 84086,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/97645081",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "97645081",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "cape_wagtail_capwag1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940804/bird-gallery/cape_wagtail_capwag1/inaturalist/cape_wagtail_capwag1_1.jpg",
+      "public_id": "bird-gallery/cape_wagtail_capwag1/inaturalist/cape_wagtail_capwag1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 103036,
+      "attribution": {
+        "photographer": "jandutoit",
+        "photographer_url": "https://www.inaturalist.org/observations/127197633",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jandutoit (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 127197633,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_wagtail_capwag1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940804/bird-gallery/cape_wagtail_capwag1/inaturalist/cape_wagtail_capwag1_2.jpg",
+      "public_id": "bird-gallery/cape_wagtail_capwag1/inaturalist/cape_wagtail_capwag1_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 75312,
+      "attribution": {
+        "photographer": "suvarna",
+        "photographer_url": "https://www.inaturalist.org/observations/76950227",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© suvarna (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 76950227,
+        "note": null
+      }
+    },
+    {
+      "original_file": "cape_wagtail_capwag1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940805/bird-gallery/cape_wagtail_capwag1/inaturalist/cape_wagtail_capwag1_3.jpg",
+      "public_id": "bird-gallery/cape_wagtail_capwag1/inaturalist/cape_wagtail_capwag1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 82720,
+      "attribution": {
+        "photographer": "hirons",
+        "photographer_url": "https://www.inaturalist.org/observations/234103824",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hirons (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 234103824,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

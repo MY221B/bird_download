@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "dusky_tit",
+    "chinese_name": "暗色山雀",
+    "english_name": "Dusky Tit",
+    "scientific_name": "Melaniparus funereus"
+  },
+  "macaulay": [
+    {
+      "original_file": "dusky_tit_205993101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944568/bird-gallery/dusky_tit/macaulay/dusky_tit_205993101.jpg",
+      "public_id": "bird-gallery/dusky_tit/macaulay/dusky_tit_205993101",
+      "width": 1000,
+      "height": 669,
+      "format": "jpg",
+      "bytes": 97851,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205993101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205993101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_tit_205993111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944569/bird-gallery/dusky_tit/macaulay/dusky_tit_205993111.jpg",
+      "public_id": "bird-gallery/dusky_tit/macaulay/dusky_tit_205993111",
+      "width": 999,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 71756,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205993111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205993111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_tit_302800191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944571/bird-gallery/dusky_tit/macaulay/dusky_tit_302800191.jpg",
+      "public_id": "bird-gallery/dusky_tit/macaulay/dusky_tit_302800191",
+      "width": 1000,
+      "height": 744,
+      "format": "jpg",
+      "bytes": 89666,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/302800191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "302800191",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dusky_tit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944572/bird-gallery/dusky_tit/inaturalist/dusky_tit_1.jpg",
+      "public_id": "bird-gallery/dusky_tit/inaturalist/dusky_tit_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 68788,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/30051224",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 30051224,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_tit_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944572/bird-gallery/dusky_tit/inaturalist/dusky_tit_2.jpg",
+      "public_id": "bird-gallery/dusky_tit/inaturalist/dusky_tit_2",
+      "width": 1024,
+      "height": 577,
+      "format": "jpg",
+      "bytes": 82667,
+      "attribution": {
+        "photographer": "koenbetjes",
+        "photographer_url": "https://www.inaturalist.org/observations/411316594",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© koenbetjes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 411316594,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_tit_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944573/bird-gallery/dusky_tit/inaturalist/dusky_tit_3.jpg",
+      "public_id": "bird-gallery/dusky_tit/inaturalist/dusky_tit_3",
+      "width": 1024,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 79566,
+      "attribution": {
+        "photographer": "leekelai",
+        "photographer_url": "https://www.inaturalist.org/observations/332559430",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© leekelai (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 332559430,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

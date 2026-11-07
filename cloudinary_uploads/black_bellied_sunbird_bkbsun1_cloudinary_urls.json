@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "black_bellied_sunbird_bkbsun1",
+    "chinese_name": "小黑腹花蜜鸟",
+    "english_name": "Black-bellied Sunbird",
+    "scientific_name": "Cinnyris nectarinioides"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_bellied_sunbird_bkbsun1_222476211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943859/bird-gallery/black_bellied_sunbird_bkbsun1/macaulay/black_bellied_sunbird_bkbsun1_222476211.jpg",
+      "public_id": "bird-gallery/black_bellied_sunbird_bkbsun1/macaulay/black_bellied_sunbird_bkbsun1_222476211",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 89562,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/222476211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "222476211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_bellied_sunbird_bkbsun1_296068301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943860/bird-gallery/black_bellied_sunbird_bkbsun1/macaulay/black_bellied_sunbird_bkbsun1_296068301.jpg",
+      "public_id": "bird-gallery/black_bellied_sunbird_bkbsun1/macaulay/black_bellied_sunbird_bkbsun1_296068301",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58360,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/296068301",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "296068301",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_bellied_sunbird_bkbsun1_551447281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943861/bird-gallery/black_bellied_sunbird_bkbsun1/macaulay/black_bellied_sunbird_bkbsun1_551447281.jpg",
+      "public_id": "bird-gallery/black_bellied_sunbird_bkbsun1/macaulay/black_bellied_sunbird_bkbsun1_551447281",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93019,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/551447281",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "551447281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_bellied_sunbird_bkbsun1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943862/bird-gallery/black_bellied_sunbird_bkbsun1/inaturalist/black_bellied_sunbird_bkbsun1_1.jpg",
+      "public_id": "bird-gallery/black_bellied_sunbird_bkbsun1/inaturalist/black_bellied_sunbird_bkbsun1_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 52146,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/47755111",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 47755111,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_bellied_sunbird_bkbsun1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943863/bird-gallery/black_bellied_sunbird_bkbsun1/inaturalist/black_bellied_sunbird_bkbsun1_2.jpg",
+      "public_id": "bird-gallery/black_bellied_sunbird_bkbsun1/inaturalist/black_bellied_sunbird_bkbsun1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 70610,
+      "attribution": {
+        "photographer": "joni_overbosch",
+        "photographer_url": "https://www.inaturalist.org/observations/34238706",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joni_overbosch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34238706,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

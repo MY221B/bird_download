@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "trumpeter_hornbill_truhor1",
+    "chinese_name": "噪犀鸟",
+    "english_name": "Trumpeter Hornbill",
+    "scientific_name": "Bycanistes bucinator"
+  },
+  "macaulay": [
+    {
+      "original_file": "trumpeter_hornbill_truhor1_204758961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945410/bird-gallery/trumpeter_hornbill_truhor1/macaulay/trumpeter_hornbill_truhor1_204758961.jpg",
+      "public_id": "bird-gallery/trumpeter_hornbill_truhor1/macaulay/trumpeter_hornbill_truhor1_204758961",
+      "width": 563,
+      "height": 830,
+      "format": "jpg",
+      "bytes": 92954,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204758961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204758961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "trumpeter_hornbill_truhor1_205478881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945411/bird-gallery/trumpeter_hornbill_truhor1/macaulay/trumpeter_hornbill_truhor1_205478881.jpg",
+      "public_id": "bird-gallery/trumpeter_hornbill_truhor1/macaulay/trumpeter_hornbill_truhor1_205478881",
+      "width": 500,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 49798,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205478881",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205478881",
+        "note": null
+      }
+    },
+    {
+      "original_file": "trumpeter_hornbill_truhor1_84855131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945412/bird-gallery/trumpeter_hornbill_truhor1/macaulay/trumpeter_hornbill_truhor1_84855131.jpg",
+      "public_id": "bird-gallery/trumpeter_hornbill_truhor1/macaulay/trumpeter_hornbill_truhor1_84855131",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 164796,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/84855131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "84855131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "trumpeter_hornbill_truhor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945414/bird-gallery/trumpeter_hornbill_truhor1/inaturalist/trumpeter_hornbill_truhor1_2.jpg",
+      "public_id": "bird-gallery/trumpeter_hornbill_truhor1/inaturalist/trumpeter_hornbill_truhor1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 118149,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/70835490",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 70835490,
+        "note": null
+      }
+    },
+    {
+      "original_file": "trumpeter_hornbill_truhor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945415/bird-gallery/trumpeter_hornbill_truhor1/inaturalist/trumpeter_hornbill_truhor1_3.jpg",
+      "public_id": "bird-gallery/trumpeter_hornbill_truhor1/inaturalist/trumpeter_hornbill_truhor1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 104434,
+      "attribution": {
+        "photographer": "monica_ndlovu",
+        "photographer_url": "https://www.inaturalist.org/observations/341663596",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© monica_ndlovu (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 341663596,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

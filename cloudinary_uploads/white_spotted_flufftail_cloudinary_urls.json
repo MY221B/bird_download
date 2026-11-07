@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "white_spotted_flufftail",
+    "chinese_name": "白点侏秧鸡",
+    "english_name": "White-spotted Flufftail",
+    "scientific_name": "Sarothrura pulchra"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_spotted_flufftail_147418101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944858/bird-gallery/white_spotted_flufftail/macaulay/white_spotted_flufftail_147418101.jpg",
+      "public_id": "bird-gallery/white_spotted_flufftail/macaulay/white_spotted_flufftail_147418101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 105906,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/147418101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "147418101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_spotted_flufftail_147418151.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944859/bird-gallery/white_spotted_flufftail/macaulay/white_spotted_flufftail_147418151.jpg",
+      "public_id": "bird-gallery/white_spotted_flufftail/macaulay/white_spotted_flufftail_147418151",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98310,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/147418151",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "147418151",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_spotted_flufftail_638488928.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944860/bird-gallery/white_spotted_flufftail/macaulay/white_spotted_flufftail_638488928.jpg",
+      "public_id": "bird-gallery/white_spotted_flufftail/macaulay/white_spotted_flufftail_638488928",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 94444,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/638488928",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "638488928",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_spotted_flufftail_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944861/bird-gallery/white_spotted_flufftail/inaturalist/white_spotted_flufftail_1.jpg",
+      "public_id": "bird-gallery/white_spotted_flufftail/inaturalist/white_spotted_flufftail_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 88694,
+      "attribution": {
+        "photographer": "damien-martin",
+        "photographer_url": "https://www.inaturalist.org/observations/190560163",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© damien-martin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 190560163,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_spotted_flufftail_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944862/bird-gallery/white_spotted_flufftail/inaturalist/white_spotted_flufftail_2.jpg",
+      "public_id": "bird-gallery/white_spotted_flufftail/inaturalist/white_spotted_flufftail_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 101137,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/102671697",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 102671697,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "brown_backed_woodpecker_brbwoo1",
+    "chinese_name": "褐背啄木鸟",
+    "english_name": "Brown-backed Woodpecker",
+    "scientific_name": "Dendropicos obsoletus"
+  },
+  "macaulay": [
+    {
+      "original_file": "brown_backed_woodpecker_brbwoo1_34151771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939447/bird-gallery/brown_backed_woodpecker_brbwoo1/macaulay/brown_backed_woodpecker_brbwoo1_34151771.jpg",
+      "public_id": "bird-gallery/brown_backed_woodpecker_brbwoo1/macaulay/brown_backed_woodpecker_brbwoo1_34151771",
+      "width": 983,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 125703,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/34151771",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "34151771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_backed_woodpecker_brbwoo1_512422371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939448/bird-gallery/brown_backed_woodpecker_brbwoo1/macaulay/brown_backed_woodpecker_brbwoo1_512422371.jpg",
+      "public_id": "bird-gallery/brown_backed_woodpecker_brbwoo1/macaulay/brown_backed_woodpecker_brbwoo1_512422371",
+      "width": 960,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 159035,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/512422371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "512422371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_backed_woodpecker_brbwoo1_665948660.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939449/bird-gallery/brown_backed_woodpecker_brbwoo1/macaulay/brown_backed_woodpecker_brbwoo1_665948660.jpg",
+      "public_id": "bird-gallery/brown_backed_woodpecker_brbwoo1/macaulay/brown_backed_woodpecker_brbwoo1_665948660",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 162375,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665948660",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665948660",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brown_backed_woodpecker_brbwoo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939450/bird-gallery/brown_backed_woodpecker_brbwoo1/inaturalist/brown_backed_woodpecker_brbwoo1_1.jpg",
+      "public_id": "bird-gallery/brown_backed_woodpecker_brbwoo1/inaturalist/brown_backed_woodpecker_brbwoo1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 94731,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/137454019",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 137454019,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brown_backed_woodpecker_brbwoo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939451/bird-gallery/brown_backed_woodpecker_brbwoo1/inaturalist/brown_backed_woodpecker_brbwoo1_2.jpg",
+      "public_id": "bird-gallery/brown_backed_woodpecker_brbwoo1/inaturalist/brown_backed_woodpecker_brbwoo1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 44999,
+      "attribution": {
+        "photographer": "maximion",
+        "photographer_url": "https://www.inaturalist.org/observations/338211437",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maximion (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 338211437,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

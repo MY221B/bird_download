@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "african_gray_flycatcher_afgfly1",
+    "chinese_name": "非洲灰鹟",
+    "english_name": "African Gray Flycatcher",
+    "scientific_name": "Bradornis microrhynchus"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_gray_flycatcher_afgfly1_115116251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939174/bird-gallery/african_gray_flycatcher_afgfly1/macaulay/african_gray_flycatcher_afgfly1_115116251.jpg",
+      "public_id": "bird-gallery/african_gray_flycatcher_afgfly1/macaulay/african_gray_flycatcher_afgfly1_115116251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69641,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/115116251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "115116251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_flycatcher_afgfly1_115116591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939175/bird-gallery/african_gray_flycatcher_afgfly1/macaulay/african_gray_flycatcher_afgfly1_115116591.jpg",
+      "public_id": "bird-gallery/african_gray_flycatcher_afgfly1/macaulay/african_gray_flycatcher_afgfly1_115116591",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58405,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/115116591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "115116591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_flycatcher_afgfly1_617287024.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939176/bird-gallery/african_gray_flycatcher_afgfly1/macaulay/african_gray_flycatcher_afgfly1_617287024.jpg",
+      "public_id": "bird-gallery/african_gray_flycatcher_afgfly1/macaulay/african_gray_flycatcher_afgfly1_617287024",
+      "width": 1200,
+      "height": 799,
+      "format": "jpg",
+      "bytes": 69934,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/617287024",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "617287024",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_gray_flycatcher_afgfly1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939177/bird-gallery/african_gray_flycatcher_afgfly1/inaturalist/african_gray_flycatcher_afgfly1_1.jpg",
+      "public_id": "bird-gallery/african_gray_flycatcher_afgfly1/inaturalist/african_gray_flycatcher_afgfly1_1",
+      "width": 1024,
+      "height": 919,
+      "format": "jpg",
+      "bytes": 68982,
+      "attribution": {
+        "photographer": "neomorphus",
+        "photographer_url": "https://www.inaturalist.org/observations/18554618",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© neomorphus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18554618,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_flycatcher_afgfly1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939178/bird-gallery/african_gray_flycatcher_afgfly1/inaturalist/african_gray_flycatcher_afgfly1_3.jpg",
+      "public_id": "bird-gallery/african_gray_flycatcher_afgfly1/inaturalist/african_gray_flycatcher_afgfly1_3",
+      "width": 1024,
+      "height": 718,
+      "format": "jpg",
+      "bytes": 81104,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192090924",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192090924,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

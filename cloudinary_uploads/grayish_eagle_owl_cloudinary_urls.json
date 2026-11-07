@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "grayish_eagle_owl",
+    "chinese_name": "灰雕鸮",
+    "english_name": "Grayish Eagle-Owl",
+    "scientific_name": "Bubo cinerascens"
+  },
+  "macaulay": [
+    {
+      "original_file": "grayish_eagle_owl_205488331.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941926/bird-gallery/grayish_eagle_owl/macaulay/grayish_eagle_owl_205488331.jpg",
+      "public_id": "bird-gallery/grayish_eagle_owl/macaulay/grayish_eagle_owl_205488331",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 59680,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205488331",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205488331",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grayish_eagle_owl_399340091.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941927/bird-gallery/grayish_eagle_owl/macaulay/grayish_eagle_owl_399340091.jpg",
+      "public_id": "bird-gallery/grayish_eagle_owl/macaulay/grayish_eagle_owl_399340091",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109488,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/399340091",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "399340091",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grayish_eagle_owl_441203351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941928/bird-gallery/grayish_eagle_owl/macaulay/grayish_eagle_owl_441203351.jpg",
+      "public_id": "bird-gallery/grayish_eagle_owl/macaulay/grayish_eagle_owl_441203351",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 126397,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/441203351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "441203351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grayish_eagle_owl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941929/bird-gallery/grayish_eagle_owl/inaturalist/grayish_eagle_owl_1.jpg",
+      "public_id": "bird-gallery/grayish_eagle_owl/inaturalist/grayish_eagle_owl_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 49937,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/202851941",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 202851941,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grayish_eagle_owl_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941930/bird-gallery/grayish_eagle_owl/inaturalist/grayish_eagle_owl_2.jpg",
+      "public_id": "bird-gallery/grayish_eagle_owl/inaturalist/grayish_eagle_owl_2",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 171825,
+      "attribution": {
+        "photographer": "itay_berger",
+        "photographer_url": "https://www.inaturalist.org/observations/202514679",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© itay_berger (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 202514679,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grayish_eagle_owl_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941931/bird-gallery/grayish_eagle_owl/inaturalist/grayish_eagle_owl_3.jpg",
+      "public_id": "bird-gallery/grayish_eagle_owl/inaturalist/grayish_eagle_owl_3",
+      "width": 946,
+      "height": 631,
+      "format": "jpg",
+      "bytes": 80190,
+      "attribution": {
+        "photographer": "congonaturalist",
+        "photographer_url": "https://www.inaturalist.org/observations/105229855",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© congonaturalist (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105229855,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

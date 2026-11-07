@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "beautiful_sunbird_beasun2",
+    "chinese_name": "丽色花蜜鸟",
+    "english_name": "Beautiful Sunbird",
+    "scientific_name": "Cinnyris pulchellus"
+  },
+  "macaulay": [
+    {
+      "original_file": "beautiful_sunbird_beasun2_111326441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941781/bird-gallery/beautiful_sunbird_beasun2/macaulay/beautiful_sunbird_beasun2_111326441.jpg",
+      "public_id": "bird-gallery/beautiful_sunbird_beasun2/macaulay/beautiful_sunbird_beasun2_111326441",
+      "width": 1200,
+      "height": 695,
+      "format": "jpg",
+      "bytes": 56616,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/111326441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "111326441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "beautiful_sunbird_beasun2_161469821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941782/bird-gallery/beautiful_sunbird_beasun2/macaulay/beautiful_sunbird_beasun2_161469821.jpg",
+      "public_id": "bird-gallery/beautiful_sunbird_beasun2/macaulay/beautiful_sunbird_beasun2_161469821",
+      "width": 1200,
+      "height": 647,
+      "format": "jpg",
+      "bytes": 51264,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/161469821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "161469821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "beautiful_sunbird_beasun2_161469851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941783/bird-gallery/beautiful_sunbird_beasun2/macaulay/beautiful_sunbird_beasun2_161469851.jpg",
+      "public_id": "bird-gallery/beautiful_sunbird_beasun2/macaulay/beautiful_sunbird_beasun2_161469851",
+      "width": 1200,
+      "height": 614,
+      "format": "jpg",
+      "bytes": 48105,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/161469851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "161469851",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "beautiful_sunbird_beasun2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941784/bird-gallery/beautiful_sunbird_beasun2/inaturalist/beautiful_sunbird_beasun2_1.jpg",
+      "public_id": "bird-gallery/beautiful_sunbird_beasun2/inaturalist/beautiful_sunbird_beasun2_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 68732,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/51915560",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 51915560,
+        "note": null
+      }
+    },
+    {
+      "original_file": "beautiful_sunbird_beasun2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941785/bird-gallery/beautiful_sunbird_beasun2/inaturalist/beautiful_sunbird_beasun2_2.jpg",
+      "public_id": "bird-gallery/beautiful_sunbird_beasun2/inaturalist/beautiful_sunbird_beasun2_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 49243,
+      "attribution": {
+        "photographer": "fabien_anthelme",
+        "photographer_url": "https://www.inaturalist.org/observations/98175029",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© fabien_anthelme (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 98175029,
+        "note": null
+      }
+    },
+    {
+      "original_file": "beautiful_sunbird_beasun2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941785/bird-gallery/beautiful_sunbird_beasun2/inaturalist/beautiful_sunbird_beasun2_3.jpg",
+      "public_id": "bird-gallery/beautiful_sunbird_beasun2/inaturalist/beautiful_sunbird_beasun2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 61791,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/314826296",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 314826296,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

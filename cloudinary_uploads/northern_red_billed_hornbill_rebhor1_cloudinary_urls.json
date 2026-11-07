@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_red_billed_hornbill_rebhor1",
+    "chinese_name": "红嘴弯嘴犀鸟",
+    "english_name": "Northern Red-billed Hornbill",
+    "scientific_name": "Tockus erythrorhynchus"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_red_billed_hornbill_rebhor1_146926031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941700/bird-gallery/northern_red_billed_hornbill_rebhor1/macaulay/northern_red_billed_hornbill_rebhor1_146926031.jpg",
+      "public_id": "bird-gallery/northern_red_billed_hornbill_rebhor1/macaulay/northern_red_billed_hornbill_rebhor1_146926031",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69718,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/146926031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "146926031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_red_billed_hornbill_rebhor1_204470651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941701/bird-gallery/northern_red_billed_hornbill_rebhor1/macaulay/northern_red_billed_hornbill_rebhor1_204470651.jpg",
+      "public_id": "bird-gallery/northern_red_billed_hornbill_rebhor1/macaulay/northern_red_billed_hornbill_rebhor1_204470651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 110692,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204470651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204470651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_red_billed_hornbill_rebhor1_628305368.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941702/bird-gallery/northern_red_billed_hornbill_rebhor1/macaulay/northern_red_billed_hornbill_rebhor1_628305368.jpg",
+      "public_id": "bird-gallery/northern_red_billed_hornbill_rebhor1/macaulay/northern_red_billed_hornbill_rebhor1_628305368",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 48918,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628305368",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628305368",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_red_billed_hornbill_rebhor1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941703/bird-gallery/northern_red_billed_hornbill_rebhor1/inaturalist/northern_red_billed_hornbill_rebhor1_1.jpg",
+      "public_id": "bird-gallery/northern_red_billed_hornbill_rebhor1/inaturalist/northern_red_billed_hornbill_rebhor1_1",
+      "width": 1024,
+      "height": 765,
+      "format": "jpg",
+      "bytes": 188731,
+      "attribution": {
+        "photographer": "k_mcqualter",
+        "photographer_url": "https://www.inaturalist.org/observations/57663331",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© k_mcqualter (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 57663331,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_red_billed_hornbill_rebhor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941704/bird-gallery/northern_red_billed_hornbill_rebhor1/inaturalist/northern_red_billed_hornbill_rebhor1_2.jpg",
+      "public_id": "bird-gallery/northern_red_billed_hornbill_rebhor1/inaturalist/northern_red_billed_hornbill_rebhor1_2",
+      "width": 1024,
+      "height": 959,
+      "format": "jpg",
+      "bytes": 46594,
+      "attribution": {
+        "photographer": "oebenin",
+        "photographer_url": "https://www.inaturalist.org/observations/69558364",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© oebenin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69558364,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_red_billed_hornbill_rebhor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941705/bird-gallery/northern_red_billed_hornbill_rebhor1/inaturalist/northern_red_billed_hornbill_rebhor1_3.jpg",
+      "public_id": "bird-gallery/northern_red_billed_hornbill_rebhor1/inaturalist/northern_red_billed_hornbill_rebhor1_3",
+      "width": 1024,
+      "height": 759,
+      "format": "jpg",
+      "bytes": 140759,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/100020595",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100020595,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "winding_cisticola_wincis3",
+    "chinese_name": "号声扇尾莺",
+    "english_name": "Winding Cisticola",
+    "scientific_name": "Cisticola marginatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "winding_cisticola_wincis3_133087731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940647/bird-gallery/winding_cisticola_wincis3/macaulay/winding_cisticola_wincis3_133087731.jpg",
+      "public_id": "bird-gallery/winding_cisticola_wincis3/macaulay/winding_cisticola_wincis3_133087731",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 101445,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/133087731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "133087731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "winding_cisticola_wincis3_470217411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940648/bird-gallery/winding_cisticola_wincis3/macaulay/winding_cisticola_wincis3_470217411.jpg",
+      "public_id": "bird-gallery/winding_cisticola_wincis3/macaulay/winding_cisticola_wincis3_470217411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62001,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/470217411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "470217411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "winding_cisticola_wincis3_535874701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940649/bird-gallery/winding_cisticola_wincis3/macaulay/winding_cisticola_wincis3_535874701.jpg",
+      "public_id": "bird-gallery/winding_cisticola_wincis3/macaulay/winding_cisticola_wincis3_535874701",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 69468,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/535874701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "535874701",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "winding_cisticola_wincis3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940650/bird-gallery/winding_cisticola_wincis3/inaturalist/winding_cisticola_wincis3_1.jpg",
+      "public_id": "bird-gallery/winding_cisticola_wincis3/inaturalist/winding_cisticola_wincis3_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66034,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/254741730",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 254741730,
+        "note": null
+      }
+    },
+    {
+      "original_file": "winding_cisticola_wincis3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940651/bird-gallery/winding_cisticola_wincis3/inaturalist/winding_cisticola_wincis3_2.jpg",
+      "public_id": "bird-gallery/winding_cisticola_wincis3/inaturalist/winding_cisticola_wincis3_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 143575,
+      "attribution": {
+        "photographer": "diegocarau",
+        "photographer_url": "https://www.inaturalist.org/observations/17937961",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© diegocarau (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 17937961,
+        "note": null
+      }
+    },
+    {
+      "original_file": "winding_cisticola_wincis3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940652/bird-gallery/winding_cisticola_wincis3/inaturalist/winding_cisticola_wincis3_3.jpg",
+      "public_id": "bird-gallery/winding_cisticola_wincis3/inaturalist/winding_cisticola_wincis3_3",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 128690,
+      "attribution": {
+        "photographer": "davidbygott",
+        "photographer_url": "https://www.inaturalist.org/observations/17224319",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© davidbygott (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 17224319,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

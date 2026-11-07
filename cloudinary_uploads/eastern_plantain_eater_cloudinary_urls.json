@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "eastern_plantain_eater",
+    "chinese_name": "东非灰蕉鹃",
+    "english_name": "Eastern Plantain-eater",
+    "scientific_name": "Crinifer zonurus"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_plantain_eater_121444731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945062/bird-gallery/eastern_plantain_eater/macaulay/eastern_plantain_eater_121444731.jpg",
+      "public_id": "bird-gallery/eastern_plantain_eater/macaulay/eastern_plantain_eater_121444731",
+      "width": 1200,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 28608,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/121444731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "121444731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_plantain_eater_619772942.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945063/bird-gallery/eastern_plantain_eater/macaulay/eastern_plantain_eater_619772942.jpg",
+      "public_id": "bird-gallery/eastern_plantain_eater/macaulay/eastern_plantain_eater_619772942",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 153045,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/619772942",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "619772942",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_plantain_eater_631514699.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945064/bird-gallery/eastern_plantain_eater/macaulay/eastern_plantain_eater_631514699.jpg",
+      "public_id": "bird-gallery/eastern_plantain_eater/macaulay/eastern_plantain_eater_631514699",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 158280,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/631514699",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "631514699",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eastern_plantain_eater_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945065/bird-gallery/eastern_plantain_eater/inaturalist/eastern_plantain_eater_1.jpg",
+      "public_id": "bird-gallery/eastern_plantain_eater/inaturalist/eastern_plantain_eater_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 58635,
+      "attribution": {
+        "photographer": "projectseawolf_sv",
+        "photographer_url": "https://www.inaturalist.org/observations/172620043",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© projectseawolf_sv (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 172620043,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_plantain_eater_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945066/bird-gallery/eastern_plantain_eater/inaturalist/eastern_plantain_eater_2.jpg",
+      "public_id": "bird-gallery/eastern_plantain_eater/inaturalist/eastern_plantain_eater_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 193399,
+      "attribution": {
+        "photographer": "ashley_bradford",
+        "photographer_url": "https://www.inaturalist.org/observations/259948340",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ashley_bradford (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 259948340,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_plantain_eater_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945067/bird-gallery/eastern_plantain_eater/inaturalist/eastern_plantain_eater_3.jpg",
+      "public_id": "bird-gallery/eastern_plantain_eater/inaturalist/eastern_plantain_eater_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76001,
+      "attribution": {
+        "photographer": "kevinemetcalf",
+        "photographer_url": "https://www.inaturalist.org/observations/105443121",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kevinemetcalf (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105443121,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

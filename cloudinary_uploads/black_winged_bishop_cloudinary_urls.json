@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "black_winged_bishop",
+    "chinese_name": "黑翅巧织雀",
+    "english_name": "Black-winged Bishop",
+    "scientific_name": "Euplectes hordeaceus"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_winged_bishop_363208191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945188/bird-gallery/black_winged_bishop/macaulay/black_winged_bishop_363208191.jpg",
+      "public_id": "bird-gallery/black_winged_bishop/macaulay/black_winged_bishop_363208191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83117,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/363208191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "363208191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_winged_bishop_363208321.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945189/bird-gallery/black_winged_bishop/macaulay/black_winged_bishop_363208321.jpg",
+      "public_id": "bird-gallery/black_winged_bishop/macaulay/black_winged_bishop_363208321",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70509,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/363208321",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "363208321",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_winged_bishop_363218821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945190/bird-gallery/black_winged_bishop/macaulay/black_winged_bishop_363218821.jpg",
+      "public_id": "bird-gallery/black_winged_bishop/macaulay/black_winged_bishop_363218821",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62643,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/363218821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "363218821",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_winged_bishop_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945191/bird-gallery/black_winged_bishop/inaturalist/black_winged_bishop_2.jpg",
+      "public_id": "bird-gallery/black_winged_bishop/inaturalist/black_winged_bishop_2",
+      "width": 812,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 75557,
+      "attribution": {
+        "photographer": "drmckenzie",
+        "photographer_url": "https://www.inaturalist.org/observations/205360379",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© drmckenzie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 205360379,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

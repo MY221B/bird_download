@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "shelleys_starling",
+    "chinese_name": "雪莱丽椋鸟",
+    "english_name": "Shelley's Starling",
+    "scientific_name": "Lamprotornis shelleyi"
+  },
+  "macaulay": [
+    {
+      "original_file": "shelleys_starling_117237191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944184/bird-gallery/shelleys_starling/macaulay/shelleys_starling_117237191.jpg",
+      "public_id": "bird-gallery/shelleys_starling/macaulay/shelleys_starling_117237191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 23321,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117237191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117237191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_starling_117241941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944185/bird-gallery/shelleys_starling/macaulay/shelleys_starling_117241941.jpg",
+      "public_id": "bird-gallery/shelleys_starling/macaulay/shelleys_starling_117241941",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 27967,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/117241941",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "117241941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_starling_628877293.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944185/bird-gallery/shelleys_starling/macaulay/shelleys_starling_628877293.jpg",
+      "public_id": "bird-gallery/shelleys_starling/macaulay/shelleys_starling_628877293",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 65322,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628877293",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628877293",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "shelleys_starling_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944186/bird-gallery/shelleys_starling/inaturalist/shelleys_starling_1.jpg",
+      "public_id": "bird-gallery/shelleys_starling/inaturalist/shelleys_starling_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 87519,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/93181825",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 93181825,
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_starling_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944187/bird-gallery/shelleys_starling/inaturalist/shelleys_starling_2.jpg",
+      "public_id": "bird-gallery/shelleys_starling/inaturalist/shelleys_starling_2",
+      "width": 1024,
+      "height": 775,
+      "format": "jpg",
+      "bytes": 38960,
+      "attribution": {
+        "photographer": "langli",
+        "photographer_url": "https://www.inaturalist.org/observations/352269779",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© langli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 352269779,
+        "note": null
+      }
+    },
+    {
+      "original_file": "shelleys_starling_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944188/bird-gallery/shelleys_starling/inaturalist/shelleys_starling_3.jpg",
+      "public_id": "bird-gallery/shelleys_starling/inaturalist/shelleys_starling_3",
+      "width": 1024,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 77219,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/347475955",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 347475955,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

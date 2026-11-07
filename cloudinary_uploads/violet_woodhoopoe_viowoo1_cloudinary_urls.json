@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "violet_woodhoopoe_viowoo1",
+    "chinese_name": "紫林戴胜",
+    "english_name": "Violet Woodhoopoe",
+    "scientific_name": "Phoeniculus damarensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "violet_woodhoopoe_viowoo1_569729931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940470/bird-gallery/violet_woodhoopoe_viowoo1/macaulay/violet_woodhoopoe_viowoo1_569729931.jpg",
+      "public_id": "bird-gallery/violet_woodhoopoe_viowoo1/macaulay/violet_woodhoopoe_viowoo1_569729931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 122212,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/569729931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "569729931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "violet_woodhoopoe_viowoo1_662950604.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940471/bird-gallery/violet_woodhoopoe_viowoo1/macaulay/violet_woodhoopoe_viowoo1_662950604.jpg",
+      "public_id": "bird-gallery/violet_woodhoopoe_viowoo1/macaulay/violet_woodhoopoe_viowoo1_662950604",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 126902,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/662950604",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "662950604",
+        "note": null
+      }
+    },
+    {
+      "original_file": "violet_woodhoopoe_viowoo1_706444.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940472/bird-gallery/violet_woodhoopoe_viowoo1/macaulay/violet_woodhoopoe_viowoo1_706444.jpg",
+      "public_id": "bird-gallery/violet_woodhoopoe_viowoo1/macaulay/violet_woodhoopoe_viowoo1_706444",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 144323,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/706444",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "706444",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "violet_woodhoopoe_viowoo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940473/bird-gallery/violet_woodhoopoe_viowoo1/inaturalist/violet_woodhoopoe_viowoo1_1.jpg",
+      "public_id": "bird-gallery/violet_woodhoopoe_viowoo1/inaturalist/violet_woodhoopoe_viowoo1_1",
+      "width": 1024,
+      "height": 758,
+      "format": "jpg",
+      "bytes": 81150,
+      "attribution": {
+        "photographer": "vaughanjessnitz",
+        "photographer_url": "https://www.inaturalist.org/observations/193371728",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© vaughanjessnitz (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 193371728,
+        "note": null
+      }
+    },
+    {
+      "original_file": "violet_woodhoopoe_viowoo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940474/bird-gallery/violet_woodhoopoe_viowoo1/inaturalist/violet_woodhoopoe_viowoo1_2.jpg",
+      "public_id": "bird-gallery/violet_woodhoopoe_viowoo1/inaturalist/violet_woodhoopoe_viowoo1_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 78030,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/189821231",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 189821231,
+        "note": null
+      }
+    },
+    {
+      "original_file": "violet_woodhoopoe_viowoo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940475/bird-gallery/violet_woodhoopoe_viowoo1/inaturalist/violet_woodhoopoe_viowoo1_3.jpg",
+      "public_id": "bird-gallery/violet_woodhoopoe_viowoo1/inaturalist/violet_woodhoopoe_viowoo1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72552,
+      "attribution": {
+        "photographer": "kikojanneman",
+        "photographer_url": "https://www.inaturalist.org/observations/22366684",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kikojanneman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 22366684,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

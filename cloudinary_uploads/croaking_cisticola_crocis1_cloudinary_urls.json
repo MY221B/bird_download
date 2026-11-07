@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "croaking_cisticola_crocis1",
+    "chinese_name": "蛙声扇尾莺",
+    "english_name": "Croaking Cisticola",
+    "scientific_name": "Cisticola natalensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "croaking_cisticola_crocis1_111335471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939651/bird-gallery/croaking_cisticola_crocis1/macaulay/croaking_cisticola_crocis1_111335471.jpg",
+      "public_id": "bird-gallery/croaking_cisticola_crocis1/macaulay/croaking_cisticola_crocis1_111335471",
+      "width": 1200,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 34352,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/111335471",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "111335471",
+        "note": null
+      }
+    },
+    {
+      "original_file": "croaking_cisticola_crocis1_111335521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939652/bird-gallery/croaking_cisticola_crocis1/macaulay/croaking_cisticola_crocis1_111335521.jpg",
+      "public_id": "bird-gallery/croaking_cisticola_crocis1/macaulay/croaking_cisticola_crocis1_111335521",
+      "width": 1200,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 34556,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/111335521",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "111335521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "croaking_cisticola_crocis1_500591511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939653/bird-gallery/croaking_cisticola_crocis1/macaulay/croaking_cisticola_crocis1_500591511.jpg",
+      "public_id": "bird-gallery/croaking_cisticola_crocis1/macaulay/croaking_cisticola_crocis1_500591511",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 61937,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/500591511",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "500591511",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "croaking_cisticola_crocis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939655/bird-gallery/croaking_cisticola_crocis1/inaturalist/croaking_cisticola_crocis1_2.jpg",
+      "public_id": "bird-gallery/croaking_cisticola_crocis1/inaturalist/croaking_cisticola_crocis1_2",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 154949,
+      "attribution": {
+        "photographer": "garyleavens",
+        "photographer_url": "https://www.inaturalist.org/observations/198179886",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© garyleavens (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 198179886,
+        "note": null
+      }
+    },
+    {
+      "original_file": "croaking_cisticola_crocis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939656/bird-gallery/croaking_cisticola_crocis1/inaturalist/croaking_cisticola_crocis1_3.jpg",
+      "public_id": "bird-gallery/croaking_cisticola_crocis1/inaturalist/croaking_cisticola_crocis1_3",
+      "width": 1024,
+      "height": 697,
+      "format": "jpg",
+      "bytes": 43029,
+      "attribution": {
+        "photographer": "i_c_riddell",
+        "photographer_url": "https://www.inaturalist.org/observations/67956782",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© i_c_riddell (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 67956782,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

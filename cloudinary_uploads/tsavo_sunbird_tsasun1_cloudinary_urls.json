@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "tsavo_sunbird_tsasun1",
+    "chinese_name": "察武花蜜鸟",
+    "english_name": "Tsavo Sunbird",
+    "scientific_name": "Cinnyris tsavoensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "tsavo_sunbird_tsasun1_298375071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944147/bird-gallery/tsavo_sunbird_tsasun1/macaulay/tsavo_sunbird_tsasun1_298375071.jpg",
+      "public_id": "bird-gallery/tsavo_sunbird_tsasun1/macaulay/tsavo_sunbird_tsasun1_298375071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72240,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/298375071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "298375071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tsavo_sunbird_tsasun1_633159651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944148/bird-gallery/tsavo_sunbird_tsasun1/macaulay/tsavo_sunbird_tsasun1_633159651.jpg",
+      "public_id": "bird-gallery/tsavo_sunbird_tsasun1/macaulay/tsavo_sunbird_tsasun1_633159651",
+      "width": 1200,
+      "height": 882,
+      "format": "jpg",
+      "bytes": 64954,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/633159651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "633159651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tsavo_sunbird_tsasun1_651572491.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944150/bird-gallery/tsavo_sunbird_tsasun1/macaulay/tsavo_sunbird_tsasun1_651572491.jpg",
+      "public_id": "bird-gallery/tsavo_sunbird_tsasun1/macaulay/tsavo_sunbird_tsasun1_651572491",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68560,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/651572491",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "651572491",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "tsavo_sunbird_tsasun1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944150/bird-gallery/tsavo_sunbird_tsasun1/inaturalist/tsavo_sunbird_tsasun1_1.jpg",
+      "public_id": "bird-gallery/tsavo_sunbird_tsasun1/inaturalist/tsavo_sunbird_tsasun1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 57397,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/102472085",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 102472085,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tsavo_sunbird_tsasun1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944151/bird-gallery/tsavo_sunbird_tsasun1/inaturalist/tsavo_sunbird_tsasun1_2.jpg",
+      "public_id": "bird-gallery/tsavo_sunbird_tsasun1/inaturalist/tsavo_sunbird_tsasun1_2",
+      "width": 578,
+      "height": 546,
+      "format": "jpg",
+      "bytes": 23265,
+      "attribution": {
+        "photographer": "thehousebunting",
+        "photographer_url": "https://www.inaturalist.org/observations/198040426",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thehousebunting (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 198040426,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tsavo_sunbird_tsasun1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944152/bird-gallery/tsavo_sunbird_tsasun1/inaturalist/tsavo_sunbird_tsasun1_3.jpg",
+      "public_id": "bird-gallery/tsavo_sunbird_tsasun1/inaturalist/tsavo_sunbird_tsasun1_3",
+      "width": 1003,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 102562,
+      "attribution": {
+        "photographer": "nikhilrr",
+        "photographer_url": "https://www.inaturalist.org/observations/242728378",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© nikhilrr (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 242728378,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

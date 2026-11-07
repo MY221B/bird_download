@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "mangrove_kingfisher_mankin2",
+    "chinese_name": "红林翡翠",
+    "english_name": "Mangrove Kingfisher",
+    "scientific_name": "Halcyon senegaloides"
+  },
+  "macaulay": [
+    {
+      "original_file": "mangrove_kingfisher_mankin2_289050821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945286/bird-gallery/mangrove_kingfisher_mankin2/macaulay/mangrove_kingfisher_mankin2_289050821.jpg",
+      "public_id": "bird-gallery/mangrove_kingfisher_mankin2/macaulay/mangrove_kingfisher_mankin2_289050821",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58165,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/289050821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "289050821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mangrove_kingfisher_mankin2_593413721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945287/bird-gallery/mangrove_kingfisher_mankin2/macaulay/mangrove_kingfisher_mankin2_593413721.jpg",
+      "public_id": "bird-gallery/mangrove_kingfisher_mankin2/macaulay/mangrove_kingfisher_mankin2_593413721",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51551,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/593413721",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "593413721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mangrove_kingfisher_mankin2_625716471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945288/bird-gallery/mangrove_kingfisher_mankin2/macaulay/mangrove_kingfisher_mankin2_625716471.jpg",
+      "public_id": "bird-gallery/mangrove_kingfisher_mankin2/macaulay/mangrove_kingfisher_mankin2_625716471",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 66720,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/625716471",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "625716471",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mangrove_kingfisher_mankin2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945289/bird-gallery/mangrove_kingfisher_mankin2/inaturalist/mangrove_kingfisher_mankin2_1.jpg",
+      "public_id": "bird-gallery/mangrove_kingfisher_mankin2/inaturalist/mangrove_kingfisher_mankin2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 38823,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/106073442",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 106073442,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mangrove_kingfisher_mankin2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945290/bird-gallery/mangrove_kingfisher_mankin2/inaturalist/mangrove_kingfisher_mankin2_2.jpg",
+      "public_id": "bird-gallery/mangrove_kingfisher_mankin2/inaturalist/mangrove_kingfisher_mankin2_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 101227,
+      "attribution": {
+        "photographer": "garethyearsley",
+        "photographer_url": "https://www.inaturalist.org/observations/141229067",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© garethyearsley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 141229067,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mangrove_kingfisher_mankin2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945290/bird-gallery/mangrove_kingfisher_mankin2/inaturalist/mangrove_kingfisher_mankin2_3.jpg",
+      "public_id": "bird-gallery/mangrove_kingfisher_mankin2/inaturalist/mangrove_kingfisher_mankin2_3",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 88984,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/8677708",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8677708,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

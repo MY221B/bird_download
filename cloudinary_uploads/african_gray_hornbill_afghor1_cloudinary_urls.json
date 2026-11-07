@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_gray_hornbill_afghor1",
+    "chinese_name": "黑嘴弯嘴犀鸟",
+    "english_name": "African Gray Hornbill",
+    "scientific_name": "Lophoceros nasutus"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_gray_hornbill_afghor1_206131461.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939185/bird-gallery/african_gray_hornbill_afghor1/macaulay/african_gray_hornbill_afghor1_206131461.jpg",
+      "public_id": "bird-gallery/african_gray_hornbill_afghor1/macaulay/african_gray_hornbill_afghor1_206131461",
+      "width": 1152,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 134180,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206131461",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206131461",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_hornbill_afghor1_582245201.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939186/bird-gallery/african_gray_hornbill_afghor1/macaulay/african_gray_hornbill_afghor1_582245201.jpg",
+      "public_id": "bird-gallery/african_gray_hornbill_afghor1/macaulay/african_gray_hornbill_afghor1_582245201",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87252,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/582245201",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "582245201",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_hornbill_afghor1_645055351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939187/bird-gallery/african_gray_hornbill_afghor1/macaulay/african_gray_hornbill_afghor1_645055351.jpg",
+      "public_id": "bird-gallery/african_gray_hornbill_afghor1/macaulay/african_gray_hornbill_afghor1_645055351",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 114225,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645055351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645055351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_gray_hornbill_afghor1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939188/bird-gallery/african_gray_hornbill_afghor1/inaturalist/african_gray_hornbill_afghor1_1.jpg",
+      "public_id": "bird-gallery/african_gray_hornbill_afghor1/inaturalist/african_gray_hornbill_afghor1_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 55400,
+      "attribution": {
+        "photographer": "greglasley",
+        "photographer_url": "https://www.inaturalist.org/observations/18029402",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© greglasley (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18029402,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_hornbill_afghor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939189/bird-gallery/african_gray_hornbill_afghor1/inaturalist/african_gray_hornbill_afghor1_2.jpg",
+      "public_id": "bird-gallery/african_gray_hornbill_afghor1/inaturalist/african_gray_hornbill_afghor1_2",
+      "width": 879,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 125628,
+      "attribution": {
+        "photographer": "debanim",
+        "photographer_url": "https://www.inaturalist.org/observations/153968544",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© debanim (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 153968544,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_hornbill_afghor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939189/bird-gallery/african_gray_hornbill_afghor1/inaturalist/african_gray_hornbill_afghor1_3.jpg",
+      "public_id": "bird-gallery/african_gray_hornbill_afghor1/inaturalist/african_gray_hornbill_afghor1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 73342,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/103012159",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103012159,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

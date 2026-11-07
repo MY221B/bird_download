@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "green_backed_camaroptera_grbcam1",
+    "chinese_name": "绿背拱翅莺",
+    "english_name": "Green-backed Camaroptera",
+    "scientific_name": "Camaroptera brachyura"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_backed_camaroptera_grbcam1_136696581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939718/bird-gallery/green_backed_camaroptera_grbcam1/macaulay/green_backed_camaroptera_grbcam1_136696581.jpg",
+      "public_id": "bird-gallery/green_backed_camaroptera_grbcam1/macaulay/green_backed_camaroptera_grbcam1_136696581",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55590,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136696581",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136696581",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_camaroptera_grbcam1_624975045.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939719/bird-gallery/green_backed_camaroptera_grbcam1/macaulay/green_backed_camaroptera_grbcam1_624975045.jpg",
+      "public_id": "bird-gallery/green_backed_camaroptera_grbcam1/macaulay/green_backed_camaroptera_grbcam1_624975045",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 145831,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/624975045",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "624975045",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_camaroptera_grbcam1_624975046.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939720/bird-gallery/green_backed_camaroptera_grbcam1/macaulay/green_backed_camaroptera_grbcam1_624975046.jpg",
+      "public_id": "bird-gallery/green_backed_camaroptera_grbcam1/macaulay/green_backed_camaroptera_grbcam1_624975046",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72789,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/624975046",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "624975046",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_backed_camaroptera_grbcam1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939721/bird-gallery/green_backed_camaroptera_grbcam1/inaturalist/green_backed_camaroptera_grbcam1_1.jpg",
+      "public_id": "bird-gallery/green_backed_camaroptera_grbcam1/inaturalist/green_backed_camaroptera_grbcam1_1",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 84127,
+      "attribution": {
+        "photographer": "danielcorreia",
+        "photographer_url": "https://www.inaturalist.org/observations/272689134",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© danielcorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 272689134,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_camaroptera_grbcam1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939721/bird-gallery/green_backed_camaroptera_grbcam1/inaturalist/green_backed_camaroptera_grbcam1_2.jpg",
+      "public_id": "bird-gallery/green_backed_camaroptera_grbcam1/inaturalist/green_backed_camaroptera_grbcam1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 73928,
+      "attribution": {
+        "photographer": "dewald2",
+        "photographer_url": "https://www.inaturalist.org/observations/54913646",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dewald2 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 54913646,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_camaroptera_grbcam1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939722/bird-gallery/green_backed_camaroptera_grbcam1/inaturalist/green_backed_camaroptera_grbcam1_3.jpg",
+      "public_id": "bird-gallery/green_backed_camaroptera_grbcam1/inaturalist/green_backed_camaroptera_grbcam1_3",
+      "width": 1000,
+      "height": 672,
+      "format": "jpg",
+      "bytes": 46390,
+      "attribution": {
+        "photographer": "paulcools",
+        "photographer_url": "https://www.inaturalist.org/observations/343665721",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paulcools (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 343665721,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

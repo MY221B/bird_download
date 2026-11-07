@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "stuhlmanns_starling",
+    "chinese_name": "斯氏狭尾椋鸟",
+    "english_name": "Stuhlmann's Starling",
+    "scientific_name": "Poeoptera stuhlmanni"
+  },
+  "macaulay": [
+    {
+      "original_file": "stuhlmanns_starling_204569391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944768/bird-gallery/stuhlmanns_starling/macaulay/stuhlmanns_starling_204569391.jpg",
+      "public_id": "bird-gallery/stuhlmanns_starling/macaulay/stuhlmanns_starling_204569391",
+      "width": 1200,
+      "height": 1193,
+      "format": "jpg",
+      "bytes": 167385,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204569391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204569391",
+        "note": null
+      }
+    },
+    {
+      "original_file": "stuhlmanns_starling_205958551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944769/bird-gallery/stuhlmanns_starling/macaulay/stuhlmanns_starling_205958551.jpg",
+      "public_id": "bird-gallery/stuhlmanns_starling/macaulay/stuhlmanns_starling_205958551",
+      "width": 999,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 100386,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205958551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205958551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "stuhlmanns_starling_662435645.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944770/bird-gallery/stuhlmanns_starling/macaulay/stuhlmanns_starling_662435645.jpg",
+      "public_id": "bird-gallery/stuhlmanns_starling/macaulay/stuhlmanns_starling_662435645",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 123027,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/662435645",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "662435645",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

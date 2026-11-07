@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "golden_crowned_woodpecker",
+    "chinese_name": "金冠啄木鸟",
+    "english_name": "Golden-crowned Woodpecker",
+    "scientific_name": "Chloropicus xantholophus"
+  },
+  "macaulay": [
+    {
+      "original_file": "golden_crowned_woodpecker_205097391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944598/bird-gallery/golden_crowned_woodpecker/macaulay/golden_crowned_woodpecker_205097391.jpg",
+      "public_id": "bird-gallery/golden_crowned_woodpecker/macaulay/golden_crowned_woodpecker_205097391",
+      "width": 533,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57232,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205097391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205097391",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_crowned_woodpecker_205097401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944599/bird-gallery/golden_crowned_woodpecker/macaulay/golden_crowned_woodpecker_205097401.jpg",
+      "public_id": "bird-gallery/golden_crowned_woodpecker/macaulay/golden_crowned_woodpecker_205097401",
+      "width": 773,
+      "height": 516,
+      "format": "jpg",
+      "bytes": 43667,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205097401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205097401",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_crowned_woodpecker_206044551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944600/bird-gallery/golden_crowned_woodpecker/macaulay/golden_crowned_woodpecker_206044551.jpg",
+      "public_id": "bird-gallery/golden_crowned_woodpecker/macaulay/golden_crowned_woodpecker_206044551",
+      "width": 1000,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 92633,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206044551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206044551",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "golden_crowned_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944601/bird-gallery/golden_crowned_woodpecker/inaturalist/golden_crowned_woodpecker_1.jpg",
+      "public_id": "bird-gallery/golden_crowned_woodpecker/inaturalist/golden_crowned_woodpecker_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90039,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/73053261",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 73053261,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_crowned_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944602/bird-gallery/golden_crowned_woodpecker/inaturalist/golden_crowned_woodpecker_2.jpg",
+      "public_id": "bird-gallery/golden_crowned_woodpecker/inaturalist/golden_crowned_woodpecker_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 177273,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/178726670",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 178726670,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "fan_tailed_widowbird_fatwid1",
+    "chinese_name": "扇尾巧织雀",
+    "english_name": "Fan-tailed Widowbird",
+    "scientific_name": "Euplectes axillaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "fan_tailed_widowbird_fatwid1_127676441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943917/bird-gallery/fan_tailed_widowbird_fatwid1/macaulay/fan_tailed_widowbird_fatwid1_127676441.jpg",
+      "public_id": "bird-gallery/fan_tailed_widowbird_fatwid1/macaulay/fan_tailed_widowbird_fatwid1_127676441",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 72598,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/127676441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "127676441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fan_tailed_widowbird_fatwid1_205964471.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943918/bird-gallery/fan_tailed_widowbird_fatwid1/macaulay/fan_tailed_widowbird_fatwid1_205964471.jpg",
+      "public_id": "bird-gallery/fan_tailed_widowbird_fatwid1/macaulay/fan_tailed_widowbird_fatwid1_205964471",
+      "width": 1000,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 41221,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205964471",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205964471",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fan_tailed_widowbird_fatwid1_205964481.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943919/bird-gallery/fan_tailed_widowbird_fatwid1/macaulay/fan_tailed_widowbird_fatwid1_205964481.jpg",
+      "public_id": "bird-gallery/fan_tailed_widowbird_fatwid1/macaulay/fan_tailed_widowbird_fatwid1_205964481",
+      "width": 1000,
+      "height": 655,
+      "format": "jpg",
+      "bytes": 70076,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205964481",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205964481",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "fan_tailed_widowbird_fatwid1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943920/bird-gallery/fan_tailed_widowbird_fatwid1/inaturalist/fan_tailed_widowbird_fatwid1_1.jpg",
+      "public_id": "bird-gallery/fan_tailed_widowbird_fatwid1/inaturalist/fan_tailed_widowbird_fatwid1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48621,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/143075594",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143075594,
+        "note": null
+      }
+    },
+    {
+      "original_file": "fan_tailed_widowbird_fatwid1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943921/bird-gallery/fan_tailed_widowbird_fatwid1/inaturalist/fan_tailed_widowbird_fatwid1_2.jpg",
+      "public_id": "bird-gallery/fan_tailed_widowbird_fatwid1/inaturalist/fan_tailed_widowbird_fatwid1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 83861,
+      "attribution": {
+        "photographer": "owlice",
+        "photographer_url": "https://www.inaturalist.org/observations/141703179",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© owlice (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 141703179,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

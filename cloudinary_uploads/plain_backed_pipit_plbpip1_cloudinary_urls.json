@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "plain_backed_pipit_plbpip1",
+    "chinese_name": "纯背鹨",
+    "english_name": "Plain-backed Pipit",
+    "scientific_name": "Anthus leucophrys"
+  },
+  "macaulay": [
+    {
+      "original_file": "plain_backed_pipit_plbpip1_129223131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941547/bird-gallery/plain_backed_pipit_plbpip1/macaulay/plain_backed_pipit_plbpip1_129223131.jpg",
+      "public_id": "bird-gallery/plain_backed_pipit_plbpip1/macaulay/plain_backed_pipit_plbpip1_129223131",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 102125,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/129223131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "129223131",
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_backed_pipit_plbpip1_32401671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941548/bird-gallery/plain_backed_pipit_plbpip1/macaulay/plain_backed_pipit_plbpip1_32401671.jpg",
+      "public_id": "bird-gallery/plain_backed_pipit_plbpip1/macaulay/plain_backed_pipit_plbpip1_32401671",
+      "width": 1200,
+      "height": 732,
+      "format": "jpg",
+      "bytes": 57344,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32401671",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32401671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_backed_pipit_plbpip1_394036101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941549/bird-gallery/plain_backed_pipit_plbpip1/macaulay/plain_backed_pipit_plbpip1_394036101.jpg",
+      "public_id": "bird-gallery/plain_backed_pipit_plbpip1/macaulay/plain_backed_pipit_plbpip1_394036101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 80430,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/394036101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "394036101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "plain_backed_pipit_plbpip1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941550/bird-gallery/plain_backed_pipit_plbpip1/inaturalist/plain_backed_pipit_plbpip1_1.jpg",
+      "public_id": "bird-gallery/plain_backed_pipit_plbpip1/inaturalist/plain_backed_pipit_plbpip1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 161922,
+      "attribution": {
+        "photographer": "dondanko",
+        "photographer_url": "https://www.inaturalist.org/observations/193437971",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dondanko (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 193437971,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_backed_pipit_plbpip1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941551/bird-gallery/plain_backed_pipit_plbpip1/inaturalist/plain_backed_pipit_plbpip1_2.jpg",
+      "public_id": "bird-gallery/plain_backed_pipit_plbpip1/inaturalist/plain_backed_pipit_plbpip1_2",
+      "width": 1024,
+      "height": 738,
+      "format": "jpg",
+      "bytes": 91118,
+      "attribution": {
+        "photographer": "justin_p",
+        "photographer_url": "https://www.inaturalist.org/observations/69719654",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© justin_p (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 69719654,
+        "note": null
+      }
+    },
+    {
+      "original_file": "plain_backed_pipit_plbpip1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941552/bird-gallery/plain_backed_pipit_plbpip1/inaturalist/plain_backed_pipit_plbpip1_3.jpg",
+      "public_id": "bird-gallery/plain_backed_pipit_plbpip1/inaturalist/plain_backed_pipit_plbpip1_3",
+      "width": 869,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 37555,
+      "attribution": {
+        "photographer": "twhitehead",
+        "photographer_url": "https://www.inaturalist.org/observations/153310028",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© twhitehead (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 153310028,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "blue_headed_bee_eater",
+    "chinese_name": "蓝头蜂虎",
+    "english_name": "Blue-headed Bee-eater",
+    "scientific_name": "Merops muelleri"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_headed_bee_eater_366182921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944402/bird-gallery/blue_headed_bee_eater/macaulay/blue_headed_bee_eater_366182921.jpg",
+      "public_id": "bird-gallery/blue_headed_bee_eater/macaulay/blue_headed_bee_eater_366182921",
+      "width": 1200,
+      "height": 806,
+      "format": "jpg",
+      "bytes": 107420,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/366182921",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "366182921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_headed_bee_eater_386677291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944403/bird-gallery/blue_headed_bee_eater/macaulay/blue_headed_bee_eater_386677291.jpg",
+      "public_id": "bird-gallery/blue_headed_bee_eater/macaulay/blue_headed_bee_eater_386677291",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58909,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/386677291",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "386677291",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_headed_bee_eater_87313361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944404/bird-gallery/blue_headed_bee_eater/macaulay/blue_headed_bee_eater_87313361.jpg",
+      "public_id": "bird-gallery/blue_headed_bee_eater/macaulay/blue_headed_bee_eater_87313361",
+      "width": 567,
+      "height": 850,
+      "format": "jpg",
+      "bytes": 37867,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/87313361",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "87313361",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_headed_bee_eater_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944405/bird-gallery/blue_headed_bee_eater/inaturalist/blue_headed_bee_eater_1.jpg",
+      "public_id": "bird-gallery/blue_headed_bee_eater/inaturalist/blue_headed_bee_eater_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 77352,
+      "attribution": {
+        "photographer": "pacapix",
+        "photographer_url": "https://www.inaturalist.org/observations/287817892",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pacapix (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 287817892,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_headed_bee_eater_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944405/bird-gallery/blue_headed_bee_eater/inaturalist/blue_headed_bee_eater_2.jpg",
+      "public_id": "bird-gallery/blue_headed_bee_eater/inaturalist/blue_headed_bee_eater_2",
+      "width": 571,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 32556,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/75559787",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 75559787,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_headed_bee_eater_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944406/bird-gallery/blue_headed_bee_eater/inaturalist/blue_headed_bee_eater_3.jpg",
+      "public_id": "bird-gallery/blue_headed_bee_eater/inaturalist/blue_headed_bee_eater_3",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 48681,
+      "attribution": {
+        "photographer": "leekelai",
+        "photographer_url": "https://www.inaturalist.org/observations/332563333",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© leekelai (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 332563333,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

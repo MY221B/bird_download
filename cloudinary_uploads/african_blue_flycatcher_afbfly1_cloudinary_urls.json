@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_blue_flycatcher_afbfly1",
+    "chinese_name": "蓝凤头鹟",
+    "english_name": "African Blue Flycatcher",
+    "scientific_name": "Elminia longicauda"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_blue_flycatcher_afbfly1_196870981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942115/bird-gallery/african_blue_flycatcher_afbfly1/macaulay/african_blue_flycatcher_afbfly1_196870981.jpg",
+      "public_id": "bird-gallery/african_blue_flycatcher_afbfly1/macaulay/african_blue_flycatcher_afbfly1_196870981",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 69627,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/196870981",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "196870981",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_blue_flycatcher_afbfly1_204207261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942116/bird-gallery/african_blue_flycatcher_afbfly1/macaulay/african_blue_flycatcher_afbfly1_204207261.jpg",
+      "public_id": "bird-gallery/african_blue_flycatcher_afbfly1/macaulay/african_blue_flycatcher_afbfly1_204207261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 109166,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204207261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204207261",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_blue_flycatcher_afbfly1_635885659.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942117/bird-gallery/african_blue_flycatcher_afbfly1/macaulay/african_blue_flycatcher_afbfly1_635885659.jpg",
+      "public_id": "bird-gallery/african_blue_flycatcher_afbfly1/macaulay/african_blue_flycatcher_afbfly1_635885659",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 70890,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/635885659",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "635885659",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_blue_flycatcher_afbfly1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942118/bird-gallery/african_blue_flycatcher_afbfly1/inaturalist/african_blue_flycatcher_afbfly1_1.jpg",
+      "public_id": "bird-gallery/african_blue_flycatcher_afbfly1/inaturalist/african_blue_flycatcher_afbfly1_1",
+      "width": 1024,
+      "height": 859,
+      "format": "jpg",
+      "bytes": 173700,
+      "attribution": {
+        "photographer": "gmykle",
+        "photographer_url": "https://www.inaturalist.org/observations/51188539",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© gmykle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 51188539,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_blue_flycatcher_afbfly1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942119/bird-gallery/african_blue_flycatcher_afbfly1/inaturalist/african_blue_flycatcher_afbfly1_2.jpg",
+      "public_id": "bird-gallery/african_blue_flycatcher_afbfly1/inaturalist/african_blue_flycatcher_afbfly1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 50717,
+      "attribution": {
+        "photographer": "denisgrange",
+        "photographer_url": "https://www.inaturalist.org/observations/312446438",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© denisgrange (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 312446438,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_blue_flycatcher_afbfly1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942120/bird-gallery/african_blue_flycatcher_afbfly1/inaturalist/african_blue_flycatcher_afbfly1_3.jpg",
+      "public_id": "bird-gallery/african_blue_flycatcher_afbfly1/inaturalist/african_blue_flycatcher_afbfly1_3",
+      "width": 848,
+      "height": 565,
+      "format": "jpg",
+      "bytes": 59578,
+      "attribution": {
+        "photographer": "leonid63",
+        "photographer_url": "https://www.inaturalist.org/observations/254603792",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© leonid63 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 254603792,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

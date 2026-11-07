@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "eastern_double_collared_sunbird_edcsun3",
+    "chinese_name": "东非双领花蜜鸟",
+    "english_name": "Eastern Double-collared Sunbird",
+    "scientific_name": "Cinnyris mediocris"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_double_collared_sunbird_edcsun3_205490941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940980/bird-gallery/eastern_double_collared_sunbird_edcsun3/macaulay/eastern_double_collared_sunbird_edcsun3_205490941.jpg",
+      "public_id": "bird-gallery/eastern_double_collared_sunbird_edcsun3/macaulay/eastern_double_collared_sunbird_edcsun3_205490941",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 63613,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205490941",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205490941",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_double_collared_sunbird_edcsun3_606482841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940980/bird-gallery/eastern_double_collared_sunbird_edcsun3/macaulay/eastern_double_collared_sunbird_edcsun3_606482841.jpg",
+      "public_id": "bird-gallery/eastern_double_collared_sunbird_edcsun3/macaulay/eastern_double_collared_sunbird_edcsun3_606482841",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82232,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/606482841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "606482841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_double_collared_sunbird_edcsun3_621807646.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940982/bird-gallery/eastern_double_collared_sunbird_edcsun3/macaulay/eastern_double_collared_sunbird_edcsun3_621807646.jpg",
+      "public_id": "bird-gallery/eastern_double_collared_sunbird_edcsun3/macaulay/eastern_double_collared_sunbird_edcsun3_621807646",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 130569,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/621807646",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "621807646",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eastern_double_collared_sunbird_edcsun3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940982/bird-gallery/eastern_double_collared_sunbird_edcsun3/inaturalist/eastern_double_collared_sunbird_edcsun3_1.jpg",
+      "public_id": "bird-gallery/eastern_double_collared_sunbird_edcsun3/inaturalist/eastern_double_collared_sunbird_edcsun3_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 42123,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/92950413",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 92950413,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_double_collared_sunbird_edcsun3_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940983/bird-gallery/eastern_double_collared_sunbird_edcsun3/inaturalist/eastern_double_collared_sunbird_edcsun3_2.jpg",
+      "public_id": "bird-gallery/eastern_double_collared_sunbird_edcsun3/inaturalist/eastern_double_collared_sunbird_edcsun3_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 85228,
+      "attribution": {
+        "photographer": "jchilders",
+        "photographer_url": "https://www.inaturalist.org/observations/330306608",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jchilders (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 330306608,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_double_collared_sunbird_edcsun3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940984/bird-gallery/eastern_double_collared_sunbird_edcsun3/inaturalist/eastern_double_collared_sunbird_edcsun3_3.jpg",
+      "public_id": "bird-gallery/eastern_double_collared_sunbird_edcsun3/inaturalist/eastern_double_collared_sunbird_edcsun3_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 159797,
+      "attribution": {
+        "photographer": "ranive",
+        "photographer_url": "https://www.inaturalist.org/observations/149308526",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ranive (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 149308526,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

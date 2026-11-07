@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "stone_partridge",
+    "chinese_name": "石鹑",
+    "english_name": "Stone Partridge",
+    "scientific_name": "Ptilopachus petrosus"
+  },
+  "macaulay": [
+    {
+      "original_file": "stone_partridge_205091931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944355/bird-gallery/stone_partridge/macaulay/stone_partridge_205091931.jpg",
+      "public_id": "bird-gallery/stone_partridge/macaulay/stone_partridge_205091931",
+      "width": 533,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 59959,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205091931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205091931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "stone_partridge_205908211.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944356/bird-gallery/stone_partridge/macaulay/stone_partridge_205908211.jpg",
+      "public_id": "bird-gallery/stone_partridge/macaulay/stone_partridge_205908211",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 99264,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205908211",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205908211",
+        "note": null
+      }
+    },
+    {
+      "original_file": "stone_partridge_206162141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944357/bird-gallery/stone_partridge/macaulay/stone_partridge_206162141.jpg",
+      "public_id": "bird-gallery/stone_partridge/macaulay/stone_partridge_206162141",
+      "width": 1152,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 110506,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206162141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206162141",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "stone_partridge_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944357/bird-gallery/stone_partridge/inaturalist/stone_partridge_1.jpg",
+      "public_id": "bird-gallery/stone_partridge/inaturalist/stone_partridge_1",
+      "width": 1000,
+      "height": 914,
+      "format": "jpg",
+      "bytes": 138304,
+      "attribution": {
+        "photographer": "dejong",
+        "photographer_url": "https://www.inaturalist.org/observations/4672122",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© dejong (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 4672122,
+        "note": null
+      }
+    },
+    {
+      "original_file": "stone_partridge_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944358/bird-gallery/stone_partridge/inaturalist/stone_partridge_2.jpg",
+      "public_id": "bird-gallery/stone_partridge/inaturalist/stone_partridge_2",
+      "width": 1024,
+      "height": 627,
+      "format": "jpg",
+      "bytes": 122152,
+      "attribution": {
+        "photographer": "thierrycordenos",
+        "photographer_url": "https://www.inaturalist.org/observations/208162678",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© thierrycordenos (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 208162678,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

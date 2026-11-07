@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "rosy_throated_longclaw_rotlon1",
+    "chinese_name": "红胸长爪鹡鸰",
+    "english_name": "Rosy-throated Longclaw",
+    "scientific_name": "Macronyx ameliae"
+  },
+  "macaulay": [
+    {
+      "original_file": "rosy_throated_longclaw_rotlon1_113591121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941729/bird-gallery/rosy_throated_longclaw_rotlon1/macaulay/rosy_throated_longclaw_rotlon1_113591121.jpg",
+      "public_id": "bird-gallery/rosy_throated_longclaw_rotlon1/macaulay/rosy_throated_longclaw_rotlon1_113591121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 89422,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/113591121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "113591121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosy_throated_longclaw_rotlon1_212739141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941732/bird-gallery/rosy_throated_longclaw_rotlon1/macaulay/rosy_throated_longclaw_rotlon1_212739141.jpg",
+      "public_id": "bird-gallery/rosy_throated_longclaw_rotlon1/macaulay/rosy_throated_longclaw_rotlon1_212739141",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83813,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/212739141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "212739141",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosy_throated_longclaw_rotlon1_593768191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941733/bird-gallery/rosy_throated_longclaw_rotlon1/macaulay/rosy_throated_longclaw_rotlon1_593768191.jpg",
+      "public_id": "bird-gallery/rosy_throated_longclaw_rotlon1/macaulay/rosy_throated_longclaw_rotlon1_593768191",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 146050,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/593768191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "593768191",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rosy_throated_longclaw_rotlon1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941734/bird-gallery/rosy_throated_longclaw_rotlon1/inaturalist/rosy_throated_longclaw_rotlon1_1.jpg",
+      "public_id": "bird-gallery/rosy_throated_longclaw_rotlon1/inaturalist/rosy_throated_longclaw_rotlon1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 95902,
+      "attribution": {
+        "photographer": "lynnecorreia",
+        "photographer_url": "https://www.inaturalist.org/observations/163649922",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lynnecorreia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 163649922,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosy_throated_longclaw_rotlon1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941735/bird-gallery/rosy_throated_longclaw_rotlon1/inaturalist/rosy_throated_longclaw_rotlon1_2.jpg",
+      "public_id": "bird-gallery/rosy_throated_longclaw_rotlon1/inaturalist/rosy_throated_longclaw_rotlon1_2",
+      "width": 767,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 60042,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/321841352",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 321841352,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rosy_throated_longclaw_rotlon1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941736/bird-gallery/rosy_throated_longclaw_rotlon1/inaturalist/rosy_throated_longclaw_rotlon1_3.jpg",
+      "public_id": "bird-gallery/rosy_throated_longclaw_rotlon1/inaturalist/rosy_throated_longclaw_rotlon1_3",
+      "width": 804,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 87780,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/355263738",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 355263738,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

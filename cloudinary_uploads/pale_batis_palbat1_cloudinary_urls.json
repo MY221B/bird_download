@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "pale_batis_palbat1",
+    "chinese_name": "白颏蓬背鹟",
+    "english_name": "Pale Batis",
+    "scientific_name": "Batis soror"
+  },
+  "macaulay": [
+    {
+      "original_file": "pale_batis_palbat1_205984681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945307/bird-gallery/pale_batis_palbat1/macaulay/pale_batis_palbat1_205984681.jpg",
+      "public_id": "bird-gallery/pale_batis_palbat1/macaulay/pale_batis_palbat1_205984681",
+      "width": 1000,
+      "height": 741,
+      "format": "jpg",
+      "bytes": 43121,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984681",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_batis_palbat1_205984691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945308/bird-gallery/pale_batis_palbat1/macaulay/pale_batis_palbat1_205984691.jpg",
+      "public_id": "bird-gallery/pale_batis_palbat1/macaulay/pale_batis_palbat1_205984691",
+      "width": 1000,
+      "height": 735,
+      "format": "jpg",
+      "bytes": 44528,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_batis_palbat1_609358361.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945309/bird-gallery/pale_batis_palbat1/macaulay/pale_batis_palbat1_609358361.jpg",
+      "public_id": "bird-gallery/pale_batis_palbat1/macaulay/pale_batis_palbat1_609358361",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 59623,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/609358361",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "609358361",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pale_batis_palbat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945310/bird-gallery/pale_batis_palbat1/inaturalist/pale_batis_palbat1_1.jpg",
+      "public_id": "bird-gallery/pale_batis_palbat1/inaturalist/pale_batis_palbat1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 41366,
+      "attribution": {
+        "photographer": "dmblokz",
+        "photographer_url": "https://www.inaturalist.org/observations/380596690",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dmblokz (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 380596690,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_batis_palbat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945311/bird-gallery/pale_batis_palbat1/inaturalist/pale_batis_palbat1_2.jpg",
+      "public_id": "bird-gallery/pale_batis_palbat1/inaturalist/pale_batis_palbat1_2",
+      "width": 1024,
+      "height": 809,
+      "format": "jpg",
+      "bytes": 71064,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/269620503",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 269620503,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_batis_palbat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945311/bird-gallery/pale_batis_palbat1/inaturalist/pale_batis_palbat1_3.jpg",
+      "public_id": "bird-gallery/pale_batis_palbat1/inaturalist/pale_batis_palbat1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 35785,
+      "attribution": {
+        "photographer": "martingrimm",
+        "photographer_url": "https://www.inaturalist.org/observations/4334927",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© martingrimm (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 4334927,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

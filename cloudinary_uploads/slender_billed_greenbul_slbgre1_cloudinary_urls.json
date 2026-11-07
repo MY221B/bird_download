@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "slender_billed_greenbul_slbgre1",
+    "chinese_name": "细嘴绿鹎",
+    "english_name": "Slender-billed Greenbul",
+    "scientific_name": "Stelgidillas gracilirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "slender_billed_greenbul_slbgre1_129065571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941278/bird-gallery/slender_billed_greenbul_slbgre1/macaulay/slender_billed_greenbul_slbgre1_129065571.jpg",
+      "public_id": "bird-gallery/slender_billed_greenbul_slbgre1/macaulay/slender_billed_greenbul_slbgre1_129065571",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 149560,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/129065571",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "129065571",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_greenbul_slbgre1_205470311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941280/bird-gallery/slender_billed_greenbul_slbgre1/macaulay/slender_billed_greenbul_slbgre1_205470311.jpg",
+      "public_id": "bird-gallery/slender_billed_greenbul_slbgre1/macaulay/slender_billed_greenbul_slbgre1_205470311",
+      "width": 500,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 31320,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205470311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205470311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "slender_billed_greenbul_slbgre1_205470951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941281/bird-gallery/slender_billed_greenbul_slbgre1/macaulay/slender_billed_greenbul_slbgre1_205470951.jpg",
+      "public_id": "bird-gallery/slender_billed_greenbul_slbgre1/macaulay/slender_billed_greenbul_slbgre1_205470951",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 112856,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205470951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205470951",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "slender_billed_greenbul_slbgre1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941283/bird-gallery/slender_billed_greenbul_slbgre1/inaturalist/slender_billed_greenbul_slbgre1_3.jpg",
+      "public_id": "bird-gallery/slender_billed_greenbul_slbgre1/inaturalist/slender_billed_greenbul_slbgre1_3",
+      "width": 1024,
+      "height": 663,
+      "format": "jpg",
+      "bytes": 54742,
+      "attribution": {
+        "photographer": "mlanguy",
+        "photographer_url": "https://www.inaturalist.org/observations/116146488",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mlanguy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 116146488,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

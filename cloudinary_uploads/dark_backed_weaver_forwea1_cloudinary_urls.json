@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "dark_backed_weaver_forwea1",
+    "chinese_name": "灰背织雀",
+    "english_name": "Dark-backed Weaver",
+    "scientific_name": "Ploceus bicolor"
+  },
+  "macaulay": [
+    {
+      "original_file": "dark_backed_weaver_forwea1_204468191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944578/bird-gallery/dark_backed_weaver_forwea1/macaulay/dark_backed_weaver_forwea1_204468191.jpg",
+      "public_id": "bird-gallery/dark_backed_weaver_forwea1/macaulay/dark_backed_weaver_forwea1_204468191",
+      "width": 900,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 60455,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204468191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204468191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dark_backed_weaver_forwea1_205109251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944579/bird-gallery/dark_backed_weaver_forwea1/macaulay/dark_backed_weaver_forwea1_205109251.jpg",
+      "public_id": "bird-gallery/dark_backed_weaver_forwea1/macaulay/dark_backed_weaver_forwea1_205109251",
+      "width": 910,
+      "height": 606,
+      "format": "jpg",
+      "bytes": 47622,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205109251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205109251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dark_backed_weaver_forwea1_331054811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944580/bird-gallery/dark_backed_weaver_forwea1/macaulay/dark_backed_weaver_forwea1_331054811.jpg",
+      "public_id": "bird-gallery/dark_backed_weaver_forwea1/macaulay/dark_backed_weaver_forwea1_331054811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82151,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/331054811",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "331054811",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dark_backed_weaver_forwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944581/bird-gallery/dark_backed_weaver_forwea1/inaturalist/dark_backed_weaver_forwea1_2.jpg",
+      "public_id": "bird-gallery/dark_backed_weaver_forwea1/inaturalist/dark_backed_weaver_forwea1_2",
+      "width": 609,
+      "height": 802,
+      "format": "jpg",
+      "bytes": 50692,
+      "attribution": {
+        "photographer": "maritzasouthafrica",
+        "photographer_url": "https://www.inaturalist.org/observations/103887282",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maritzasouthafrica (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103887282,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dark_backed_weaver_forwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944582/bird-gallery/dark_backed_weaver_forwea1/inaturalist/dark_backed_weaver_forwea1_3.jpg",
+      "public_id": "bird-gallery/dark_backed_weaver_forwea1/inaturalist/dark_backed_weaver_forwea1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 89074,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/129394499",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 129394499,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

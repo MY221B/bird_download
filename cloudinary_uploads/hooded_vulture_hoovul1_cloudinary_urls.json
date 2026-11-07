@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "hooded_vulture_hoovul1",
+    "chinese_name": "巾冠兀鹫",
+    "english_name": "Hooded Vulture",
+    "scientific_name": "Necrosyrtes monachus"
+  },
+  "macaulay": [
+    {
+      "original_file": "hooded_vulture_hoovul1_34562531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942956/bird-gallery/hooded_vulture_hoovul1/macaulay/hooded_vulture_hoovul1_34562531.jpg",
+      "public_id": "bird-gallery/hooded_vulture_hoovul1/macaulay/hooded_vulture_hoovul1_34562531",
+      "width": 1200,
+      "height": 759,
+      "format": "jpg",
+      "bytes": 59409,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/34562531",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "34562531",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hooded_vulture_hoovul1_65674381.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942957/bird-gallery/hooded_vulture_hoovul1/macaulay/hooded_vulture_hoovul1_65674381.jpg",
+      "public_id": "bird-gallery/hooded_vulture_hoovul1/macaulay/hooded_vulture_hoovul1_65674381",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 70005,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/65674381",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "65674381",
+        "note": null
+      }
+    },
+    {
+      "original_file": "hooded_vulture_hoovul1_65674391.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942958/bird-gallery/hooded_vulture_hoovul1/macaulay/hooded_vulture_hoovul1_65674391.jpg",
+      "public_id": "bird-gallery/hooded_vulture_hoovul1/macaulay/hooded_vulture_hoovul1_65674391",
+      "width": 1200,
+      "height": 751,
+      "format": "jpg",
+      "bytes": 55030,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/65674391",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "65674391",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "hooded_vulture_hoovul1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942959/bird-gallery/hooded_vulture_hoovul1/inaturalist/hooded_vulture_hoovul1_1.jpg",
+      "public_id": "bird-gallery/hooded_vulture_hoovul1/inaturalist/hooded_vulture_hoovul1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 118725,
+      "attribution": {
+        "photographer": "lbarlas",
+        "photographer_url": "https://www.inaturalist.org/observations/33635992",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lbarlas (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 33635992,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hooded_vulture_hoovul1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942960/bird-gallery/hooded_vulture_hoovul1/inaturalist/hooded_vulture_hoovul1_2.jpg",
+      "public_id": "bird-gallery/hooded_vulture_hoovul1/inaturalist/hooded_vulture_hoovul1_2",
+      "width": 1024,
+      "height": 641,
+      "format": "jpg",
+      "bytes": 46675,
+      "attribution": {
+        "photographer": "christoph_moning",
+        "photographer_url": "https://www.inaturalist.org/observations/59807626",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christoph_moning (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 59807626,
+        "note": null
+      }
+    },
+    {
+      "original_file": "hooded_vulture_hoovul1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942960/bird-gallery/hooded_vulture_hoovul1/inaturalist/hooded_vulture_hoovul1_3.jpg",
+      "public_id": "bird-gallery/hooded_vulture_hoovul1/inaturalist/hooded_vulture_hoovul1_3",
+      "width": 1024,
+      "height": 664,
+      "format": "jpg",
+      "bytes": 172695,
+      "attribution": {
+        "photographer": "lindsayb3",
+        "photographer_url": "https://www.inaturalist.org/observations/39381474",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lindsayb3 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39381474,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

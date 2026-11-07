@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "ethiopian_swallow_ethswa1",
+    "chinese_name": "红额燕",
+    "english_name": "Ethiopian Swallow",
+    "scientific_name": "Hirundo aethiopica"
+  },
+  "macaulay": [
+    {
+      "original_file": "ethiopian_swallow_ethswa1_33600151.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944319/bird-gallery/ethiopian_swallow_ethswa1/macaulay/ethiopian_swallow_ethswa1_33600151.jpg",
+      "public_id": "bird-gallery/ethiopian_swallow_ethswa1/macaulay/ethiopian_swallow_ethswa1_33600151",
+      "width": 1200,
+      "height": 745,
+      "format": "jpg",
+      "bytes": 37698,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33600151",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33600151",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ethiopian_swallow_ethswa1_33600161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944320/bird-gallery/ethiopian_swallow_ethswa1/macaulay/ethiopian_swallow_ethswa1_33600161.jpg",
+      "public_id": "bird-gallery/ethiopian_swallow_ethswa1/macaulay/ethiopian_swallow_ethswa1_33600161",
+      "width": 1200,
+      "height": 693,
+      "format": "jpg",
+      "bytes": 44027,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33600161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33600161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ethiopian_swallow_ethswa1_33600171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944321/bird-gallery/ethiopian_swallow_ethswa1/macaulay/ethiopian_swallow_ethswa1_33600171.jpg",
+      "public_id": "bird-gallery/ethiopian_swallow_ethswa1/macaulay/ethiopian_swallow_ethswa1_33600171",
+      "width": 1200,
+      "height": 677,
+      "format": "jpg",
+      "bytes": 41674,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33600171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33600171",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ethiopian_swallow_ethswa1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944322/bird-gallery/ethiopian_swallow_ethswa1/inaturalist/ethiopian_swallow_ethswa1_1.jpg",
+      "public_id": "bird-gallery/ethiopian_swallow_ethswa1/inaturalist/ethiopian_swallow_ethswa1_1",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 22948,
+      "attribution": {
+        "photographer": "stefaneakame",
+        "photographer_url": "https://www.inaturalist.org/observations/408031743",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stefaneakame (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 408031743,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ethiopian_swallow_ethswa1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944323/bird-gallery/ethiopian_swallow_ethswa1/inaturalist/ethiopian_swallow_ethswa1_2.jpg",
+      "public_id": "bird-gallery/ethiopian_swallow_ethswa1/inaturalist/ethiopian_swallow_ethswa1_2",
+      "width": 1024,
+      "height": 681,
+      "format": "jpg",
+      "bytes": 117065,
+      "attribution": {
+        "photographer": "agboola",
+        "photographer_url": "https://www.inaturalist.org/observations/103522318",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© agboola (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103522318,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ethiopian_swallow_ethswa1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944324/bird-gallery/ethiopian_swallow_ethswa1/inaturalist/ethiopian_swallow_ethswa1_3.jpg",
+      "public_id": "bird-gallery/ethiopian_swallow_ethswa1/inaturalist/ethiopian_swallow_ethswa1_3",
+      "width": 510,
+      "height": 340,
+      "format": "jpg",
+      "bytes": 15314,
+      "attribution": {
+        "photographer": "fabian747",
+        "photographer_url": "https://www.inaturalist.org/observations/331272913",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© fabian747 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 331272913,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

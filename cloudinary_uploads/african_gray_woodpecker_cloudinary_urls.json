@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_gray_woodpecker",
+    "chinese_name": "灰啄木鸟",
+    "english_name": "African Gray Woodpecker",
+    "scientific_name": "Dendropicos goertae"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_gray_woodpecker_521412981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945073/bird-gallery/african_gray_woodpecker/macaulay/african_gray_woodpecker_521412981.jpg",
+      "public_id": "bird-gallery/african_gray_woodpecker/macaulay/african_gray_woodpecker_521412981",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 55436,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/521412981",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "521412981",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_woodpecker_532189701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945074/bird-gallery/african_gray_woodpecker/macaulay/african_gray_woodpecker_532189701.jpg",
+      "public_id": "bird-gallery/african_gray_woodpecker/macaulay/african_gray_woodpecker_532189701",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 59331,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/532189701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "532189701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_woodpecker_554550621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945075/bird-gallery/african_gray_woodpecker/macaulay/african_gray_woodpecker_554550621.jpg",
+      "public_id": "bird-gallery/african_gray_woodpecker/macaulay/african_gray_woodpecker_554550621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79072,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/554550621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "554550621",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_gray_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945076/bird-gallery/african_gray_woodpecker/inaturalist/african_gray_woodpecker_1.jpg",
+      "public_id": "bird-gallery/african_gray_woodpecker/inaturalist/african_gray_woodpecker_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 215109,
+      "attribution": {
+        "photographer": "adamwelz",
+        "photographer_url": "https://www.inaturalist.org/observations/297860911",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© adamwelz (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 297860911,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945078/bird-gallery/african_gray_woodpecker/inaturalist/african_gray_woodpecker_2.jpg",
+      "public_id": "bird-gallery/african_gray_woodpecker/inaturalist/african_gray_woodpecker_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 201995,
+      "attribution": {
+        "photographer": "joshbern",
+        "photographer_url": "https://www.inaturalist.org/observations/337173270",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joshbern (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 337173270,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_gray_woodpecker_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945078/bird-gallery/african_gray_woodpecker/inaturalist/african_gray_woodpecker_3.jpg",
+      "public_id": "bird-gallery/african_gray_woodpecker/inaturalist/african_gray_woodpecker_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 141305,
+      "attribution": {
+        "photographer": "hoppy1951",
+        "photographer_url": "https://www.inaturalist.org/observations/5211450",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© hoppy1951 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 5211450,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

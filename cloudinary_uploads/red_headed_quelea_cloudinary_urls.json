@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_headed_quelea",
+    "chinese_name": "红头奎利亚雀",
+    "english_name": "Red-headed Quelea",
+    "scientific_name": "Quelea erythrops"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_headed_quelea_205106631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945326/bird-gallery/red_headed_quelea/macaulay/red_headed_quelea_205106631.jpg",
+      "public_id": "bird-gallery/red_headed_quelea/macaulay/red_headed_quelea_205106631",
+      "width": 533,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 46104,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205106631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205106631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_quelea_206441841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945327/bird-gallery/red_headed_quelea/macaulay/red_headed_quelea_206441841.jpg",
+      "public_id": "bird-gallery/red_headed_quelea/macaulay/red_headed_quelea_206441841",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 92918,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206441841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206441841",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_quelea_273129041.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945328/bird-gallery/red_headed_quelea/macaulay/red_headed_quelea_273129041.jpg",
+      "public_id": "bird-gallery/red_headed_quelea/macaulay/red_headed_quelea_273129041",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 72498,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/273129041",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "273129041",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_headed_quelea_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945329/bird-gallery/red_headed_quelea/inaturalist/red_headed_quelea_1.jpg",
+      "public_id": "bird-gallery/red_headed_quelea/inaturalist/red_headed_quelea_1",
+      "width": 1024,
+      "height": 829,
+      "format": "jpg",
+      "bytes": 97458,
+      "attribution": {
+        "photographer": "simonescrase",
+        "photographer_url": "https://www.inaturalist.org/observations/322934580",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© simonescrase (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 322934580,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_quelea_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945330/bird-gallery/red_headed_quelea/inaturalist/red_headed_quelea_2.jpg",
+      "public_id": "bird-gallery/red_headed_quelea/inaturalist/red_headed_quelea_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 117456,
+      "attribution": {
+        "photographer": "mathiasdhaen",
+        "photographer_url": "https://www.inaturalist.org/observations/137556373",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© mathiasdhaen (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 137556373,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_quelea_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945331/bird-gallery/red_headed_quelea/inaturalist/red_headed_quelea_3.jpg",
+      "public_id": "bird-gallery/red_headed_quelea/inaturalist/red_headed_quelea_3",
+      "width": 1024,
+      "height": 805,
+      "format": "jpg",
+      "bytes": 101490,
+      "attribution": {
+        "photographer": "drmckenzie",
+        "photographer_url": "https://www.inaturalist.org/observations/205473341",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© drmckenzie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 205473341,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

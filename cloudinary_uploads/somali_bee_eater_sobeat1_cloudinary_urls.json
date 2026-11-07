@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "somali_bee_eater_sobeat1",
+    "chinese_name": "索马里蜂虎",
+    "english_name": "Somali Bee-eater",
+    "scientific_name": "Merops revoilii"
+  },
+  "macaulay": [
+    {
+      "original_file": "somali_bee_eater_sobeat1_159317981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944116/bird-gallery/somali_bee_eater_sobeat1/macaulay/somali_bee_eater_sobeat1_159317981.jpg",
+      "public_id": "bird-gallery/somali_bee_eater_sobeat1/macaulay/somali_bee_eater_sobeat1_159317981",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55856,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/159317981",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "159317981",
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_bee_eater_sobeat1_205379721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944117/bird-gallery/somali_bee_eater_sobeat1/macaulay/somali_bee_eater_sobeat1_205379721.jpg",
+      "public_id": "bird-gallery/somali_bee_eater_sobeat1/macaulay/somali_bee_eater_sobeat1_205379721",
+      "width": 1200,
+      "height": 897,
+      "format": "jpg",
+      "bytes": 48975,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205379721",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205379721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_bee_eater_sobeat1_618207531.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944118/bird-gallery/somali_bee_eater_sobeat1/macaulay/somali_bee_eater_sobeat1_618207531.jpg",
+      "public_id": "bird-gallery/somali_bee_eater_sobeat1/macaulay/somali_bee_eater_sobeat1_618207531",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 53332,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/618207531",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "618207531",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "somali_bee_eater_sobeat1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944119/bird-gallery/somali_bee_eater_sobeat1/inaturalist/somali_bee_eater_sobeat1_1.jpg",
+      "public_id": "bird-gallery/somali_bee_eater_sobeat1/inaturalist/somali_bee_eater_sobeat1_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 64037,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/39254450",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39254450,
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_bee_eater_sobeat1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944120/bird-gallery/somali_bee_eater_sobeat1/inaturalist/somali_bee_eater_sobeat1_2.jpg",
+      "public_id": "bird-gallery/somali_bee_eater_sobeat1/inaturalist/somali_bee_eater_sobeat1_2",
+      "width": 731,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 51142,
+      "attribution": {
+        "photographer": "wayneosborn",
+        "photographer_url": "https://www.inaturalist.org/observations/151806109",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wayneosborn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 151806109,
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_bee_eater_sobeat1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944121/bird-gallery/somali_bee_eater_sobeat1/inaturalist/somali_bee_eater_sobeat1_3.jpg",
+      "public_id": "bird-gallery/somali_bee_eater_sobeat1/inaturalist/somali_bee_eater_sobeat1_3",
+      "width": 720,
+      "height": 540,
+      "format": "jpg",
+      "bytes": 24926,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/73529682",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 73529682,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

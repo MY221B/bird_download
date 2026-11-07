@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_fronted_parrot_refpar5",
+    "chinese_name": "贾丁氏鹦鹉",
+    "english_name": "Red-fronted Parrot",
+    "scientific_name": "Poicephalus gulielmi"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_fronted_parrot_refpar5_206134191.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941019/bird-gallery/red_fronted_parrot_refpar5/macaulay/red_fronted_parrot_refpar5_206134191.jpg",
+      "public_id": "bird-gallery/red_fronted_parrot_refpar5/macaulay/red_fronted_parrot_refpar5_206134191",
+      "width": 1152,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 140403,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206134191",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206134191",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_fronted_parrot_refpar5_387688731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941020/bird-gallery/red_fronted_parrot_refpar5/macaulay/red_fronted_parrot_refpar5_387688731.jpg",
+      "public_id": "bird-gallery/red_fronted_parrot_refpar5/macaulay/red_fronted_parrot_refpar5_387688731",
+      "width": 1005,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 185281,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/387688731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "387688731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_fronted_parrot_refpar5_428712121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941021/bird-gallery/red_fronted_parrot_refpar5/macaulay/red_fronted_parrot_refpar5_428712121.jpg",
+      "public_id": "bird-gallery/red_fronted_parrot_refpar5/macaulay/red_fronted_parrot_refpar5_428712121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74648,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/428712121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "428712121",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_fronted_parrot_refpar5_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941022/bird-gallery/red_fronted_parrot_refpar5/inaturalist/red_fronted_parrot_refpar5_1.jpg",
+      "public_id": "bird-gallery/red_fronted_parrot_refpar5/inaturalist/red_fronted_parrot_refpar5_1",
+      "width": 784,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 84721,
+      "attribution": {
+        "photographer": "joshua_rains",
+        "photographer_url": "https://www.inaturalist.org/observations/106286089",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joshua_rains (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106286089,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_fronted_parrot_refpar5_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941023/bird-gallery/red_fronted_parrot_refpar5/inaturalist/red_fronted_parrot_refpar5_2.jpg",
+      "public_id": "bird-gallery/red_fronted_parrot_refpar5/inaturalist/red_fronted_parrot_refpar5_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 122317,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7128491",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7128491,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_fronted_parrot_refpar5_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941024/bird-gallery/red_fronted_parrot_refpar5/inaturalist/red_fronted_parrot_refpar5_3.jpg",
+      "public_id": "bird-gallery/red_fronted_parrot_refpar5/inaturalist/red_fronted_parrot_refpar5_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48783,
+      "attribution": {
+        "photographer": "joaoquental",
+        "photographer_url": "https://www.inaturalist.org/observations/260367144",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© joaoquental (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 260367144,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "banded_prinia",
+    "chinese_name": "横斑山鹪莺",
+    "english_name": "Banded Prinia",
+    "scientific_name": "Prinia bairdii"
+  },
+  "macaulay": [
+    {
+      "original_file": "banded_prinia_205099721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944391/bird-gallery/banded_prinia/macaulay/banded_prinia_205099721.jpg",
+      "public_id": "bird-gallery/banded_prinia/macaulay/banded_prinia_205099721",
+      "width": 700,
+      "height": 467,
+      "format": "jpg",
+      "bytes": 43708,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205099721",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205099721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "banded_prinia_343052671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944391/bird-gallery/banded_prinia/macaulay/banded_prinia_343052671.jpg",
+      "public_id": "bird-gallery/banded_prinia/macaulay/banded_prinia_343052671",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 61226,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/343052671",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "343052671",
+        "note": null
+      }
+    },
+    {
+      "original_file": "banded_prinia_629275133.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944392/bird-gallery/banded_prinia/macaulay/banded_prinia_629275133.jpg",
+      "public_id": "bird-gallery/banded_prinia/macaulay/banded_prinia_629275133",
+      "width": 1200,
+      "height": 808,
+      "format": "jpg",
+      "bytes": 84525,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/629275133",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "629275133",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "banded_prinia_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944393/bird-gallery/banded_prinia/inaturalist/banded_prinia_1.jpg",
+      "public_id": "bird-gallery/banded_prinia/inaturalist/banded_prinia_1",
+      "width": 800,
+      "height": 571,
+      "format": "jpg",
+      "bytes": 48301,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/4070450",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 4070450,
+        "note": null
+      }
+    },
+    {
+      "original_file": "banded_prinia_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944394/bird-gallery/banded_prinia/inaturalist/banded_prinia_2.jpg",
+      "public_id": "bird-gallery/banded_prinia/inaturalist/banded_prinia_2",
+      "width": 800,
+      "height": 572,
+      "format": "jpg",
+      "bytes": 61568,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/75915613",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 75915613,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

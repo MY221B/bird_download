@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "southern_citril",
+    "chinese_name": "东非丝雀",
+    "english_name": "Southern Citril",
+    "scientific_name": "Crithagra hyposticta"
+  },
+  "macaulay": [
+    {
+      "original_file": "southern_citril_205488641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944753/bird-gallery/southern_citril/macaulay/southern_citril_205488641.jpg",
+      "public_id": "bird-gallery/southern_citril/macaulay/southern_citril_205488641",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 61505,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205488641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205488641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_citril_299395151.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944754/bird-gallery/southern_citril/macaulay/southern_citril_299395151.jpg",
+      "public_id": "bird-gallery/southern_citril/macaulay/southern_citril_299395151",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76442,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/299395151",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "299395151",
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_citril_591845251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944755/bird-gallery/southern_citril/macaulay/southern_citril_591845251.jpg",
+      "public_id": "bird-gallery/southern_citril/macaulay/southern_citril_591845251",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98178,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/591845251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "591845251",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "southern_citril_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944756/bird-gallery/southern_citril/inaturalist/southern_citril_1.jpg",
+      "public_id": "bird-gallery/southern_citril/inaturalist/southern_citril_1",
+      "width": 1024,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 79768,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192737009",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192737009,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_citril_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944756/bird-gallery/southern_citril/inaturalist/southern_citril_2.jpg",
+      "public_id": "bird-gallery/southern_citril/inaturalist/southern_citril_2",
+      "width": 1024,
+      "height": 670,
+      "format": "jpg",
+      "bytes": 125705,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192737172",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192737172,
+        "note": null
+      }
+    },
+    {
+      "original_file": "southern_citril_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944757/bird-gallery/southern_citril/inaturalist/southern_citril_3.jpg",
+      "public_id": "bird-gallery/southern_citril/inaturalist/southern_citril_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 52846,
+      "attribution": {
+        "photographer": "martin_kattam",
+        "photographer_url": "https://www.inaturalist.org/observations/7095409",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© martin_kattam (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 7095409,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

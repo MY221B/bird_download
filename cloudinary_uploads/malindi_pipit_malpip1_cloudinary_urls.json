@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "malindi_pipit_malpip1",
+    "chinese_name": "灰鹨",
+    "english_name": "Malindi Pipit",
+    "scientific_name": "Anthus melindae"
+  },
+  "macaulay": [
+    {
+      "original_file": "malindi_pipit_malpip1_203643411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945274/bird-gallery/malindi_pipit_malpip1/macaulay/malindi_pipit_malpip1_203643411.jpg",
+      "public_id": "bird-gallery/malindi_pipit_malpip1/macaulay/malindi_pipit_malpip1_203643411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62217,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/203643411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "203643411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "malindi_pipit_malpip1_205965541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945275/bird-gallery/malindi_pipit_malpip1/macaulay/malindi_pipit_malpip1_205965541.jpg",
+      "public_id": "bird-gallery/malindi_pipit_malpip1/macaulay/malindi_pipit_malpip1_205965541",
+      "width": 1000,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93922,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205965541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205965541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "malindi_pipit_malpip1_205965551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945276/bird-gallery/malindi_pipit_malpip1/macaulay/malindi_pipit_malpip1_205965551.jpg",
+      "public_id": "bird-gallery/malindi_pipit_malpip1/macaulay/malindi_pipit_malpip1_205965551",
+      "width": 1000,
+      "height": 762,
+      "format": "jpg",
+      "bytes": 89585,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205965551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205965551",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "malindi_pipit_malpip1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945277/bird-gallery/malindi_pipit_malpip1/inaturalist/malindi_pipit_malpip1_1.jpg",
+      "public_id": "bird-gallery/malindi_pipit_malpip1/inaturalist/malindi_pipit_malpip1_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 58397,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/408660923",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 408660923,
+        "note": null
+      }
+    },
+    {
+      "original_file": "malindi_pipit_malpip1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945279/bird-gallery/malindi_pipit_malpip1/inaturalist/malindi_pipit_malpip1_3.jpg",
+      "public_id": "bird-gallery/malindi_pipit_malpip1/inaturalist/malindi_pipit_malpip1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 66920,
+      "attribution": {
+        "photographer": "gomenwl",
+        "photographer_url": "https://www.inaturalist.org/observations/152622360",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gomenwl (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 152622360,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

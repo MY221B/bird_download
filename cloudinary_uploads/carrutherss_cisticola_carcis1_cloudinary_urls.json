@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "carrutherss_cisticola_carcis1",
+    "chinese_name": "卡氏扇尾莺",
+    "english_name": "Carruthers's Cisticola",
+    "scientific_name": "Cisticola carruthersi"
+  },
+  "macaulay": [
+    {
+      "original_file": "carrutherss_cisticola_carcis1_110495921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944944/bird-gallery/carrutherss_cisticola_carcis1/macaulay/carrutherss_cisticola_carcis1_110495921.jpg",
+      "public_id": "bird-gallery/carrutherss_cisticola_carcis1/macaulay/carrutherss_cisticola_carcis1_110495921",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 104277,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/110495921",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "110495921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "carrutherss_cisticola_carcis1_205985931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944946/bird-gallery/carrutherss_cisticola_carcis1/macaulay/carrutherss_cisticola_carcis1_205985931.jpg",
+      "public_id": "bird-gallery/carrutherss_cisticola_carcis1/macaulay/carrutherss_cisticola_carcis1_205985931",
+      "width": 907,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82520,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205985931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205985931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "carrutherss_cisticola_carcis1_206101131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944947/bird-gallery/carrutherss_cisticola_carcis1/macaulay/carrutherss_cisticola_carcis1_206101131.jpg",
+      "public_id": "bird-gallery/carrutherss_cisticola_carcis1/macaulay/carrutherss_cisticola_carcis1_206101131",
+      "width": 1024,
+      "height": 668,
+      "format": "jpg",
+      "bytes": 54768,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206101131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206101131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "carrutherss_cisticola_carcis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944947/bird-gallery/carrutherss_cisticola_carcis1/inaturalist/carrutherss_cisticola_carcis1_1.jpg",
+      "public_id": "bird-gallery/carrutherss_cisticola_carcis1/inaturalist/carrutherss_cisticola_carcis1_1",
+      "width": 1024,
+      "height": 849,
+      "format": "jpg",
+      "bytes": 65433,
+      "attribution": {
+        "photographer": "andrewkruger",
+        "photographer_url": "https://www.inaturalist.org/observations/319536495",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© andrewkruger (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 319536495,
+        "note": null
+      }
+    },
+    {
+      "original_file": "carrutherss_cisticola_carcis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944948/bird-gallery/carrutherss_cisticola_carcis1/inaturalist/carrutherss_cisticola_carcis1_2.jpg",
+      "public_id": "bird-gallery/carrutherss_cisticola_carcis1/inaturalist/carrutherss_cisticola_carcis1_2",
+      "width": 1024,
+      "height": 735,
+      "format": "jpg",
+      "bytes": 116536,
+      "attribution": {
+        "photographer": "md-in-ns15",
+        "photographer_url": "https://www.inaturalist.org/observations/255705812",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© md-in-ns15 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255705812,
+        "note": null
+      }
+    },
+    {
+      "original_file": "carrutherss_cisticola_carcis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944949/bird-gallery/carrutherss_cisticola_carcis1/inaturalist/carrutherss_cisticola_carcis1_3.jpg",
+      "public_id": "bird-gallery/carrutherss_cisticola_carcis1/inaturalist/carrutherss_cisticola_carcis1_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 50982,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/88019543",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 88019543,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

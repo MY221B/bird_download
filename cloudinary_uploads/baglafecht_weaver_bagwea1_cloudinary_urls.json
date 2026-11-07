@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "baglafecht_weaver_bagwea1",
+    "chinese_name": "黄腹织雀",
+    "english_name": "Baglafecht Weaver",
+    "scientific_name": "Ploceus baglafecht"
+  },
+  "macaulay": [
+    {
+      "original_file": "baglafecht_weaver_bagwea1_162316641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939306/bird-gallery/baglafecht_weaver_bagwea1/macaulay/baglafecht_weaver_bagwea1_162316641.jpg",
+      "public_id": "bird-gallery/baglafecht_weaver_bagwea1/macaulay/baglafecht_weaver_bagwea1_162316641",
+      "width": 1200,
+      "height": 707,
+      "format": "jpg",
+      "bytes": 73623,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/162316641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "162316641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "baglafecht_weaver_bagwea1_665521764.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939307/bird-gallery/baglafecht_weaver_bagwea1/macaulay/baglafecht_weaver_bagwea1_665521764.jpg",
+      "public_id": "bird-gallery/baglafecht_weaver_bagwea1/macaulay/baglafecht_weaver_bagwea1_665521764",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 178131,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665521764",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665521764",
+        "note": null
+      }
+    },
+    {
+      "original_file": "baglafecht_weaver_bagwea1_665521766.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939308/bird-gallery/baglafecht_weaver_bagwea1/macaulay/baglafecht_weaver_bagwea1_665521766.jpg",
+      "public_id": "bird-gallery/baglafecht_weaver_bagwea1/macaulay/baglafecht_weaver_bagwea1_665521766",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79791,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665521766",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665521766",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "baglafecht_weaver_bagwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939309/bird-gallery/baglafecht_weaver_bagwea1/inaturalist/baglafecht_weaver_bagwea1_1.jpg",
+      "public_id": "bird-gallery/baglafecht_weaver_bagwea1/inaturalist/baglafecht_weaver_bagwea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 60472,
+      "attribution": {
+        "photographer": "ruperl_h",
+        "photographer_url": "https://www.inaturalist.org/observations/255612619",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ruperl_h (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 255612619,
+        "note": null
+      }
+    },
+    {
+      "original_file": "baglafecht_weaver_bagwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939310/bird-gallery/baglafecht_weaver_bagwea1/inaturalist/baglafecht_weaver_bagwea1_2.jpg",
+      "public_id": "bird-gallery/baglafecht_weaver_bagwea1/inaturalist/baglafecht_weaver_bagwea1_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 120825,
+      "attribution": {
+        "photographer": "grr007",
+        "photographer_url": "https://www.inaturalist.org/observations/127329787",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© grr007 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 127329787,
+        "note": null
+      }
+    },
+    {
+      "original_file": "baglafecht_weaver_bagwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939311/bird-gallery/baglafecht_weaver_bagwea1/inaturalist/baglafecht_weaver_bagwea1_3.jpg",
+      "public_id": "bird-gallery/baglafecht_weaver_bagwea1/inaturalist/baglafecht_weaver_bagwea1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 146312,
+      "attribution": {
+        "photographer": "oscar_wainwright",
+        "photographer_url": "https://www.inaturalist.org/observations/339380411",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© oscar_wainwright (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 339380411,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

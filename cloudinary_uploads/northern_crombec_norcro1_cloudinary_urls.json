@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_crombec_norcro1",
+    "chinese_name": "短尾森莺",
+    "english_name": "Northern Crombec",
+    "scientific_name": "Sylvietta brachyura"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_crombec_norcro1_164849421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941962/bird-gallery/northern_crombec_norcro1/macaulay/northern_crombec_norcro1_164849421.jpg",
+      "public_id": "bird-gallery/northern_crombec_norcro1/macaulay/northern_crombec_norcro1_164849421",
+      "width": 1200,
+      "height": 695,
+      "format": "jpg",
+      "bytes": 68873,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/164849421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "164849421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_crombec_norcro1_204278771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941963/bird-gallery/northern_crombec_norcro1/macaulay/northern_crombec_norcro1_204278771.jpg",
+      "public_id": "bird-gallery/northern_crombec_norcro1/macaulay/northern_crombec_norcro1_204278771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77578,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204278771",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204278771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_crombec_norcro1_205994371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941964/bird-gallery/northern_crombec_norcro1/macaulay/northern_crombec_norcro1_205994371.jpg",
+      "public_id": "bird-gallery/northern_crombec_norcro1/macaulay/northern_crombec_norcro1_205994371",
+      "width": 1000,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 46793,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205994371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205994371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_crombec_norcro1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941965/bird-gallery/northern_crombec_norcro1/inaturalist/northern_crombec_norcro1_1.jpg",
+      "public_id": "bird-gallery/northern_crombec_norcro1/inaturalist/northern_crombec_norcro1_1",
+      "width": 650,
+      "height": 591,
+      "format": "jpg",
+      "bytes": 34453,
+      "attribution": {
+        "photographer": "joachim",
+        "photographer_url": "https://www.inaturalist.org/observations/1081641",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© joachim (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 1081641,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_crombec_norcro1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941966/bird-gallery/northern_crombec_norcro1/inaturalist/northern_crombec_norcro1_2.jpg",
+      "public_id": "bird-gallery/northern_crombec_norcro1/inaturalist/northern_crombec_norcro1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 183300,
+      "attribution": {
+        "photographer": "ramonamom",
+        "photographer_url": "https://www.inaturalist.org/observations/82625036",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ramonamom (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 82625036,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_crombec_norcro1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941966/bird-gallery/northern_crombec_norcro1/inaturalist/northern_crombec_norcro1_3.jpg",
+      "public_id": "bird-gallery/northern_crombec_norcro1/inaturalist/northern_crombec_norcro1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63105,
+      "attribution": {
+        "photographer": "lostincr",
+        "photographer_url": "https://www.inaturalist.org/observations/230361400",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lostincr (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 230361400,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "scarlet_chested_sunbird_sccsun2",
+    "chinese_name": "赤胸花蜜鸟",
+    "english_name": "Scarlet-chested Sunbird",
+    "scientific_name": "Chalcomitra senegalensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "scarlet_chested_sunbird_sccsun2_147892271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940173/bird-gallery/scarlet_chested_sunbird_sccsun2/macaulay/scarlet_chested_sunbird_sccsun2_147892271.jpg",
+      "public_id": "bird-gallery/scarlet_chested_sunbird_sccsun2/macaulay/scarlet_chested_sunbird_sccsun2_147892271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70162,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/147892271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "147892271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "scarlet_chested_sunbird_sccsun2_396555551.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940174/bird-gallery/scarlet_chested_sunbird_sccsun2/macaulay/scarlet_chested_sunbird_sccsun2_396555551.jpg",
+      "public_id": "bird-gallery/scarlet_chested_sunbird_sccsun2/macaulay/scarlet_chested_sunbird_sccsun2_396555551",
+      "width": 1200,
+      "height": 838,
+      "format": "jpg",
+      "bytes": 85677,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/396555551",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "396555551",
+        "note": null
+      }
+    },
+    {
+      "original_file": "scarlet_chested_sunbird_sccsun2_628777166.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940175/bird-gallery/scarlet_chested_sunbird_sccsun2/macaulay/scarlet_chested_sunbird_sccsun2_628777166.jpg",
+      "public_id": "bird-gallery/scarlet_chested_sunbird_sccsun2/macaulay/scarlet_chested_sunbird_sccsun2_628777166",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 76851,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628777166",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628777166",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "scarlet_chested_sunbird_sccsun2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940176/bird-gallery/scarlet_chested_sunbird_sccsun2/inaturalist/scarlet_chested_sunbird_sccsun2_1.jpg",
+      "public_id": "bird-gallery/scarlet_chested_sunbird_sccsun2/inaturalist/scarlet_chested_sunbird_sccsun2_1",
+      "width": 1024,
+      "height": 839,
+      "format": "jpg",
+      "bytes": 60630,
+      "attribution": {
+        "photographer": "drmckenzie",
+        "photographer_url": "https://www.inaturalist.org/observations/203074758",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© drmckenzie (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 203074758,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scarlet_chested_sunbird_sccsun2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940177/bird-gallery/scarlet_chested_sunbird_sccsun2/inaturalist/scarlet_chested_sunbird_sccsun2_2.jpg",
+      "public_id": "bird-gallery/scarlet_chested_sunbird_sccsun2/inaturalist/scarlet_chested_sunbird_sccsun2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 65395,
+      "attribution": {
+        "photographer": "hermanviv",
+        "photographer_url": "https://www.inaturalist.org/observations/319221916",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hermanviv (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 319221916,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scarlet_chested_sunbird_sccsun2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940178/bird-gallery/scarlet_chested_sunbird_sccsun2/inaturalist/scarlet_chested_sunbird_sccsun2_3.jpg",
+      "public_id": "bird-gallery/scarlet_chested_sunbird_sccsun2/inaturalist/scarlet_chested_sunbird_sccsun2_3",
+      "width": 1024,
+      "height": 490,
+      "format": "jpg",
+      "bytes": 37267,
+      "attribution": {
+        "photographer": "alatham",
+        "photographer_url": "https://www.inaturalist.org/observations/153142574",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alatham (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 153142574,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

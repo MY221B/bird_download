@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "red_winged_starling_rewsta1",
+    "chinese_name": "红翅椋鸟",
+    "english_name": "Red-winged Starling",
+    "scientific_name": "Onychognathus morio"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_winged_starling_rewsta1_166327021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940093/bird-gallery/red_winged_starling_rewsta1/macaulay/red_winged_starling_rewsta1_166327021.jpg",
+      "public_id": "bird-gallery/red_winged_starling_rewsta1/macaulay/red_winged_starling_rewsta1_166327021",
+      "width": 1200,
+      "height": 899,
+      "format": "jpg",
+      "bytes": 101655,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/166327021",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "166327021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_winged_starling_rewsta1_642317859.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940095/bird-gallery/red_winged_starling_rewsta1/macaulay/red_winged_starling_rewsta1_642317859.jpg",
+      "public_id": "bird-gallery/red_winged_starling_rewsta1/macaulay/red_winged_starling_rewsta1_642317859",
+      "width": 1200,
+      "height": 837,
+      "format": "jpg",
+      "bytes": 68390,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/642317859",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "642317859",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_winged_starling_rewsta1_644846437.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940096/bird-gallery/red_winged_starling_rewsta1/macaulay/red_winged_starling_rewsta1_644846437.jpg",
+      "public_id": "bird-gallery/red_winged_starling_rewsta1/macaulay/red_winged_starling_rewsta1_644846437",
+      "width": 1179,
+      "height": 931,
+      "format": "jpg",
+      "bytes": 105945,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/644846437",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "644846437",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_winged_starling_rewsta1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940097/bird-gallery/red_winged_starling_rewsta1/inaturalist/red_winged_starling_rewsta1_1.jpg",
+      "public_id": "bird-gallery/red_winged_starling_rewsta1/inaturalist/red_winged_starling_rewsta1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 189629,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/19861035",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19861035,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_winged_starling_rewsta1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940098/bird-gallery/red_winged_starling_rewsta1/inaturalist/red_winged_starling_rewsta1_2.jpg",
+      "public_id": "bird-gallery/red_winged_starling_rewsta1/inaturalist/red_winged_starling_rewsta1_2",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 58464,
+      "attribution": {
+        "photographer": "nikola_s",
+        "photographer_url": "https://www.inaturalist.org/observations/19759818",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikola_s (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 19759818,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

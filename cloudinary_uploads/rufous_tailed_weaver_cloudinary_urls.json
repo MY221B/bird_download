@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "rufous_tailed_weaver",
+    "chinese_name": "棕尾织雀",
+    "english_name": "Rufous-tailed Weaver",
+    "scientific_name": "Histurgops ruficauda"
+  },
+  "macaulay": [
+    {
+      "original_file": "rufous_tailed_weaver_599186251.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943081/bird-gallery/rufous_tailed_weaver/macaulay/rufous_tailed_weaver_599186251.jpg",
+      "public_id": "bird-gallery/rufous_tailed_weaver/macaulay/rufous_tailed_weaver_599186251",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 80953,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/599186251",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "599186251",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_tailed_weaver_616962687.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943082/bird-gallery/rufous_tailed_weaver/macaulay/rufous_tailed_weaver_616962687.jpg",
+      "public_id": "bird-gallery/rufous_tailed_weaver/macaulay/rufous_tailed_weaver_616962687",
+      "width": 1200,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 88985,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/616962687",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "616962687",
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_tailed_weaver_666219935.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943083/bird-gallery/rufous_tailed_weaver/macaulay/rufous_tailed_weaver_666219935.jpg",
+      "public_id": "bird-gallery/rufous_tailed_weaver/macaulay/rufous_tailed_weaver_666219935",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 128511,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/666219935",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "666219935",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "rufous_tailed_weaver_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943084/bird-gallery/rufous_tailed_weaver/inaturalist/rufous_tailed_weaver_1.jpg",
+      "public_id": "bird-gallery/rufous_tailed_weaver/inaturalist/rufous_tailed_weaver_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 100151,
+      "attribution": {
+        "photographer": "rickpower88",
+        "photographer_url": "https://www.inaturalist.org/observations/30246506",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rickpower88 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 30246506,
+        "note": null
+      }
+    },
+    {
+      "original_file": "rufous_tailed_weaver_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943085/bird-gallery/rufous_tailed_weaver/inaturalist/rufous_tailed_weaver_2.jpg",
+      "public_id": "bird-gallery/rufous_tailed_weaver/inaturalist/rufous_tailed_weaver_2",
+      "width": 1024,
+      "height": 721,
+      "format": "jpg",
+      "bytes": 84599,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/100164885",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100164885,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

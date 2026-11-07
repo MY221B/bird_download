@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_eyed_dove_reedov1",
+    "chinese_name": "红眼斑鸠",
+    "english_name": "Red-eyed Dove",
+    "scientific_name": "Streptopelia semitorquata"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_eyed_dove_reedov1_120040781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940020/bird-gallery/red_eyed_dove_reedov1/macaulay/red_eyed_dove_reedov1_120040781.jpg",
+      "public_id": "bird-gallery/red_eyed_dove_reedov1/macaulay/red_eyed_dove_reedov1_120040781",
+      "width": 1200,
+      "height": 673,
+      "format": "jpg",
+      "bytes": 85452,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/120040781",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "120040781",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_eyed_dove_reedov1_150741721.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940021/bird-gallery/red_eyed_dove_reedov1/macaulay/red_eyed_dove_reedov1_150741721.jpg",
+      "public_id": "bird-gallery/red_eyed_dove_reedov1/macaulay/red_eyed_dove_reedov1_150741721",
+      "width": 1200,
+      "height": 834,
+      "format": "jpg",
+      "bytes": 53760,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/150741721",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "150741721",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_eyed_dove_reedov1_628749499.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940022/bird-gallery/red_eyed_dove_reedov1/macaulay/red_eyed_dove_reedov1_628749499.jpg",
+      "public_id": "bird-gallery/red_eyed_dove_reedov1/macaulay/red_eyed_dove_reedov1_628749499",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 40344,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628749499",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628749499",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_eyed_dove_reedov1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940022/bird-gallery/red_eyed_dove_reedov1/inaturalist/red_eyed_dove_reedov1_1.jpg",
+      "public_id": "bird-gallery/red_eyed_dove_reedov1/inaturalist/red_eyed_dove_reedov1_1",
+      "width": 642,
+      "height": 642,
+      "format": "jpg",
+      "bytes": 49676,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/247881102",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 247881102,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_eyed_dove_reedov1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940023/bird-gallery/red_eyed_dove_reedov1/inaturalist/red_eyed_dove_reedov1_2.jpg",
+      "public_id": "bird-gallery/red_eyed_dove_reedov1/inaturalist/red_eyed_dove_reedov1_2",
+      "width": 1024,
+      "height": 987,
+      "format": "jpg",
+      "bytes": 50755,
+      "attribution": {
+        "photographer": "iambebop",
+        "photographer_url": "https://www.inaturalist.org/observations/102614925",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© iambebop (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 102614925,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_eyed_dove_reedov1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940024/bird-gallery/red_eyed_dove_reedov1/inaturalist/red_eyed_dove_reedov1_3.jpg",
+      "public_id": "bird-gallery/red_eyed_dove_reedov1/inaturalist/red_eyed_dove_reedov1_3",
+      "width": 1024,
+      "height": 740,
+      "format": "jpg",
+      "bytes": 146195,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/20166461",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 20166461,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

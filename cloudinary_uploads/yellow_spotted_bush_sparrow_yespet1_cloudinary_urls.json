@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "yellow_spotted_bush_sparrow_yespet1",
+    "chinese_name": "黄斑石雀",
+    "english_name": "Yellow-spotted Bush Sparrow",
+    "scientific_name": "Gymnoris pyrgita"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_spotted_bush_sparrow_yespet1_204255861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940719/bird-gallery/yellow_spotted_bush_sparrow_yespet1/macaulay/yellow_spotted_bush_sparrow_yespet1_204255861.jpg",
+      "public_id": "bird-gallery/yellow_spotted_bush_sparrow_yespet1/macaulay/yellow_spotted_bush_sparrow_yespet1_204255861",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 31867,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204255861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204255861",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_spotted_bush_sparrow_yespet1_204372241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940720/bird-gallery/yellow_spotted_bush_sparrow_yespet1/macaulay/yellow_spotted_bush_sparrow_yespet1_204372241.jpg",
+      "public_id": "bird-gallery/yellow_spotted_bush_sparrow_yespet1/macaulay/yellow_spotted_bush_sparrow_yespet1_204372241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 84847,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204372241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204372241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_spotted_bush_sparrow_yespet1_206153841.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940721/bird-gallery/yellow_spotted_bush_sparrow_yespet1/macaulay/yellow_spotted_bush_sparrow_yespet1_206153841.jpg",
+      "public_id": "bird-gallery/yellow_spotted_bush_sparrow_yespet1/macaulay/yellow_spotted_bush_sparrow_yespet1_206153841",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67829,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206153841",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206153841",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_spotted_bush_sparrow_yespet1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940723/bird-gallery/yellow_spotted_bush_sparrow_yespet1/inaturalist/yellow_spotted_bush_sparrow_yespet1_2.jpg",
+      "public_id": "bird-gallery/yellow_spotted_bush_sparrow_yespet1/inaturalist/yellow_spotted_bush_sparrow_yespet1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 160410,
+      "attribution": {
+        "photographer": "brianhof",
+        "photographer_url": "https://www.inaturalist.org/observations/128045574",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© brianhof (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 128045574,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_spotted_bush_sparrow_yespet1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940724/bird-gallery/yellow_spotted_bush_sparrow_yespet1/inaturalist/yellow_spotted_bush_sparrow_yespet1_3.jpg",
+      "public_id": "bird-gallery/yellow_spotted_bush_sparrow_yespet1/inaturalist/yellow_spotted_bush_sparrow_yespet1_3",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 75592,
+      "attribution": {
+        "photographer": "ddlshart",
+        "photographer_url": "https://www.inaturalist.org/observations/260409739",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ddlshart (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 260409739,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

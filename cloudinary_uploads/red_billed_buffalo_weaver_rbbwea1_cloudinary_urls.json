@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_billed_buffalo_weaver_rbbwea1",
+    "chinese_name": "红嘴牛文鸟",
+    "english_name": "Red-billed Buffalo-Weaver",
+    "scientific_name": "Bubalornis niger"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_billed_buffalo_weaver_rbbwea1_204590591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943959/bird-gallery/red_billed_buffalo_weaver_rbbwea1/macaulay/red_billed_buffalo_weaver_rbbwea1_204590591.jpg",
+      "public_id": "bird-gallery/red_billed_buffalo_weaver_rbbwea1/macaulay/red_billed_buffalo_weaver_rbbwea1_204590591",
+      "width": 1200,
+      "height": 722,
+      "format": "jpg",
+      "bytes": 53529,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204590591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204590591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_buffalo_weaver_rbbwea1_364107171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943960/bird-gallery/red_billed_buffalo_weaver_rbbwea1/macaulay/red_billed_buffalo_weaver_rbbwea1_364107171.jpg",
+      "public_id": "bird-gallery/red_billed_buffalo_weaver_rbbwea1/macaulay/red_billed_buffalo_weaver_rbbwea1_364107171",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 85062,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/364107171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "364107171",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_buffalo_weaver_rbbwea1_652707306.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943961/bird-gallery/red_billed_buffalo_weaver_rbbwea1/macaulay/red_billed_buffalo_weaver_rbbwea1_652707306.jpg",
+      "public_id": "bird-gallery/red_billed_buffalo_weaver_rbbwea1/macaulay/red_billed_buffalo_weaver_rbbwea1_652707306",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 97593,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/652707306",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "652707306",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_billed_buffalo_weaver_rbbwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943962/bird-gallery/red_billed_buffalo_weaver_rbbwea1/inaturalist/red_billed_buffalo_weaver_rbbwea1_1.jpg",
+      "public_id": "bird-gallery/red_billed_buffalo_weaver_rbbwea1/inaturalist/red_billed_buffalo_weaver_rbbwea1_1",
+      "width": 1024,
+      "height": 992,
+      "format": "jpg",
+      "bytes": 269706,
+      "attribution": {
+        "photographer": "peterhma",
+        "photographer_url": "https://www.inaturalist.org/observations/272293562",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© peterhma (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 272293562,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_buffalo_weaver_rbbwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943963/bird-gallery/red_billed_buffalo_weaver_rbbwea1/inaturalist/red_billed_buffalo_weaver_rbbwea1_2.jpg",
+      "public_id": "bird-gallery/red_billed_buffalo_weaver_rbbwea1/inaturalist/red_billed_buffalo_weaver_rbbwea1_2",
+      "width": 1024,
+      "height": 590,
+      "format": "jpg",
+      "bytes": 118987,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/100042165",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100042165,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_billed_buffalo_weaver_rbbwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943964/bird-gallery/red_billed_buffalo_weaver_rbbwea1/inaturalist/red_billed_buffalo_weaver_rbbwea1_3.jpg",
+      "public_id": "bird-gallery/red_billed_buffalo_weaver_rbbwea1/inaturalist/red_billed_buffalo_weaver_rbbwea1_3",
+      "width": 1024,
+      "height": 964,
+      "format": "jpg",
+      "bytes": 71549,
+      "attribution": {
+        "photographer": "jsoczynska",
+        "photographer_url": "https://www.inaturalist.org/observations/110774493",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jsoczynska (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 110774493,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

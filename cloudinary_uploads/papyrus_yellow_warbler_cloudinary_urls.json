@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "papyrus_yellow_warbler",
+    "chinese_name": "细嘴捕蝇莺",
+    "english_name": "Papyrus Yellow-Warbler",
+    "scientific_name": "Calamonastides gracilirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "papyrus_yellow_warbler_204515811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945003/bird-gallery/papyrus_yellow_warbler/macaulay/papyrus_yellow_warbler_204515811.jpg",
+      "public_id": "bird-gallery/papyrus_yellow_warbler/macaulay/papyrus_yellow_warbler_204515811",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "bytes": 16837,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204515811",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204515811",
+        "note": null
+      }
+    },
+    {
+      "original_file": "papyrus_yellow_warbler_204515821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945004/bird-gallery/papyrus_yellow_warbler/macaulay/papyrus_yellow_warbler_204515821.jpg",
+      "public_id": "bird-gallery/papyrus_yellow_warbler/macaulay/papyrus_yellow_warbler_204515821",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "bytes": 23626,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204515821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204515821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "papyrus_yellow_warbler_582744821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945005/bird-gallery/papyrus_yellow_warbler/macaulay/papyrus_yellow_warbler_582744821.jpg",
+      "public_id": "bird-gallery/papyrus_yellow_warbler/macaulay/papyrus_yellow_warbler_582744821",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 99542,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/582744821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "582744821",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "papyrus_yellow_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945006/bird-gallery/papyrus_yellow_warbler/inaturalist/papyrus_yellow_warbler_1.jpg",
+      "public_id": "bird-gallery/papyrus_yellow_warbler/inaturalist/papyrus_yellow_warbler_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 83343,
+      "attribution": {
+        "photographer": "xenops",
+        "photographer_url": "https://www.inaturalist.org/observations/335869617",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© xenops (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 335869617,
+        "note": null
+      }
+    },
+    {
+      "original_file": "papyrus_yellow_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945007/bird-gallery/papyrus_yellow_warbler/inaturalist/papyrus_yellow_warbler_2.jpg",
+      "public_id": "bird-gallery/papyrus_yellow_warbler/inaturalist/papyrus_yellow_warbler_2",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 69624,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/44982478",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 44982478,
+        "note": null
+      }
+    },
+    {
+      "original_file": "papyrus_yellow_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945008/bird-gallery/papyrus_yellow_warbler/inaturalist/papyrus_yellow_warbler_3.jpg",
+      "public_id": "bird-gallery/papyrus_yellow_warbler/inaturalist/papyrus_yellow_warbler_3",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 73189,
+      "attribution": {
+        "photographer": "augustofaustino",
+        "photographer_url": "https://www.inaturalist.org/observations/406302987",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© augustofaustino (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 406302987,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

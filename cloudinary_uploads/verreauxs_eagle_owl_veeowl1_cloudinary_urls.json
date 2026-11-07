@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "verreauxs_eagle_owl_veeowl1",
+    "chinese_name": "乳黄雕鸮",
+    "english_name": "Verreaux's Eagle-Owl",
+    "scientific_name": "Ketupa lactea"
+  },
+  "macaulay": [
+    {
+      "original_file": "verreauxs_eagle_owl_veeowl1_136704541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941599/bird-gallery/verreauxs_eagle_owl_veeowl1/macaulay/verreauxs_eagle_owl_veeowl1_136704541.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_owl_veeowl1/macaulay/verreauxs_eagle_owl_veeowl1_136704541",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99488,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136704541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136704541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "verreauxs_eagle_owl_veeowl1_204209861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941600/bird-gallery/verreauxs_eagle_owl_veeowl1/macaulay/verreauxs_eagle_owl_veeowl1_204209861.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_owl_veeowl1/macaulay/verreauxs_eagle_owl_veeowl1_204209861",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 99715,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204209861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204209861",
+        "note": null
+      }
+    },
+    {
+      "original_file": "verreauxs_eagle_owl_veeowl1_644846449.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941601/bird-gallery/verreauxs_eagle_owl_veeowl1/macaulay/verreauxs_eagle_owl_veeowl1_644846449.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_owl_veeowl1/macaulay/verreauxs_eagle_owl_veeowl1_644846449",
+      "width": 976,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 115579,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/644846449",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "644846449",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "verreauxs_eagle_owl_veeowl1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941602/bird-gallery/verreauxs_eagle_owl_veeowl1/inaturalist/verreauxs_eagle_owl_veeowl1_1.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_owl_veeowl1/inaturalist/verreauxs_eagle_owl_veeowl1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 129443,
+      "attribution": {
+        "photographer": "rhys-outsidelens",
+        "photographer_url": "https://www.inaturalist.org/observations/343386806",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© rhys-outsidelens (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 343386806,
+        "note": null
+      }
+    },
+    {
+      "original_file": "verreauxs_eagle_owl_veeowl1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941603/bird-gallery/verreauxs_eagle_owl_veeowl1/inaturalist/verreauxs_eagle_owl_veeowl1_2.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_owl_veeowl1/inaturalist/verreauxs_eagle_owl_veeowl1_2",
+      "width": 863,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 111117,
+      "attribution": {
+        "photographer": "pieterkotze",
+        "photographer_url": "https://www.inaturalist.org/observations/195252084",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© pieterkotze (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 195252084,
+        "note": null
+      }
+    },
+    {
+      "original_file": "verreauxs_eagle_owl_veeowl1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941604/bird-gallery/verreauxs_eagle_owl_veeowl1/inaturalist/verreauxs_eagle_owl_veeowl1_3.jpg",
+      "public_id": "bird-gallery/verreauxs_eagle_owl_veeowl1/inaturalist/verreauxs_eagle_owl_veeowl1_3",
+      "width": 1024,
+      "height": 791,
+      "format": "jpg",
+      "bytes": 108443,
+      "attribution": {
+        "photographer": "cornerautenbach",
+        "photographer_url": "https://www.inaturalist.org/observations/172008051",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cornerautenbach (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 172008051,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

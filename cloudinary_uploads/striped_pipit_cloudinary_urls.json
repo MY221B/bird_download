@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "striped_pipit",
+    "chinese_name": "条纹鹨",
+    "english_name": "Striped Pipit",
+    "scientific_name": "Anthus lineiventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "striped_pipit_110116291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944257/bird-gallery/striped_pipit/macaulay/striped_pipit_110116291.jpg",
+      "public_id": "bird-gallery/striped_pipit/macaulay/striped_pipit_110116291",
+      "width": 1200,
+      "height": 815,
+      "format": "jpg",
+      "bytes": 145470,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/110116291",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "110116291",
+        "note": null
+      }
+    },
+    {
+      "original_file": "striped_pipit_119689731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944258/bird-gallery/striped_pipit/macaulay/striped_pipit_119689731.jpg",
+      "public_id": "bird-gallery/striped_pipit/macaulay/striped_pipit_119689731",
+      "width": 1200,
+      "height": 694,
+      "format": "jpg",
+      "bytes": 47639,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/119689731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "119689731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "striped_pipit_612364812.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944259/bird-gallery/striped_pipit/macaulay/striped_pipit_612364812.jpg",
+      "public_id": "bird-gallery/striped_pipit/macaulay/striped_pipit_612364812",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 68940,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/612364812",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "612364812",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "striped_pipit_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944260/bird-gallery/striped_pipit/inaturalist/striped_pipit_1.jpg",
+      "public_id": "bird-gallery/striped_pipit/inaturalist/striped_pipit_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 155457,
+      "attribution": {
+        "photographer": "tobi_seifert",
+        "photographer_url": "https://www.inaturalist.org/observations/326668089",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tobi_seifert (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 326668089,
+        "note": null
+      }
+    },
+    {
+      "original_file": "striped_pipit_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944261/bird-gallery/striped_pipit/inaturalist/striped_pipit_2.jpg",
+      "public_id": "bird-gallery/striped_pipit/inaturalist/striped_pipit_2",
+      "width": 576,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 59689,
+      "attribution": {
+        "photographer": "gareth_preiss",
+        "photographer_url": "https://www.inaturalist.org/observations/58223293",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gareth_preiss (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 58223293,
+        "note": null
+      }
+    },
+    {
+      "original_file": "striped_pipit_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944262/bird-gallery/striped_pipit/inaturalist/striped_pipit_3.jpg",
+      "public_id": "bird-gallery/striped_pipit/inaturalist/striped_pipit_3",
+      "width": 1024,
+      "height": 810,
+      "format": "jpg",
+      "bytes": 52562,
+      "attribution": {
+        "photographer": "justin_p",
+        "photographer_url": "https://www.inaturalist.org/observations/238407248",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© justin_p (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 238407248,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

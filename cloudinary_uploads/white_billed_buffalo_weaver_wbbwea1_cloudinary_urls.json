@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "white_billed_buffalo_weaver_wbbwea1",
+    "chinese_name": "黑牛文鸟",
+    "english_name": "White-billed Buffalo-Weaver",
+    "scientific_name": "Bubalornis albirostris"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_billed_buffalo_weaver_wbbwea1_205106291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941826/bird-gallery/white_billed_buffalo_weaver_wbbwea1/macaulay/white_billed_buffalo_weaver_wbbwea1_205106291.jpg",
+      "public_id": "bird-gallery/white_billed_buffalo_weaver_wbbwea1/macaulay/white_billed_buffalo_weaver_wbbwea1_205106291",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 51988,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205106291",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205106291",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_billed_buffalo_weaver_wbbwea1_205106301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941827/bird-gallery/white_billed_buffalo_weaver_wbbwea1/macaulay/white_billed_buffalo_weaver_wbbwea1_205106301.jpg",
+      "public_id": "bird-gallery/white_billed_buffalo_weaver_wbbwea1/macaulay/white_billed_buffalo_weaver_wbbwea1_205106301",
+      "width": 466,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 34139,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205106301",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205106301",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_billed_buffalo_weaver_wbbwea1_205646931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941828/bird-gallery/white_billed_buffalo_weaver_wbbwea1/macaulay/white_billed_buffalo_weaver_wbbwea1_205646931.jpg",
+      "public_id": "bird-gallery/white_billed_buffalo_weaver_wbbwea1/macaulay/white_billed_buffalo_weaver_wbbwea1_205646931",
+      "width": 1110,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 230285,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205646931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205646931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_billed_buffalo_weaver_wbbwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941830/bird-gallery/white_billed_buffalo_weaver_wbbwea1/inaturalist/white_billed_buffalo_weaver_wbbwea1_2.jpg",
+      "public_id": "bird-gallery/white_billed_buffalo_weaver_wbbwea1/inaturalist/white_billed_buffalo_weaver_wbbwea1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 105999,
+      "attribution": {
+        "photographer": "milletman",
+        "photographer_url": "https://www.inaturalist.org/observations/1451253",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© milletman (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 1451253,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_billed_buffalo_weaver_wbbwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941831/bird-gallery/white_billed_buffalo_weaver_wbbwea1/inaturalist/white_billed_buffalo_weaver_wbbwea1_3.jpg",
+      "public_id": "bird-gallery/white_billed_buffalo_weaver_wbbwea1/inaturalist/white_billed_buffalo_weaver_wbbwea1_3",
+      "width": 1016,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 140430,
+      "attribution": {
+        "photographer": "druidea",
+        "photographer_url": "https://www.inaturalist.org/observations/363681752",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© druidea (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 363681752,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

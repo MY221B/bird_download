@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "grasshopper_buzzard",
+    "chinese_name": "蝗𫛭鹰",
+    "english_name": "Grasshopper Buzzard",
+    "scientific_name": "Butastur rufipennis"
+  },
+  "macaulay": [
+    {
+      "original_file": "grasshopper_buzzard_206149101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944335/bird-gallery/grasshopper_buzzard/macaulay/grasshopper_buzzard_206149101.jpg",
+      "public_id": "bird-gallery/grasshopper_buzzard/macaulay/grasshopper_buzzard_206149101",
+      "width": 1152,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 165075,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206149101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206149101",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grasshopper_buzzard_216230541.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944336/bird-gallery/grasshopper_buzzard/macaulay/grasshopper_buzzard_216230541.jpg",
+      "public_id": "bird-gallery/grasshopper_buzzard/macaulay/grasshopper_buzzard_216230541",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 53281,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/216230541",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "216230541",
+        "note": null
+      }
+    },
+    {
+      "original_file": "grasshopper_buzzard_636311761.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944337/bird-gallery/grasshopper_buzzard/macaulay/grasshopper_buzzard_636311761.jpg",
+      "public_id": "bird-gallery/grasshopper_buzzard/macaulay/grasshopper_buzzard_636311761",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 64621,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/636311761",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "636311761",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "grasshopper_buzzard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944338/bird-gallery/grasshopper_buzzard/inaturalist/grasshopper_buzzard_1.jpg",
+      "public_id": "bird-gallery/grasshopper_buzzard/inaturalist/grasshopper_buzzard_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 131748,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/135012267",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 135012267,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grasshopper_buzzard_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944339/bird-gallery/grasshopper_buzzard/inaturalist/grasshopper_buzzard_2.jpg",
+      "public_id": "bird-gallery/grasshopper_buzzard/inaturalist/grasshopper_buzzard_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 20568,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/102828380",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 102828380,
+        "note": null
+      }
+    },
+    {
+      "original_file": "grasshopper_buzzard_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944339/bird-gallery/grasshopper_buzzard/inaturalist/grasshopper_buzzard_3.jpg",
+      "public_id": "bird-gallery/grasshopper_buzzard/inaturalist/grasshopper_buzzard_3",
+      "width": 1024,
+      "height": 731,
+      "format": "jpg",
+      "bytes": 175894,
+      "attribution": {
+        "photographer": "robinfjellstrom",
+        "photographer_url": "https://www.inaturalist.org/observations/155586049",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© robinfjellstrom (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 155586049,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

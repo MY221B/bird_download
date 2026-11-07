@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "green_backed_honeybird_grbhon2",
+    "chinese_name": "绿背蜜䴕",
+    "english_name": "Green-backed Honeybird",
+    "scientific_name": "Prodotiscus zambesiae"
+  },
+  "macaulay": [
+    {
+      "original_file": "green_backed_honeybird_grbhon2_194451691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939728/bird-gallery/green_backed_honeybird_grbhon2/macaulay/green_backed_honeybird_grbhon2_194451691.jpg",
+      "public_id": "bird-gallery/green_backed_honeybird_grbhon2/macaulay/green_backed_honeybird_grbhon2_194451691",
+      "width": 1200,
+      "height": 674,
+      "format": "jpg",
+      "bytes": 87506,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/194451691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "194451691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_honeybird_grbhon2_206046821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939729/bird-gallery/green_backed_honeybird_grbhon2/macaulay/green_backed_honeybird_grbhon2_206046821.jpg",
+      "public_id": "bird-gallery/green_backed_honeybird_grbhon2/macaulay/green_backed_honeybird_grbhon2_206046821",
+      "width": 1200,
+      "height": 901,
+      "format": "jpg",
+      "bytes": 78372,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206046821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206046821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_honeybird_grbhon2_300411831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939730/bird-gallery/green_backed_honeybird_grbhon2/macaulay/green_backed_honeybird_grbhon2_300411831.jpg",
+      "public_id": "bird-gallery/green_backed_honeybird_grbhon2/macaulay/green_backed_honeybird_grbhon2_300411831",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 57774,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/300411831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "300411831",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "green_backed_honeybird_grbhon2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939731/bird-gallery/green_backed_honeybird_grbhon2/inaturalist/green_backed_honeybird_grbhon2_1.jpg",
+      "public_id": "bird-gallery/green_backed_honeybird_grbhon2/inaturalist/green_backed_honeybird_grbhon2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 43985,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/102797494",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 102797494,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_honeybird_grbhon2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939732/bird-gallery/green_backed_honeybird_grbhon2/inaturalist/green_backed_honeybird_grbhon2_2.jpg",
+      "public_id": "bird-gallery/green_backed_honeybird_grbhon2/inaturalist/green_backed_honeybird_grbhon2_2",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 56426,
+      "attribution": {
+        "photographer": "florem",
+        "photographer_url": "https://www.inaturalist.org/observations/33943845",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© florem (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 33943845,
+        "note": null
+      }
+    },
+    {
+      "original_file": "green_backed_honeybird_grbhon2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939732/bird-gallery/green_backed_honeybird_grbhon2/inaturalist/green_backed_honeybird_grbhon2_3.jpg",
+      "public_id": "bird-gallery/green_backed_honeybird_grbhon2/inaturalist/green_backed_honeybird_grbhon2_3",
+      "width": 1024,
+      "height": 602,
+      "format": "jpg",
+      "bytes": 51345,
+      "attribution": {
+        "photographer": "dougmacsafaris",
+        "photographer_url": "https://www.inaturalist.org/observations/55563279",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dougmacsafaris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 55563279,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

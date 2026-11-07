@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_spotted_barbet",
+    "chinese_name": "黄斑拟啄木鸟",
+    "english_name": "Yellow-spotted Barbet",
+    "scientific_name": "Buccanodon duchaillui"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_spotted_barbet_205109271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944909/bird-gallery/yellow_spotted_barbet/macaulay/yellow_spotted_barbet_205109271.jpg",
+      "public_id": "bird-gallery/yellow_spotted_barbet/macaulay/yellow_spotted_barbet_205109271",
+      "width": 667,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 59152,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205109271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205109271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_spotted_barbet_205109281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944910/bird-gallery/yellow_spotted_barbet/macaulay/yellow_spotted_barbet_205109281.jpg",
+      "public_id": "bird-gallery/yellow_spotted_barbet/macaulay/yellow_spotted_barbet_205109281",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 64929,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205109281",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205109281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_spotted_barbet_436567241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944911/bird-gallery/yellow_spotted_barbet/macaulay/yellow_spotted_barbet_436567241.jpg",
+      "public_id": "bird-gallery/yellow_spotted_barbet/macaulay/yellow_spotted_barbet_436567241",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 76184,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/436567241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "436567241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_spotted_barbet_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944912/bird-gallery/yellow_spotted_barbet/inaturalist/yellow_spotted_barbet_1.jpg",
+      "public_id": "bird-gallery/yellow_spotted_barbet/inaturalist/yellow_spotted_barbet_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 75353,
+      "attribution": {
+        "photographer": "cerocomactif",
+        "photographer_url": "https://www.inaturalist.org/observations/256870244",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© cerocomactif (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 256870244,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_spotted_barbet_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944913/bird-gallery/yellow_spotted_barbet/inaturalist/yellow_spotted_barbet_2.jpg",
+      "public_id": "bird-gallery/yellow_spotted_barbet/inaturalist/yellow_spotted_barbet_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 92901,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/132146539",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 132146539,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_spotted_barbet_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944914/bird-gallery/yellow_spotted_barbet/inaturalist/yellow_spotted_barbet_3.jpg",
+      "public_id": "bird-gallery/yellow_spotted_barbet/inaturalist/yellow_spotted_barbet_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 72216,
+      "attribution": {
+        "photographer": "brhacker",
+        "photographer_url": "https://www.inaturalist.org/observations/413100002",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© brhacker (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 413100002,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

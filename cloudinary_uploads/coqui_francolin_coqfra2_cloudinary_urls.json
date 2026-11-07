@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "coqui_francolin_coqfra2",
+    "chinese_name": "栗顶林鹧鸪",
+    "english_name": "Coqui Francolin",
+    "scientific_name": "Campocolinus coqui"
+  },
+  "macaulay": [
+    {
+      "original_file": "coqui_francolin_coqfra2_206381231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941454/bird-gallery/coqui_francolin_coqfra2/macaulay/coqui_francolin_coqfra2_206381231.jpg",
+      "public_id": "bird-gallery/coqui_francolin_coqfra2/macaulay/coqui_francolin_coqfra2_206381231",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 124447,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206381231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206381231",
+        "note": null
+      }
+    },
+    {
+      "original_file": "coqui_francolin_coqfra2_274636891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941455/bird-gallery/coqui_francolin_coqfra2/macaulay/coqui_francolin_coqfra2_274636891.jpg",
+      "public_id": "bird-gallery/coqui_francolin_coqfra2/macaulay/coqui_francolin_coqfra2_274636891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 122360,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/274636891",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "274636891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "coqui_francolin_coqfra2_69898351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941456/bird-gallery/coqui_francolin_coqfra2/macaulay/coqui_francolin_coqfra2_69898351.jpg",
+      "public_id": "bird-gallery/coqui_francolin_coqfra2/macaulay/coqui_francolin_coqfra2_69898351",
+      "width": 1200,
+      "height": 810,
+      "format": "jpg",
+      "bytes": 193750,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/69898351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "69898351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "coqui_francolin_coqfra2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941457/bird-gallery/coqui_francolin_coqfra2/inaturalist/coqui_francolin_coqfra2_1.jpg",
+      "public_id": "bird-gallery/coqui_francolin_coqfra2/inaturalist/coqui_francolin_coqfra2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 218255,
+      "attribution": {
+        "photographer": "cclborneo",
+        "photographer_url": "https://www.inaturalist.org/observations/146931797",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cclborneo (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 146931797,
+        "note": null
+      }
+    },
+    {
+      "original_file": "coqui_francolin_coqfra2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941458/bird-gallery/coqui_francolin_coqfra2/inaturalist/coqui_francolin_coqfra2_2.jpg",
+      "public_id": "bird-gallery/coqui_francolin_coqfra2/inaturalist/coqui_francolin_coqfra2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 142824,
+      "attribution": {
+        "photographer": "hoppy1951",
+        "photographer_url": "https://www.inaturalist.org/observations/188014930",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© hoppy1951 (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 188014930,
+        "note": null
+      }
+    },
+    {
+      "original_file": "coqui_francolin_coqfra2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941458/bird-gallery/coqui_francolin_coqfra2/inaturalist/coqui_francolin_coqfra2_3.jpg",
+      "public_id": "bird-gallery/coqui_francolin_coqfra2/inaturalist/coqui_francolin_coqfra2_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 42207,
+      "attribution": {
+        "photographer": "joshua_rains",
+        "photographer_url": "https://www.inaturalist.org/observations/47826550",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joshua_rains (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 47826550,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "golden_breasted_starling_gobsta5",
+    "chinese_name": "金胸丽椋鸟",
+    "english_name": "Golden-breasted Starling",
+    "scientific_name": "Lamprotornis regius"
+  },
+  "macaulay": [
+    {
+      "original_file": "golden_breasted_starling_gobsta5_381879141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944018/bird-gallery/golden_breasted_starling_gobsta5/macaulay/golden_breasted_starling_gobsta5_381879141.jpg",
+      "public_id": "bird-gallery/golden_breasted_starling_gobsta5/macaulay/golden_breasted_starling_gobsta5_381879141",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 47942,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/381879141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "381879141",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_starling_gobsta5_381879161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944019/bird-gallery/golden_breasted_starling_gobsta5/macaulay/golden_breasted_starling_gobsta5_381879161.jpg",
+      "public_id": "bird-gallery/golden_breasted_starling_gobsta5/macaulay/golden_breasted_starling_gobsta5_381879161",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87029,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/381879161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "381879161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_starling_gobsta5_41955701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944020/bird-gallery/golden_breasted_starling_gobsta5/macaulay/golden_breasted_starling_gobsta5_41955701.jpg",
+      "public_id": "bird-gallery/golden_breasted_starling_gobsta5/macaulay/golden_breasted_starling_gobsta5_41955701",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60528,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/41955701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "41955701",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "golden_breasted_starling_gobsta5_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944021/bird-gallery/golden_breasted_starling_gobsta5/inaturalist/golden_breasted_starling_gobsta5_1.jpg",
+      "public_id": "bird-gallery/golden_breasted_starling_gobsta5/inaturalist/golden_breasted_starling_gobsta5_1",
+      "width": 1000,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 39104,
+      "attribution": {
+        "photographer": "dejong",
+        "photographer_url": "https://www.inaturalist.org/observations/152487661",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dejong (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 152487661,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_starling_gobsta5_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944022/bird-gallery/golden_breasted_starling_gobsta5/inaturalist/golden_breasted_starling_gobsta5_2.jpg",
+      "public_id": "bird-gallery/golden_breasted_starling_gobsta5/inaturalist/golden_breasted_starling_gobsta5_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 115521,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/408471755",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 408471755,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

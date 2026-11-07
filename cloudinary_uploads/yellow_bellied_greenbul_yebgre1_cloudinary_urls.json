@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "yellow_bellied_greenbul_yebgre1",
+    "chinese_name": "黄腹绿鸫鹎",
+    "english_name": "Yellow-bellied Greenbul",
+    "scientific_name": "Chlorocichla flaviventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_bellied_greenbul_yebgre1_187290691.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945442/bird-gallery/yellow_bellied_greenbul_yebgre1/macaulay/yellow_bellied_greenbul_yebgre1_187290691.jpg",
+      "public_id": "bird-gallery/yellow_bellied_greenbul_yebgre1/macaulay/yellow_bellied_greenbul_yebgre1_187290691",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93923,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/187290691",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "187290691",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_greenbul_yebgre1_199499811.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945443/bird-gallery/yellow_bellied_greenbul_yebgre1/macaulay/yellow_bellied_greenbul_yebgre1_199499811.jpg",
+      "public_id": "bird-gallery/yellow_bellied_greenbul_yebgre1/macaulay/yellow_bellied_greenbul_yebgre1_199499811",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 93923,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/199499811",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "199499811",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_greenbul_yebgre1_608348123.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945444/bird-gallery/yellow_bellied_greenbul_yebgre1/macaulay/yellow_bellied_greenbul_yebgre1_608348123.jpg",
+      "public_id": "bird-gallery/yellow_bellied_greenbul_yebgre1/macaulay/yellow_bellied_greenbul_yebgre1_608348123",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 56479,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/608348123",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "608348123",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_bellied_greenbul_yebgre1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945445/bird-gallery/yellow_bellied_greenbul_yebgre1/inaturalist/yellow_bellied_greenbul_yebgre1_1.jpg",
+      "public_id": "bird-gallery/yellow_bellied_greenbul_yebgre1/inaturalist/yellow_bellied_greenbul_yebgre1_1",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 137417,
+      "attribution": {
+        "photographer": "runswild",
+        "photographer_url": "https://www.inaturalist.org/observations/226115714",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© runswild (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 226115714,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_greenbul_yebgre1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945446/bird-gallery/yellow_bellied_greenbul_yebgre1/inaturalist/yellow_bellied_greenbul_yebgre1_2.jpg",
+      "public_id": "bird-gallery/yellow_bellied_greenbul_yebgre1/inaturalist/yellow_bellied_greenbul_yebgre1_2",
+      "width": 798,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 86530,
+      "attribution": {
+        "photographer": "sskyrm",
+        "photographer_url": "https://www.inaturalist.org/observations/100558580",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sskyrm (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100558580,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_bellied_greenbul_yebgre1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945447/bird-gallery/yellow_bellied_greenbul_yebgre1/inaturalist/yellow_bellied_greenbul_yebgre1_3.jpg",
+      "public_id": "bird-gallery/yellow_bellied_greenbul_yebgre1/inaturalist/yellow_bellied_greenbul_yebgre1_3",
+      "width": 1024,
+      "height": 664,
+      "format": "jpg",
+      "bytes": 92528,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/238891343",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 238891343,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

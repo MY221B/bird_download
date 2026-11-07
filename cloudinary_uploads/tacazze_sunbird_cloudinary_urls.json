@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "tacazze_sunbird",
+    "chinese_name": "塔卡花蜜鸟",
+    "english_name": "Tacazze Sunbird",
+    "scientific_name": "Nectarinia tacazze"
+  },
+  "macaulay": [
+    {
+      "original_file": "tacazze_sunbird_205473171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941288/bird-gallery/tacazze_sunbird/macaulay/tacazze_sunbird_205473171.jpg",
+      "public_id": "bird-gallery/tacazze_sunbird/macaulay/tacazze_sunbird_205473171",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 64227,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205473171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205473171",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tacazze_sunbird_205490921.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941289/bird-gallery/tacazze_sunbird/macaulay/tacazze_sunbird_205490921.jpg",
+      "public_id": "bird-gallery/tacazze_sunbird/macaulay/tacazze_sunbird_205490921",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 111349,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205490921",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205490921",
+        "note": null
+      }
+    },
+    {
+      "original_file": "tacazze_sunbird_34562311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941290/bird-gallery/tacazze_sunbird/macaulay/tacazze_sunbird_34562311.jpg",
+      "public_id": "bird-gallery/tacazze_sunbird/macaulay/tacazze_sunbird_34562311",
+      "width": 1200,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 88474,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/34562311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "34562311",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "tacazze_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941291/bird-gallery/tacazze_sunbird/inaturalist/tacazze_sunbird_1.jpg",
+      "public_id": "bird-gallery/tacazze_sunbird/inaturalist/tacazze_sunbird_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72350,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7130567",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7130567,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tacazze_sunbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941292/bird-gallery/tacazze_sunbird/inaturalist/tacazze_sunbird_2.jpg",
+      "public_id": "bird-gallery/tacazze_sunbird/inaturalist/tacazze_sunbird_2",
+      "width": 723,
+      "height": 560,
+      "format": "jpg",
+      "bytes": 70099,
+      "attribution": {
+        "photographer": "sergey_cherenkov",
+        "photographer_url": "https://www.inaturalist.org/observations/310559161",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sergey_cherenkov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 310559161,
+        "note": null
+      }
+    },
+    {
+      "original_file": "tacazze_sunbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941292/bird-gallery/tacazze_sunbird/inaturalist/tacazze_sunbird_3.jpg",
+      "public_id": "bird-gallery/tacazze_sunbird/inaturalist/tacazze_sunbird_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 132963,
+      "attribution": {
+        "photographer": "birdexplorers",
+        "photographer_url": "https://www.inaturalist.org/observations/17189595",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© birdexplorers (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 17189595,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

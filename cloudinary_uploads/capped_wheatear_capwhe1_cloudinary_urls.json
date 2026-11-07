@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "capped_wheatear_capwhe1",
+    "chinese_name": "冕鵖",
+    "english_name": "Capped Wheatear",
+    "scientific_name": "Oenanthe pileata"
+  },
+  "macaulay": [
+    {
+      "original_file": "capped_wheatear_capwhe1_525643891.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942896/bird-gallery/capped_wheatear_capwhe1/macaulay/capped_wheatear_capwhe1_525643891.jpg",
+      "public_id": "bird-gallery/capped_wheatear_capwhe1/macaulay/capped_wheatear_capwhe1_525643891",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 67473,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/525643891",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "525643891",
+        "note": null
+      }
+    },
+    {
+      "original_file": "capped_wheatear_capwhe1_525971701.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942897/bird-gallery/capped_wheatear_capwhe1/macaulay/capped_wheatear_capwhe1_525971701.jpg",
+      "public_id": "bird-gallery/capped_wheatear_capwhe1/macaulay/capped_wheatear_capwhe1_525971701",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 102539,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/525971701",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "525971701",
+        "note": null
+      }
+    },
+    {
+      "original_file": "capped_wheatear_capwhe1_614114134.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942898/bird-gallery/capped_wheatear_capwhe1/macaulay/capped_wheatear_capwhe1_614114134.jpg",
+      "public_id": "bird-gallery/capped_wheatear_capwhe1/macaulay/capped_wheatear_capwhe1_614114134",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 54170,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/614114134",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "614114134",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "capped_wheatear_capwhe1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942899/bird-gallery/capped_wheatear_capwhe1/inaturalist/capped_wheatear_capwhe1_1.jpg",
+      "public_id": "bird-gallery/capped_wheatear_capwhe1/inaturalist/capped_wheatear_capwhe1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 23567,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/10621155",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 10621155,
+        "note": null
+      }
+    },
+    {
+      "original_file": "capped_wheatear_capwhe1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942900/bird-gallery/capped_wheatear_capwhe1/inaturalist/capped_wheatear_capwhe1_2.jpg",
+      "public_id": "bird-gallery/capped_wheatear_capwhe1/inaturalist/capped_wheatear_capwhe1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 153487,
+      "attribution": {
+        "photographer": "nicolaasmyburgh",
+        "photographer_url": "https://www.inaturalist.org/observations/135694132",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nicolaasmyburgh (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 135694132,
+        "note": null
+      }
+    },
+    {
+      "original_file": "capped_wheatear_capwhe1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942900/bird-gallery/capped_wheatear_capwhe1/inaturalist/capped_wheatear_capwhe1_3.jpg",
+      "public_id": "bird-gallery/capped_wheatear_capwhe1/inaturalist/capped_wheatear_capwhe1_3",
+      "width": 1024,
+      "height": 773,
+      "format": "jpg",
+      "bytes": 67886,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/98221394",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 98221394,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

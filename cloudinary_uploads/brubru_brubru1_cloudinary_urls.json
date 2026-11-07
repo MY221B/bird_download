@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "brubru_brubru1",
+    "chinese_name": "非洲鵙",
+    "english_name": "Brubru",
+    "scientific_name": "Nilaus afer"
+  },
+  "macaulay": [
+    {
+      "original_file": "brubru_brubru1_205984731.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939514/bird-gallery/brubru_brubru1/macaulay/brubru_brubru1_205984731.jpg",
+      "public_id": "bird-gallery/brubru_brubru1/macaulay/brubru_brubru1_205984731",
+      "width": 1000,
+      "height": 697,
+      "format": "jpg",
+      "bytes": 53360,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984731",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984731",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brubru_brubru1_31195311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939515/bird-gallery/brubru_brubru1/macaulay/brubru_brubru1_31195311.jpg",
+      "public_id": "bird-gallery/brubru_brubru1/macaulay/brubru_brubru1_31195311",
+      "width": 1200,
+      "height": 788,
+      "format": "jpg",
+      "bytes": 99821,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/31195311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "31195311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "brubru_brubru1_348422241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939516/bird-gallery/brubru_brubru1/macaulay/brubru_brubru1_348422241.jpg",
+      "public_id": "bird-gallery/brubru_brubru1/macaulay/brubru_brubru1_348422241",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 36707,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/348422241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "348422241",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "brubru_brubru1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939517/bird-gallery/brubru_brubru1/inaturalist/brubru_brubru1_1.jpg",
+      "public_id": "bird-gallery/brubru_brubru1/inaturalist/brubru_brubru1_1",
+      "width": 1024,
+      "height": 607,
+      "format": "jpg",
+      "bytes": 85734,
+      "attribution": {
+        "photographer": "dougmacsafaris",
+        "photographer_url": "https://www.inaturalist.org/observations/153426920",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dougmacsafaris (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 153426920,
+        "note": null
+      }
+    },
+    {
+      "original_file": "brubru_brubru1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939518/bird-gallery/brubru_brubru1/inaturalist/brubru_brubru1_2.jpg",
+      "public_id": "bird-gallery/brubru_brubru1/inaturalist/brubru_brubru1_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 103080,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/178880549",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 178880549,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

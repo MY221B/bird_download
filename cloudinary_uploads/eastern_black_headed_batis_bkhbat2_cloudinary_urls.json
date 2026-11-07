@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "eastern_black_headed_batis_bkhbat2",
+    "chinese_name": "黑头蓬背鹟",
+    "english_name": "Eastern Black-headed Batis",
+    "scientific_name": "Batis minor"
+  },
+  "macaulay": [
+    {
+      "original_file": "eastern_black_headed_batis_bkhbat2_106469951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945173/bird-gallery/eastern_black_headed_batis_bkhbat2/macaulay/eastern_black_headed_batis_bkhbat2_106469951.jpg",
+      "public_id": "bird-gallery/eastern_black_headed_batis_bkhbat2/macaulay/eastern_black_headed_batis_bkhbat2_106469951",
+      "width": 1200,
+      "height": 923,
+      "format": "jpg",
+      "bytes": 76145,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/106469951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "106469951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_black_headed_batis_bkhbat2_204343801.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945174/bird-gallery/eastern_black_headed_batis_bkhbat2/macaulay/eastern_black_headed_batis_bkhbat2_204343801.jpg",
+      "public_id": "bird-gallery/eastern_black_headed_batis_bkhbat2/macaulay/eastern_black_headed_batis_bkhbat2_204343801",
+      "width": 800,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 100140,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204343801",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204343801",
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_black_headed_batis_bkhbat2_317768101.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945176/bird-gallery/eastern_black_headed_batis_bkhbat2/macaulay/eastern_black_headed_batis_bkhbat2_317768101.jpg",
+      "public_id": "bird-gallery/eastern_black_headed_batis_bkhbat2/macaulay/eastern_black_headed_batis_bkhbat2_317768101",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74722,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/317768101",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "317768101",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "eastern_black_headed_batis_bkhbat2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945177/bird-gallery/eastern_black_headed_batis_bkhbat2/inaturalist/eastern_black_headed_batis_bkhbat2_1.jpg",
+      "public_id": "bird-gallery/eastern_black_headed_batis_bkhbat2/inaturalist/eastern_black_headed_batis_bkhbat2_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 50964,
+      "attribution": {
+        "photographer": "dbeadle",
+        "photographer_url": "https://www.inaturalist.org/observations/103159332",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dbeadle (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 103159332,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_black_headed_batis_bkhbat2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945177/bird-gallery/eastern_black_headed_batis_bkhbat2/inaturalist/eastern_black_headed_batis_bkhbat2_2.jpg",
+      "public_id": "bird-gallery/eastern_black_headed_batis_bkhbat2/inaturalist/eastern_black_headed_batis_bkhbat2_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 136688,
+      "attribution": {
+        "photographer": "thibaudaronson",
+        "photographer_url": "https://www.inaturalist.org/observations/158366828",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© thibaudaronson (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 158366828,
+        "note": null
+      }
+    },
+    {
+      "original_file": "eastern_black_headed_batis_bkhbat2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945178/bird-gallery/eastern_black_headed_batis_bkhbat2/inaturalist/eastern_black_headed_batis_bkhbat2_3.jpg",
+      "public_id": "bird-gallery/eastern_black_headed_batis_bkhbat2/inaturalist/eastern_black_headed_batis_bkhbat2_3",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 47723,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/10068597",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10068597,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

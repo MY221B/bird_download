@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_headed_malimbe",
+    "chinese_name": "红头精织雀",
+    "english_name": "Red-headed Malimbe",
+    "scientific_name": "Malimbus rubricollis"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_headed_malimbe_205094311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944701/bird-gallery/red_headed_malimbe/macaulay/red_headed_malimbe_205094311.jpg",
+      "public_id": "bird-gallery/red_headed_malimbe/macaulay/red_headed_malimbe_205094311",
+      "width": 800,
+      "height": 534,
+      "format": "jpg",
+      "bytes": 34952,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205094311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205094311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_malimbe_389294261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944702/bird-gallery/red_headed_malimbe/macaulay/red_headed_malimbe_389294261.jpg",
+      "public_id": "bird-gallery/red_headed_malimbe/macaulay/red_headed_malimbe_389294261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 176490,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/389294261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "389294261",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_malimbe_436498311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944704/bird-gallery/red_headed_malimbe/macaulay/red_headed_malimbe_436498311.jpg",
+      "public_id": "bird-gallery/red_headed_malimbe/macaulay/red_headed_malimbe_436498311",
+      "width": 1200,
+      "height": 920,
+      "format": "jpg",
+      "bytes": 225639,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/436498311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "436498311",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_headed_malimbe_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944704/bird-gallery/red_headed_malimbe/inaturalist/red_headed_malimbe_1.jpg",
+      "public_id": "bird-gallery/red_headed_malimbe/inaturalist/red_headed_malimbe_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 90565,
+      "attribution": {
+        "photographer": "lostincr",
+        "photographer_url": "https://www.inaturalist.org/observations/199845892",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lostincr (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 199845892,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_malimbe_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944709/bird-gallery/red_headed_malimbe/inaturalist/red_headed_malimbe_2.jpg",
+      "public_id": "bird-gallery/red_headed_malimbe/inaturalist/red_headed_malimbe_2",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 139949,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/102660879",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 102660879,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_headed_malimbe_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944710/bird-gallery/red_headed_malimbe/inaturalist/red_headed_malimbe_3.jpg",
+      "public_id": "bird-gallery/red_headed_malimbe/inaturalist/red_headed_malimbe_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 76604,
+      "attribution": {
+        "photographer": "tommy_andriollo",
+        "photographer_url": "https://www.inaturalist.org/observations/144717235",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© tommy_andriollo (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 144717235,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

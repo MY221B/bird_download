@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "little_greenbul",
+    "chinese_name": "小绿鹎",
+    "english_name": "Little Greenbul",
+    "scientific_name": "Eurillas virens"
+  },
+  "macaulay": [
+    {
+      "original_file": "little_greenbul_111349711.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944648/bird-gallery/little_greenbul/macaulay/little_greenbul_111349711.jpg",
+      "public_id": "bird-gallery/little_greenbul/macaulay/little_greenbul_111349711",
+      "width": 1200,
+      "height": 797,
+      "format": "jpg",
+      "bytes": 93053,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/111349711",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "111349711",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_greenbul_205099771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944650/bird-gallery/little_greenbul/macaulay/little_greenbul_205099771.jpg",
+      "public_id": "bird-gallery/little_greenbul/macaulay/little_greenbul_205099771",
+      "width": 527,
+      "height": 790,
+      "format": "jpg",
+      "bytes": 39269,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205099771",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205099771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_greenbul_363208021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944651/bird-gallery/little_greenbul/macaulay/little_greenbul_363208021.jpg",
+      "public_id": "bird-gallery/little_greenbul/macaulay/little_greenbul_363208021",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 57307,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/363208021",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "363208021",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "little_greenbul_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944652/bird-gallery/little_greenbul/inaturalist/little_greenbul_1.jpg",
+      "public_id": "bird-gallery/little_greenbul/inaturalist/little_greenbul_1",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 57561,
+      "attribution": {
+        "photographer": "remi_bigonneau",
+        "photographer_url": "https://www.inaturalist.org/observations/381666068",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© remi_bigonneau (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 381666068,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_greenbul_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944653/bird-gallery/little_greenbul/inaturalist/little_greenbul_2.jpg",
+      "public_id": "bird-gallery/little_greenbul/inaturalist/little_greenbul_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 90899,
+      "attribution": {
+        "photographer": "aarman",
+        "photographer_url": "https://www.inaturalist.org/observations/10377459",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© aarman (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 10377459,
+        "note": null
+      }
+    },
+    {
+      "original_file": "little_greenbul_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944654/bird-gallery/little_greenbul/inaturalist/little_greenbul_3.jpg",
+      "public_id": "bird-gallery/little_greenbul/inaturalist/little_greenbul_3",
+      "width": 1024,
+      "height": 678,
+      "format": "jpg",
+      "bytes": 62781,
+      "attribution": {
+        "photographer": "stefaneakame",
+        "photographer_url": "https://www.inaturalist.org/observations/389290805",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© stefaneakame (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 389290805,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "buff_throated_apalis",
+    "chinese_name": "棕喉娇莺",
+    "english_name": "Buff-throated Apalis",
+    "scientific_name": "Apalis rufogularis"
+  },
+  "macaulay": [
+    {
+      "original_file": "buff_throated_apalis_205099631.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944490/bird-gallery/buff_throated_apalis/macaulay/buff_throated_apalis_205099631.jpg",
+      "public_id": "bird-gallery/buff_throated_apalis/macaulay/buff_throated_apalis_205099631",
+      "width": 464,
+      "height": 696,
+      "format": "jpg",
+      "bytes": 32139,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205099631",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205099631",
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_throated_apalis_205099641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944491/bird-gallery/buff_throated_apalis/macaulay/buff_throated_apalis_205099641.jpg",
+      "public_id": "bird-gallery/buff_throated_apalis/macaulay/buff_throated_apalis_205099641",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 49349,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205099641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205099641",
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_throated_apalis_266755371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944492/bird-gallery/buff_throated_apalis/macaulay/buff_throated_apalis_266755371.jpg",
+      "public_id": "bird-gallery/buff_throated_apalis/macaulay/buff_throated_apalis_266755371",
+      "width": 1200,
+      "height": 980,
+      "format": "jpg",
+      "bytes": 70637,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/266755371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "266755371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "buff_throated_apalis_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944493/bird-gallery/buff_throated_apalis/inaturalist/buff_throated_apalis_1.jpg",
+      "public_id": "bird-gallery/buff_throated_apalis/inaturalist/buff_throated_apalis_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 58329,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/42481598",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 42481598,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_throated_apalis_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944495/bird-gallery/buff_throated_apalis/inaturalist/buff_throated_apalis_2.jpg",
+      "public_id": "bird-gallery/buff_throated_apalis/inaturalist/buff_throated_apalis_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 73341,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/89885320",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 89885320,
+        "note": null
+      }
+    },
+    {
+      "original_file": "buff_throated_apalis_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944496/bird-gallery/buff_throated_apalis/inaturalist/buff_throated_apalis_3.jpg",
+      "public_id": "bird-gallery/buff_throated_apalis/inaturalist/buff_throated_apalis_3",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 55920,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/134969129",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 134969129,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

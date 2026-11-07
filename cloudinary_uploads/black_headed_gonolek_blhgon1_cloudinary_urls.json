@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_headed_gonolek_blhgon1",
+    "chinese_name": "黑头黑鵙",
+    "english_name": "Black-headed Gonolek",
+    "scientific_name": "Laniarius erythrogaster"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_headed_gonolek_blhgon1_138113431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944933/bird-gallery/black_headed_gonolek_blhgon1/macaulay/black_headed_gonolek_blhgon1_138113431.jpg",
+      "public_id": "bird-gallery/black_headed_gonolek_blhgon1/macaulay/black_headed_gonolek_blhgon1_138113431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 79874,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/138113431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "138113431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_gonolek_blhgon1_559120521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944934/bird-gallery/black_headed_gonolek_blhgon1/macaulay/black_headed_gonolek_blhgon1_559120521.jpg",
+      "public_id": "bird-gallery/black_headed_gonolek_blhgon1/macaulay/black_headed_gonolek_blhgon1_559120521",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73499,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/559120521",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "559120521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_gonolek_blhgon1_96636181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944935/bird-gallery/black_headed_gonolek_blhgon1/macaulay/black_headed_gonolek_blhgon1_96636181.jpg",
+      "public_id": "bird-gallery/black_headed_gonolek_blhgon1/macaulay/black_headed_gonolek_blhgon1_96636181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87046,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/96636181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "96636181",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_headed_gonolek_blhgon1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944936/bird-gallery/black_headed_gonolek_blhgon1/inaturalist/black_headed_gonolek_blhgon1_1.jpg",
+      "public_id": "bird-gallery/black_headed_gonolek_blhgon1/inaturalist/black_headed_gonolek_blhgon1_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 68648,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/129798795",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 129798795,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_gonolek_blhgon1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944937/bird-gallery/black_headed_gonolek_blhgon1/inaturalist/black_headed_gonolek_blhgon1_2.jpg",
+      "public_id": "bird-gallery/black_headed_gonolek_blhgon1/inaturalist/black_headed_gonolek_blhgon1_2",
+      "width": 1024,
+      "height": 856,
+      "format": "jpg",
+      "bytes": 206469,
+      "attribution": {
+        "photographer": "lydia_mcintosh",
+        "photographer_url": "https://www.inaturalist.org/observations/307084756",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lydia_mcintosh (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 307084756,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_headed_gonolek_blhgon1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944938/bird-gallery/black_headed_gonolek_blhgon1/inaturalist/black_headed_gonolek_blhgon1_3.jpg",
+      "public_id": "bird-gallery/black_headed_gonolek_blhgon1/inaturalist/black_headed_gonolek_blhgon1_3",
+      "width": 1024,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 67872,
+      "attribution": {
+        "photographer": "peter00762",
+        "photographer_url": "https://www.inaturalist.org/observations/336718904",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© peter00762 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 336718904,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "somali_tit_somtit4",
+    "chinese_name": "索马里山雀",
+    "english_name": "Somali Tit",
+    "scientific_name": "Melaniparus thruppi"
+  },
+  "macaulay": [
+    {
+      "original_file": "somali_tit_somtit4_205993161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942029/bird-gallery/somali_tit_somtit4/macaulay/somali_tit_somtit4_205993161.jpg",
+      "public_id": "bird-gallery/somali_tit_somtit4/macaulay/somali_tit_somtit4_205993161",
+      "width": 1000,
+      "height": 684,
+      "format": "jpg",
+      "bytes": 40978,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205993161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205993161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_tit_somtit4_205993171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942030/bird-gallery/somali_tit_somtit4/macaulay/somali_tit_somtit4_205993171.jpg",
+      "public_id": "bird-gallery/somali_tit_somtit4/macaulay/somali_tit_somtit4_205993171",
+      "width": 1000,
+      "height": 687,
+      "format": "jpg",
+      "bytes": 76124,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205993171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205993171",
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_tit_somtit4_358676901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942031/bird-gallery/somali_tit_somtit4/macaulay/somali_tit_somtit4_358676901.jpg",
+      "public_id": "bird-gallery/somali_tit_somtit4/macaulay/somali_tit_somtit4_358676901",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70733,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/358676901",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "358676901",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "somali_tit_somtit4_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942032/bird-gallery/somali_tit_somtit4/inaturalist/somali_tit_somtit4_1.jpg",
+      "public_id": "bird-gallery/somali_tit_somtit4/inaturalist/somali_tit_somtit4_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 175094,
+      "attribution": {
+        "photographer": "kratzra",
+        "photographer_url": "https://www.inaturalist.org/observations/306799582",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© kratzra (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 306799582,
+        "note": null
+      }
+    },
+    {
+      "original_file": "somali_tit_somtit4_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942034/bird-gallery/somali_tit_somtit4/inaturalist/somali_tit_somtit4_3.jpg",
+      "public_id": "bird-gallery/somali_tit_somtit4/inaturalist/somali_tit_somtit4_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 32754,
+      "attribution": {
+        "photographer": "dbeeke",
+        "photographer_url": "https://www.inaturalist.org/observations/193277281",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dbeeke (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 193277281,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

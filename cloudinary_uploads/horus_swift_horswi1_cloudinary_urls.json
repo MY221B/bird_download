@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "horus_swift_horswi1",
+    "chinese_name": "白眉雨燕",
+    "english_name": "Horus Swift",
+    "scientific_name": "Apus horus"
+  },
+  "macaulay": [
+    {
+      "original_file": "horus_swift_horswi1_609169143.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941630/bird-gallery/horus_swift_horswi1/macaulay/horus_swift_horswi1_609169143.jpg",
+      "public_id": "bird-gallery/horus_swift_horswi1/macaulay/horus_swift_horswi1_609169143",
+      "width": 1200,
+      "height": 697,
+      "format": "jpg",
+      "bytes": 27318,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/609169143",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "609169143",
+        "note": null
+      }
+    },
+    {
+      "original_file": "horus_swift_horswi1_609169357.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941631/bird-gallery/horus_swift_horswi1/macaulay/horus_swift_horswi1_609169357.jpg",
+      "public_id": "bird-gallery/horus_swift_horswi1/macaulay/horus_swift_horswi1_609169357",
+      "width": 1200,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 15357,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/609169357",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "609169357",
+        "note": null
+      }
+    },
+    {
+      "original_file": "horus_swift_horswi1_630304108.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941632/bird-gallery/horus_swift_horswi1/macaulay/horus_swift_horswi1_630304108.jpg",
+      "public_id": "bird-gallery/horus_swift_horswi1/macaulay/horus_swift_horswi1_630304108",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 34289,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/630304108",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "630304108",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "horus_swift_horswi1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941634/bird-gallery/horus_swift_horswi1/inaturalist/horus_swift_horswi1_3.jpg",
+      "public_id": "bird-gallery/horus_swift_horswi1/inaturalist/horus_swift_horswi1_3",
+      "width": 1024,
+      "height": 738,
+      "format": "jpg",
+      "bytes": 105619,
+      "attribution": {
+        "photographer": "bluehillescape",
+        "photographer_url": "https://www.inaturalist.org/observations/107100168",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bluehillescape (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 107100168,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

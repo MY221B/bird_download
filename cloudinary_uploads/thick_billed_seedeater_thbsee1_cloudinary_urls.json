@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "thick_billed_seedeater_thbsee1",
+    "chinese_name": "厚嘴丝雀",
+    "english_name": "Thick-billed Seedeater",
+    "scientific_name": "Crithagra burtoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "thick_billed_seedeater_thbsee1_204470451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941299/bird-gallery/thick_billed_seedeater_thbsee1/macaulay/thick_billed_seedeater_thbsee1_204470451.jpg",
+      "public_id": "bird-gallery/thick_billed_seedeater_thbsee1/macaulay/thick_billed_seedeater_thbsee1_204470451",
+      "width": 926,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 149981,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204470451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204470451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "thick_billed_seedeater_thbsee1_205490901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941300/bird-gallery/thick_billed_seedeater_thbsee1/macaulay/thick_billed_seedeater_thbsee1_205490901.jpg",
+      "public_id": "bird-gallery/thick_billed_seedeater_thbsee1/macaulay/thick_billed_seedeater_thbsee1_205490901",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 71544,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205490901",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205490901",
+        "note": null
+      }
+    },
+    {
+      "original_file": "thick_billed_seedeater_thbsee1_205966681.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941301/bird-gallery/thick_billed_seedeater_thbsee1/macaulay/thick_billed_seedeater_thbsee1_205966681.jpg",
+      "public_id": "bird-gallery/thick_billed_seedeater_thbsee1/macaulay/thick_billed_seedeater_thbsee1_205966681",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 80701,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205966681",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205966681",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "thick_billed_seedeater_thbsee1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941302/bird-gallery/thick_billed_seedeater_thbsee1/inaturalist/thick_billed_seedeater_thbsee1_1.jpg",
+      "public_id": "bird-gallery/thick_billed_seedeater_thbsee1/inaturalist/thick_billed_seedeater_thbsee1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 159078,
+      "attribution": {
+        "photographer": "paultavares",
+        "photographer_url": "https://www.inaturalist.org/observations/155936727",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© paultavares (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 155936727,
+        "note": null
+      }
+    },
+    {
+      "original_file": "thick_billed_seedeater_thbsee1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941303/bird-gallery/thick_billed_seedeater_thbsee1/inaturalist/thick_billed_seedeater_thbsee1_2.jpg",
+      "public_id": "bird-gallery/thick_billed_seedeater_thbsee1/inaturalist/thick_billed_seedeater_thbsee1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 117708,
+      "attribution": {
+        "photographer": "seasav",
+        "photographer_url": "https://www.inaturalist.org/observations/26483046",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© seasav (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 26483046,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

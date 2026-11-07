@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "sombre_greenbul_somgre1",
+    "chinese_name": "黄腹绿鹎",
+    "english_name": "Sombre Greenbul",
+    "scientific_name": "Andropadus importunus"
+  },
+  "macaulay": [
+    {
+      "original_file": "sombre_greenbul_somgre1_180708561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940244/bird-gallery/sombre_greenbul_somgre1/macaulay/sombre_greenbul_somgre1_180708561.jpg",
+      "public_id": "bird-gallery/sombre_greenbul_somgre1/macaulay/sombre_greenbul_somgre1_180708561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 139290,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/180708561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "180708561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sombre_greenbul_somgre1_204754161.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940245/bird-gallery/sombre_greenbul_somgre1/macaulay/sombre_greenbul_somgre1_204754161.jpg",
+      "public_id": "bird-gallery/sombre_greenbul_somgre1/macaulay/sombre_greenbul_somgre1_204754161",
+      "width": 830,
+      "height": 563,
+      "format": "jpg",
+      "bytes": 66909,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204754161",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204754161",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sombre_greenbul_somgre1_605159931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940246/bird-gallery/sombre_greenbul_somgre1/macaulay/sombre_greenbul_somgre1_605159931.jpg",
+      "public_id": "bird-gallery/sombre_greenbul_somgre1/macaulay/sombre_greenbul_somgre1_605159931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 91921,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/605159931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "605159931",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sombre_greenbul_somgre1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940247/bird-gallery/sombre_greenbul_somgre1/inaturalist/sombre_greenbul_somgre1_1.jpg",
+      "public_id": "bird-gallery/sombre_greenbul_somgre1/inaturalist/sombre_greenbul_somgre1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 21705,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/224718434",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 224718434,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sombre_greenbul_somgre1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940249/bird-gallery/sombre_greenbul_somgre1/inaturalist/sombre_greenbul_somgre1_3.jpg",
+      "public_id": "bird-gallery/sombre_greenbul_somgre1/inaturalist/sombre_greenbul_somgre1_3",
+      "width": 1024,
+      "height": 730,
+      "format": "jpg",
+      "bytes": 60622,
+      "attribution": {
+        "photographer": "gerhardlemmer",
+        "photographer_url": "https://www.inaturalist.org/observations/161594285",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gerhardlemmer (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 161594285,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "woodland_kingfisher_wookin1",
+    "chinese_name": "林区翡翠",
+    "english_name": "Woodland Kingfisher",
+    "scientific_name": "Halcyon senegalensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "woodland_kingfisher_wookin1_170853791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941755/bird-gallery/woodland_kingfisher_wookin1/macaulay/woodland_kingfisher_wookin1_170853791.jpg",
+      "public_id": "bird-gallery/woodland_kingfisher_wookin1/macaulay/woodland_kingfisher_wookin1_170853791",
+      "width": 1200,
+      "height": 724,
+      "format": "jpg",
+      "bytes": 75513,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/170853791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "170853791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "woodland_kingfisher_wookin1_183678371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941756/bird-gallery/woodland_kingfisher_wookin1/macaulay/woodland_kingfisher_wookin1_183678371.jpg",
+      "public_id": "bird-gallery/woodland_kingfisher_wookin1/macaulay/woodland_kingfisher_wookin1_183678371",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 69372,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/183678371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "183678371",
+        "note": null
+      }
+    },
+    {
+      "original_file": "woodland_kingfisher_wookin1_33868341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941757/bird-gallery/woodland_kingfisher_wookin1/macaulay/woodland_kingfisher_wookin1_33868341.jpg",
+      "public_id": "bird-gallery/woodland_kingfisher_wookin1/macaulay/woodland_kingfisher_wookin1_33868341",
+      "width": 1200,
+      "height": 659,
+      "format": "jpg",
+      "bytes": 46206,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33868341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33868341",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "woodland_kingfisher_wookin1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941758/bird-gallery/woodland_kingfisher_wookin1/inaturalist/woodland_kingfisher_wookin1_1.jpg",
+      "public_id": "bird-gallery/woodland_kingfisher_wookin1/inaturalist/woodland_kingfisher_wookin1_1",
+      "width": 1024,
+      "height": 661,
+      "format": "jpg",
+      "bytes": 64617,
+      "attribution": {
+        "photographer": "maritzasouthafrica",
+        "photographer_url": "https://www.inaturalist.org/observations/9678774",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© maritzasouthafrica (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9678774,
+        "note": null
+      }
+    },
+    {
+      "original_file": "woodland_kingfisher_wookin1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941759/bird-gallery/woodland_kingfisher_wookin1/inaturalist/woodland_kingfisher_wookin1_2.jpg",
+      "public_id": "bird-gallery/woodland_kingfisher_wookin1/inaturalist/woodland_kingfisher_wookin1_2",
+      "width": 1024,
+      "height": 650,
+      "format": "jpg",
+      "bytes": 82408,
+      "attribution": {
+        "photographer": "elhardt",
+        "photographer_url": "https://www.inaturalist.org/observations/181938947",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© elhardt (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 181938947,
+        "note": null
+      }
+    },
+    {
+      "original_file": "woodland_kingfisher_wookin1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941759/bird-gallery/woodland_kingfisher_wookin1/inaturalist/woodland_kingfisher_wookin1_3.jpg",
+      "public_id": "bird-gallery/woodland_kingfisher_wookin1/inaturalist/woodland_kingfisher_wookin1_3",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 64917,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/7583699",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 7583699,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

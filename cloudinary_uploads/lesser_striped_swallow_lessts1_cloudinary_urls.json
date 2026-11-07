@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "lesser_striped_swallow_lessts1",
+    "chinese_name": "小纹燕",
+    "english_name": "Lesser Striped Swallow",
+    "scientific_name": "Cecropis abyssinica"
+  },
+  "macaulay": [
+    {
+      "original_file": "lesser_striped_swallow_lessts1_213905661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940869/bird-gallery/lesser_striped_swallow_lessts1/macaulay/lesser_striped_swallow_lessts1_213905661.jpg",
+      "public_id": "bird-gallery/lesser_striped_swallow_lessts1/macaulay/lesser_striped_swallow_lessts1_213905661",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 84233,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/213905661",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "213905661",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_striped_swallow_lessts1_532778071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940871/bird-gallery/lesser_striped_swallow_lessts1/macaulay/lesser_striped_swallow_lessts1_532778071.jpg",
+      "public_id": "bird-gallery/lesser_striped_swallow_lessts1/macaulay/lesser_striped_swallow_lessts1_532778071",
+      "width": 1200,
+      "height": 794,
+      "format": "jpg",
+      "bytes": 34467,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/532778071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "532778071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_striped_swallow_lessts1_632407268.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940872/bird-gallery/lesser_striped_swallow_lessts1/macaulay/lesser_striped_swallow_lessts1_632407268.jpg",
+      "public_id": "bird-gallery/lesser_striped_swallow_lessts1/macaulay/lesser_striped_swallow_lessts1_632407268",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 48726,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632407268",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632407268",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "lesser_striped_swallow_lessts1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940873/bird-gallery/lesser_striped_swallow_lessts1/inaturalist/lesser_striped_swallow_lessts1_1.jpg",
+      "public_id": "bird-gallery/lesser_striped_swallow_lessts1/inaturalist/lesser_striped_swallow_lessts1_1",
+      "width": 693,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 48437,
+      "attribution": {
+        "photographer": "wianvanbiljon26",
+        "photographer_url": "https://www.inaturalist.org/observations/254015658",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wianvanbiljon26 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 254015658,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_striped_swallow_lessts1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940874/bird-gallery/lesser_striped_swallow_lessts1/inaturalist/lesser_striped_swallow_lessts1_2.jpg",
+      "public_id": "bird-gallery/lesser_striped_swallow_lessts1/inaturalist/lesser_striped_swallow_lessts1_2",
+      "width": 1024,
+      "height": 647,
+      "format": "jpg",
+      "bytes": 175460,
+      "attribution": {
+        "photographer": "tjeerddw",
+        "photographer_url": "https://www.inaturalist.org/observations/21978886",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© tjeerddw (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 21978886,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_striped_swallow_lessts1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940875/bird-gallery/lesser_striped_swallow_lessts1/inaturalist/lesser_striped_swallow_lessts1_3.jpg",
+      "public_id": "bird-gallery/lesser_striped_swallow_lessts1/inaturalist/lesser_striped_swallow_lessts1_3",
+      "width": 1024,
+      "height": 821,
+      "format": "jpg",
+      "bytes": 38559,
+      "attribution": {
+        "photographer": "happyasacupcake",
+        "photographer_url": "https://www.inaturalist.org/observations/16892599",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© happyasacupcake (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 16892599,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

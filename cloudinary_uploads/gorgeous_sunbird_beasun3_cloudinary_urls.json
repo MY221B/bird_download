@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "gorgeous_sunbird_beasun3",
+    "chinese_name": "华美花蜜鸟",
+    "english_name": "Gorgeous Sunbird",
+    "scientific_name": "Cinnyris melanogastrus"
+  },
+  "macaulay": [
+    {
+      "original_file": "gorgeous_sunbird_beasun3_188730441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939331/bird-gallery/gorgeous_sunbird_beasun3/macaulay/gorgeous_sunbird_beasun3_188730441.jpg",
+      "public_id": "bird-gallery/gorgeous_sunbird_beasun3/macaulay/gorgeous_sunbird_beasun3_188730441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83166,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/188730441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "188730441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gorgeous_sunbird_beasun3_205491121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939332/bird-gallery/gorgeous_sunbird_beasun3/macaulay/gorgeous_sunbird_beasun3_205491121.jpg",
+      "public_id": "bird-gallery/gorgeous_sunbird_beasun3/macaulay/gorgeous_sunbird_beasun3_205491121",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 45008,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205491121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205491121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gorgeous_sunbird_beasun3_205491131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939333/bird-gallery/gorgeous_sunbird_beasun3/macaulay/gorgeous_sunbird_beasun3_205491131.jpg",
+      "public_id": "bird-gallery/gorgeous_sunbird_beasun3/macaulay/gorgeous_sunbird_beasun3_205491131",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 45025,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205491131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205491131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gorgeous_sunbird_beasun3_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939334/bird-gallery/gorgeous_sunbird_beasun3/inaturalist/gorgeous_sunbird_beasun3_1.jpg",
+      "public_id": "bird-gallery/gorgeous_sunbird_beasun3/inaturalist/gorgeous_sunbird_beasun3_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 72911,
+      "attribution": {
+        "photographer": "ramonamom",
+        "photographer_url": "https://www.inaturalist.org/observations/80441762",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ramonamom (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 80441762,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gorgeous_sunbird_beasun3_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939335/bird-gallery/gorgeous_sunbird_beasun3/inaturalist/gorgeous_sunbird_beasun3_3.jpg",
+      "public_id": "bird-gallery/gorgeous_sunbird_beasun3/inaturalist/gorgeous_sunbird_beasun3_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 83428,
+      "attribution": {
+        "photographer": "gregoiredubois",
+        "photographer_url": "https://www.inaturalist.org/observations/67107132",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gregoiredubois (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 67107132,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

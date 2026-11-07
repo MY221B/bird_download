@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "flappet_lark_flalar1",
+    "chinese_name": "垂耳歌百灵",
+    "english_name": "Flappet Lark",
+    "scientific_name": "Amirafra rufocinnamomea"
+  },
+  "macaulay": [
+    {
+      "original_file": "flappet_lark_flalar1_111112181.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942922/bird-gallery/flappet_lark_flalar1/macaulay/flappet_lark_flalar1_111112181.jpg",
+      "public_id": "bird-gallery/flappet_lark_flalar1/macaulay/flappet_lark_flalar1_111112181",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 85236,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/111112181",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "111112181",
+        "note": null
+      }
+    },
+    {
+      "original_file": "flappet_lark_flalar1_204353341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942923/bird-gallery/flappet_lark_flalar1/macaulay/flappet_lark_flalar1_204353341.jpg",
+      "public_id": "bird-gallery/flappet_lark_flalar1/macaulay/flappet_lark_flalar1_204353341",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 236093,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204353341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204353341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "flappet_lark_flalar1_508395171.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942924/bird-gallery/flappet_lark_flalar1/macaulay/flappet_lark_flalar1_508395171.jpg",
+      "public_id": "bird-gallery/flappet_lark_flalar1/macaulay/flappet_lark_flalar1_508395171",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 94818,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/508395171",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "508395171",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "flappet_lark_flalar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942925/bird-gallery/flappet_lark_flalar1/inaturalist/flappet_lark_flalar1_1.jpg",
+      "public_id": "bird-gallery/flappet_lark_flalar1/inaturalist/flappet_lark_flalar1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 120357,
+      "attribution": {
+        "photographer": "christiaan_viljoen",
+        "photographer_url": "https://www.inaturalist.org/observations/35940535",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© christiaan_viljoen (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 35940535,
+        "note": null
+      }
+    },
+    {
+      "original_file": "flappet_lark_flalar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942926/bird-gallery/flappet_lark_flalar1/inaturalist/flappet_lark_flalar1_2.jpg",
+      "public_id": "bird-gallery/flappet_lark_flalar1/inaturalist/flappet_lark_flalar1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 88402,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/17460707",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 17460707,
+        "note": null
+      }
+    },
+    {
+      "original_file": "flappet_lark_flalar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942926/bird-gallery/flappet_lark_flalar1/inaturalist/flappet_lark_flalar1_3.jpg",
+      "public_id": "bird-gallery/flappet_lark_flalar1/inaturalist/flappet_lark_flalar1_3",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 107376,
+      "attribution": {
+        "photographer": "bahati",
+        "photographer_url": "https://www.inaturalist.org/observations/102869904",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bahati (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 102869904,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

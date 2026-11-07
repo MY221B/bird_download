@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "yellow_flycatcher_yelfly2",
+    "chinese_name": "黄红鹟",
+    "english_name": "Yellow Flycatcher",
+    "scientific_name": "Erythrocercus holochlorus"
+  },
+  "macaulay": [
+    {
+      "original_file": "yellow_flycatcher_yelfly2_313287021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945456/bird-gallery/yellow_flycatcher_yelfly2/macaulay/yellow_flycatcher_yelfly2_313287021.jpg",
+      "public_id": "bird-gallery/yellow_flycatcher_yelfly2/macaulay/yellow_flycatcher_yelfly2_313287021",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 64016,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/313287021",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "313287021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_flycatcher_yelfly2_366185821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945457/bird-gallery/yellow_flycatcher_yelfly2/macaulay/yellow_flycatcher_yelfly2_366185821.jpg",
+      "public_id": "bird-gallery/yellow_flycatcher_yelfly2/macaulay/yellow_flycatcher_yelfly2_366185821",
+      "width": 1200,
+      "height": 790,
+      "format": "jpg",
+      "bytes": 59640,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/366185821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "366185821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_flycatcher_yelfly2_563158401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945458/bird-gallery/yellow_flycatcher_yelfly2/macaulay/yellow_flycatcher_yelfly2_563158401.jpg",
+      "public_id": "bird-gallery/yellow_flycatcher_yelfly2/macaulay/yellow_flycatcher_yelfly2_563158401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86665,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/563158401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "563158401",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "yellow_flycatcher_yelfly2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945459/bird-gallery/yellow_flycatcher_yelfly2/inaturalist/yellow_flycatcher_yelfly2_1.jpg",
+      "public_id": "bird-gallery/yellow_flycatcher_yelfly2/inaturalist/yellow_flycatcher_yelfly2_1",
+      "width": 939,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 77557,
+      "attribution": {
+        "photographer": "kalie9",
+        "photographer_url": "https://www.inaturalist.org/observations/144317197",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© kalie9 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 144317197,
+        "note": null
+      }
+    },
+    {
+      "original_file": "yellow_flycatcher_yelfly2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945459/bird-gallery/yellow_flycatcher_yelfly2/inaturalist/yellow_flycatcher_yelfly2_2.jpg",
+      "public_id": "bird-gallery/yellow_flycatcher_yelfly2/inaturalist/yellow_flycatcher_yelfly2_2",
+      "width": 1024,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 40994,
+      "attribution": {
+        "photographer": "niallp",
+        "photographer_url": "https://www.inaturalist.org/observations/103301440",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© niallp (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 103301440,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

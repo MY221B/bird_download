@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "mountain_buzzard",
+    "chinese_name": "山𫛭",
+    "english_name": "Mountain Buzzard",
+    "scientific_name": "Buteo oreophilus"
+  },
+  "macaulay": [
+    {
+      "original_file": "mountain_buzzard_183097851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941231/bird-gallery/mountain_buzzard/macaulay/mountain_buzzard_183097851.jpg",
+      "public_id": "bird-gallery/mountain_buzzard/macaulay/mountain_buzzard_183097851",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 33666,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/183097851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "183097851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_buzzard_204761561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941233/bird-gallery/mountain_buzzard/macaulay/mountain_buzzard_204761561.jpg",
+      "public_id": "bird-gallery/mountain_buzzard/macaulay/mountain_buzzard_204761561",
+      "width": 1200,
+      "height": 868,
+      "format": "jpg",
+      "bytes": 104940,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204761561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204761561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_buzzard_289977131.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941234/bird-gallery/mountain_buzzard/macaulay/mountain_buzzard_289977131.jpg",
+      "public_id": "bird-gallery/mountain_buzzard/macaulay/mountain_buzzard_289977131",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 30183,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/289977131",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "289977131",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "mountain_buzzard_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941235/bird-gallery/mountain_buzzard/inaturalist/mountain_buzzard_1.jpg",
+      "public_id": "bird-gallery/mountain_buzzard/inaturalist/mountain_buzzard_1",
+      "width": 962,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 129318,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/93457039",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 93457039,
+        "note": null
+      }
+    },
+    {
+      "original_file": "mountain_buzzard_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941236/bird-gallery/mountain_buzzard/inaturalist/mountain_buzzard_3.jpg",
+      "public_id": "bird-gallery/mountain_buzzard/inaturalist/mountain_buzzard_3",
+      "width": 615,
+      "height": 922,
+      "format": "jpg",
+      "bytes": 21268,
+      "attribution": {
+        "photographer": "hirons",
+        "photographer_url": "https://www.inaturalist.org/observations/147376043",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© hirons (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 147376043,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

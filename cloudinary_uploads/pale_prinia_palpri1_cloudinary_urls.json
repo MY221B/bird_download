@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "pale_prinia_palpri1",
+    "chinese_name": "淡山鹪莺",
+    "english_name": "Pale Prinia",
+    "scientific_name": "Prinia somalica"
+  },
+  "macaulay": [
+    {
+      "original_file": "pale_prinia_palpri1_205464501.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944054/bird-gallery/pale_prinia_palpri1/macaulay/pale_prinia_palpri1_205464501.jpg",
+      "public_id": "bird-gallery/pale_prinia_palpri1/macaulay/pale_prinia_palpri1_205464501",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 103126,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205464501",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205464501",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_prinia_palpri1_274066281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944054/bird-gallery/pale_prinia_palpri1/macaulay/pale_prinia_palpri1_274066281.jpg",
+      "public_id": "bird-gallery/pale_prinia_palpri1/macaulay/pale_prinia_palpri1_274066281",
+      "width": 1200,
+      "height": 838,
+      "format": "jpg",
+      "bytes": 64075,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/274066281",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "274066281",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_prinia_palpri1_33856861.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944055/bird-gallery/pale_prinia_palpri1/macaulay/pale_prinia_palpri1_33856861.jpg",
+      "public_id": "bird-gallery/pale_prinia_palpri1/macaulay/pale_prinia_palpri1_33856861",
+      "width": 1200,
+      "height": 698,
+      "format": "jpg",
+      "bytes": 51033,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33856861",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33856861",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pale_prinia_palpri1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944056/bird-gallery/pale_prinia_palpri1/inaturalist/pale_prinia_palpri1_1.jpg",
+      "public_id": "bird-gallery/pale_prinia_palpri1/inaturalist/pale_prinia_palpri1_1",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 66830,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/31228242",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 31228242,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_prinia_palpri1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944057/bird-gallery/pale_prinia_palpri1/inaturalist/pale_prinia_palpri1_2.jpg",
+      "public_id": "bird-gallery/pale_prinia_palpri1/inaturalist/pale_prinia_palpri1_2",
+      "width": 1000,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 65001,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/39182692",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 39182692,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pale_prinia_palpri1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944058/bird-gallery/pale_prinia_palpri1/inaturalist/pale_prinia_palpri1_3.jpg",
+      "public_id": "bird-gallery/pale_prinia_palpri1/inaturalist/pale_prinia_palpri1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 57092,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/346353601",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 346353601,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

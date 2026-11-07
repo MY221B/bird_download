@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_headed_barbet_whhbar1",
+    "chinese_name": "白头拟啄木鸟",
+    "english_name": "White-headed Barbet",
+    "scientific_name": "Lybius leucocephalus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_headed_barbet_whhbar1_665521792.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940600/bird-gallery/white_headed_barbet_whhbar1/macaulay/white_headed_barbet_whhbar1_665521792.jpg",
+      "public_id": "bird-gallery/white_headed_barbet_whhbar1/macaulay/white_headed_barbet_whhbar1_665521792",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 90548,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665521792",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665521792",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_barbet_whhbar1_665626516.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940601/bird-gallery/white_headed_barbet_whhbar1/macaulay/white_headed_barbet_whhbar1_665626516.jpg",
+      "public_id": "bird-gallery/white_headed_barbet_whhbar1/macaulay/white_headed_barbet_whhbar1_665626516",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 51802,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665626516",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665626516",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_barbet_whhbar1_665626517.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940603/bird-gallery/white_headed_barbet_whhbar1/macaulay/white_headed_barbet_whhbar1_665626517.jpg",
+      "public_id": "bird-gallery/white_headed_barbet_whhbar1/macaulay/white_headed_barbet_whhbar1_665626517",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 60390,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665626517",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665626517",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_headed_barbet_whhbar1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940604/bird-gallery/white_headed_barbet_whhbar1/inaturalist/white_headed_barbet_whhbar1_1.jpg",
+      "public_id": "bird-gallery/white_headed_barbet_whhbar1/inaturalist/white_headed_barbet_whhbar1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 98495,
+      "attribution": {
+        "photographer": "tiagotg7",
+        "photographer_url": "https://www.inaturalist.org/observations/180101494",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© tiagotg7 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 180101494,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_barbet_whhbar1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940604/bird-gallery/white_headed_barbet_whhbar1/inaturalist/white_headed_barbet_whhbar1_2.jpg",
+      "public_id": "bird-gallery/white_headed_barbet_whhbar1/inaturalist/white_headed_barbet_whhbar1_2",
+      "width": 1024,
+      "height": 615,
+      "format": "jpg",
+      "bytes": 54452,
+      "attribution": {
+        "photographer": "congonaturalist",
+        "photographer_url": "https://www.inaturalist.org/observations/69818292",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© congonaturalist (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 69818292,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_headed_barbet_whhbar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940605/bird-gallery/white_headed_barbet_whhbar1/inaturalist/white_headed_barbet_whhbar1_3.jpg",
+      "public_id": "bird-gallery/white_headed_barbet_whhbar1/inaturalist/white_headed_barbet_whhbar1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 63110,
+      "attribution": {
+        "photographer": "dario70443",
+        "photographer_url": "https://www.inaturalist.org/observations/306839214",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dario70443 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 306839214,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

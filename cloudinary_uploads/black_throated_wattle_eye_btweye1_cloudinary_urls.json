@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "black_throated_wattle_eye_btweye1",
+    "chinese_name": "黑喉饰眼鹟",
+    "english_name": "Black-throated Wattle-eye",
+    "scientific_name": "Platysteira peltata"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_throated_wattle_eye_btweye1_205486411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940777/bird-gallery/black_throated_wattle_eye_btweye1/macaulay/black_throated_wattle_eye_btweye1_205486411.jpg",
+      "public_id": "bird-gallery/black_throated_wattle_eye_btweye1/macaulay/black_throated_wattle_eye_btweye1_205486411",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 52852,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205486411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205486411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_throated_wattle_eye_btweye1_629551924.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940777/bird-gallery/black_throated_wattle_eye_btweye1/macaulay/black_throated_wattle_eye_btweye1_629551924.jpg",
+      "public_id": "bird-gallery/black_throated_wattle_eye_btweye1/macaulay/black_throated_wattle_eye_btweye1_629551924",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55251,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/629551924",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "629551924",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_throated_wattle_eye_btweye1_86786371.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940779/bird-gallery/black_throated_wattle_eye_btweye1/macaulay/black_throated_wattle_eye_btweye1_86786371.jpg",
+      "public_id": "bird-gallery/black_throated_wattle_eye_btweye1/macaulay/black_throated_wattle_eye_btweye1_86786371",
+      "width": 1200,
+      "height": 904,
+      "format": "jpg",
+      "bytes": 116645,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/86786371",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "86786371",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_throated_wattle_eye_btweye1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940781/bird-gallery/black_throated_wattle_eye_btweye1/inaturalist/black_throated_wattle_eye_btweye1_2.jpg",
+      "public_id": "bird-gallery/black_throated_wattle_eye_btweye1/inaturalist/black_throated_wattle_eye_btweye1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 71444,
+      "attribution": {
+        "photographer": "bushboy",
+        "photographer_url": "https://www.inaturalist.org/observations/9328927",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bushboy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 9328927,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_throated_wattle_eye_btweye1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940782/bird-gallery/black_throated_wattle_eye_btweye1/inaturalist/black_throated_wattle_eye_btweye1_3.jpg",
+      "public_id": "bird-gallery/black_throated_wattle_eye_btweye1/inaturalist/black_throated_wattle_eye_btweye1_3",
+      "width": 1024,
+      "height": 990,
+      "format": "jpg",
+      "bytes": 78918,
+      "attribution": {
+        "photographer": "magdastlucia",
+        "photographer_url": "https://www.inaturalist.org/observations/8602419",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© magdastlucia (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 8602419,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

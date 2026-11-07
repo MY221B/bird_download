@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "purple_banded_sunbird_pubsun4",
+    "chinese_name": "紫斑花蜜鸟",
+    "english_name": "Purple-banded Sunbird",
+    "scientific_name": "Cinnyris bifasciatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "purple_banded_sunbird_pubsun4_199958951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943006/bird-gallery/purple_banded_sunbird_pubsun4/macaulay/purple_banded_sunbird_pubsun4_199958951.jpg",
+      "public_id": "bird-gallery/purple_banded_sunbird_pubsun4/macaulay/purple_banded_sunbird_pubsun4_199958951",
+      "width": 1200,
+      "height": 937,
+      "format": "jpg",
+      "bytes": 72961,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/199958951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "199958951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_banded_sunbird_pubsun4_205907591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943007/bird-gallery/purple_banded_sunbird_pubsun4/macaulay/purple_banded_sunbird_pubsun4_205907591.jpg",
+      "public_id": "bird-gallery/purple_banded_sunbird_pubsun4/macaulay/purple_banded_sunbird_pubsun4_205907591",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 65895,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205907591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205907591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_banded_sunbird_pubsun4_303758661.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943008/bird-gallery/purple_banded_sunbird_pubsun4/macaulay/purple_banded_sunbird_pubsun4_303758661.jpg",
+      "public_id": "bird-gallery/purple_banded_sunbird_pubsun4/macaulay/purple_banded_sunbird_pubsun4_303758661",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 87148,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/303758661",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "303758661",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "purple_banded_sunbird_pubsun4_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943009/bird-gallery/purple_banded_sunbird_pubsun4/inaturalist/purple_banded_sunbird_pubsun4_1.jpg",
+      "public_id": "bird-gallery/purple_banded_sunbird_pubsun4/inaturalist/purple_banded_sunbird_pubsun4_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 65769,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/134710333",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 134710333,
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_banded_sunbird_pubsun4_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943010/bird-gallery/purple_banded_sunbird_pubsun4/inaturalist/purple_banded_sunbird_pubsun4_2.jpg",
+      "public_id": "bird-gallery/purple_banded_sunbird_pubsun4/inaturalist/purple_banded_sunbird_pubsun4_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 145582,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/73625041",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 73625041,
+        "note": null
+      }
+    },
+    {
+      "original_file": "purple_banded_sunbird_pubsun4_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943010/bird-gallery/purple_banded_sunbird_pubsun4/inaturalist/purple_banded_sunbird_pubsun4_3.jpg",
+      "public_id": "bird-gallery/purple_banded_sunbird_pubsun4/inaturalist/purple_banded_sunbird_pubsun4_3",
+      "width": 1024,
+      "height": 658,
+      "format": "jpg",
+      "bytes": 67663,
+      "attribution": {
+        "photographer": "i_c_riddell",
+        "photographer_url": "https://www.inaturalist.org/observations/55411591",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© i_c_riddell (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 55411591,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

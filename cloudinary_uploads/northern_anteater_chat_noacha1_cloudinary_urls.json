@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "northern_anteater_chat_noacha1",
+    "chinese_name": "蚁䳭",
+    "english_name": "Northern Anteater-Chat",
+    "scientific_name": "Myrmecocichla aethiops"
+  },
+  "macaulay": [
+    {
+      "original_file": "northern_anteater_chat_noacha1_143653111.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941367/bird-gallery/northern_anteater_chat_noacha1/macaulay/northern_anteater_chat_noacha1_143653111.jpg",
+      "public_id": "bird-gallery/northern_anteater_chat_noacha1/macaulay/northern_anteater_chat_noacha1_143653111",
+      "width": 1200,
+      "height": 927,
+      "format": "jpg",
+      "bytes": 105871,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/143653111",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "143653111",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_anteater_chat_noacha1_205179851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941368/bird-gallery/northern_anteater_chat_noacha1/macaulay/northern_anteater_chat_noacha1_205179851.jpg",
+      "public_id": "bird-gallery/northern_anteater_chat_noacha1/macaulay/northern_anteater_chat_noacha1_205179851",
+      "width": 675,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 68338,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205179851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205179851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_anteater_chat_noacha1_633055147.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941372/bird-gallery/northern_anteater_chat_noacha1/macaulay/northern_anteater_chat_noacha1_633055147.jpg",
+      "public_id": "bird-gallery/northern_anteater_chat_noacha1/macaulay/northern_anteater_chat_noacha1_633055147",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 35359,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/633055147",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "633055147",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "northern_anteater_chat_noacha1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941373/bird-gallery/northern_anteater_chat_noacha1/inaturalist/northern_anteater_chat_noacha1_1.jpg",
+      "public_id": "bird-gallery/northern_anteater_chat_noacha1/inaturalist/northern_anteater_chat_noacha1_1",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 68417,
+      "attribution": {
+        "photographer": "rickpower88",
+        "photographer_url": "https://www.inaturalist.org/observations/30283835",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© rickpower88 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 30283835,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_anteater_chat_noacha1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941374/bird-gallery/northern_anteater_chat_noacha1/inaturalist/northern_anteater_chat_noacha1_2.jpg",
+      "public_id": "bird-gallery/northern_anteater_chat_noacha1/inaturalist/northern_anteater_chat_noacha1_2",
+      "width": 1024,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 214533,
+      "attribution": {
+        "photographer": "nyoni-pete",
+        "photographer_url": "https://www.inaturalist.org/observations/42715730",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nyoni-pete (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 42715730,
+        "note": null
+      }
+    },
+    {
+      "original_file": "northern_anteater_chat_noacha1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941375/bird-gallery/northern_anteater_chat_noacha1/inaturalist/northern_anteater_chat_noacha1_3.jpg",
+      "public_id": "bird-gallery/northern_anteater_chat_noacha1/inaturalist/northern_anteater_chat_noacha1_3",
+      "width": 1024,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 56110,
+      "attribution": {
+        "photographer": "joni_overbosch",
+        "photographer_url": "https://www.inaturalist.org/observations/34842515",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joni_overbosch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34842515,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "honeyguide_greenbul",
+    "chinese_name": "白尾鹎",
+    "english_name": "Honeyguide Greenbul",
+    "scientific_name": "Baeopogon indicator"
+  },
+  "macaulay": [
+    {
+      "original_file": "honeyguide_greenbul_279104241.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944639/bird-gallery/honeyguide_greenbul/macaulay/honeyguide_greenbul_279104241.jpg",
+      "public_id": "bird-gallery/honeyguide_greenbul/macaulay/honeyguide_greenbul_279104241",
+      "width": 900,
+      "height": 1200,
+      "format": "jpg",
+      "bytes": 95930,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/279104241",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "279104241",
+        "note": null
+      }
+    },
+    {
+      "original_file": "honeyguide_greenbul_608991760.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944640/bird-gallery/honeyguide_greenbul/macaulay/honeyguide_greenbul_608991760.jpg",
+      "public_id": "bird-gallery/honeyguide_greenbul/macaulay/honeyguide_greenbul_608991760",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 94570,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/608991760",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "608991760",
+        "note": null
+      }
+    },
+    {
+      "original_file": "honeyguide_greenbul_650129163.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944641/bird-gallery/honeyguide_greenbul/macaulay/honeyguide_greenbul_650129163.jpg",
+      "public_id": "bird-gallery/honeyguide_greenbul/macaulay/honeyguide_greenbul_650129163",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 175215,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/650129163",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "650129163",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "honeyguide_greenbul_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944642/bird-gallery/honeyguide_greenbul/inaturalist/honeyguide_greenbul_2.jpg",
+      "public_id": "bird-gallery/honeyguide_greenbul/inaturalist/honeyguide_greenbul_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 175619,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/68641344",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 68641344,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

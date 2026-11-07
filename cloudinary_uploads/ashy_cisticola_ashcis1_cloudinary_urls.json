@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "ashy_cisticola_ashcis1",
+    "chinese_name": "淡灰扇尾莺",
+    "english_name": "Ashy Cisticola",
+    "scientific_name": "Cisticola cinereolus"
+  },
+  "macaulay": [
+    {
+      "original_file": "ashy_cisticola_ashcis1_296068341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943850/bird-gallery/ashy_cisticola_ashcis1/macaulay/ashy_cisticola_ashcis1_296068341.jpg",
+      "public_id": "bird-gallery/ashy_cisticola_ashcis1/macaulay/ashy_cisticola_ashcis1_296068341",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 55856,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/296068341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "296068341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ashy_cisticola_ashcis1_33585271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943851/bird-gallery/ashy_cisticola_ashcis1/macaulay/ashy_cisticola_ashcis1_33585271.jpg",
+      "public_id": "bird-gallery/ashy_cisticola_ashcis1/macaulay/ashy_cisticola_ashcis1_33585271",
+      "width": 1200,
+      "height": 697,
+      "format": "jpg",
+      "bytes": 44881,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33585271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33585271",
+        "note": null
+      }
+    },
+    {
+      "original_file": "ashy_cisticola_ashcis1_33585281.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943852/bird-gallery/ashy_cisticola_ashcis1/macaulay/ashy_cisticola_ashcis1_33585281.jpg",
+      "public_id": "bird-gallery/ashy_cisticola_ashcis1/macaulay/ashy_cisticola_ashcis1_33585281",
+      "width": 1200,
+      "height": 716,
+      "format": "jpg",
+      "bytes": 60667,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33585281",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33585281",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "ashy_cisticola_ashcis1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943853/bird-gallery/ashy_cisticola_ashcis1/inaturalist/ashy_cisticola_ashcis1_1.jpg",
+      "public_id": "bird-gallery/ashy_cisticola_ashcis1/inaturalist/ashy_cisticola_ashcis1_1",
+      "width": 1024,
+      "height": 841,
+      "format": "jpg",
+      "bytes": 64565,
+      "attribution": {
+        "photographer": "leuli",
+        "photographer_url": "https://www.inaturalist.org/observations/104419849",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© leuli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 104419849,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ashy_cisticola_ashcis1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943854/bird-gallery/ashy_cisticola_ashcis1/inaturalist/ashy_cisticola_ashcis1_2.jpg",
+      "public_id": "bird-gallery/ashy_cisticola_ashcis1/inaturalist/ashy_cisticola_ashcis1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 80172,
+      "attribution": {
+        "photographer": "don-jean",
+        "photographer_url": "https://www.inaturalist.org/observations/360084202",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© don-jean (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 360084202,
+        "note": null
+      }
+    },
+    {
+      "original_file": "ashy_cisticola_ashcis1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943854/bird-gallery/ashy_cisticola_ashcis1/inaturalist/ashy_cisticola_ashcis1_3.jpg",
+      "public_id": "bird-gallery/ashy_cisticola_ashcis1/inaturalist/ashy_cisticola_ashcis1_3",
+      "width": 1024,
+      "height": 886,
+      "format": "jpg",
+      "bytes": 41480,
+      "attribution": {
+        "photographer": "neomorphus",
+        "photographer_url": "https://www.inaturalist.org/observations/18775849",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© neomorphus (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 18775849,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

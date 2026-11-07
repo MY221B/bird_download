@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "pangani_longclaw_panlon1",
+    "chinese_name": "橘红长爪鹡鸰",
+    "english_name": "Pangani Longclaw",
+    "scientific_name": "Macronyx aurantiigula"
+  },
+  "macaulay": [
+    {
+      "original_file": "pangani_longclaw_panlon1_290234931.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939954/bird-gallery/pangani_longclaw_panlon1/macaulay/pangani_longclaw_panlon1_290234931.jpg",
+      "public_id": "bird-gallery/pangani_longclaw_panlon1/macaulay/pangani_longclaw_panlon1_290234931",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100038,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/290234931",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "290234931",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pangani_longclaw_panlon1_632493533.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939955/bird-gallery/pangani_longclaw_panlon1/macaulay/pangani_longclaw_panlon1_632493533.jpg",
+      "public_id": "bird-gallery/pangani_longclaw_panlon1/macaulay/pangani_longclaw_panlon1_632493533",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 88377,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632493533",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632493533",
+        "note": null
+      }
+    },
+    {
+      "original_file": "pangani_longclaw_panlon1_660650087.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939956/bird-gallery/pangani_longclaw_panlon1/macaulay/pangani_longclaw_panlon1_660650087.jpg",
+      "public_id": "bird-gallery/pangani_longclaw_panlon1/macaulay/pangani_longclaw_panlon1_660650087",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 86667,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/660650087",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "660650087",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "pangani_longclaw_panlon1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939958/bird-gallery/pangani_longclaw_panlon1/inaturalist/pangani_longclaw_panlon1_2.jpg",
+      "public_id": "bird-gallery/pangani_longclaw_panlon1/inaturalist/pangani_longclaw_panlon1_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 36782,
+      "attribution": {
+        "photographer": "lukeberg",
+        "photographer_url": "https://www.inaturalist.org/observations/315550323",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 315550323,
+        "note": null
+      }
+    },
+    {
+      "original_file": "pangani_longclaw_panlon1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939959/bird-gallery/pangani_longclaw_panlon1/inaturalist/pangani_longclaw_panlon1_3.jpg",
+      "public_id": "bird-gallery/pangani_longclaw_panlon1/inaturalist/pangani_longclaw_panlon1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 56947,
+      "attribution": {
+        "photographer": "robinjames",
+        "photographer_url": "https://www.inaturalist.org/observations/62815276",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© robinjames (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 62815276,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

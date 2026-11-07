@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "white_backed_night_heron",
+    "chinese_name": "白背夜鹭",
+    "english_name": "White-backed Night Heron",
+    "scientific_name": "Calherodius leuconotus"
+  },
+  "macaulay": [
+    {
+      "original_file": "white_backed_night_heron_205741591.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942078/bird-gallery/white_backed_night_heron/macaulay/white_backed_night_heron_205741591.jpg",
+      "public_id": "bird-gallery/white_backed_night_heron/macaulay/white_backed_night_heron_205741591",
+      "width": 1200,
+      "height": 660,
+      "format": "jpg",
+      "bytes": 48438,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205741591",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205741591",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_backed_night_heron_212608351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942078/bird-gallery/white_backed_night_heron/macaulay/white_backed_night_heron_212608351.jpg",
+      "public_id": "bird-gallery/white_backed_night_heron/macaulay/white_backed_night_heron_212608351",
+      "width": 1200,
+      "height": 856,
+      "format": "jpg",
+      "bytes": 43899,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/212608351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "212608351",
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_backed_night_heron_513530671.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942079/bird-gallery/white_backed_night_heron/macaulay/white_backed_night_heron_513530671.jpg",
+      "public_id": "bird-gallery/white_backed_night_heron/macaulay/white_backed_night_heron_513530671",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 39950,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/513530671",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "513530671",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "white_backed_night_heron_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942081/bird-gallery/white_backed_night_heron/inaturalist/white_backed_night_heron_1.jpg",
+      "public_id": "bird-gallery/white_backed_night_heron/inaturalist/white_backed_night_heron_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 74113,
+      "attribution": {
+        "photographer": "dylanleonard",
+        "photographer_url": "https://www.inaturalist.org/observations/198294451",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© dylanleonard (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 198294451,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_backed_night_heron_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942082/bird-gallery/white_backed_night_heron/inaturalist/white_backed_night_heron_2.jpg",
+      "public_id": "bird-gallery/white_backed_night_heron/inaturalist/white_backed_night_heron_2",
+      "width": 1024,
+      "height": 739,
+      "format": "jpg",
+      "bytes": 112373,
+      "attribution": {
+        "photographer": "david_taylor",
+        "photographer_url": "https://www.inaturalist.org/observations/198993323",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© david_taylor (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 198993323,
+        "note": null
+      }
+    },
+    {
+      "original_file": "white_backed_night_heron_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942082/bird-gallery/white_backed_night_heron/inaturalist/white_backed_night_heron_3.jpg",
+      "public_id": "bird-gallery/white_backed_night_heron/inaturalist/white_backed_night_heron_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 59493,
+      "attribution": {
+        "photographer": "grant_reed_botswana",
+        "photographer_url": "https://www.inaturalist.org/observations/65269160",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© grant_reed_botswana (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 65269160,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

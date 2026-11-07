@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "dusky_turtle_dove_dutdov1",
+    "chinese_name": "粉胸斑鸠",
+    "english_name": "Dusky Turtle-Dove",
+    "scientific_name": "Streptopelia lugens"
+  },
+  "macaulay": [
+    {
+      "original_file": "dusky_turtle_dove_dutdov1_582727851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939706/bird-gallery/dusky_turtle_dove_dutdov1/macaulay/dusky_turtle_dove_dutdov1_582727851.jpg",
+      "public_id": "bird-gallery/dusky_turtle_dove_dutdov1/macaulay/dusky_turtle_dove_dutdov1_582727851",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 202168,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/582727851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "582727851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_turtle_dove_dutdov1_631607823.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939707/bird-gallery/dusky_turtle_dove_dutdov1/macaulay/dusky_turtle_dove_dutdov1_631607823.jpg",
+      "public_id": "bird-gallery/dusky_turtle_dove_dutdov1/macaulay/dusky_turtle_dove_dutdov1_631607823",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 117652,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/631607823",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "631607823",
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_turtle_dove_dutdov1_632984037.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939709/bird-gallery/dusky_turtle_dove_dutdov1/macaulay/dusky_turtle_dove_dutdov1_632984037.jpg",
+      "public_id": "bird-gallery/dusky_turtle_dove_dutdov1/macaulay/dusky_turtle_dove_dutdov1_632984037",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 77056,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632984037",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632984037",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "dusky_turtle_dove_dutdov1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939709/bird-gallery/dusky_turtle_dove_dutdov1/inaturalist/dusky_turtle_dove_dutdov1_1.jpg",
+      "public_id": "bird-gallery/dusky_turtle_dove_dutdov1/inaturalist/dusky_turtle_dove_dutdov1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 119803,
+      "attribution": {
+        "photographer": "floydehayes",
+        "photographer_url": "https://www.inaturalist.org/observations/174879406",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© floydehayes (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 174879406,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_turtle_dove_dutdov1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939710/bird-gallery/dusky_turtle_dove_dutdov1/inaturalist/dusky_turtle_dove_dutdov1_2.jpg",
+      "public_id": "bird-gallery/dusky_turtle_dove_dutdov1/inaturalist/dusky_turtle_dove_dutdov1_2",
+      "width": 768,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 57142,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/59298333",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 59298333,
+        "note": null
+      }
+    },
+    {
+      "original_file": "dusky_turtle_dove_dutdov1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939711/bird-gallery/dusky_turtle_dove_dutdov1/inaturalist/dusky_turtle_dove_dutdov1_3.jpg",
+      "public_id": "bird-gallery/dusky_turtle_dove_dutdov1/inaturalist/dusky_turtle_dove_dutdov1_3",
+      "width": 1024,
+      "height": 680,
+      "format": "jpg",
+      "bytes": 157825,
+      "attribution": {
+        "photographer": "djlavor",
+        "photographer_url": "https://www.inaturalist.org/observations/44524358",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© djlavor (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 44524358,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

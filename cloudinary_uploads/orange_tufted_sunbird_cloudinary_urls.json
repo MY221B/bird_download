@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "orange_tufted_sunbird",
+    "chinese_name": "南非橙簇花蜜鸟",
+    "english_name": "Orange-tufted Sunbird",
+    "scientific_name": "Cinnyris bouvieri"
+  },
+  "macaulay": [
+    {
+      "original_file": "orange_tufted_sunbird_111031901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944678/bird-gallery/orange_tufted_sunbird/macaulay/orange_tufted_sunbird_111031901.jpg",
+      "public_id": "bird-gallery/orange_tufted_sunbird/macaulay/orange_tufted_sunbird_111031901",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49190,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/111031901",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "111031901",
+        "note": null
+      }
+    },
+    {
+      "original_file": "orange_tufted_sunbird_179836571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944679/bird-gallery/orange_tufted_sunbird/macaulay/orange_tufted_sunbird_179836571.jpg",
+      "public_id": "bird-gallery/orange_tufted_sunbird/macaulay/orange_tufted_sunbird_179836571",
+      "width": 1200,
+      "height": 795,
+      "format": "jpg",
+      "bytes": 91673,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/179836571",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "179836571",
+        "note": null
+      }
+    },
+    {
+      "original_file": "orange_tufted_sunbird_222306261.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944680/bird-gallery/orange_tufted_sunbird/macaulay/orange_tufted_sunbird_222306261.jpg",
+      "public_id": "bird-gallery/orange_tufted_sunbird/macaulay/orange_tufted_sunbird_222306261",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 52715,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/222306261",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "222306261",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "orange_tufted_sunbird_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944681/bird-gallery/orange_tufted_sunbird/inaturalist/orange_tufted_sunbird_1.jpg",
+      "public_id": "bird-gallery/orange_tufted_sunbird/inaturalist/orange_tufted_sunbird_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 46071,
+      "attribution": {
+        "photographer": "bureaubenjamin",
+        "photographer_url": "https://www.inaturalist.org/observations/143997664",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bureaubenjamin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 143997664,
+        "note": null
+      }
+    },
+    {
+      "original_file": "orange_tufted_sunbird_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944681/bird-gallery/orange_tufted_sunbird/inaturalist/orange_tufted_sunbird_2.jpg",
+      "public_id": "bird-gallery/orange_tufted_sunbird/inaturalist/orange_tufted_sunbird_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 96692,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/7100595",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 7100595,
+        "note": null
+      }
+    },
+    {
+      "original_file": "orange_tufted_sunbird_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944682/bird-gallery/orange_tufted_sunbird/inaturalist/orange_tufted_sunbird_3.jpg",
+      "public_id": "bird-gallery/orange_tufted_sunbird/inaturalist/orange_tufted_sunbird_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 112800,
+      "attribution": {
+        "photographer": "bureaubenjamin",
+        "photographer_url": "https://www.inaturalist.org/observations/106113556",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© bureaubenjamin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 106113556,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

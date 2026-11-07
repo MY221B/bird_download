@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "red_necked_spurfowl",
+    "chinese_name": "红喉彩鹧鸪",
+    "english_name": "Red-necked Spurfowl",
+    "scientific_name": "Pternistis afer"
+  },
+  "macaulay": [
+    {
+      "original_file": "red_necked_spurfowl_204470561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943016/bird-gallery/red_necked_spurfowl/macaulay/red_necked_spurfowl_204470561.jpg",
+      "public_id": "bird-gallery/red_necked_spurfowl/macaulay/red_necked_spurfowl_204470561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 154658,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204470561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204470561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_necked_spurfowl_276498291.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943017/bird-gallery/red_necked_spurfowl/macaulay/red_necked_spurfowl_276498291.jpg",
+      "public_id": "bird-gallery/red_necked_spurfowl/macaulay/red_necked_spurfowl_276498291",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 75221,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/276498291",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "276498291",
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_necked_spurfowl_631702679.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943019/bird-gallery/red_necked_spurfowl/macaulay/red_necked_spurfowl_631702679.jpg",
+      "public_id": "bird-gallery/red_necked_spurfowl/macaulay/red_necked_spurfowl_631702679",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 139722,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/631702679",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "631702679",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "red_necked_spurfowl_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943019/bird-gallery/red_necked_spurfowl/inaturalist/red_necked_spurfowl_1.jpg",
+      "public_id": "bird-gallery/red_necked_spurfowl/inaturalist/red_necked_spurfowl_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 156397,
+      "attribution": {
+        "photographer": "mariedelport",
+        "photographer_url": "https://www.inaturalist.org/observations/105320020",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mariedelport (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105320020,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_necked_spurfowl_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943020/bird-gallery/red_necked_spurfowl/inaturalist/red_necked_spurfowl_2.jpg",
+      "public_id": "bird-gallery/red_necked_spurfowl/inaturalist/red_necked_spurfowl_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 84586,
+      "attribution": {
+        "photographer": "wonderwalker",
+        "photographer_url": "https://www.inaturalist.org/observations/179806431",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© wonderwalker (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 179806431,
+        "note": null
+      }
+    },
+    {
+      "original_file": "red_necked_spurfowl_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793943021/bird-gallery/red_necked_spurfowl/inaturalist/red_necked_spurfowl_3.jpg",
+      "public_id": "bird-gallery/red_necked_spurfowl/inaturalist/red_necked_spurfowl_3",
+      "width": 1024,
+      "height": 701,
+      "format": "jpg",
+      "bytes": 90147,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/97869169",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 97869169,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

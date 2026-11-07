@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "sharpes_drongo",
+    "chinese_name": "夏氏方尾卷尾",
+    "english_name": "Sharpe's Drongo",
+    "scientific_name": "Dicrurus sharpei"
+  },
+  "macaulay": [
+    {
+      "original_file": "sharpes_drongo_206049421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944729/bird-gallery/sharpes_drongo/macaulay/sharpes_drongo_206049421.jpg",
+      "public_id": "bird-gallery/sharpes_drongo/macaulay/sharpes_drongo_206049421",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76996,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206049421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206049421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharpes_drongo_313100451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944730/bird-gallery/sharpes_drongo/macaulay/sharpes_drongo_313100451.jpg",
+      "public_id": "bird-gallery/sharpes_drongo/macaulay/sharpes_drongo_313100451",
+      "width": 1200,
+      "height": 951,
+      "format": "jpg",
+      "bytes": 68665,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/313100451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "313100451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharpes_drongo_313793301.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944731/bird-gallery/sharpes_drongo/macaulay/sharpes_drongo_313793301.jpg",
+      "public_id": "bird-gallery/sharpes_drongo/macaulay/sharpes_drongo_313793301",
+      "width": 1200,
+      "height": 922,
+      "format": "jpg",
+      "bytes": 66145,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/313793301",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "313793301",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "sharpes_drongo_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944732/bird-gallery/sharpes_drongo/inaturalist/sharpes_drongo_1.jpg",
+      "public_id": "bird-gallery/sharpes_drongo/inaturalist/sharpes_drongo_1",
+      "width": 608,
+      "height": 556,
+      "format": "jpg",
+      "bytes": 57021,
+      "attribution": {
+        "photographer": "aparrot1",
+        "photographer_url": "https://www.inaturalist.org/observations/333176093",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© aparrot1 (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 333176093,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharpes_drongo_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944733/bird-gallery/sharpes_drongo/inaturalist/sharpes_drongo_2.jpg",
+      "public_id": "bird-gallery/sharpes_drongo/inaturalist/sharpes_drongo_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 49176,
+      "attribution": {
+        "photographer": "lukeberg",
+        "photographer_url": "https://www.inaturalist.org/observations/310539363",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lukeberg (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 310539363,
+        "note": null
+      }
+    },
+    {
+      "original_file": "sharpes_drongo_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944733/bird-gallery/sharpes_drongo/inaturalist/sharpes_drongo_3.jpg",
+      "public_id": "bird-gallery/sharpes_drongo/inaturalist/sharpes_drongo_3",
+      "width": 1024,
+      "height": 820,
+      "format": "jpg",
+      "bytes": 64047,
+      "attribution": {
+        "photographer": "mustafa_adamjee",
+        "photographer_url": "https://www.inaturalist.org/observations/254296564",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mustafa_adamjee (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 254296564,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

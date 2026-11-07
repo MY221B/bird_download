@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "three_banded_plover_thbplo1",
+    "chinese_name": "三色鸻",
+    "english_name": "Three-banded Plover",
+    "scientific_name": "Thinornis tricollaris"
+  },
+  "macaulay": [
+    {
+      "original_file": "three_banded_plover_thbplo1_535061231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940417/bird-gallery/three_banded_plover_thbplo1/macaulay/three_banded_plover_thbplo1_535061231.jpg",
+      "public_id": "bird-gallery/three_banded_plover_thbplo1/macaulay/three_banded_plover_thbplo1_535061231",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 54224,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/535061231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "535061231",
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_banded_plover_thbplo1_535068121.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940418/bird-gallery/three_banded_plover_thbplo1/macaulay/three_banded_plover_thbplo1_535068121.jpg",
+      "public_id": "bird-gallery/three_banded_plover_thbplo1/macaulay/three_banded_plover_thbplo1_535068121",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 50728,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/535068121",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "535068121",
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_banded_plover_thbplo1_645511626.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940419/bird-gallery/three_banded_plover_thbplo1/macaulay/three_banded_plover_thbplo1_645511626.jpg",
+      "public_id": "bird-gallery/three_banded_plover_thbplo1/macaulay/three_banded_plover_thbplo1_645511626",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49255,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/645511626",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "645511626",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "three_banded_plover_thbplo1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940420/bird-gallery/three_banded_plover_thbplo1/inaturalist/three_banded_plover_thbplo1_1.jpg",
+      "public_id": "bird-gallery/three_banded_plover_thbplo1/inaturalist/three_banded_plover_thbplo1_1",
+      "width": 1024,
+      "height": 744,
+      "format": "jpg",
+      "bytes": 76217,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/320477599",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 320477599,
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_banded_plover_thbplo1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940423/bird-gallery/three_banded_plover_thbplo1/inaturalist/three_banded_plover_thbplo1_2.jpg",
+      "public_id": "bird-gallery/three_banded_plover_thbplo1/inaturalist/three_banded_plover_thbplo1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 60994,
+      "attribution": {
+        "photographer": "seasav",
+        "photographer_url": "https://www.inaturalist.org/observations/47881753",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© seasav (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 47881753,
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_banded_plover_thbplo1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940424/bird-gallery/three_banded_plover_thbplo1/inaturalist/three_banded_plover_thbplo1_3.jpg",
+      "public_id": "bird-gallery/three_banded_plover_thbplo1/inaturalist/three_banded_plover_thbplo1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 60246,
+      "attribution": {
+        "photographer": "eelin",
+        "photographer_url": "https://www.inaturalist.org/observations/99055805",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© eelin (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 99055805,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

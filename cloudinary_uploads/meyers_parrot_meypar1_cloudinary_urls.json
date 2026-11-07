@@ -1,0 +1,91 @@
+{
+  "bird_info": {
+    "slug": "meyers_parrot_meypar1",
+    "chinese_name": "麦耶氏鹦鹉",
+    "english_name": "Meyer's Parrot",
+    "scientific_name": "Poicephalus meyeri"
+  },
+  "macaulay": [
+    {
+      "original_file": "meyers_parrot_meypar1_168127981.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941654/bird-gallery/meyers_parrot_meypar1/macaulay/meyers_parrot_meypar1_168127981.jpg",
+      "public_id": "bird-gallery/meyers_parrot_meypar1/macaulay/meyers_parrot_meypar1_168127981",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 121738,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/168127981",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "168127981",
+        "note": null
+      }
+    },
+    {
+      "original_file": "meyers_parrot_meypar1_206153831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941655/bird-gallery/meyers_parrot_meypar1/macaulay/meyers_parrot_meypar1_206153831.jpg",
+      "public_id": "bird-gallery/meyers_parrot_meypar1/macaulay/meyers_parrot_meypar1_206153831",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 119945,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206153831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206153831",
+        "note": null
+      }
+    },
+    {
+      "original_file": "meyers_parrot_meypar1_92710941.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941656/bird-gallery/meyers_parrot_meypar1/macaulay/meyers_parrot_meypar1_92710941.jpg",
+      "public_id": "bird-gallery/meyers_parrot_meypar1/macaulay/meyers_parrot_meypar1_92710941",
+      "width": 1200,
+      "height": 915,
+      "format": "jpg",
+      "bytes": 220879,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/92710941",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "92710941",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "meyers_parrot_meypar1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941660/bird-gallery/meyers_parrot_meypar1/inaturalist/meyers_parrot_meypar1_3.jpg",
+      "public_id": "bird-gallery/meyers_parrot_meypar1/inaturalist/meyers_parrot_meypar1_3",
+      "width": 1024,
+      "height": 752,
+      "format": "jpg",
+      "bytes": 155128,
+      "attribution": {
+        "photographer": "julienfischer85",
+        "photographer_url": "https://www.inaturalist.org/observations/193476308",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© julienfischer85 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 193476308,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

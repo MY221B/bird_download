@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "snowy_crowned_robin_chat",
+    "chinese_name": "白冠歌鵖",
+    "english_name": "Snowy-crowned Robin-Chat",
+    "scientific_name": "Cossypha niveicapilla"
+  },
+  "macaulay": [
+    {
+      "original_file": "snowy_crowned_robin_chat_205140851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944716/bird-gallery/snowy_crowned_robin_chat/macaulay/snowy_crowned_robin_chat_205140851.jpg",
+      "public_id": "bird-gallery/snowy_crowned_robin_chat/macaulay/snowy_crowned_robin_chat_205140851",
+      "width": 1200,
+      "height": 735,
+      "format": "jpg",
+      "bytes": 103775,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205140851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205140851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "snowy_crowned_robin_chat_205958781.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944717/bird-gallery/snowy_crowned_robin_chat/macaulay/snowy_crowned_robin_chat_205958781.jpg",
+      "public_id": "bird-gallery/snowy_crowned_robin_chat/macaulay/snowy_crowned_robin_chat_205958781",
+      "width": 1000,
+      "height": 682,
+      "format": "jpg",
+      "bytes": 93907,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205958781",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205958781",
+        "note": null
+      }
+    },
+    {
+      "original_file": "snowy_crowned_robin_chat_619997738.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944718/bird-gallery/snowy_crowned_robin_chat/macaulay/snowy_crowned_robin_chat_619997738.jpg",
+      "public_id": "bird-gallery/snowy_crowned_robin_chat/macaulay/snowy_crowned_robin_chat_619997738",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 102929,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/619997738",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "619997738",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "snowy_crowned_robin_chat_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944720/bird-gallery/snowy_crowned_robin_chat/inaturalist/snowy_crowned_robin_chat_1.jpg",
+      "public_id": "bird-gallery/snowy_crowned_robin_chat/inaturalist/snowy_crowned_robin_chat_1",
+      "width": 1024,
+      "height": 640,
+      "format": "jpg",
+      "bytes": 85947,
+      "attribution": {
+        "photographer": "xrufray",
+        "photographer_url": "https://www.inaturalist.org/observations/105098512",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© xrufray (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 105098512,
+        "note": null
+      }
+    },
+    {
+      "original_file": "snowy_crowned_robin_chat_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944721/bird-gallery/snowy_crowned_robin_chat/inaturalist/snowy_crowned_robin_chat_2.jpg",
+      "public_id": "bird-gallery/snowy_crowned_robin_chat/inaturalist/snowy_crowned_robin_chat_2",
+      "width": 1024,
+      "height": 689,
+      "format": "jpg",
+      "bytes": 60398,
+      "attribution": {
+        "photographer": "mlanguy",
+        "photographer_url": "https://www.inaturalist.org/observations/278508819",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mlanguy (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 278508819,
+        "note": null
+      }
+    },
+    {
+      "original_file": "snowy_crowned_robin_chat_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944721/bird-gallery/snowy_crowned_robin_chat/inaturalist/snowy_crowned_robin_chat_3.jpg",
+      "public_id": "bird-gallery/snowy_crowned_robin_chat/inaturalist/snowy_crowned_robin_chat_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 82360,
+      "attribution": {
+        "photographer": "lostincr",
+        "photographer_url": "https://www.inaturalist.org/observations/202202046",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© lostincr (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 202202046,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

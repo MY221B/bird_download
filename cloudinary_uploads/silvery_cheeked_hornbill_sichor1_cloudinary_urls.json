@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "silvery_cheeked_hornbill_sichor1",
+    "chinese_name": "银颊噪犀鸟",
+    "english_name": "Silvery-cheeked Hornbill",
+    "scientific_name": "Bycanistes brevis"
+  },
+  "macaulay": [
+    {
+      "original_file": "silvery_cheeked_hornbill_sichor1_32401231.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940910/bird-gallery/silvery_cheeked_hornbill_sichor1/macaulay/silvery_cheeked_hornbill_sichor1_32401231.jpg",
+      "public_id": "bird-gallery/silvery_cheeked_hornbill_sichor1/macaulay/silvery_cheeked_hornbill_sichor1_32401231",
+      "width": 1200,
+      "height": 748,
+      "format": "jpg",
+      "bytes": 74769,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/32401231",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "32401231",
+        "note": null
+      }
+    },
+    {
+      "original_file": "silvery_cheeked_hornbill_sichor1_56628451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940911/bird-gallery/silvery_cheeked_hornbill_sichor1/macaulay/silvery_cheeked_hornbill_sichor1_56628451.jpg",
+      "public_id": "bird-gallery/silvery_cheeked_hornbill_sichor1/macaulay/silvery_cheeked_hornbill_sichor1_56628451",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 24614,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/56628451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "56628451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "silvery_cheeked_hornbill_sichor1_76593271.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940912/bird-gallery/silvery_cheeked_hornbill_sichor1/macaulay/silvery_cheeked_hornbill_sichor1_76593271.jpg",
+      "public_id": "bird-gallery/silvery_cheeked_hornbill_sichor1/macaulay/silvery_cheeked_hornbill_sichor1_76593271",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 76912,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/76593271",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "76593271",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "silvery_cheeked_hornbill_sichor1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940913/bird-gallery/silvery_cheeked_hornbill_sichor1/inaturalist/silvery_cheeked_hornbill_sichor1_1.jpg",
+      "public_id": "bird-gallery/silvery_cheeked_hornbill_sichor1/inaturalist/silvery_cheeked_hornbill_sichor1_1",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 101029,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/5558227",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 5558227,
+        "note": null
+      }
+    },
+    {
+      "original_file": "silvery_cheeked_hornbill_sichor1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940914/bird-gallery/silvery_cheeked_hornbill_sichor1/inaturalist/silvery_cheeked_hornbill_sichor1_2.jpg",
+      "public_id": "bird-gallery/silvery_cheeked_hornbill_sichor1/inaturalist/silvery_cheeked_hornbill_sichor1_2",
+      "width": 819,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 135151,
+      "attribution": {
+        "photographer": "asratag",
+        "photographer_url": "https://www.inaturalist.org/observations/195255479",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© asratag (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 195255479,
+        "note": null
+      }
+    },
+    {
+      "original_file": "silvery_cheeked_hornbill_sichor1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940914/bird-gallery/silvery_cheeked_hornbill_sichor1/inaturalist/silvery_cheeked_hornbill_sichor1_3.jpg",
+      "public_id": "bird-gallery/silvery_cheeked_hornbill_sichor1/inaturalist/silvery_cheeked_hornbill_sichor1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 162765,
+      "attribution": {
+        "photographer": "ilee1112",
+        "photographer_url": "https://www.inaturalist.org/observations/36877539",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ilee1112 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 36877539,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

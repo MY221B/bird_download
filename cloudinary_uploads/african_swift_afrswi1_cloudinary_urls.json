@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "african_swift_afrswi1",
+    "chinese_name": "非洲黑雨燕",
+    "english_name": "African Swift",
+    "scientific_name": "Apus barbatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "african_swift_afrswi1_503227751.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940755/bird-gallery/african_swift_afrswi1/macaulay/african_swift_afrswi1_503227751.jpg",
+      "public_id": "bird-gallery/african_swift_afrswi1/macaulay/african_swift_afrswi1_503227751",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 13916,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/503227751",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "503227751",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_swift_afrswi1_578245831.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940756/bird-gallery/african_swift_afrswi1/macaulay/african_swift_afrswi1_578245831.jpg",
+      "public_id": "bird-gallery/african_swift_afrswi1/macaulay/african_swift_afrswi1_578245831",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 16822,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/578245831",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "578245831",
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_swift_afrswi1_616096814.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940757/bird-gallery/african_swift_afrswi1/macaulay/african_swift_afrswi1_616096814.jpg",
+      "public_id": "bird-gallery/african_swift_afrswi1/macaulay/african_swift_afrswi1_616096814",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 17069,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/616096814",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "616096814",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "african_swift_afrswi1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940758/bird-gallery/african_swift_afrswi1/inaturalist/african_swift_afrswi1_1.jpg",
+      "public_id": "bird-gallery/african_swift_afrswi1/inaturalist/african_swift_afrswi1_1",
+      "width": 1024,
+      "height": 685,
+      "format": "jpg",
+      "bytes": 30171,
+      "attribution": {
+        "photographer": "andrewcore",
+        "photographer_url": "https://www.inaturalist.org/observations/283451239",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© andrewcore (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 283451239,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_swift_afrswi1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940758/bird-gallery/african_swift_afrswi1/inaturalist/african_swift_afrswi1_2.jpg",
+      "public_id": "bird-gallery/african_swift_afrswi1/inaturalist/african_swift_afrswi1_2",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 99335,
+      "attribution": {
+        "photographer": "adamwelz",
+        "photographer_url": "https://www.inaturalist.org/observations/63623661",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© adamwelz (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 63623661,
+        "note": null
+      }
+    },
+    {
+      "original_file": "african_swift_afrswi1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940759/bird-gallery/african_swift_afrswi1/inaturalist/african_swift_afrswi1_3.jpg",
+      "public_id": "bird-gallery/african_swift_afrswi1/inaturalist/african_swift_afrswi1_3",
+      "width": 1024,
+      "height": 602,
+      "format": "jpg",
+      "bytes": 17074,
+      "attribution": {
+        "photographer": "wouterteunissen",
+        "photographer_url": "https://www.inaturalist.org/observations/144466789",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© wouterteunissen (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 144466789,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

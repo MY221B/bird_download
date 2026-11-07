@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "black_backed_puffback_blbpuf2",
+    "chinese_name": "黑背蓬背鵙",
+    "english_name": "Black-backed Puffback",
+    "scientific_name": "Dryoscopus cubla"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_backed_puffback_blbpuf2_122659621.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939374/bird-gallery/black_backed_puffback_blbpuf2/macaulay/black_backed_puffback_blbpuf2_122659621.jpg",
+      "public_id": "bird-gallery/black_backed_puffback_blbpuf2/macaulay/black_backed_puffback_blbpuf2_122659621",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 98661,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/122659621",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "122659621",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_backed_puffback_blbpuf2_206172951.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939375/bird-gallery/black_backed_puffback_blbpuf2/macaulay/black_backed_puffback_blbpuf2_206172951.jpg",
+      "public_id": "bird-gallery/black_backed_puffback_blbpuf2/macaulay/black_backed_puffback_blbpuf2_206172951",
+      "width": 900,
+      "height": 599,
+      "format": "jpg",
+      "bytes": 40961,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/206172951",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "206172951",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_backed_puffback_blbpuf2_511874641.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939376/bird-gallery/black_backed_puffback_blbpuf2/macaulay/black_backed_puffback_blbpuf2_511874641.jpg",
+      "public_id": "bird-gallery/black_backed_puffback_blbpuf2/macaulay/black_backed_puffback_blbpuf2_511874641",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100016,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/511874641",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "511874641",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_backed_puffback_blbpuf2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939377/bird-gallery/black_backed_puffback_blbpuf2/inaturalist/black_backed_puffback_blbpuf2_1.jpg",
+      "public_id": "bird-gallery/black_backed_puffback_blbpuf2/inaturalist/black_backed_puffback_blbpuf2_1",
+      "width": 1024,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 50489,
+      "attribution": {
+        "photographer": "louws",
+        "photographer_url": "https://www.inaturalist.org/observations/258456666",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© louws (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 258456666,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_backed_puffback_blbpuf2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939378/bird-gallery/black_backed_puffback_blbpuf2/inaturalist/black_backed_puffback_blbpuf2_2.jpg",
+      "public_id": "bird-gallery/black_backed_puffback_blbpuf2/inaturalist/black_backed_puffback_blbpuf2_2",
+      "width": 1024,
+      "height": 559,
+      "format": "jpg",
+      "bytes": 56369,
+      "attribution": {
+        "photographer": "colin25",
+        "photographer_url": "https://www.inaturalist.org/observations/73190111",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© colin25 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 73190111,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_backed_puffback_blbpuf2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939378/bird-gallery/black_backed_puffback_blbpuf2/inaturalist/black_backed_puffback_blbpuf2_3.jpg",
+      "public_id": "bird-gallery/black_backed_puffback_blbpuf2/inaturalist/black_backed_puffback_blbpuf2_3",
+      "width": 1024,
+      "height": 641,
+      "format": "jpg",
+      "bytes": 51182,
+      "attribution": {
+        "photographer": "ewan15",
+        "photographer_url": "https://www.inaturalist.org/observations/87708453",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© ewan15 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 87708453,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "three_streaked_tchagra_thstch1",
+    "chinese_name": "纹斑红翅鵙",
+    "english_name": "Three-streaked Tchagra",
+    "scientific_name": "Tchagra jamesi"
+  },
+  "macaulay": [
+    {
+      "original_file": "three_streaked_tchagra_thstch1_131186651.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942064/bird-gallery/three_streaked_tchagra_thstch1/macaulay/three_streaked_tchagra_thstch1_131186651.jpg",
+      "public_id": "bird-gallery/three_streaked_tchagra_thstch1/macaulay/three_streaked_tchagra_thstch1_131186651",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 82454,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/131186651",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "131186651",
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_streaked_tchagra_thstch1_194310411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942065/bird-gallery/three_streaked_tchagra_thstch1/macaulay/three_streaked_tchagra_thstch1_194310411.jpg",
+      "public_id": "bird-gallery/three_streaked_tchagra_thstch1/macaulay/three_streaked_tchagra_thstch1_194310411",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 100573,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/194310411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "194310411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_streaked_tchagra_thstch1_205984741.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942066/bird-gallery/three_streaked_tchagra_thstch1/macaulay/three_streaked_tchagra_thstch1_205984741.jpg",
+      "public_id": "bird-gallery/three_streaked_tchagra_thstch1/macaulay/three_streaked_tchagra_thstch1_205984741",
+      "width": 1000,
+      "height": 679,
+      "format": "jpg",
+      "bytes": 87944,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205984741",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205984741",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "three_streaked_tchagra_thstch1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942067/bird-gallery/three_streaked_tchagra_thstch1/inaturalist/three_streaked_tchagra_thstch1_1.jpg",
+      "public_id": "bird-gallery/three_streaked_tchagra_thstch1/inaturalist/three_streaked_tchagra_thstch1_1",
+      "width": 461,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 92991,
+      "attribution": {
+        "photographer": "mimgrooms",
+        "photographer_url": "https://www.inaturalist.org/observations/412332702",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© mimgrooms (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 412332702,
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_streaked_tchagra_thstch1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942068/bird-gallery/three_streaked_tchagra_thstch1/inaturalist/three_streaked_tchagra_thstch1_2.jpg",
+      "public_id": "bird-gallery/three_streaked_tchagra_thstch1/inaturalist/three_streaked_tchagra_thstch1_2",
+      "width": 750,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 70758,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/41374597",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 41374597,
+        "note": null
+      }
+    },
+    {
+      "original_file": "three_streaked_tchagra_thstch1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942069/bird-gallery/three_streaked_tchagra_thstch1/inaturalist/three_streaked_tchagra_thstch1_3.jpg",
+      "public_id": "bird-gallery/three_streaked_tchagra_thstch1/inaturalist/three_streaked_tchagra_thstch1_3",
+      "width": 1000,
+      "height": 667,
+      "format": "jpg",
+      "bytes": 48948,
+      "attribution": {
+        "photographer": "dejong",
+        "photographer_url": "https://www.inaturalist.org/observations/151114308",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© dejong (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 151114308,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

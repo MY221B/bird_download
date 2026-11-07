@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "blue_naped_mousebird_blnmou1",
+    "chinese_name": "蓝枕鼠鸟",
+    "english_name": "Blue-naped Mousebird",
+    "scientific_name": "Urocolius macrourus"
+  },
+  "macaulay": [
+    {
+      "original_file": "blue_naped_mousebird_blnmou1_205492881.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939435/bird-gallery/blue_naped_mousebird_blnmou1/macaulay/blue_naped_mousebird_blnmou1_205492881.jpg",
+      "public_id": "bird-gallery/blue_naped_mousebird_blnmou1/macaulay/blue_naped_mousebird_blnmou1_205492881",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 61130,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205492881",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205492881",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_naped_mousebird_blnmou1_33725521.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939436/bird-gallery/blue_naped_mousebird_blnmou1/macaulay/blue_naped_mousebird_blnmou1_33725521.jpg",
+      "public_id": "bird-gallery/blue_naped_mousebird_blnmou1/macaulay/blue_naped_mousebird_blnmou1_33725521",
+      "width": 1200,
+      "height": 690,
+      "format": "jpg",
+      "bytes": 80121,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/33725521",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "33725521",
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_naped_mousebird_blnmou1_637386346.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939437/bird-gallery/blue_naped_mousebird_blnmou1/macaulay/blue_naped_mousebird_blnmou1_637386346.jpg",
+      "public_id": "bird-gallery/blue_naped_mousebird_blnmou1/macaulay/blue_naped_mousebird_blnmou1_637386346",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 118733,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/637386346",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "637386346",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "blue_naped_mousebird_blnmou1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939438/bird-gallery/blue_naped_mousebird_blnmou1/inaturalist/blue_naped_mousebird_blnmou1_1.jpg",
+      "public_id": "bird-gallery/blue_naped_mousebird_blnmou1/inaturalist/blue_naped_mousebird_blnmou1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 117787,
+      "attribution": {
+        "photographer": "joni_overbosch",
+        "photographer_url": "https://www.inaturalist.org/observations/34586510",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© joni_overbosch (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 34586510,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_naped_mousebird_blnmou1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939439/bird-gallery/blue_naped_mousebird_blnmou1/inaturalist/blue_naped_mousebird_blnmou1_2.jpg",
+      "public_id": "bird-gallery/blue_naped_mousebird_blnmou1/inaturalist/blue_naped_mousebird_blnmou1_2",
+      "width": 1024,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 294390,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/100097268",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 100097268,
+        "note": null
+      }
+    },
+    {
+      "original_file": "blue_naped_mousebird_blnmou1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793939440/bird-gallery/blue_naped_mousebird_blnmou1/inaturalist/blue_naped_mousebird_blnmou1_3.jpg",
+      "public_id": "bird-gallery/blue_naped_mousebird_blnmou1/inaturalist/blue_naped_mousebird_blnmou1_3",
+      "width": 1024,
+      "height": 979,
+      "format": "jpg",
+      "bytes": 170225,
+      "attribution": {
+        "photographer": "karimattouche",
+        "photographer_url": "https://www.inaturalist.org/observations/258146118",
+        "license": "cc0",
+        "license_url": null,
+        "credit_format": "© karimattouche (via iNaturalist), some rights reserved (CC0)",
+        "source": "inaturalist",
+        "source_id": 258146118,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "lesser_honeyguide_y00400",
+    "chinese_name": "北非响蜜䴕",
+    "english_name": "Lesser Honeyguide",
+    "scientific_name": "Indicator minor"
+  },
+  "macaulay": [
+    {
+      "original_file": "lesser_honeyguide_y00400_205106571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940658/bird-gallery/lesser_honeyguide_y00400/macaulay/lesser_honeyguide_y00400_205106571.jpg",
+      "public_id": "bird-gallery/lesser_honeyguide_y00400/macaulay/lesser_honeyguide_y00400_205106571",
+      "width": 534,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 36629,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205106571",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205106571",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_honeyguide_y00400_612232256.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940659/bird-gallery/lesser_honeyguide_y00400/macaulay/lesser_honeyguide_y00400_612232256.jpg",
+      "public_id": "bird-gallery/lesser_honeyguide_y00400/macaulay/lesser_honeyguide_y00400_612232256",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 70643,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/612232256",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "612232256",
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_honeyguide_y00400_665523141.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940660/bird-gallery/lesser_honeyguide_y00400/macaulay/lesser_honeyguide_y00400_665523141.jpg",
+      "public_id": "bird-gallery/lesser_honeyguide_y00400/macaulay/lesser_honeyguide_y00400_665523141",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 122070,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/665523141",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "665523141",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "lesser_honeyguide_y00400_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940661/bird-gallery/lesser_honeyguide_y00400/inaturalist/lesser_honeyguide_y00400_1.jpg",
+      "public_id": "bird-gallery/lesser_honeyguide_y00400/inaturalist/lesser_honeyguide_y00400_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 160957,
+      "attribution": {
+        "photographer": "carlbodenstaff",
+        "photographer_url": "https://www.inaturalist.org/observations/145826068",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© carlbodenstaff (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 145826068,
+        "note": null
+      }
+    },
+    {
+      "original_file": "lesser_honeyguide_y00400_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940663/bird-gallery/lesser_honeyguide_y00400/inaturalist/lesser_honeyguide_y00400_3.jpg",
+      "public_id": "bird-gallery/lesser_honeyguide_y00400/inaturalist/lesser_honeyguide_y00400_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 161466,
+      "attribution": {
+        "photographer": "lemoncul",
+        "photographer_url": "https://www.inaturalist.org/observations/94740164",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© lemoncul (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 94740164,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "scaly_spurfowl_scafra2",
+    "chinese_name": "鳞斑彩鹧鸪",
+    "english_name": "Scaly Spurfowl",
+    "scientific_name": "Pternistis squamatus"
+  },
+  "macaulay": [
+    {
+      "original_file": "scaly_spurfowl_scafra2_204471821.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941260/bird-gallery/scaly_spurfowl_scafra2/macaulay/scaly_spurfowl_scafra2_204471821.jpg",
+      "public_id": "bird-gallery/scaly_spurfowl_scafra2/macaulay/scaly_spurfowl_scafra2_204471821",
+      "width": 1200,
+      "height": 767,
+      "format": "jpg",
+      "bytes": 162169,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204471821",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204471821",
+        "note": null
+      }
+    },
+    {
+      "original_file": "scaly_spurfowl_scafra2_204484851.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941261/bird-gallery/scaly_spurfowl_scafra2/macaulay/scaly_spurfowl_scafra2_204484851.jpg",
+      "public_id": "bird-gallery/scaly_spurfowl_scafra2/macaulay/scaly_spurfowl_scafra2_204484851",
+      "width": 640,
+      "height": 457,
+      "format": "jpg",
+      "bytes": 50609,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204484851",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204484851",
+        "note": null
+      }
+    },
+    {
+      "original_file": "scaly_spurfowl_scafra2_627653836.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941262/bird-gallery/scaly_spurfowl_scafra2/macaulay/scaly_spurfowl_scafra2_627653836.jpg",
+      "public_id": "bird-gallery/scaly_spurfowl_scafra2/macaulay/scaly_spurfowl_scafra2_627653836",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 58327,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/627653836",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "627653836",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "scaly_spurfowl_scafra2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941263/bird-gallery/scaly_spurfowl_scafra2/inaturalist/scaly_spurfowl_scafra2_1.jpg",
+      "public_id": "bird-gallery/scaly_spurfowl_scafra2/inaturalist/scaly_spurfowl_scafra2_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 144640,
+      "attribution": {
+        "photographer": "nikborrow",
+        "photographer_url": "https://www.inaturalist.org/observations/177724021",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© nikborrow (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 177724021,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scaly_spurfowl_scafra2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941265/bird-gallery/scaly_spurfowl_scafra2/inaturalist/scaly_spurfowl_scafra2_2.jpg",
+      "public_id": "bird-gallery/scaly_spurfowl_scafra2/inaturalist/scaly_spurfowl_scafra2_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 124490,
+      "attribution": {
+        "photographer": "opisska",
+        "photographer_url": "https://www.inaturalist.org/observations/112705414",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© opisska (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 112705414,
+        "note": null
+      }
+    },
+    {
+      "original_file": "scaly_spurfowl_scafra2_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793941265/bird-gallery/scaly_spurfowl_scafra2/inaturalist/scaly_spurfowl_scafra2_3.jpg",
+      "public_id": "bird-gallery/scaly_spurfowl_scafra2/inaturalist/scaly_spurfowl_scafra2_3",
+      "width": 1024,
+      "height": 973,
+      "format": "jpg",
+      "bytes": 148764,
+      "attribution": {
+        "photographer": "seigmond",
+        "photographer_url": "https://www.inaturalist.org/observations/31406125",
+        "license": "cc-by",
+        "license_url": null,
+        "credit_format": "© seigmond (via iNaturalist), some rights reserved (CC-BY)",
+        "source": "inaturalist",
+        "source_id": 31406125,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

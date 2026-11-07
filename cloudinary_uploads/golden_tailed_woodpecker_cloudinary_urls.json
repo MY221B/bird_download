@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "golden_tailed_woodpecker",
+    "chinese_name": "金尾啄木鸟",
+    "english_name": "Golden-tailed Woodpecker",
+    "scientific_name": "Campethera abingoni"
+  },
+  "macaulay": [
+    {
+      "original_file": "golden_tailed_woodpecker_131156771.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942933/bird-gallery/golden_tailed_woodpecker/macaulay/golden_tailed_woodpecker_131156771.jpg",
+      "public_id": "bird-gallery/golden_tailed_woodpecker/macaulay/golden_tailed_woodpecker_131156771",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 119234,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/131156771",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "131156771",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_tailed_woodpecker_204284561.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942935/bird-gallery/golden_tailed_woodpecker/macaulay/golden_tailed_woodpecker_204284561.jpg",
+      "public_id": "bird-gallery/golden_tailed_woodpecker/macaulay/golden_tailed_woodpecker_204284561",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 183864,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/204284561",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "204284561",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_tailed_woodpecker_632286735.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942936/bird-gallery/golden_tailed_woodpecker/macaulay/golden_tailed_woodpecker_632286735.jpg",
+      "public_id": "bird-gallery/golden_tailed_woodpecker/macaulay/golden_tailed_woodpecker_632286735",
+      "width": 1200,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 93877,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632286735",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632286735",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "golden_tailed_woodpecker_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942937/bird-gallery/golden_tailed_woodpecker/inaturalist/golden_tailed_woodpecker_1.jpg",
+      "public_id": "bird-gallery/golden_tailed_woodpecker/inaturalist/golden_tailed_woodpecker_1",
+      "width": 1024,
+      "height": 772,
+      "format": "jpg",
+      "bytes": 119764,
+      "attribution": {
+        "photographer": "mfaucher",
+        "photographer_url": "https://www.inaturalist.org/observations/48771412",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mfaucher (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 48771412,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_tailed_woodpecker_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942937/bird-gallery/golden_tailed_woodpecker/inaturalist/golden_tailed_woodpecker_2.jpg",
+      "public_id": "bird-gallery/golden_tailed_woodpecker/inaturalist/golden_tailed_woodpecker_2",
+      "width": 1024,
+      "height": 743,
+      "format": "jpg",
+      "bytes": 181324,
+      "attribution": {
+        "photographer": "dave-johnson",
+        "photographer_url": "https://www.inaturalist.org/observations/159134374",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© dave-johnson (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 159134374,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "gray_green_bushshrike",
+    "chinese_name": "灰绿丛鵙",
+    "english_name": "Gray-green Bushshrike",
+    "scientific_name": "Chlorophoneus bocagei"
+  },
+  "macaulay": [
+    {
+      "original_file": "gray_green_bushshrike_205914511.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944628/bird-gallery/gray_green_bushshrike/macaulay/gray_green_bushshrike_205914511.jpg",
+      "public_id": "bird-gallery/gray_green_bushshrike/macaulay/gray_green_bushshrike_205914511",
+      "width": 1000,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 91125,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205914511",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205914511",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_green_bushshrike_205914791.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944629/bird-gallery/gray_green_bushshrike/macaulay/gray_green_bushshrike_205914791.jpg",
+      "public_id": "bird-gallery/gray_green_bushshrike/macaulay/gray_green_bushshrike_205914791",
+      "width": 951,
+      "height": 700,
+      "format": "jpg",
+      "bytes": 94123,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205914791",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205914791",
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_green_bushshrike_205988901.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944630/bird-gallery/gray_green_bushshrike/macaulay/gray_green_bushshrike_205988901.jpg",
+      "public_id": "bird-gallery/gray_green_bushshrike/macaulay/gray_green_bushshrike_205988901",
+      "width": 986,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 92963,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205988901",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205988901",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "gray_green_bushshrike_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944631/bird-gallery/gray_green_bushshrike/inaturalist/gray_green_bushshrike_1.jpg",
+      "public_id": "bird-gallery/gray_green_bushshrike/inaturalist/gray_green_bushshrike_1",
+      "width": 1024,
+      "height": 792,
+      "format": "jpg",
+      "bytes": 88219,
+      "attribution": {
+        "photographer": "owlice",
+        "photographer_url": "https://www.inaturalist.org/observations/226634870",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© owlice (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 226634870,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_green_bushshrike_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944632/bird-gallery/gray_green_bushshrike/inaturalist/gray_green_bushshrike_2.jpg",
+      "public_id": "bird-gallery/gray_green_bushshrike/inaturalist/gray_green_bushshrike_2",
+      "width": 1024,
+      "height": 744,
+      "format": "jpg",
+      "bytes": 112230,
+      "attribution": {
+        "photographer": "dmkidwell",
+        "photographer_url": "https://www.inaturalist.org/observations/96673575",
+        "license": "cc-by-nc-sa",
+        "license_url": null,
+        "credit_format": "© dmkidwell (via iNaturalist), some rights reserved (CC-BY-NC-SA)",
+        "source": "inaturalist",
+        "source_id": 96673575,
+        "note": null
+      }
+    },
+    {
+      "original_file": "gray_green_bushshrike_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944633/bird-gallery/gray_green_bushshrike/inaturalist/gray_green_bushshrike_3.jpg",
+      "public_id": "bird-gallery/gray_green_bushshrike/inaturalist/gray_green_bushshrike_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 125730,
+      "attribution": {
+        "photographer": "rogerioferreira",
+        "photographer_url": "https://www.inaturalist.org/observations/16757476",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© rogerioferreira (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 16757476,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "spekes_weaver_spewea2",
+    "chinese_name": "斯氏织雀",
+    "english_name": "Speke's Weaver",
+    "scientific_name": "Ploceus spekei"
+  },
+  "macaulay": [
+    {
+      "original_file": "spekes_weaver_spewea2_22336451.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940281/bird-gallery/spekes_weaver_spewea2/macaulay/spekes_weaver_spewea2_22336451.jpg",
+      "public_id": "bird-gallery/spekes_weaver_spewea2/macaulay/spekes_weaver_spewea2_22336451",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 76016,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/22336451",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "22336451",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spekes_weaver_spewea2_652707245.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940282/bird-gallery/spekes_weaver_spewea2/macaulay/spekes_weaver_spewea2_652707245.jpg",
+      "public_id": "bird-gallery/spekes_weaver_spewea2/macaulay/spekes_weaver_spewea2_652707245",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 101018,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/652707245",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "652707245",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spekes_weaver_spewea2_664814923.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940283/bird-gallery/spekes_weaver_spewea2/macaulay/spekes_weaver_spewea2_664814923.jpg",
+      "public_id": "bird-gallery/spekes_weaver_spewea2/macaulay/spekes_weaver_spewea2_664814923",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 83581,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/664814923",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "664814923",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spekes_weaver_spewea2_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940284/bird-gallery/spekes_weaver_spewea2/inaturalist/spekes_weaver_spewea2_1.jpg",
+      "public_id": "bird-gallery/spekes_weaver_spewea2/inaturalist/spekes_weaver_spewea2_1",
+      "width": 683,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 87943,
+      "attribution": {
+        "photographer": "danharville",
+        "photographer_url": "https://www.inaturalist.org/observations/135249574",
+        "license": "cc-by-sa",
+        "license_url": null,
+        "credit_format": "© danharville (via iNaturalist), some rights reserved (CC-BY-SA)",
+        "source": "inaturalist",
+        "source_id": 135249574,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spekes_weaver_spewea2_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940285/bird-gallery/spekes_weaver_spewea2/inaturalist/spekes_weaver_spewea2_2.jpg",
+      "public_id": "bird-gallery/spekes_weaver_spewea2/inaturalist/spekes_weaver_spewea2_2",
+      "width": 1024,
+      "height": 705,
+      "format": "jpg",
+      "bytes": 136962,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/192740981",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 192740981,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

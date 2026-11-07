@@ -1,0 +1,71 @@
+{
+  "bird_info": {
+    "slug": "fischers_greenbul",
+    "chinese_name": "费氏旋木鹎",
+    "english_name": "Fischer's Greenbul",
+    "scientific_name": "Phyllastrephus fischeri"
+  },
+  "macaulay": [
+    {
+      "original_file": "fischers_greenbul_528383311.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945238/bird-gallery/fischers_greenbul/macaulay/fischers_greenbul_528383311.jpg",
+      "public_id": "bird-gallery/fischers_greenbul/macaulay/fischers_greenbul_528383311",
+      "width": 1200,
+      "height": 865,
+      "format": "jpg",
+      "bytes": 90796,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/528383311",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "528383311",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_greenbul_610826104.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945239/bird-gallery/fischers_greenbul/macaulay/fischers_greenbul_610826104.jpg",
+      "public_id": "bird-gallery/fischers_greenbul/macaulay/fischers_greenbul_610826104",
+      "width": 1200,
+      "height": 715,
+      "format": "jpg",
+      "bytes": 62853,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/610826104",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "610826104",
+        "note": null
+      }
+    },
+    {
+      "original_file": "fischers_greenbul_611496464.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793945240/bird-gallery/fischers_greenbul/macaulay/fischers_greenbul_611496464.jpg",
+      "public_id": "bird-gallery/fischers_greenbul/macaulay/fischers_greenbul_611496464",
+      "width": 1200,
+      "height": 708,
+      "format": "jpg",
+      "bytes": 64036,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/611496464",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "611496464",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

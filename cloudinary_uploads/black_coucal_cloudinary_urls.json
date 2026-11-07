@@ -1,0 +1,110 @@
+{
+  "bird_info": {
+    "slug": "black_coucal",
+    "chinese_name": "黑胸鸦鹃",
+    "english_name": "Black Coucal",
+    "scientific_name": "Centropus grillii"
+  },
+  "macaulay": [
+    {
+      "original_file": "black_coucal_138152991.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942871/bird-gallery/black_coucal/macaulay/black_coucal_138152991.jpg",
+      "public_id": "bird-gallery/black_coucal/macaulay/black_coucal_138152991",
+      "width": 1200,
+      "height": 960,
+      "format": "jpg",
+      "bytes": 71099,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/138152991",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "138152991",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_coucal_205693431.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942872/bird-gallery/black_coucal/macaulay/black_coucal_205693431.jpg",
+      "public_id": "bird-gallery/black_coucal/macaulay/black_coucal_205693431",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 189265,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205693431",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205693431",
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_coucal_522575401.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942873/bird-gallery/black_coucal/macaulay/black_coucal_522575401.jpg",
+      "public_id": "bird-gallery/black_coucal/macaulay/black_coucal_522575401",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 74238,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/522575401",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "522575401",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "black_coucal_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942874/bird-gallery/black_coucal/inaturalist/black_coucal_1.jpg",
+      "public_id": "bird-gallery/black_coucal/inaturalist/black_coucal_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 73580,
+      "attribution": {
+        "photographer": "gerberannette",
+        "photographer_url": "https://www.inaturalist.org/observations/53076433",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gerberannette (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 53076433,
+        "note": null
+      }
+    },
+    {
+      "original_file": "black_coucal_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793942875/bird-gallery/black_coucal/inaturalist/black_coucal_2.jpg",
+      "public_id": "bird-gallery/black_coucal/inaturalist/black_coucal_2",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 101319,
+      "attribution": {
+        "photographer": "bennihintz",
+        "photographer_url": "https://www.inaturalist.org/observations/155775889",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© bennihintz (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 155775889,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

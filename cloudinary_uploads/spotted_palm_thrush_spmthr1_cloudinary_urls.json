@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "spotted_palm_thrush_spmthr1",
+    "chinese_name": "斑晨鸫",
+    "english_name": "Spotted Palm-Thrush",
+    "scientific_name": "Cichladusa guttata"
+  },
+  "macaulay": [
+    {
+      "original_file": "spotted_palm_thrush_spmthr1_136704071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940326/bird-gallery/spotted_palm_thrush_spmthr1/macaulay/spotted_palm_thrush_spmthr1_136704071.jpg",
+      "public_id": "bird-gallery/spotted_palm_thrush_spmthr1/macaulay/spotted_palm_thrush_spmthr1_136704071",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 62274,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/136704071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "136704071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_palm_thrush_spmthr1_628854500.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940327/bird-gallery/spotted_palm_thrush_spmthr1/macaulay/spotted_palm_thrush_spmthr1_628854500.jpg",
+      "public_id": "bird-gallery/spotted_palm_thrush_spmthr1/macaulay/spotted_palm_thrush_spmthr1_628854500",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 88929,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/628854500",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "628854500",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_palm_thrush_spmthr1_632449794.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940328/bird-gallery/spotted_palm_thrush_spmthr1/macaulay/spotted_palm_thrush_spmthr1_632449794.jpg",
+      "public_id": "bird-gallery/spotted_palm_thrush_spmthr1/macaulay/spotted_palm_thrush_spmthr1_632449794",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 49966,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/632449794",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "632449794",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spotted_palm_thrush_spmthr1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940329/bird-gallery/spotted_palm_thrush_spmthr1/inaturalist/spotted_palm_thrush_spmthr1_1.jpg",
+      "public_id": "bird-gallery/spotted_palm_thrush_spmthr1/inaturalist/spotted_palm_thrush_spmthr1_1",
+      "width": 1024,
+      "height": 785,
+      "format": "jpg",
+      "bytes": 56393,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/98214647",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 98214647,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_palm_thrush_spmthr1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940330/bird-gallery/spotted_palm_thrush_spmthr1/inaturalist/spotted_palm_thrush_spmthr1_2.jpg",
+      "public_id": "bird-gallery/spotted_palm_thrush_spmthr1/inaturalist/spotted_palm_thrush_spmthr1_2",
+      "width": 781,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 64147,
+      "attribution": {
+        "photographer": "santhosh13",
+        "photographer_url": "https://www.inaturalist.org/observations/98454718",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© santhosh13 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 98454718,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spotted_palm_thrush_spmthr1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940331/bird-gallery/spotted_palm_thrush_spmthr1/inaturalist/spotted_palm_thrush_spmthr1_3.jpg",
+      "public_id": "bird-gallery/spotted_palm_thrush_spmthr1/inaturalist/spotted_palm_thrush_spmthr1_3",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 48863,
+      "attribution": {
+        "photographer": "marke1605",
+        "photographer_url": "https://www.inaturalist.org/observations/411952252",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© marke1605 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 411952252,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

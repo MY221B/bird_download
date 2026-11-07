@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "uganda_woodland_warbler",
+    "chinese_name": "乌干达柳莺",
+    "english_name": "Uganda Woodland-Warbler",
+    "scientific_name": "Phylloscopus budongoensis"
+  },
+  "macaulay": [
+    {
+      "original_file": "uganda_woodland_warbler_180295021.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944797/bird-gallery/uganda_woodland_warbler/macaulay/uganda_woodland_warbler_180295021.jpg",
+      "public_id": "bird-gallery/uganda_woodland_warbler/macaulay/uganda_woodland_warbler_180295021",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 73067,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/180295021",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "180295021",
+        "note": null
+      }
+    },
+    {
+      "original_file": "uganda_woodland_warbler_205994341.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944798/bird-gallery/uganda_woodland_warbler/macaulay/uganda_woodland_warbler_205994341.jpg",
+      "public_id": "bird-gallery/uganda_woodland_warbler/macaulay/uganda_woodland_warbler_205994341",
+      "width": 1000,
+      "height": 651,
+      "format": "jpg",
+      "bytes": 70316,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205994341",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205994341",
+        "note": null
+      }
+    },
+    {
+      "original_file": "uganda_woodland_warbler_205994351.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944799/bird-gallery/uganda_woodland_warbler/macaulay/uganda_woodland_warbler_205994351.jpg",
+      "public_id": "bird-gallery/uganda_woodland_warbler/macaulay/uganda_woodland_warbler_205994351",
+      "width": 1000,
+      "height": 703,
+      "format": "jpg",
+      "bytes": 49132,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205994351",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205994351",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "uganda_woodland_warbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944800/bird-gallery/uganda_woodland_warbler/inaturalist/uganda_woodland_warbler_1.jpg",
+      "public_id": "bird-gallery/uganda_woodland_warbler/inaturalist/uganda_woodland_warbler_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 101074,
+      "attribution": {
+        "photographer": "max_hof_mann",
+        "photographer_url": "https://www.inaturalist.org/observations/256698445",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© max_hof_mann (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 256698445,
+        "note": null
+      }
+    },
+    {
+      "original_file": "uganda_woodland_warbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944801/bird-gallery/uganda_woodland_warbler/inaturalist/uganda_woodland_warbler_2.jpg",
+      "public_id": "bird-gallery/uganda_woodland_warbler/inaturalist/uganda_woodland_warbler_2",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 116730,
+      "attribution": {
+        "photographer": "markuslilje",
+        "photographer_url": "https://www.inaturalist.org/observations/133107526",
+        "license": "cc-by-nc-nd",
+        "license_url": null,
+        "credit_format": "© markuslilje (via iNaturalist), some rights reserved (CC-BY-NC-ND)",
+        "source": "inaturalist",
+        "source_id": 133107526,
+        "note": null
+      }
+    },
+    {
+      "original_file": "uganda_woodland_warbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793944802/bird-gallery/uganda_woodland_warbler/inaturalist/uganda_woodland_warbler_3.jpg",
+      "public_id": "bird-gallery/uganda_woodland_warbler/inaturalist/uganda_woodland_warbler_3",
+      "width": 1024,
+      "height": 699,
+      "format": "jpg",
+      "bytes": 47412,
+      "attribution": {
+        "photographer": "usavalli",
+        "photographer_url": "https://www.inaturalist.org/observations/126894746",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© usavalli (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 126894746,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "golden_breasted_bunting_gobbun1",
+    "chinese_name": "金胸鹀",
+    "english_name": "Golden-breasted Bunting",
+    "scientific_name": "Fringillaria flaviventris"
+  },
+  "macaulay": [
+    {
+      "original_file": "golden_breasted_bunting_gobbun1_242361031.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940829/bird-gallery/golden_breasted_bunting_gobbun1/macaulay/golden_breasted_bunting_gobbun1_242361031.jpg",
+      "public_id": "bird-gallery/golden_breasted_bunting_gobbun1/macaulay/golden_breasted_bunting_gobbun1_242361031",
+      "width": 1200,
+      "height": 712,
+      "format": "jpg",
+      "bytes": 55239,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/242361031",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "242361031",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_bunting_gobbun1_242361071.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940830/bird-gallery/golden_breasted_bunting_gobbun1/macaulay/golden_breasted_bunting_gobbun1_242361071.jpg",
+      "public_id": "bird-gallery/golden_breasted_bunting_gobbun1/macaulay/golden_breasted_bunting_gobbun1_242361071",
+      "width": 1200,
+      "height": 719,
+      "format": "jpg",
+      "bytes": 58818,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/242361071",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "242361071",
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_bunting_gobbun1_623423179.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940831/bird-gallery/golden_breasted_bunting_gobbun1/macaulay/golden_breasted_bunting_gobbun1_623423179.jpg",
+      "public_id": "bird-gallery/golden_breasted_bunting_gobbun1/macaulay/golden_breasted_bunting_gobbun1_623423179",
+      "width": 1200,
+      "height": 801,
+      "format": "jpg",
+      "bytes": 53990,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/623423179",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "623423179",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "golden_breasted_bunting_gobbun1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940832/bird-gallery/golden_breasted_bunting_gobbun1/inaturalist/golden_breasted_bunting_gobbun1_1.jpg",
+      "public_id": "bird-gallery/golden_breasted_bunting_gobbun1/inaturalist/golden_breasted_bunting_gobbun1_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 67287,
+      "attribution": {
+        "photographer": "jrbotha156",
+        "photographer_url": "https://www.inaturalist.org/observations/112642531",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© jrbotha156 (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 112642531,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_bunting_gobbun1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940833/bird-gallery/golden_breasted_bunting_gobbun1/inaturalist/golden_breasted_bunting_gobbun1_2.jpg",
+      "public_id": "bird-gallery/golden_breasted_bunting_gobbun1/inaturalist/golden_breasted_bunting_gobbun1_2",
+      "width": 1024,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 70731,
+      "attribution": {
+        "photographer": "adkonings",
+        "photographer_url": "https://www.inaturalist.org/observations/239008018",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© adkonings (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 239008018,
+        "note": null
+      }
+    },
+    {
+      "original_file": "golden_breasted_bunting_gobbun1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940834/bird-gallery/golden_breasted_bunting_gobbun1/inaturalist/golden_breasted_bunting_gobbun1_3.jpg",
+      "public_id": "bird-gallery/golden_breasted_bunting_gobbun1/inaturalist/golden_breasted_bunting_gobbun1_3",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 143347,
+      "attribution": {
+        "photographer": "brad___lisa",
+        "photographer_url": "https://www.inaturalist.org/observations/319353519",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© brad___lisa (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 319353519,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

@@ -1,0 +1,129 @@
+{
+  "bird_info": {
+    "slug": "vitelline_masked_weaver_vimwea1",
+    "chinese_name": "蛋黄黑脸织雀",
+    "english_name": "Vitelline Masked-Weaver",
+    "scientific_name": "Ploceus vitellinus"
+  },
+  "macaulay": [
+    {
+      "original_file": "vitelline_masked_weaver_vimwea1_205215411.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940459/bird-gallery/vitelline_masked_weaver_vimwea1/macaulay/vitelline_masked_weaver_vimwea1_205215411.jpg",
+      "public_id": "bird-gallery/vitelline_masked_weaver_vimwea1/macaulay/vitelline_masked_weaver_vimwea1_205215411",
+      "width": 1200,
+      "height": 675,
+      "format": "jpg",
+      "bytes": 47203,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/205215411",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "205215411",
+        "note": null
+      }
+    },
+    {
+      "original_file": "vitelline_masked_weaver_vimwea1_660478961.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940460/bird-gallery/vitelline_masked_weaver_vimwea1/macaulay/vitelline_masked_weaver_vimwea1_660478961.jpg",
+      "public_id": "bird-gallery/vitelline_masked_weaver_vimwea1/macaulay/vitelline_masked_weaver_vimwea1_660478961",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 46818,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/660478961",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "660478961",
+        "note": null
+      }
+    },
+    {
+      "original_file": "vitelline_masked_weaver_vimwea1_85132571.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940461/bird-gallery/vitelline_masked_weaver_vimwea1/macaulay/vitelline_masked_weaver_vimwea1_85132571.jpg",
+      "public_id": "bird-gallery/vitelline_masked_weaver_vimwea1/macaulay/vitelline_masked_weaver_vimwea1_85132571",
+      "width": 1200,
+      "height": 900,
+      "format": "jpg",
+      "bytes": 98528,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/85132571",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "85132571",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "vitelline_masked_weaver_vimwea1_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940462/bird-gallery/vitelline_masked_weaver_vimwea1/inaturalist/vitelline_masked_weaver_vimwea1_1.jpg",
+      "public_id": "bird-gallery/vitelline_masked_weaver_vimwea1/inaturalist/vitelline_masked_weaver_vimwea1_1",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 85045,
+      "attribution": {
+        "photographer": "ccfisher",
+        "photographer_url": "https://www.inaturalist.org/observations/336654669",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© ccfisher (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 336654669,
+        "note": null
+      }
+    },
+    {
+      "original_file": "vitelline_masked_weaver_vimwea1_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940463/bird-gallery/vitelline_masked_weaver_vimwea1/inaturalist/vitelline_masked_weaver_vimwea1_2.jpg",
+      "public_id": "bird-gallery/vitelline_masked_weaver_vimwea1/inaturalist/vitelline_masked_weaver_vimwea1_2",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 110184,
+      "attribution": {
+        "photographer": "matthieu_gauvain",
+        "photographer_url": "https://www.inaturalist.org/observations/28627029",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© matthieu_gauvain (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 28627029,
+        "note": null
+      }
+    },
+    {
+      "original_file": "vitelline_masked_weaver_vimwea1_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1793940464/bird-gallery/vitelline_masked_weaver_vimwea1/inaturalist/vitelline_masked_weaver_vimwea1_3.jpg",
+      "public_id": "bird-gallery/vitelline_masked_weaver_vimwea1/inaturalist/vitelline_masked_weaver_vimwea1_3",
+      "width": 971,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 144746,
+      "attribution": {
+        "photographer": "jkn",
+        "photographer_url": "https://www.inaturalist.org/observations/49256398",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© jkn (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 49256398,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": []
+}

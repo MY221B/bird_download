@@ -1,0 +1,3 @@
+{
+  "install": "python3 -m pip install -e 'packages/bird_photo_qa[detect]'"
+}

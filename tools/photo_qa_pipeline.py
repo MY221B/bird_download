@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """鸟类图片质检、删除未通过图、不足 3 张时补下。
 
-依赖 taiwan_bird_web 的 bird-photo-qa。默认用其 .venv-bioclip 跑检测。
+依赖本仓库 packages/bird_photo_qa。本机若还留着 taiwan_bird_web 的 bioclip 环境，检测会优先用它。
 """
 
 from __future__ import annotations
@@ -16,8 +16,9 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_QA_PYTHON = Path("/Users/my/代码/taiwan_bird_web/.venv-bioclip/bin/python")
-DEFAULT_QA_SRC = Path("/Users/my/代码/taiwan_bird_web/packages/bird_photo_qa/src")
+IN_REPO_QA_SRC = PROJECT_ROOT / "packages" / "bird_photo_qa" / "src"
+MAC_QA_PYTHON = Path("/Users/my/代码/taiwan_bird_web/.venv-bioclip/bin/python")
+MAC_QA_SRC = Path("/Users/my/代码/taiwan_bird_web/packages/bird_photo_qa/src")
 OUT_DIR = PROJECT_ROOT / "tmp" / "photo_qa"
 CACHE_DIR = OUT_DIR / "detect_cache"
 REJECTED_FILE = OUT_DIR / "rejected_files.txt"
@@ -32,11 +33,17 @@ HOST_PYTHON = os.environ.get("BIRD_DOWNLOAD_PYTHON", sys.executable)
 
 
 def qa_python() -> Path:
-    return Path(os.environ.get("BIRD_PHOTO_QA_PYTHON", str(DEFAULT_QA_PYTHON)))
+    return Path(os.environ.get("BIRD_PHOTO_QA_PYTHON", str(MAC_QA_PYTHON)))
 
 
 def qa_src() -> Path:
-    return Path(os.environ.get("BIRD_PHOTO_QA_SRC", str(DEFAULT_QA_SRC)))
+    override = os.environ.get("BIRD_PHOTO_QA_SRC")
+    if override:
+        return Path(override)
+    package_init = IN_REPO_QA_SRC / "bird_photo_qa" / "__init__.py"
+    if package_init.is_file():
+        return IN_REPO_QA_SRC
+    return MAC_QA_SRC
 
 
 def ensure_qa_interpreter() -> None:
@@ -275,7 +282,10 @@ def resolve_file(rec: dict) -> Path | None:
 def score_images(recs: list[dict], results_path: Path) -> dict[str, dict]:
     evaluate_image, detector_available = load_bird_photo_qa()
     if not detector_available():
-        raise SystemExit("bird-photo-qa 检测器不可用：请用 taiwan_bird_web/.venv-bioclip/bin/python 运行")
+        raise SystemExit(
+            "bird-photo-qa 检测器不可用：请先安装 torch，"
+            "pip install -e 'packages/bird_photo_qa[detect]'"
+        )
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     results_path.parent.mkdir(parents=True, exist_ok=True)

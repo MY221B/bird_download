@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bird-photo-qa"
+version = "0.1.0"
+description = "Filter low-quality, tiny-subject, blurry, museum-specimen, and iNaturalist-annotated-dead bird photos."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "numpy>=1.24",
+    "pillow>=10.0",
+]
+
+[project.optional-dependencies]
+detect = [
+    "torch>=2.1",
+    "torchvision>=0.16",
+]
+dev = [
+    "numpy>=1.24",
+    "pillow>=10.0",
+]
+
+[project.scripts]
+bird-photo-qa = "bird_photo_qa.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/MY221B/taiwan_bird_web"
+
+[tool.setuptools.packages.find]
+where = ["src"]

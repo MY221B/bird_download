@@ -67,5 +67,27 @@
   ],
   "birdphotos": [],
   "wikimedia": [],
-  "avibase": []
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "japanese_robin_504530101.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1794414301/bird-gallery/japanese_robin/sounds/japanese_robin_504530101.mp3",
+      "public_id": "bird-gallery/japanese_robin/sounds/japanese_robin_504530101",
+      "duration": 16.296,
+      "format": "mp3",
+      "bytes": 237260,
+      "bit_rate": 116475,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "504530101",
+        "asset_url": "https://macaulaylibrary.org/asset/504530101",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
 }

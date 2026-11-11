@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "spot_necked_babbler",
+    "chinese_name": "斑颈穗鹛",
+    "english_name": "Spot-necked Babbler",
+    "scientific_name": "Stachyris strialata"
+  },
+  "macaulay": [
+    {
+      "original_file": "spot_necked_babbler_191184581.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413813/bird-gallery/spot_necked_babbler/macaulay/spot_necked_babbler_191184581.jpg",
+      "public_id": "bird-gallery/spot_necked_babbler/macaulay/spot_necked_babbler_191184581",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 135068,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/191184581",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "191184581",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spot_necked_babbler_590580421.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413814/bird-gallery/spot_necked_babbler/macaulay/spot_necked_babbler_590580421.jpg",
+      "public_id": "bird-gallery/spot_necked_babbler/macaulay/spot_necked_babbler_590580421",
+      "width": 1200,
+      "height": 857,
+      "format": "jpg",
+      "bytes": 84933,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/590580421",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "590580421",
+        "note": null
+      }
+    },
+    {
+      "original_file": "spot_necked_babbler_609938487.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413815/bird-gallery/spot_necked_babbler/macaulay/spot_necked_babbler_609938487.jpg",
+      "public_id": "bird-gallery/spot_necked_babbler/macaulay/spot_necked_babbler_609938487",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 118551,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/609938487",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "609938487",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "spot_necked_babbler_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413816/bird-gallery/spot_necked_babbler/inaturalist/spot_necked_babbler_1.jpg",
+      "public_id": "bird-gallery/spot_necked_babbler/inaturalist/spot_necked_babbler_1",
+      "width": 1024,
+      "height": 748,
+      "format": "jpg",
+      "bytes": 93821,
+      "attribution": {
+        "photographer": "alexander_naumov",
+        "photographer_url": "https://www.inaturalist.org/observations/339209213",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© alexander_naumov (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 339209213,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spot_necked_babbler_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413817/bird-gallery/spot_necked_babbler/inaturalist/spot_necked_babbler_2.jpg",
+      "public_id": "bird-gallery/spot_necked_babbler/inaturalist/spot_necked_babbler_2",
+      "width": 1024,
+      "height": 597,
+      "format": "jpg",
+      "bytes": 129635,
+      "attribution": {
+        "photographer": "gy007",
+        "photographer_url": "https://www.inaturalist.org/observations/101621623",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© gy007 (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 101621623,
+        "note": null
+      }
+    },
+    {
+      "original_file": "spot_necked_babbler_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413817/bird-gallery/spot_necked_babbler/inaturalist/spot_necked_babbler_3.jpg",
+      "public_id": "bird-gallery/spot_necked_babbler/inaturalist/spot_necked_babbler_3",
+      "width": 1024,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 79930,
+      "attribution": {
+        "photographer": "mengshuai_ge",
+        "photographer_url": "https://www.inaturalist.org/observations/146808892",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© mengshuai_ge (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 146808892,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "spot_necked_babbler_113568.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1794414408/bird-gallery/spot_necked_babbler/sounds/spot_necked_babbler_113568.mp3",
+      "public_id": "bird-gallery/spot_necked_babbler/sounds/spot_necked_babbler_113568",
+      "duration": 86.376,
+      "format": "mp3",
+      "bytes": 1212908,
+      "bit_rate": 112337,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "113568",
+        "asset_url": "https://macaulaylibrary.org/asset/113568",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

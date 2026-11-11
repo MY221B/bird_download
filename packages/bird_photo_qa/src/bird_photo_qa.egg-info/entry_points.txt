@@ -1,0 +1,2 @@
+[console_scripts]
+bird-photo-qa = bird_photo_qa.cli:main

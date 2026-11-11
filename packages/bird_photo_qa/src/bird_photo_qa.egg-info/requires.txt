@@ -1,0 +1,10 @@
+numpy>=1.24
+pillow>=10.0
+
+[detect]
+torch>=2.1
+torchvision>=0.16
+
+[dev]
+numpy>=1.24
+pillow>=10.0

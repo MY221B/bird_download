@@ -1,0 +1,151 @@
+{
+  "bird_info": {
+    "slug": "robin_accentor",
+    "chinese_name": "鸲岩鹨",
+    "english_name": "Robin Accentor",
+    "scientific_name": "Prunella rubeculoides"
+  },
+  "macaulay": [
+    {
+      "original_file": "robin_accentor_191453441.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413818/bird-gallery/robin_accentor/macaulay/robin_accentor_191453441.jpg",
+      "public_id": "bird-gallery/robin_accentor/macaulay/robin_accentor_191453441",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 53786,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/191453441",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "191453441",
+        "note": null
+      }
+    },
+    {
+      "original_file": "robin_accentor_482782601.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413819/bird-gallery/robin_accentor/macaulay/robin_accentor_482782601.jpg",
+      "public_id": "bird-gallery/robin_accentor/macaulay/robin_accentor_482782601",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 106637,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/482782601",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "482782601",
+        "note": null
+      }
+    },
+    {
+      "original_file": "robin_accentor_622128168.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413820/bird-gallery/robin_accentor/macaulay/robin_accentor_622128168.jpg",
+      "public_id": "bird-gallery/robin_accentor/macaulay/robin_accentor_622128168",
+      "width": 1200,
+      "height": 822,
+      "format": "jpg",
+      "bytes": 82904,
+      "attribution": {
+        "photographer": null,
+        "photographer_url": "https://macaulaylibrary.org/asset/622128168",
+        "license": null,
+        "license_url": null,
+        "credit_format": null,
+        "source": "macaulay",
+        "source_id": "622128168",
+        "note": null
+      }
+    }
+  ],
+  "inaturalist": [
+    {
+      "original_file": "robin_accentor_1.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413822/bird-gallery/robin_accentor/inaturalist/robin_accentor_1.jpg",
+      "public_id": "bird-gallery/robin_accentor/inaturalist/robin_accentor_1",
+      "width": 1024,
+      "height": 768,
+      "format": "jpg",
+      "bytes": 77155,
+      "attribution": {
+        "photographer": "knomealone",
+        "photographer_url": "https://www.inaturalist.org/observations/83648523",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© knomealone (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 83648523,
+        "note": null
+      }
+    },
+    {
+      "original_file": "robin_accentor_2.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413823/bird-gallery/robin_accentor/inaturalist/robin_accentor_2.jpg",
+      "public_id": "bird-gallery/robin_accentor/inaturalist/robin_accentor_2",
+      "width": 646,
+      "height": 722,
+      "format": "jpg",
+      "bytes": 22949,
+      "attribution": {
+        "photographer": "sajeekongsuwan",
+        "photographer_url": "https://www.inaturalist.org/observations/193289942",
+        "license": "cc-by-nc",
+        "license_url": null,
+        "credit_format": "© sajeekongsuwan (via iNaturalist), some rights reserved (CC-BY-NC)",
+        "source": "inaturalist",
+        "source_id": 193289942,
+        "note": null
+      }
+    },
+    {
+      "original_file": "robin_accentor_3.jpg",
+      "url": "https://res.cloudinary.com/dunr50niz/image/upload/v1794413824/bird-gallery/robin_accentor/inaturalist/robin_accentor_3.jpg",
+      "public_id": "bird-gallery/robin_accentor/inaturalist/robin_accentor_3",
+      "width": 577,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 30779,
+      "attribution": {
+        "photographer": "cedric_cabrera",
+        "photographer_url": "https://www.inaturalist.org/observations/245622229",
+        "license": "all-rights-reserved",
+        "license_url": null,
+        "credit_format": "© cedric_cabrera (via iNaturalist), All Rights Reserved",
+        "source": "inaturalist",
+        "source_id": 245622229,
+        "note": null
+      }
+    }
+  ],
+  "birdphotos": [],
+  "wikimedia": [],
+  "avibase": [],
+  "sounds": [
+    {
+      "original_file": "robin_accentor_637263210.mp3",
+      "url": "https://res.cloudinary.com/dunr50niz/video/upload/v1794414403/bird-gallery/robin_accentor/sounds/robin_accentor_637263210.mp3",
+      "public_id": "bird-gallery/robin_accentor/sounds/robin_accentor_637263210",
+      "duration": 43.104,
+      "format": "mp3",
+      "bytes": 974060,
+      "bit_rate": 180783,
+      "audio_codec": "mp3",
+      "audio_frequency": 48000,
+      "attribution": {
+        "recordist": "Unknown",
+        "source": "macaulay",
+        "source_id": "637263210",
+        "asset_url": "https://macaulaylibrary.org/asset/637263210",
+        "license": "© Cornell Lab of Ornithology (non-commercial use)",
+        "license_url": "https://support.ebird.org/en/support/solutions/articles/48001064570",
+        "note": null
+      }
+    }
+  ]
+}

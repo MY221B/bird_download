@@ -1,0 +1,179 @@
+Metadata-Version: 2.4
+Name: bird-photo-qa
+Version: 0.1.0
+Summary: Filter low-quality, tiny-subject, blurry, museum-specimen, and iNaturalist-annotated-dead bird photos.
+License: MIT
+Project-URL: Homepage, https://github.com/MY221B/taiwan_bird_web
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.24
+Requires-Dist: pillow>=10.0
+Provides-Extra: detect
+Requires-Dist: torch>=2.1; extra == "detect"
+Requires-Dist: torchvision>=0.16; extra == "detect"
+Provides-Extra: dev
+Requires-Dist: numpy>=1.24; extra == "dev"
+Requires-Dist: pillow>=10.0; extra == "dev"
+
+# bird-photo-qa
+
+可复用的鸟类照片质量过滤包。从台湾鸟类审查项目里抽出来：只认物种不够，还要丢掉主体太小、糊、人比鸟大、博物馆研究皮。
+
+这份目录放在 `bird_download` 里，单仓库云端环境不用再挂 `taiwan_bird_web` 就能安装。上游仍是 [MY221B/taiwan_bird_web](https://github.com/MY221B/taiwan_bird_web/tree/main/packages/bird_photo_qa)。下文提到的 `tools/requalify_*.py`、`tools/bird_id.py` 和 `.venv-bioclip` 属于上游仓库。
+
+## 安装
+
+```bash
+# 只要标本 / 文件名规则（numpy + Pillow）
+pip install -e packages/bird_photo_qa
+
+# 还要主体检测、模糊、人景（Faster R-CNN）
+pip install -e 'packages/bird_photo_qa[detect]'
+```
+
+不安装也可以：把 `packages/bird_photo_qa` 整个目录拷到别的项目，把 `src` 加进 `PYTHONPATH`。
+
+```python
+from pathlib import Path
+from bird_photo_qa import evaluate_image
+
+result = evaluate_image(
+    Path("photo.jpg"),
+    source="gbif",
+    source_url="https://api.unimus.no/...",
+)
+if not result.keep:
+    print(result.reasons)  # ['specimen_museum_source', 'inat_annotated_dead', ...]
+```
+
+命令行：
+
+```bash
+python -m bird_photo_qa photo.jpg --url 'https://medialib.naturalis.nl/file/id/1.jpg'
+python -m bird_photo_qa photo.jpg --no-quality --source macaulay   # 只做标本关
+python -m bird_photo_qa photo.jpg --no-quality --no-specimen --alive-or-dead dead
+python -m bird_photo_qa a.jpg b.jpg --json
+```
+
+## 为什么要这些关
+
+第一次预审批只用 BioCLIP：识别成功、像鸟、目标种/种加词/同属出现在 Top-k。人工打掉的低质图里，中位置信度约 0.92，多数其实认对了。能过关是因为标准不含画质。
+
+后面几关都偏保守，优先少误伤已留下的图。
+
+## 关卡一览
+
+| 顺序 | 原因代码 | 做什么 | 默认阈值 | 依赖 |
+|---|---|---|---|---|
+| 下载时 | 文件名 | Wikimedia 文件名含 map / diagram / specimen / egg 等 | `NON_PHOTO_FILENAME_RE` | 无 |
+| 1 | `id_no_animal` / `id_not_bird` / `id_mismatch` | 识鸟：不是鸟，或目标种不在放宽 Top-k | **Top-2** | 你自己的分类器 |
+| 2 | `quality_no_bird_box` | Faster R-CNN 检测不到鸟 | 置信度 ≥ 0.25 | torch |
+| 3 | `quality_small_bird` | 最大鸟框占画面太小 | **≤ 2.5%** | torch |
+| 4 | `quality_blur_subject` | 主体裁切 Laplacian 方差太低 | **< 70** | torch |
+| 5 | `quality_blur_spectrum` | 主体频谱中频/高频比太高（失焦放大） | **≥ 8** | torch |
+| 6 | `quality_people_scene` | 人比鸟大，且人数够多 | 人数 ≥ 3 且人框 > 鸟框 | torch |
+| 7 | `specimen_museum_source` | 图片 URL / 署名是博物馆影像库 | 见下方域名表 | 无 |
+| 8 | `specimen_color_card` | 灰白黑棚拍底 **且** 有校准色卡 | 色相桶 ≥ 8 | numpy + Pillow |
+| 9 | `inat_annotated_dead` | iNaturalist 观察标注 **Alive or Dead = Dead** | term 17 / value 19 | 无（需 API 或已给 annotation） |
+
+空的 `reasons` 表示通过。检测器失败时画质关**不丢**（避免没装 torch 就清空库）。
+
+## 各关说明
+
+### 1. 物种识别（可选，需自备模型）
+
+本包不内置 BioCLIP。把分类器的 Top 列表自己判完 `relaxed_rank` 后调用：
+
+```python
+from bird_photo_qa import id_fail_reason
+
+reason = id_fail_reason(
+    ok=True,
+    looks_like_bird=True,
+    relaxed_rank=2,   # 1-based；目标种/种加词/近缘属第一次出现的位置
+    relaxed_top_k=2,
+)
+```
+
+本仓库完整实现在 `tools/bird_id.py`（懂鸟 API / BioCLIP）。经验：Top-5 太松，默认改成 **Top-2**。
+
+### 2–3. 检测不到鸟 / 主体太小
+
+全局锐度分不开「鸟是小黑点」和「噪点很多」。用 COCO 鸟类框：
+
+- 人工待删除主体中位约占 **3.8%**，留下的约占 **30%**
+- 默认只丢掉最大鸟框 **≤ 2.5%** 的图（`bird_max <= 0.025`），避免远距但主体仍清楚的照片被误伤
+
+### 4–5. 模糊
+
+Laplacian 对**均匀失焦**有效。数码放大后的糊图会带颗粒，Laplacian 反而升高。沙丘鹤一张待删除：主体 38%、`crop_lap=189`（过关），`crop_fft=9.91`（同种留下的图最高 5.88）。
+
+所以两条一起用：
+
+- `crop_lap < 70` → `quality_blur_subject`
+- `crop_fft >= 8` → `quality_blur_spectrum`（在检测框裁切上算，不是整张图）
+
+### 6. 人比鸟大
+
+游客照、观鸟点人群。默认至少 3 个人，且最大人框大于最大鸟框。
+
+### 7–8. 博物馆标本
+
+能稳定抓住**研究皮 / 带色卡的棚拍标本**。野外死鸟不靠画面猜。
+
+蓝胸鹑 4 张人工待删除：
+
+- 3 张奥斯陆研究皮：`unimus.no` + QPcard + 灰底 → 域名和色卡都能抓
+- 1 张草丛里趴着的鸟：iNaturalist 标成 **Alive** → 标本关和 Dead 标注关都抓不到
+
+博物馆域名用**完整后缀**，避免 `naturalis.nl` 误伤 `inaturalist.org`。
+
+色卡关必须同时满足：局部高饱和色相桶 ≥ 8，四角接近灰/白/黑。彩色活鸟 + 虚化绿背景（蜂虎一类）不算。`source=macaulay` 默认跳过视觉标本关。
+
+下载阶段还可以用 `is_non_photo_filename()` 丢掉分布图、骨骼图、蛋图。
+
+### 9. iNaturalist Dead 标注
+
+只认官方 annotation，不猜像素。term **17** = Alive or Dead；value **19** = Dead，**18** = Alive。未标注或 Cannot Be Determined（20）都留下。
+
+本仓库 `tools/requalify_dead.py` 从候选图的 `source_url` 抽出 observation id，批量查 API，缓存到 `data/id_cache/inat_obs/`。没有 `/observations/{id}` 的图（例如部分 GBIF 转的 `/photos/{id}`）本轮跳过。下载时 `fetch_inaturalist` 也会跳过已标 Dead 的观察。
+
+```python
+from bird_photo_qa import evaluate_image
+
+result = evaluate_image(path, annotations=obs["annotations"])
+# 或已解析好状态：
+result = evaluate_image(path, alive_or_dead="dead")
+```
+
+## 默认阈值从哪来
+
+都在台湾鸟种可商用候选上标定，换数据集建议先 dry-run：
+
+| 指标 | 来源 |
+|---|---|
+| `min_bird_frac=0.025` | 只过滤主体 ≤ 2.5% 的图；多项目共用时优先少误伤 |
+| `min_crop_lap=70` / `max_crop_fft=8` | 沙丘鹤失焦放大图 vs 同种留下图 |
+| 博物馆域名表 | GBIF 剩余非 iNat 宿主抽样 |
+| 色卡 + 灰底 | 奥斯陆研究皮；用蜂虎 Macaulay 图防误伤 |
+
+## 做不到的
+
+- 未标注、标 Alive、或标 Cannot Be Determined 的野外死鸟 / 伤鸟 / 手握活鸟（环志）
+- 装在栖木上的老式剥制，没有色卡、URL 也不是博物馆 CDN
+- 分类器没给出的错误物种（那是识别问题，用关卡 1）
+- 只有 GBIF `/photos/{id}`、没有 iNaturalist observation 页的图（本轮不查 photo_id）
+
+## 在本仓库里怎么跑
+
+```bash
+.venv-bioclip/bin/python tools/test_image_quality.py
+.venv-bioclip/bin/python tools/test_specimen_filter.py
+PYTHONPATH=packages/bird_photo_qa/src .venv-bioclip/bin/python -m unittest discover -s packages/bird_photo_qa/tests -v
+
+.venv-bioclip/bin/python tools/requalify_candidates.py --dry-run
+.venv-bioclip/bin/python tools/requalify_specimens.py --dry-run
+.venv-bioclip/bin/python tools/requalify_dead.py --dry-run
+```
+
+给别的项目：装包，对每张图调 `evaluate_image()`，按 `result.reasons` 决定隔离或删除。隔离逻辑（挪到 quarantine、写 metadata）留在各项目自己做。
